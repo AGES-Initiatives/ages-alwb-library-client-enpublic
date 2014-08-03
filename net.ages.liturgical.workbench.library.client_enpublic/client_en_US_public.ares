@@ -1,0 +1,146 @@
+A_Resource_Whose_Name = client_en_US_public
+
+cl.name = ""
+cl.address = ""
+cl.city = ""
+cl.state = ""
+cl.zipcode = ""
+
+cl.bishop0.rank = "" //the superior of the local hierarch
+cl.bishop0.name_c = "" //comma
+cl.bishop0.name_p = "" //period
+cl.bishop0.fimi.text = ""
+
+cl.bishop1.rank = "(episcopal rank)"
+cl.bishop1.name_c = "(name)," //comma
+cl.bishop1.name_p = "(name)." //period
+cl.bishop1.fimi.text = "(The text of the appropriate episcopal anthem goes here.)"
+
+cl.bishop2.rank = "" // for double commemoration or guest
+cl.bishop2.name_c = ""
+cl.bishop2.name_p = ""
+cl.bishop2.fimi.text = ""
+
+cl.localpatronsaint1.supplication = "(local patron saint);"
+cl.localpatronsaint1.dismissal = "(local patron saint);"
+cl.localpatronsaint1.greatcompline = "(local patron saint), intercede for us sinners."
+
+cl.Apolytikion1.title = "For the Parish Church"
+cl.Apolytikion1.mode  = ""
+cl.Apolytikion1.melody  = ""
+cl.Apolytikion1.text = "(The text of the hymn for the local church goes here.)"
+
+cl.consecration.name = "(name of the church being consecrated);"
+
+cl.relics.saint1 = ""
+cl.relics.saint1.Apolytikion.title = ""
+cl.relics.saint1.Apolytikion.mode  = ""
+cl.relics.saint1.Apolytikion.melody  = ""
+cl.relics.saint1.Apolytikion.text  = ""
+
+cl.relics.saint2 = ""
+cl.relics.saint2.Apolytikion.title = ""
+cl.relics.saint2.Apolytikion.mode  = ""
+cl.relics.saint2.Apolytikion.melody  = ""
+cl.relics.saint2.Apolytikion.text  = ""
+
+cl.relics.saint3 = ""
+cl.relics.saint3.Apolytikion.title = ""
+cl.relics.saint3.Apolytikion.mode  = ""
+cl.relics.saint3.Apolytikion.melody  = ""
+cl.relics.saint3.Apolytikion.text  = ""
+
+//Rubrics
+cl.eu.lichrysbasil.R001 = "(The designated verses from the Psalms are sung with the hymn:)"
+cl.eu.lichrysbasil.R002 = "(The designated verses from the Psalms are sung with the hymn:)"
+cl.eu.lichrysbasil.R003 = "(On weekdays we sing: (\"who are wondrous in the saints\"; the Feasts of the Lord have their own refrain.)"
+cl.eu.lichrysbasil.R004 = "(The designated verses of the Psalms are sung with the Apolytikion.)"
+cl.eu.lichrysbasil.R005 = "(While the Apolytikion is sung, the priest carrying the holy Gospel Book comes in procession before the Beautiful Gate of the ikonostasis offering in a low voice the following prayer:)"
+cl.eu.lichrysbasil.R006 = "(On weekdays we sing: (\"who are wondrous in the saints\"), while the Feasts of the Lord have their own Entrance Hymns.)"
+cl.eu.lichrysbasil.R007 = "(The priest enters the sanctuary. The Apolytikion is repeated and the Troparion of the church and the Kontakion of the day are sung.)"
+cl.eu.lichrysbasil.R008 = "(The Reader reads the verses from the Psalms.)"
+cl.eu.lichrysbasil.R009 = "The reading is from (the name of the book of the New Testament from which the Apostolic reading is taken)."
+cl.eu.lichrysbasil.R010 = "(The Reader reads the designated Apostolic pericope.)"
+cl.eu.lichrysbasil.R011 = "The reading is from the Holy Gospel according to (Name). Let us be attentive."
+cl.eu.lichrysbasil.R012 = "(The Deacon reads the designated pericope of the holy Gospel.)"
+cl.eu.lichrysbasil.R013 = "(Following the readings, it is customary for the priest to preach the sermon.)"
+cl.eu.lichrysbasil.R014 = "(The Communion Hymn changes according to the Feast Day.)"
+
+cl.ho.s23.R001 = "In many monasteries and churches, the Canon of the Paraklesis is chanted without the Heirmoi (except perhaps in Ode ix of Small Paraklesis, in order to make an even number of troparia and thus to avoid repeating one.)"
+cl.ho.s23.R002 = "(The Heirmos may be omitted.)"
+
+cl.hw.synaxarion.rubric  = ""
+
+cl.me.m06.d29.R001 = "Use the verses in the text if they differ from those in the scores."
+cl.me.m08.d25.R001 = "Use the verses in the text if they differ from those in the scores."
+cl.me.m08.d31.R001 = "Use the verses in the text if they differ from those in the scores."
+cl.me.m09.d01.R001 = "There are a number of options for the content of the services for September 1. The Patriarchal Hemerologion, which we aspire to follow, describes the Patriarchate's added special commemorations of an Icon of the Theotokos as well as the Environment, and then indicates that, presumably for the rest of us, the service should be celebrated according to the Menaion."
+//Sep. 14
+cl.me.m09.d14.R001 = "The Doxology follows immediately."
+cl.me.m09.d14.R002 = "(Mode 2 is preferred for today.)"
+cl.me.m09.d14.R003 = "If  the Service of the Elevation of the Cross will occur at the end of Liturgy then sing the following. Otherwise, see below."
+cl.me.m09.d14.R004 = "Special Service of the Elevation"
+cl.me.m09.d14.R005 = "(The procession with the cross takes place during singing of the Asmatic Holy God.)"
+cl.me.m09.d14.R006 = "For each petition, the choir sings \"Lord, have mercy,\" 3-10-3 times."
+cl.me.m09.d14.R007 = "(As the people venerate the cross, sing the following hymn:)"
+
+// Nov. 14
+cl.me.m11.d14.R001 = "The rubrics for this day say to sing the Kathismata of the Mode and day of the week from the Parakletike (Octoechos). Since most parishes are not familiar with these hymns, and since they change from year to year, we have not included them here."
+cl.me.m11.d14.R002 = "The rubrics for this day say to sing the Heirmoi of Odes 3, 6, 8, and 9 of the Canon of the Menaion. Most parishes would not be familiar with this, so we have inserted Katavasias instead."
+
+cl.pe.d073thru077.R001 = "Use the verses in the text if they differ from those in the scores."
+cl.pe.d078.R001 = "According to the Patriarchal Hemerologion:"
+cl.pe.d078.R002 = "According to common practice:"
+
+//Pentecost Soul Saturday
+cl.pe.d119.R001 = "The Patriarchal Typikon indicates, as usual, that the entire canon be sung. Typically in parishes only the Katavasias are used. This day does not present festal Katavasias, but rather the Heirmoi of the canon are used, which thematically have nothing to do with the Saturday of the Souls. I have therefore included Ode ix in its entirety, edited for the enrichment and edification of both chanters and listeners. Since Saturday of the Souls is not a great feast, Ode ix is, as usual, preceded by the Magnificat."
+
+//Service Books
+cl.sb.vo.sun.R001 = "(Go to insert: Vespers Stichera)"
+cl.sb.vo.sun.R002 = "(Return to booklet: Entrance)"
+cl.sb.vo.sun.R003 = "(Go to insert: Readings)"
+cl.sb.vo.sun.R004 = "(Return to booklet: Litanies)"
+cl.sb.vo.sun.R005 = "(Go to insert: Aposticha)"
+cl.sb.vo.sun.R006 = "(Return to booklet: Prayer of St. Symeon)"
+cl.sb.vo.sun.R007 = "(Go to insert: Apolytikia)"
+cl.sb.vo.sun.R008 = "(Return to booklet: Dismissal)"
+
+//Lent Soul Saturday
+cl.tr.d014.R001 = "The Patriarchal Typikon indicates, as usual, that the entire canon be sung. Typically in parishes only the Katavasias are chanted. This day does not present normal Katavasias, and the Heirmoi/Katavasias of the canon are so obscure that most of them do not appear in the published Heirmologia. Therefore, rather than present the texts of those Heirmoi, which thematically have nothing to do with the Saturday of the Souls, I have chosen instead to present Ode ix in its entirety, edited for the enrichment and edification of both chanters and listeners. Since Saturday of the Souls is not a great feast, Ode ix is, as usual, preceded by the Magnificat."
+cl.tr.d014.R002 = "Each of the next five troparia may be preceded by the verse: \"Glory to You, our God, glory to You.\""
+
+//Lent Cheese Saturday
+cl.tr.d021.R001 = "The Patriarchal Typikon indicates, as usual, that the entire canon be sung. Typically in parishes only the Katavasias are chanted. This day does not present normal Katavasias, but rather Heirmoi chanted again at the end of each ode as Katavasias. These Heirmoi thematically have nothing to do with today's commemoration of the Ascetic Fathers, so I have chosen instead to present Ode ix in its entirety, for the enrichment and edification of both chanters and listeners. Since this Saturday of Cheesefare week is not a great feast, Ode ix is, as usual, preceded by the Magnificat."
+
+//Lent 3
+cl.tr.d043.R001 = "As the choirs sing the Holy God for the Great Doxology, the priest processes to the solea or around the nave of the church holding the tray with the cross. On the solea he circles the table three times before placing it on the table. When the Doxology is finished, he says:"
+cl.tr.d043.R002 = "The  clergy venerate the cross first, followed by the faithful. While they are venerating, the following Idiomela may be chanted."
+cl.tr.d043.R003 = "When the veneration is finished, the priest returns the cross to the holy altar."
+
+cl.tr.d069.ma.R001  = ""
+cl.tr.d069.gh.R001  = ""
+cl.tr.d069.gh.R002  = ""
+
+cl.tr.d070.R301 = "The clergy come out of the sanctuary and stand in front of the Epitaphion, censing and beginning each stanza."
+cl.tr.d070.R302 = "(End with the first one again.)"
+cl.tr.d070.R303 = "Repeat the following verse several times, as the priest sprinkles the tomb and the people."
+cl.tr.d070.R304 = "The procession of the canopied Epitaphion around the Sanctuary takes place."
+cl.tr.d070.R305 = "As the Clergy with the canopied Epitaphion enter the Sanctuary:"
+
+cl.tr.d071.mo.R701 = "The Synaxarion from the Menaion is read here, so that at Matins only the Synaxarion for Pascha will be read."
+
+//keys for merged media files
+cl.tr.d065.ma.mergedscore.text = "Bridegroom Service on Sunday Evening "
+cl.tr.d066.ma.mergedscore.text = "Bridegroom Service on Monday Evening "
+cl.tr.d067.ma.mergedscore.text = "Bridegroom Service on Tuesday Evening"
+cl.tr.d068.ma.mergedscore.text = "Bridegroom Service on Wednesday Evening "
+cl.tr.d069.vl.mergedscore.text = "Vesperal Liturgy on Thursday Morning"
+cl.tr.d069.ma.mergedscore.text = "Twelve Passion Gospels on Thursday Evening"
+cl.tr.d069.gh.mergedscore.text = "Great Hours on Friday Morning"
+cl.tr.d070.ve.mergedscore.text = "Removal from the Cross on Friday Afternoon"
+cl.tr.d070.ma.mergedscore.text = "Graveside Lamentation on Friday Evening"
+cl.tr.d071.vl.mergedscore.text = "Vesperal Liturgy on Saturday Morning"
+cl.pe.d071.ma.mergedscore.text = "Resurrection and Matins of Pascha"
+cl.pe.d071.li.mergedscore.text = "Divine Liturgy of Pascha"
+cl.pe.d072.ve.mergedscore.text = "Agape Vespers"
+

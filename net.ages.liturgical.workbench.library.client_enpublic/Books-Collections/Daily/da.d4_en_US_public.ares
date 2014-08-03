@@ -1,0 +1,36 @@
+A_Resource_Whose_Name = da.d4_en_US_public
+
+daDay.text = da.d4_en_US_dedes.daDay.text
+daCommemoration.text = da.d4_en_US_dedes.daCommemoration.text
+
+daVE.OnTheEveningBefore = da.d4_en_US_dedes.daVE.OnTheEveningBefore
+
+daVE.Apolytikion1.mode = da.d4_en_US_dedes.daVE.Apolytikion1.mode
+daVE.Apolytikion1.melody = da.d4_en_US_dedes.daVE.Apolytikion1.melody
+daVE.Apolytikion1.text = da.d4_en_US_dedes.daVE.Apolytikion1.text
+
+daVE.ApolTheotokion.mode = da.d4_en_US_dedes.daVE.ApolTheotokion.mode
+daVE.ApolTheotokion.melody = da.d4_en_US_dedes.daVE.ApolTheotokion.melody
+daVE.ApolTheotokion.text = da.d4_en_US_dedes.daVE.ApolTheotokion.text
+
+daMA.Triadic1Ending.text = da.d4_en_US_dedes.daMA.Triadic1Ending.text
+daMA.Triadic2Ending.text = da.d4_en_US_dedes.daMA.Triadic2Ending.text
+daMA.Triadic3Ending.text = da.d4_en_US_dedes.daMA.Triadic3Ending.text
+
+daMA.Photagogic1Ending.text = da.d4_en_US_dedes.daMA.Photagogic1Ending.text
+daMA.Photagogic2Ending.text = da.d4_en_US_dedes.daMA.Photagogic2Ending.text
+daMA.Photagogic3Ending.text = da.d4_en_US_dedes.daMA.Photagogic3Ending.text
+
+daMA.Photagogic1Beginning.text = da.d4_en_US_dedes.daMA.Photagogic1Beginning.text
+daMA.Photagogic2Beginning.text = da.d4_en_US_dedes.daMA.Photagogic2Beginning.text
+daMA.Photagogic3Beginning.text = da.d4_en_US_dedes.daMA.Photagogic3Beginning.text
+
+daMA.Exaposteilarion1.mode = da.d4_en_US_dedes.daMA.Exaposteilarion1.mode
+daMA.Exaposteilarion1.melody = da.d4_en_US_dedes.daMA.Exaposteilarion1.melody
+daMA.Exaposteilarion1.text = da.d4_en_US_dedes.daMA.Exaposteilarion1.text
+
+daMA.ExapTheotokion.mode = da.d4_en_US_dedes.daMA.ExapTheotokion.mode
+daMA.ExapTheotokion.melody = da.d4_en_US_dedes.daMA.ExapTheotokion.melody
+daMA.ExapTheotokion.text = da.d4_en_US_dedes.daMA.ExapTheotokion.text
+
+daLI.CommunionHymn.text = da.d4_en_US_dedes.daLI.CommunionHymn.text

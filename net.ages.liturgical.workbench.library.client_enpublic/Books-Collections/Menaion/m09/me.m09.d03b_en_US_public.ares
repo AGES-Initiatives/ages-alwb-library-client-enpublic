@@ -1,0 +1,30 @@
+A_Resource_Whose_Name = me.m09.d03b_en_US_public 
+
+meDate.text = "September 3" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = "" //full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "" //for use in petitions and dismissal
+meInsert2 = "" //for use in petitions and dismissal
+meNote.text = ""
+
+meVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
+meVE.Apolytikion1.melody = he.a.m1_en_US_dedes.TisErimouPolitis.name
+meVE.Apolytikion1.text = "As we joyfully commemorate the welcome arrival of your sacred Relics, holy Hierarch Nektarios, we call upon the grace of God in you, which sanctifies our bodies and our souls. You alleviate our suffering and you cure the illnesses afflicting us. Glory to Christ, who glorified you! Glory to Him for your miracles! Glory to Him for all the cures that He works through you."
+
+meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode4
+meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.text = me.m09.d08_en_US_dedes.meMA.Kontakion1.text
+
+meLI.Alleluia.mode  = ""
+
+meLI.AlleluiaVerse1.source  = ""
+meLI.AlleluiaVerse1.text  = ""
+
+meLI.AlleluiaVerse2.source  = ""
+meLI.AlleluiaVerse2.text  = ""
+
+meLI.CommunionHymn.source = ""
+meLI.CommunionHymn.text = ""
+
+meMegalynarion.text = ""
+

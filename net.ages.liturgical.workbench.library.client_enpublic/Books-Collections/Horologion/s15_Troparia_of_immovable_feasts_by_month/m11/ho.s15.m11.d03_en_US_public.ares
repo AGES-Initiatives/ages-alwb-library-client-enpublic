@@ -1,0 +1,29 @@
+A_Resource_Whose_Name = ho.s15.m11.d03_en_US_public 
+
+// Resource for texts needed in ho.s15 templates that are not in Menaion
+// e.g. commemoration listings, notes, fasting rubrics, extra hymns
+
+ho.rank  = ""
+ho.number = "3."
+ho.commemorations = ""
+ho.note1  = ""
+ho.note2 = ""
+
+ho.Apolytikion1.title = "For St. George."
+ho.Apolytikion1.poet  = ""
+ho.Apolytikion1.mode = misc_en_US_public.Mode4
+ho.Apolytikion1.melody  = ""
+ho.Apolytikion1.text = me.m04.d23_en_US_public.meVE.Apolytikion1.text
+
+ho.Apolytikion2.title = titles_en_US_public.TonMartyron
+ho.Apolytikion2.poet  = ""
+ho.Apolytikion2.mode = misc_en_US_public.Mode4
+ho.Apolytikion2.melody = he.a.m4_en_US_public.TachyProkatalave.name
+ho.Apolytikion2.text = he.ga_en_US_public.OiMartyresSouKyrie.text
+
+ho.Apolytikion3.title = titles_en_US_public.Eteron
+ho.Apolytikion3.poet  = ""
+ho.Apolytikion3.mode = misc_en_US_public.Mode3
+ho.Apolytikion3.melody = he.a.m3_en_US_public.TheiasPisteos.name
+ho.Apolytikion3.text = ""
+

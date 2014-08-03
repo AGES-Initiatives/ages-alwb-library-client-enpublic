@@ -1,0 +1,250 @@
+A_Resource_Whose_Name = eu.consecration_en_US_public 
+
+euCON.Key1000.title = eu.consecration_en_US_dedes.euCON.Key1000.title
+euCON.R100 = eu.consecration_en_US_dedes.euCON.R100
+euCON.Key1001.title = eu.consecration_en_US_dedes.euCON.Key1001.title
+euCON.Key1001.text = eu.consecration_en_US_dedes.euCON.Key1001.text
+euCON.Key1002.title = eu.consecration_en_US_dedes.euCON.Key1002.title
+euCON.Key1002.text = eu.consecration_en_US_dedes.euCON.Key1002.text
+euCON.R101 = eu.consecration_en_US_dedes.euCON.R101
+euCON.R102 = eu.consecration_en_US_dedes.euCON.R102
+euCON.Key1003.mode = misc_en_US_dedes.Mode6
+euCON.Key1003.text = eu.consecration_en_US_dedes.euCON.Key1003.text
+euCON.Key1004.mode = misc_en_US_dedes.Mode6
+euCON.Key1004.text = oc.m6.d5_en_US_dedes.ocVE.AposTheotokion.text
+
+euCON.Key2000.title = eu.consecration_en_US_dedes.euCON.Key2000.title
+
+euVE.Stichera01.mode = misc_en_US_dedes.Mode6
+euVE.Stichera01.melody = misc_en_US_dedes.Idiomelon
+euVE.Stichera01.text = me.m09.d13_en_US_dedes.meVE.Stichera01.text
+
+euVE.Stichera02.mode = misc_en_US_dedes.Mode6
+euVE.Stichera02.melody = misc_en_US_dedes.Idiomelon
+euVE.Stichera02.text = me.m09.d13_en_US_dedes.meVE.Stichera02.text
+
+euVE.Stichera03.poet = poets_en_US_dedes.Anatoliou
+euVE.Stichera03.mode = misc_en_US_dedes.Mode6
+euVE.Stichera03.melody = misc_en_US_dedes.Idiomelon
+euVE.Stichera03.text = me.m09.d13_en_US_dedes.meVE.Stichera03.text
+
+euVE.Stichera04.poet = poets_en_US_dedes.IoannouMonachou
+euVE.Stichera04.mode = misc_en_US_dedes.Mode6
+euVE.Stichera04.melody = misc_en_US_dedes.Idiomelon
+euVE.Stichera04.text = me.m09.d13_en_US_dedes.meVE.SticGlory.text
+
+euVE.SticBoth.poet = poets_en_US_dedes.Anatoliou
+euVE.SticBoth.mode = misc_en_US_dedes.Mode2
+euVE.SticBoth.melody = misc_en_US_dedes.Idiomelon
+euVE.SticBoth.text = me.m09.d13_en_US_dedes.meVE.AposGlory.text
+
+euVE.Aposticha1.poet = poets_en_US_dedes.IoannouMonachou
+euVE.Aposticha1.mode = misc_en_US_dedes.Mode1
+euVE.Aposticha1.melody = misc_en_US_dedes.Idiomelon
+euVE.Aposticha1.text = me.m09.d13_en_US_dedes.meMA.Lauds4.text
+
+euVE.Aposticha2.poet = poets_en_US_dedes.Anatoliou
+euVE.Aposticha2.mode = misc_en_US_dedes.Mode1
+euVE.Aposticha2.melody = misc_en_US_dedes.Idiomelon
+euVE.Aposticha2.text = me.m09.d13_en_US_dedes.meMA.Lauds5.text
+
+euVE.Aposticha3.poet = poets_en_US_dedes.IoannouMonachou
+euVE.Aposticha3.mode = misc_en_US_dedes.Mode1
+euVE.Aposticha3.melody = misc_en_US_dedes.Idiomelon
+euVE.Aposticha3.text = me.m09.d13_en_US_dedes.meMA.Lauds6.text
+
+euVE.AposGlory.mode = misc_en_US_dedes.Mode3
+euVE.AposGlory.melody = misc_en_US_dedes.Idiomelon
+euVE.AposGlory.text = me.m09.d13_en_US_dedes.meMA.LaudsGlory.text
+
+euVE.Apolytikion.mode = misc_en_US_dedes.Mode4
+euVE.Apolytikion.melody  = ""
+euVE.Apolytikion.text = me.m09.d13_en_US_dedes.meVE.Apolytikion1.text
+
+euCON.Key3000.title = eu.consecration_en_US_dedes.euCON.Key3000.title
+euMA.Kathisma11.mode = misc_en_US_dedes.Mode8
+euMA.Kathisma11.melody = he.a.m8_en_US_dedes.ToProstachthen.name
+euMA.Kathisma11.text = me.m09.d13_en_US_dedes.meMA.Ode3Kathisma1.text
+
+euMA.Kathisma21.mode = misc_en_US_dedes.Mode8
+euMA.Kathisma21.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+euMA.Kathisma21.text = eu.consecration_en_US_dedes.euMA.Kathisma21.text
+
+euMA.Kathisma31.mode = misc_en_US_dedes.Mode4
+euMA.Kathisma31.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+euMA.Kathisma31.text = eu.consecration_en_US_dedes.euMA.Kathisma31.text
+
+//Odes 1 and 3 from 09-13 Canon 2
+
+euMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode4
+euMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+euMA.Ode3Kathisma1.text = me.m09.d13_en_US_dedes.meMA.Kathisma11.text
+
+euMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode4
+euMA.Ode3KathismaT.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+euMA.Ode3KathismaT.text = me.m09.d13_en_US_dedes.meMA.Ode3KathismaT.text
+
+//Odes 4, 5, and 6 from 09-13 Canon 2
+
+euMA.Kontakion.mode = misc_en_US_dedes.Mode4
+euMA.Kontakion.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
+euMA.Kontakion.text = me.m09.d13_en_US_dedes.meMA.Kontakion1.text
+
+euMA.Oikos.text = me.m09.d13_en_US_dedes.meMA.Oikos1.text
+
+//Odes 7, 8, and 9 from 09-13 Canon 2
+
+euMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
+euMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+euMA.Exaposteilarion1.text = eu.consecration_en_US_dedes.euMA.Exaposteilarion1.text
+
+euMA.Lauds1.mode = misc_en_US_dedes.Mode4
+euMA.Lauds1.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+euMA.Lauds1.text = me.m09.d13_en_US_dedes.meMA.Lauds1.text
+
+euMA.Lauds2.mode = misc_en_US_dedes.Mode4
+euMA.Lauds2.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+euMA.Lauds2.text = me.m09.d13_en_US_dedes.meMA.Lauds2.text
+
+euMA.Lauds3.mode = misc_en_US_dedes.Mode4
+euMA.Lauds3.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+euMA.Lauds3.text = me.m09.d13_en_US_dedes.meMA.Lauds3.text
+
+euMA.LaudsBoth.mode = misc_en_US_dedes.Mode5
+euMA.LaudsBoth.melody = misc_en_US_dedes.Idiomelon
+euMA.LaudsBoth.text = me.m12.d09_en_US_dedes.meMA.LaudsGlory.text
+
+euCON.Key4000.title = eu.consecration_en_US_dedes.euCON.Key4000.title
+euCON.Key4101.text = prayers_en_US_dedes.enarxis02
+euCON.R410 = eu.consecration_en_US_dedes.euCON.R410
+euCON.Key4102.text = prayers_en_US_dedes.enarxis01
+//Litany
+euCON.R411 = eu.consecration_en_US_dedes.euCON.R411
+euCON.Key4104.text = eu.consecration_en_US_dedes.euCON.Key4104.text
+euCON.Key4105.text = eu.consecration_en_US_dedes.euCON.Key4105.text
+euCON.Key4106.text = eu.consecration_en_US_dedes.euCON.Key4106.text
+euCON.Key4107.text = eu.consecration_en_US_dedes.euCON.Key4107.text
+
+euCON.Key4200.title = eu.consecration_en_US_dedes.euCON.Key4200.title
+euCON.R420 = eu.consecration_en_US_dedes.euCON.R420
+euCON.R421 = eu.consecration_en_US_dedes.euCON.R421
+euCON.Key4201.mode = misc_en_US_dedes.Mode7
+euCON.Key4201.text = oc.m7.d3_en_US_dedes.ocVE.Aposticha3.text
+euCON.Key4202.mode = misc_en_US_dedes.Mode7
+euCON.Key4202.text = oc.m7.d2_en_US_dedes.ocVE.Aposticha3.text
+euCON.R422 = eu.consecration_en_US_dedes.euCON.R422
+euCON.Key4203.mode = misc_en_US_dedes.Mode1
+euCON.Key4203.melody = misc_en_US_dedes.Idiomelon
+euCON.Key4203.text = me.m09.d13_en_US_dedes.meMA.Lauds4.text
+euCON.Key4204.mode = misc_en_US_dedes.Mode1
+euCON.Key4204.melody = misc_en_US_dedes.Idiomelon
+euCON.Key4204.text = me.m09.d13_en_US_dedes.meMA.Lauds5.text
+euCON.Key4205.mode = misc_en_US_dedes.Mode6
+euCON.Key4205.melody = misc_en_US_dedes.Idiomelon
+euCON.Key4205.text = me.m09.d13_en_US_dedes.meVE.Stichera01.text
+euCON.Key4206.mode = misc_en_US_dedes.Mode5
+euCON.Key4206.melody = misc_en_US_dedes.Idiomelon
+euCON.Key4206.text = me.m12.d09_en_US_dedes.meMA.LaudsGlory.text
+euCON.R423 = eu.consecration_en_US_dedes.euCON.R423
+euCON.Key4207.title = eu.consecration_en_US_dedes.euCON.Key4207.title
+//Epistle1
+//Gospel1
+euCON.R424 = eu.consecration_en_US_dedes.euCON.R424
+euCON.R425 = eu.consecration_en_US_dedes.euCON.R425
+euCON.Key4208.title = eu.consecration_en_US_dedes.euCON.Key4208.title
+//Epistle2
+//Gospel2
+euCON.R426 = eu.consecration_en_US_dedes.euCON.R426
+euCON.R427 = eu.consecration_en_US_dedes.euCON.R427
+euCON.Key4209.text = eu.consecration_en_US_dedes.euCON.Key4209.text
+euCON.Key4210.mode = misc_en_US_dedes.Mode3
+euCON.Key4210.text = eu.consecration_en_US_dedes.euCON.Key4210.text
+euCON.R428 = eu.consecration_en_US_dedes.euCON.R428
+euCON.Key4211a.text = eu.consecration_en_US_dedes.euCON.Key4211a.text
+euCON.Key4211b.text = eu.consecration_en_US_dedes.euCON.Key4211b.text
+euCON.Key4211c.text = eu.consecration_en_US_dedes.euCON.Key4211c.text
+euCON.Key4212.text = eu.consecration_en_US_dedes.euCON.Key4212.text
+euCON.Key4213.text = eu.lichrysbasil_en_US_holycross.euLI.Key0501.text
+euCON.Key4214.text = prayers_en_US_dedes.exc01
+
+euCON.Key4300.title = eu.consecration_en_US_dedes.euCON.Key4300.title
+euCON.R430 = eu.consecration_en_US_dedes.euCON.R430
+euCON.R431 = eu.consecration_en_US_dedes.euCON.R431
+euCON.R432 = eu.consecration_en_US_dedes.euCON.R432
+euCON.Key4304.title = eu.consecration_en_US_dedes.euCON.Key4304.title
+euCON.Key4304.mode = misc_en_US_dedes.Mode4
+euCON.Key4304.text = me.m09.d13_en_US_dedes.meVE.Apolytikion1.text
+
+euCON.Key4400.title = eu.consecration_en_US_dedes.euCON.Key4400.title
+euCON.R440 = eu.consecration_en_US_dedes.euCON.R440
+euCON.Key4401.text = eu.consecration_en_US_dedes.euCON.Key4401.text
+euCON.Key4402.text = eu.consecration_en_US_dedes.euCON.Key4402.text
+euCON.R441 = eu.consecration_en_US_dedes.euCON.R441
+euCON.R442 = eu.consecration_en_US_dedes.euCON.R442
+euCON.Key4403.text = eu.consecration_en_US_dedes.euCON.Key4403.text
+euCON.Key4404.text = eu.consecration_en_US_dedes.euCON.Key4404.text
+euCON.Key4405a.text = eu.consecration_en_US_dedes.euCON.Key4405a.text
+euCON.Key4405b.text = eu.consecration_en_US_dedes.euCON.Key4405b.text
+euCON.Key4405c.text = eu.consecration_en_US_dedes.euCON.Key4405c.text
+euCON.Key4406.text = prayers_en_US_dedes.exc01
+euCON.R443 = eu.consecration_en_US_dedes.euCON.R443
+euCON.R444 = eu.consecration_en_US_dedes.euCON.R444
+
+euCON.Key4500.title = eu.consecration_en_US_dedes.euCON.Key4500.title
+euCON.R450 = eu.consecration_en_US_dedes.euCON.R450
+euCON.Key4501.text = prayers_en_US_dedes.enarxis01
+euCON.Key4502.text = prayers_en_US_dedes.petKneel07
+euCON.R451 = eu.consecration_en_US_dedes.euCON.R451
+euCON.Key4503a.text = eu.consecration_en_US_dedes.euCON.Key4503a.text
+euCON.Key4503b.text = eu.consecration_en_US_dedes.euCON.Key4503b.text
+euCON.Key4503c.text = eu.consecration_en_US_dedes.euCON.Key4503c.text
+euCON.Key4504.text = eu.consecration_en_US_dedes.euCON.Key4504.text
+euCON.Key4505.text = prayers_en_US_dedes.petKneel08
+//Litany
+euCON.Key4506.text = eu.consecration_en_US_dedes.euCON.Key4506.text
+euCON.R452 = eu.consecration_en_US_dedes.euCON.R452
+euCON.Key4507.text = eu.consecration_en_US_dedes.euCON.Key4507.text
+euCON.Key4508.text = prayers_en_US_dedes.EisToOnoma
+euCON.R453 = eu.consecration_en_US_dedes.euCON.R453
+euCON.Key4510.text = eu.consecration_en_US_dedes.euCON.Key4510.text
+
+euCON.Key4600.title = eu.consecration_en_US_dedes.euCON.Key4600.title
+euCON.R460 = eu.consecration_en_US_dedes.euCON.R460
+euCON.R461 = eu.consecration_en_US_dedes.euCON.R461
+euCON.Key4603.text = prayers_en_US_dedes.enarxis01
+euCON.Key4604.text = prayers_en_US_dedes.Allilouia3.text
+euCON.R462 = eu.consecration_en_US_dedes.euCON.R462
+euCON.Key4606.text = eu.consecration_en_US_dedes.euCON.Key4606.text
+euCON.Key4607.text = eu.consecration_en_US_dedes.euCON.Key4607.text
+euCON.R463 = eu.consecration_en_US_dedes.euCON.R463
+euCON.R464 = eu.consecration_en_US_dedes.euCON.R464
+euCON.R465 = eu.consecration_en_US_dedes.euCON.R465
+
+euCON.Key4700.title = eu.consecration_en_US_dedes.euCON.Key4700.title
+euCON.R470 = eu.consecration_en_US_dedes.euCON.R470
+euCON.Key4702.text = eu.consecration_en_US_dedes.euCON.Key4702.text
+euCON.R471 = eu.consecration_en_US_dedes.euCON.R471
+euCON.Key4704.text = eu.consecration_en_US_dedes.euCON.Key4704.text
+euCON.R472 = eu.consecration_en_US_dedes.euCON.R472
+euCON.R473 = eu.consecration_en_US_dedes.euCON.R473
+
+euCON.Key4800.title = eu.consecration_en_US_dedes.euCON.Key4800.title
+euCON.R480 = eu.consecration_en_US_dedes.euCON.R480
+euCON.Key4801.text = eu.consecration_en_US_dedes.euCON.Key4801.text
+//Short Litany
+euCON.Key4802.title = eu.consecration_en_US_dedes.euCON.Key4802.title
+euCON.R481 = eu.consecration_en_US_dedes.euCON.R481
+euCON.Key4802.text = eu.consecration_en_US_dedes.euCON.Key4802.text
+euCON.Key4803.text = eu.consecration_en_US_dedes.euCON.Key4803.text
+euCON.R482 = eu.consecration_en_US_dedes.euCON.R482
+euCON.Key4804.text = eu.consecration_en_US_dedes.euCON.Key4804.text
+euCON.Key4805.title = eu.consecration_en_US_dedes.euCON.Key4805.title
+euCON.R483 = eu.consecration_en_US_dedes.euCON.R483
+euCON.R484 = eu.consecration_en_US_dedes.euCON.R484
+euCON.R485 = eu.consecration_en_US_dedes.euCON.R485
+
+euCON.Key4900.title = eu.consecration_en_US_dedes.euCON.Key4900.title
+euCON.Key4901.title = eu.consecration_en_US_dedes.euCON.Key4901.title
+euCON.Key4902.title = eu.consecration_en_US_dedes.euCON.Key4902.title
+euCON.R490 = eu.consecration_en_US_dedes.euCON.R490
+euCON.R491 = eu.consecration_en_US_dedes.euCON.R491

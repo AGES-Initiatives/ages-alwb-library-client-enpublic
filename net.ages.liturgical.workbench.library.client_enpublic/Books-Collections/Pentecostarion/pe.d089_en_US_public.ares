@@ -1,0 +1,31 @@
+A_Resource_Whose_Name = pe.d089_en_US_public
+
+peCommemoration.text = pe.d089_en_US_dedes.peCommemoration.text // full title of day
+peShortCommemoration1.text = pe.d089_en_US_dedes.peShortCommemoration1.text
+peInsert1 = pe.d089_en_US_dedes.peInsert1 // for use in petitions and dismissal
+peInsert2 = pe.d089_en_US_dedes.peInsert2 // for use in petitions and dismissal
+peNote.text = pe.d089_en_US_dedes.peNote.text
+peDismissal = pe.d089_en_US_dedes.peDismissal
+
+ 
+
+peMA.Kathisma11.mode = pe.d089_en_US_dedes.peMA.Kathisma11.mode
+peMA.Kathisma11.melody = pe.d089_en_US_dedes.peMA.Kathisma11.melody
+peMA.Kathisma11.text = pe.d089_en_US_dedes.peMA.Kathisma11.text
+
+peMA.Kathisma12.mode = pe.d089_en_US_dedes.peMA.Kathisma12.mode
+peMA.Kathisma12.melody = pe.d089_en_US_dedes.peMA.Kathisma12.melody
+peMA.Kathisma12.text = pe.d089_en_US_dedes.peMA.Kathisma12.text
+
+peMA.Kathisma13.mode = pe.d089_en_US_dedes.peMA.Kathisma13.mode
+peMA.Kathisma13.melody = pe.d089_en_US_dedes.peMA.Kathisma13.melody
+peMA.Kathisma13.text = pe.d089_en_US_dedes.peMA.Kathisma13.text
+
+peMA.Kathisma1T.mode = pe.d089_en_US_dedes.peMA.Kathisma1T.mode
+peMA.Kathisma1T.melody = pe.d089_en_US_dedes.peMA.Kathisma1T.melody
+peMA.Kathisma1T.text = pe.d089_en_US_dedes.peMA.Kathisma1T.text
+
+peMA.Kathisma21.mode = pe.d089_en_US_dedes.peMA.Kathisma21.mode
+peMA.Kathisma21.melody = pe.d089_en_US_dedes.peMA.Kathisma21.melody
+peMA.Kathisma21.text = pe.d089_en_US_dedes.peMA.Kathisma21.text
+

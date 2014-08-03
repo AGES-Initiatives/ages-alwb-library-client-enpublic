@@ -1,0 +1,255 @@
+A_Resource_Whose_Name = eu.lichrysbasil_en_US_public
+
+euLI.title = eu.lichrysbasil_en_US_holycross.euLI.title
+
+// Part 01 Enarxis
+euLI.Key0101.text = eu.lichrysbasil_en_US_holycross.euLI.Key0101.text
+euLI.Key0102.text = eu.lichrysbasil_en_US_holycross.euLI.Key0102.text
+euLI.Key0103.text = eu.lichrysbasil_en_US_holycross.euLI.Key0103.text
+euLI.Key0104.text = eu.lichrysbasil_en_US_holycross.euLI.Key0104.text
+euLI.Key0105.text = eu.lichrysbasil_en_US_holycross.euLI.Key0105.text
+euLI.Key0106.text = eu.lichrysbasil_en_US_holycross.euLI.Key0106.text
+euLI.Key0107.text = eu.lichrysbasil_en_US_holycross.euLI.Key0107.text
+euLI.Key0108.text = eu.lichrysbasil_en_US_holycross.euLI.Key0108.text
+euLI.Key0109.text = eu.lichrysbasil_en_US_holycross.euLI.Key0109.text
+euLI.Key0110.text = eu.lichrysbasil_en_US_holycross.euLI.Key0110.text
+
+// Part 02 Great Litany - Antiphon 1
+euLI.Key0200.text = eu.lichrysbasil_en_US_dedes.euLI.Key0200.text
+euLI.Key0201.title = eu.lichrysbasil_en_US_holycross.euLI.Key0201.title
+euLI.Key0201.text = eu.lichrysbasil_en_US_holycross.euLI.Key0201.text
+
+// Part 03 Antiphon 2
+euLI.Key0301.title = eu.lichrysbasil_en_US_holycross.euLI.Key0301.title
+euLI.Key0301.text = eu.lichrysbasil_en_US_holycross.euLI.Key0301.text
+
+// Part 04 Antiphon 3 
+euLI.Key0401.title = eu.lichrysbasil_en_US_holycross.euLI.Key0401.title
+euLI.Key0401.text = eu.lichrysbasil_en_US_holycross.euLI.Key0401.text
+
+// Part 05 Small Entrance
+euLI.Key0501.text = eu.lichrysbasil_en_US_holycross.euLI.Key0501.text
+euLI.Key0502.text = eu.lichrysbasil_en_US_holycross.euLI.Key0502.text
+euLI.Key0503.text = eu.lichrysbasil_en_US_holycross.euLI.Key0503.text
+
+// Part 06 Trisagios Hymn 
+euLI.Key0601.text = eu.lichrysbasil_en_US_holycross.euLI.Key0601.text
+euLI.Key0602.text = eu.lichrysbasil_en_US_holycross.euLI.Key0602.text
+euLI.Key0603.text = eu.lichrysbasil_en_US_holycross.euLI.Key0603.text
+euLI.Key0604.text = eu.lichrysbasil_en_US_holycross.euLI.Key0604.text
+euLI.Key0605.text = eu.lichrysbasil_en_US_holycross.euLI.Key0605.text
+euLI.Key0606.text = eu.lichrysbasil_en_US_holycross.euLI.Key0606.text
+euLI.Key0607.text = eu.lichrysbasil_en_US_holycross.euLI.Key0607.text
+euLI.Key0608.text = eu.lichrysbasil_en_US_holycross.euLI.Key0608.text
+
+// Part 07 The Readings
+euLI.Key0701.text = eu.lichrysbasil_en_US_holycross.euLI.Key0701.text
+euLI.Key0702.text = eu.lichrysbasil_en_US_holycross.euLI.Key0702.text
+euLI.Key0703.text = eu.lichrysbasil_en_US_holycross.euLI.Key0703.text
+euLI.Key0704.text = eu.lichrysbasil_en_US_holycross.euLI.Key0704.text
+euLI.Key0705.text = eu.lichrysbasil_en_US_holycross.euLI.Key0705.text
+
+// Part 08 Ektenia
+euLI.Key0800.title = eu.lichrysbasil_en_US_holycross.euLI.Key0800.title
+euLI.Key0801.text = eu.lichrysbasil_en_US_holycross.euLI.Key0801.text
+
+// Part 09 Catechumens
+euLI.Key0900.title = eu.lichrysbasil_en_US_holycross.euLI.Key0900.title
+euLI.Key0901.text = eu.lichrysbasil_en_US_holycross.euLI.Key0901.text
+euLI.Key0902.text = eu.lichrysbasil_en_US_holycross.euLI.Key0902.text
+euLI.Key0903.text = eu.lichrysbasil_en_US_holycross.euLI.Key0903.text
+euLI.Key0904.text = eu.lichrysbasil_en_US_holycross.euLI.Key0904.text
+euLI.Key0905.text = eu.lichrysbasil_en_US_holycross.euLI.Key0905.text
+euLI.Key0906.text = eu.lichrysbasil_en_US_holycross.euLI.Key0906.text
+euLI.Key0907.text = eu.lichrysbasil_en_US_holycross.euLI.Key0907.text
+euLI.Key0908.text = eu.lichrysbasil_en_US_holycross.euLI.Key0908.text
+euLI.Key0909.text = eu.lichrysbasil_en_US_holycross.euLI.Key0909.text
+euLI.Key0910.text = eu.lichrysbasil_en_US_holycross.euLI.Key0910.text
+euLI.Key0911.text = eu.lichrysbasil_en_US_holycross.euLI.Key0911.text
+euLI.Key0912.text = eu.lichrysbasil_en_US_holycross.euLI.Key0912.text
+ 
+// Part 10 Prayers of the Faithful
+euLI.Key1000.title = eu.lichrysbasil_en_US_holycross.euLI.Key1000.title
+euLI.Key1001.title = eu.lichrysbasil_en_US_holycross.euLI.Key1001.title
+euLI.Key1001.text = eu.lichrysbasil_en_US_holycross.euLI.Key1001.text
+euLI.Key1002.title = eu.lichrysbasil_en_US_holycross.euLI.Key1002.title
+euLI.Key1002.text = eu.lichrysbasil_en_US_holycross.euLI.Key1002.text
+euLI.Key1003.text = eu.lichrysbasil_en_US_holycross.euLI.Key1003.text
+
+// Part 11 Great Entrance
+euLI.Key1100.title = eu.lichrysbasil_en_US_holycross.euLI.Key1100.title
+euLI.Key1101.text = eu.lichrysbasil_en_US_holycross.euLI.Key1101.text
+euLI.Key1102.title = eu.lichrysbasil_en_US_holycross.euLI.Key1102.title
+euLI.Key1102.text = eu.lichrysbasil_en_US_holycross.euLI.Key1102.text
+euLI.Key1103.text = eu.lichrysbasil_en_US_holycross.euLI.Key1103.text
+euLI.Key1104.text = eu.lichrysbasil_en_US_holycross.euLI.Key1104.text
+euLI.Key1105.text = eu.lichrysbasil_en_US_holycross.euLI.Key1105.text
+euLI.Key1106.text = eu.lichrysbasil_en_US_holycross.euLI.Key1106.text
+euLI.Key1107.text = eu.lichrysbasil_en_US_holycross.euLI.Key1107.text
+euLI.Key1108.text = eu.lichrysbasil_en_US_holycross.euLI.Key1108.text
+euLI.Key1109.text = eu.lichrysbasil_en_US_holycross.euLI.Key1109.text
+euLI.Key1110.text = eu.lichrysbasil_en_US_holycross.euLI.Key1110.text
+euLI.Key1111.text = eu.lichrysbasil_en_US_holycross.euLI.Key1111.text
+euLI.Key1112.text = eu.lichrysbasil_en_US_holycross.euLI.Key1112.text
+euLI.Key1113.text = eu.lichrysbasil_en_US_holycross.euLI.Key1113.text
+euLI.Key1114.text = eu.lichrysbasil_en_US_holycross.euLI.Key1114.text
+euLI.Key1115.text = eu.lichrysbasil_en_US_holycross.euLI.Key1115.text
+euLI.Key1116.text = eu.lichrysbasil_en_US_holycross.euLI.Key1116.text
+euLI.Key1117.text = eu.lichrysbasil_en_US_holycross.euLI.Key1117.text
+euLI.Key1118.text = eu.lichrysbasil_en_US_holycross.euLI.Key1118.text
+euLI.Key1119.text = eu.lichrysbasil_en_US_holycross.euLI.Key1119.text
+euLI.Key1120.text = eu.lichrysbasil_en_US_holycross.euLI.Key1120.text
+euLI.Key1121.text = eu.lichrysbasil_en_US_holycross.euLI.Key1121.text
+euLI.Key1122.text = eu.lichrysbasil_en_US_holycross.euLI.Key1122.text
+euLI.Key1123.text = eu.lichrysbasil_en_US_holycross.euLI.Key1123.text
+euLI.Key1124.text = eu.lichrysbasil_en_US_holycross.euLI.Key1124.text
+
+// Part 12 Litany and Creed
+euLI.Key1200.title = eu.lichrysbasil_en_US_holycross.euLI.Key1200.title
+euLI.Key1200.text = eu.lichrysbasil_en_US_holycross.euLI.Key1200.text
+euLI.Key1201.text = eu.lichrysbasil_en_US_holycross.euLI.Key1201.text
+euLI.Key1202.title = eu.lichrysbasil_en_US_holycross.euLI.Key1202.title
+euLI.Key1202.text = eu.lichrysbasil_en_US_holycross.euLI.Key1202.text
+euLI.Key1202.basil.text = eu.lichrysbasil_en_US_holycross.euLI.Key1202.basil.text
+euLI.Key1203.text = eu.lichrysbasil_en_US_holycross.euLI.Key1203.text
+euLI.Key1204.text = eu.lichrysbasil_en_US_holycross.euLI.Key1204.text
+euLI.Key1205.text = eu.lichrysbasil_en_US_holycross.euLI.Key1205.text
+euLI.Key1206.text  = ""
+euLI.Key1207.text = eu.lichrysbasil_en_US_holycross.euLI.Key1207.text
+euLI.Key1208.text = eu.lichrysbasil_en_US_holycross.euLI.Key1208.text
+
+// Part 13 Holy Anaphora
+euLI.Key1300.title = eu.lichrysbasil_en_US_holycross.euLI.Key1300.title
+euLI.Key1301.text = eu.lichrysbasil_en_US_holycross.euLI.Key1301.text
+euLI.Key1302.text = eu.lichrysbasil_en_US_holycross.euLI.Key1302.text
+euLI.Key1303.text = eu.lichrysbasil_en_US_holycross.euLI.Key1303.text
+euLI.Key1304.text = eu.lichrysbasil_en_US_holycross.euLI.Key1304.text
+euLI.Key1305.text = eu.lichrysbasil_en_US_holycross.euLI.Key1305.text
+euLI.Key1306.text = eu.lichrysbasil_en_US_holycross.euLI.Key1306.text
+euLI.Key1307.text = eu.lichrysbasil_en_US_holycross.euLI.Key1307.text
+euLI.Key1308.text = eu.lichrysbasil_en_US_holycross.euLI.Key1308.text
+euLI.Key1309.text = eu.lichrysbasil_en_US_holycross.euLI.Key1309.text
+euLI.Key1309.basil.text = eu.lichrysbasil_en_US_holycross.euLI.Key1309.basil.text
+euLI.Key1310.text = eu.lichrysbasil_en_US_holycross.euLI.Key1310.text
+euLI.Key1311.text = eu.lichrysbasil_en_US_holycross.euLI.Key1311.text
+euLI.Key1312.text = eu.lichrysbasil_en_US_holycross.euLI.Key1312.text
+euLI.Key1312.basil.text = eu.lichrysbasil_en_US_holycross.euLI.Key1312.basil.text
+euLI.Key1313.text = eu.lichrysbasil_en_US_holycross.euLI.Key1313.text
+euLI.Key1313.basil.text = eu.lichrysbasil_en_US_holycross.euLI.Key1313.basil.text
+euLI.Key1314.text = eu.lichrysbasil_en_US_holycross.euLI.Key1314.text
+euLI.Key1314.basil.text = eu.lichrysbasil_en_US_holycross.euLI.Key1314.basil.text
+euLI.Key1315.text = eu.lichrysbasil_en_US_holycross.euLI.Key1315.text
+euLI.Key1315.basil.text = eu.lichrysbasil_en_US_holycross.euLI.Key1315.basil.text
+euLI.Key1316.text = eu.lichrysbasil_en_US_holycross.euLI.Key1316.text
+euLI.Key1316.basil.text = eu.lichrysbasil_en_US_holycross.euLI.Key1316.basil.text
+euLI.Key1317.text = eu.lichrysbasil_en_US_holycross.euLI.Key1317.text
+euLI.Key1318.text = eu.lichrysbasil_en_US_holycross.euLI.Key1318.text
+euLI.Key1319.text = eu.lichrysbasil_en_US_holycross.euLI.Key1319.text
+euLI.Key1319.basil.text = eu.lichrysbasil_en_US_holycross.euLI.Key1319.basil.text
+euLI.Key1320.text = eu.lichrysbasil_en_US_holycross.euLI.Key1320.text
+euLI.Key1321.text = eu.lichrysbasil_en_US_holycross.euLI.Key1321.text
+euLI.Key1321.basil.text = eu.lichrysbasil_en_US_holycross.euLI.Key1321.basil.text
+euLI.Key1322.text = eu.lichrysbasil_en_US_holycross.euLI.Key1322.text
+euLI.Key1323.text = eu.lichrysbasil_en_US_holycross.euLI.Key1323.text
+euLI.Key1323.basil.text = eu.lichrysbasil_en_US_holycross.euLI.Key1323.basil.text
+euLI.Key1324.text = eu.lichrysbasil_en_US_holycross.euLI.Key1324.text
+euLI.Key1325.text = eu.lichrysbasil_en_US_holycross.euLI.Key1325.text
+euLI.Key1325.basil.text = eu.lichrysbasil_en_US_holycross.euLI.Key1325.basil.text
+euLI.Key1326.text = eu.lichrysbasil_en_US_holycross.euLI.Key1326.text
+euLI.Key1326.basil.text = eu.lichrysbasil_en_US_holycross.euLI.Key1326.basil.text
+euLI.Key1327.text = eu.lichrysbasil_en_US_holycross.euLI.Key1327.text
+euLI.Key1328.title = eu.lichrysbasil_en_US_holycross.euLI.Key1328.title
+euLI.Key1328.text = eu.lichrysbasil_en_US_holycross.euLI.Key1328.text
+euLI.Key1328.basil.text = eu.lichrysbasil_en_US_dedes.euLI.Key1328.basil.text
+euLI.Key1329.text = eu.lichrysbasil_en_US_holycross.euLI.Key1329.text
+euLI.Key1329.basil.text = eu.lichrysbasil_en_US_holycross.euLI.Key1329.basil.text
+euLI.Key1330.text = eu.lichrysbasil_en_US_holycross.euLI.Key1330.text
+euLI.Key1330a.text = eu.lichrysbasil_en_US_holycross.euLI.Key1330a.text
+euLI.Key1330b.text = eu.lichrysbasil_en_US_holycross.euLI.Key1330b.text
+euLI.Key1331.text = eu.lichrysbasil_en_US_holycross.euLI.Key1331.text
+euLI.Key1332.text = eu.lichrysbasil_en_US_holycross.euLI.Key1332.text
+euLI.Key1333.text = eu.lichrysbasil_en_US_holycross.euLI.Key1333.text
+euLI.Key1333.basil.text = eu.lichrysbasil_en_US_holycross.euLI.Key1333.basil.text
+euLI.Key1334.text = eu.lichrysbasil_en_US_holycross.euLI.Key1334.text
+euLI.Key1335.text = eu.lichrysbasil_en_US_holycross.euLI.Key1335.text
+euLI.Key1336.text = eu.lichrysbasil_en_US_holycross.euLI.Key1336.text
+
+// Part 14 Before Communion
+euLI.Key1400.title = eu.lichrysbasil_en_US_holycross.euLI.Key1400.title
+euLI.Key1401.text = eu.lichrysbasil_en_US_holycross.euLI.Key1401.text
+euLI.Key1402.text = eu.lichrysbasil_en_US_holycross.euLI.Key1402.text
+euLI.Key1403.text = eu.lichrysbasil_en_US_holycross.euLI.Key1403.text
+euLI.Key1404.text = eu.lichrysbasil_en_US_holycross.euLI.Key1404.text
+euLI.Key1405.text = eu.lichrysbasil_en_US_holycross.euLI.Key1405.text
+euLI.Key1405.basil.text = eu.lichrysbasil_en_US_holycross.euLI.Key1405.basil.text
+euLI.Key1406.text = eu.lichrysbasil_en_US_holycross.euLI.Key1406.text
+euLI.Key1407.text = eu.lichrysbasil_en_US_holycross.euLI.Key1407.text
+euLI.Key1407.basil.text = eu.lichrysbasil_en_US_holycross.euLI.Key1407.basil.text
+euLI.Key1408.text = eu.lichrysbasil_en_US_holycross.euLI.Key1408.text
+euLI.Key1409.text = eu.lichrysbasil_en_US_holycross.euLI.Key1409.text
+euLI.Key1410.text = eu.lichrysbasil_en_US_holycross.euLI.Key1410.text
+euLI.Key1411.text = eu.lichrysbasil_en_US_holycross.euLI.Key1411.text
+
+// Part 15 Communion
+euLI.Key1500.title = eu.lichrysbasil_en_US_holycross.euLI.Key1500.title
+euLI.Key1501.text = eu.lichrysbasil_en_US_holycross.euLI.Key1501.text
+euLI.Key1502.text = eu.lichrysbasil_en_US_holycross.euLI.Key1502.text
+euLI.Key1503.text = eu.lichrysbasil_en_US_holycross.euLI.Key1503.text
+euLI.Key1504.text = eu.lichrysbasil_en_US_holycross.euLI.Key1504.text
+euLI.Key1505.text = eu.lichrysbasil_en_US_holycross.euLI.Key1505.text
+euLI.Key1506.text = eu.lichrysbasil_en_US_holycross.euLI.Key1506.text
+euLI.Key1507.text = eu.lichrysbasil_en_US_holycross.euLI.Key1507.text
+euLI.Key1508.text = eu.lichrysbasil_en_US_holycross.euLI.Key1508.text
+euLI.Key1509.text = eu.lichrysbasil_en_US_holycross.euLI.Key1509.text
+euLI.Key1510.text = eu.lichrysbasil_en_US_holycross.euLI.Key1510.text
+euLI.Key1511.text = eu.lichrysbasil_en_US_holycross.euLI.Key1511.text
+euLI.Key1512.text = eu.lichrysbasil_en_US_holycross.euLI.Key1512.text
+euLI.Key1513.text = eu.lichrysbasil_en_US_holycross.euLI.Key1513.text
+euLI.Key1514.text = eu.lichrysbasil_en_US_holycross.euLI.Key1514.text
+euLI.Key1515.text = eu.lichrysbasil_en_US_holycross.euLI.Key1515.text
+euLI.Key1516.text = eu.lichrysbasil_en_US_holycross.euLI.Key1516.text
+euLI.Key1517.text = eu.lichrysbasil_en_US_holycross.euLI.Key1517.text
+euLI.Key1518.text = eu.lichrysbasil_en_US_holycross.euLI.Key1518.text
+euLI.Key1519.text = eu.lichrysbasil_en_US_holycross.euLI.Key1519.text
+euLI.Key1520.text = eu.lichrysbasil_en_US_holycross.euLI.Key1520.text
+euLI.Key1521.text = eu.lichrysbasil_en_US_dedes.euLI.Key1521.text
+euLI.Key1522.text = eu.lichrysbasil_en_US_dedes.euLI.Key1522.text
+euLI.Key1523.text = eu.lichrysbasil_en_US_dedes.euLI.Key1523.text
+euLI.Key1524.text = eu.lichrysbasil_en_US_dedes.euLI.Key1524.text
+euLI.Key1525.text = eu.lichrysbasil_en_US_holycross.euLI.Key1525.text
+euLI.Key1526.text = eu.lichrysbasil_en_US_holycross.euLI.Key1526.text
+euLI.Key1527.title = eu.lichrysbasil_en_US_dedes.euLI.Key1527.title
+euLI.Key1527.text = eu.lichrysbasil_en_US_holycross.euLI.Key1527.text
+euLI.Key1528.text = eu.lichrysbasil_en_US_holycross.euLI.Key1528.text
+euLI.Key1529.text = eu.lichrysbasil_en_US_holycross.euLI.Key1529.text
+euLI.Key1530.text = eu.lichrysbasil_en_US_dedes.euLI.Key1530.text
+euLI.Key1531.text = eu.lichrysbasil_en_US_dedes.euLI.Key1531.text
+
+// Part 16 After Communion 
+euLI.Key1601.text = eu.lichrysbasil_en_US_holycross.euLI.Key1601.text
+euLI.Key1602.source = eu.lichrysbasil_en_US_holycross.euLI.Key1602.source
+euLI.Key1602.text = eu.lichrysbasil_en_US_holycross.euLI.Key1602.text
+euLI.Key1603.text = eu.lichrysbasil_en_US_holycross.euLI.Key1603.text
+euLI.Key1604.title = eu.lichrysbasil_en_US_holycross.euLI.Key1604.title
+euLI.Key1604.text = eu.lichrysbasil_en_US_holycross.euLI.Key1604.text
+euLI.Key1605.text = eu.lichrysbasil_en_US_holycross.euLI.Key1605.text
+euLI.Key1606.title = eu.lichrysbasil_en_US_holycross.euLI.Key1606.title
+euLI.Key1606.text = eu.lichrysbasil_en_US_holycross.euLI.Key1606.text
+euLI.Key1606.basil.text = eu.lichrysbasil_en_US_holycross.euLI.Key1606.basil.text
+euLI.Key1607.text = eu.lichrysbasil_en_US_holycross.euLI.Key1607.text
+ 
+// Part 17 Dismissal
+euLI.Key1700.title = eu.lichrysbasil_en_US_holycross.euLI.Key1700.title
+euLI.Key1701.text = eu.lichrysbasil_en_US_holycross.euLI.Key1701.text
+euLI.Key1702.title = eu.lichrysbasil_en_US_holycross.euLI.Key1702.title
+euLI.Key1702.text = eu.lichrysbasil_en_US_holycross.euLI.Key1702.text
+euLI.Key1702.basil.text = eu.lichrysbasil_en_US_holycross.euLI.Key1702.basil.text
+euLI.Key1703.text = eu.lichrysbasil_en_US_dedes.euLI.Key1703.text
+euLI.Key1704.text = eu.lichrysbasil_en_US_holycross.euLI.Key1704.text
+euLI.Key1704.basil.text = eu.lichrysbasil_en_US_holycross.euLI.Key1704.basil.text
+euLI.Key1705.text = eu.lichrysbasil_en_US_holycross.euLI.Key1705.text
+euLI.Key1706.text = eu.lichrysbasil_en_US_dedes.euLI.Key1706.text
+euLI.Key1706h.text = eu.lichrysbasil_en_US_dedes.euLI.Key1706h.text
+euLI.Key1707.text = eu.lichrysbasil_en_US_holycross.euLI.Key1707.text
+euLI.Key1708.text = eu.lichrysbasil_en_US_holycross.euLI.Key1708.text
+

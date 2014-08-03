@@ -1,0 +1,305 @@
+A_Resource_Whose_Name = ho.s03_en_US_public
+
+hoMA.title = ho.s03_en_US_dedes.hoMA.title
+R01 = ho.s03_en_US_dedes.R01
+R02 = ho.s03_en_US_dedes.R02
+hoMA.Troparion3.text = ho.s03_en_US_holycross.hoMA.Troparion3.text
+R3 = ho.s03_en_US_dedes.R3
+R4 = ho.s03_en_US_dedes.R4
+SixPsalms.title = ho.s03_en_US_holycross.SixPsalms.title
+R6 = ho.s03_en_US_dedes.R6
+hoMA.GodIsTheLord.text = ho.s03_en_US_holycross.hoMA.GodIsTheLord.text
+R7 = ho.s03_en_US_dedes.R7
+R8 = ho.s03_en_US_dedes.R8
+R9 = ho.s03_en_US_dedes.R9 // (about Lent)
+R10 = ho.s03_en_US_dedes.R10
+
+hoMA.Triadics.title = ho.s03_en_US_dedes.hoMA.Triadics.title
+R11 = ho.s03_en_US_dedes.R11
+/*
+Title Mode1
+Triadic11
+Glory
+Triadic12
+Both
+Triadic13 
+
+Title Mode2
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3 
+
+Title Mode3
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3 
+
+Title Mode4
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3 
+
+Title Mode5
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3 
+
+Title Mode6
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3 
+
+Title Mode7
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3 
+
+Title Mode8
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3 
+*/
+
+R12a = ho.s03_en_US_dedes.R12a
+R12b = ho.s03_en_US_dedes.R12b
+
+hoMA.ResEvlog.title1 = ho.s03_en_US_dedes.hoMA.ResEvlog.title1
+hoMA.ResEvlog.title2 = ho.s03_en_US_dedes.hoMA.ResEvlog.title2
+R13 = ho.s03_en_US_dedes.R13
+hoMA.ResEvlogVerse.source = ho.s03_en_US_dedes.hoMA.ResEvlogVerse.source
+hoMA.ResEvlogVerse.text = ho.s03_en_US_dedes.hoMA.ResEvlogVerse.text
+hoMA.ResEvlog1.mode = ho.s03_en_US_dedes.hoMA.ResEvlog1.mode
+hoMA.ResEvlog1.text = ho.s03_en_US_dedes.hoMA.ResEvlog1.text
+hoMA.ResEvlog2.mode = ho.s03_en_US_dedes.hoMA.ResEvlog2.mode
+hoMA.ResEvlog2.text = ho.s03_en_US_dedes.hoMA.ResEvlog2.text
+hoMA.ResEvlog3.mode = ho.s03_en_US_dedes.hoMA.ResEvlog3.mode
+hoMA.ResEvlog3.text = ho.s03_en_US_dedes.hoMA.ResEvlog3.text
+hoMA.ResEvlog4.mode = ho.s03_en_US_dedes.hoMA.ResEvlog4.mode
+hoMA.ResEvlog4.text = ho.s03_en_US_dedes.hoMA.ResEvlog4.text
+hoMA.ResEvlog5.mode = ho.s03_en_US_dedes.hoMA.ResEvlog5.mode
+hoMA.ResEvlog5.text = ho.s03_en_US_dedes.hoMA.ResEvlog5.text
+hoMA.ResEvlog6.mode = ho.s03_en_US_dedes.hoMA.ResEvlog6.mode
+hoMA.ResEvlog6.text = ho.s03_en_US_dedes.hoMA.ResEvlog6.text
+hoMA.ResEvlog7.mode = ho.s03_en_US_dedes.hoMA.ResEvlog7.mode
+hoMA.ResEvlog7.text = ho.s03_en_US_dedes.hoMA.ResEvlog7.text
+
+hoMA.FuneralEvlog.title1 = ho.s03_en_US_dedes.hoMA.FuneralEvlog.title1
+hoMA.FuneralEvlog.title2 = ho.s03_en_US_dedes.hoMA.FuneralEvlog.title2
+R14 = ho.s03_en_US_dedes.R14
+hoMA.FuneralEvlogVerse.source = ho.s03_en_US_dedes.hoMA.FuneralEvlogVerse.source
+hoMA.FuneralEvlogVerse.text = ho.s03_en_US_dedes.hoMA.FuneralEvlogVerse.text
+hoMA.FuneralEvlog1.mode = ho.s03_en_US_dedes.hoMA.FuneralEvlog1.mode
+hoMA.FuneralEvlog1.text = ho.s03_en_US_dedes.hoMA.FuneralEvlog1.text
+hoMA.FuneralEvlog2.mode = ho.s03_en_US_dedes.hoMA.FuneralEvlog2.mode
+hoMA.FuneralEvlog2.text = ho.s03_en_US_dedes.hoMA.FuneralEvlog2.text
+hoMA.FuneralEvlog3.mode = ho.s03_en_US_dedes.hoMA.FuneralEvlog3.mode
+hoMA.FuneralEvlog3.text = ho.s03_en_US_dedes.hoMA.FuneralEvlog3.text
+hoMA.FuneralEvlog4.mode = ho.s03_en_US_dedes.hoMA.FuneralEvlog4.mode
+hoMA.FuneralEvlog4.text = ho.s03_en_US_dedes.hoMA.FuneralEvlog4.text
+hoMA.FuneralEvlog5.mode = ho.s03_en_US_dedes.hoMA.FuneralEvlog5.mode
+hoMA.FuneralEvlog5.text = ho.s03_en_US_dedes.hoMA.FuneralEvlog5.text
+hoMA.FuneralEvlog6.mode = ho.s03_en_US_dedes.hoMA.FuneralEvlog6.mode
+hoMA.FuneralEvlog6.text = ho.s03_en_US_dedes.hoMA.FuneralEvlog6.text
+hoMA.FuneralEvlog7.mode = ho.s03_en_US_dedes.hoMA.FuneralEvlog7.mode
+hoMA.FuneralEvlog7.text = ho.s03_en_US_dedes.hoMA.FuneralEvlog7.text
+hoMA.FuneralEvlog8.mode = ho.s03_en_US_dedes.hoMA.FuneralEvlog8.mode
+hoMA.FuneralEvlog8.text = ho.s03_en_US_dedes.hoMA.FuneralEvlog8.text
+hoMA.FuneralEvlog9.mode = ho.s03_en_US_dedes.hoMA.FuneralEvlog9.mode
+hoMA.FuneralEvlog9.text = ho.s03_en_US_dedes.hoMA.FuneralEvlog9.text
+
+//Psalm 50
+hoMA.Psalm50.text = ho.s03_en_US_dedes.hoMA.Psalm50.text //for media
+
+hoMA.Ode9.Meg00.text = ho.s03_en_US_dedes.hoMA.Ode9.Meg00.text
+
+R15 = ho.s03_en_US_dedes.R15
+R16 = ho.s03_en_US_dedes.R16 // (Lent)
+/*
+Title On Monday
+ending1
+ending2
+ending3
+Title On Tuesday
+ending
+Title On Wed and Fri
+ending
+Title On Thur
+ending
+Title On Sat
+R17
+ending
+R18
+ending
+
+Title Photogogics
+Subtitle
+Title Mode1
+Hymn 3x
+Title Mode2
+Hymn 3x
+Title Mode3
+Hymn 3x
+Title Mode4
+Hymn 3x
+Title Mode5
+Hymn 3x
+Title Mode6
+Hymn 3x
+Title Mode7
+Hymn 3x
+Title Mode8
+Hymn 3x
+
+Title Exaposteilaria
+Subtitle
+On Monday
+Title Mode
+Hymn
+Title Theot
+Hymn
+
+On Tuesday
+Title Mode
+Hymn
+Title Theot
+Hymn ref
+
+On Wed and Fri
+Title Mode
+Hymn
+Title StavTheot
+Hymn
+
+On Thur
+Title Mode
+Hymn
+Title
+Hymn
+Title Theot
+Hymn
+*/
+
+hoMA.ExapSatTitle = ho.s03_en_US_dedes.hoMA.ExapSatTitle
+hoMA.ExapSat1.mode = ho.s03_en_US_dedes.hoMA.ExapSat1.mode
+hoMA.ExapSat1.melody = ho.s03_en_US_dedes.hoMA.ExapSat1.melody
+hoMA.ExapSat1.text = ho.s03_en_US_dedes.hoMA.ExapSat1.text
+
+hoMA.ExapSat2.mode = ho.s03_en_US_dedes.hoMA.ExapSat2.mode
+hoMA.ExapSat2.melody = ho.s03_en_US_dedes.hoMA.ExapSat2.melody
+hoMA.ExapSat2.text = ho.s03_en_US_dedes.hoMA.ExapSat2.text
+
+hoMA.ExapSatTh.mode = ho.s03_en_US_dedes.hoMA.ExapSatTh.mode
+hoMA.ExapSatTh.melody = ho.s03_en_US_dedes.hoMA.ExapSatTh.melody
+hoMA.ExapSatTh.text = ho.s03_en_US_dedes.hoMA.ExapSatTh.text
+
+R19 = ""
+R20 = ho.s03_en_US_dedes.R20
+R21 = ho.s03_en_US_dedes.R21
+hoMA.LaudsSunTheotokion.text = ho.s03_en_US_dedes.hoMA.LaudsSunTheotokion.text
+
+hoMA.DoxologyGreat.title = ho.s03_en_US_dedes.hoMA.DoxologyGreat.title
+hoMA.DoxologyGreatIntro.text = ho.s03_en_US_dedes.hoMA.DoxologyGreatIntro.text
+hoMA.DoxologyVerse01.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse01.text
+hoMA.DoxologyVerse02.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse02.text
+hoMA.DoxologyVerse03.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse03.text
+hoMA.DoxologyVerse04.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse04.text
+hoMA.DoxologyVerse05.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse05.text
+hoMA.DoxologyVerse06.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse06.text
+hoMA.DoxologyVerse07.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse07.text
+hoMA.DoxologyVerse07e.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse07e.text
+hoMA.DoxologyVerse08.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse08.text
+hoMA.DoxologyVerse08e.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse08e.text
+hoMA.DoxologyVerse08n.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse08n.text
+hoMA.DoxologyVerse09.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse09.text
+hoMA.DoxologyVerse10.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse10.text
+hoMA.DoxologyVerse11a.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse11a.text
+hoMA.DoxologyVerse11b.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse11b.text
+hoMA.DoxologyVerse11c.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse11c.text
+hoMA.DoxologyVerse12.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse12.text
+hoMA.DoxologyVerse13.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse13.text
+hoMA.DoxologyVerse14.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse14.text
+hoMA.DoxologyVerse15.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse15.text
+hoMA.DoxologyVerse16.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse16.text
+hoMA.DoxologyVerse17.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse17.text
+hoMA.DoxologyVerse18.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse18.text
+hoMA.DoxologyVerse19.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse19.text
+R22 = ""
+hoMA.DoxologyVerse20.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse20.text
+R23 = ""
+hoMA.DoxologySmallIntro.text = ho.s03_en_US_holycross.hoMA.DoxologySmallIntro.text
+hoMA.DoxologySmallEnd.text = ho.s03_en_US_holycross.hoMA.DoxologySmallEnd.text
+hoMA.SmallDoxology.title = ho.s03_en_US_holycross.hoMA.SmallDoxology.title
+hoMA.SmallDoxology1.text = ho.s03_en_US_holycross.hoMA.SmallDoxology1.text
+hoMA.SmallDoxology1d = ho.s03_en_US_holycross.hoMA.SmallDoxology1d
+hoMA.SmallDoxology1e = ho.s03_en_US_holycross.hoMA.SmallDoxology1e
+hoMA.SmallDoxology2.text = ho.s03_en_US_holycross.hoMA.SmallDoxology2.text
+hoMA.SmallDoxology2d = ho.s03_en_US_holycross.hoMA.SmallDoxology2d
+hoMA.SmallDoxology2e = ho.s03_en_US_holycross.hoMA.SmallDoxology2e
+hoMA.SmallDoxology2n = ho.s03_en_US_holycross.hoMA.SmallDoxology2n
+hoMA.SmallDoxology3.text = ho.s03_en_US_holycross.hoMA.SmallDoxology3.text
+
+R24 = ho.s03_en_US_dedes.R24
+R25 = ho.s03_en_US_dedes.R25
+R26 = ho.s03_en_US_dedes.R26
+R27 = ho.s03_en_US_dedes.R27
+R28 = ho.s03_en_US_dedes.R28 // [maybe unpack]
+hoMA.Apolytikion = ho.s03_en_US_dedes.hoMA.Apolytikion
+R29 = ho.s03_en_US_dedes.R29 // [maybe unpack]
+R30 = ho.s03_en_US_dedes.R30
+R31 = ho.s03_en_US_dedes.R31
+R32 = ho.s03_en_US_dedes.R32
+R33 = ho.s03_en_US_dedes.R33
+R34 = ho.s03_en_US_dedes.R34
+R35 = ho.s03_en_US_dedes.R35
+R36 = ho.s03_en_US_dedes.R36
+hoMA.SunTroparion1.mode = ho.s03_en_US_dedes.hoMA.SunTroparion1.mode
+hoMA.SunTroparion1.text = ho.s03_en_US_dedes.hoMA.SunTroparion1.text
+R37 = ho.s03_en_US_dedes.R37
+//Title ultimately link this to pe.d18.peMA.Kath12
+hoMA.SunTroparion2.mode = ho.s03_en_US_dedes.hoMA.SunTroparion2.mode
+hoMA.SunTroparion2.text = ho.s03_en_US_dedes.hoMA.SunTroparion2.text
+R38 = ho.s03_en_US_dedes.R38 // [maybe unpack]
+R39 = ho.s03_en_US_dedes.R39
+
+//Order of Matins Gospel
+hoMA.Antiphon11.text = ho.s03_en_US_dedes.hoMA.Antiphon11.text //for media
+hoMA.PreGospelHymn.text = ho.s03_en_US_dedes.hoMA.PreGospelHymn.text
+
+hoMA.SunPostGospel.text = ho.s03_en_US_dedes.hoMA.SunPostGospel.text
+
+hoMA.PostGospelTrinity.text = ho.s03_en_US_dedes.hoMA.PostGospelTrinity.text
+hoMA.PostGospelApostle.text = ho.s03_en_US_dedes.hoMA.PostGospelApostle.text
+hoMA.PostGospelApostles.text = ho.s03_en_US_dedes.hoMA.PostGospelApostles.text
+hoMA.PostGospelMaleMartyr.text = ho.s03_en_US_dedes.hoMA.PostGospelMaleMartyr.text
+hoMA.PostGospelMartyrs.text = ho.s03_en_US_dedes.hoMA.PostGospelMartyrs.text
+hoMA.PostGospelWomanMartyr.text = ho.s03_en_US_dedes.hoMA.PostGospelWomanMartyr.text
+hoMA.PostGospelTeacher.text = ho.s03_en_US_dedes.hoMA.PostGospelTeacher.text
+hoMA.PostGospelTeachers.text = ho.s03_en_US_dedes.hoMA.PostGospelTeachers.text
+hoMA.PostGospelMonastic.text = ho.s03_en_US_dedes.hoMA.PostGospelMonastic.text
+hoMA.PostGospelForerunner.text = ho.s03_en_US_dedes.hoMA.PostGospelForerunner.text
+hoMA.PostGospelTheotokos.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
+hoMA.PostGospelAllPureLady.text = ho.s03_en_US_dedes.hoMA.PostGospelAllPureLady.text
+hoMA.PostGospelProphet.text = ho.s03_en_US_dedes.hoMA.PostGospelProphet.text
+hoMA.PostGospelAngels.text = ho.s03_en_US_dedes.hoMA.PostGospelAngels.text
+hoMA.PostGospelHierarch.text = ho.s03_en_US_dedes.hoMA.PostGospelHierarch.text
+
+hoMA.SunPostGospelIdiomelon.text = ho.s03_en_US_dedes.hoMA.SunPostGospelIdiomelon.text
+
+hoMA.SunExapVerse1.text = ho.s03_en_US_dedes.hoMA.SunExapVerse1.text
+
+//Triodion specific, not in Horologion
+hoMA.RtrSoS01 = ho.s03_en_US_dedes.hoMA.RtrSoS01

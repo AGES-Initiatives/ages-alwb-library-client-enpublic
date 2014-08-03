@@ -1,0 +1,13 @@
+A_Resource_Whose_Name = pe.d090_en_US_public
+
+peCommemoration.text = pe.d090_en_US_dedes.peCommemoration.text // full title of day
+peShortCommemoration1.text = pe.d090_en_US_dedes.peShortCommemoration1.text
+peInsert1 = pe.d090_en_US_dedes.peInsert1 // for use in petitions and dismissal
+peInsert2 = pe.d090_en_US_dedes.peInsert2 // for use in petitions and dismissal
+peNote.text = pe.d090_en_US_dedes.peNote.text
+peDismissal = pe.d090_en_US_dedes.peDismissal
+
+peMA.Kathisma21.mode = pe.d090_en_US_dedes.peMA.Kathisma21.mode
+peMA.Kathisma21.melody = pe.d090_en_US_dedes.peMA.Kathisma21.melody
+peMA.Kathisma21.text = pe.d090_en_US_dedes.peMA.Kathisma21.text
+

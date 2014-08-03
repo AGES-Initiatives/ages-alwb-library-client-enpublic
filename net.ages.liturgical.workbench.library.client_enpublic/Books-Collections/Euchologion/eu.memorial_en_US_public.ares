@@ -1,0 +1,45 @@
+A_Resource_Whose_Name = eu.memorial_en_US_public 
+
+euMEM.title = "MEMORIAL SERVICE"
+
+euMEM.KeyVerse.source = ""
+euMEM.KeyVerse.text = eu.funeral_en_US_public.euFUN.Key0600.text 
+euMEM.Key001.title = eu.funeral_en_US_public.euFUN.Key0600.title
+euMEM.Key001.mode = misc_en_US_public.Mode5
+euMEM.Key001.text = eu.funeral_en_US_public.euFUN.Key0601.text
+
+euMEM.Key002.mode = misc_en_US_public.Mode5
+euMEM.Key002.text = eu.funeral_en_US_public.euFUN.Key0602.text 
+
+euMEM.Key003.mode = misc_en_US_public.Mode5
+euMEM.Key003.text = eu.funeral_en_US_public.euFUN.Key0603.text 
+
+euMEM.Key004.mode = misc_en_US_public.Mode5
+euMEM.Key004.text = eu.funeral_en_US_public.euFUN.Key0604.text 
+
+euMEM.Key005.mode = misc_en_US_public.Mode5
+euMEM.Key005.text = eu.funeral_en_US_public.euFUN.Key0605.text 
+
+euMEM.Key006.mode = misc_en_US_public.Mode5
+euMEM.Key006.text = eu.funeral_en_US_public.euFUN.Key0606.text 
+
+euMEM.Key007.mode = misc_en_US_public.Mode5
+euMEM.Key007.text = eu.funeral_en_US_public.euFUN.Key0607.text 
+
+euMEM.Key008.mode = misc_en_US_public.Mode8
+euMEM.Key008.text = tr.d014_en_US_public.trMA.Kontakion.text
+
+euMEM.Key009.mode = misc_en_US_public.Mode4
+euMEM.Key009.text = eu.funeral_en_US_public.euFUN.Key0101.text
+
+euMEM.Key010.mode = misc_en_US_public.Mode4
+euMEM.Key010.text = eu.funeral_en_US_public.euFUN.Key0102.text
+
+euMEM.Key011.mode = misc_en_US_public.Mode4
+euMEM.Key011.text = eu.funeral_en_US_public.euFUN.Key0103.text
+
+euMEM.Key012.mode = misc_en_US_public.Mode4
+euMEM.Key012.text = eu.funeral_en_US_public.euFUN.Key0104.text
+
+euMEM.Key013.mode = misc_en_US_public.Mode3
+euMEM.Key013.text = eu.funeral_en_US_public.euFUN.Key0112.text

@@ -1,0 +1,663 @@
+A_Resource_Whose_Name = tr.d069_en_US_public
+
+trCommemoration.text = tr.d069_en_US_dedes.trCommemoration.text // full title of day
+trShortCommemoration1.text = tr.d069_en_US_dedes.trShortCommemoration1.text
+trInsert1 = tr.d069_en_US_dedes.trInsert1 // for use in petitions and dismissal
+trInsert2 = tr.d069_en_US_dedes.trInsert2 // for use in petitions and dismissal
+trNote.text = tr.d069_en_US_dedes.trNote.text
+
+trVE.Stichera01.mode = tr.d069_en_US_dedes.trVE.Stichera01.mode
+trVE.Stichera01.melody = tr.d069_en_US_dedes.trVE.Stichera01.melody
+trVE.Stichera01.text = tr.d069_en_US_dedes.trVE.Stichera01.text
+
+trVE.Stichera02.mode = tr.d069_en_US_dedes.trVE.Stichera02.mode
+trVE.Stichera02.melody = tr.d069_en_US_dedes.trVE.Stichera02.melody
+trVE.Stichera02.text = tr.d069_en_US_dedes.trVE.Stichera02.text
+
+trVE.Stichera03.mode = tr.d069_en_US_dedes.trVE.Stichera03.mode
+trVE.Stichera03.melody = tr.d069_en_US_dedes.trVE.Stichera03.melody
+trVE.Stichera03.text = tr.d069_en_US_dedes.trVE.Stichera03.text
+
+trVE.Stichera04.mode = tr.d069_en_US_dedes.trVE.Stichera04.mode
+trVE.Stichera04.melody = tr.d069_en_US_dedes.trVE.Stichera04.melody
+trVE.Stichera04.text = tr.d069_en_US_dedes.trVE.Stichera04.text
+
+trVE.Stichera05.mode = tr.d069_en_US_dedes.trVE.Stichera05.mode
+trVE.Stichera05.melody = tr.d069_en_US_dedes.trVE.Stichera05.melody
+trVE.Stichera05.text = tr.d069_en_US_dedes.trVE.Stichera05.text
+
+trVE.SticGlory.mode = tr.d069_en_US_dedes.trVE.SticGlory.mode
+trVE.SticGlory.melody = tr.d069_en_US_dedes.trVE.SticGlory.melody
+trVE.SticGlory.text = tr.d069_en_US_dedes.trVE.SticGlory.text
+
+trLI.CherubicHymn.mode = tr.d069_en_US_dedes.trLI.CherubicHymn.mode
+trLI.CherubicHymnPart1.text = tr.d069_en_US_dedes.trLI.CherubicHymnPart1.text
+trLI.CherubicHymnPart2.text = tr.d069_en_US_dedes.trLI.CherubicHymnPart2.text
+
+trLI.TheotokosHymn.mode = tr.d069_en_US_dedes.trLI.TheotokosHymn.mode
+trLI.TheotokosHymn.text = tr.d069_en_US_dedes.trLI.TheotokosHymn.text
+
+trLI.CommunionHymn.source = tr.d069_en_US_dedes.trLI.CommunionHymn.source
+trLI.CommunionHymn.text = tr.d069_en_US_dedes.trLI.CommunionHymn.text
+
+trLI.AfterCommunion.mode = tr.d069_en_US_dedes.trLI.AfterCommunion.mode
+trLI.AfterCommunion.text = tr.d069_en_US_dedes.trLI.AfterCommunion.text
+
+// Foot Washing
+trHW.NiptirIdiomelon1.mode = tr.d069_en_US_dedes.trHW.NiptirIdiomelon1.mode
+trHW.NiptirIdiomelon1.melody = tr.d069_en_US_dedes.trHW.NiptirIdiomelon1.melody
+trHW.NiptirIdiomelon1.text = tr.d069_en_US_dedes.trHW.NiptirIdiomelon1.text
+
+trHW.NiptirIdiomelon2.mode = tr.d069_en_US_dedes.trHW.NiptirIdiomelon2.mode
+trHW.NiptirIdiomelon2.melody = tr.d069_en_US_dedes.trHW.NiptirIdiomelon2.melody
+trHW.NiptirIdiomelon2.text = tr.d069_en_US_dedes.trHW.NiptirIdiomelon2.text
+
+trHW.NiptirIdiomelon3.mode = tr.d069_en_US_dedes.trHW.NiptirIdiomelon3.mode
+trHW.NiptirIdiomelon3.melody = tr.d069_en_US_dedes.trHW.NiptirIdiomelon3.melody
+trHW.NiptirIdiomelon3.text = tr.d069_en_US_dedes.trHW.NiptirIdiomelon3.text
+
+trHW.NiptirIdiomelon4.mode = tr.d069_en_US_dedes.trHW.NiptirIdiomelon4.mode
+trHW.NiptirIdiomelon4.melody = tr.d069_en_US_dedes.trHW.NiptirIdiomelon4.melody
+trHW.NiptirIdiomelon4.text = tr.d069_en_US_dedes.trHW.NiptirIdiomelon4.text
+
+trHW.NiptirIdiomelon5.mode = tr.d069_en_US_dedes.trHW.NiptirIdiomelon5.mode
+trHW.NiptirIdiomelon5.melody = tr.d069_en_US_dedes.trHW.NiptirIdiomelon5.melody
+trHW.NiptirIdiomelon5.text = tr.d069_en_US_dedes.trHW.NiptirIdiomelon5.text
+
+trHW.NiptirIdiomelon6.mode = tr.d069_en_US_dedes.trHW.NiptirIdiomelon6.mode
+trHW.NiptirIdiomelon6.melody = tr.d069_en_US_dedes.trHW.NiptirIdiomelon6.melody
+trHW.NiptirIdiomelon6.text = tr.d069_en_US_dedes.trHW.NiptirIdiomelon6.text
+
+// Holy Thursday night
+
+trHW.Alleluia.text = tr.d069_en_US_dedes.trHW.Alleluia.text // for media
+
+trHW.Troparion.mode = tr.d069_en_US_dedes.trHW.Troparion.mode
+trHW.Troparion.melody = tr.d069_en_US_dedes.trHW.Troparion.melody
+trHW.Troparion.text = tr.d069_en_US_dedes.trHW.Troparion.text
+
+trHW.Antiphon01.title = tr.d069_en_US_dedes.trHW.Antiphon01.title
+trHW.Antiphon011.mode = tr.d069_en_US_dedes.trHW.Antiphon011.mode
+trHW.Antiphon011.text = tr.d069_en_US_dedes.trHW.Antiphon011.text
+
+trHW.Antiphon012.mode = tr.d069_en_US_dedes.trHW.Antiphon012.mode
+trHW.Antiphon012.text = tr.d069_en_US_dedes.trHW.Antiphon012.text
+
+trHW.Antiphon013.mode = tr.d069_en_US_dedes.trHW.Antiphon013.mode
+trHW.Antiphon013.text = tr.d069_en_US_dedes.trHW.Antiphon013.text
+
+trHW.Antiphon01T.mode = tr.d069_en_US_dedes.trHW.Antiphon01T.mode
+trHW.Antiphon01T.text = tr.d069_en_US_dedes.trHW.Antiphon01T.text
+
+trHW.Antiphon02.title = tr.d069_en_US_dedes.trHW.Antiphon02.title
+trHW.Antiphon021.mode = tr.d069_en_US_dedes.trHW.Antiphon021.mode
+trHW.Antiphon021.text = tr.d069_en_US_dedes.trHW.Antiphon021.text
+
+trHW.Antiphon022.mode = tr.d069_en_US_dedes.trHW.Antiphon022.mode
+trHW.Antiphon022.text = tr.d069_en_US_dedes.trHW.Antiphon022.text
+
+trHW.Antiphon02T.mode = tr.d069_en_US_dedes.trHW.Antiphon02T.mode
+trHW.Antiphon02T.text = tr.d069_en_US_dedes.trHW.Antiphon02T.text
+
+trHW.Antiphon03.title = tr.d069_en_US_dedes.trHW.Antiphon03.title
+trHW.Antiphon031.mode = tr.d069_en_US_dedes.trHW.Antiphon031.mode
+trHW.Antiphon031.text = tr.d069_en_US_dedes.trHW.Antiphon031.text
+
+trHW.Antiphon032.mode = tr.d069_en_US_dedes.trHW.Antiphon032.mode
+trHW.Antiphon032.text = tr.d069_en_US_dedes.trHW.Antiphon032.text
+
+trHW.Antiphon033.mode = tr.d069_en_US_dedes.trHW.Antiphon033.mode
+trHW.Antiphon033.text = tr.d069_en_US_dedes.trHW.Antiphon033.text
+
+trHW.Antiphon034.mode = tr.d069_en_US_dedes.trHW.Antiphon034.mode
+trHW.Antiphon034.text = tr.d069_en_US_dedes.trHW.Antiphon034.text
+
+trHW.Antiphon035.mode = tr.d069_en_US_dedes.trHW.Antiphon035.mode
+trHW.Antiphon035.text = tr.d069_en_US_dedes.trHW.Antiphon035.text
+
+trHW.Antiphon036.mode = tr.d069_en_US_dedes.trHW.Antiphon036.mode
+trHW.Antiphon036.text = tr.d069_en_US_dedes.trHW.Antiphon036.text
+
+trHW.Antiphon03T.mode = tr.d069_en_US_dedes.trHW.Antiphon03T.mode
+trHW.Antiphon03T.text = tr.d069_en_US_dedes.trHW.Antiphon03T.text
+
+trHW.Antiphon03Kathisma.mode = tr.d069_en_US_dedes.trHW.Antiphon03Kathisma.mode
+trHW.Antiphon03Kathisma.text = tr.d069_en_US_dedes.trHW.Antiphon03Kathisma.text
+
+trHW.Antiphon04.title = tr.d069_en_US_dedes.trHW.Antiphon04.title
+trHW.Antiphon041.mode = tr.d069_en_US_dedes.trHW.Antiphon041.mode
+trHW.Antiphon041.text = tr.d069_en_US_dedes.trHW.Antiphon041.text
+
+trHW.Antiphon042.mode = tr.d069_en_US_dedes.trHW.Antiphon042.mode
+trHW.Antiphon042.text = tr.d069_en_US_dedes.trHW.Antiphon042.text
+
+trHW.Antiphon043.mode = tr.d069_en_US_dedes.trHW.Antiphon043.mode
+trHW.Antiphon043.text = tr.d069_en_US_dedes.trHW.Antiphon043.text
+
+trHW.Antiphon04T.mode = tr.d069_en_US_dedes.trHW.Antiphon04T.mode
+trHW.Antiphon04T.text = tr.d069_en_US_dedes.trHW.Antiphon04T.text
+
+trHW.Antiphon05.title = tr.d069_en_US_dedes.trHW.Antiphon05.title
+trHW.Antiphon051.mode = tr.d069_en_US_dedes.trHW.Antiphon051.mode
+trHW.Antiphon051.text = tr.d069_en_US_dedes.trHW.Antiphon051.text
+
+trHW.Antiphon052.mode = tr.d069_en_US_dedes.trHW.Antiphon052.mode
+trHW.Antiphon052.text = tr.d069_en_US_dedes.trHW.Antiphon052.text
+
+trHW.Antiphon05T.mode = tr.d069_en_US_dedes.trHW.Antiphon05T.mode
+trHW.Antiphon05T.text = tr.d069_en_US_dedes.trHW.Antiphon05T.text
+
+trHW.Antiphon06.title = tr.d069_en_US_dedes.trHW.Antiphon06.title
+trHW.Antiphon061.mode = tr.d069_en_US_dedes.trHW.Antiphon061.mode
+trHW.Antiphon061.text = tr.d069_en_US_dedes.trHW.Antiphon061.text
+
+trHW.Antiphon062.mode = tr.d069_en_US_dedes.trHW.Antiphon062.mode
+trHW.Antiphon062.text = tr.d069_en_US_dedes.trHW.Antiphon062.text
+
+trHW.Antiphon063.mode = tr.d069_en_US_dedes.trHW.Antiphon063.mode
+trHW.Antiphon063.text = tr.d069_en_US_dedes.trHW.Antiphon063.text
+
+trHW.Antiphon06T.mode = tr.d069_en_US_dedes.trHW.Antiphon06T.mode
+trHW.Antiphon06T.text = tr.d069_en_US_dedes.trHW.Antiphon06T.text
+
+trHW.Antiphon06Kathisma.mode = tr.d069_en_US_dedes.trHW.Antiphon06Kathisma.mode
+trHW.Antiphon06Kathisma.text = tr.d069_en_US_dedes.trHW.Antiphon06Kathisma.text
+
+trHW.Antiphon07.title = tr.d069_en_US_dedes.trHW.Antiphon07.title
+trHW.Antiphon071.mode = tr.d069_en_US_dedes.trHW.Antiphon071.mode
+trHW.Antiphon071.text = tr.d069_en_US_dedes.trHW.Antiphon071.text
+
+trHW.Antiphon072.mode = tr.d069_en_US_dedes.trHW.Antiphon072.mode
+trHW.Antiphon072.text = tr.d069_en_US_dedes.trHW.Antiphon072.text
+
+trHW.Antiphon07T.mode = tr.d069_en_US_dedes.trHW.Antiphon07T.mode
+trHW.Antiphon07T.text = tr.d069_en_US_dedes.trHW.Antiphon07T.text
+
+trHW.Antiphon08.title = tr.d069_en_US_dedes.trHW.Antiphon08.title
+trHW.Antiphon081.mode = tr.d069_en_US_dedes.trHW.Antiphon081.mode
+trHW.Antiphon081.text = tr.d069_en_US_dedes.trHW.Antiphon081.text
+
+trHW.Antiphon082.mode = tr.d069_en_US_dedes.trHW.Antiphon082.mode
+trHW.Antiphon082.text = tr.d069_en_US_dedes.trHW.Antiphon082.text
+
+trHW.Antiphon08T.mode = tr.d069_en_US_dedes.trHW.Antiphon08T.mode
+trHW.Antiphon08T.text = tr.d069_en_US_dedes.trHW.Antiphon08T.text
+
+trHW.Antiphon09.title = tr.d069_en_US_dedes.trHW.Antiphon09.title
+trHW.Antiphon091.mode = tr.d069_en_US_dedes.trHW.Antiphon091.mode
+trHW.Antiphon091.text = tr.d069_en_US_dedes.trHW.Antiphon091.text
+
+trHW.Antiphon092.mode = tr.d069_en_US_dedes.trHW.Antiphon092.mode
+trHW.Antiphon092.text = tr.d069_en_US_dedes.trHW.Antiphon092.text
+
+trHW.Antiphon09T.mode = tr.d069_en_US_dedes.trHW.Antiphon09T.mode
+trHW.Antiphon09T.text = tr.d069_en_US_dedes.trHW.Antiphon09T.text
+
+trHW.Antiphon09Kathisma.mode = tr.d069_en_US_dedes.trHW.Antiphon09Kathisma.mode
+trHW.Antiphon09Kathisma.text = tr.d069_en_US_dedes.trHW.Antiphon09Kathisma.text
+
+trHW.Antiphon10.title = tr.d069_en_US_dedes.trHW.Antiphon10.title
+trHW.Antiphon101.mode = tr.d069_en_US_dedes.trHW.Antiphon101.mode
+trHW.Antiphon101.text = tr.d069_en_US_dedes.trHW.Antiphon101.text
+
+trHW.Antiphon102.mode = tr.d069_en_US_dedes.trHW.Antiphon102.mode
+trHW.Antiphon102.text = tr.d069_en_US_dedes.trHW.Antiphon102.text
+
+trHW.Antiphon10T.mode = tr.d069_en_US_dedes.trHW.Antiphon10T.mode
+trHW.Antiphon10T.text = tr.d069_en_US_dedes.trHW.Antiphon10T.text
+
+trHW.Antiphon11.title = tr.d069_en_US_dedes.trHW.Antiphon11.title
+trHW.Antiphon111.mode = tr.d069_en_US_dedes.trHW.Antiphon111.mode
+trHW.Antiphon111.text = tr.d069_en_US_dedes.trHW.Antiphon111.text
+
+trHW.Antiphon112.mode = tr.d069_en_US_dedes.trHW.Antiphon112.mode
+trHW.Antiphon112.text = tr.d069_en_US_dedes.trHW.Antiphon112.text
+
+trHW.Antiphon113.mode = tr.d069_en_US_dedes.trHW.Antiphon113.mode
+trHW.Antiphon113.text = tr.d069_en_US_dedes.trHW.Antiphon113.text
+
+trHW.Antiphon11T.mode = tr.d069_en_US_dedes.trHW.Antiphon11T.mode
+trHW.Antiphon11T.text = tr.d069_en_US_dedes.trHW.Antiphon11T.text
+
+trHW.Antiphon12.title = tr.d069_en_US_dedes.trHW.Antiphon12.title
+trHW.Antiphon121.mode = tr.d069_en_US_dedes.trHW.Antiphon121.mode
+trHW.Antiphon121.text = tr.d069_en_US_dedes.trHW.Antiphon121.text
+
+trHW.Antiphon122.mode = tr.d069_en_US_dedes.trHW.Antiphon122.mode
+trHW.Antiphon122.text = tr.d069_en_US_dedes.trHW.Antiphon122.text
+
+trHW.Antiphon123.mode = tr.d069_en_US_dedes.trHW.Antiphon123.mode
+trHW.Antiphon123.text = tr.d069_en_US_dedes.trHW.Antiphon123.text
+
+trHW.Antiphon12T.mode = tr.d069_en_US_dedes.trHW.Antiphon12T.mode
+trHW.Antiphon12T.text = tr.d069_en_US_dedes.trHW.Antiphon12T.text
+
+trHW.Antiphon12Kathisma.mode = tr.d069_en_US_dedes.trHW.Antiphon12Kathisma.mode
+trHW.Antiphon12Kathisma.text = tr.d069_en_US_dedes.trHW.Antiphon12Kathisma.text
+
+trHW.Antiphon13.title = tr.d069_en_US_dedes.trHW.Antiphon13.title
+trHW.Antiphon131.mode = tr.d069_en_US_dedes.trHW.Antiphon131.mode
+trHW.Antiphon131.text = tr.d069_en_US_dedes.trHW.Antiphon131.text
+
+trHW.Antiphon132.mode = tr.d069_en_US_dedes.trHW.Antiphon132.mode
+trHW.Antiphon132.text = tr.d069_en_US_dedes.trHW.Antiphon132.text
+
+trHW.Antiphon13T.mode = tr.d069_en_US_dedes.trHW.Antiphon13T.mode
+trHW.Antiphon13T.text = tr.d069_en_US_dedes.trHW.Antiphon13T.text
+
+trHW.Antiphon14.title = tr.d069_en_US_dedes.trHW.Antiphon14.title
+trHW.Antiphon141.mode = tr.d069_en_US_dedes.trHW.Antiphon141.mode
+trHW.Antiphon141.text = tr.d069_en_US_dedes.trHW.Antiphon141.text
+
+trHW.Antiphon142.mode = tr.d069_en_US_dedes.trHW.Antiphon142.mode
+trHW.Antiphon142.text = tr.d069_en_US_dedes.trHW.Antiphon142.text
+
+trHW.Antiphon14T.mode = tr.d069_en_US_dedes.trHW.Antiphon14T.mode
+trHW.Antiphon14T.text = tr.d069_en_US_dedes.trHW.Antiphon14T.text
+
+trHW.Antiphon15.title = tr.d069_en_US_dedes.trHW.Antiphon15.title
+trHW.Antiphon151.mode = tr.d069_en_US_dedes.trHW.Antiphon151.mode
+trHW.Antiphon151.rubric = tr.d069_en_US_dedes.trHW.Antiphon151.rubric
+trHW.Antiphon151.text = tr.d069_en_US_dedes.trHW.Antiphon151.text
+trHW.Antiphon1511.text = tr.d069_en_US_dedes.trHW.Antiphon1511.text
+trHW.Antiphon1512.text = tr.d069_en_US_dedes.trHW.Antiphon1512.text
+trHW.Antiphon1513.text = tr.d069_en_US_dedes.trHW.Antiphon1513.text
+trHW.Antiphon1514.text = tr.d069_en_US_dedes.trHW.Antiphon1514.text
+trHW.Antiphon1515.text = tr.d069_en_US_dedes.trHW.Antiphon1515.text
+trHW.Antiphon1516.text = tr.d069_en_US_dedes.trHW.Antiphon1516.text
+trHW.Antiphon1517.text = tr.d069_en_US_dedes.trHW.Antiphon1517.text
+trHW.Antiphon1518.text = tr.d069_en_US_dedes.trHW.Antiphon1518.text
+
+trHW.Antiphon152.mode = tr.d069_en_US_dedes.trHW.Antiphon152.mode
+trHW.Antiphon152.text = tr.d069_en_US_dedes.trHW.Antiphon152.text
+
+trHW.Antiphon153.mode = tr.d069_en_US_dedes.trHW.Antiphon153.mode
+trHW.Antiphon153.text = tr.d069_en_US_dedes.trHW.Antiphon153.text
+
+trHW.Antiphon15T.mode = tr.d069_en_US_dedes.trHW.Antiphon15T.mode
+trHW.Antiphon15T.text = tr.d069_en_US_dedes.trHW.Antiphon15T.text
+
+trHW.Antiphon15Kathisma.mode = tr.d069_en_US_dedes.trHW.Antiphon15Kathisma.mode
+trHW.Antiphon15Kathisma.text = tr.d069_en_US_dedes.trHW.Antiphon15Kathisma.text
+
+trHW.Beatitudes01.mode = tr.d069_en_US_dedes.trHW.Beatitudes01.mode
+trHW.Beatutides01.melody = tr.d069_en_US_dedes.trHW.Beatutides01.melody
+trHW.Beatitudes01.text = tr.d069_en_US_dedes.trHW.Beatitudes01.text
+
+trHW.Beatitudes02.mode = tr.d069_en_US_dedes.trHW.Beatitudes02.mode
+trHW.Beatutides02.melody = tr.d069_en_US_dedes.trHW.Beatutides02.melody
+trHW.Beatitudes02.text = tr.d069_en_US_dedes.trHW.Beatitudes02.text
+
+trHW.Beatitudes03.mode = tr.d069_en_US_dedes.trHW.Beatitudes03.mode
+trHW.Beatutides03.melody = tr.d069_en_US_dedes.trHW.Beatutides03.melody
+trHW.Beatitudes03.text = tr.d069_en_US_dedes.trHW.Beatitudes03.text
+
+trHW.Beatitudes04.mode = tr.d069_en_US_dedes.trHW.Beatitudes04.mode
+trHW.Beatutides04.melody = tr.d069_en_US_dedes.trHW.Beatutides04.melody
+trHW.Beatitudes04.text = tr.d069_en_US_dedes.trHW.Beatitudes04.text
+
+trHW.Beatitudes05.mode = tr.d069_en_US_dedes.trHW.Beatitudes05.mode
+trHW.Beatutides05.melody = tr.d069_en_US_dedes.trHW.Beatutides05.melody
+trHW.Beatitudes05.text = tr.d069_en_US_dedes.trHW.Beatitudes05.text
+
+trHW.Beatitudes06.mode = tr.d069_en_US_dedes.trHW.Beatitudes06.mode
+trHW.Beatutides06.melody = tr.d069_en_US_dedes.trHW.Beatutides06.melody
+trHW.Beatitudes06.text = tr.d069_en_US_dedes.trHW.Beatitudes06.text
+
+trHW.Beatitudes07.mode = tr.d069_en_US_dedes.trHW.Beatitudes07.mode
+trHW.Beatutides07.melody = tr.d069_en_US_dedes.trHW.Beatutides07.melody
+trHW.Beatitudes07.text = tr.d069_en_US_dedes.trHW.Beatitudes07.text
+
+trHW.Beatitudes08.mode = tr.d069_en_US_dedes.trHW.Beatitudes08.mode
+trHW.Beatutides08.melody = tr.d069_en_US_dedes.trHW.Beatutides08.melody
+trHW.Beatitudes08.text = tr.d069_en_US_dedes.trHW.Beatitudes08.text
+
+trHW.BeatitudesTr.verse = tr.d069_en_US_dedes.trHW.BeatitudesTr.verse
+trHW.BeatitudesTr.mode = tr.d069_en_US_dedes.trHW.BeatitudesTr.mode
+trHW.BeatutidesTr.melody = tr.d069_en_US_dedes.trHW.BeatutidesTr.melody
+trHW.BeatitudesTr.text = tr.d069_en_US_dedes.trHW.BeatitudesTr.text
+
+trHW.BeatitudesT.verse = tr.d069_en_US_dedes.trHW.BeatitudesT.verse
+trHW.BeatitudesT.mode = tr.d069_en_US_dedes.trHW.BeatitudesT.mode
+trHW.BeatutidesT.melody = tr.d069_en_US_dedes.trHW.BeatutidesT.melody
+trHW.BeatitudesT.text = tr.d069_en_US_dedes.trHW.BeatitudesT.text
+
+trHW.Prokeimenon.source = tr.d069_en_US_dedes.trHW.Prokeimenon.source
+trHW.Prokeimenon.mode = tr.d069_en_US_dedes.trHW.Prokeimenon.mode
+trHW.Prokeimenon.text = tr.d069_en_US_dedes.trHW.Prokeimenon.text
+
+trHW.ProkeimenonVerse1.source = tr.d069_en_US_dedes.trHW.ProkeimenonVerse1.source
+trHW.ProkeimenonVerse1.text = tr.d069_en_US_dedes.trHW.ProkeimenonVerse1.text
+
+trMA.C1Poet = tr.d069_en_US_dedes.trMA.C1Poet
+trMA.C1Acrostic.text = tr.d069_en_US_dedes.trMA.C1Acrostic.text
+
+trMA.Ode5C1H.ode = tr.d069_en_US_dedes.trMA.Ode5C1H.ode
+trMA.Ode5C1H.mode = tr.d069_en_US_dedes.trMA.Ode5C1H.mode
+trMA.Ode5C1H.melody = tr.d069_en_US_dedes.trMA.Ode5C1H.melody
+trMA.Ode5C1H.text = tr.d069_en_US_dedes.trMA.Ode5C1H.text
+
+trMA.Ode5C11.ode = tr.d069_en_US_dedes.trMA.Ode5C11.ode
+trMA.Ode5C11.mode = tr.d069_en_US_dedes.trMA.Ode5C11.mode
+trMA.Ode5C11.melody = tr.d069_en_US_dedes.trMA.Ode5C11.melody
+trMA.Ode5C11.text = tr.d069_en_US_dedes.trMA.Ode5C11.text
+
+trMA.Ode5C12.ode = tr.d069_en_US_dedes.trMA.Ode5C12.ode
+trMA.Ode5C12.mode = tr.d069_en_US_dedes.trMA.Ode5C12.mode
+trMA.Ode5C12.melody = tr.d069_en_US_dedes.trMA.Ode5C12.melody
+trMA.Ode5C12.text = tr.d069_en_US_dedes.trMA.Ode5C12.text
+
+trMA.Ode5K.ode = tr.d069_en_US_dedes.trMA.Ode5K.ode
+trMA.Ode5K.mode = tr.d069_en_US_dedes.trMA.Ode5K.mode
+trMA.Ode5K.melody = tr.d069_en_US_dedes.trMA.Ode5K.melody
+trMA.Ode5K.text = tr.d069_en_US_dedes.trMA.Ode5K.text
+
+trMA.Kontakion.mode = tr.d069_en_US_dedes.trMA.Kontakion.mode
+trMA.Kontakion.melody = tr.d069_en_US_dedes.trMA.Kontakion.melody
+trMA.Kontakion.text = tr.d069_en_US_dedes.trMA.Kontakion.text
+
+trMA.Oikos.text = tr.d069_en_US_dedes.trMA.Oikos.text
+
+trMA.Synaxarion.rubric = tr.d069_en_US_dedes.trMA.Synaxarion.rubric
+trMA.Synaxarion1.Com = tr.d069_en_US_dedes.trMA.Synaxarion1.Com
+trMA.Synaxarion1.Ver1 = tr.d069_en_US_dedes.trMA.Synaxarion1.Ver1 // used as Title
+trMA.Synaxarion1.Ver2 = tr.d069_en_US_dedes.trMA.Synaxarion1.Ver2
+trMA.Synaxarion1.Ver3 = tr.d069_en_US_dedes.trMA.Synaxarion1.Ver3
+trMA.Synaxarion1.Ver4 = tr.d069_en_US_dedes.trMA.Synaxarion1.Ver4 // used as Title
+trMA.Synaxarion1.Ver5 = tr.d069_en_US_dedes.trMA.Synaxarion1.Ver5
+trMA.Synaxarion1.Ver6 = tr.d069_en_US_dedes.trMA.Synaxarion1.Ver6
+
+trMA.Synaxarion1.Nar = tr.d069_en_US_dedes.trMA.Synaxarion1.Nar
+
+trMA.Synaxarion.LastLine = tr.d069_en_US_dedes.trMA.Synaxarion.LastLine
+
+trMA.Ode8C1H.ode = tr.d069_en_US_dedes.trMA.Ode8C1H.ode
+trMA.Ode8C1H.mode = tr.d069_en_US_dedes.trMA.Ode8C1H.mode
+trMA.Ode8C1H.melody = tr.d069_en_US_dedes.trMA.Ode8C1H.melody
+trMA.Ode8C1H.text = tr.d069_en_US_dedes.trMA.Ode8C1H.text
+
+trMA.Ode8C11.ode = tr.d069_en_US_dedes.trMA.Ode8C11.ode
+trMA.Ode8C11.mode = tr.d069_en_US_dedes.trMA.Ode8C11.mode
+trMA.Ode8C11.melody = tr.d069_en_US_dedes.trMA.Ode8C11.melody
+trMA.Ode8C11.text = tr.d069_en_US_dedes.trMA.Ode8C11.text
+
+trMA.Ode8C12.ode = tr.d069_en_US_dedes.trMA.Ode8C12.ode
+trMA.Ode8C12.mode = tr.d069_en_US_dedes.trMA.Ode8C12.mode
+trMA.Ode8C12.melody = tr.d069_en_US_dedes.trMA.Ode8C12.melody
+trMA.Ode8C12.text = tr.d069_en_US_dedes.trMA.Ode8C12.text
+
+trMA.Ode8C13.ode = tr.d069_en_US_dedes.trMA.Ode8C13.ode
+trMA.Ode8C13.mode = tr.d069_en_US_dedes.trMA.Ode8C13.mode
+trMA.Ode8C13.melody = tr.d069_en_US_dedes.trMA.Ode8C13.melody
+trMA.Ode8C13.text = tr.d069_en_US_dedes.trMA.Ode8C13.text
+
+trMA.Ode8C14.ode = tr.d069_en_US_dedes.trMA.Ode8C14.ode
+trMA.Ode8C14.mode = tr.d069_en_US_dedes.trMA.Ode8C14.mode
+trMA.Ode8C14.melody = tr.d069_en_US_dedes.trMA.Ode8C14.melody
+trMA.Ode8C14.text = tr.d069_en_US_dedes.trMA.Ode8C14.text
+
+trMA.Ode8K.ode = tr.d069_en_US_dedes.trMA.Ode8K.ode
+trMA.Ode8K.mode = tr.d069_en_US_dedes.trMA.Ode8K.mode
+trMA.Ode8K.melody = tr.d069_en_US_dedes.trMA.Ode8K.melody
+trMA.Ode8K.text = tr.d069_en_US_dedes.trMA.Ode8K.text
+
+trMA.Ode9C1H.ode = tr.d069_en_US_dedes.trMA.Ode9C1H.ode
+trMA.Ode9C1H.mode = tr.d069_en_US_dedes.trMA.Ode9C1H.mode
+trMA.Ode9C1H.melody = tr.d069_en_US_dedes.trMA.Ode9C1H.melody
+trMA.Ode9C1H.text = tr.d069_en_US_dedes.trMA.Ode9C1H.text
+
+trMA.Ode9C11.ode = tr.d069_en_US_dedes.trMA.Ode9C11.ode
+trMA.Ode9C11.mode = tr.d069_en_US_dedes.trMA.Ode9C11.mode
+trMA.Ode9C11.melody = tr.d069_en_US_dedes.trMA.Ode9C11.melody
+trMA.Ode9C11.text = tr.d069_en_US_dedes.trMA.Ode9C11.text
+
+trMA.Ode9C12.ode = tr.d069_en_US_dedes.trMA.Ode9C12.ode
+trMA.Ode9C12.mode = tr.d069_en_US_dedes.trMA.Ode9C12.mode
+trMA.Ode9C12.melody = tr.d069_en_US_dedes.trMA.Ode9C12.melody
+trMA.Ode9C12.text = tr.d069_en_US_dedes.trMA.Ode9C12.text
+
+trMA.Ode9C13.ode = tr.d069_en_US_dedes.trMA.Ode9C13.ode
+trMA.Ode9C13.mode = tr.d069_en_US_dedes.trMA.Ode9C13.mode
+trMA.Ode9C13.melody = tr.d069_en_US_dedes.trMA.Ode9C13.melody
+trMA.Ode9C13.text = tr.d069_en_US_dedes.trMA.Ode9C13.text
+
+trMA.Ode9C14.ode = tr.d069_en_US_dedes.trMA.Ode9C14.ode
+trMA.Ode9C14.mode = tr.d069_en_US_dedes.trMA.Ode9C14.mode
+trMA.Ode9C14.melody = tr.d069_en_US_dedes.trMA.Ode9C14.melody
+trMA.Ode9C14.text = tr.d069_en_US_dedes.trMA.Ode9C14.text
+
+trMA.Ode9K.ode = tr.d069_en_US_dedes.trMA.Ode9K.ode
+trMA.Ode9K.mode = tr.d069_en_US_dedes.trMA.Ode9K.mode
+trMA.Ode9K.melody = tr.d069_en_US_dedes.trMA.Ode9K.melody
+trMA.Ode9K.text = tr.d069_en_US_dedes.trMA.Ode9K.text
+
+trMA.Exaposteilarion1.mode = tr.d069_en_US_dedes.trMA.Exaposteilarion1.mode
+trMA.Exaposteilarion1.melody = tr.d069_en_US_dedes.trMA.Exaposteilarion1.melody
+trMA.Exaposteilarion1.text = tr.d069_en_US_dedes.trMA.Exaposteilarion1.text
+
+trHW.Lauds01.text = tr.d069_en_US_dedes.trHW.Lauds01.text // for media
+
+trMA.Lauds1.mode = tr.d069_en_US_dedes.trMA.Lauds1.mode
+trMA.Lauds1.melody = tr.d069_en_US_dedes.trMA.Lauds1.melody
+trMA.Lauds1.text = tr.d069_en_US_dedes.trMA.Lauds1.text
+
+trMA.Lauds2.mode = tr.d069_en_US_dedes.trMA.Lauds2.mode
+trMA.Lauds2.melody = tr.d069_en_US_dedes.trMA.Lauds2.melody
+trMA.Lauds2.text = tr.d069_en_US_dedes.trMA.Lauds2.text
+
+trMA.Lauds3.mode = tr.d069_en_US_dedes.trMA.Lauds3.mode
+trMA.Lauds3.melody = tr.d069_en_US_dedes.trMA.Lauds3.melody
+trMA.Lauds3.text = tr.d069_en_US_dedes.trMA.Lauds3.text
+
+trMA.LaudsGlory.mode = tr.d069_en_US_dedes.trMA.LaudsGlory.mode
+trMA.LaudsGlory.melody = tr.d069_en_US_dedes.trMA.LaudsGlory.melody
+trMA.LaudsGlory.text = tr.d069_en_US_dedes.trMA.LaudsGlory.text
+
+trMA.LaudsBoth.mode = tr.d069_en_US_dedes.trMA.LaudsBoth.mode
+trMA.LaudsBoth.melody = tr.d069_en_US_dedes.trMA.LaudsBoth.melody
+trMA.LaudsBoth.text = tr.d069_en_US_dedes.trMA.LaudsBoth.text
+
+trMA.Aposticha1.mode = tr.d069_en_US_dedes.trMA.Aposticha1.mode
+trMA.Aposticha1.melody = tr.d069_en_US_dedes.trMA.Aposticha1.melody
+trMA.Aposticha1.text = tr.d069_en_US_dedes.trMA.Aposticha1.text
+
+trMA.ApostichaVerse2.source = tr.d069_en_US_dedes.trMA.ApostichaVerse2.source
+trMA.ApostichaVerse2.text = tr.d069_en_US_dedes.trMA.ApostichaVerse2.text
+
+trMA.Aposticha2.mode = tr.d069_en_US_dedes.trMA.Aposticha2.mode
+trMA.Aposticha2.melody = tr.d069_en_US_dedes.trMA.Aposticha2.melody
+trMA.Aposticha2.text = tr.d069_en_US_dedes.trMA.Aposticha2.text
+
+trMA.ApostichaVerse3.source = tr.d069_en_US_dedes.trMA.ApostichaVerse3.source
+trMA.ApostichaVerse3.text = tr.d069_en_US_dedes.trMA.ApostichaVerse3.text
+
+trMA.Aposticha3.mode = tr.d069_en_US_dedes.trMA.Aposticha3.mode
+trMA.Aposticha3.melody = tr.d069_en_US_dedes.trMA.Aposticha3.melody
+trMA.Aposticha3.text = tr.d069_en_US_dedes.trMA.Aposticha3.text
+
+trMA.ApostichaVerse4.source = tr.d069_en_US_dedes.trMA.ApostichaVerse4.source
+trMA.ApostichaVerse4.text = tr.d069_en_US_dedes.trMA.ApostichaVerse4.text
+
+trMA.Aposticha4.mode = tr.d069_en_US_dedes.trMA.Aposticha4.mode
+trMA.Aposticha4.melody = tr.d069_en_US_dedes.trMA.Aposticha4.melody
+trMA.Aposticha4.text = tr.d069_en_US_dedes.trMA.Aposticha4.text
+
+trMA.AposGlory.mode = tr.d069_en_US_dedes.trMA.AposGlory.mode
+trMA.AposGlory.melody = tr.d069_en_US_dedes.trMA.AposGlory.melody
+trMA.AposGlory.text = tr.d069_en_US_dedes.trMA.AposGlory.text
+
+trMA.AposBoth.mode = tr.d069_en_US_dedes.trMA.AposBoth.mode
+trMA.AposBoth.melody = tr.d069_en_US_dedes.trMA.AposBoth.melody
+trMA.AposBoth.text = tr.d069_en_US_dedes.trMA.AposBoth.text
+
+trHW.Apolytikion1.mode = tr.d069_en_US_dedes.trHW.Apolytikion1.mode
+trHW.Apolytikion1.text = tr.d069_en_US_dedes.trHW.Apolytikion1.text
+
+trH.Hours.title = tr.d069_en_US_dedes.trH.Hours.title
+trH.Hours.Poet = tr.d069_en_US_dedes.trH.Hours.Poet
+
+trH1.title = tr.d069_en_US_dedes.trH1.title
+
+trH1.Ps1.source = tr.d069_en_US_dedes.trH1.Ps1.source
+trH1.Ps1.title = tr.d069_en_US_dedes.trH1.Ps1.title
+trH1.Ps1.text = tr.d069_en_US_dedes.trH1.Ps1.text
+
+trH1.Ps2.source = tr.d069_en_US_dedes.trH1.Ps2.source
+trH1.Ps2.title = tr.d069_en_US_dedes.trH1.Ps2.title
+trH1.Ps2.text = tr.d069_en_US_dedes.trH1.Ps2.text
+
+trH1.Ps3.source = tr.d069_en_US_dedes.trH1.Ps3.source
+trH1.Ps3.title = tr.d069_en_US_dedes.trH1.Ps3.title
+trH1.Ps3.text = tr.d069_en_US_dedes.trH1.Ps3.text
+
+trH1.Troparion.mode = tr.d069_en_US_dedes.trH1.Troparion.mode
+trH1.Troparion.text = tr.d069_en_US_dedes.trH1.Troparion.text
+
+trH1.Theotokion.mode = tr.d069_en_US_dedes.trH1.Theotokion.mode
+trH1.Theotokion.text = tr.d069_en_US_dedes.trH1.Theotokion.text
+
+trH1.Idiomelon1.mode = tr.d069_en_US_dedes.trH1.Idiomelon1.mode
+trH1.Idiomelon1.melody = tr.d069_en_US_dedes.trH1.Idiomelon1.melody
+trH1.Idiomelon1.text = tr.d069_en_US_dedes.trH1.Idiomelon1.text
+
+trH1.Verse2.source = tr.d069_en_US_dedes.trH1.Verse2.source
+trH1.Verse2.text = tr.d069_en_US_dedes.trH1.Verse2.text
+
+trH1.Idiomelon2.mode = tr.d069_en_US_dedes.trH1.Idiomelon2.mode
+trH1.Idiomelon2.melody = tr.d069_en_US_dedes.trH1.Idiomelon2.melody
+trH1.Idiomelon2.text = tr.d069_en_US_dedes.trH1.Idiomelon2.text
+
+trH1.Verse3.source = tr.d069_en_US_dedes.trH1.Verse3.source
+trH1.Verse3.text = tr.d069_en_US_dedes.trH1.Verse3.text
+
+trH1.Idiomelon3.mode = tr.d069_en_US_dedes.trH1.Idiomelon3.mode
+trH1.Idiomelon3.melody = tr.d069_en_US_dedes.trH1.Idiomelon3.melody
+trH1.Idiomelon3.text = tr.d069_en_US_dedes.trH1.Idiomelon3.text
+
+trH1.Kontakion.mode = tr.d069_en_US_dedes.trH1.Kontakion.mode
+trH1.Kontakion.text = tr.d069_en_US_dedes.trH1.Kontakion.text
+
+trH3.title = tr.d069_en_US_dedes.trH3.title
+
+trH3.Ps1.source = tr.d069_en_US_dedes.trH3.Ps1.source
+trH3.Ps1.title = tr.d069_en_US_dedes.trH3.Ps1.title
+trH3.Ps1.text = tr.d069_en_US_dedes.trH3.Ps1.text
+
+trH3.Ps2.source = tr.d069_en_US_dedes.trH3.Ps2.source
+trH3.Ps2.title = tr.d069_en_US_dedes.trH3.Ps2.title
+trH3.Ps2.text = tr.d069_en_US_dedes.trH3.Ps2.text
+
+trH3.Ps3.source = tr.d069_en_US_dedes.trH3.Ps3.source
+trH3.Ps3.title = tr.d069_en_US_dedes.trH3.Ps3.title
+//trH3.Ps3.text = tr.d069_en_US_dedes.trH3.Ps3.text
+
+trH3.Troparion.mode = tr.d069_en_US_dedes.trH3.Troparion.mode
+trH3.Troparion.text = tr.d069_en_US_dedes.trH3.Troparion.text
+
+trH3.Theotokion.mode = tr.d069_en_US_dedes.trH3.Theotokion.mode
+trH3.Theotokion.text = tr.d069_en_US_dedes.trH3.Theotokion.text
+
+trH3.Idiomelon1.mode = tr.d069_en_US_dedes.trH3.Idiomelon1.mode
+trH3.Idiomelon1.melody = tr.d069_en_US_dedes.trH3.Idiomelon1.melody
+trH3.Idiomelon1.text = tr.d069_en_US_dedes.trH3.Idiomelon1.text
+
+trH3.Verse2.source = tr.d069_en_US_dedes.trH3.Verse2.source
+trH3.Verse2.text = tr.d069_en_US_dedes.trH3.Verse2.text
+
+trH3.Idiomelon2.mode = tr.d069_en_US_dedes.trH3.Idiomelon2.mode
+trH3.Idiomelon2.melody = tr.d069_en_US_dedes.trH3.Idiomelon2.melody
+trH3.Idiomelon2.text = tr.d069_en_US_dedes.trH3.Idiomelon2.text
+
+trH3.Verse3.source = tr.d069_en_US_dedes.trH3.Verse3.source
+trH3.Verse3.text = tr.d069_en_US_dedes.trH3.Verse3.text
+
+trH3.Idiomelon3.mode = tr.d069_en_US_dedes.trH3.Idiomelon3.mode
+trH3.Idiomelon3.melody = tr.d069_en_US_dedes.trH3.Idiomelon3.melody
+trH3.Idiomelon3.text = tr.d069_en_US_dedes.trH3.Idiomelon3.text
+
+trH3.Kontakion.mode = tr.d069_en_US_dedes.trH3.Kontakion.mode
+trH3.Kontakion.text = tr.d069_en_US_dedes.trH3.Kontakion.text
+
+trH6.title = tr.d069_en_US_dedes.trH6.title
+
+trH6.Ps1.source = tr.d069_en_US_dedes.trH6.Ps1.source
+trH6.Ps1.title = tr.d069_en_US_dedes.trH6.Ps1.title
+trH6.Ps1.text = tr.d069_en_US_dedes.trH6.Ps1.text
+
+trH6.Ps2.source = tr.d069_en_US_dedes.trH6.Ps2.source
+trH6.Ps2.title = tr.d069_en_US_dedes.trH6.Ps2.title
+trH6.Ps2.text = tr.d069_en_US_dedes.trH6.Ps2.text
+
+trH6.Ps3.source = tr.d069_en_US_dedes.trH6.Ps3.source
+trH6.Ps3.title = tr.d069_en_US_dedes.trH6.Ps3.title
+trH6.Ps3.text = tr.d069_en_US_dedes.trH6.Ps3.text
+
+trH6.Troparion.mode = tr.d069_en_US_dedes.trH6.Troparion.mode
+trH6.Troparion.text = tr.d069_en_US_dedes.trH6.Troparion.text
+
+trH6.Theotokion.mode = tr.d069_en_US_dedes.trH6.Theotokion.mode
+trH6.Theotokion.text = tr.d069_en_US_dedes.trH6.Theotokion.text
+
+trH6.Idiomelon1.mode = tr.d069_en_US_dedes.trH6.Idiomelon1.mode
+trH6.Idiomelon1.melody = tr.d069_en_US_dedes.trH6.Idiomelon1.melody
+trH6.Idiomelon1.text = tr.d069_en_US_dedes.trH6.Idiomelon1.text
+
+trH6.Verse2.source = tr.d069_en_US_dedes.trH6.Verse2.source
+trH6.Verse2.text = tr.d069_en_US_dedes.trH6.Verse2.text
+
+trH6.Idiomelon2.mode = tr.d069_en_US_dedes.trH6.Idiomelon2.mode
+trH6.Idiomelon2.melody = tr.d069_en_US_dedes.trH6.Idiomelon2.melody
+trH6.Idiomelon2.text = tr.d069_en_US_dedes.trH6.Idiomelon2.text
+
+trH6.Verse3.source = tr.d069_en_US_dedes.trH6.Verse3.source
+trH6.Verse3.text = tr.d069_en_US_dedes.trH6.Verse3.text
+
+trH6.Idiomelon3.mode = tr.d069_en_US_dedes.trH6.Idiomelon3.mode
+trH6.Idiomelon3.melody = tr.d069_en_US_dedes.trH6.Idiomelon3.melody
+trH6.Idiomelon3.text = tr.d069_en_US_dedes.trH6.Idiomelon3.text
+
+trH6.Kontakion.mode = tr.d069_en_US_dedes.trH6.Kontakion.mode
+trH6.Kontakion.text = tr.d069_en_US_dedes.trH6.Kontakion.text
+
+trH9.title = tr.d069_en_US_dedes.trH9.title
+
+trH9.Ps1.source = tr.d069_en_US_dedes.trH9.Ps1.source
+trH9.Ps1.title = tr.d069_en_US_dedes.trH9.Ps1.title
+trH9.Ps1.text = tr.d069_en_US_dedes.trH9.Ps1.text
+
+trH9.Ps2.source = tr.d069_en_US_dedes.trH9.Ps2.source
+trH9.Ps2.title = tr.d069_en_US_dedes.trH9.Ps2.title
+trH9.Ps2.text = tr.d069_en_US_dedes.trH9.Ps2.text
+
+trH9.Ps3.source = tr.d069_en_US_dedes.trH9.Ps3.source
+trH9.Ps3.title = tr.d069_en_US_dedes.trH9.Ps3.title
+trH9.Ps3.text = tr.d069_en_US_dedes.trH9.Ps3.text
+
+trH9.Troparion.mode = tr.d069_en_US_dedes.trH9.Troparion.mode
+trH9.Troparion.text = tr.d069_en_US_dedes.trH9.Troparion.text
+
+trH9.Theotokion.mode = tr.d069_en_US_dedes.trH9.Theotokion.mode
+trH9.Theotokion.text = tr.d069_en_US_dedes.trH9.Theotokion.text
+
+trH9.Idiomelon1.mode = tr.d069_en_US_dedes.trH9.Idiomelon1.mode
+trH9.Idiomelon1.melody = tr.d069_en_US_dedes.trH9.Idiomelon1.melody
+trH9.Idiomelon1.text = tr.d069_en_US_dedes.trH9.Idiomelon1.text
+
+trH9.Verse2.source = tr.d069_en_US_dedes.trH9.Verse2.source
+trH9.Verse2.text = tr.d069_en_US_dedes.trH9.Verse2.text
+
+trH9.Idiomelon2.mode = tr.d069_en_US_dedes.trH9.Idiomelon2.mode
+trH9.Idiomelon2.melody = tr.d069_en_US_dedes.trH9.Idiomelon2.melody
+trH9.Idiomelon2.text = tr.d069_en_US_dedes.trH9.Idiomelon2.text
+
+trH9.Verse3.source = tr.d069_en_US_dedes.trH9.Verse3.source
+trH9.Verse3.text = tr.d069_en_US_dedes.trH9.Verse3.text
+
+trH9.Idiomelon3.rubric = tr.d069_en_US_dedes.trH9.Idiomelon3.rubric
+trH9.Idiomelon3.mode = tr.d069_en_US_dedes.trH9.Idiomelon3.mode
+trH9.Idiomelon3.melody = tr.d069_en_US_dedes.trH9.Idiomelon3.melody
+trH9.Idiomelon3.text = tr.d069_en_US_dedes.trH9.Idiomelon3.text // use Antiphon151
+
+trH9.Kontakion.mode = tr.d069_en_US_dedes.trH9.Kontakion.mode
+trH9.Kontakion.text = tr.d069_en_US_dedes.trH9.Kontakion.text
+
