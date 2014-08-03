@@ -1,0 +1,151 @@
+A_Resource_Whose_Name = template.titles_en_US_public
+
+//books - collections
+eo = "EOTHINA"
+eu = "EUCHOLOGION"
+he = "HEIRMOLOGION"
+hi = "PRIESTS HANDBOOK"
+ho = "HOROLOGION"
+ka = "KATAVASIAS"
+le = "LECTIONARY" // this should be divided into three sections: prophecies, epistles, gospels
+me = "MENAION"
+oc = "OCTOECHOS"
+pe = "PENTECOSTARION"
+ps = "PSALTER"
+sy = "SYNAXARION"
+tr = "TRIODION"
+
+//service days
+sat = "SATURDAY"
+sun = "SUNDAY"
+wkd = "WEEKDAY"
+
+//service names
+service = "Service"
+
+co.html.tab  = "COMPLINE"
+co.pdf.header = "COMPLINE"
+co.pdf.cover = "The Service of Compline"
+co.smallcompline.cover = "Small Compline"
+co.smallcompline.header = "SMALL COMPLINE"
+co.salutations.pdf.cover = "Small Compline with Salutations"
+co.salutations.pdf.header = "SMALL COMPLINE WITH SALUTATIONS"
+co.greatcompline.pdf.cover = "Great Compline"
+co.greatcompline.pdf.header = "GREAT COMPLINE"
+
+//sacraments
+con.consecration = "Consecration"
+
+un.html.tab  = "UNCTION"
+un.pdf.header = "The Service of Holy Unction"
+un.pdf.cover = "The Service of Holy Unction"
+
+em.html.tab  = "MATINS"  //this is for Matins in the evening during Holy Week
+em.pdf.header = "Matins"
+em.pdf.cover = "Matins"
+
+gh.html.tab  = "GREAT HOURS"
+gh.pdf.header = "Great Hours"
+gh.pdf.cover = "The Great Hours"
+
+gp.html.tab = "PARAKLESIS"
+gp.pdf.header = "Great Paraklesis"
+gp.pdf.cover = "Service of the Great Parklesis"
+
+h1.html.tab  = "FIRST HOUR"
+h1.pdf.header = "First Hour"
+h1.pdf.cover = "The First Hour"
+
+h3.html.tab  = "THIRD HOUR"
+h3.pdf.header = "Third Hour"
+h3.pdf.cover = "The Third Hour"
+
+h6.html.tab  = "SIXTH HOUR"
+h6.pdf.header = "Sixth Hour"
+h6.pdf.cover = "The Sixth Hour"
+
+h9.html.tab  = "NINTH HOUR"
+h9.pdf.header = "Ninth Hour"
+h9.pdf.cover = "The Ninth Hour"
+
+hw.pdf.cover = "Holy Week "
+
+li.html.tab  = "LITURGY"
+li.pdf.header = "Liturgy"
+li.pdf.cover = "The Divine Liturgy"
+
+ma.html.tab  = "MATINS"
+ma.pdf.header = "Matins"
+ma.pdf.cover = "The Service of Matins"
+
+mo.html.tab  = "MIDNIGHT OFFICE"
+mo.pdf.header = "Midnight Office"
+mo.pdf.cover = "The Midnight Office"
+
+pl.html.tab  = "PRESANCTIFIED"
+pl.pdf.header = "Presanctified Liturgy"
+pl.pdf.cover = "The Presanctified Liturgy"
+
+sp.html.tab = "PARAKLESIS"
+sp.pdf.header = "Small Paraklesis"
+sp.pdf.cover = "Service of the Small Parklesis"
+
+sv.html.tab  = "SMALL VESPERS"
+sv.pdf.header = "Small Vespers"
+sv.pdf.cover = "The Service of Small Vespers"
+
+ve.html.tab  = "VESPERS"
+ve.pdf.header = "Vespers"
+ve.pdf.cover = "The Service of Vespers"
+
+vl.html.tab  = "VESPERAL LITURGY"
+vl.pdf.header = "Vesperal Liturgy"
+vl.pdf.cover = "Vesperal Liturgy"
+
+//other
+d  = "DAY"
+d.delimiter = " - "
+d.of = " of "
+d.on = " on "
+d.ontheeveof = " on the eve of "
+d.onSundayMorning = "on Sunday Morning"
+d.onSundayEvening = "on Sunday Evening"
+d.onMondayMorning = "on Monday Morning"
+d.onMondayEvening = "on Monday Evening"
+d.onTuesdayMorning = "on Tuesday Morning"
+d.onTuesdayEvening = "on Tuesday Evening"
+d.onWednesdayMorning = "on Wednesday Morning"
+d.onWednesdayEvening = "on Wednesday Evening"
+d.onThursdayMorning = "on Thursday Morning"
+d.onThursdayEvening = "on Thursday Evening"
+d.onFridayMorning = "on Friday Morning"
+d.onFridayAfternoon = "on Friday Afternoon"
+d.onFridayEvening = "on Friday Evening"
+d.onSaturdayMorning = "on Saturday Morning"
+d.onSaturdayEvening = "on Saturday Evening"
+
+m.month  = "MONTH" // I will programatically determine whether to look up the m.month vs m.mode key
+m.mode = "MODE"
+
+//Holy Week
+hw.mergedscores.title = "Holy Week and Pascha Music<br>Merged Scores"
+hw.palmsunday = "Palm Sunday"
+hw.bridegroomservice = "Bridegroom Service "
+hw.passion = "Service of the Twelve Passion Gospels "
+hw.removal = "Removal from the Cross "
+hw.lamentation = "The Graveside Lamentation "
+hw.beforeresurrection = "The Service before the Resurrection "
+hw.ofholymonday = "of Holy Monday"
+hw.ofholytuesday = "of Holy Tuesday"
+hw.ofholywednesday = "of Holy Wednesday"
+hw.ofholythursday = "of Holy Thursday"
+hw.ofholyfriday = "of Holy Friday"
+hw.ofholysaturday = "of Holy Saturday"
+
+pa.pascha = "Holy Pascha"
+pa.ofpascha = "of Pascha"
+pa.resurrection = "The Resurrection"
+pa.easter = "Easter Sunday"
+pa.agape = "The Agape Vespers Service"
+pa.brightweek = "Bright / Renewal Week"
+

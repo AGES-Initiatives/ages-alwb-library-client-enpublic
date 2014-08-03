@@ -1,0 +1,63 @@
+A_Resource_Whose_Name = tr.d071_en_US_public
+
+trCommemoration.text = tr.d071_en_US_dedes.trCommemoration.text // full title of day
+trShortCommemoration1.text = tr.d071_en_US_dedes.trShortCommemoration1.text
+trInsert1 = tr.d071_en_US_dedes.trInsert1 // for use in petitions and dismissal
+trInsert2 = tr.d071_en_US_dedes.trInsert2 // for use in petitions and dismissal
+trNote.text = tr.d071_en_US_dedes.trNote.text
+
+trVE.Stichera01.mode = tr.d071_en_US_dedes.trVE.Stichera01.mode
+trVE.Stichera01.melody = tr.d071_en_US_dedes.trVE.Stichera01.melody
+trVE.Stichera01.text = tr.d071_en_US_dedes.trVE.Stichera01.text
+
+trVE.Stichera02.mode = tr.d071_en_US_dedes.trVE.Stichera02.mode
+trVE.Stichera02.melody = tr.d071_en_US_dedes.trVE.Stichera02.melody
+trVE.Stichera02.text = tr.d071_en_US_dedes.trVE.Stichera02.text
+
+trVE.Stichera03.mode = tr.d071_en_US_dedes.trVE.Stichera03.mode
+trVE.Stichera03.melody = tr.d071_en_US_dedes.trVE.Stichera03.melody
+trVE.Stichera03.text = tr.d071_en_US_dedes.trVE.Stichera03.text
+
+trVE.Stichera04.mode = tr.d071_en_US_dedes.trVE.Stichera04.mode
+trVE.Stichera04.melody = tr.d071_en_US_dedes.trVE.Stichera04.melody
+trVE.Stichera04.text = tr.d071_en_US_dedes.trVE.Stichera04.text
+
+trVE.Stichera05.mode = tr.d071_en_US_dedes.trVE.Stichera05.mode
+trVE.Stichera05.melody = tr.d071_en_US_dedes.trVE.Stichera05.melody
+trVE.Stichera05.text = tr.d071_en_US_dedes.trVE.Stichera05.text
+
+trVE.Stichera06.mode = tr.d071_en_US_dedes.trVE.Stichera06.mode
+trVE.Stichera06.melody = tr.d071_en_US_dedes.trVE.Stichera06.melody
+trVE.Stichera06.text = tr.d071_en_US_dedes.trVE.Stichera06.text
+
+trVE.Stichera07.mode = tr.d071_en_US_dedes.trVE.Stichera07.mode
+trVE.Stichera07.melody = tr.d071_en_US_dedes.trVE.Stichera07.melody
+trVE.Stichera07.text = tr.d071_en_US_dedes.trVE.Stichera07.text
+
+trVE.SticGlory.mode = tr.d071_en_US_dedes.trVE.SticGlory.mode
+trVE.SticGlory.melody = tr.d071_en_US_dedes.trVE.SticGlory.melody
+trVE.SticGlory.text = tr.d071_en_US_dedes.trVE.SticGlory.text
+
+trVE.SticTheotokion.mode = tr.d071_en_US_dedes.trVE.SticTheotokion.mode
+trVE.SticTheotokion.melody = tr.d071_en_US_dedes.trVE.SticTheotokion.melody
+trVE.SticTheotokion.text = tr.d071_en_US_dedes.trVE.SticTheotokion.text
+
+// Hymn of the Three Servants
+trHW.SaturdayHymn.title = tr.d071_en_US_dedes.trHW.SaturdayHymn.title
+trHW.SaturdayHymn.mode = tr.d071_en_US_dedes.trHW.SaturdayHymn.mode // or Mode6
+trHW.SaturdayHymn.text = tr.d071_en_US_dedes.trHW.SaturdayHymn.text
+
+trHW.SaturdayArise.text = tr.d071_en_US_dedes.trHW.SaturdayArise.text
+
+trHW.CherubicHymn.mode = tr.d071_en_US_dedes.trHW.CherubicHymn.mode
+trHW.CherubicHymnPart1.text = tr.d071_en_US_dedes.trHW.CherubicHymnPart1.text
+trHW.CherubicHymnPart2.text = tr.d071_en_US_dedes.trHW.CherubicHymnPart2.text
+
+trHW.TheotokosHymn.mode = tr.d071_en_US_dedes.trHW.TheotokosHymn.mode
+trHW.TheotokosHymn.text = tr.d071_en_US_dedes.trHW.TheotokosHymn.text
+
+trHW.CommunionHymn.text = tr.d071_en_US_dedes.trHW.CommunionHymn.text
+
+trHW.AfterCommunion.mode = tr.d071_en_US_dedes.trHW.AfterCommunion.mode
+trHW.AfterCommunion.text = tr.d071_en_US_dedes.trHW.AfterCommunion.text
+

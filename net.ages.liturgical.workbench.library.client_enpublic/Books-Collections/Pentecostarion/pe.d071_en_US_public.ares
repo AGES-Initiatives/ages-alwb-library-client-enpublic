@@ -1,0 +1,32 @@
+A_Resource_Whose_Name = pe.d071_en_US_public
+
+peCommemoration.text = pe.d071_en_US_dedes.peCommemoration.text // full title of day
+peShortCommemoration1.text = pe.d071_en_US_dedes.peShortCommemoration1.text
+peInsert1 = pe.d071_en_US_dedes.peInsert1 // for use in petitions and dismissal
+peInsert2 = pe.d071_en_US_dedes.peInsert2 // for use in petitions and dismissal
+peNote.text = pe.d071_en_US_dedes.peNote.text
+peDismissal = pe.d071_en_US_dedes.peDismissal
+
+peMA.Synaxarion1.Com = pe.d071_en_US_dedes.peMA.Synaxarion1.Com
+peMA.Synaxarion1.Ver1 = pe.d071_en_US_dedes.peMA.Synaxarion1.Ver1
+peMA.Synaxarion1.Ver2 = pe.d071_en_US_dedes.peMA.Synaxarion1.Ver2
+peMA.Synaxarion1.Nar = pe.d071_en_US_dedes.peMA.Synaxarion1.Nar
+
+peMA.Synaxarion.LastLine = pe.d071_en_US_dedes.peMA.Synaxarion.LastLine
+
+peMA.Lauds1.mode = pe.d071_en_US_dedes.peMA.Lauds1.mode
+peMA.Lauds1.melody = pe.d071_en_US_dedes.peMA.Lauds1.melody
+peMA.Lauds1.text = pe.d071_en_US_dedes.peMA.Lauds1.text
+
+peMA.Lauds2.mode = pe.d071_en_US_dedes.peMA.Lauds2.mode
+peMA.Lauds2.melody = pe.d071_en_US_dedes.peMA.Lauds2.melody
+peMA.Lauds2.text = pe.d071_en_US_dedes.peMA.Lauds2.text
+
+peMA.Lauds3.mode = pe.d071_en_US_dedes.peMA.Lauds3.mode
+peMA.Lauds3.melody = pe.d071_en_US_dedes.peMA.Lauds3.melody
+peMA.Lauds3.text = pe.d071_en_US_dedes.peMA.Lauds3.text
+
+peMA.Lauds4.mode = pe.d071_en_US_dedes.peMA.Lauds4.mode
+peMA.Lauds4.melody = pe.d071_en_US_dedes.peMA.Lauds4.melody
+peMA.Lauds4.text = pe.d071_en_US_dedes.peMA.Lauds4.text
+

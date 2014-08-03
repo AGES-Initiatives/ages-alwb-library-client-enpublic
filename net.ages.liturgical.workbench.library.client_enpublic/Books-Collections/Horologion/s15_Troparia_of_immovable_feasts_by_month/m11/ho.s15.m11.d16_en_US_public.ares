@@ -1,0 +1,11 @@
+A_Resource_Whose_Name = ho.s15.m11.d16_en_US_public 
+
+// Resource for texts needed in ho.s15 templates that are not in Menaion
+// e.g. commemoration listings, notes, fasting rubrics, extra hymns
+
+ho.rank  = ho.s15.m11.d16_en_US_dedes.ho.rank 
+ho.number = ho.s15.m11.d16_en_US_dedes.ho.number
+ho.commemorations = ho.s15.m11.d16_en_US_dedes.ho.commemorations
+ho.note1 = ho.s15.m11.d16_en_US_dedes.ho.note1
+ho.note2 = ho.s15.m11.d16_en_US_dedes.ho.note2
+

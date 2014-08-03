@@ -1,0 +1,25 @@
+A_Resource_Whose_Name = ho.s15 
+
+// Resource for texts needed in ho.s15 templates that are not in Menaion
+// e.g. commemoration listings, notes, fasting rubrics, extra hymns
+
+hoMonth.text = ""
+hoDaysHours.text = ""
+
+ho.rank  = ""
+ho.number = ""
+ho.commemorations = ""
+ho.note1 = ""
+ho.note2 = ""
+
+ho.ApolytikionX.title = ""
+ho.ApolytikionX.poet  = ""
+ho.ApolytikionX.mode  = ""
+ho.ApolytikionX.melody  = ""
+ho.ApolytikionX.text = ""
+
+ho.KontakionX.poet  = ""
+ho.KontakionX.mode  = ""
+ho.KontakionX.melody  = ""
+ho.KontakionX.text = ""
+

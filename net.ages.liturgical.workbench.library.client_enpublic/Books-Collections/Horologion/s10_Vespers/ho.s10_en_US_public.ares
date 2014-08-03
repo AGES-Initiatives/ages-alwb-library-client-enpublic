@@ -1,0 +1,101 @@
+A_Resource_Whose_Name = ho.s10_en_US_public
+
+hoVE.title = ho.s10_en_US_dedes.hoVE.title
+
+R01 = ho.s10_en_US_dedes.R01
+R02 = ho.s10_en_US_dedes.R02
+hoVE.Ps103.text = "" //for media (text)
+R03 = ho.s10_en_US_dedes.R03
+R04 = ho.s10_en_US_dedes.R04
+R05 = ho.s10_en_US_dedes.R05
+R06 = ho.s10_en_US_dedes.R06
+R07 = ho.s10_en_US_dedes.R07
+R08 = ho.s10_en_US_dedes.R08
+R09 = ho.s10_en_US_dedes.R09
+hoVE.FosIlaron.title = ho.s10_en_US_dedes.hoVE.FosIlaron.title
+R10 = ho.s10_en_US_dedes.R10
+hoVE.FosIlaron.text = ho.s10_en_US_dedes.hoVE.FosIlaron.text
+R11 = ho.s10_en_US_dedes.R11
+
+hoVE.SundayEvening.title = ho.s10_en_US_dedes.hoVE.SundayEvening.title
+hoVE.SundayProkeimenon.text = ho.s10_en_US_dedes.hoVE.SundayProkeimenon.text
+
+hoVE.MondayEvening.title = ho.s10_en_US_dedes.hoVE.MondayEvening.title
+hoVE.MondayProkeimenon.text = ho.s10_en_US_dedes.hoVE.MondayProkeimenon.text
+
+hoVE.TuesdayEvening.title = ho.s10_en_US_dedes.hoVE.TuesdayEvening.title
+hoVE.TuesdayProkeimenon.text = ho.s10_en_US_dedes.hoVE.TuesdayProkeimenon.text
+
+hoVE.WednesdayEvening.title = ho.s10_en_US_dedes.hoVE.WednesdayEvening.title
+hoVE.WednesdayProkeimenon.text = ho.s10_en_US_dedes.hoVE.WednesdayProkeimenon.text
+
+hoVE.ThursdayEvening.title = ho.s10_en_US_dedes.hoVE.ThursdayEvening.title
+hoVE.ThursdayProkeimenon.text = ho.s10_en_US_dedes.hoVE.ThursdayProkeimenon.text
+
+hoVE.FridayEvening.title = ho.s10_en_US_dedes.hoVE.FridayEvening.title
+hoVE.FridayProkeimenon.text = ho.s10_en_US_dedes.hoVE.FridayProkeimenon.text
+
+hoVE.SaturdayEvening.title = ho.s10_en_US_dedes.hoVE.SaturdayEvening.title
+hoVE.SaturdayProkeimenon.text = ho.s10_en_US_dedes.hoVE.SaturdayProkeimenon.text
+
+hoVE.GreatProkeimenonTisTheosMegas.text = ho.s10_en_US_dedes.hoVE.GreatProkeimenonTisTheosMegas.text
+hoVE.GreatProkeimenonOTheosImon.text = ho.s10_en_US_dedes.hoVE.GreatProkeimenonOTheosImon.text
+hoVE.GreatProkeimenonLent1.text = ho.s10_en_US_dedes.hoVE.GreatProkeimenonLent1.text
+hoVE.GreatProkeimenonLent2.text = ho.s10_en_US_dedes.hoVE.GreatProkeimenonLent2.text
+
+R12 = ho.s10_en_US_dedes.R12
+R13 = ho.s10_en_US_dedes.R13
+R14 = ho.s10_en_US_dedes.R14
+hoVE.MondayAlleluia.title = ho.s10_en_US_dedes.hoVE.MondayAlleluia.title
+hoVE.MondayAlleluia.text = ho.s10_en_US_dedes.hoVE.MondayAlleluia.text
+
+hoVE.TuesdayThursdayAlleluia.title = ho.s10_en_US_dedes.hoVE.TuesdayThursdayAlleluia.title
+hoVE.TuesdayThursdayAlleluia.text = ho.s10_en_US_dedes.hoVE.TuesdayThursdayAlleluia.text
+
+hoVE.WednesdayAlleluia.title = ho.s10_en_US_dedes.hoVE.WednesdayAlleluia.title
+hoVE.WednesdayAlleluia.text = ho.s10_en_US_dedes.hoVE.WednesdayAlleluia.text
+
+hoVE.FridayAlleluia.title = ho.s10_en_US_dedes.hoVE.FridayAlleluia.title
+hoVE.FridayAlleluia.text = ho.s10_en_US_dedes.hoVE.FridayAlleluia.text
+
+R15 = ho.s10_en_US_dedes.R15
+
+//Not in Horologion. Needed for Vespers readings
+hoVE.Reading_Intro.text1 = ho.s10_en_US_dedes.hoVE.Reading_Intro.text1
+hoVE.Reading_Intro.text2 = ho.s10_en_US_dedes.hoVE.Reading_Intro.text2 // This second part is needed to construct the Greek sentence.
+
+R16 = ho.s10_en_US_dedes.R16
+//This Prayer is also in the Small Doxology, at Matins, Compline etc. with "day" and "night"
+hoVE.Prayer_Kataxioson.text = ho.s10_en_US_dedes.hoVE.Prayer_Kataxioson.text
+R17 = ho.s10_en_US_dedes.R17
+R18 = ho.s10_en_US_dedes.R18
+R19 = ho.s10_en_US_dedes.R19
+R20 = ho.s10_en_US_dedes.R20
+R21 = ho.s10_en_US_dedes.R21
+hoVE.LentApolytikion1.mode = ho.s10_en_US_dedes.hoVE.LentApolytikion1.mode
+hoVE.LentApolytikion1.text = ho.s10_en_US_dedes.hoVE.LentApolytikion1.text
+hoVE.LentApolytikion2.mode = ho.s10_en_US_dedes.hoVE.LentApolytikion2.mode
+hoVE.LentApolytikion2.text = ho.s10_en_US_dedes.hoVE.LentApolytikion2.text
+hoVE.LentApolytikion3.mode = ho.s10_en_US_dedes.hoVE.LentApolytikion3.mode
+hoVE.LentApolytikion3.text = ho.s10_en_US_dedes.hoVE.LentApolytikion3.text
+hoVE.LentApolytikion4.mode = ho.s10_en_US_dedes.hoVE.LentApolytikion4.mode
+hoVE.LentApolytikion4.text = ho.s10_en_US_dedes.hoVE.LentApolytikion4.text
+R22 = ho.s10_en_US_dedes.R22
+R23 = ho.s10_en_US_dedes.R23
+R24 = ho.s10_en_US_dedes.R24
+R25 = ho.s10_en_US_dedes.R25
+hoVE.Prayer_PanagiaTrias.text = ho.s10_en_US_dedes.hoVE.Prayer_PanagiaTrias.text // All-holy Trinity, the consubstantial dominion...
+hoVE.Prayer_EiiToOnomaKyriou.text = ho.s10_en_US_dedes.hoVE.Prayer_EiiToOnomaKyriou.text // Blessed be the name of the Lord...
+R26 = ho.s10_en_US_dedes.R26
+
+// Not in Orologion
+//Lity
+hoVE.LityKyrieEleison.text = ho.s10_en_US_dedes.hoVE.LityKyrieEleison.text
+
+// Artoclasia
+hoVE.ArtoTheotokeParthene.text = ho.s10_en_US_dedes.hoVE.ArtoTheotokeParthene.text
+hoVE.ArtoPrayer1 = ho.s10_en_US_dedes.hoVE.ArtoPrayer1
+hoVE.ArtoPrayer2 = ho.s10_en_US_dedes.hoVE.ArtoPrayer2
+
+hoVE.ArtoHymn.text = ho.s10_en_US_dedes.hoVE.ArtoHymn.text
+

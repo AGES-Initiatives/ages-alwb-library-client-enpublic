@@ -1,0 +1,11 @@
+A_Resource_Whose_Name = ho.s15.m11.d14_en_US_public 
+
+// Resource for texts needed in ho.s15 templates that are not in Menaion
+// e.g. commemoration listings, notes, fasting rubrics, extra hymns
+
+ho.rank  = ""
+ho.number = "14."
+ho.commemorations = "The holy and all-lauded Apostle Philip; and the holy Neomartyr Constantine of Hydra"
+ho.note1 = rubrical_en_US_public.HolidayFish
+ho.note2 = ""
+

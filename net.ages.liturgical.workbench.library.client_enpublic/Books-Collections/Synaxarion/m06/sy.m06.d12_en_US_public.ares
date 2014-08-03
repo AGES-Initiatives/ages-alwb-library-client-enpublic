@@ -1,0 +1,22 @@
+A_Resource_Whose_Name = sy.m06.d12_en_US_public
+
+S01.Com = sy.m06.d12_en_US_dedes.S01.Com
+S01.Ver1 = sy.m06.d12_en_US_dedes.S01.Ver1
+S01.Ver2 = sy.m06.d12_en_US_dedes.S01.Ver2
+S01.Ver3 = sy.m06.d12_en_US_dedes.S01.Ver3
+S01.Nar = sy.m06.d12_en_US_dedes.S01.Nar
+
+S02.Com = sy.m06.d12_en_US_dedes.S02.Com
+S02.Ver1 = sy.m06.d12_en_US_dedes.S02.Ver1
+S02.Ver2 = sy.m06.d12_en_US_dedes.S02.Ver2
+S02.Nar = sy.m06.d12_en_US_dedes.S02.Nar
+
+S03.Com = sy.m06.d12_en_US_dedes.S03.Com
+S03.Ver = sy.m06.d12_en_US_dedes.S03.Ver
+S03.Nar = sy.m06.d12_en_US_dedes.S03.Nar
+
+S04.Com = sy.m06.d12_en_US_dedes.S04.Com
+S04.Ver = sy.m06.d12_en_US_dedes.S04.Ver
+S04.Nar = sy.m06.d12_en_US_dedes.S04.Nar
+
+S99.LastLine = sy.m06.d12_en_US_dedes.S99.LastLine

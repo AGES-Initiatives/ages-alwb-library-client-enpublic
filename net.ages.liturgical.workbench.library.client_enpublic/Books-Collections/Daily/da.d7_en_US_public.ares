@@ -1,0 +1,41 @@
+A_Resource_Whose_Name = da.d7_en_US_public
+
+daDay.text = da.d7_en_US_dedes.daDay.text
+daCommemoration.text = da.d7_en_US_dedes.daCommemoration.text
+
+daVE.OnTheAfternoonBefore = da.d7_en_US_dedes.daVE.OnTheAfternoonBefore
+daVE.OnTheEveningBefore = da.d7_en_US_dedes.daVE.OnTheEveningBefore
+
+daVE.Apolytikion1.mode = da.d7_en_US_dedes.daVE.Apolytikion1.mode
+daVE.Apolytikion1.melody = da.d7_en_US_dedes.daVE.Apolytikion1.melody
+daVE.Apolytikion1.text = da.d7_en_US_dedes.daVE.Apolytikion1.text
+
+daVE.Apolytikion2.mode = da.d7_en_US_dedes.daVE.Apolytikion2.mode
+daVE.Apolytikion2.melody = da.d7_en_US_dedes.daVE.Apolytikion2.melody
+daVE.Apolytikion2.text = da.d7_en_US_dedes.daVE.Apolytikion2.text
+
+daVE.ApolTheotokion.mode = da.d7_en_US_dedes.daVE.ApolTheotokion.mode
+daVE.ApolTheotokion.melody = da.d7_en_US_dedes.daVE.ApolTheotokion.melody
+daVE.ApolTheotokion.text = da.d7_en_US_dedes.daVE.ApolTheotokion.text
+
+daMA.Photagogic1Ending.text = da.d7_en_US_dedes.daMA.Photagogic1Ending.text
+daMA.Photagogic2Ending.text = da.d7_en_US_dedes.daMA.Photagogic2Ending.text
+
+daMA.Photagogic1Beginning.text = da.d7_en_US_dedes.daMA.Photagogic1Beginning.text
+daMA.Photagogic2Beginning.text = da.d7_en_US_dedes.daMA.Photagogic2Beginning.text
+
+daMA.Exaposteilarion1.mode = da.d7_en_US_dedes.daMA.Exaposteilarion1.mode
+daMA.Exaposteilarion1.melody = da.d7_en_US_dedes.daMA.Exaposteilarion1.melody
+daMA.Exaposteilarion1.text = da.d7_en_US_dedes.daMA.Exaposteilarion1.text
+
+daMA.Exaposteilarion2.mode = da.d7_en_US_dedes.daMA.Exaposteilarion2.mode
+daMA.Exaposteilarion2.melody = da.d7_en_US_dedes.daMA.Exaposteilarion2.melody
+daMA.Exaposteilarion2.text = da.d7_en_US_dedes.daMA.Exaposteilarion2.text
+
+daMA.ExapTheotokion.mode = da.d7_en_US_dedes.daMA.ExapTheotokion.mode
+daMA.ExapTheotokion.melody = da.d7_en_US_dedes.daMA.ExapTheotokion.melody
+daMA.ExapTheotokion.text = da.d7_en_US_dedes.daMA.ExapTheotokion.text
+
+daLI.CommunionHymn.text = da.d7_en_US_dedes.daLI.CommunionHymn.text
+
+daLI.CommunionHymnAlt.text = da.d7_en_US_dedes.daLI.CommunionHymnAlt.text

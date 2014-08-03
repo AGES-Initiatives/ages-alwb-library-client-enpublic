@@ -1,0 +1,579 @@
+A_Resource_Whose_Name = me.m02.d19b_en_US_public 
+
+meDate.text = "February 19" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = "Memory of the Devout Martyr Philothea the Athenian" //full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "the glorious devout martyr Philothea the Athenian," //for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
+meNote.text = ""
+
+meVE.Stichera01.mode = misc_en_US_dedes.Mode4
+meVE.Stichera01.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera01.text = "Like a temple most excellent * and a statue most radiant * with a reputation that is illustrious, * the multifarious laurel crown, * the mouth full of sheer delight, * and a harbor that is calm, * and a nexus of charity, you were shown to be; * and a mightily flowing stream of mercy, and a beacon for monastics, * O Philothea, extolled by all."
+
+meVE.Stichera02.mode = misc_en_US_dedes.Mode4
+meVE.Stichera02.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera02.text = "You shone forth like a shiny star * in the darkness of ignorance; * and you blossomed forth like a flower redolent * with sweetest fragrance in wintertime. * You rose up resplendently * like a light and like a sun, * over Athens, providing both warmth and light to those * whom the hateful subjection had bedarkened. Hence today, O Philothea, * we all observe your memorial."
+
+meVE.Stichera03.mode = misc_en_US_dedes.Mode4
+meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera03.text = "Holy Mother, you visited * the infirm and the suffering; * you delivered captives; virgins you organized. * And you ferociously fought against * a tyrant and infidel. * Thus you fought the good fight, * and you sealed it with martyrdom. Therefore Christ the King * having loved you, has summoned you, O Martyr and devoutest Philothea, * to the refreshments in heaven."
+
+meVE.Stichera04.mode = misc_en_US_dedes.Mode4
+meVE.Stichera04.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meVE.Stichera04.text = "All you who are fond of festive celebrations, come let us crown Philothea with odes and songs, * observing this most divine sacred feast together. * She is one who truly devoutly lived her life on earth, * and by her actions she demonstrated faith. * And therefore by the hand of Him who glorifies those in love with Him * she was given the diadem of the contest and martyrdom."
+
+meVE.Stichera05.mode = misc_en_US_dedes.Mode4
+meVE.Stichera05.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meVE.Stichera05.text = "Rejoicing she gave away and she dispersed all her wealth to those who were poor and in poverty. * To God she was loaning it, as she gave it freely; * hence to Philothea the Savior richly paid it back, * giving divine grace to her in recompense. * And thus among the chorus of the Saints He placed the all-honored one, * who is earnestly praying Him, to send mercy upon us all."
+
+meVE.Stichera06.mode = misc_en_US_dedes.Mode4
+meVE.Stichera06.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meVE.Stichera06.text = "Illustrious Philothea put on virtue instead of jewels, for adornment and dignity. * With prudence and self-restraint, holiness and true love, * and all that is noble, she kept the faith, and thus like Paul, * she also finished the race triumphantly. * And therefore she is dressed in heavenly resplendence and majesty, * and she prays that we all obtain the divine glory from the Lord."
+
+meVE.SticGlory.mode = misc_en_US_dedes.Mode5
+meVE.SticGlory.melody  = ""
+meVE.SticGlory.text = "All that was yours and your very self you consecrated to God, your mind and soul, and your heart and body. For having heard the Gospel word, you renounced gold and honor and everything, and became a mother to widows and the poor. And therefore the Paraclete came into your soul and dwelt there; and you became His vessel, exhaling the fragrance of every virtue. O Mother Philothea, extolled by all, earnestly entreat Christ our God, that He guard your City, and that He save our souls."
+
+meVE.SticTheotokion.mode = misc_en_US_dedes.Mode5
+meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.text = oc.m5.d1_en_US_dedes.ocVE.SticTheotokion.text
+
+meVE.Reading1.book  = ""
+meVE.Reading1.chapverse  = ""
+meVE.Reading1.text  = ""
+
+meVE.Reading2.book  = ""
+meVE.Reading2.chapverse  = ""
+meVE.Reading2.text  = ""
+
+meVE.Reading3.book  = ""
+meVE.Reading3.chapverse  = ""
+meVE.Reading3.text  = ""
+
+meVE.Lity1.mode = misc_en_US_dedes.Mode1
+meVE.Lity1.melody  = ""
+meVE.Lity1.text = "Come, O believers, let us honor Saint Philothea today; and as we keep her feast, with faith let us say to her, \"O Mother, at your intercession, shelter your city and preserve her in peace forever.\""
+
+meVE.Lity2.mode = misc_en_US_dedes.Mode1
+meVE.Lity2.melody  = ""
+meVE.Lity2.text = "Come, O believers, let us extol Saint Philothea today; for she took up the Cross on her shoulders, and she contended well, and she performed the commandments of Christ unwearyingly. Now that she has departed from everything mundane, she never ceases interceding with the Lord on our behalf, together with all the saints."
+
+meVE.Lity3.mode = misc_en_US_dedes.Mode2
+meVE.Lity3.melody  = ""
+meVE.Lity3.text = "You deposited your earthly riches in the hands of the poor, and in return you obtained heavenly riches. Glory and pleasure you disdained, and you led an ascetic life, and then exchanged your life for martyrdom, all for the love of Christ the Savior, O all-honored Philothea. So intercede with Him, that our souls be saved."
+
+meVE.LityGlory.mode = misc_en_US_dedes.Mode8
+meVE.LityGlory.melody  = ""
+meVE.LityGlory.text = "The grace of the Holy Spirit, dwelling within your heart, showed you to be a fragrant flower and a gladsome light, in glorious Athens, O devout Martyr Philothea, during the heavy winter of enslavement. Therefore cease not to intercede with Christ God, on behalf of our souls."
+
+meVE.LityBoth.mode = misc_en_US_dedes.Mode8
+meVE.LityBoth.melody  = ""
+meVE.LityBoth.text = oc.m8.d5_en_US_dedes.ocMA.AposTheotokion.text
+
+meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
+meVE.Aposticha1.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meVE.Aposticha1.text = "Rejoice! You are a new Tabitha. * Like her in Joppa, you in Athens, O blessed one, * became a devout disciple of Christ, who showed you to be * mother of the orphans, widows' champion. * Detesting the glory of wealth, you rather dispersed it all; * founding a convent with the habit of holiness, * you adorned yourself with good deeds, O all-honored one. * Therefore as we all now observe * your festival, we surround * the case containing your relics, * O Philothea, and we entreat * that we find salvation, * by your prayers to the only One who can save us all."
+
+meVE.ApostichaVerse2.source = "39"
+meVE.ApostichaVerse2.text = "I waited patiently for the Lord, and He heeded me."
+
+meVE.Aposticha2.mode = misc_en_US_dedes.Mode5
+meVE.Aposticha2.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meVE.Aposticha2.text = "Rejoice! You are for Athens a torch, * which in your life burned manifestly and brilliantly, * and taught to the pious women, who has resorted to you, * faith by acts of virtue and by chastity. * And thus you became their nurse, their defender and strong support, * for you delivered persecuted and captive maids, * as a safe asylum and refuge for everyone. * You were resplendent like star * and lit up the gloomy night * of the enslavement and bondage, * O Philothea, of your people. * We therefore extol you, * and we pray you never cease interceding with the Lord."
+
+meVE.ApostichaVerse3.source = "39"
+meVE.ApostichaVerse3.text = "And He established my feet on a rock and kept straight my steps"
+
+meVE.Aposticha3.mode = misc_en_US_dedes.Mode5
+meVE.Aposticha3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meVE.Aposticha3.text = "Rejoice, O you Athenian soil! * For you are hallowed by the blood of your martyr saints. * Of old it was Leonidas, now Philothea the nun * as a holy martyr and as one devout. * Today as we celebrate her most glorious martyrdom, * her life of virtue and decorum and piety, * and her noble death, we address her and supplicate: * \"Martyr, devout one, intercede * for us who now honor you * and who in faith are entreating * that you protect us, all-honored one. * For great is the power * of the saints' intercessions to Him who loves mankind.\""
+
+meVE.AposGlory.mode = misc_en_US_dedes.Mode8
+meVE.AposGlory.melody  = ""
+meVE.AposGlory.text = "Our God who became man, went about doing good to everyone and healing them; and you, O God-loving Philothea, imitated Him. You were seen as a strong and ever-flowing fountain of sympathy and love. Having adorned yourself with the beauty and the dignity of the virtues, you offered yourself as a sacred victim, to the Savior who for the whole world had offered himself. To Him pray earnestly, O devout woman Martyr, for our salvation."
+
+meVE.AposTheotokion.mode = misc_en_US_dedes.Mode8
+meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.text = oc.m8.d1_en_US_dedes.ocVE.AposTheotokion.text
+
+meVE.Apolytikion1.mode = misc_en_US_dedes.Mode5
+meVE.Apolytikion1.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
+meVE.Apolytikion1.text = "The illustrious city of Athens now extols * Philothea, the woman monastic martyr saint, * and salutes her most divine holy relic with a kiss; * for in holiness she lived, and exchanged her death for life * through martyrdom and her contests. * And now she intercedes with the Savior, * that He grant to all His great mercy."
+
+meMA.Kathisma11.mode = misc_en_US_dedes.Mode1
+meMA.Kathisma11.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+meMA.Kathisma11.text = "The grace of Jesus Christ, which for all is salvific, * with you made its abode, O divine Philothea, * and made you a paradise of the virtues and chastity. * Holy was your life and full of good deeds and mercy; * you received as well the laurel crown of a martyr; * and therefore we honor you."
+
+meMA.Kathisma1T.mode = misc_en_US_dedes.Mode1
+meMA.Kathisma1T.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+meMA.Kathisma1T.text = oc.m1.d1_en_US_dedes.ocMA.Kathisma13.text
+
+meMA.Kathisma21.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma21.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+meMA.Kathisma21.text = "In spirit you were fervent, O holy Martyr of Christ; * you lived in the world and nonetheless were serving the Lord, and ardently prayed to Him. * Patient in tribulations, you in hope were rejoicing; * contributing to the needs of the saints in earnest. * And therefore, O Philothea, we honor your memory."
+
+meMA.Kathisma2T.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma2T.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+meMA.Kathisma2T.text = "Come quickly, O Lady, and receive our prayers from us, * and bring them to the attention of your Son and our God, O only immaculate. * Quickly resolve the troubles of your servants, O Virgin; * frustrate the schemes of ambush and the brazen behavior * of those who take up arms against us who call on you."
+
+meMA.Kathisma31.mode = misc_en_US_dedes.Mode8
+meMA.Kathisma31.melody = he.a.m8_en_US_dedes.ToProstachthen.name
+meMA.Kathisma31.text = "Being adorned with the laurel of a martyr, * having been bathed in your own blood, O holy Mother, * ever pray to the Savior, who for our salvation * was crowned with a crown of thorns, and who with a spear * was pierced in the side, and thus with His holy blood * washed away Eva's primal curse, and once again opened the way * to heaven and to Paradise, * for the race of humanity."
+
+meMA.Kathisma3T.mode = misc_en_US_dedes.Mode8
+meMA.Kathisma3T.melody = he.a.m8_en_US_dedes.ToProstachthen.name
+meMA.Kathisma3T.text = "O Lady, pure, graced by God, and ever-blessed, * join with the Powers in the heavens, the Archangels, * all the Bodiless Hosts and ceaselessly petition * the Lord, who in His compassion was born from you, * entreating on our behalf that before the end * He will grant us correction and the expiation of our sins, * amendment of our way of life, * so that mercy await us all."
+
+meMA.Prokeimenon.text = "" //for media
+//meMA.Gospel.name = "Matthew." //""
+//meMA.Gospel.chapverse = "6:19-21" //""
+//meMA.Gospel.text = "The Lord said to his disciples, \"Do not lay up for yourselves treasures on earth, where moth and rust consume and where thieves break in and steal, but lay up for yourselves treasures in heaven, where neither moth nor rust consumes and where thieves do not break in and steal. For where your treasure is, there will your heart be also.\""
+
+meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
+meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelWomanMartyr.text
+
+meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
+meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
+
+meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
+meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.text = "On your shoulders you took up the Cross of Christ, and you followed in His footsteps; then, O Philothea, you renounced yourself, and you counted all things as refuse, for you found nothing to give in exchange for your soul. You gave up your life in order to save your soul; you were deprived of the visible light, and now you see the Sun of glory. Entreat Him, O Mother, that He save our souls."
+
+meMA.C1Acrostic.text = ""
+
+meMA.C2Acrostic.text = ""
+
+meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C1H.mode = misc_en_US_dedes.Mode8
+meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode1C1H.text = he.h.m8_en_US_dedes.ArmatilatinFarao.text
+
+meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C11.mode = misc_en_US_dedes.Mode8
+meMA.Ode1C11.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+meMA.Ode1C11.text = ""
+
+meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C12.mode = misc_en_US_dedes.Mode8
+meMA.Ode1C12.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+meMA.Ode1C12.text = ""
+
+meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C13.mode = misc_en_US_dedes.Mode8
+meMA.Ode1C13.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+meMA.Ode1C13.text = ""
+
+meMA.Ode1C14.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C14.mode = misc_en_US_dedes.Mode8
+meMA.Ode1C14.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+meMA.Ode1C14.text = ""
+
+meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C21.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+meMA.Ode1C21.text = ""
+
+meMA.Ode1C22.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C22.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+meMA.Ode1C22.text = ""
+
+meMA.Ode1C23.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C23.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+meMA.Ode1C23.text = ""
+
+meMA.Ode1C2T.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C2T.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+meMA.Ode1C2T.text = ""
+
+meMA.Ode3C1H.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C1H.mode = misc_en_US_dedes.Mode8
+meMA.Ode3C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode3C1H.text = he.h.m8_en_US_dedes.OuraniasApsidos.text
+
+meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C11.mode = misc_en_US_dedes.Mode8
+meMA.Ode3C11.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+meMA.Ode3C11.text = ""
+
+meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C12.mode = misc_en_US_dedes.Mode8
+meMA.Ode3C12.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+meMA.Ode3C12.text = ""
+
+meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C13.mode = misc_en_US_dedes.Mode8
+meMA.Ode3C13.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+meMA.Ode3C13.text = ""
+
+meMA.Ode3C14.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C14.mode = misc_en_US_dedes.Mode8
+meMA.Ode3C14.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+meMA.Ode3C14.text = ""
+
+meMA.Ode3C21.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C21.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+meMA.Ode3C21.text = ""
+
+meMA.Ode3C22.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C22.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+meMA.Ode3C22.text = ""
+
+meMA.Ode3C23.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C23.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+meMA.Ode3C23.text = ""
+
+meMA.Ode3C2T.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C2T.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+meMA.Ode3C2T.text = ""
+
+meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode8
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.ToProstachthen.name
+meMA.Ode3Kathisma1.text = "Leaving behind the things of earth, O Philothea, * you were translated to the mansions in the heavens. * Now you join the celestial orders interceding * together with the devout saints and all the just * and all the angelic ministers and the rest, * To the heavenly Father, you unceasingly cry out: * Holy, holy, holy are You; * save us all, whom You formed, O God."
+
+meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode8
+meMA.Ode3KathismaT.melody = he.a.m8_en_US_dedes.ToProstachthen.name
+meMA.Ode3KathismaT.text = meMA.Kathisma3T.text
+
+meMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C1H.mode = misc_en_US_dedes.Mode8
+meMA.Ode4C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode4C1H.text = he.h.m8_en_US_dedes.SyMouIschys.text
+
+meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C11.mode = misc_en_US_dedes.Mode8
+meMA.Ode4C11.melody = he.h.m8_en_US_dedes.SyMouIschys.name
+meMA.Ode4C11.text = ""
+
+meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C12.mode = misc_en_US_dedes.Mode8
+meMA.Ode4C12.melody = he.h.m8_en_US_dedes.SyMouIschys.name
+meMA.Ode4C12.text = ""
+
+meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C13.mode = misc_en_US_dedes.Mode8
+meMA.Ode4C13.melody = he.h.m8_en_US_dedes.SyMouIschys.name
+meMA.Ode4C13.text = ""
+
+meMA.Ode4C14.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C14.mode = misc_en_US_dedes.Mode8
+meMA.Ode4C14.melody = he.h.m8_en_US_dedes.SyMouIschys.name
+meMA.Ode4C14.text = ""
+
+meMA.Ode4C21.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C21.melody = he.h.m4_en_US_dedes.OKathimenosEnDoxi.name
+meMA.Ode4C21.text = ""
+
+meMA.Ode4C22.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C22.melody = he.h.m4_en_US_dedes.OKathimenosEnDoxi.name
+meMA.Ode4C22.text = ""
+
+meMA.Ode4C23.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C23.melody = he.h.m4_en_US_dedes.OKathimenosEnDoxi.name
+meMA.Ode4C23.text = ""
+
+meMA.Ode4C2T.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C2T.melody = he.h.m4_en_US_dedes.OKathimenosEnDoxi.name
+meMA.Ode4C2T.text = ""
+
+meMA.Ode5C1H.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C1H.mode = misc_en_US_dedes.Mode8
+meMA.Ode5C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode5C1H.text = he.h.m8_en_US_dedes.InaTiMeAposo.text
+
+meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C11.mode = misc_en_US_dedes.Mode8
+meMA.Ode5C11.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+meMA.Ode5C11.text = ""
+
+meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C12.mode = misc_en_US_dedes.Mode8
+meMA.Ode5C12.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+meMA.Ode5C12.text = ""
+
+meMA.Ode5C13.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C13.mode = misc_en_US_dedes.Mode8
+meMA.Ode5C13.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+meMA.Ode5C13.text = ""
+
+meMA.Ode5C14.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C14.mode = misc_en_US_dedes.Mode8
+meMA.Ode5C14.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+meMA.Ode5C14.text = ""
+
+meMA.Ode5C21.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C21.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+meMA.Ode5C21.text = ""
+
+meMA.Ode5C22.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C22.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+meMA.Ode5C22.text = ""
+
+meMA.Ode5C23.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C23.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+meMA.Ode5C23.text = ""
+
+meMA.Ode5C2T.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C2T.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+meMA.Ode5C2T.text = ""
+
+meMA.Ode6C1H.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C1H.mode = misc_en_US_dedes.Mode8
+meMA.Ode6C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode6C1H.text = he.h.m8_en_US_dedes.TinDeisinEkcheo.text
+
+meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C11.mode = misc_en_US_dedes.Mode8
+meMA.Ode6C11.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
+meMA.Ode6C11.text = ""
+
+meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C12.mode = misc_en_US_dedes.Mode8
+meMA.Ode6C12.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
+meMA.Ode6C12.text = ""
+
+meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C13.mode = misc_en_US_dedes.Mode8
+meMA.Ode6C13.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
+meMA.Ode6C13.text = ""
+
+meMA.Ode6C14.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C14.mode = misc_en_US_dedes.Mode8
+meMA.Ode6C14.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
+meMA.Ode6C14.text = ""
+
+meMA.Ode6C21.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C21.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
+meMA.Ode6C21.text = ""
+
+meMA.Ode6C22.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C22.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
+meMA.Ode6C22.text = ""
+
+meMA.Ode6C23.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C23.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
+meMA.Ode6C23.text = ""
+
+meMA.Ode6C2T.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C2T.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
+meMA.Ode6C2T.text = ""
+
+meMA.Kontakion1.mode = misc_en_US_dedes.Mode3
+meMA.Kontakion1.melody = he.a.m3_en_US_dedes.IParthenosSimeron.name
+meMA.Kontakion1.text = "On this day with utmost joy * we honor St. Philothea, * and with faith we venerate * her holy icon and relic. * For on earth, she spent her life doing good deeds, * as a nun, ending her life as a holy martyr. * She became our intercessor, * and prays that we all receive eternal life."
+
+meMA.Oikos1.text = "Let every tongue move in praise of Philothea, who is worthy of all praise. Every race and every age, young men and virgins of Christ, let us crown with hymns the devout nun and martyr. For legitimately behaving like a man, through ascetic labors and martyrdom, she has brought down the tyrant foe. And now adorned by a heavenly crown, she requests from Christ, that that we all receive eternal life."
+
+meMA.Synaxarion.text  = ""
+
+meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C1H.mode = misc_en_US_dedes.Mode8
+meMA.Ode7C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode7C1H.text = he.h.m8_en_US_dedes.TheouSynkatavasin.text
+
+meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C11.mode = misc_en_US_dedes.Mode8
+meMA.Ode7C11.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
+meMA.Ode7C11.text = ""
+
+meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C12.mode = misc_en_US_dedes.Mode8
+meMA.Ode7C12.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
+meMA.Ode7C12.text = ""
+
+meMA.Ode7C13.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C13.mode = misc_en_US_dedes.Mode8
+meMA.Ode7C13.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
+meMA.Ode7C13.text = ""
+
+meMA.Ode7C14.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C14.mode = misc_en_US_dedes.Mode8
+meMA.Ode7C14.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
+meMA.Ode7C14.text = ""
+
+meMA.Ode7C21.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C21.melody = he.h.m4_en_US_dedes.ODiasosasEnPyri.name
+meMA.Ode7C21.text = ""
+
+meMA.Ode7C22.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C22.melody = he.h.m4_en_US_dedes.ODiasosasEnPyri.name
+meMA.Ode7C22.text = ""
+
+meMA.Ode7C23.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C23.melody = he.h.m4_en_US_dedes.ODiasosasEnPyri.name
+meMA.Ode7C23.text = ""
+
+meMA.Ode7C2T.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C2T.melody = he.h.m4_en_US_dedes.ODiasosasEnPyri.name
+meMA.Ode7C2T.text = ""
+
+meMA.Ode8C1H.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C1H.mode = misc_en_US_dedes.Mode8
+meMA.Ode8C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode8C1H.text = he.h.m8_en_US_dedes.EvlogeitePaides.text
+
+meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C11.mode = misc_en_US_dedes.Mode8
+meMA.Ode8C11.melody = he.h.m8_en_US_dedes.EvlogeitePaides.name
+meMA.Ode8C11.text = ""
+
+meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C12.mode = misc_en_US_dedes.Mode8
+meMA.Ode8C12.melody = he.h.m8_en_US_dedes.EvlogeitePaides.name
+meMA.Ode8C12.text = ""
+
+meMA.Ode8C13.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C13.mode = misc_en_US_dedes.Mode8
+meMA.Ode8C13.melody = he.h.m8_en_US_dedes.EvlogeitePaides.name
+meMA.Ode8C13.text = ""
+
+meMA.Ode8C14.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C14.mode = misc_en_US_dedes.Mode8
+meMA.Ode8C14.melody = he.h.m8_en_US_dedes.EvlogeitePaides.name
+meMA.Ode8C14.text = ""
+
+meMA.Ode8C21.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C21.melody = he.h.m4_en_US_dedes.PaidasEvageis.name
+meMA.Ode8C21.text = ""
+
+meMA.Ode8C22.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C22.melody = he.h.m4_en_US_dedes.PaidasEvageis.name
+meMA.Ode8C22.text = ""
+
+meMA.Ode8C23.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C23.melody = he.h.m4_en_US_dedes.PaidasEvageis.name
+meMA.Ode8C23.text = ""
+
+meMA.Ode8C2T.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C2T.melody = he.h.m4_en_US_dedes.PaidasEvageis.name
+meMA.Ode8C2T.text = ""
+
+meMA.Ode9C1H.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C1H.mode = misc_en_US_dedes.Mode8
+meMA.Ode9C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode9C1H.text = he.h.m8_en_US_dedes.EfrixePasaAkoi.text
+
+meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C11.mode = misc_en_US_dedes.Mode8
+meMA.Ode9C11.melody = he.h.m8_en_US_dedes.EfrixePasaAkoi.name
+meMA.Ode9C11.text = ""
+
+meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C12.mode = misc_en_US_dedes.Mode8
+meMA.Ode9C12.melody = he.h.m8_en_US_dedes.EfrixePasaAkoi.name
+meMA.Ode9C12.text = ""
+
+meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C13.mode = misc_en_US_dedes.Mode8
+meMA.Ode9C13.melody = he.h.m8_en_US_dedes.EfrixePasaAkoi.name
+meMA.Ode9C13.text = ""
+
+meMA.Ode9C14.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C14.mode = misc_en_US_dedes.Mode8
+meMA.Ode9C14.melody = he.h.m8_en_US_dedes.EfrixePasaAkoi.name
+meMA.Ode9C14.text = ""
+
+meMA.Ode9C21.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C21.melody = he.h.m4_en_US_dedes.ApasGigenis.name
+meMA.Ode9C21.text = ""
+
+meMA.Ode9C22.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C22.melody = he.h.m4_en_US_dedes.ApasGigenis.name
+meMA.Ode9C22.text = ""
+
+meMA.Ode9C23.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C23.melody = he.h.m4_en_US_dedes.ApasGigenis.name
+meMA.Ode9C23.text = ""
+
+meMA.Ode9C2T.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C2T.melody = he.h.m4_en_US_dedes.ApasGigenis.name
+meMA.Ode9C2T.text = ""
+
+meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+meMA.Exaposteilarion1.text = "Today the congregation of the Church of Athens leaps for joy, * as it devotedly honors the mem'ry of Philothea. * For she devoutly lived her life, and then accepted martyrdom. * And now, with Saints consorting, * she ceases not interceding * on our behalf to the Master."
+
+meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
+meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+meMA.ExapTheotokion.text = "You have become the vessel of the Trinity that none contains, * O all-holy Virgin Mary, the purest and golden censer. * The Father was well pleased in you, the Son came down and dwelt in you, * the Holy Spirit came on you * and overshadowed you, Maiden, * thus making you Theotokos."
+
+meMA.Lauds1.mode = misc_en_US_dedes.Mode4
+meMA.Lauds1.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
+meMA.Lauds1.text = "O Philothea, to you who are in heaven, * where our Savior welcomed you, the Martyr and the Nun, * we pray that you intercede for us, and for the City * in which you lived out your life monastically. * Influence the Master to be merciful to us, * so that forgiving us He bestow * peace and salvation * on us who keep your most sacred memory. * For you have proved to be the patroness * who protects those who travel the sea of life, * Philothéï, the glory * of the Martyrs and monastic Saints."
+
+meMA.Lauds2.mode = misc_en_US_dedes.Mode4
+meMA.Lauds2.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
+meMA.Lauds2.text = "Today the city of Athens is rejoicing, * for the holy relics of the Martyr and devout * St. Philothea are on display, for veneration; * and all the people salute them lovingly. * Holy virgins maidens, who honor her on this day, * devoutly sing festal hymns and songs * to Philothéï. * For truly mediatress has she become, * mother and nurse, asylum and retreat, * for the women who faithfully run to her * and who seek her protection * in the shelter of our loving God."
+
+meMA.Lauds3.mode = misc_en_US_dedes.Mode4
+meMA.Lauds3.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
+meMA.Lauds3.text = "Come and adorn the divine St. Philothea * with inspired songs today, O virgin maidens all; * and with a loud voice cry out to her, with great devotion, * Rejoice, all-honored monastic-martyr Saint! * When you had dispersed your earthly riches to the poor, * and congregated around yourself * so many virgins, * you then appeared as an endless source of love. * And thus to you the crown of martyrdom * has been worthily granted by Christ our God. * Therefore earnestly pray Him * to illumine us and save our souls."
+
+meMA.Lauds4.mode = misc_en_US_dedes.Mode4
+meMA.Lauds4.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
+meMA.Lauds4.text = "O Philothea, like Dorcas once in Joppa, * you indeed became a faithful disciple of Christ. * For in your life you were seen to be * replete with good deeds; * and like a wellspring you overflowed to all * mercy in abundance and genuine sympathy, * and as the Psalm says, you scattered all * your worldly substance, * into the hands of the poor dispersing it. * Thus having martyred, you were welcomed by * Christ our God, unto whom you had loaned your wealth. * Therefore earnestly pray Him * to illumine us and save our souls."
+
+meMA.LaudsGlory.mode = misc_en_US_dedes.Mode5
+meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.text = "Today the city of Athens cheerfully celebrates the memorial of Saint Philothea. So come, you lovers of piety, let us honor the devout Martyr, and reverently chant to her. Rejoice! for during your life you exercised the virtue of love, applying oil and wine on people's sores, as did the Good Samaritan. Rejoice! for like the Savior, you persevered in prayer, and you were taken up and led to undergo martyrdom, for the sake of Him who for us died like a martyr. Rejoice, O Philothéï, extolled by all! Together with the Saints, never cease entreating the Savior, to guard your city, and to preserve her in peace forever, and to save our souls."
+
+meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode5
+meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
+
+meMA.LaudsSundayVerse1.source  = ""
+meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
+
+meMA.LaudsSundayVerse2.source  = ""
+meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+
+meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
+meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.text  = ""
+
+meLI.Alleluia.mode  = ""
+
+meLI.AlleluiaVerse1.source  = ""
+meLI.AlleluiaVerse1.text  = ""
+
+meLI.AlleluiaVerse2.source  = ""
+meLI.AlleluiaVerse2.text  = ""
+
+meLI.CommunionHymn.source = ""
+meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text
+
+meMegalynarion.text = "Let us praise the nun-martyr of the Lord; * for of old in Athens, she illustriously shone forth. * She has been adorned with the laurel crown of martyrs. * The holy Philothéï! * Let us all honor her."
+

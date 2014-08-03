@@ -1,0 +1,608 @@
+A_Resource_Whose_Name = prayers_en_US_public
+
+Doxa = prayers_en_US_holycross.Doxa
+
+DoxaKaiNyn = prayers_en_US_holycross.DoxaKaiNyn
+
+KaiNyn = prayers_en_US_holycross.KaiNyn
+
+Allilouia1 = prayers_en_US_holycross.Allilouia1
+
+Allilouia3.text = prayers_en_US_holycross.Allilouia3.text
+
+Allilouia3Doxa.text = prayers_en_US_holycross.Allilouia3Doxa.text
+
+DefteProskinisomen1 = prayers_en_US_holycross.DefteProskinisomen1
+
+DefteProskinisomen2 = prayers_en_US_holycross.DefteProskinisomen2
+
+DefteProskinisomen3 = prayers_en_US_holycross.DefteProskinisomen3
+
+DiEfchonDespotou.text = prayers_en_US_holycross.DiEfchonDespotou.text
+
+DiEfchonPateron.text = prayers_en_US_holycross.DiEfchonPateron.text
+
+DoxaPatri.text = prayers_en_US_holycross.DoxaPatri.text
+
+DoxaSoiChriste1 = prayers_en_US_holycross.DoxaSoiChriste1
+
+DoxaSoiChriste2 = prayers_en_US_holycross.DoxaSoiChriste2
+
+DoxaSoiKyrie = prayers_en_US_holycross.DoxaSoiKyrie
+
+DoxaSoiKyrieP = prayers_en_US_holycross.DoxaSoiKyrieP
+
+DoxaSoiOTheos1 = prayers_en_US_holycross.DoxaSoiOTheos1
+
+DoxaSoiOTheosImon.text = prayers_en_US_holycross.DoxaSoiOTheosImon.text
+
+DoxaTiAgiaAnastasei.text = prayers_en_US_holycross.DoxaTiAgiaAnastasei.text
+
+DoxaTiMakrothymia.text = prayers_en_US_holycross.DoxaTiMakrothymia.text
+
+DoxaTiMakrothymiaP.text = prayers_en_US_holycross.DoxaTiMakrothymiaP.text
+
+DoxaToPatri.text = prayers_en_US_holycross.DoxaToPatri.text
+
+EisToOnoma = prayers_en_US_holycross.EisToOnoma
+
+EvlogitosOTheosImon.text = prayers_en_US_holycross.EvlogitosOTheosImon.text
+
+EvlogoumenPatera.text = prayers_en_US_holycross.EvlogoumenPatera.text
+
+IElpisImonKyrie = prayers_en_US_holycross.IElpisImonKyrie
+
+KaiNynKaiAei.text = prayers_en_US_holycross.KaiNynKaiAei.text
+
+Kelefson = prayers_en_US_holycross.Kelefson
+
+KelefsonDespota = prayers_en_US_holycross.KelefsonDespota
+
+OTheosOiktirisai.source = prayers_en_US_holycross.OTheosOiktirisai.source
+
+OTheosOiktirisai.text = prayers_en_US_holycross.OTheosOiktirisai.text
+
+PantoteNyn.text = prayers_en_US_holycross.PantoteNyn.text
+
+Evlogison = prayers_en_US_holycross.Evlogison
+
+EvlogisonP = prayers_en_US_holycross.EvlogisonP
+
+EnOnomatiKyriou.text = prayers_en_US_holycross.EnOnomatiKyriou.text
+
+EvlogisonThymiama.text = prayers_en_US_holycross.EvlogisonThymiama.text
+
+AgieTouTheou.text = prayers_en_US_holycross.AgieTouTheou.text
+
+AgiaTouTheou.text = prayers_en_US_holycross.AgiaTouTheou.text
+
+AgioiTouTheou.text = prayers_en_US_holycross.AgioiTouTheou.text
+
+ApostoleTouChristou.text = prayers_en_US_holycross.ApostoleTouChristou.text
+
+OsiaTouTheou.text = prayers_en_US_holycross.OsiaTouTheou.text
+
+EleisonMeOTheos.text = prayers_en_US_holycross.EleisonMeOTheos.text
+
+YperagiaTheotokeSosonImas.text = prayers_en_US_holycross.YperagiaTheotokeSosonImas.text
+
+AxionEstin.text = prayers_en_US_holycross.AxionEstin.text
+
+AgiosOTheos.text = prayers_en_US_holycross.AgiosOTheos.text
+
+EpouranieVasilef.text = prayers_en_US_holycross.EpouranieVasilef.text
+
+KyrieKaiDespota1.text = prayers_en_US_holycross.KyrieKaiDespota1.text
+
+KyrieKaiDespota2.text = prayers_en_US_holycross.KyrieKaiDespota2.text
+
+KyrieKaiDespota3.text = prayers_en_US_holycross.KyrieKaiDespota3.text
+
+KyrieKaiDespota4.text = prayers_en_US_holycross.KyrieKaiDespota4.text
+
+OEnPantiKairo.text = prayers_en_US_holycross.OEnPantiKairo.text
+
+OOnEvlogitos.text = prayers_en_US_holycross.OOnEvlogitos.text
+
+PanagiaTrias.text = prayers_en_US_holycross.PanagiaTrias.text
+
+PaschaDialog1.text = prayers_en_US_holycross.PaschaDialog1.text
+PaschaDialog2.text = prayers_en_US_holycross.PaschaDialog2.text
+PaschaDialog3.text = prayers_en_US_holycross.PaschaDialog3.text
+PaschaDialog4.text = prayers_en_US_holycross.PaschaDialog4.text
+PaschaDialog5.text = prayers_en_US_holycross.PaschaDialog5.text
+PaschaDialog6.text = prayers_en_US_holycross.PaschaDialog6.text
+
+PaterImon.text = prayers_en_US_holycross.PaterImon.text
+
+Pistevo.text = prayers_en_US_holycross.Pistevo.text
+
+StereosaiKyrios.text = prayers_en_US_holycross.StereosaiKyrios.text
+
+SoulSaturday.text = prayers_en_US_holycross.SoulSaturday.text
+
+Thymiama.text = prayers_en_US_holycross.Thymiama.text
+
+TinTimioteran.text = prayers_en_US_dedes.TinTimioteran.text
+
+VasilefOuranie.text = prayers_en_US_holycross.VasilefOuranie.text
+
+trDiaTisTheotokou = prayers_en_US_holycross.trDiaTisTheotokou
+
+fePresveiaisTisTheotokou = prayers_en_US_holycross.fePresveiaisTisTheotokou
+
+fbPresveiaisKyrieTisTheotokou = prayers_en_US_holycross.fbPresveiaisKyrieTisTheotokou
+
+trPresveiaisTonAgion = prayers_en_US_holycross.trPresveiaisTonAgion
+
+fePresveiaisTonAgionKaiSosonMe = prayers_en_US_holycross.fePresveiaisTonAgionKaiSosonMe
+
+fbPresveiaisKyrieTonAgion = prayers_en_US_holycross.fbPresveiaisKyrieTonAgion
+
+enarxis01 = prayers_en_US_holycross.enarxis01
+
+enarxis02 = prayers_en_US_holycross.enarxis02
+
+enarxis03 = prayers_en_US_holycross.enarxis03
+
+pet00 = prayers_en_US_holycross.pet00
+
+pet01 = prayers_en_US_holycross.pet01
+
+pet02 = prayers_en_US_holycross.pet02
+
+pet03 = prayers_en_US_holycross.pet03
+
+pet04 = prayers_en_US_holycross.pet04
+
+pet05 = prayers_en_US_holycross.pet05
+
+pet06 = prayers_en_US_holycross.pet06
+
+pet06a = prayers_en_US_holycross.pet06a
+
+pet06b = prayers_en_US_holycross.pet06b
+
+pet07L = prayers_en_US_holycross.pet07L
+
+pet07S = prayers_en_US_holycross.pet07S
+
+pet07Sa = prayers_en_US_holycross.pet07Sa
+
+pet08 = prayers_en_US_holycross.pet08
+
+pet08alt = prayers_en_US_holycross.pet08alt
+
+pet09 = prayers_en_US_holycross.pet09
+
+pet10 = prayers_en_US_holycross.pet10
+
+pet11 = prayers_en_US_holycross.pet11
+
+pet12 = prayers_en_US_holycross.pet12
+
+pet13 = prayers_en_US_holycross.pet13
+
+pet14 = prayers_en_US_holycross.pet14
+
+pet15 = prayers_en_US_holycross.pet15
+
+pet16 = prayers_en_US_holycross.pet16
+
+pet17 = prayers_en_US_holycross.pet17
+
+pet18 = prayers_en_US_holycross.pet18
+
+pet19 = prayers_en_US_holycross.pet19
+
+pet19a = prayers_en_US_holycross.pet19a
+
+pet20 = prayers_en_US_holycross.pet20
+
+pet21 = prayers_en_US_holycross.pet21
+
+pet21a = prayers_en_US_holycross.pet21a
+
+pet21b = prayers_en_US_holycross.pet21b
+
+pet21c = prayers_en_US_holycross.pet21c
+
+pet21d = prayers_en_US_holycross.pet21d
+
+pet21p = prayers_en_US_holycross.pet21p
+
+pet22 = prayers_en_US_holycross.pet22
+
+pet23 = prayers_en_US_holycross.pet23
+
+pet24 = prayers_en_US_holycross.pet24
+
+pet24v = prayers_en_US_holycross.pet24v
+
+pet24m = prayers_en_US_holycross.pet24m
+
+pet25v = prayers_en_US_holycross.pet25v
+
+pet25m = prayers_en_US_holycross.pet25m
+
+pet26 = prayers_en_US_holycross.pet26
+
+pet27 = prayers_en_US_holycross.pet27
+
+pet28 = prayers_en_US_holycross.pet28
+
+pet29 = prayers_en_US_holycross.pet29
+
+pet30 = prayers_en_US_holycross.pet30
+
+pet31 = prayers_en_US_holycross.pet31
+
+pet32 = prayers_en_US_holycross.pet32
+
+pet33 = prayers_en_US_holycross.pet33
+
+pet34 = prayers_en_US_holycross.pet34
+
+pet35 = prayers_en_US_holycross.pet35
+
+pet36 = prayers_en_US_holycross.pet36
+
+pet37 = prayers_en_US_holycross.pet37
+
+petBap01 = prayers_en_US_holycross.petBap01
+
+petBap02 = prayers_en_US_holycross.petBap02
+
+petBap03 = prayers_en_US_holycross.petBap03
+
+petBap04 = prayers_en_US_holycross.petBap04
+
+petBap05 = prayers_en_US_holycross.petBap05
+
+petBap06 = prayers_en_US_holycross.petBap06
+
+petBap07 = prayers_en_US_holycross.petBap07
+
+petCatechumens01 = prayers_en_US_holycross.petCatechumens01
+
+petCatechumens02 = prayers_en_US_holycross.petCatechumens02
+
+petCatechumens03 = prayers_en_US_holycross.petCatechumens03
+
+petCatechumens04 = prayers_en_US_holycross.petCatechumens04
+
+petCatechumens05 = prayers_en_US_holycross.petCatechumens05
+
+petCatechumens06 = prayers_en_US_holycross.petCatechumens06
+
+petCatechumens07 = prayers_en_US_holycross.petCatechumens07
+
+petCatechumens08 = prayers_en_US_holycross.petCatechumens08
+
+petCatechumens09 = prayers_en_US_holycross.petCatechumens09
+
+petCatechumens10 = prayers_en_US_holycross.petCatechumens10
+
+petCatechumens11 = prayers_en_US_holycross.petCatechumens11
+
+petCatechumens12 = prayers_en_US_holycross.petCatechumens12
+
+petCatechumens13 = prayers_en_US_holycross.petCatechumens13
+
+petCatechumens14 = prayers_en_US_holycross.petCatechumens14
+
+petCatechumens15 = prayers_en_US_holycross.petCatechumens15
+
+petCatechumens16 = prayers_en_US_holycross.petCatechumens16
+
+petCatechumens17 = prayers_en_US_holycross.petCatechumens17
+
+petCatechumens18 = prayers_en_US_holycross.petCatechumens18
+
+petCatechumens19 = prayers_en_US_holycross.petCatechumens19
+
+petCatechumens20 = prayers_en_US_holycross.petCatechumens20
+
+petCatechumens21 = prayers_en_US_holycross.petCatechumens21
+
+petCatechumens22 = prayers_en_US_holycross.petCatechumens22
+
+petCatechumens23 = prayers_en_US_holycross.petCatechumens23
+
+petCatechumens24 = prayers_en_US_holycross.petCatechumens24
+
+petCompline01 = prayers_en_US_holycross.petCompline01
+
+petCompline02 = prayers_en_US_holycross.petCompline02
+
+petCompline03 = prayers_en_US_holycross.petCompline03
+
+petCompline04 = prayers_en_US_holycross.petCompline04
+
+petCompline05 = prayers_en_US_holycross.petCompline05
+
+petCompline06 = prayers_en_US_holycross.petCompline06
+
+petCompline07 = prayers_en_US_holycross.petCompline07
+
+petCompline08 = prayers_en_US_holycross.petCompline08
+
+petCompline09 = prayers_en_US_holycross.petCompline09
+
+petCompline10 = prayers_en_US_holycross.petCompline10
+
+petCompline11 = prayers_en_US_holycross.petCompline11
+
+petCompline12 = prayers_en_US_holycross.petCompline12
+
+petCompline13 = prayers_en_US_holycross.petCompline13
+
+petCompline14 = prayers_en_US_holycross.petCompline14
+
+petCompline15 = prayers_en_US_holycross.petCompline15
+
+petConsecration01 = prayers_en_US_holycross.petConsecration01
+
+petConsecration02 = prayers_en_US_holycross.petConsecration02
+
+petFuneral01 = prayers_en_US_holycross.petFuneral01
+
+petFuneral02 = prayers_en_US_holycross.petFuneral02
+
+petKneel01 = prayers_en_US_holycross.petKneel01
+
+petKneel02 = prayers_en_US_holycross.petKneel02
+
+petKneel03 = prayers_en_US_holycross.petKneel03
+
+petKneel04 = prayers_en_US_holycross.petKneel04
+
+petKneel05 = prayers_en_US_holycross.petKneel05
+
+petKneel06 = prayers_en_US_holycross.petKneel06
+
+petKneel07 = prayers_en_US_holycross.petKneel07
+
+petKneel08 = prayers_en_US_holycross.petKneel08
+
+petSouls01 = prayers_en_US_holycross.petSouls01
+
+petSouls02 = prayers_en_US_holycross.petSouls02
+
+petUnction01 = prayers_en_US_holycross.petUnction01
+
+petUnction02 = prayers_en_US_holycross.petUnction02
+
+petUnction03 = prayers_en_US_holycross.petUnction03
+
+petWater01 = prayers_en_US_holycross.petWater01
+
+petWater02 = prayers_en_US_holycross.petWater02
+
+petWater03 = prayers_en_US_holycross.petWater03
+
+petWater03b = prayers_en_US_holycross.petWater03b
+
+petWater04 = prayers_en_US_holycross.petWater04
+
+petWater05 = prayers_en_US_holycross.petWater05
+
+petWater06 = prayers_en_US_holycross.petWater06
+
+petWater07 = prayers_en_US_holycross.petWater07
+
+petWater07b = prayers_en_US_holycross.petWater07b
+
+petWater08 = prayers_en_US_holycross.petWater08
+
+petWater09 = prayers_en_US_holycross.petWater09
+
+petWater10 = prayers_en_US_holycross.petWater10
+
+petWater11 = prayers_en_US_holycross.petWater11
+
+petWed01 = prayers_en_US_holycross.petWed01
+
+petWed02 = prayers_en_US_holycross.petWed02
+
+petWed03 = prayers_en_US_holycross.petWed03
+
+petWed04 = prayers_en_US_holycross.petWed04
+
+petWed05 = prayers_en_US_holycross.petWed05
+
+petWed06 = prayers_en_US_holycross.petWed06
+
+petWed07 = prayers_en_US_holycross.petWed07
+
+petWed08 = prayers_en_US_holycross.petWed08
+
+petWed09 = prayers_en_US_holycross.petWed09
+
+petWed10 = prayers_en_US_holycross.petWed10
+
+petWed11 = prayers_en_US_holycross.petWed11
+
+petWed12 = prayers_en_US_holycross.petWed12
+
+petWed13 = prayers_en_US_holycross.petWed13
+
+petWed14 = prayers_en_US_holycross.petWed14
+
+sup00 = prayers_en_US_holycross.sup00
+
+sup00a = prayers_en_US_holycross.sup00a
+
+sup01 = prayers_en_US_holycross.sup01
+
+sup02 = prayers_en_US_holycross.sup02
+
+sup03 = prayers_en_US_holycross.sup03
+
+sup04 = prayers_en_US_holycross.sup04
+
+sup05 = prayers_en_US_holycross.sup05
+
+sup06 = prayers_en_US_holycross.sup06
+
+sup07 = prayers_en_US_holycross.sup07
+
+sup08 = prayers_en_US_holycross.sup08
+
+sup09 = prayers_en_US_holycross.sup09
+
+sup10 = prayers_en_US_holycross.sup10
+
+sup11 = prayers_en_US_holycross.sup11
+
+sup12 = prayers_en_US_holycross.sup12
+
+sup13 = prayers_en_US_holycross.sup13
+
+sup14 = prayers_en_US_holycross.sup14
+
+sup15 = prayers_en_US_holycross.sup15
+
+sup99 = prayers_en_US_holycross.sup99
+
+res01 = prayers_en_US_holycross.res01
+
+res02 = prayers_en_US_holycross.res02
+
+res03 = prayers_en_US_holycross.res03
+
+res04 = prayers_en_US_holycross.res04
+
+res05 = prayers_en_US_holycross.res05
+
+res06 = prayers_en_US_holycross.res06
+
+res07 = prayers_en_US_holycross.res07
+
+res08 = prayers_en_US_holycross.res08
+
+res09 = prayers_en_US_holycross.res09
+
+res10 = prayers_en_US_holycross.res10
+
+res11 = prayers_en_US_holycross.res11
+
+res12 = prayers_en_US_holycross.res12
+
+res13 = prayers_en_US_holycross.res13
+
+res14 = prayers_en_US_holycross.res14
+
+res15 = prayers_en_US_holycross.res15
+
+res16 = prayers_en_US_holycross.res16
+
+res01p = prayers_en_US_holycross.res01p
+
+res02p = prayers_en_US_holycross.res02p
+
+res03p = prayers_en_US_holycross.res03p
+
+res04p = prayers_en_US_holycross.res04p
+
+res05p = prayers_en_US_holycross.res05p
+
+res06p = prayers_en_US_holycross.res06p
+
+res07p = prayers_en_US_holycross.res07p
+
+res08p = prayers_en_US_holycross.res08p
+
+res09p = prayers_en_US_holycross.res09p
+
+res10p = prayers_en_US_holycross.res10p
+
+res11p = prayers_en_US_holycross.res11p
+
+res12p = prayers_en_US_holycross.res12p
+
+res13p = prayers_en_US_holycross.res13p
+
+res14p = prayers_en_US_holycross.res14p
+
+res15p = prayers_en_US_holycross.res15p
+
+res16p = prayers_en_US_holycross.res16p
+
+exc01 = prayers_en_US_holycross.exc01
+
+exc01a = prayers_en_US_holycross.exc01a
+
+exc02 = prayers_en_US_holycross.exc02
+
+exc03 = prayers_en_US_holycross.exc03
+
+exc04 = prayers_en_US_holycross.exc04
+
+exc05 = prayers_en_US_holycross.exc05
+
+exc05a = prayers_en_US_holycross.exc05a
+
+exc05b = prayers_en_US_holycross.exc05b
+
+exc06 = prayers_en_US_holycross.exc06
+
+exc07 = prayers_en_US_holycross.exc07
+
+exc07a = prayers_en_US_holycross.exc07a
+
+exc07b = prayers_en_US_holycross.exc07b
+
+exc08 = prayers_en_US_holycross.exc08
+
+exc09 = prayers_en_US_holycross.exc09
+
+exc10 = prayers_en_US_holycross.exc10
+
+exc11 = prayers_en_US_holycross.exc11
+
+exc11a = prayers_en_US_holycross.exc11a
+
+exc12 = prayers_en_US_holycross.exc12
+
+exc13 = prayers_en_US_holycross.exc13
+
+exc14 = prayers_en_US_holycross.exc14
+
+exc15 = prayers_en_US_holycross.exc15
+
+exc16 = prayers_en_US_holycross.exc16
+
+exc17 = prayers_en_US_holycross.exc17
+
+exc18 = prayers_en_US_holycross.exc18
+
+exc19 = prayers_en_US_holycross.exc19
+
+exc20 = prayers_en_US_holycross.exc20
+
+exc22 = prayers_en_US_holycross.exc22
+
+exc23 = prayers_en_US_holycross.exc23
+
+exc24 = prayers_en_US_holycross.exc24
+
+exc25 = prayers_en_US_holycross.exc25
+
+exc26 = prayers_en_US_holycross.exc26
+
+epi01a = prayers_en_US_holycross.epi01a
+
+epi01b = prayers_en_US_holycross.epi01b
+
+epi02 = prayers_en_US_holycross.epi02
+
+gos01 = prayers_en_US_holycross.gos01
+
+gos02 = prayers_en_US_holycross.gos02
+
+gos03a = prayers_en_US_holycross.gos03a
+
+gos03b = prayers_en_US_holycross.gos03b
+
+gos04 = prayers_en_US_holycross.gos04

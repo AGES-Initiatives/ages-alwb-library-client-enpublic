@@ -1,0 +1,12 @@
+A_Resource_Whose_Name = da.d1_en_US_public
+
+daDay.text = da.d1_en_US_dedes.daDay.text
+daCommemoration.text = da.d1_en_US_dedes.daCommemoration.text
+
+daVE.OnTheEveningBefore = da.d1_en_US_dedes.daVE.OnTheEveningBefore
+
+daLI.EpistleProkeimenon.title = da.d1_en_US_dedes.daLI.EpistleProkeimenon.title // Prokeimena for Sundays are in Octoechos according to mode
+
+daLI.GospelAlleluia.text = da.d1_en_US_dedes.daLI.GospelAlleluia.text // Alleluia verses for Sundays are in Octoechos according to mode
+
+daLI.CommunionHymn.text = da.d1_en_US_dedes.daLI.CommunionHymn.text //for media

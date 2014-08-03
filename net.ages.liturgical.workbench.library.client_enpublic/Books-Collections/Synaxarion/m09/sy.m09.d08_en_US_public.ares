@@ -1,0 +1,46 @@
+
+A_Resource_Whose_Name = sy.m09.d08_en_US_public 
+
+S01.Com = sy.m09.d08_en_US_dedes.S01.Com
+S01.Nar = sy.m09.d08_en_US_dedes.S01.Nar
+S01.Ver1 = sy.m09.d08_en_US_dedes.S01.Ver1
+S01.Ver2 = sy.m09.d08_en_US_dedes.S01.Ver2
+S01.Ver3 = sy.m09.d08_en_US_dedes.S01.Ver3
+
+S02.Com = sy.m09.d08_en_US_dedes.S02.Com
+S02.Nar = sy.m09.d08_en_US_dedes.S02.Nar
+S02.Ver = sy.m09.d08_en_US_dedes.S02.Ver
+
+S03.Com = sy.m09.d08_en_US_dedes.S03.Com
+S03.Nar = sy.m09.d08_en_US_dedes.S03.Nar
+S03.Ver = sy.m09.d08_en_US_dedes.S03.Ver
+
+S04.Com = sy.m09.d08_en_US_dedes.S04.Com
+S04.Nar = sy.m09.d08_en_US_dedes.S04.Nar
+S04.Ver = sy.m09.d08_en_US_dedes.S04.Ver
+
+S05.Com = sy.m09.d08_en_US_dedes.S05.Com
+S05.Nar = sy.m09.d08_en_US_dedes.S05.Nar
+S05.Ver = sy.m09.d08_en_US_dedes.S05.Ver
+
+S06.Com = sy.m09.d08_en_US_dedes.S06.Com
+S06.Nar = sy.m09.d08_en_US_dedes.S06.Nar
+S06.Ver = sy.m09.d08_en_US_dedes.S06.Ver
+
+S07.Com = sy.m09.d08_en_US_dedes.S07.Com
+S07.Nar = sy.m09.d08_en_US_dedes.S07.Nar
+S07.Ver = sy.m09.d08_en_US_dedes.S07.Ver
+
+S08.Com = sy.m09.d08_en_US_dedes.S08.Com
+S08.Nar = sy.m09.d08_en_US_dedes.S08.Nar
+S08.Ver = sy.m09.d08_en_US_dedes.S08.Ver
+
+S09.Com = sy.m09.d08_en_US_dedes.S09.Com
+S09.Nar = sy.m09.d08_en_US_dedes.S09.Nar
+S09.Ver = sy.m09.d08_en_US_dedes.S09.Ver
+
+S10.Com = sy.m09.d08_en_US_dedes.S10.Com
+S10.Nar = sy.m09.d08_en_US_dedes.S10.Nar
+S10.Ver = sy.m09.d08_en_US_dedes.S10.Ver
+
+S99.LastLine = sy.m09.d08_en_US_dedes.S99.LastLine

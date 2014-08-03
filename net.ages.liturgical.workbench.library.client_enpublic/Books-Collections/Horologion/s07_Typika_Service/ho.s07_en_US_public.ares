@@ -1,0 +1,61 @@
+A_Resource_Whose_Name = ho.s07_en_US_public 
+
+Title = ho.s07_en_US_dedes.Title
+
+R01 = ho.s07_en_US_dedes.R01
+
+hoLI.OnlyBegotten.title = ho.s07_en_US_dedes.hoLI.OnlyBegotten.title
+hoLI.OnlyBegotten.text = ho.s07_en_US_dedes.hoLI.OnlyBegotten.text
+
+//Beatitudes
+hoTY.Key0212.text = ho.s07_en_US_dedes.hoTY.Key0212.text
+hoTY.Key0213.text = ho.s07_en_US_dedes.hoTY.Key0213.text
+hoTY.Key0214.text = ho.s07_en_US_dedes.hoTY.Key0214.text
+hoTY.Key0215.text = ho.s07_en_US_dedes.hoTY.Key0215.text
+hoTY.Key0216.text = ho.s07_en_US_dedes.hoTY.Key0216.text
+hoTY.Key0217.text = ho.s07_en_US_dedes.hoTY.Key0217.text
+
+//0300-0313
+//0400-0408
+
+hoTY.Key0408.mode = ho.s07_en_US_dedes.hoTY.Key0408.mode
+hoTY.Key0408.text = ho.s07_en_US_dedes.hoTY.Key0408.text
+
+hoTY.Key0501.text = ho.s07_en_US_dedes.hoTY.Key0501.text
+
+// Liturgy Antiphons
+hoLI.Antiphon1.text = ho.s07_en_US_dedes.hoLI.Antiphon1.text
+
+hoLI.Antiphon21.text = ho.s07_en_US_dedes.hoLI.Antiphon21.text
+hoLI.Antiphon22.text = ho.s07_en_US_dedes.hoLI.Antiphon22.text
+hoLI.Antiphon2s.text = ho.s07_en_US_dedes.hoLI.Antiphon2s.text
+hoLI.Antiphon2w.text = ho.s07_en_US_dedes.hoLI.Antiphon2w.text
+
+hoLI.EntranceHymn.text = ho.s07_en_US_dedes.hoLI.EntranceHymn.text // in the template add parts of Antiphon 2
+hoLI.EntranceHymn2s.text = ho.s07_en_US_dedes.hoLI.EntranceHymn2s.text
+hoLI.EntranceHymn2w.text = ho.s07_en_US_dedes.hoLI.EntranceHymn2w.text
+
+hoLI.TrisagiosHymn.title = ho.s07_en_US_dedes.hoLI.TrisagiosHymn.title
+hoLI.TrisagiosHymn.text = ho.s07_en_US_dedes.hoLI.TrisagiosHymn.text
+hoLI.TrisagiosHymn1.text = ho.s07_en_US_dedes.hoLI.TrisagiosHymn1.text
+hoLI.TrisagiosHymn2.text = ho.s07_en_US_dedes.hoLI.TrisagiosHymn2.text
+hoLI.TrisagiosHymn3.text = ho.s07_en_US_dedes.hoLI.TrisagiosHymn3.text
+hoLI.TrisagiosHymn4.text = ho.s07_en_US_dedes.hoLI.TrisagiosHymn4.text
+ 
+hoLI.OsoiEisChriston.title = ho.s07_en_US_dedes.hoLI.OsoiEisChriston.title
+hoLI.OsoiEisChriston.source = ho.s07_en_US_dedes.hoLI.OsoiEisChriston.source
+hoLI.OsoiEisChriston.text = ho.s07_en_US_dedes.hoLI.OsoiEisChriston.text
+hoLI.OsoiEisChriston1.text = ho.s07_en_US_dedes.hoLI.OsoiEisChriston1.text
+hoLI.OsoiEisChriston2.text = ho.s07_en_US_dedes.hoLI.OsoiEisChriston2.text
+hoLI.OsoiEisChriston3.text = ho.s07_en_US_dedes.hoLI.OsoiEisChriston3.text
+hoLI.OsoiEisChriston4.text = ho.s07_en_US_dedes.hoLI.OsoiEisChriston4.text
+ 
+hoLI.TonStavronSou.title = ho.s07_en_US_dedes.hoLI.TonStavronSou.title
+hoLI.TonStavronSou.text = ho.s07_en_US_dedes.hoLI.TonStavronSou.text
+hoLI.TonStavronSou1.text = ho.s07_en_US_dedes.hoLI.TonStavronSou1.text
+hoLI.TonStavronSou2.text = ho.s07_en_US_dedes.hoLI.TonStavronSou2.text
+hoLI.TonStavronSou3.text = ho.s07_en_US_dedes.hoLI.TonStavronSou3.text
+hoLI.TonStavronSou4.text = ho.s07_en_US_dedes.hoLI.TonStavronSou4.text
+
+hoLI.GospelAlleluia.title = ho.s07_en_US_dedes.hoLI.GospelAlleluia.title
+hoLI.GospelAlleluia.text = ho.s07_en_US_dedes.hoLI.GospelAlleluia.text
