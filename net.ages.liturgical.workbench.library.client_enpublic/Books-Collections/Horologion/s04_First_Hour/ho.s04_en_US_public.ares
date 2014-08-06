@@ -1,21 +1,6 @@
 A_Resource_Whose_Name = ho.s04_en_US_public 
 
 hoH1.title = ho.s04_en_US_dedes.hoH1.title
-hoH1.Ps1.source = ho.s04_en_US_dedes.hoH1.Ps1.source
-hoH1.Ps1.title = ho.s04_en_US_dedes.hoH1.Ps1.title
-hoH1.Ps1.text = ho.s04_en_US_dedes.hoH1.Ps1.text
-hoH1.Ps2.source = ho.s04_en_US_dedes.hoH1.Ps2.source
-hoH1.Ps2.title = ho.s04_en_US_dedes.hoH1.Ps2.title
-hoH1.Ps2.text = ho.s04_en_US_dedes.hoH1.Ps2.text
-hoH1.Ps3.source = ho.s04_en_US_dedes.hoH1.Ps3.source
-hoH1.Ps3.title = ho.s04_en_US_dedes.hoH1.Ps3.title
-hoH1.Ps3.text = ho.s04_en_US_dedes.hoH1.Ps3.text
 hoH1.Theotokion.text = ho.s04_en_US_dedes.hoH1.Theotokion.text
-hoH1.OT.source = ho.s04_en_US_dedes.hoH1.OT.source
-hoH1.OT.text = ho.s04_en_US_dedes.hoH1.OT.text
-hoH1.OTa.text = ho.s04_en_US_dedes.hoH1.OTa.text
-hoH1.OTb.text = ho.s04_en_US_dedes.hoH1.OTb.text
-hoH1.OTc.text = ho.s04_en_US_dedes.hoH1.OTc.text
-hoH1.OTd.text = ho.s04_en_US_dedes.hoH1.OTd.text
 hoH1.Prayer.text = ho.s04_en_US_dedes.hoH1.Prayer.text
 

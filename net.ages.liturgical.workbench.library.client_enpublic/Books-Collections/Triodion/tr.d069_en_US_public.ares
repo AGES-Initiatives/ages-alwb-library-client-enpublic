@@ -498,18 +498,6 @@ trH.Hours.Poet = tr.d069_en_US_dedes.trH.Hours.Poet
 
 trH1.title = tr.d069_en_US_dedes.trH1.title
 
-trH1.Ps1.source = tr.d069_en_US_dedes.trH1.Ps1.source
-trH1.Ps1.title = tr.d069_en_US_dedes.trH1.Ps1.title
-trH1.Ps1.text = tr.d069_en_US_dedes.trH1.Ps1.text
-
-trH1.Ps2.source = tr.d069_en_US_dedes.trH1.Ps2.source
-trH1.Ps2.title = tr.d069_en_US_dedes.trH1.Ps2.title
-trH1.Ps2.text = tr.d069_en_US_dedes.trH1.Ps2.text
-
-trH1.Ps3.source = tr.d069_en_US_dedes.trH1.Ps3.source
-trH1.Ps3.title = tr.d069_en_US_dedes.trH1.Ps3.title
-trH1.Ps3.text = tr.d069_en_US_dedes.trH1.Ps3.text
-
 trH1.Troparion.mode = tr.d069_en_US_dedes.trH1.Troparion.mode
 trH1.Troparion.text = tr.d069_en_US_dedes.trH1.Troparion.text
 
@@ -538,18 +526,6 @@ trH1.Kontakion.mode = tr.d069_en_US_dedes.trH1.Kontakion.mode
 trH1.Kontakion.text = tr.d069_en_US_dedes.trH1.Kontakion.text
 
 trH3.title = tr.d069_en_US_dedes.trH3.title
-
-trH3.Ps1.source = tr.d069_en_US_dedes.trH3.Ps1.source
-trH3.Ps1.title = tr.d069_en_US_dedes.trH3.Ps1.title
-trH3.Ps1.text = tr.d069_en_US_dedes.trH3.Ps1.text
-
-trH3.Ps2.source = tr.d069_en_US_dedes.trH3.Ps2.source
-trH3.Ps2.title = tr.d069_en_US_dedes.trH3.Ps2.title
-trH3.Ps2.text = tr.d069_en_US_dedes.trH3.Ps2.text
-
-trH3.Ps3.source = tr.d069_en_US_dedes.trH3.Ps3.source
-trH3.Ps3.title = tr.d069_en_US_dedes.trH3.Ps3.title
-//trH3.Ps3.text = tr.d069_en_US_dedes.trH3.Ps3.text
 
 trH3.Troparion.mode = tr.d069_en_US_dedes.trH3.Troparion.mode
 trH3.Troparion.text = tr.d069_en_US_dedes.trH3.Troparion.text
@@ -580,18 +556,6 @@ trH3.Kontakion.text = tr.d069_en_US_dedes.trH3.Kontakion.text
 
 trH6.title = tr.d069_en_US_dedes.trH6.title
 
-trH6.Ps1.source = tr.d069_en_US_dedes.trH6.Ps1.source
-trH6.Ps1.title = tr.d069_en_US_dedes.trH6.Ps1.title
-trH6.Ps1.text = tr.d069_en_US_dedes.trH6.Ps1.text
-
-trH6.Ps2.source = tr.d069_en_US_dedes.trH6.Ps2.source
-trH6.Ps2.title = tr.d069_en_US_dedes.trH6.Ps2.title
-trH6.Ps2.text = tr.d069_en_US_dedes.trH6.Ps2.text
-
-trH6.Ps3.source = tr.d069_en_US_dedes.trH6.Ps3.source
-trH6.Ps3.title = tr.d069_en_US_dedes.trH6.Ps3.title
-trH6.Ps3.text = tr.d069_en_US_dedes.trH6.Ps3.text
-
 trH6.Troparion.mode = tr.d069_en_US_dedes.trH6.Troparion.mode
 trH6.Troparion.text = tr.d069_en_US_dedes.trH6.Troparion.text
 
@@ -620,18 +584,6 @@ trH6.Kontakion.mode = tr.d069_en_US_dedes.trH6.Kontakion.mode
 trH6.Kontakion.text = tr.d069_en_US_dedes.trH6.Kontakion.text
 
 trH9.title = tr.d069_en_US_dedes.trH9.title
-
-trH9.Ps1.source = tr.d069_en_US_dedes.trH9.Ps1.source
-trH9.Ps1.title = tr.d069_en_US_dedes.trH9.Ps1.title
-trH9.Ps1.text = tr.d069_en_US_dedes.trH9.Ps1.text
-
-trH9.Ps2.source = tr.d069_en_US_dedes.trH9.Ps2.source
-trH9.Ps2.title = tr.d069_en_US_dedes.trH9.Ps2.title
-trH9.Ps2.text = tr.d069_en_US_dedes.trH9.Ps2.text
-
-trH9.Ps3.source = tr.d069_en_US_dedes.trH9.Ps3.source
-trH9.Ps3.title = tr.d069_en_US_dedes.trH9.Ps3.title
-trH9.Ps3.text = tr.d069_en_US_dedes.trH9.Ps3.text
 
 trH9.Troparion.mode = tr.d069_en_US_dedes.trH9.Troparion.mode
 trH9.Troparion.text = tr.d069_en_US_dedes.trH9.Troparion.text
