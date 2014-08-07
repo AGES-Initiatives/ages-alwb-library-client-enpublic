@@ -33,93 +33,17 @@ meVE.SticGlory.mode = me.m12.d25_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m12.d25_en_US_dedes.meVE.SticGlory.melody
 meVE.SticGlory.text = me.m12.d25_en_US_dedes.meVE.SticGlory.text
 
-meVE.Reading1.book  = ""
-meVE.Reading1.chapverse  = ""
-meVE.Reading1.text  = ""
-
-meVE.Reading2.book  = ""
-meVE.Reading2.chapverse  = ""
-meVE.Reading2.text  = ""
-
-meVE.Reading3.book  = ""
-meVE.Reading3.chapverse  = ""
-meVE.Reading3.text  = ""
-
 meVE.ProphecyTroparion1.mode = me.m12.d25_en_US_dedes.meVE.ProphecyTroparion1.mode
 meVE.ProphecyTroparion1.text = me.m12.d25_en_US_dedes.meVE.ProphecyTroparion1.text
 meVE.ProphecyTroparion1Refrain.text = me.m12.d25_en_US_dedes.meVE.ProphecyTroparion1Refrain.text
-meVE.ProphecyTroparion1Verse1.source = me.m12.d25_en_US_dedes.meVE.ProphecyTroparion1Verse1.source
-meVE.ProphecyTroparion1Verse1.text = me.m12.d25_en_US_dedes.meVE.ProphecyTroparion1Verse1.text
-meVE.ProphecyTroparion1Verse2.source = me.m12.d25_en_US_dedes.meVE.ProphecyTroparion1Verse2.source
-meVE.ProphecyTroparion1Verse2.text = me.m12.d25_en_US_dedes.meVE.ProphecyTroparion1Verse2.text
-meVE.ProphecyTroparion1Verse3.source = me.m12.d25_en_US_dedes.meVE.ProphecyTroparion1Verse3.source
-meVE.ProphecyTroparion1Verse3.text = me.m12.d25_en_US_dedes.meVE.ProphecyTroparion1Verse3.text
-meVE.ProphecyTroparion1Verse4.source = me.m12.d25_en_US_dedes.meVE.ProphecyTroparion1Verse4.source
-meVE.ProphecyTroparion1Verse4.text = me.m12.d25_en_US_dedes.meVE.ProphecyTroparion1Verse4.text
-meVE.ProphecyTroparion1Verse5.source = me.m12.d25_en_US_dedes.meVE.ProphecyTroparion1Verse5.source
-meVE.ProphecyTroparion1Verse5.text = me.m12.d25_en_US_dedes.meVE.ProphecyTroparion1Verse5.text
-
-meVE.Reading4.book  = ""
-meVE.Reading4.chapverse  = ""
-meVE.Reading4.text  = ""
-
-meVE.Reading5.book  = ""
-meVE.Reading5.chapverse  = ""
-meVE.Reading5.text  = ""
-
-meVE.Reading6.book  = ""
-meVE.Reading6.chapverse  = ""
-meVE.Reading6.text  = ""
 
 meVE.ProphecyTroparion2.mode = me.m12.d25_en_US_dedes.meVE.ProphecyTroparion2.mode
 meVE.ProphecyTroparion2.text = me.m12.d25_en_US_dedes.meVE.ProphecyTroparion2.text
 meVE.ProphecyTroparion2Refrain.text = me.m12.d25_en_US_dedes.meVE.ProphecyTroparion2Refrain.text
-meVE.ProphecyTroparion2Verse1.source = me.m12.d25_en_US_dedes.meVE.ProphecyTroparion2Verse1.source
-meVE.ProphecyTroparion2Verse1.text = me.m12.d25_en_US_dedes.meVE.ProphecyTroparion2Verse1.text
-meVE.ProphecyTroparion2Verse2.source = me.m12.d25_en_US_dedes.meVE.ProphecyTroparion2Verse2.source
-meVE.ProphecyTroparion2Verse2.text = me.m12.d25_en_US_dedes.meVE.ProphecyTroparion2Verse2.text
-meVE.ProphecyTroparion2Verse3.source = me.m12.d25_en_US_dedes.meVE.ProphecyTroparion2Verse3.source
-meVE.ProphecyTroparion2Verse3.text = me.m12.d25_en_US_dedes.meVE.ProphecyTroparion2Verse3.text
-meVE.ProphecyTroparion2Verse4.source = me.m12.d25_en_US_dedes.meVE.ProphecyTroparion2Verse4.source
-meVE.ProphecyTroparion2Verse4.text = me.m12.d25_en_US_dedes.meVE.ProphecyTroparion2Verse4.text
-meVE.ProphecyTroparion2Verse5.source = me.m12.d25_en_US_dedes.meVE.ProphecyTroparion2Verse5.source
-meVE.ProphecyTroparion2Verse5.text = me.m12.d25_en_US_dedes.meVE.ProphecyTroparion2Verse5.text
-
-meVE.Reading7.book  = ""
-meVE.Reading7.chapverse  = ""
-meVE.Reading7.text  = ""
-
-meVE.Reading8.book  = ""
-meVE.Reading8.chapverse  = ""
-meVE.Reading8.text  = ""
-
-meVE.EpistleProkeimenon.mode = me.m12.d25_en_US_dedes.meVE.EpistleProkeimenon.mode
-meVE.EpistleProkeimenon.source = me.m12.d25_en_US_dedes.meVE.EpistleProkeimenon.source
-meVE.EpistleProkeimenon.text = me.m12.d25_en_US_dedes.meVE.EpistleProkeimenon.text
-
-meVE.EpistleProkeimenonVerse.source = me.m12.d25_en_US_dedes.meVE.EpistleProkeimenonVerse.source
-meVE.EpistleProkeimenonVerse.text = me.m12.d25_en_US_dedes.meVE.EpistleProkeimenonVerse.text
-
-meVE.Epistle.book = me.m12.d25_en_US_dedes.meVE.Epistle.book
-meVE.Epistle.chapverse = me.m12.d25_en_US_dedes.meVE.Epistle.chapverse
-meVE.Epistle.text = me.m12.d25_en_US_dedes.meVE.Epistle.text
-
-meVE.Alleluia.mode = me.m12.d25_en_US_dedes.meVE.Alleluia.mode
-
-meVE.AlleluiaVerse1.source = me.m12.d25_en_US_dedes.meVE.AlleluiaVerse1.source
-meVE.AlleluiaVerse1.text = me.m12.d25_en_US_dedes.meVE.AlleluiaVerse1.text
-
-meVE.AlleluiaVerse2.source = me.m12.d25_en_US_dedes.meVE.AlleluiaVerse2.source
-meVE.AlleluiaVerse2.text = me.m12.d25_en_US_dedes.meVE.AlleluiaVerse2.text
-
-meVE.Gospel.book = me.m12.d25_en_US_dedes.meVE.Gospel.book
-meVE.Gospel.chapverse = me.m12.d25_en_US_dedes.meVE.Gospel.chapverse
-meVE.Gospel.text = me.m12.d25_en_US_dedes.meVE.Gospel.text
 
 meVE.TheotokosHymn.mode = me.m12.d25_en_US_dedes.meVE.TheotokosHymn.mode
 meVE.TheotokosHymn.text = me.m12.d25_en_US_dedes.meVE.TheotokosHymn.text
 
-meVE.CommunionHymn.source = me.m12.d25_en_US_dedes.meVE.CommunionHymn.source
 meVE.CommunionHymn.text = me.m12.d25_en_US_dedes.meVE.CommunionHymn.text
 
 meVE.Lity1.poet = me.m12.d25_en_US_dedes.meVE.Lity1.poet
@@ -156,7 +80,6 @@ meVE.Aposticha1.mode = me.m12.d25_en_US_dedes.meVE.Aposticha1.mode
 meVE.Aposticha1.melody = me.m12.d25_en_US_dedes.meVE.Aposticha1.melody
 meVE.Aposticha1.text = me.m12.d25_en_US_dedes.meVE.Aposticha1.text
 
-meVE.ApostichaVerse2.source = me.m12.d25_en_US_dedes.meVE.ApostichaVerse2.source
 meVE.ApostichaVerse2.text = me.m12.d25_en_US_dedes.meVE.ApostichaVerse2.text
 
 meVE.Aposticha2.poet = me.m12.d25_en_US_dedes.meVE.Aposticha2.poet
@@ -164,7 +87,6 @@ meVE.Aposticha2.mode = me.m12.d25_en_US_dedes.meVE.Aposticha2.mode
 meVE.Aposticha2.melody = me.m12.d25_en_US_dedes.meVE.Aposticha2.melody
 meVE.Aposticha2.text = me.m12.d25_en_US_dedes.meVE.Aposticha2.text
 
-meVE.ApostichaVerse3.source = me.m12.d25_en_US_dedes.meVE.ApostichaVerse3.source
 meVE.ApostichaVerse3.text = me.m12.d25_en_US_dedes.meVE.ApostichaVerse3.text
 
 meVE.Aposticha3.poet = me.m12.d25_en_US_dedes.meVE.Aposticha3.poet
@@ -199,9 +121,6 @@ meMA.Kathisma31.melody = me.m12.d25_en_US_dedes.meMA.Kathisma31.melody
 meMA.Kathisma31.text = me.m12.d25_en_US_dedes.meMA.Kathisma31.text
 
 meMA.Prokeimenon.text = "" //for media
-//meMA.Gospel.name = "Matthew." //""
-//meMA.Gospel.chapverse = "(Matthew 1:18-25)" //""
-//meMA.Gospel.text = "Now the birth of Jesus Christ took place in this way. When his mother Mary had been betrothed to Joseph, before they came together she was found to be with child of the Holy Spirit; and her husband Joseph, being a just man and unwilling to put her to shame, resolved to divorce her quietly. But as he considered this, behold, an angel of the Lord appeared to him in a dream, saying, \"Joseph, son of David, do not fear to take Mary your wife, for that which is conceived in her is of the Holy Spirit; she will bear a son, and you shall call his name Jesus, for he will save his people from their sins.\" All this took place to fulfill what the Lord had spoken by the prophet: \"Behold, a virgin shall conceive and bear a son, and his name shall be called Emmanuel\" (which means, God with us). When Joseph woke from sleep, he did as the angel of the Lord commanded him; he took his wife, but knew her not until she had borne a son; and he called his name Jesus."
 
 meMA.PostGospelGlory.mode = me.m12.d25_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m12.d25_en_US_dedes.meMA.PostGospelGlory.melody
