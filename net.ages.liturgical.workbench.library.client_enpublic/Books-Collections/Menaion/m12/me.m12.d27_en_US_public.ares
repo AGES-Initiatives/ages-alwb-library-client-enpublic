@@ -20,6 +20,8 @@ meVE.Stichera03.mode = me.m12.d27_en_US_dedes.meVE.Stichera03.mode
 meVE.Stichera03.melody = me.m12.d27_en_US_dedes.meVE.Stichera03.melody
 meVE.Stichera03.text = me.m12.d27_en_US_dedes.meVE.Stichera03.text
 
+meVE.Stichera8910.text = me.m12.d27_en_US_dedes.meVE.Stichera8910.text
+
 meVE.Stichera04.mode = me.m12.d27_en_US_dedes.meVE.Stichera04.mode
 meVE.Stichera04.melody = me.m12.d27_en_US_dedes.meVE.Stichera04.melody
 meVE.Stichera04.text = me.m12.d27_en_US_dedes.meVE.Stichera04.text
@@ -73,6 +75,7 @@ meVE.Apolytikion1.melody = me.m12.d27_en_US_dedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.text = me.m12.d27_en_US_dedes.meVE.Apolytikion1.text
 
 meVE.GeneralApolytikion2.name = me.m12.d27_en_US_dedes.meVE.GeneralApolytikion2.name
+meVE.GeneralApolytikion2.text = me.m12.d27_en_US_dedes.meVE.GeneralApolytikion2.text
 
 meVE.Apolytikion2.poet = me.m12.d27_en_US_dedes.meVE.Apolytikion2.poet
 meVE.Apolytikion2.mode = me.m12.d27_en_US_dedes.meVE.Apolytikion2.mode
