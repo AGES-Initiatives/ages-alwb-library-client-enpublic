@@ -71,10 +71,8 @@ cl.ho.s23.R002 = "(The Heirmos may be omitted.)"
 
 cl.hw.synaxarion.rubric  = ""
 
-cl.me.m06.d29.R001 = "Use the verses in the text if they differ from those in the scores."
-cl.me.m08.d25.R001 = "Use the verses in the text if they differ from those in the scores."
-cl.me.m08.d31.R001 = "Use the verses in the text if they differ from those in the scores."
 cl.me.m09.d01.R001 = "There are a number of options for the content of the services for September 1. The Patriarchal Hemerologion, which we aspire to follow, describes the Patriarchate's added special commemorations of an Icon of the Theotokos as well as the Environment, and then indicates that, presumably for the rest of us, the service should be celebrated according to the Menaion."
+
 //Sep. 14
 cl.me.m09.d14.R001 = "The Doxology follows immediately."
 cl.me.m09.d14.R002 = "(Mode 2 is preferred for today.)"
@@ -84,11 +82,12 @@ cl.me.m09.d14.R005 = "(The procession with the cross takes place during singing 
 cl.me.m09.d14.R006 = "For each petition, the choir sings \"Lord, have mercy,\" 3-10-3 times."
 cl.me.m09.d14.R007 = "(As the people venerate the cross, sing the following hymn:)"
 
+cl.me.m10.d26.R001 = "Use the verses in the text if they differ from those in the scores."
+
 // Nov. 14
 cl.me.m11.d14.R001 = "The rubrics for this day say to sing the Kathismata of the Mode and day of the week from the Parakletike (Octoechos). Since most parishes are not familiar with these hymns, and since they change from year to year, we have not included them here."
 cl.me.m11.d14.R002 = "The rubrics for this day say to sing the Heirmoi of Odes 3, 6, 8, and 9 of the Canon of the Menaion. Most parishes would not be familiar with this, so we have inserted Katavasias instead."
 
-cl.pe.d073thru077.R001 = "Use the verses in the text if they differ from those in the scores."
 cl.pe.d078.R001 = "According to the Patriarchal Hemerologion:"
 cl.pe.d078.R002 = "According to common practice:"
 
@@ -104,6 +103,8 @@ cl.sb.vo.sun.R005 = "(Go to insert: Aposticha)"
 cl.sb.vo.sun.R006 = "(Return to booklet: Prayer of St. Symeon)"
 cl.sb.vo.sun.R007 = "(Go to insert: Apolytikia)"
 cl.sb.vo.sun.R008 = "(Return to booklet: Dismissal)"
+
+cl.se.R001 = "Use the verses in the text if they differ from those in the scores."
 
 //Lent Soul Saturday
 cl.tr.d014.R001 = "The Patriarchal Typikon indicates, as usual, that the entire canon be sung. Typically in parishes only the Katavasias are chanted. This day does not present normal Katavasias, and the Heirmoi/Katavasias of the canon are so obscure that most of them do not appear in the published Heirmologia. Therefore, rather than present the texts of those Heirmoi, which thematically have nothing to do with the Saturday of the Souls, I have chosen instead to present Ode ix in its entirety, edited for the enrichment and edification of both chanters and listeners. Since Saturday of the Souls is not a great feast, Ode ix is, as usual, preceded by the Magnificat."
