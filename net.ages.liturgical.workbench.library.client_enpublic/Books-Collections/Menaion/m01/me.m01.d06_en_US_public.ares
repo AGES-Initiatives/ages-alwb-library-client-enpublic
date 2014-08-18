@@ -8,154 +8,6 @@ meInsert2 = me.m01.d06_en_US_dedes.meInsert2 // for use in petitions and dismiss
 meNote.text = me.m01.d06_en_US_dedes.meNote.text
 meDismissal = me.m01.d06_en_US_dedes.meDismissal
 
-meH1.Ps1.source = me.m01.d06_en_US_dedes.meH1.Ps1.source
-meH1.Ps1.title = me.m01.d06_en_US_dedes.meH1.Ps1.title
-meH1.Ps1.text = me.m01.d06_en_US_dedes.meH1.Ps1.text
-meH1.Ps2.source = me.m01.d06_en_US_dedes.meH1.Ps2.source
-meH1.Ps2.title = me.m01.d06_en_US_dedes.meH1.Ps2.title
-meH1.Ps2.text = me.m01.d06_en_US_dedes.meH1.Ps2.text
-meH1.Ps3.source = me.m01.d06_en_US_dedes.meH1.Ps3.source
-meH1.Ps3.title = me.m01.d06_en_US_dedes.meH1.Ps3.title
-meH1.Ps3.text = me.m01.d06_en_US_dedes.meH1.Ps3.text
-meH1.Troparion.text = me.m01.d06_en_US_dedes.meH1.Troparion.text
-meH1.Theotokion.text = me.m01.d06_en_US_dedes.meH1.Theotokion.text
-meH1.Idiomelon1.mode = me.m01.d06_en_US_dedes.meH1.Idiomelon1.mode
-meH1.Idiomelon1.text = me.m01.d06_en_US_dedes.meH1.Idiomelon1.text
-meH1.Verse1.source = me.m01.d06_en_US_dedes.meH1.Verse1.source
-meH1.Verse1.text = me.m01.d06_en_US_dedes.meH1.Verse1.text
-meH1.Idiomelon2.mode = me.m01.d06_en_US_dedes.meH1.Idiomelon2.mode
-meH1.Idiomelon2.text = me.m01.d06_en_US_dedes.meH1.Idiomelon2.text
-meH1.Verse2.source = me.m01.d06_en_US_dedes.meH1.Verse2.source
-meH1.Verse2.text = me.m01.d06_en_US_dedes.meH1.Verse2.text
-meH1.Idiomelon3.mode = me.m01.d06_en_US_dedes.meH1.Idiomelon3.mode
-meH1.Idiomelon3.text = me.m01.d06_en_US_dedes.meH1.Idiomelon3.text
-meH1.Prokeimenon.mode = me.m01.d06_en_US_dedes.meH1.Prokeimenon.mode
-meH1.Prokeimenon.source = me.m01.d06_en_US_dedes.meH1.Prokeimenon.source
-meH1.Prokeimenon.text = me.m01.d06_en_US_dedes.meH1.Prokeimenon.text
-meH1.ProkVerse.source = me.m01.d06_en_US_dedes.meH1.ProkVerse.source
-meH1.ProkVerse.text = me.m01.d06_en_US_dedes.meH1.ProkVerse.text
-meH1.Prophecy.book = me.m01.d06_en_US_dedes.meH1.Prophecy.book
-meH1.Prophecy.chapverse = me.m01.d06_en_US_dedes.meH1.Prophecy.chapverse
-meH1.Prophecy.text = me.m01.d06_en_US_dedes.meH1.Prophecy.text
-meH1.Epistle.book = me.m01.d06_en_US_dedes.meH1.Epistle.book
-meH1.Epistle.chapverse = me.m01.d06_en_US_dedes.meH1.Epistle.chapverse
-meH1.Epistle.text = me.m01.d06_en_US_dedes.meH1.Epistle.text
-meH1.Gospel.book = me.m01.d06_en_US_dedes.meH1.Gospel.book
-meH1.Gospel.chapverse = me.m01.d06_en_US_dedes.meH1.Gospel.chapverse
-meH1.Gospel.text = me.m01.d06_en_US_dedes.meH1.Gospel.text
-meH1.Kontakion.text = me.m01.d06_en_US_dedes.meH1.Kontakion.text
-
-meH3.Ps1.source = me.m01.d06_en_US_dedes.meH3.Ps1.source
-meH3.Ps1.title = me.m01.d06_en_US_dedes.meH3.Ps1.title
-meH3.Ps1.text = me.m01.d06_en_US_dedes.meH3.Ps1.text
-meH3.Ps2.source = me.m01.d06_en_US_dedes.meH3.Ps2.source
-meH3.Ps2.title = me.m01.d06_en_US_dedes.meH3.Ps2.title
-meH3.Ps2.text = me.m01.d06_en_US_dedes.meH3.Ps2.text
-meH3.Ps3.source = me.m01.d06_en_US_dedes.meH3.Ps3.source
-meH3.Ps3.title = me.m01.d06_en_US_dedes.meH3.Ps3.title
-meH3.Ps3.text = me.m01.d06_en_US_dedes.meH3.Ps3.text
-meH3.Troparion.text = me.m01.d06_en_US_dedes.meH3.Troparion.text
-meH3.Theotokion.text = me.m01.d06_en_US_dedes.meH3.Theotokion.text
-meH3.Idiomelon1.mode = me.m01.d06_en_US_dedes.meH3.Idiomelon1.mode
-meH3.Idiomelon1.text = me.m01.d06_en_US_dedes.meH3.Idiomelon1.text
-meH3.Verse1.source = me.m01.d06_en_US_dedes.meH3.Verse1.source
-meH3.Verse1.text = me.m01.d06_en_US_dedes.meH3.Verse1.text
-meH3.Idiomelon2.mode = me.m01.d06_en_US_dedes.meH3.Idiomelon2.mode
-meH3.Idiomelon2.text = me.m01.d06_en_US_dedes.meH3.Idiomelon2.text
-meH3.Verse2.source = me.m01.d06_en_US_dedes.meH3.Verse2.source
-meH3.Verse2.text = me.m01.d06_en_US_dedes.meH3.Verse2.text
-meH3.Idiomelon3.mode = me.m01.d06_en_US_dedes.meH3.Idiomelon3.mode
-meH3.Idiomelon3.text = me.m01.d06_en_US_dedes.meH3.Idiomelon3.text
-meH3.Prokeimenon.mode = me.m01.d06_en_US_dedes.meH3.Prokeimenon.mode
-meH3.Prokeimenon.source = me.m01.d06_en_US_dedes.meH3.Prokeimenon.source
-meH3.Prokeimenon.text = me.m01.d06_en_US_dedes.meH3.Prokeimenon.text
-meH3.ProkVerse.source = me.m01.d06_en_US_dedes.meH3.ProkVerse.source
-meH3.ProkVerse.text = me.m01.d06_en_US_dedes.meH3.ProkVerse.text
-meH3.Prophecy.book = me.m01.d06_en_US_dedes.meH3.Prophecy.book
-meH3.Prophecy.chapverse = me.m01.d06_en_US_dedes.meH3.Prophecy.chapverse
-meH3.Prophecy.text = me.m01.d06_en_US_dedes.meH3.Prophecy.text
-meH3.Epistle.book = me.m01.d06_en_US_dedes.meH3.Epistle.book
-meH3.Epistle.chapverse = me.m01.d06_en_US_dedes.meH3.Epistle.chapverse
-meH3.Epistle.text = me.m01.d06_en_US_dedes.meH3.Epistle.text
-meH3.Gospel.book = me.m01.d06_en_US_dedes.meH3.Gospel.book
-meH3.Gospel.chapverse = me.m01.d06_en_US_dedes.meH3.Gospel.chapverse
-meH3.Gospel.text = me.m01.d06_en_US_dedes.meH3.Gospel.text
-meH3.Kontakion.text = me.m01.d06_en_US_dedes.meH3.Kontakion.text
-
-meH6.Ps1.source = me.m01.d06_en_US_dedes.meH6.Ps1.source
-meH6.Ps1.title = me.m01.d06_en_US_dedes.meH6.Ps1.title
-meH6.Ps1.text = me.m01.d06_en_US_dedes.meH6.Ps1.text
-meH6.Ps2.source = me.m01.d06_en_US_dedes.meH6.Ps2.source
-meH6.Ps2.title = me.m01.d06_en_US_dedes.meH6.Ps2.title
-meH6.Ps2.text = me.m01.d06_en_US_dedes.meH6.Ps2.text
-meH6.Ps3.source = me.m01.d06_en_US_dedes.meH6.Ps3.source
-meH6.Ps3.title = me.m01.d06_en_US_dedes.meH6.Ps3.title
-meH6.Ps3.text = me.m01.d06_en_US_dedes.meH6.Ps3.text
-meH6.Troparion.text = me.m01.d06_en_US_dedes.meH6.Troparion.text
-meH6.Theotokion.text = me.m01.d06_en_US_dedes.meH6.Theotokion.text
-meH6.Idiomelon1.mode = me.m01.d06_en_US_dedes.meH6.Idiomelon1.mode
-meH6.Idiomelon1.text = me.m01.d06_en_US_dedes.meH6.Idiomelon1.text
-meH6.Verse1.source = me.m01.d06_en_US_dedes.meH6.Verse1.source
-meH6.Verse1.text = me.m01.d06_en_US_dedes.meH6.Verse1.text
-meH6.Idiomelon2.mode = me.m01.d06_en_US_dedes.meH6.Idiomelon2.mode
-meH6.Idiomelon2.text = me.m01.d06_en_US_dedes.meH6.Idiomelon2.text
-meH6.Verse2.source = me.m01.d06_en_US_dedes.meH6.Verse2.source
-meH6.Verse2.text = me.m01.d06_en_US_dedes.meH6.Verse2.text
-meH6.Idiomelon3.mode = me.m01.d06_en_US_dedes.meH6.Idiomelon3.mode
-meH6.Idiomelon3.text = me.m01.d06_en_US_dedes.meH6.Idiomelon3.text
-meH6.Prokeimenon.mode = me.m01.d06_en_US_dedes.meH6.Prokeimenon.mode
-meH6.Prokeimenon.source = me.m01.d06_en_US_dedes.meH6.Prokeimenon.source
-meH6.Prokeimenon.text = me.m01.d06_en_US_dedes.meH6.Prokeimenon.text
-meH6.ProkVerse.source = me.m01.d06_en_US_dedes.meH6.ProkVerse.source
-meH6.ProkVerse.text = me.m01.d06_en_US_dedes.meH6.ProkVerse.text
-meH6.Prophecy.book = me.m01.d06_en_US_dedes.meH6.Prophecy.book
-meH6.Prophecy.chapverse = me.m01.d06_en_US_dedes.meH6.Prophecy.chapverse
-meH6.Prophecy.text = me.m01.d06_en_US_dedes.meH6.Prophecy.text
-meH6.Epistle.book = me.m01.d06_en_US_dedes.meH6.Epistle.book
-meH6.Epistle.chapverse = me.m01.d06_en_US_dedes.meH6.Epistle.chapverse
-meH6.Epistle.text = me.m01.d06_en_US_dedes.meH6.Epistle.text
-meH6.Gospel.book = me.m01.d06_en_US_dedes.meH6.Gospel.book
-meH6.Gospel.chapverse = me.m01.d06_en_US_dedes.meH6.Gospel.chapverse
-meH6.Gospel.text = me.m01.d06_en_US_dedes.meH6.Gospel.text
-meH6.Kontakion.text = me.m01.d06_en_US_dedes.meH6.Kontakion.text
-
-meH9.Ps1.source = me.m01.d06_en_US_dedes.meH9.Ps1.source
-meH9.Ps1.title = me.m01.d06_en_US_dedes.meH9.Ps1.title
-meH9.Ps1.text = me.m01.d06_en_US_dedes.meH9.Ps1.text
-meH9.Ps2.source = me.m01.d06_en_US_dedes.meH9.Ps2.source
-meH9.Ps2.title = me.m01.d06_en_US_dedes.meH9.Ps2.title
-meH9.Ps2.text = me.m01.d06_en_US_dedes.meH9.Ps2.text
-meH9.Ps3.source = me.m01.d06_en_US_dedes.meH9.Ps3.source
-meH9.Ps3.title = me.m01.d06_en_US_dedes.meH9.Ps3.title
-meH9.Ps3.text = me.m01.d06_en_US_dedes.meH9.Ps3.text
-meH9.Troparion.text = me.m01.d06_en_US_dedes.meH9.Troparion.text
-meH9.Theotokion.text = me.m01.d06_en_US_dedes.meH9.Theotokion.text
-meH9.Idiomelon1.mode = me.m01.d06_en_US_dedes.meH9.Idiomelon1.mode
-meH9.Idiomelon1.text = me.m01.d06_en_US_dedes.meH9.Idiomelon1.text
-meH9.Verse1.source = me.m01.d06_en_US_dedes.meH9.Verse1.source
-meH9.Verse1.text = me.m01.d06_en_US_dedes.meH9.Verse1.text
-meH9.Idiomelon2.mode = me.m01.d06_en_US_dedes.meH9.Idiomelon2.mode
-meH9.Idiomelon2.text = me.m01.d06_en_US_dedes.meH9.Idiomelon2.text
-meH9.Verse2.source = me.m01.d06_en_US_dedes.meH9.Verse2.source
-meH9.Verse2.text = me.m01.d06_en_US_dedes.meH9.Verse2.text
-meH9.Idiomelon3.mode = me.m01.d06_en_US_dedes.meH9.Idiomelon3.mode
-meH9.Idiomelon3.text = me.m01.d06_en_US_dedes.meH9.Idiomelon3.text
-meH9.Prokeimenon.mode = me.m01.d06_en_US_dedes.meH9.Prokeimenon.mode
-meH9.Prokeimenon.source = me.m01.d06_en_US_dedes.meH9.Prokeimenon.source
-meH9.Prokeimenon.text = me.m01.d06_en_US_dedes.meH9.Prokeimenon.text
-meH9.ProkVerse.source = me.m01.d06_en_US_dedes.meH9.ProkVerse.source
-meH9.ProkVerse.text = me.m01.d06_en_US_dedes.meH9.ProkVerse.text
-meH9.Prophecy.book = me.m01.d06_en_US_dedes.meH9.Prophecy.book
-meH9.Prophecy.chapverse = me.m01.d06_en_US_dedes.meH9.Prophecy.chapverse
-meH9.Prophecy.text = me.m01.d06_en_US_dedes.meH9.Prophecy.text
-meH9.Epistle.book = me.m01.d06_en_US_dedes.meH9.Epistle.book
-meH9.Epistle.chapverse = me.m01.d06_en_US_dedes.meH9.Epistle.chapverse
-meH9.Epistle.text = me.m01.d06_en_US_dedes.meH9.Epistle.text
-meH9.Gospel.book = me.m01.d06_en_US_dedes.meH9.Gospel.book
-meH9.Gospel.chapverse = me.m01.d06_en_US_dedes.meH9.Gospel.chapverse
-meH9.Gospel.text = me.m01.d06_en_US_dedes.meH9.Gospel.text
-meH9.Kontakion.text = me.m01.d06_en_US_dedes.meH9.Kontakion.text
-
 meVE.Stichera01.poet = me.m01.d06_en_US_dedes.meVE.Stichera01.poet
 meVE.Stichera01.mode = me.m01.d06_en_US_dedes.meVE.Stichera01.mode
 meVE.Stichera01.melody = me.m01.d06_en_US_dedes.meVE.Stichera01.melody
@@ -178,86 +30,17 @@ meVE.SticGlory.mode = me.m01.d06_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m01.d06_en_US_dedes.meVE.SticGlory.melody
 meVE.SticGlory.text = me.m01.d06_en_US_dedes.meVE.SticGlory.text
 
-meVE.Reading1.book  = ""
-meVE.Reading1.chapverse  = ""
-meVE.Reading1.text  = ""
-
-meVE.Reading2.book  = ""
-meVE.Reading2.chapverse  = ""
-meVE.Reading2.text  = ""
-
-meVE.Reading3.book  = ""
-meVE.Reading3.chapverse  = ""
-meVE.Reading3.text  = ""
-
 meVE.ProphecyTroparion1.mode = me.m01.d06_en_US_dedes.meVE.ProphecyTroparion1.mode
 meVE.ProphecyTroparion1.text = me.m01.d06_en_US_dedes.meVE.ProphecyTroparion1.text
 meVE.ProphecyTroparion1Refrain.text = me.m01.d06_en_US_dedes.meVE.ProphecyTroparion1Refrain.text
-meVE.ProphecyTroparion1Verse1.source = me.m01.d06_en_US_dedes.meVE.ProphecyTroparion1Verse1.source
-meVE.ProphecyTroparion1Verse1.text = me.m01.d06_en_US_dedes.meVE.ProphecyTroparion1Verse1.text
-meVE.ProphecyTroparion1Verse2.source = me.m01.d06_en_US_dedes.meVE.ProphecyTroparion1Verse2.source
-meVE.ProphecyTroparion1Verse2.text = me.m01.d06_en_US_dedes.meVE.ProphecyTroparion1Verse2.text
-meVE.ProphecyTroparion1Verse3.source = me.m01.d06_en_US_dedes.meVE.ProphecyTroparion1Verse3.source
-meVE.ProphecyTroparion1Verse3.text = me.m01.d06_en_US_dedes.meVE.ProphecyTroparion1Verse3.text
-meVE.ProphecyTroparion1Verse4.source = me.m01.d06_en_US_dedes.meVE.ProphecyTroparion1Verse4.source
-meVE.ProphecyTroparion1Verse4.text = me.m01.d06_en_US_dedes.meVE.ProphecyTroparion1Verse4.text
-
-meVE.Reading4.book  = ""
-meVE.Reading4.chapverse  = ""
-meVE.Reading4.text  = ""
-
-meVE.Reading5.book  = ""
-meVE.Reading5.chapverse  = ""
-meVE.Reading5.text  = ""
-
-meVE.Reading6.book  = ""
-meVE.Reading6.chapverse  = ""
-meVE.Reading6.text  = ""
 
 meVE.ProphecyTroparion2.mode = me.m01.d06_en_US_dedes.meVE.ProphecyTroparion2.mode
 meVE.ProphecyTroparion2.text = me.m01.d06_en_US_dedes.meVE.ProphecyTroparion2.text
 meVE.ProphecyTroparion2Refrain.text = me.m01.d06_en_US_dedes.meVE.ProphecyTroparion2Refrain.text
-meVE.ProphecyTroparion2Verse1.source = me.m01.d06_en_US_dedes.meVE.ProphecyTroparion2Verse1.source
-meVE.ProphecyTroparion2Verse1.text = me.m01.d06_en_US_dedes.meVE.ProphecyTroparion2Verse1.text
-meVE.ProphecyTroparion2Verse2.source = me.m01.d06_en_US_dedes.meVE.ProphecyTroparion2Verse2.source
-meVE.ProphecyTroparion2Verse2.text = me.m01.d06_en_US_dedes.meVE.ProphecyTroparion2Verse2.text
-meVE.ProphecyTroparion2Verse3.source = me.m01.d06_en_US_dedes.meVE.ProphecyTroparion2Verse3.source
-meVE.ProphecyTroparion2Verse3.text = me.m01.d06_en_US_dedes.meVE.ProphecyTroparion2Verse3.text
-meVE.ProphecyTroparion2Verse4.source = me.m01.d06_en_US_dedes.meVE.ProphecyTroparion2Verse4.source
-meVE.ProphecyTroparion2Verse4.text = me.m01.d06_en_US_dedes.meVE.ProphecyTroparion2Verse4.text
-
-meVE.Reading7.book  = ""
-meVE.Reading7.chapverse  = ""
-meVE.Reading7.text  = ""
-
-meVE.Reading8.book  = ""
-meVE.Reading8.chapverse  = ""
-meVE.Reading8.text  = ""
-
-meVE.Reading9.book  = ""
-meVE.Reading9.chapverse  = ""
-meVE.Reading9.text  = ""
-
-meVE.Reading10.book  = ""
-meVE.Reading10.chapverse  = ""
-meVE.Reading10.text  = ""
-
-meVE.Reading11.book  = ""
-meVE.Reading11.chapverse  = ""
-meVE.Reading11.text  = ""
-
-meVE.Reading12.book  = ""
-meVE.Reading12.chapverse  = ""
-meVE.Reading12.text  = ""
-
-meVE.Reading13.book  = ""
-meVE.Reading13.chapverse  = ""
-meVE.Reading13.text  = ""
 
 meVE.TheotokosHymn.mode = me.m01.d06_en_US_dedes.meVE.TheotokosHymn.mode
 meVE.TheotokosHymn.text = me.m01.d06_en_US_dedes.meVE.TheotokosHymn.text
 
-meVE.CommunionHymn.source = me.m01.d06_en_US_dedes.meVE.CommunionHymn.source
 meVE.CommunionHymn.text = me.m01.d06_en_US_dedes.meVE.CommunionHymn.text
 
 //Great Water Blessing for Jan 6 Epiphany
@@ -279,18 +62,6 @@ meGW.Idiomelon3.text = me.m01.d06_en_US_dedes.meGW.Idiomelon3.text
 meGW.IdiomelonGlory.poet = me.m01.d06_en_US_dedes.meGW.IdiomelonGlory.poet
 meGW.IdiomelonGlory.mode = me.m01.d06_en_US_dedes.meGW.IdiomelonGlory.mode
 meGW.IdiomelonGlory.text = me.m01.d06_en_US_dedes.meGW.IdiomelonGlory.text
-
-meGW.Prophecy1.book  = ""
-meGW.Prophecy1.chapverse  = ""
-meGW.Prophecy1.text  = ""
-
-meGW.Prophecy2.book  = ""
-meGW.Prophecy2.chapverse  = ""
-meGW.Prophecy2.text  = ""
-
-meGW.Prophecy3.book  = ""
-meGW.Prophecy3.chapverse  = ""
-meGW.Prophecy3.text  = ""
 
 meGW.R01 = me.m01.d06_en_US_dedes.meGW.R01
 
@@ -410,9 +181,6 @@ meMA.Kathisma31.melody = me.m01.d06_en_US_dedes.meMA.Kathisma31.melody
 meMA.Kathisma31.text = me.m01.d06_en_US_dedes.meMA.Kathisma31.text
 
 meMA.Prokeimenon.text = "" //for media
-//meMA.Gospel.name = bible_en_US_rsv.Mark
-//meMA.Gospel.chapverse = "1:9-11"//""
-//meMA.Gospel.text = "In those days Jesus came from Nazareth of Galilee and was baptized by John in the Jordan. And just as he was coming up out of the water, he saw the heavens torn apart and the Spirit descending like a dove on him. And a voice came from heaven, \"You are my Son, the Beloved; with you I am well pleased.\""
 
 meMA.PostGospelGlory.mode = me.m01.d06_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m01.d06_en_US_dedes.meMA.PostGospelGlory.melody
