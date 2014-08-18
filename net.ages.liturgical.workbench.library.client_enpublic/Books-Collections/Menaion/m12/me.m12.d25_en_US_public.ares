@@ -138,10 +138,12 @@ meMA.C1Poet = me.m12.d25_en_US_dedes.meMA.C1Poet
 meMA.C1Acrostic.text = me.m12.d25_en_US_dedes.meMA.C1Acrostic.text
 
 meMA.C2Poet = me.m12.d25_en_US_dedes.meMA.C2Poet
+meMA.C2Acrostic.text = me.m12.d25_en_US_dedes.meMA.C2Acrostic.text
 meMA.C2Acrostic1.text = me.m12.d25_en_US_dedes.meMA.C2Acrostic1.text
 meMA.C2Acrostic2.text = me.m12.d25_en_US_dedes.meMA.C2Acrostic2.text
 meMA.C2Acrostic3.text = me.m12.d25_en_US_dedes.meMA.C2Acrostic3.text
 meMA.C2Acrostic4.text = me.m12.d25_en_US_dedes.meMA.C2Acrostic4.text
+meMA.C2Acrostic5.text = me.m12.d25_en_US_dedes.meMA.C2Acrostic4.text
 
 meMA.Ode1C1H.ode = me.m12.d25_en_US_dedes.meMA.Ode1C1H.ode
 meMA.Ode1C1H.mode = me.m12.d25_en_US_dedes.meMA.Ode1C1H.mode
