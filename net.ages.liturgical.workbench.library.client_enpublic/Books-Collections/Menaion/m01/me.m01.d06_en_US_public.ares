@@ -1,11 +1,15 @@
 A_Resource_Whose_Name = me.m01.d06_en_US_public
 
-meDate.text = me.m01.d06_en_US_dedes.meDate.text //  date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = me.m01.d06_en_US_dedes.meCommemoration.text // full title of day
+meDate.text = me.m01.d06_en_US_dedes.meDate.text //    date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = me.m01.d06_en_US_dedes.meCommemoration.text //   full title of day
 meShortCommemoration1.text = me.m01.d06_en_US_dedes.meShortCommemoration1.text
-meInsert1 = me.m01.d06_en_US_dedes.meInsert1 // for use in petitions and dismissal
-meInsert2 = me.m01.d06_en_US_dedes.meInsert2 // for use in petitions and dismissal
+meInsert1 = me.m01.d06_en_US_dedes.meInsert1 //   for use in petitions and dismissal
+meInsert2 = me.m01.d06_en_US_dedes.meInsert2 //   for use in petitions and dismissal
 meNote.text = me.m01.d06_en_US_dedes.meNote.text
+meHO.number = me.m01.d06_en_US_dedes.meHO.number
+meHO.rank = me.m01.d06_en_US_dedes.meHO.rank
+meHO.note1 = me.m01.d06_en_US_dedes.meHO.note1
+meHO.note2 = me.m01.d06_en_US_dedes.meHO.note2
 meDismissal = me.m01.d06_en_US_dedes.meDismissal
 
 meVE.Stichera01.poet = me.m01.d06_en_US_dedes.meVE.Stichera01.poet
@@ -73,19 +77,19 @@ meGW.Prayer2.poet = me.m01.d06_en_US_dedes.meGW.Prayer2.poet
 meGW.Prayer2.text = me.m01.d06_en_US_dedes.meGW.Prayer2.text
 
 meGW.R03 = me.m01.d06_en_US_dedes.meGW.R03
-meGW.Prayer31.text = me.m01.d06_en_US_dedes.meGW.Prayer31.text //  (x3)
+meGW.Prayer31.text = me.m01.d06_en_US_dedes.meGW.Prayer31.text //    (x3)
 
 meGW.Prayer32.text = me.m01.d06_en_US_dedes.meGW.Prayer32.text
 
-meGW.Prayer33.text = me.m01.d06_en_US_dedes.meGW.Prayer33.text //  (x3)
+meGW.Prayer33.text = me.m01.d06_en_US_dedes.meGW.Prayer33.text //    (x3)
 
 meGW.Prayer34.text = me.m01.d06_en_US_dedes.meGW.Prayer34.text
 
-meGW.Prayer35.text = me.m01.d06_en_US_dedes.meGW.Prayer35.text //  (x3)
+meGW.Prayer35.text = me.m01.d06_en_US_dedes.meGW.Prayer35.text //    (x3)
 
 meGW.Prayer36.text = me.m01.d06_en_US_dedes.meGW.Prayer36.text
 
-meGW.Prayer37.text = me.m01.d06_en_US_dedes.meGW.Prayer37.text //  (x3)
+meGW.Prayer37.text = me.m01.d06_en_US_dedes.meGW.Prayer37.text //    (x3)
 
 meGW.Prayer38.text = me.m01.d06_en_US_dedes.meGW.Prayer38.text
 
@@ -180,7 +184,7 @@ meMA.Kathisma31.mode = me.m01.d06_en_US_dedes.meMA.Kathisma31.mode
 meMA.Kathisma31.melody = me.m01.d06_en_US_dedes.meMA.Kathisma31.melody
 meMA.Kathisma31.text = me.m01.d06_en_US_dedes.meMA.Kathisma31.text
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = me.m01.d06_en_US_dedes.meMA.Prokeimenon.text //  for media
 
 meMA.PostGospelGlory.mode = me.m01.d06_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m01.d06_en_US_dedes.meMA.PostGospelGlory.melody

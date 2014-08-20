@@ -1,11 +1,18 @@
 A_Resource_Whose_Name =  me.m01.d01_en_US_public
 
-meDate.text =  me.m01.d01_en_US_dedes.meDate.text //  date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text =  me.m01.d01_en_US_dedes.meCommemoration.text // full title of day
+meHO.month.text =  me.m01.d01_en_US_dedes.meHO.month.text
+meHO.dayshours.text =  me.m01.d01_en_US_dedes.meHO.dayshours.text
+
+meDate.text =  me.m01.d01_en_US_dedes.meDate.text //     date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text =  me.m01.d01_en_US_dedes.meCommemoration.text //    full title of day
 meShortCommemoration1.text =  me.m01.d01_en_US_dedes.meShortCommemoration1.text
-meInsert1 =  me.m01.d01_en_US_dedes.meInsert1 // for use in petitions and dismissal
-meInsert2 =  me.m01.d01_en_US_dedes.meInsert2 // for use in petitions and dismissal
+meInsert1 =  me.m01.d01_en_US_dedes.meInsert1 //    for use in petitions and dismissal
+meInsert2 =  me.m01.d01_en_US_dedes.meInsert2 //    for use in petitions and dismissal
 meNote.text =  me.m01.d01_en_US_dedes.meNote.text
+meHO.number =  me.m01.d01_en_US_dedes.meHO.number
+meHO.rank =  me.m01.d01_en_US_dedes.meHO.rank
+meHO.note1 =  me.m01.d01_en_US_dedes.meHO.note1
+meHO.note2 =  me.m01.d01_en_US_dedes.meHO.note2
 meDismissal =  me.m01.d01_en_US_dedes.meDismissal
 
 meVE.Stichera01.poet =  me.m01.d01_en_US_dedes.meVE.Stichera01.poet
@@ -40,17 +47,8 @@ meVE.SticBoth.mode =  me.m01.d01_en_US_dedes.meVE.SticBoth.mode
 meVE.SticBoth.melody =  me.m01.d01_en_US_dedes.meVE.SticBoth.melody
 meVE.SticBoth.text =  me.m01.d01_en_US_dedes.meVE.SticBoth.text
 
-meVE.Reading1.book  = ""
-meVE.Reading1.chapverse  = ""
-meVE.Reading1.text  = ""
 
-meVE.Reading2.book  = ""
-meVE.Reading2.chapverse  = ""
-meVE.Reading2.text  = ""
 
-meVE.Reading3.book  = ""
-meVE.Reading3.chapverse  = ""
-meVE.Reading3.text  = ""
 
 meVE.Lity1.poet =  me.m01.d01_en_US_dedes.meVE.Lity1.poet
 meVE.Lity1.mode =  me.m01.d01_en_US_dedes.meVE.Lity1.mode
@@ -148,7 +146,7 @@ meMA.Kathisma3T.mode =  me.m01.d01_en_US_dedes.meMA.Kathisma3T.mode
 meMA.Kathisma3T.melody =  me.m01.d01_en_US_dedes.meMA.Kathisma3T.melody
 meMA.Kathisma3T.text =  me.m01.d01_en_US_dedes.meMA.Kathisma3T.text
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text =  me.m01.d01_en_US_dedes.meMA.Prokeimenon.text //   for media
 // From saved ages file; maybe slightly different beginning? (extra clause)
 //meMA.Gospel.name  = ""
 //meMA.Gospel.chapverse = "John 10:1-9" //""
@@ -697,13 +695,13 @@ meLI.SeasonalKontakion.mode =  me.m01.d01_en_US_dedes.meLI.SeasonalKontakion.mod
 meLI.SeasonalKontakion.melody =  me.m01.d01_en_US_dedes.meLI.SeasonalKontakion.melody
 meLI.SeasonalKontakion.text =  me.m01.d01_en_US_dedes.meLI.SeasonalKontakion.text
 
-meLI.Alleluia.mode  = ""
+meLI.Alleluia.mode =  me.m01.d01_en_US_dedes.meLI.Alleluia.mode
 
-meLI.AlleluiaVerse1.source  = ""
-meLI.AlleluiaVerse1.text  = ""
+meLI.AlleluiaVerse1.source =  me.m01.d01_en_US_dedes.meLI.AlleluiaVerse1.source
+meLI.AlleluiaVerse1.text =  me.m01.d01_en_US_dedes.meLI.AlleluiaVerse1.text
 
-meLI.AlleluiaVerse2.source  = ""
-meLI.AlleluiaVerse2.text  = ""
+meLI.AlleluiaVerse2.source =  me.m01.d01_en_US_dedes.meLI.AlleluiaVerse2.source
+meLI.AlleluiaVerse2.text =  me.m01.d01_en_US_dedes.meLI.AlleluiaVerse2.text
 
 meLI.TheotokosHymn.mode =  me.m01.d01_en_US_dedes.meLI.TheotokosHymn.mode
 meLI.TheotokosHymn.text =  me.m01.d01_en_US_dedes.meLI.TheotokosHymn.text

@@ -1,30 +1,34 @@
 A_Resource_Whose_Name = me.m09.d03b_en_US_public 
 
-meDate.text = "September 3" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" //full title of day
-meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
-meNote.text = ""
+meDate.text = me.m09.d03b_en_US_dedes.meDate.text //  date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = me.m09.d03b_en_US_dedes.meCommemoration.text // full title of day
+meShortCommemoration1.text = me.m09.d03b_en_US_dedes.meShortCommemoration1.text
+meInsert1 = me.m09.d03b_en_US_dedes.meInsert1 // for use in petitions and dismissal
+meInsert2 = me.m09.d03b_en_US_dedes.meInsert2 // for use in petitions and dismissal
+meNote.text = me.m09.d03b_en_US_dedes.meNote.text
+meHO.number = me.m09.d03b_en_US_dedes.meHO.number
+meHO.rank = me.m09.d03b_en_US_dedes.meHO.rank
+meHO.note1 = me.m09.d03b_en_US_dedes.meHO.note1
+meHO.note2 = me.m09.d03b_en_US_dedes.meHO.note2
 
-meVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
-meVE.Apolytikion1.melody = he.a.m1_en_US_dedes.TisErimouPolitis.name
-meVE.Apolytikion1.text = "As we joyfully commemorate the welcome arrival of your sacred Relics, holy Hierarch Nektarios, we call upon the grace of God in you, which sanctifies our bodies and our souls. You alleviate our suffering and you cure the illnesses afflicting us. Glory to Christ, who glorified you! Glory to Him for your miracles! Glory to Him for all the cures that He works through you."
+meVE.Apolytikion1.mode = me.m09.d03b_en_US_dedes.meVE.Apolytikion1.mode
+meVE.Apolytikion1.melody = me.m09.d03b_en_US_dedes.meVE.Apolytikion1.melody
+meVE.Apolytikion1.text = me.m09.d03b_en_US_dedes.meVE.Apolytikion1.text
 
-meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode4
-meLI.SeasonalKontakion.melody  = ""
-meLI.SeasonalKontakion.text = me.m09.d08_en_US_dedes.meMA.Kontakion1.text
+meLI.SeasonalKontakion.mode = me.m09.d03b_en_US_dedes.meLI.SeasonalKontakion.mode
+meLI.SeasonalKontakion.melody = me.m09.d03b_en_US_dedes.meLI.SeasonalKontakion.melody
+meLI.SeasonalKontakion.text = me.m09.d03b_en_US_dedes.meLI.SeasonalKontakion.text
 
-meLI.Alleluia.mode  = ""
+meLI.Alleluia.mode = me.m09.d03b_en_US_dedes.meLI.Alleluia.mode
 
-meLI.AlleluiaVerse1.source  = ""
-meLI.AlleluiaVerse1.text  = ""
+meLI.AlleluiaVerse1.source = me.m09.d03b_en_US_dedes.meLI.AlleluiaVerse1.source
+meLI.AlleluiaVerse1.text = me.m09.d03b_en_US_dedes.meLI.AlleluiaVerse1.text
 
-meLI.AlleluiaVerse2.source  = ""
-meLI.AlleluiaVerse2.text  = ""
+meLI.AlleluiaVerse2.source = me.m09.d03b_en_US_dedes.meLI.AlleluiaVerse2.source
+meLI.AlleluiaVerse2.text = me.m09.d03b_en_US_dedes.meLI.AlleluiaVerse2.text
 
-meLI.CommunionHymn.source = ""
-meLI.CommunionHymn.text = ""
+meLI.CommunionHymn.source = me.m09.d03b_en_US_dedes.meLI.CommunionHymn.source
+meLI.CommunionHymn.text = me.m09.d03b_en_US_dedes.meLI.CommunionHymn.text
 
-meMegalynarion.text = ""
+meMegalynarion.text = me.m09.d03b_en_US_dedes.meMegalynarion.text
 

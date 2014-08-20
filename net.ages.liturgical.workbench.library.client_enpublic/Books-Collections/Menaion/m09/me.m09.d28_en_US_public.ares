@@ -2,11 +2,15 @@
 A_Resource_Whose_Name = me.m09.d28_en_US_public
 
 meDate.text = me.m09.d28_en_US_dedes.meDate.text
-meCommemoration.text = me.m09.d28_en_US_dedes.meCommemoration.text // full title of day
+meCommemoration.text = me.m09.d28_en_US_dedes.meCommemoration.text //   full title of day
 meShortCommemoration1.text = me.m09.d28_en_US_dedes.meShortCommemoration1.text
-meInsert1 = me.m09.d28_en_US_dedes.meInsert1 // for use in petitions and dismissal
-meInsert2 = me.m09.d28_en_US_dedes.meInsert2 // for use in petitions and dismissal
+meInsert1 = me.m09.d28_en_US_dedes.meInsert1 //   for use in petitions and dismissal
+meInsert2 = me.m09.d28_en_US_dedes.meInsert2 //   for use in petitions and dismissal
 meNote.text = me.m09.d28_en_US_dedes.meNote.text
+meHO.number = me.m09.d28_en_US_dedes.meHO.number
+meHO.rank = me.m09.d28_en_US_dedes.meHO.rank
+meHO.note1 = me.m09.d28_en_US_dedes.meHO.note1
+meHO.note2 = me.m09.d28_en_US_dedes.meHO.note2
 
 meVE.Stichera01.mode = me.m09.d28_en_US_dedes.meVE.Stichera01.mode
 meVE.Stichera01.melody = me.m09.d28_en_US_dedes.meVE.Stichera01.melody
@@ -46,7 +50,7 @@ meVE.AposStavrotheotokion.melody = me.m09.d28_en_US_dedes.meVE.AposStavrotheotok
 meVE.AposStavrotheotokion.text = me.m09.d28_en_US_dedes.meVE.AposStavrotheotokion.text
 
 meVE.GeneralApolytikion1.name = me.m09.d28_en_US_dedes.meVE.GeneralApolytikion1.name
-meVE.GeneralApolytikion1.text = "" //for media
+meVE.GeneralApolytikion1.text = me.m09.d28_en_US_dedes.meVE.GeneralApolytikion1.text //  for media
 
 meVE.Apolytikion1.poet = me.m09.d28_en_US_dedes.meVE.Apolytikion1.poet
 meVE.Apolytikion1.mode = me.m09.d28_en_US_dedes.meVE.Apolytikion1.mode
@@ -305,13 +309,13 @@ meLI.SeasonalKontakion.mode = me.m09.d28_en_US_dedes.meLI.SeasonalKontakion.mode
 meLI.SeasonalKontakion.melody = me.m09.d28_en_US_dedes.meLI.SeasonalKontakion.melody
 meLI.SeasonalKontakion.text = me.m09.d28_en_US_dedes.meLI.SeasonalKontakion.text
 
-meLI.Alleluia.mode  = ""
+meLI.Alleluia.mode = me.m09.d28_en_US_dedes.meLI.Alleluia.mode
 
-meLI.AlleluiaVerse1.source  = ""
-meLI.AlleluiaVerse1.text  = ""
+meLI.AlleluiaVerse1.source = me.m09.d28_en_US_dedes.meLI.AlleluiaVerse1.source
+meLI.AlleluiaVerse1.text = me.m09.d28_en_US_dedes.meLI.AlleluiaVerse1.text
 
-meLI.AlleluiaVerse2.source  = ""
-meLI.AlleluiaVerse2.text  = ""
+meLI.AlleluiaVerse2.source = me.m09.d28_en_US_dedes.meLI.AlleluiaVerse2.source
+meLI.AlleluiaVerse2.text = me.m09.d28_en_US_dedes.meLI.AlleluiaVerse2.text
 
 meLI.CommunionHymn.source = me.m09.d28_en_US_dedes.meLI.CommunionHymn.source
 meLI.CommunionHymn.text = me.m09.d28_en_US_dedes.meLI.CommunionHymn.text

@@ -1,11 +1,15 @@
 A_Resource_Whose_Name = me.m05.d06_en_US_public
 
-meDate.text = me.m05.d06_en_US_dedes.meDate.text //  date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = me.m05.d06_en_US_dedes.meCommemoration.text // full title of day
+meDate.text = me.m05.d06_en_US_dedes.meDate.text //    date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = me.m05.d06_en_US_dedes.meCommemoration.text //   full title of day
 meShortCommemoration1.text = me.m05.d06_en_US_dedes.meShortCommemoration1.text
-meInsert1 = me.m05.d06_en_US_dedes.meInsert1 // for use in petitions and dismissal
-meInsert2 = me.m05.d06_en_US_dedes.meInsert2 // for use in petitions and dismissal
+meInsert1 = me.m05.d06_en_US_dedes.meInsert1 //   for use in petitions and dismissal
+meInsert2 = me.m05.d06_en_US_dedes.meInsert2 //   for use in petitions and dismissal
 meNote.text = me.m05.d06_en_US_dedes.meNote.text
+meHO.number = me.m05.d06_en_US_dedes.meHO.number
+meHO.rank = me.m05.d06_en_US_dedes.meHO.rank
+meHO.note1 = me.m05.d06_en_US_dedes.meHO.note1
+meHO.note2 = me.m05.d06_en_US_dedes.meHO.note2
 
 meVE.Stichera01.mode = me.m05.d06_en_US_dedes.meVE.Stichera01.mode
 meVE.Stichera01.melody = me.m05.d06_en_US_dedes.meVE.Stichera01.melody
@@ -26,7 +30,7 @@ meVE.SticGlory.text = me.m05.d06_en_US_dedes.meVE.SticGlory.text
 meVE.Apolytikion1.mode = me.m05.d06_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m05.d06_en_US_dedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.text = me.m05.d06_en_US_dedes.meVE.Apolytikion1.text
-meVE.Apolytikion1.name = me.m05.d06_en_US_dedes.meVE.Apolytikion1.name //  name of saint for General Apolytikia
+meVE.Apolytikion1.name = me.m05.d06_en_US_dedes.meVE.Apolytikion1.name //    name of saint for General Apolytikia
 
 meVE.Apolytikion2.poet = me.m05.d06_en_US_dedes.meVE.Apolytikion2.poet
 meVE.Apolytikion2.mode = me.m05.d06_en_US_dedes.meVE.Apolytikion2.mode
@@ -258,13 +262,13 @@ meLI.SeasonalKontakion.mode = me.m05.d06_en_US_dedes.meLI.SeasonalKontakion.mode
 meLI.SeasonalKontakion.melody = me.m05.d06_en_US_dedes.meLI.SeasonalKontakion.melody
 meLI.SeasonalKontakion.text = me.m05.d06_en_US_dedes.meLI.SeasonalKontakion.text
 
-meLI.Alleluia.mode  = ""
+meLI.Alleluia.mode = me.m05.d06_en_US_dedes.meLI.Alleluia.mode
 
-meLI.AlleluiaVerse1.source  = ""
-meLI.AlleluiaVerse1.text  = ""
+meLI.AlleluiaVerse1.source = me.m05.d06_en_US_dedes.meLI.AlleluiaVerse1.source
+meLI.AlleluiaVerse1.text = me.m05.d06_en_US_dedes.meLI.AlleluiaVerse1.text
 
-meLI.AlleluiaVerse2.source  = ""
-meLI.AlleluiaVerse2.text  = ""
+meLI.AlleluiaVerse2.source = me.m05.d06_en_US_dedes.meLI.AlleluiaVerse2.source
+meLI.AlleluiaVerse2.text = me.m05.d06_en_US_dedes.meLI.AlleluiaVerse2.text
 
 meMegalynarion.text = me.m05.d06_en_US_dedes.meMegalynarion.text
 

@@ -1,11 +1,15 @@
 A_Resource_Whose_Name = me.m04.d23_en_US_public
 
-meDate.text = me.m04.d23_en_US_dedes.meDate.text //  date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = me.m04.d23_en_US_dedes.meCommemoration.text // full title of day
+meDate.text = me.m04.d23_en_US_dedes.meDate.text //    date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = me.m04.d23_en_US_dedes.meCommemoration.text //   full title of day
 meShortCommemoration1.text = me.m04.d23_en_US_dedes.meShortCommemoration1.text
-meInsert1 = me.m04.d23_en_US_dedes.meInsert1 // for use in petitions and dismissal
-meInsert2 = me.m04.d23_en_US_dedes.meInsert2 // for use in petitions and dismissal
+meInsert1 = me.m04.d23_en_US_dedes.meInsert1 //   for use in petitions and dismissal
+meInsert2 = me.m04.d23_en_US_dedes.meInsert2 //   for use in petitions and dismissal
 meNote.text = me.m04.d23_en_US_dedes.meNote.text
+meHO.number = me.m04.d23_en_US_dedes.meHO.number
+meHO.rank = me.m04.d23_en_US_dedes.meHO.rank
+meHO.note1 = me.m04.d23_en_US_dedes.meHO.note1
+meHO.note2 = me.m04.d23_en_US_dedes.meHO.note2
 
 meSV.Stichera1.mode = me.m04.d23_en_US_dedes.meSV.Stichera1.mode
 meSV.Stichera1.melody = me.m04.d23_en_US_dedes.meSV.Stichera1.melody
@@ -70,26 +74,14 @@ meVE.Stichera06.mode = me.m04.d23_en_US_dedes.meVE.Stichera06.mode
 meVE.Stichera06.melody = me.m04.d23_en_US_dedes.meVE.Stichera06.melody
 meVE.Stichera06.text = me.m04.d23_en_US_dedes.meVE.Stichera06.text
 
-meVE.Stichera5678.text = me.m04.d23_en_US_dedes.meVE.Stichera5678.text // for media bright week
+meVE.Stichera5678.text = me.m04.d23_en_US_dedes.meVE.Stichera5678.text //   for media bright week
 
 meVE.SticGlory.mode = me.m04.d23_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m04.d23_en_US_dedes.meVE.SticGlory.melody
 meVE.SticGlory.text = me.m04.d23_en_US_dedes.meVE.SticGlory.text
 
-meVE.Reading1.book  = ""
-meVE.Reading1.chapverse  = ""
-meVE.Reading1.version  = ""
-meVE.Reading1.text  = ""
 
-meVE.Reading2.book  = ""
-meVE.Reading2.chapverse  = ""
-meVE.Reading2.version  = ""
-meVE.Reading2.text  = ""
 
-meVE.Reading3.book  = ""
-meVE.Reading3.chapverse  = ""
-meVE.Reading3.version  = ""
-meVE.Reading3.text  = ""
 
 meVE.Lity1.poet = me.m04.d23_en_US_dedes.meVE.Lity1.poet
 meVE.Lity1.mode = me.m04.d23_en_US_dedes.meVE.Lity1.mode
@@ -165,7 +157,7 @@ meMA.Kathisma31.mode = me.m04.d23_en_US_dedes.meMA.Kathisma31.mode
 meMA.Kathisma31.melody = me.m04.d23_en_US_dedes.meMA.Kathisma31.melody
 meMA.Kathisma31.text = me.m04.d23_en_US_dedes.meMA.Kathisma31.text
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = me.m04.d23_en_US_dedes.meMA.Prokeimenon.text //  for media
 meMA.PostGospelGlory.mode = me.m04.d23_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m04.d23_en_US_dedes.meMA.PostGospelGlory.melody
 meMA.PostGospelGlory.text = me.m04.d23_en_US_dedes.meMA.PostGospelGlory.text
@@ -554,7 +546,7 @@ meMA.Lauds4.mode = me.m04.d23_en_US_dedes.meMA.Lauds4.mode
 meMA.Lauds4.melody = me.m04.d23_en_US_dedes.meMA.Lauds4.melody
 meMA.Lauds4.text = me.m04.d23_en_US_dedes.meMA.Lauds4.text
 
-meMA.Lauds5678.text = me.m04.d23_en_US_dedes.meMA.Lauds5678.text // for media in bright week
+meMA.Lauds5678.text = me.m04.d23_en_US_dedes.meMA.Lauds5678.text //   for media in bright week
 
 meMA.LaudsGlory.poet = me.m04.d23_en_US_dedes.meMA.LaudsGlory.poet
 meMA.LaudsGlory.mode = me.m04.d23_en_US_dedes.meMA.LaudsGlory.mode
