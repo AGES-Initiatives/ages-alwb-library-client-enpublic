@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = me.m11.d01_en_US_public
 
-meHO.month.text = me.m11.d01_en_US_dedes.meHO.month.text
-meHO.dayshours.text = me.m11.d01_en_US_dedes.meHO.dayshours.text
+meHO.Month.text = me.m11.d01_en_US_dedes.meHO.Month.text
+meHO.DaysHours.text = me.m11.d01_en_US_dedes.meHO.DaysHours.text
 
 meDate.text = me.m11.d01_en_US_dedes.meDate.text
 meCommemoration.text = me.m11.d01_en_US_dedes.meCommemoration.text //   full title of day
