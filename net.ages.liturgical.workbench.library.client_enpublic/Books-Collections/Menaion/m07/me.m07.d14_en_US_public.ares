@@ -1,11 +1,15 @@
 A_Resource_Whose_Name = me.m07.d14_en_US_public
 
 meDate.text = me.m07.d14_en_US_dedes.meDate.text
-meCommemoration.text = me.m07.d14_en_US_dedes.meCommemoration.text // full title of day
+meCommemoration.text = me.m07.d14_en_US_dedes.meCommemoration.text //   full title of day
 meShortCommemoration1.text = me.m07.d14_en_US_dedes.meShortCommemoration1.text
-meInsert1 = me.m07.d14_en_US_dedes.meInsert1 // for use in petitions and dismissal
-meInsert2 = me.m07.d14_en_US_dedes.meInsert2 // for use in petitions and dismissal
+meInsert1 = me.m07.d14_en_US_dedes.meInsert1 //   for use in petitions and dismissal
+meInsert2 = me.m07.d14_en_US_dedes.meInsert2 //   for use in petitions and dismissal
 meNote.text = me.m07.d14_en_US_dedes.meNote.text
+meHO.number = me.m07.d14_en_US_dedes.meHO.number
+meHO.rank = me.m07.d14_en_US_dedes.meHO.rank
+meHO.note1 = me.m07.d14_en_US_dedes.meHO.note1
+meHO.note2 = me.m07.d14_en_US_dedes.meHO.note2
 
 meVE.Stichera01.mode = me.m07.d14_en_US_dedes.meVE.Stichera01.mode
 meVE.Stichera01.melody = me.m07.d14_en_US_dedes.meVE.Stichera01.melody
@@ -27,7 +31,7 @@ meVE.SticStavrotheotokion.mode = me.m07.d14_en_US_dedes.meVE.SticStavrotheotokio
 meVE.SticStavrotheotokion.melody = me.m07.d14_en_US_dedes.meVE.SticStavrotheotokion.melody
 meVE.SticStavrotheotokion.text = me.m07.d14_en_US_dedes.meVE.SticStavrotheotokion.text
 
-meVE.GeneralApolytikion1.name = me.m07.d14_en_US_dedes.meVE.GeneralApolytikion1.name //  name of saint for General Apolytikia when not in Menaion
+meVE.GeneralApolytikion1.name = me.m07.d14_en_US_dedes.meVE.GeneralApolytikion1.name //    name of saint for General Apolytikia when not in Menaion
 
 meVE.Apolytikion1.poet = me.m07.d14_en_US_dedes.meVE.Apolytikion1.poet
 meVE.Apolytikion1.mode = me.m07.d14_en_US_dedes.meVE.Apolytikion1.mode

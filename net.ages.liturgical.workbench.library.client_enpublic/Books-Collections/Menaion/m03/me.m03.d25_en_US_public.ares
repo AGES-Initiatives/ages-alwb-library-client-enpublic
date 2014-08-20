@@ -1,11 +1,15 @@
 A_Resource_Whose_Name = me.m03.d25_en_US_public
 
-meDate.text = me.m03.d25_en_US_dedes.meDate.text //  date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = me.m03.d25_en_US_dedes.meCommemoration.text // full title of day
+meDate.text = me.m03.d25_en_US_dedes.meDate.text //    date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = me.m03.d25_en_US_dedes.meCommemoration.text //   full title of day
 meShortCommemoration1.text = me.m03.d25_en_US_dedes.meShortCommemoration1.text
-meInsert1 = me.m03.d25_en_US_dedes.meInsert1 // for use in petitions and dismissal
-meInsert2 = me.m03.d25_en_US_dedes.meInsert2 // for use in petitions and dismissal
+meInsert1 = me.m03.d25_en_US_dedes.meInsert1 //   for use in petitions and dismissal
+meInsert2 = me.m03.d25_en_US_dedes.meInsert2 //   for use in petitions and dismissal
 meNote.text = me.m03.d25_en_US_dedes.meNote.text
+meHO.number = me.m03.d25_en_US_dedes.meHO.number
+meHO.rank = me.m03.d25_en_US_dedes.meHO.rank
+meHO.note1 = me.m03.d25_en_US_dedes.meHO.note1
+meHO.note2 = me.m03.d25_en_US_dedes.meHO.note2
 meDismissal = me.m03.d25_en_US_dedes.meDismissal
 
 meSV.Stichera1.mode = me.m03.d25_en_US_dedes.meSV.Stichera1.mode
@@ -63,17 +67,8 @@ meVE.SticGlory.mode = me.m03.d25_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m03.d25_en_US_dedes.meVE.SticGlory.melody
 meVE.SticGlory.text = me.m03.d25_en_US_dedes.meVE.SticGlory.text
 
-meVE.Reading1.book  = ""
-meVE.Reading1.chapverse  = ""
-meVE.Reading1.text  = ""
 
-meVE.Reading2.book  = ""
-meVE.Reading2.chapverse  = ""
-meVE.Reading2.text  = ""
 
-meVE.Reading3.book  = ""
-meVE.Reading3.chapverse  = ""
-meVE.Reading3.text  = ""
 
 meVE.Lity1.poet = me.m03.d25_en_US_dedes.meVE.Lity1.poet
 meVE.Lity1.mode = me.m03.d25_en_US_dedes.meVE.Lity1.mode
@@ -137,7 +132,7 @@ meMA.Kathisma32.mode = me.m03.d25_en_US_dedes.meMA.Kathisma32.mode
 meMA.Kathisma32.melody = me.m03.d25_en_US_dedes.meMA.Kathisma32.melody
 meMA.Kathisma32.text = me.m03.d25_en_US_dedes.meMA.Kathisma32.text
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = me.m03.d25_en_US_dedes.meMA.Prokeimenon.text //  for media
 meMA.PostGospelGlory.mode = me.m03.d25_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m03.d25_en_US_dedes.meMA.PostGospelGlory.melody
 meMA.PostGospelGlory.text = me.m03.d25_en_US_dedes.meMA.PostGospelGlory.text

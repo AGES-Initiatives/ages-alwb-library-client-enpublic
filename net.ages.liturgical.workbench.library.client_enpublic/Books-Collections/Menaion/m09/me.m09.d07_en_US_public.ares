@@ -1,11 +1,15 @@
 A_Resource_Whose_Name = me.m09.d07_en_US_public
 
 meDate.text = me.m09.d07_en_US_dedes.meDate.text
-meCommemoration.text = me.m09.d07_en_US_dedes.meCommemoration.text // full title of day
+meCommemoration.text = me.m09.d07_en_US_dedes.meCommemoration.text //   full title of day
 meShortCommemoration1.text = me.m09.d07_en_US_dedes.meShortCommemoration1.text
-meInsert1 = me.m09.d07_en_US_dedes.meInsert1 // for use in petitions and dismissal
-meInsert2 = me.m09.d07_en_US_dedes.meInsert2 // for use in petitions and dismissal
+meInsert1 = me.m09.d07_en_US_dedes.meInsert1 //   for use in petitions and dismissal
+meInsert2 = me.m09.d07_en_US_dedes.meInsert2 //   for use in petitions and dismissal
 meNote.text = me.m09.d07_en_US_dedes.meNote.text
+meHO.number = me.m09.d07_en_US_dedes.meHO.number
+meHO.rank = me.m09.d07_en_US_dedes.meHO.rank
+meHO.note1 = me.m09.d07_en_US_dedes.meHO.note1
+meHO.note2 = me.m09.d07_en_US_dedes.meHO.note2
 
 meVE.Stichera01.mode = me.m09.d07_en_US_dedes.meVE.Stichera01.mode
 meVE.Stichera01.melody = me.m09.d07_en_US_dedes.meVE.Stichera01.melody
@@ -19,7 +23,7 @@ meVE.Stichera03.mode = me.m09.d07_en_US_dedes.meVE.Stichera03.mode
 meVE.Stichera03.melody = me.m09.d07_en_US_dedes.meVE.Stichera03.melody
 meVE.Stichera03.text = me.m09.d07_en_US_dedes.meVE.Stichera03.text
 
-meVE.Stichera123Sunday.text = "" //for media
+meVE.Stichera123Sunday.text = me.m09.d07_en_US_dedes.meVE.Stichera123Sunday.text //  for media
 
 meVE.Stichera04.mode = me.m09.d07_en_US_dedes.meVE.Stichera04.mode
 meVE.Stichera04.melody = me.m09.d07_en_US_dedes.meVE.Stichera04.melody
@@ -295,10 +299,10 @@ meMA.Ode6H.melody = me.m09.d07_en_US_dedes.meMA.Ode6H.melody
 meMA.Ode6H.text = me.m09.d07_en_US_dedes.meMA.Ode6H.text
 
 meMA.Kontakion1.mode = me.m09.d07_en_US_dedes.meMA.Kontakion1.mode
-meMA.Kontakion1.melody = me.m09.d07_en_UK_lash.meMA.Kontakion1.melody
-meMA.Kontakion1.text = me.m09.d07_en_UK_lash.meMA.Kontakion1.text
+meMA.Kontakion1.melody = me.m09.d07_en_US_dedes.meMA.Kontakion1.melody
+meMA.Kontakion1.text = me.m09.d07_en_US_dedes.meMA.Kontakion1.text
 
-meMA.Oikos1.text = me.m09.d07_en_UK_lash.meMA.Oikos1.text
+meMA.Oikos1.text = me.m09.d07_en_US_dedes.meMA.Oikos1.text
 
 meMA.Synaxarion.text = me.m09.d07_en_US_dedes.meMA.Synaxarion.text
 
@@ -469,8 +473,8 @@ meMA.AposGlory.melody = me.m09.d07_en_US_dedes.meMA.AposGlory.melody
 meMA.AposGlory.text = me.m09.d07_en_US_dedes.meMA.AposGlory.text
 
 meLI.SeasonalKontakion.mode = me.m09.d07_en_US_dedes.meLI.SeasonalKontakion.mode
-meLI.SeasonalKontakion.melody = me.m09.d07_en_UK_lash.meLI.SeasonalKontakion.melody
-meLI.SeasonalKontakion.text = me.m09.d07_en_UK_lash.meLI.SeasonalKontakion.text
+meLI.SeasonalKontakion.melody = me.m09.d07_en_US_dedes.meLI.SeasonalKontakion.melody
+meLI.SeasonalKontakion.text = me.m09.d07_en_US_dedes.meLI.SeasonalKontakion.text
 
 meLI.CommunionHymn.text = me.m09.d07_en_US_dedes.meLI.CommunionHymn.text
 

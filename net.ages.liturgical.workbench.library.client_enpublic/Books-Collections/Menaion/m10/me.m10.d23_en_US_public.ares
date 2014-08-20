@@ -1,11 +1,15 @@
 A_Resource_Whose_Name = me.m10.d23_en_US_public 
 
 meDate.text = me.m10.d23_en_US_dedes.meDate.text
-meCommemoration.text = me.m10.d23_en_US_dedes.meCommemoration.text // full title of day
+meCommemoration.text = me.m10.d23_en_US_dedes.meCommemoration.text //   full title of day
 meShortCommemoration1.text = me.m10.d23_en_US_dedes.meShortCommemoration1.text
-meInsert1 = me.m10.d23_en_US_dedes.meInsert1 // for use in petitions and dismissal
-meInsert2 = me.m10.d23_en_US_dedes.meInsert2 // for use in petitions and dismissal
+meInsert1 = me.m10.d23_en_US_dedes.meInsert1 //   for use in petitions and dismissal
+meInsert2 = me.m10.d23_en_US_dedes.meInsert2 //   for use in petitions and dismissal
 meNote.text = me.m10.d23_en_US_dedes.meNote.text
+meHO.number = me.m10.d23_en_US_dedes.meHO.number
+meHO.rank = me.m10.d23_en_US_dedes.meHO.rank
+meHO.note1 = me.m10.d23_en_US_dedes.meHO.note1
+meHO.note2 = me.m10.d23_en_US_dedes.meHO.note2
 
 meVE.Stichera01.mode = me.m10.d23_en_US_dedes.meVE.Stichera01.mode
 meVE.Stichera01.melody = me.m10.d23_en_US_dedes.meVE.Stichera01.melody
@@ -19,7 +23,7 @@ meVE.Stichera03.mode = me.m10.d23_en_US_dedes.meVE.Stichera03.mode
 meVE.Stichera03.melody = me.m10.d23_en_US_dedes.meVE.Stichera03.melody
 meVE.Stichera03.text = me.m10.d23_en_US_dedes.meVE.Stichera03.text
 
-meVE.Stichera78910.text = "" //for media
+meVE.Stichera78910.text = me.m10.d23_en_US_dedes.meVE.Stichera78910.text //  for media
 
 meVE.SticGlory.mode = me.m10.d23_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m10.d23_en_US_dedes.meVE.SticGlory.melody
@@ -83,7 +87,7 @@ meMA.Kathisma3T.mode = me.m10.d23_en_US_dedes.meMA.Kathisma3T.mode
 meMA.Kathisma3T.melody = me.m10.d23_en_US_dedes.meMA.Kathisma3T.melody
 meMA.Kathisma3T.text = me.m10.d23_en_US_dedes.meMA.Kathisma3T.text
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = me.m10.d23_en_US_dedes.meMA.Prokeimenon.text //  for media
 
 meMA.PostGospelGlory.mode = me.m10.d23_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m10.d23_en_US_dedes.meMA.PostGospelGlory.melody
