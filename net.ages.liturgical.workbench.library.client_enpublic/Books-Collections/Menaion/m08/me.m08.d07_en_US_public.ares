@@ -8,6 +8,7 @@ meInsert2 = me.m08.d07_en_US_dedes.meInsert2 //   for use in petitions and dismi
 meNote.text = me.m08.d07_en_US_dedes.meNote.text
 meHO.number = me.m08.d07_en_US_dedes.meHO.number
 meHO.rank = me.m08.d07_en_US_dedes.meHO.rank
+meHO.commemorations = ""
 meHO.note1 = me.m08.d07_en_US_dedes.meHO.note1
 meHO.note2 = me.m08.d07_en_US_dedes.meHO.note2
 meDismissal = me.m08.d07_en_US_dedes.meDismissal

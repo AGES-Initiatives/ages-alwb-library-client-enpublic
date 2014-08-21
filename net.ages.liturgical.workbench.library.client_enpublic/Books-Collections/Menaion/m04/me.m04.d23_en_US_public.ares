@@ -8,6 +8,7 @@ meInsert2 = me.m04.d23_en_US_dedes.meInsert2 //   for use in petitions and dismi
 meNote.text = me.m04.d23_en_US_dedes.meNote.text
 meHO.number = me.m04.d23_en_US_dedes.meHO.number
 meHO.rank = me.m04.d23_en_US_dedes.meHO.rank
+meHO.commemorations = ""
 meHO.note1 = me.m04.d23_en_US_dedes.meHO.note1
 meHO.note2 = me.m04.d23_en_US_dedes.meHO.note2
 
@@ -79,9 +80,6 @@ meVE.Stichera5678.text = me.m04.d23_en_US_dedes.meVE.Stichera5678.text //   for 
 meVE.SticGlory.mode = me.m04.d23_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m04.d23_en_US_dedes.meVE.SticGlory.melody
 meVE.SticGlory.text = me.m04.d23_en_US_dedes.meVE.SticGlory.text
-
-
-
 
 meVE.Lity1.poet = me.m04.d23_en_US_dedes.meVE.Lity1.poet
 meVE.Lity1.mode = me.m04.d23_en_US_dedes.meVE.Lity1.mode
