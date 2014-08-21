@@ -155,6 +155,12 @@ pet03 = prayers_en_US_holycross.pet03
 
 pet04 = prayers_en_US_holycross.pet04
 
+pet04alt1.title = prayers_en_US_holycross.pet04alt1.title
+pet04alt1 = prayers_en_US_holycross.pet04alt1
+
+pet04alt2.title = prayers_en_US_holycross.pet04alt2.title
+pet04alt2 = prayers_en_US_holycross.pet04alt2
+
 pet05 = prayers_en_US_holycross.pet05
 
 pet06 = prayers_en_US_holycross.pet06
@@ -381,7 +387,7 @@ petWater02 = prayers_en_US_holycross.petWater02
 
 petWater03 = prayers_en_US_holycross.petWater03
 
-petWater03b = prayers_en_US_holycross.petWater03b
+petWater03alt = prayers_en_US_holycross.petWater03alt
 
 petWater04 = prayers_en_US_holycross.petWater04
 
@@ -391,7 +397,7 @@ petWater06 = prayers_en_US_holycross.petWater06
 
 petWater07 = prayers_en_US_holycross.petWater07
 
-petWater07b = prayers_en_US_holycross.petWater07b
+petWater07alt = prayers_en_US_holycross.petWater07alt
 
 petWater08 = prayers_en_US_holycross.petWater08
 
@@ -400,6 +406,16 @@ petWater09 = prayers_en_US_holycross.petWater09
 petWater10 = prayers_en_US_holycross.petWater10
 
 petWater11 = prayers_en_US_holycross.petWater11
+
+petWater12 = prayers_en_US_holycross.petWater12
+
+petWater13 = prayers_en_US_holycross.petWater13
+
+petWater14 = prayers_en_US_holycross.petWater14
+
+petWater15 = prayers_en_US_holycross.petWater15
+
+petWater16 = prayers_en_US_holycross.petWater16
 
 petWed01 = prayers_en_US_holycross.petWed01
 
@@ -553,6 +569,8 @@ exc07a = prayers_en_US_holycross.exc07a
 
 exc07b = prayers_en_US_holycross.exc07b
 
+exc07c = prayers_en_US_holycross.exc07c
+
 exc08 = prayers_en_US_holycross.exc08
 
 exc09 = prayers_en_US_holycross.exc09
@@ -573,6 +591,8 @@ exc15 = prayers_en_US_holycross.exc15
 
 exc16 = prayers_en_US_holycross.exc16
 
+exc16a = prayers_en_US_holycross.exc16a
+
 exc17 = prayers_en_US_holycross.exc17
 
 exc18 = prayers_en_US_holycross.exc18
@@ -590,6 +610,10 @@ exc24 = prayers_en_US_holycross.exc24
 exc25 = prayers_en_US_holycross.exc25
 
 exc26 = prayers_en_US_holycross.exc26
+
+exc27 = prayers_en_US_holycross.exc27
+
+exc28 = prayers_en_US_holycross.exc28
 
 epi01a = prayers_en_US_holycross.epi01a
 
