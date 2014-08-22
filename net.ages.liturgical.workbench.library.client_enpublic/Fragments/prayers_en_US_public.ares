@@ -643,10 +643,6 @@ verse_Cross.text = prayers_en_US_dedes.verse_Cross.text
 
 verseP_Cross.text = prayers_en_US_dedes.verseP_Cross.text
 
-verse_Forefathers.text = prayers_en_US_dedes.verse_Forefathers.text
-
-verseP_Forefathers.text = prayers_en_US_dedes.verseP_Forefathers.text
-
 verse_GreatMartyrs.text = prayers_en_US_dedes.verse_GreatMartyrs.text
 
 verseP_GreatMartyrs.text = prayers_en_US_dedes.verseP_GreatMartyrs.text
@@ -662,6 +658,10 @@ verseP_Nicholas.text = prayers_en_US_dedes.verseP_Nicholas.text
 verse_Panteleimon.text = prayers_en_US_dedes.verse_Panteleimon.text
 
 verseP_Panteleimon.text = prayers_en_US_dedes.verseP_Panteleimon.text
+
+verse_Righteous.text = prayers_en_US_dedes.verse_Righteous.text
+
+verseP_Righteous.text = prayers_en_US_dedes.verseP_Righteous.text
 
 verse_Theotokos.text = prayers_en_US_dedes.verse_Theotokos.text
 
