@@ -1,190 +1,185 @@
 A_Resource_Whose_Name = eu.smallwaterblessing_en_US_public 
 
 euSW.Key0100.title = eu.smallwaterblessing_en_US_dedes.euSW.Key0100.title
+euSW.translator1 = eu.smallwaterblessing_en_US_holycross.euSW.translator1
+euSW.translator2 = eu.smallwaterblessing_en_US_dedes.euSW.translator2
+
 euSW.R101 = eu.smallwaterblessing_en_US_holycross.euSW.R101
 euSW.R102 = eu.smallwaterblessing_en_US_dedes.euSW.R102
 
 euSW.R201 = eu.smallwaterblessing_en_US_dedes.euSW.R201
 
-euSW.Key0201.mode = misc_en_US_dedes.Mode6
-euSW.Key0201.melody = misc_en_US_dedes.Heirmos
+euSW.Key0201.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0201.mode
+euSW.Key0201.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0201.melody
 euSW.Key0201.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0201.text
 
-euSW.Key0202.mode = misc_en_US_dedes.Mode6
-euSW.Key0202.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0202.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0202.mode
+euSW.Key0202.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0202.melody
 euSW.Key0202.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0202.text
 
-euSW.Key0203.mode = misc_en_US_dedes.Mode6
-euSW.Key0203.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0203.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0203.mode
+euSW.Key0203.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0203.melody
 euSW.Key0203.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0203.text
 
-euSW.Key0204.mode = misc_en_US_dedes.Mode6
-euSW.Key0204.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0204.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0204.mode
+euSW.Key0204.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0204.melody
 euSW.Key0204.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0204.text
 
-euSW.Key0205.mode = misc_en_US_dedes.Mode6
-euSW.Key0205.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0205.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0205.mode
+euSW.Key0205.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0205.melody
 euSW.Key0205.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0205.text
 
-euSW.Key0206.mode = misc_en_US_dedes.Mode6
-euSW.Key0206.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0206.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0206.mode
+euSW.Key0206.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0206.melody
 euSW.Key0206.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0206.text
 
-euSW.Key0207.mode = misc_en_US_dedes.Mode6
-euSW.Key0207.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0207.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0207.mode
+euSW.Key0207.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0207.melody
 euSW.Key0207.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0207.text
 
-euSW.Key0208.mode = misc_en_US_dedes.Mode6
-euSW.Key0208.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0208.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0208.mode
+euSW.Key0208.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0208.melody
 euSW.Key0208.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0208.text
 
-euSW.Key0209.mode = misc_en_US_dedes.Mode6
-euSW.Key0209.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0209.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0209.mode
+euSW.Key0209.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0209.melody
 euSW.Key0209.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0209.text
 
-euSW.Key0210.mode = misc_en_US_dedes.Mode6
-euSW.Key0210.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0210.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0210.mode
+euSW.Key0210.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0210.melody
 euSW.Key0210.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0210.text
 
-euSW.Key0211.mode = misc_en_US_dedes.Mode6
-euSW.Key0211.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0211.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0211.mode
+euSW.Key0211.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0211.melody
 euSW.Key0211.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0211.text
 
-euSW.Key0212.mode = misc_en_US_dedes.Mode6
-euSW.Key0212.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0212.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0212.mode
+euSW.Key0212.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0212.melody
 euSW.Key0212.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0212.text
 
-euSW.Key0213.mode = misc_en_US_dedes.Mode6
-euSW.Key0213.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0213.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0213.mode
+euSW.Key0213.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0213.melody
 euSW.Key0213.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0213.text
 
-euSW.Key0214.mode = misc_en_US_dedes.Mode6
-euSW.Key0214.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0214.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0214.mode
+euSW.Key0214.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0214.melody
 euSW.Key0214.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0214.text
 
-euSW.Key0215.mode = misc_en_US_dedes.Mode6
-euSW.Key0215.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0215.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0215.mode
+euSW.Key0215.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0215.melody
 euSW.Key0215.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0215.text
 
-euSW.Key0216.mode = misc_en_US_dedes.Mode6
-euSW.Key0216.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0216.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0216.mode
+euSW.Key0216.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0216.melody
 euSW.Key0216.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0216.text
 
-euSW.Key0217.mode = misc_en_US_dedes.Mode6
-euSW.Key0217.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0217.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0217.mode
+euSW.Key0217.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0217.melody
 euSW.Key0217.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0217.text
 
-euSW.Key0218.mode = misc_en_US_dedes.Mode6
-euSW.Key0218.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0218.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0218.mode
+euSW.Key0218.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0218.melody
 euSW.Key0218.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0218.text
 
-euSW.Key0219.mode = misc_en_US_dedes.Mode6
-euSW.Key0219.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0219.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0219.mode
+euSW.Key0219.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0219.melody
 euSW.Key0219.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0219.text
 
-euSW.Key0220.mode = misc_en_US_dedes.Mode6
-euSW.Key0220.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0220.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0220.mode
+euSW.Key0220.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0220.melody
 euSW.Key0220.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0220.text
 
-euSW.Key0221.mode = misc_en_US_dedes.Mode6
-euSW.Key0221.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0221.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0221.mode
+euSW.Key0221.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0221.melody
 euSW.Key0221.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0221.text
 
-euSW.Key0222.mode = misc_en_US_dedes.Mode6
-euSW.Key0222.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0222.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0222.mode
+euSW.Key0222.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0222.melody
 euSW.Key0222.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0222.text
 
-euSW.Key0223.mode = misc_en_US_dedes.Mode6
-euSW.Key0223.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0223.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0223.mode
+euSW.Key0223.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0223.melody
 euSW.Key0223.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0223.text
 
-euSW.Key0224.mode = misc_en_US_dedes.Mode6
-euSW.Key0224.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0224.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0224.mode
+euSW.Key0224.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0224.melody
 euSW.Key0224.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0224.text
 
-euSW.Key0225.mode = misc_en_US_dedes.Mode6
-euSW.Key0225.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0225.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0225.mode
+euSW.Key0225.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0225.melody
 euSW.Key0225.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0225.text
 
-euSW.Key0226.mode = misc_en_US_dedes.Mode6
-euSW.Key0226.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0226.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0226.mode
+euSW.Key0226.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0226.melody
 euSW.Key0226.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0226.text
 
-euSW.Key0227.mode = misc_en_US_dedes.Mode6
-euSW.Key0227.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0227.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0227.mode
+euSW.Key0227.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0227.melody
 euSW.Key0227.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0227.text
 
-euSW.Key0228.mode = misc_en_US_dedes.Mode6
-euSW.Key0228.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0228.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0228.mode
+euSW.Key0228.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0228.melody
 euSW.Key0228.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0228.text
 
-euSW.Key0229.mode = misc_en_US_dedes.Mode6
-euSW.Key0229.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0229.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0229.mode
+euSW.Key0229.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0229.melody
 euSW.Key0229.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0229.text
 
-euSW.Key0230.mode = misc_en_US_dedes.Mode6
-euSW.Key0230.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0230.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0230.mode
+euSW.Key0230.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0230.melody
 euSW.Key0230.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0230.text
 
-euSW.Key0231.mode = misc_en_US_dedes.Mode6
-euSW.Key0231.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0231.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0231.mode
+euSW.Key0231.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0231.melody
 euSW.Key0231.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0231.text
 
-euSW.Key0232.mode = misc_en_US_dedes.Mode6
-euSW.Key0232.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0232.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0232.mode
+euSW.Key0232.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0232.melody
 euSW.Key0232.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0232.text
 
-euSW.Key0233.mode = misc_en_US_dedes.Mode6
-euSW.Key0233.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0233.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0233.mode
+euSW.Key0233.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0233.melody
 euSW.Key0233.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0233.text
 
-euSW.Key0234.mode = misc_en_US_dedes.Mode6
-euSW.Key0234.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0234.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0234.mode
+euSW.Key0234.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0234.melody
 euSW.Key0234.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0234.text
 
-euSW.Key0235.mode = misc_en_US_dedes.Mode6
-euSW.Key0235.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0235.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0235.mode
+euSW.Key0235.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0235.melody
 euSW.Key0235.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0235.text
 
-euSW.Key0236.mode = misc_en_US_dedes.Mode6
-euSW.Key0236.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0236.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0236.mode
+euSW.Key0236.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0236.melody
 euSW.Key0236.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0236.text
 
-euSW.Key0237.mode = misc_en_US_dedes.Mode6
-euSW.Key0237.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0237.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0237.mode
+euSW.Key0237.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0237.melody
 euSW.Key0237.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0237.text
 
-euSW.Key0238.mode = misc_en_US_dedes.Mode6
-euSW.Key0238.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0238.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0238.mode
+euSW.Key0238.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0238.melody
 euSW.Key0238.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0238.text
 
-euSW.Key0239.mode = misc_en_US_dedes.Mode6
-euSW.Key0239.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+euSW.Key0239.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0239.mode
+euSW.Key0239.melody = eu.smallwaterblessing_en_US_dedes.euSW.Key0239.melody
 euSW.Key0239.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0239.text
 
-euSW.Key0240.mode = misc_en_US_dedes.Mode6
-euSW.Key0240.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
 euSW.Key0240.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0240.text
-
-euSW.Key0241.mode = misc_en_US_dedes.Mode6
-euSW.Key0241.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
-euSW.Key0241.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0241.text
-
-euSW.Key0242.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0242.text
 
 euSW.R301 = eu.smallwaterblessing_en_US_dedes.euSW.R301
 
-euSW.Key0301.mode = misc_en_US_dedes.Mode8
+euSW.Key0301.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0301.mode
 euSW.Key0301.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0301.text
 
-euSW.Key0302.mode = misc_en_US_dedes.Mode8
+euSW.Key0302.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0302.mode
 euSW.Key0302.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0302.text
 
-euSW.Key0303.mode = misc_en_US_dedes.Mode8
-euSW.Key0303.meody = he.h.m8_en_US_dedes.OukEstinAgios.name
+euSW.Key0303.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0303.mode
+euSW.Key0303.meody = eu.smallwaterblessing_en_US_dedes.euSW.Key0303.meody
 euSW.Key0303.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0303.text
 
-euSW.Key0304.mode = misc_en_US_dedes.Mode8
+euSW.Key0304.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0304.mode
 euSW.Key0304.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0304.text
 
 euSW.R401 = eu.smallwaterblessing_en_US_holycross.euSW.R401
@@ -197,7 +192,7 @@ euSW.R501 = eu.smallwaterblessing_en_US_dedes.euSW.R501
 euSW.Key0501.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0501.text
 
 euSW.R601 = eu.smallwaterblessing_en_US_dedes.euSW.R601
-euSW.Key0601.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0601.text
+euSW.Key0601.text = eu.smallwaterblessing_en_US_holycross.euSW.Key0601.text
 
 euSW.R602 = eu.smallwaterblessing_en_US_dedes.euSW.R602
 
