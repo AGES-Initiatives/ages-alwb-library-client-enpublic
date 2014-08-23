@@ -182,8 +182,9 @@ euSW.Key0303.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0303.text
 euSW.Key0304.mode = eu.smallwaterblessing_en_US_dedes.euSW.Key0304.mode
 euSW.Key0304.text = eu.smallwaterblessing_en_US_dedes.euSW.Key0304.text
 
-euSW.R401 = eu.smallwaterblessing_en_US_holycross.euSW.R401
-euSW.Key0401.text = eu.smallwaterblessing_en_US_holycross.euSW.Key0401.text
+euSW.R401 = eu.smallwaterblessing_en_US_dedes.euSW.R401
+euSW.Key0401a.text = eu.smallwaterblessing_en_US_holycross.euSW.Key0401a.text
+euSW.Key0401b.text = eu.smallwaterblessing_en_US_holycross.euSW.Key0401b.text
 euSW.Key0402.text = eu.smallwaterblessing_en_US_holycross.euSW.Key0402.text
 euSW.Key0403.text = eu.smallwaterblessing_en_US_holycross.euSW.Key0403.text
 euSW.Key0404.text = eu.smallwaterblessing_en_US_holycross.euSW.Key0404.text
