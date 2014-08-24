@@ -305,14 +305,12 @@ peMA.Lauds6.mode = pe.d076_en_US_dedes.peMA.Lauds6.mode
 peMA.Lauds6.melody = pe.d076_en_US_dedes.peMA.Lauds6.melody
 peMA.Lauds6.text = pe.d076_en_US_dedes.peMA.Lauds6.text
 
-peMA.LaudsVerse7.source = pe.d076_en_US_dedes.peMA.LaudsVerse7.source
 peMA.LaudsVerse7.text = pe.d076_en_US_dedes.peMA.LaudsVerse7.text
 
 peMA.Lauds7.mode = pe.d076_en_US_dedes.peMA.Lauds7.mode
 peMA.Lauds7.melody = pe.d076_en_US_dedes.peMA.Lauds7.melody
 peMA.Lauds7.text = pe.d076_en_US_dedes.peMA.Lauds7.text
 
-peMA.LaudsVerse8.source = pe.d076_en_US_dedes.peMA.LaudsVerse8.source
 peMA.LaudsVerse8.text = pe.d076_en_US_dedes.peMA.LaudsVerse8.text
 
 peMA.Lauds8.mode = pe.d076_en_US_dedes.peMA.Lauds8.mode

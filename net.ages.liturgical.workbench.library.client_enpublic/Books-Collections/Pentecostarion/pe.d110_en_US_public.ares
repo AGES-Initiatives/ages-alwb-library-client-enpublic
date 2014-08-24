@@ -600,36 +600,26 @@ peMA.LaudsGlory.mode = pe.d110_en_US_dedes.peMA.LaudsGlory.mode
 peMA.LaudsGlory.melody = pe.d110_en_US_dedes.peMA.LaudsGlory.melody
 peMA.LaudsGlory.text = pe.d110_en_US_dedes.peMA.LaudsGlory.text
 
-peLI.Antiphon1Verse1.source = pe.d110_en_US_dedes.peLI.Antiphon1Verse1.source
 peLI.Antiphon1Verse1.text = pe.d110_en_US_dedes.peLI.Antiphon1Verse1.text
 
-peLI.Antiphon1Verse2.source = pe.d110_en_US_dedes.peLI.Antiphon1Verse2.source
 peLI.Antiphon1Verse2.text = pe.d110_en_US_dedes.peLI.Antiphon1Verse2.text
 
-peLI.Antiphon1Verse3.source = pe.d110_en_US_dedes.peLI.Antiphon1Verse3.source
 peLI.Antiphon1Verse3.text = pe.d110_en_US_dedes.peLI.Antiphon1Verse3.text
 
-peLI.Antiphon2Verse1.source = pe.d110_en_US_dedes.peLI.Antiphon2Verse1.source
 peLI.Antiphon2Verse1.text = pe.d110_en_US_dedes.peLI.Antiphon2Verse1.text
 
-peLI.Antiphon2Verse2.source = pe.d110_en_US_dedes.peLI.Antiphon2Verse2.source
 peLI.Antiphon2Verse2.text = pe.d110_en_US_dedes.peLI.Antiphon2Verse2.text
 
-peLI.Antiphon2Verse3.source = pe.d110_en_US_dedes.peLI.Antiphon2Verse3.source
 peLI.Antiphon2Verse3.text = pe.d110_en_US_dedes.peLI.Antiphon2Verse3.text
 
 peLI.Antiphon2.text = pe.d110_en_US_dedes.peLI.Antiphon2.text
 
-peLI.Antiphon3Verse1.source = pe.d110_en_US_dedes.peLI.Antiphon3Verse1.source
 peLI.Antiphon3Verse1.text = pe.d110_en_US_dedes.peLI.Antiphon3Verse1.text
 
-peLI.Antiphon3Verse2.source = pe.d110_en_US_dedes.peLI.Antiphon3Verse2.source
 peLI.Antiphon3Verse2.text = pe.d110_en_US_dedes.peLI.Antiphon3Verse2.text
 
-peLI.Antiphon3Verse3.source = pe.d110_en_US_dedes.peLI.Antiphon3Verse3.source
 peLI.Antiphon3Verse3.text = pe.d110_en_US_dedes.peLI.Antiphon3Verse3.text
 
-peLI.EntranceHymn.source = pe.d110_en_US_dedes.peLI.EntranceHymn.source
 peLI.EntranceHymn.text = pe.d110_en_US_dedes.peLI.EntranceHymn.text
 
 peLI.SeasonalKontakion.mode = pe.d110_en_US_dedes.peLI.SeasonalKontakion.mode
@@ -639,7 +629,6 @@ peLI.SeasonalKontakion.text = pe.d110_en_US_dedes.peLI.SeasonalKontakion.text
 peLI.TheotokosHymn.mode = pe.d110_en_US_dedes.peLI.TheotokosHymn.mode
 peLI.TheotokosHymn.text = pe.d110_en_US_dedes.peLI.TheotokosHymn.text
 
-peLI.CommunionHymn.source = pe.d110_en_US_dedes.peLI.CommunionHymn.source
 peLI.CommunionHymn.text = pe.d110_en_US_dedes.peLI.CommunionHymn.text
 
 peLI.AfterCommunion.mode = pe.d110_en_US_dedes.peLI.AfterCommunion.mode

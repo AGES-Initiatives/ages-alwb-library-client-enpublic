@@ -50,14 +50,12 @@ meVE.Aposticha1.mode = me.m12.d23_en_US_dedes.meVE.Aposticha1.mode
 meVE.Aposticha1.melody = me.m12.d23_en_US_dedes.meVE.Aposticha1.melody
 meVE.Aposticha1.text = me.m12.d23_en_US_dedes.meVE.Aposticha1.text
 
-meVE.ApostichaVerse2.source = me.m12.d23_en_US_dedes.meVE.ApostichaVerse2.source
 meVE.ApostichaVerse2.text = me.m12.d23_en_US_dedes.meVE.ApostichaVerse2.text
 
 meVE.Aposticha2.mode = me.m12.d23_en_US_dedes.meVE.Aposticha2.mode
 meVE.Aposticha2.melody = me.m12.d23_en_US_dedes.meVE.Aposticha2.melody
 meVE.Aposticha2.text = me.m12.d23_en_US_dedes.meVE.Aposticha2.text
 
-meVE.ApostichaVerse3.source = me.m12.d23_en_US_dedes.meVE.ApostichaVerse3.source
 meVE.ApostichaVerse3.text = me.m12.d23_en_US_dedes.meVE.ApostichaVerse3.text
 
 meVE.Aposticha3.mode = me.m12.d23_en_US_dedes.meVE.Aposticha3.mode
@@ -767,24 +765,20 @@ meMA.LaudsBoth.mode = me.m12.d23_en_US_dedes.meMA.LaudsBoth.mode
 meMA.LaudsBoth.melody = me.m12.d23_en_US_dedes.meMA.LaudsBoth.melody
 meMA.LaudsBoth.text = me.m12.d23_en_US_dedes.meMA.LaudsBoth.text
 
-meMA.LaudsSundayVerse1.source = me.m12.d23_en_US_dedes.meMA.LaudsSundayVerse1.source
 meMA.LaudsSundayVerse1.text = me.m12.d23_en_US_dedes.meMA.LaudsSundayVerse1.text
 
-meMA.LaudsSundayVerse2.source = me.m12.d23_en_US_dedes.meMA.LaudsSundayVerse2.source
 meMA.LaudsSundayVerse2.text = me.m12.d23_en_US_dedes.meMA.LaudsSundayVerse2.text
 
 meMA.Aposticha1.mode = me.m12.d23_en_US_dedes.meMA.Aposticha1.mode
 meMA.Aposticha1.melody = me.m12.d23_en_US_dedes.meMA.Aposticha1.melody
 meMA.Aposticha1.text = me.m12.d23_en_US_dedes.meMA.Aposticha1.text
 
-meMA.ApostichaVerse2.source = me.m12.d23_en_US_dedes.meMA.ApostichaVerse2.source
 meMA.ApostichaVerse2.text = me.m12.d23_en_US_dedes.meMA.ApostichaVerse2.text
 
 meMA.Aposticha2.mode = me.m12.d23_en_US_dedes.meMA.Aposticha2.mode
 meMA.Aposticha2.melody = me.m12.d23_en_US_dedes.meMA.Aposticha2.melody
 meMA.Aposticha2.text = me.m12.d23_en_US_dedes.meMA.Aposticha2.text
 
-meMA.ApostichaVerse3.source = me.m12.d23_en_US_dedes.meMA.ApostichaVerse3.source
 meMA.ApostichaVerse3.text = me.m12.d23_en_US_dedes.meMA.ApostichaVerse3.text
 
 meMA.Aposticha3.mode = me.m12.d23_en_US_dedes.meMA.Aposticha3.mode

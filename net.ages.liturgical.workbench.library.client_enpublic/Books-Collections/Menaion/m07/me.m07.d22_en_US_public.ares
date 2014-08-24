@@ -41,14 +41,12 @@ meVE.Aposticha1.mode = me.m07.d22_en_US_dedes.meVE.Aposticha1.mode
 meVE.Aposticha1.melody = me.m07.d22_en_US_dedes.meVE.Aposticha1.melody
 meVE.Aposticha1.text = me.m07.d22_en_US_dedes.meVE.Aposticha1.text
 
-meVE.ApostichaVerse2.source = me.m07.d22_en_US_dedes.meVE.ApostichaVerse2.source
 meVE.ApostichaVerse2.text = me.m07.d22_en_US_dedes.meVE.ApostichaVerse2.text
 
 meVE.Aposticha2.mode = me.m07.d22_en_US_dedes.meVE.Aposticha2.mode
 meVE.Aposticha2.melody = me.m07.d22_en_US_dedes.meVE.Aposticha2.melody
 meVE.Aposticha2.text = me.m07.d22_en_US_dedes.meVE.Aposticha2.text
 
-meVE.ApostichaVerse3.source = me.m07.d22_en_US_dedes.meVE.ApostichaVerse3.source
 meVE.ApostichaVerse3.text = me.m07.d22_en_US_dedes.meVE.ApostichaVerse3.text
 
 meVE.Aposticha3.mode = me.m07.d22_en_US_dedes.meVE.Aposticha3.mode
@@ -258,10 +256,8 @@ meMA.Exaposteilarion1.mode = me.m07.d22_en_US_dedes.meMA.Exaposteilarion1.mode
 meMA.Exaposteilarion1.melody = me.m07.d22_en_US_dedes.meMA.Exaposteilarion1.melody
 meMA.Exaposteilarion1.text = me.m07.d22_en_US_dedes.meMA.Exaposteilarion1.text
 
-meMA.LaudsSundayVerse1.source = me.m07.d22_en_US_dedes.meMA.LaudsSundayVerse1.source
 meMA.LaudsSundayVerse1.text = me.m07.d22_en_US_dedes.meMA.LaudsSundayVerse1.text
 
-meMA.LaudsSundayVerse2.source = me.m07.d22_en_US_dedes.meMA.LaudsSundayVerse2.source
 meMA.LaudsSundayVerse2.text = me.m07.d22_en_US_dedes.meMA.LaudsSundayVerse2.text
 
 meLI.SeasonalKontakion.mode = me.m07.d22_en_US_dedes.meLI.SeasonalKontakion.mode
@@ -270,13 +266,10 @@ meLI.SeasonalKontakion.text = me.m07.d22_en_US_dedes.meLI.SeasonalKontakion.text
 
 meLI.Alleluia.mode = me.m07.d22_en_US_dedes.meLI.Alleluia.mode
 
-meLI.AlleluiaVerse1.source = me.m07.d22_en_US_dedes.meLI.AlleluiaVerse1.source
 meLI.AlleluiaVerse1.text = me.m07.d22_en_US_dedes.meLI.AlleluiaVerse1.text
 
-meLI.AlleluiaVerse2.source = me.m07.d22_en_US_dedes.meLI.AlleluiaVerse2.source
 meLI.AlleluiaVerse2.text = me.m07.d22_en_US_dedes.meLI.AlleluiaVerse2.text
 
-meLI.CommunionHymn.source = me.m07.d22_en_US_dedes.meLI.CommunionHymn.source
 meLI.CommunionHymn.text = me.m07.d22_en_US_dedes.meLI.CommunionHymn.text
 
 meMegalynarion.text = me.m07.d22_en_US_dedes.meMegalynarion.text

@@ -485,10 +485,8 @@ meMA.LaudsStavrotheotokion.mode = me.m11.d07_en_US_dedes.meMA.LaudsStavrotheotok
 meMA.LaudsStavrotheotokion.melody = me.m11.d07_en_US_dedes.meMA.LaudsStavrotheotokion.melody
 meMA.LaudsStavrotheotokion.text = me.m11.d07_en_US_dedes.meMA.LaudsStavrotheotokion.text
 
-meMA.LaudsSundayVerse1.source = me.m11.d07_en_US_dedes.meMA.LaudsSundayVerse1.source
 meMA.LaudsSundayVerse1.text = me.m11.d07_en_US_dedes.meMA.LaudsSundayVerse1.text
 
-meMA.LaudsSundayVerse2.source = me.m11.d07_en_US_dedes.meMA.LaudsSundayVerse2.source
 meMA.LaudsSundayVerse2.text = me.m11.d07_en_US_dedes.meMA.LaudsSundayVerse2.text
 
 meLI.SeasonalKontakion.mode = me.m11.d07_en_US_dedes.meLI.SeasonalKontakion.mode

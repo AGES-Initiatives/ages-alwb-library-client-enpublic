@@ -37,7 +37,6 @@ trLI.CherubicHymnPart2.text = tr.d069_en_US_dedes.trLI.CherubicHymnPart2.text
 trLI.TheotokosHymn.mode = tr.d069_en_US_dedes.trLI.TheotokosHymn.mode
 trLI.TheotokosHymn.text = tr.d069_en_US_dedes.trLI.TheotokosHymn.text
 
-trLI.CommunionHymn.source = tr.d069_en_US_dedes.trLI.CommunionHymn.source
 trLI.CommunionHymn.text = tr.d069_en_US_dedes.trLI.CommunionHymn.text
 
 trLI.AfterCommunion.mode = tr.d069_en_US_dedes.trLI.AfterCommunion.mode
@@ -322,11 +321,9 @@ trHW.BeatitudesT.mode = tr.d069_en_US_dedes.trHW.BeatitudesT.mode
 trHW.BeatutidesT.melody = tr.d069_en_US_dedes.trHW.BeatutidesT.melody
 trHW.BeatitudesT.text = tr.d069_en_US_dedes.trHW.BeatitudesT.text
 
-trHW.Prokeimenon.source = tr.d069_en_US_dedes.trHW.Prokeimenon.source
 trHW.Prokeimenon.mode = tr.d069_en_US_dedes.trHW.Prokeimenon.mode
 trHW.Prokeimenon.text = tr.d069_en_US_dedes.trHW.Prokeimenon.text
 
-trHW.ProkeimenonVerse1.source = tr.d069_en_US_dedes.trHW.ProkeimenonVerse1.source
 trHW.ProkeimenonVerse1.text = tr.d069_en_US_dedes.trHW.ProkeimenonVerse1.text
 
 trMA.C1Poet = tr.d069_en_US_dedes.trMA.C1Poet
@@ -461,21 +458,18 @@ trMA.Aposticha1.mode = tr.d069_en_US_dedes.trMA.Aposticha1.mode
 trMA.Aposticha1.melody = tr.d069_en_US_dedes.trMA.Aposticha1.melody
 trMA.Aposticha1.text = tr.d069_en_US_dedes.trMA.Aposticha1.text
 
-trMA.ApostichaVerse2.source = tr.d069_en_US_dedes.trMA.ApostichaVerse2.source
 trMA.ApostichaVerse2.text = tr.d069_en_US_dedes.trMA.ApostichaVerse2.text
 
 trMA.Aposticha2.mode = tr.d069_en_US_dedes.trMA.Aposticha2.mode
 trMA.Aposticha2.melody = tr.d069_en_US_dedes.trMA.Aposticha2.melody
 trMA.Aposticha2.text = tr.d069_en_US_dedes.trMA.Aposticha2.text
 
-trMA.ApostichaVerse3.source = tr.d069_en_US_dedes.trMA.ApostichaVerse3.source
 trMA.ApostichaVerse3.text = tr.d069_en_US_dedes.trMA.ApostichaVerse3.text
 
 trMA.Aposticha3.mode = tr.d069_en_US_dedes.trMA.Aposticha3.mode
 trMA.Aposticha3.melody = tr.d069_en_US_dedes.trMA.Aposticha3.melody
 trMA.Aposticha3.text = tr.d069_en_US_dedes.trMA.Aposticha3.text
 
-trMA.ApostichaVerse4.source = tr.d069_en_US_dedes.trMA.ApostichaVerse4.source
 trMA.ApostichaVerse4.text = tr.d069_en_US_dedes.trMA.ApostichaVerse4.text
 
 trMA.Aposticha4.mode = tr.d069_en_US_dedes.trMA.Aposticha4.mode
@@ -508,14 +502,12 @@ trH1.Idiomelon1.mode = tr.d069_en_US_dedes.trH1.Idiomelon1.mode
 trH1.Idiomelon1.melody = tr.d069_en_US_dedes.trH1.Idiomelon1.melody
 trH1.Idiomelon1.text = tr.d069_en_US_dedes.trH1.Idiomelon1.text
 
-trH1.Verse2.source = tr.d069_en_US_dedes.trH1.Verse2.source
 trH1.Verse2.text = tr.d069_en_US_dedes.trH1.Verse2.text
 
 trH1.Idiomelon2.mode = tr.d069_en_US_dedes.trH1.Idiomelon2.mode
 trH1.Idiomelon2.melody = tr.d069_en_US_dedes.trH1.Idiomelon2.melody
 trH1.Idiomelon2.text = tr.d069_en_US_dedes.trH1.Idiomelon2.text
 
-trH1.Verse3.source = tr.d069_en_US_dedes.trH1.Verse3.source
 trH1.Verse3.text = tr.d069_en_US_dedes.trH1.Verse3.text
 
 trH1.Idiomelon3.mode = tr.d069_en_US_dedes.trH1.Idiomelon3.mode
@@ -537,14 +529,12 @@ trH3.Idiomelon1.mode = tr.d069_en_US_dedes.trH3.Idiomelon1.mode
 trH3.Idiomelon1.melody = tr.d069_en_US_dedes.trH3.Idiomelon1.melody
 trH3.Idiomelon1.text = tr.d069_en_US_dedes.trH3.Idiomelon1.text
 
-trH3.Verse2.source = tr.d069_en_US_dedes.trH3.Verse2.source
 trH3.Verse2.text = tr.d069_en_US_dedes.trH3.Verse2.text
 
 trH3.Idiomelon2.mode = tr.d069_en_US_dedes.trH3.Idiomelon2.mode
 trH3.Idiomelon2.melody = tr.d069_en_US_dedes.trH3.Idiomelon2.melody
 trH3.Idiomelon2.text = tr.d069_en_US_dedes.trH3.Idiomelon2.text
 
-trH3.Verse3.source = tr.d069_en_US_dedes.trH3.Verse3.source
 trH3.Verse3.text = tr.d069_en_US_dedes.trH3.Verse3.text
 
 trH3.Idiomelon3.mode = tr.d069_en_US_dedes.trH3.Idiomelon3.mode
@@ -566,14 +556,12 @@ trH6.Idiomelon1.mode = tr.d069_en_US_dedes.trH6.Idiomelon1.mode
 trH6.Idiomelon1.melody = tr.d069_en_US_dedes.trH6.Idiomelon1.melody
 trH6.Idiomelon1.text = tr.d069_en_US_dedes.trH6.Idiomelon1.text
 
-trH6.Verse2.source = tr.d069_en_US_dedes.trH6.Verse2.source
 trH6.Verse2.text = tr.d069_en_US_dedes.trH6.Verse2.text
 
 trH6.Idiomelon2.mode = tr.d069_en_US_dedes.trH6.Idiomelon2.mode
 trH6.Idiomelon2.melody = tr.d069_en_US_dedes.trH6.Idiomelon2.melody
 trH6.Idiomelon2.text = tr.d069_en_US_dedes.trH6.Idiomelon2.text
 
-trH6.Verse3.source = tr.d069_en_US_dedes.trH6.Verse3.source
 trH6.Verse3.text = tr.d069_en_US_dedes.trH6.Verse3.text
 
 trH6.Idiomelon3.mode = tr.d069_en_US_dedes.trH6.Idiomelon3.mode
@@ -595,14 +583,12 @@ trH9.Idiomelon1.mode = tr.d069_en_US_dedes.trH9.Idiomelon1.mode
 trH9.Idiomelon1.melody = tr.d069_en_US_dedes.trH9.Idiomelon1.melody
 trH9.Idiomelon1.text = tr.d069_en_US_dedes.trH9.Idiomelon1.text
 
-trH9.Verse2.source = tr.d069_en_US_dedes.trH9.Verse2.source
 trH9.Verse2.text = tr.d069_en_US_dedes.trH9.Verse2.text
 
 trH9.Idiomelon2.mode = tr.d069_en_US_dedes.trH9.Idiomelon2.mode
 trH9.Idiomelon2.melody = tr.d069_en_US_dedes.trH9.Idiomelon2.melody
 trH9.Idiomelon2.text = tr.d069_en_US_dedes.trH9.Idiomelon2.text
 
-trH9.Verse3.source = tr.d069_en_US_dedes.trH9.Verse3.source
 trH9.Verse3.text = tr.d069_en_US_dedes.trH9.Verse3.text
 
 trH9.Idiomelon3.rubric = tr.d069_en_US_dedes.trH9.Idiomelon3.rubric

@@ -21,10 +21,8 @@ trVE.Stichera03.melody = tr.d039_en_US_dedes.trVE.Stichera03.melody
 trVE.Stichera03.text = tr.d039_en_US_dedes.trVE.Stichera03.text
 
 trVE.Prokeimenon1.mode = tr.d039_en_US_dedes.trVE.Prokeimenon1.mode
-trVE.Prokeimenon1.source = tr.d039_en_US_dedes.trVE.Prokeimenon1.source
 trVE.Prokeimenon1.text = tr.d039_en_US_dedes.trVE.Prokeimenon1.text
 
-trVE.Prokeimenon1Verse1.source = tr.d039_en_US_dedes.trVE.Prokeimenon1Verse1.source
 trVE.Prokeimenon1Verse1.text = tr.d039_en_US_dedes.trVE.Prokeimenon1Verse1.text
 
 trVE.Reading1.book = tr.d039_en_US_dedes.trVE.Reading1.book
@@ -32,10 +30,8 @@ trVE.Reading1.chapverse = tr.d039_en_US_dedes.trVE.Reading1.chapverse
 trVE.Reading1.text = tr.d039_en_US_dedes.trVE.Reading1.text
 
 trVE.Prokeimenon2.mode = tr.d039_en_US_dedes.trVE.Prokeimenon2.mode
-trVE.Prokeimenon2.source = tr.d039_en_US_dedes.trVE.Prokeimenon2.source
 trVE.Prokeimenon2.text = tr.d039_en_US_dedes.trVE.Prokeimenon2.text
 
-trVE.Prokeimenon2Verse1.source = tr.d039_en_US_dedes.trVE.Prokeimenon2Verse1.source
 trVE.Prokeimenon2Verse1.text = tr.d039_en_US_dedes.trVE.Prokeimenon2Verse1.text
 
 trVE.Reading2.book = tr.d039_en_US_dedes.trVE.Reading2.book
@@ -241,10 +237,8 @@ trTE.Troparion.melody = tr.d039_en_US_dedes.trTE.Troparion.melody
 trTE.Troparion.text = tr.d039_en_US_dedes.trTE.Troparion.text
 
 trTE.Prokeimenon1.mode = tr.d039_en_US_dedes.trTE.Prokeimenon1.mode
-trTE.Prokeimenon1.source = tr.d039_en_US_dedes.trTE.Prokeimenon1.source
 trTE.Prokeimenon1.text = tr.d039_en_US_dedes.trTE.Prokeimenon1.text
 
-trTE.Prokeimenon1Verse.source = tr.d039_en_US_dedes.trTE.Prokeimenon1Verse.source
 trTE.Prokeimenon1Verse.text = tr.d039_en_US_dedes.trTE.Prokeimenon1Verse.text
 
 trTE.Reading1.book = tr.d039_en_US_dedes.trTE.Reading1.book
@@ -252,9 +246,7 @@ trTE.Reading1.chapverse = tr.d039_en_US_dedes.trTE.Reading1.chapverse
 trTE.Reading1.text = tr.d039_en_US_dedes.trTE.Reading1.text
 
 trTE.Prokeimenon2.mode = tr.d039_en_US_dedes.trTE.Prokeimenon2.mode
-trTE.Prokeimenon2.source = tr.d039_en_US_dedes.trTE.Prokeimenon2.source
 trTE.Prokeimenon2.text = tr.d039_en_US_dedes.trTE.Prokeimenon2.text
 
-trTE.Prokeimenon2Verse.source = tr.d039_en_US_dedes.trTE.Prokeimenon2Verse.source
 trTE.Prokeimenon2Verse.text = tr.d039_en_US_dedes.trTE.Prokeimenon2Verse.text
 

@@ -228,10 +228,8 @@ trTE.Troparion.melody = tr.d023_en_US_dedes.trTE.Troparion.melody
 trTE.Troparion.text = tr.d023_en_US_dedes.trTE.Troparion.text
 
 trTE.Prokeimenon1.mode = tr.d023_en_US_dedes.trTE.Prokeimenon1.mode
-trTE.Prokeimenon1.source = tr.d023_en_US_dedes.trTE.Prokeimenon1.source
 trTE.Prokeimenon1.text = tr.d023_en_US_dedes.trTE.Prokeimenon1.text
 
-trTE.Prokeimenon1Verse.source = tr.d023_en_US_dedes.trTE.Prokeimenon1Verse.source
 trTE.Prokeimenon1Verse.text = tr.d023_en_US_dedes.trTE.Prokeimenon1Verse.text
 
 trTE.Reading1.book = tr.d023_en_US_dedes.trTE.Reading1.book
@@ -239,9 +237,7 @@ trTE.Reading1.chapverse = tr.d023_en_US_dedes.trTE.Reading1.chapverse
 trTE.Reading1.text = tr.d023_en_US_dedes.trTE.Reading1.text
 
 trTE.Prokeimenon2.mode = tr.d023_en_US_dedes.trTE.Prokeimenon2.mode
-trTE.Prokeimenon2.source = tr.d023_en_US_dedes.trTE.Prokeimenon2.source
 trTE.Prokeimenon2.text = tr.d023_en_US_dedes.trTE.Prokeimenon2.text
 
-trTE.Prokeimenon2Verse.source = tr.d023_en_US_dedes.trTE.Prokeimenon2Verse.source
 trTE.Prokeimenon2Verse.text = tr.d023_en_US_dedes.trTE.Prokeimenon2Verse.text
 

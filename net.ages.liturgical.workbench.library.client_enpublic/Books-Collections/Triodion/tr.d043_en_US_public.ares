@@ -27,14 +27,12 @@ trSV.Aposticha1.mode = tr.d043_en_US_dedes.trSV.Aposticha1.mode
 trSV.Aposticha1.melody = tr.d043_en_US_dedes.trSV.Aposticha1.melody
 trSV.Aposticha1.text = tr.d043_en_US_dedes.trSV.Aposticha1.text
 
-trSV.ApostichaVerse2.source = tr.d043_en_US_dedes.trSV.ApostichaVerse2.source
 trSV.ApostichaVerse2.text = tr.d043_en_US_dedes.trSV.ApostichaVerse2.text
 
 trSV.Aposticha2.mode = tr.d043_en_US_dedes.trSV.Aposticha2.mode
 trSV.Aposticha2.melody = tr.d043_en_US_dedes.trSV.Aposticha2.melody
 trSV.Aposticha2.text = tr.d043_en_US_dedes.trSV.Aposticha2.text
 
-trSV.ApostichaVerse3.source = tr.d043_en_US_dedes.trSV.ApostichaVerse3.source
 trSV.ApostichaVerse3.text = tr.d043_en_US_dedes.trSV.ApostichaVerse3.text
 
 trSV.Aposticha3.mode = tr.d043_en_US_dedes.trSV.Aposticha3.mode
@@ -173,7 +171,6 @@ trMA.Ode3Kathisma1.mode = tr.d043_en_US_dedes.trMA.Ode3Kathisma1.mode
 trMA.Ode3Kathisma1.melody = tr.d043_en_US_dedes.trMA.Ode3Kathisma1.melody
 trMA.Ode3Kathisma1.text = tr.d043_en_US_dedes.trMA.Ode3Kathisma1.text
 
-trMA.Ode3Kathisma2Verse.source = tr.d043_en_US_dedes.trMA.Ode3Kathisma2Verse.source
 trMA.Ode3Kathisma2Verse.text = tr.d043_en_US_dedes.trMA.Ode3Kathisma2Verse.text
 
 trMA.Ode3Kathisma2.mode = tr.d043_en_US_dedes.trMA.Ode3Kathisma2.mode
@@ -439,14 +436,12 @@ trMA.Lauds1.mode = tr.d043_en_US_dedes.trMA.Lauds1.mode
 trMA.Lauds1.melody = tr.d043_en_US_dedes.trMA.Lauds1.melody
 trMA.Lauds1.text = tr.d043_en_US_dedes.trMA.Lauds1.text
 
-trMA.LaudsSundayVerse1.source = tr.d043_en_US_dedes.trMA.LaudsSundayVerse1.source
 trMA.LaudsSundayVerse1.text = tr.d043_en_US_dedes.trMA.LaudsSundayVerse1.text
 
 trMA.Lauds2.mode = tr.d043_en_US_dedes.trMA.Lauds2.mode
 trMA.Lauds2.melody = tr.d043_en_US_dedes.trMA.Lauds2.melody
 trMA.Lauds2.text = tr.d043_en_US_dedes.trMA.Lauds2.text
 
-trMA.LaudsSundayVerse2.source = tr.d043_en_US_dedes.trMA.LaudsSundayVerse2.source
 trMA.LaudsSundayVerse2.text = tr.d043_en_US_dedes.trMA.LaudsSundayVerse2.text
 
 trMA.Lauds3.mode = tr.d043_en_US_dedes.trMA.Lauds3.mode
@@ -478,42 +473,30 @@ trMA.AdditionalIdiomelonBoth.mode = tr.d043_en_US_dedes.trMA.AdditionalIdiomelon
 trMA.AdditionalIdiomelonBoth.melody = tr.d043_en_US_dedes.trMA.AdditionalIdiomelonBoth.melody
 trMA.AdditionalIdiomelonBoth.text = tr.d043_en_US_dedes.trMA.AdditionalIdiomelonBoth.text
 
-trLI.Antiphon1Verse1.source = tr.d043_en_US_dedes.trLI.Antiphon1Verse1.source
 trLI.Antiphon1Verse1.text = tr.d043_en_US_dedes.trLI.Antiphon1Verse1.text
 
-trLI.Antiphon1Verse2.source = tr.d043_en_US_dedes.trLI.Antiphon1Verse2.source
 trLI.Antiphon1Verse2.text = tr.d043_en_US_dedes.trLI.Antiphon1Verse2.text
 
-trLI.Antiphon1Verse3.source = tr.d043_en_US_dedes.trLI.Antiphon1Verse3.source
 trLI.Antiphon1Verse3.text = tr.d043_en_US_dedes.trLI.Antiphon1Verse3.text
 
-trLI.Antiphon1Verse4.source = tr.d043_en_US_dedes.trLI.Antiphon1Verse4.source
 trLI.Antiphon1Verse4.text = tr.d043_en_US_dedes.trLI.Antiphon1Verse4.text
 
-trLI.Antiphon2Verse1.source = tr.d043_en_US_dedes.trLI.Antiphon2Verse1.source
 trLI.Antiphon2Verse1.text = tr.d043_en_US_dedes.trLI.Antiphon2Verse1.text
 
-trLI.Antiphon2Verse2.source = tr.d043_en_US_dedes.trLI.Antiphon2Verse2.source
 trLI.Antiphon2Verse2.text = tr.d043_en_US_dedes.trLI.Antiphon2Verse2.text
 
-trLI.Antiphon2Verse3.source = tr.d043_en_US_dedes.trLI.Antiphon2Verse3.source
 trLI.Antiphon2Verse3.text = tr.d043_en_US_dedes.trLI.Antiphon2Verse3.text
 
-trLI.Antiphon2Verse4.source = tr.d043_en_US_dedes.trLI.Antiphon2Verse4.source
 trLI.Antiphon2Verse4.text = tr.d043_en_US_dedes.trLI.Antiphon2Verse4.text
 
 trLI.Antiphon2.text = tr.d043_en_US_dedes.trLI.Antiphon2.text
 
-trLI.Antiphon3Verse1.source = tr.d043_en_US_dedes.trLI.Antiphon3Verse1.source
 trLI.Antiphon3Verse1.text = tr.d043_en_US_dedes.trLI.Antiphon3Verse1.text
 
-trLI.Antiphon3Verse2.source = tr.d043_en_US_dedes.trLI.Antiphon3Verse2.source
 trLI.Antiphon3Verse2.text = tr.d043_en_US_dedes.trLI.Antiphon3Verse2.text
 
-trLI.Antiphon3Verse3.source = tr.d043_en_US_dedes.trLI.Antiphon3Verse3.source
 trLI.Antiphon3Verse3.text = tr.d043_en_US_dedes.trLI.Antiphon3Verse3.text
 
-trLI.EntranceHymn.source = tr.d043_en_US_dedes.trLI.EntranceHymn.source
 trLI.EntranceHymn.text = tr.d043_en_US_dedes.trLI.EntranceHymn.text
 
 trLI.SeasonalKontakion.mode = tr.d043_en_US_dedes.trLI.SeasonalKontakion.mode
@@ -523,7 +506,6 @@ trLI.SeasonalKontakion.text = tr.d043_en_US_dedes.trLI.SeasonalKontakion.text
 trLI.TheotokosHymn.mode = tr.d043_en_US_dedes.trLI.TheotokosHymn.mode
 trLI.TheotokosHymn.text = tr.d043_en_US_dedes.trLI.TheotokosHymn.text
 
-trLI.CommunionHymn.source = tr.d043_en_US_dedes.trLI.CommunionHymn.source
 trLI.CommunionHymn.text = tr.d043_en_US_dedes.trLI.CommunionHymn.text
 
 trLI.AfterCommunion.mode = tr.d043_en_US_dedes.trLI.AfterCommunion.mode

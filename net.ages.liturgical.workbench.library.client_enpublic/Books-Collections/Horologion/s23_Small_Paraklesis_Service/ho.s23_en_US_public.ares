@@ -188,10 +188,8 @@ hoCA.Kontakion.text = ho.s23_en_US_dedes.hoCA.Kontakion.text
 //First Antiphon Mode 4
 
 //R11
-hoCA.Prokeimenon.source = ho.s23_en_US_dedes.hoCA.Prokeimenon.source
 hoCA.Prokeimenon.text = ho.s23_en_US_dedes.hoCA.Prokeimenon.text
 
-hoCA.ProkVerse.source = ho.s23_en_US_dedes.hoCA.ProkVerse.source
 hoCA.ProkVerse.text = ho.s23_en_US_dedes.hoCA.ProkVerse.text
 
 //Gospel
@@ -209,7 +207,6 @@ hoCA.PostGospelBoth.mode = ho.s23_en_US_dedes.hoCA.PostGospelBoth.mode
 hoCA.PostGospelBoth.melody = ho.s23_en_US_dedes.hoCA.PostGospelBoth.melody
 hoCA.PostGospelBoth.text = ho.s23_en_US_dedes.hoCA.PostGospelBoth.text // need to link to first instance, e.g. Sunday Matins
 
-hoCA.PostGospelVerse.source = ho.s23_en_US_dedes.hoCA.PostGospelVerse.source
 hoCA.PostGospelVerse.text = ho.s23_en_US_dedes.hoCA.PostGospelVerse.text
 
 hoCA.PostGospelHymn1.mode = ho.s23_en_US_dedes.hoCA.PostGospelHymn1.mode

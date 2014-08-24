@@ -405,14 +405,12 @@ trMA.Lauds1.mode = tr.d057_en_US_dedes.trMA.Lauds1.mode
 trMA.Lauds1.melody = tr.d057_en_US_dedes.trMA.Lauds1.melody
 trMA.Lauds1.text = tr.d057_en_US_dedes.trMA.Lauds1.text
 
-trMA.LaudsSundayVerse1.source = tr.d057_en_US_dedes.trMA.LaudsSundayVerse1.source
 trMA.LaudsSundayVerse1.text = tr.d057_en_US_dedes.trMA.LaudsSundayVerse1.text
 
 trMA.Lauds2.mode = tr.d057_en_US_dedes.trMA.Lauds2.mode
 trMA.Lauds2.melody = tr.d057_en_US_dedes.trMA.Lauds2.melody
 trMA.Lauds2.text = tr.d057_en_US_dedes.trMA.Lauds2.text
 
-trMA.LaudsSundayVerse2.source = tr.d057_en_US_dedes.trMA.LaudsSundayVerse2.source
 trMA.LaudsSundayVerse2.text = tr.d057_en_US_dedes.trMA.LaudsSundayVerse2.text
 
 trMA.Lauds3.mode = tr.d057_en_US_dedes.trMA.Lauds3.mode

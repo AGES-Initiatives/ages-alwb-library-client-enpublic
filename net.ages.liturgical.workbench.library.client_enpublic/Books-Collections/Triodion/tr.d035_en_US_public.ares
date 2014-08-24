@@ -269,10 +269,8 @@ trLI.SeasonalKontakion.melody = tr.d035_en_US_dedes.trLI.SeasonalKontakion.melod
 trLI.SeasonalKontakion.text = tr.d035_en_US_dedes.trLI.SeasonalKontakion.text
 
 trLI.Prokeimenon.mode = tr.d035_en_US_dedes.trLI.Prokeimenon.mode
-trLI.Prokeimenon.source = tr.d035_en_US_dedes.trLI.Prokeimenon.source
 trLI.Prokeimenon.text = tr.d035_en_US_dedes.trLI.Prokeimenon.text
 
-trLI.ProkeimenonVerse.source = tr.d035_en_US_dedes.trLI.ProkeimenonVerse.source
 trLI.ProkeimenonVerse.text = tr.d035_en_US_dedes.trLI.ProkeimenonVerse.text
 
 trLI.Epistle.book = tr.d035_en_US_dedes.trLI.Epistle.book
@@ -281,19 +279,15 @@ trLI.Epistle.text = tr.d035_en_US_dedes.trLI.Epistle.text
 
 trLI.Alleluia.mode = tr.d035_en_US_dedes.trLI.Alleluia.mode
 
-trLI.AlleluiaVerse1.source = tr.d035_en_US_dedes.trLI.AlleluiaVerse1.source
 trLI.AlleluiaVerse1.text = tr.d035_en_US_dedes.trLI.AlleluiaVerse1.text
 
-trLI.AlleluiaVerse2.source = tr.d035_en_US_dedes.trLI.AlleluiaVerse2.source
 trLI.AlleluiaVerse2.text = tr.d035_en_US_dedes.trLI.AlleluiaVerse2.text
 
 trLI.Gospel.book = tr.d035_en_US_dedes.trLI.Gospel.book
 trLI.Gospel.chapverse = tr.d035_en_US_dedes.trLI.Gospel.chapverse
 trLI.Gospel.text = tr.d035_en_US_dedes.trLI.Gospel.text
 
-trLI.CommunionHymn.source = tr.d035_en_US_dedes.trLI.CommunionHymn.source
 trLI.CommunionHymn.text = tr.d035_en_US_dedes.trLI.CommunionHymn.text
 
-trLI.CommunionHymn2.source = tr.d035_en_US_dedes.trLI.CommunionHymn2.source
 trLI.CommunionHymn2.text = tr.d035_en_US_dedes.trLI.CommunionHymn2.text
 

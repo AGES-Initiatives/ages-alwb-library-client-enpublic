@@ -31,14 +31,12 @@ trSV.Aposticha1.mode = tr.d064_en_US_dedes.trSV.Aposticha1.mode
 trSV.Aposticha1.melody = tr.d064_en_US_dedes.trSV.Aposticha1.melody
 trSV.Aposticha1.text = tr.d064_en_US_dedes.trSV.Aposticha1.text
 
-trSV.ApostichaVerse2.source = tr.d064_en_US_dedes.trSV.ApostichaVerse2.source
 trSV.ApostichaVerse2.text = tr.d064_en_US_dedes.trSV.ApostichaVerse2.text
 
 trSV.Aposticha2.mode = tr.d064_en_US_dedes.trSV.Aposticha2.mode
 trSV.Aposticha2.melody = tr.d064_en_US_dedes.trSV.Aposticha2.melody
 trSV.Aposticha2.text = tr.d064_en_US_dedes.trSV.Aposticha2.text
 
-trSV.ApostichaVerse3.source = tr.d064_en_US_dedes.trSV.ApostichaVerse3.source
 trSV.ApostichaVerse3.text = tr.d064_en_US_dedes.trSV.ApostichaVerse3.text
 
 trSV.Aposticha3.mode = tr.d064_en_US_dedes.trSV.Aposticha3.mode
@@ -105,14 +103,12 @@ trVE.Aposticha1.mode = tr.d064_en_US_dedes.trVE.Aposticha1.mode
 trVE.Aposticha1.melody = tr.d064_en_US_dedes.trVE.Aposticha1.melody
 trVE.Aposticha1.text = tr.d064_en_US_dedes.trVE.Aposticha1.text
 
-trVE.ApostichaVerse2.source = tr.d064_en_US_dedes.trVE.ApostichaVerse2.source
 trVE.ApostichaVerse2.text = tr.d064_en_US_dedes.trVE.ApostichaVerse2.text
 
 trVE.Aposticha2.mode = tr.d064_en_US_dedes.trVE.Aposticha2.mode
 trVE.Aposticha2.melody = tr.d064_en_US_dedes.trVE.Aposticha2.melody
 trVE.Aposticha2.text = tr.d064_en_US_dedes.trVE.Aposticha2.text
 
-trVE.ApostichaVerse3.source = tr.d064_en_US_dedes.trVE.ApostichaVerse3.source
 trVE.ApostichaVerse3.text = tr.d064_en_US_dedes.trVE.ApostichaVerse3.text
 
 trVE.Aposticha3.mode = tr.d064_en_US_dedes.trVE.Aposticha3.mode
@@ -394,45 +390,32 @@ trMA.LaudsGlory.mode = tr.d064_en_US_dedes.trMA.LaudsGlory.mode
 trMA.LaudsGlory.melody = tr.d064_en_US_dedes.trMA.LaudsGlory.melody
 trMA.LaudsGlory.text = tr.d064_en_US_dedes.trMA.LaudsGlory.text
 
-trLI.Antiphon1Verse1.source = tr.d064_en_US_dedes.trLI.Antiphon1Verse1.source
 trLI.Antiphon1Verse1.text = tr.d064_en_US_dedes.trLI.Antiphon1Verse1.text
 
-trLI.Antiphon1Verse2.source = tr.d064_en_US_dedes.trLI.Antiphon1Verse2.source
 trLI.Antiphon1Verse2.text = tr.d064_en_US_dedes.trLI.Antiphon1Verse2.text
 
-trLI.Antiphon1Verse3.source = tr.d064_en_US_dedes.trLI.Antiphon1Verse3.source
 trLI.Antiphon1Verse3.text = tr.d064_en_US_dedes.trLI.Antiphon1Verse3.text
 
-trLI.Antiphon1Verse4.source = tr.d064_en_US_dedes.trLI.Antiphon1Verse4.source
 trLI.Antiphon1Verse4.text = tr.d064_en_US_dedes.trLI.Antiphon1Verse4.text
 
-trLI.Antiphon2Verse1.source = tr.d064_en_US_dedes.trLI.Antiphon2Verse1.source
 trLI.Antiphon2Verse1.text = tr.d064_en_US_dedes.trLI.Antiphon2Verse1.text
 
-trLI.Antiphon2Verse2.source = tr.d064_en_US_dedes.trLI.Antiphon2Verse2.source
 trLI.Antiphon2Verse2.text = tr.d064_en_US_dedes.trLI.Antiphon2Verse2.text
 
-trLI.Antiphon2Verse3.source = tr.d064_en_US_dedes.trLI.Antiphon2Verse3.source
 trLI.Antiphon2Verse3.text = tr.d064_en_US_dedes.trLI.Antiphon2Verse3.text
 
-trLI.Antiphon2Verse4.source = tr.d064_en_US_dedes.trLI.Antiphon2Verse4.source
 trLI.Antiphon2Verse4.text = tr.d064_en_US_dedes.trLI.Antiphon2Verse4.text
 
 trLI.Antiphon2.text = tr.d064_en_US_dedes.trLI.Antiphon2.text
 
-trLI.Antiphon3Verse1.source = tr.d064_en_US_dedes.trLI.Antiphon3Verse1.source
 trLI.Antiphon3Verse1.text = tr.d064_en_US_dedes.trLI.Antiphon3Verse1.text
 
-trLI.Antiphon3Verse2.source = tr.d064_en_US_dedes.trLI.Antiphon3Verse2.source
 trLI.Antiphon3Verse2.text = tr.d064_en_US_dedes.trLI.Antiphon3Verse2.text
 
-trLI.Antiphon3Verse3.source = tr.d064_en_US_dedes.trLI.Antiphon3Verse3.source
 trLI.Antiphon3Verse3.text = tr.d064_en_US_dedes.trLI.Antiphon3Verse3.text
 
-trLI.Antiphon3Verse4.source = tr.d064_en_US_dedes.trLI.Antiphon3Verse4.source
 trLI.Antiphon3Verse4.text = tr.d064_en_US_dedes.trLI.Antiphon3Verse4.text
 
-trLI.EntranceHymn.source = tr.d064_en_US_dedes.trLI.EntranceHymn.source
 trLI.EntranceHymn.text = tr.d064_en_US_dedes.trLI.EntranceHymn.text
 
 trLI.SeasonalKontakion.mode = tr.d064_en_US_dedes.trLI.SeasonalKontakion.mode
@@ -442,7 +425,6 @@ trLI.SeasonalKontakion.text = tr.d064_en_US_dedes.trLI.SeasonalKontakion.text
 trLI.TheotokosHymn.mode = tr.d064_en_US_dedes.trLI.TheotokosHymn.mode
 trLI.TheotokosHymn.text = tr.d064_en_US_dedes.trLI.TheotokosHymn.text
 
-trLI.CommunionHymn.source = tr.d064_en_US_dedes.trLI.CommunionHymn.source
 trLI.CommunionHymn.text = tr.d064_en_US_dedes.trLI.CommunionHymn.text
 
 trLI.AfterCommunion.mode = tr.d064_en_US_dedes.trLI.AfterCommunion.mode
