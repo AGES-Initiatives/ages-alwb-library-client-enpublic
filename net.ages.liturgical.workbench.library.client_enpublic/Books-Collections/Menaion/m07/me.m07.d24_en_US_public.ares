@@ -289,10 +289,8 @@ meMA.LaudsGlory.mode = me.m07.d24_en_US_dedes.meMA.LaudsGlory.mode
 meMA.LaudsGlory.melody = me.m07.d24_en_US_dedes.meMA.LaudsGlory.melody
 meMA.LaudsGlory.text = me.m07.d24_en_US_dedes.meMA.LaudsGlory.text
 
-meMA.LaudsSundayVerse1.source = me.m07.d24_en_US_dedes.meMA.LaudsSundayVerse1.source
 meMA.LaudsSundayVerse1.text = me.m07.d24_en_US_dedes.meMA.LaudsSundayVerse1.text
 
-meMA.LaudsSundayVerse2.source = me.m07.d24_en_US_dedes.meMA.LaudsSundayVerse2.source
 meMA.LaudsSundayVerse2.text = me.m07.d24_en_US_dedes.meMA.LaudsSundayVerse2.text
 
 meMA.LaudsTheotokion.mode = me.m07.d24_en_US_dedes.meMA.LaudsTheotokion.mode

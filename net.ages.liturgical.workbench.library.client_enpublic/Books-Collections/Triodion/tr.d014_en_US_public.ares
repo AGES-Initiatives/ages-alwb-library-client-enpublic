@@ -505,13 +505,10 @@ trLI.SeasonalKontakion.text = tr.d014_en_US_dedes.trLI.SeasonalKontakion.text
 
 trLI.Alleluia.mode = tr.d014_en_US_dedes.trLI.Alleluia.mode
 
-trLI.AlleluiaVerse1.source = tr.d014_en_US_dedes.trLI.AlleluiaVerse1.source
 trLI.AlleluiaVerse1.text = tr.d014_en_US_dedes.trLI.AlleluiaVerse1.text
 
-trLI.AlleluiaVerse2.source = tr.d014_en_US_dedes.trLI.AlleluiaVerse2.source
 trLI.AlleluiaVerse2.text = tr.d014_en_US_dedes.trLI.AlleluiaVerse2.text
 
-trLI.CommunionHymn.source = tr.d014_en_US_dedes.trLI.CommunionHymn.source
 trLI.CommunionHymn.text = tr.d014_en_US_dedes.trLI.CommunionHymn.text
 
 trMegalynarion.text = tr.d014_en_US_dedes.trMegalynarion.text

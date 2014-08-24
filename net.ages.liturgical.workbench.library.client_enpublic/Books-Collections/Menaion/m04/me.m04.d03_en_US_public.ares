@@ -295,13 +295,10 @@ meLI.SeasonalKontakion.text = me.m04.d03_en_US_dedes.meLI.SeasonalKontakion.text
 
 meLI.Alleluia.mode = me.m04.d03_en_US_dedes.meLI.Alleluia.mode
 
-meLI.AlleluiaVerse1.source = me.m04.d03_en_US_dedes.meLI.AlleluiaVerse1.source
 meLI.AlleluiaVerse1.text = me.m04.d03_en_US_dedes.meLI.AlleluiaVerse1.text
 
-meLI.AlleluiaVerse2.source = me.m04.d03_en_US_dedes.meLI.AlleluiaVerse2.source
 meLI.AlleluiaVerse2.text = me.m04.d03_en_US_dedes.meLI.AlleluiaVerse2.text
 
-meLI.CommunionHymn.source = me.m04.d03_en_US_dedes.meLI.CommunionHymn.source
 meLI.CommunionHymn.text = me.m04.d03_en_US_dedes.meLI.CommunionHymn.text
 
 meMegalynarion.text = me.m04.d03_en_US_dedes.meMegalynarion.text

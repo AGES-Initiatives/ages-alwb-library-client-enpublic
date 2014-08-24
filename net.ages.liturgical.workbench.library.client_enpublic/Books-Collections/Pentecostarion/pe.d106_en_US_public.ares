@@ -375,7 +375,6 @@ peMA.Exaposteilarion2.mode = pe.d106_en_US_dedes.peMA.Exaposteilarion2.mode
 peMA.Exaposteilarion2.melody = pe.d106_en_US_dedes.peMA.Exaposteilarion2.melody
 peMA.Exaposteilarion2.text = pe.d106_en_US_dedes.peMA.Exaposteilarion2.text
 
-peMA.LaudsVerse8.source = pe.d106_en_US_dedes.peMA.LaudsVerse8.source
 peMA.LaudsVerse8.text = pe.d106_en_US_dedes.peMA.LaudsVerse8.text
 
 peMA.Lauds8.mode = pe.d106_en_US_dedes.peMA.Lauds8.mode

@@ -40,21 +40,18 @@ trVE.Aposticha1.mode = tr.d070_en_US_dedes.trVE.Aposticha1.mode
 trVE.Aposticha1.melody = tr.d070_en_US_dedes.trVE.Aposticha1.melody
 trVE.Aposticha1.text = tr.d070_en_US_dedes.trVE.Aposticha1.text
 
-trVE.ApostichaVerse2.source = tr.d070_en_US_dedes.trVE.ApostichaVerse2.source
 trVE.ApostichaVerse2.text = tr.d070_en_US_dedes.trVE.ApostichaVerse2.text
 
 trVE.Aposticha2.mode = tr.d070_en_US_dedes.trVE.Aposticha2.mode
 trVE.Aposticha2.melody = tr.d070_en_US_dedes.trVE.Aposticha2.melody
 trVE.Aposticha2.text = tr.d070_en_US_dedes.trVE.Aposticha2.text
 
-trVE.ApostichaVerse3.source = tr.d070_en_US_dedes.trVE.ApostichaVerse3.source
 trVE.ApostichaVerse3.text = tr.d070_en_US_dedes.trVE.ApostichaVerse3.text
 
 trVE.Aposticha3.mode = tr.d070_en_US_dedes.trVE.Aposticha3.mode
 trVE.Aposticha3.melody = tr.d070_en_US_dedes.trVE.Aposticha3.melody
 trVE.Aposticha3.text = tr.d070_en_US_dedes.trVE.Aposticha3.text
 
-trVE.ApostichaVerse4.source = tr.d070_en_US_dedes.trVE.ApostichaVerse4.source
 trVE.ApostichaVerse4.text = tr.d070_en_US_dedes.trVE.ApostichaVerse4.text
 
 trVE.Aposticha4.mode = tr.d070_en_US_dedes.trVE.Aposticha4.mode
@@ -83,222 +80,149 @@ trHW.Encomia.title = tr.d070_en_US_dedes.trHW.Encomia.title
 
 trHW.Encomia100.title = tr.d070_en_US_dedes.trHW.Encomia100.title
 trHW.Encomia100.mode = tr.d070_en_US_dedes.trHW.Encomia100.mode
-trHW.Encomia100Verse.source = tr.d070_en_US_dedes.trHW.Encomia100Verse.source
 
-trHW.Encomia101Verse.source = tr.d070_en_UK_lash.trHW.Encomia101Verse.source
 trHW.Encomia101.text = tr.d070_en_UK_lash.trHW.Encomia101.text
 
-trHW.Encomia102Verse.source = tr.d070_en_UK_lash.trHW.Encomia102Verse.source
 trHW.Encomia102.text = tr.d070_en_UK_lash.trHW.Encomia102.text
 
-trHW.Encomia103Verse.source = tr.d070_en_UK_lash.trHW.Encomia103Verse.source
 trHW.Encomia103.text = tr.d070_en_UK_lash.trHW.Encomia103.text
 
-trHW.Encomia104Verse.source = tr.d070_en_UK_lash.trHW.Encomia104Verse.source
 trHW.Encomia104.text = tr.d070_en_UK_lash.trHW.Encomia104.text
 
-trHW.Encomia105Verse.source = tr.d070_en_UK_lash.trHW.Encomia105Verse.source
 trHW.Encomia105.text = tr.d070_en_UK_lash.trHW.Encomia105.text
 
-trHW.Encomia106Verse.source = tr.d070_en_UK_lash.trHW.Encomia106Verse.source
 trHW.Encomia106.text = tr.d070_en_UK_lash.trHW.Encomia106.text
 
-trHW.Encomia107Verse.source = tr.d070_en_UK_lash.trHW.Encomia107Verse.source
 trHW.Encomia107.text = tr.d070_en_UK_lash.trHW.Encomia107.text
 
-trHW.Encomia108Verse.source = tr.d070_en_UK_lash.trHW.Encomia108Verse.source
 trHW.Encomia108.text = tr.d070_en_UK_lash.trHW.Encomia108.text
 
-trHW.Encomia109Verse.source = tr.d070_en_UK_lash.trHW.Encomia109Verse.source
 trHW.Encomia109.text = tr.d070_en_UK_lash.trHW.Encomia109.text
 
-trHW.Encomia110Verse.source = tr.d070_en_UK_lash.trHW.Encomia110Verse.source
 trHW.Encomia110.text = tr.d070_en_UK_lash.trHW.Encomia110.text
 
-trHW.Encomia111Verse.source = tr.d070_en_UK_lash.trHW.Encomia111Verse.source
 trHW.Encomia111.text = tr.d070_en_UK_lash.trHW.Encomia111.text
 
-trHW.Encomia112Verse.source = tr.d070_en_UK_lash.trHW.Encomia112Verse.source
 trHW.Encomia112.text = tr.d070_en_UK_lash.trHW.Encomia112.text
 
-trHW.Encomia113Verse.source = tr.d070_en_UK_lash.trHW.Encomia113Verse.source
 trHW.Encomia113.text = tr.d070_en_UK_lash.trHW.Encomia113.text
 
-trHW.Encomia114Verse.source = tr.d070_en_UK_lash.trHW.Encomia114Verse.source
 trHW.Encomia114.text = tr.d070_en_UK_lash.trHW.Encomia114.text
 
-trHW.Encomia115Verse.source = tr.d070_en_UK_lash.trHW.Encomia115Verse.source
 trHW.Encomia115.text = tr.d070_en_UK_lash.trHW.Encomia115.text
 
-trHW.Encomia116Verse.source = tr.d070_en_UK_lash.trHW.Encomia116Verse.source
 trHW.Encomia116.text = tr.d070_en_UK_lash.trHW.Encomia116.text
 
-trHW.Encomia117Verse.source = tr.d070_en_UK_lash.trHW.Encomia117Verse.source
 trHW.Encomia117.text = tr.d070_en_UK_lash.trHW.Encomia117.text
 
-trHW.Encomia118Verse.source = tr.d070_en_UK_lash.trHW.Encomia118Verse.source
 trHW.Encomia118.text = tr.d070_en_UK_lash.trHW.Encomia118.text
 
-trHW.Encomia119Verse.source = tr.d070_en_UK_lash.trHW.Encomia119Verse.source
 trHW.Encomia119.text = tr.d070_en_UK_lash.trHW.Encomia119.text
 
-trHW.Encomia120Verse.source = tr.d070_en_UK_lash.trHW.Encomia120Verse.source
 trHW.Encomia120.text = tr.d070_en_UK_lash.trHW.Encomia120.text
 
-trHW.Encomia121Verse.source = tr.d070_en_UK_lash.trHW.Encomia121Verse.source
 trHW.Encomia121.text = tr.d070_en_UK_lash.trHW.Encomia121.text
 
-trHW.Encomia122Verse.source = tr.d070_en_UK_lash.trHW.Encomia122Verse.source
 trHW.Encomia122.text = tr.d070_en_UK_lash.trHW.Encomia122.text
 
-trHW.Encomia123Verse.source = tr.d070_en_UK_lash.trHW.Encomia123Verse.source
 trHW.Encomia123.text = tr.d070_en_UK_lash.trHW.Encomia123.text
 
-trHW.Encomia124Verse.source = tr.d070_en_UK_lash.trHW.Encomia124Verse.source
 trHW.Encomia124.text = tr.d070_en_UK_lash.trHW.Encomia124.text
 
-trHW.Encomia125Verse.source = tr.d070_en_UK_lash.trHW.Encomia125Verse.source
 trHW.Encomia125.text = tr.d070_en_UK_lash.trHW.Encomia125.text
 
-trHW.Encomia126Verse.source = tr.d070_en_UK_lash.trHW.Encomia126Verse.source
 trHW.Encomia126.text = tr.d070_en_UK_lash.trHW.Encomia126.text
 
-trHW.Encomia127Verse.source = tr.d070_en_UK_lash.trHW.Encomia127Verse.source
 trHW.Encomia127.text = tr.d070_en_UK_lash.trHW.Encomia127.text
 
-trHW.Encomia128Verse.source = tr.d070_en_UK_lash.trHW.Encomia128Verse.source
 trHW.Encomia128.text = tr.d070_en_UK_lash.trHW.Encomia128.text
 
-trHW.Encomia129Verse.source = tr.d070_en_UK_lash.trHW.Encomia129Verse.source
 trHW.Encomia129.text = tr.d070_en_UK_lash.trHW.Encomia129.text
 
-trHW.Encomia130Verse.source = tr.d070_en_UK_lash.trHW.Encomia130Verse.source
 trHW.Encomia130.text = tr.d070_en_UK_lash.trHW.Encomia130.text
 
-trHW.Encomia131Verse.source = tr.d070_en_UK_lash.trHW.Encomia131Verse.source
 trHW.Encomia131.text = tr.d070_en_UK_lash.trHW.Encomia131.text
 
-trHW.Encomia132Verse.source = tr.d070_en_UK_lash.trHW.Encomia132Verse.source
 trHW.Encomia132.text = tr.d070_en_UK_lash.trHW.Encomia132.text
 
-trHW.Encomia133Verse.source = tr.d070_en_UK_lash.trHW.Encomia133Verse.source
 trHW.Encomia133.text = tr.d070_en_UK_lash.trHW.Encomia133.text
 
-trHW.Encomia134Verse.source = tr.d070_en_UK_lash.trHW.Encomia134Verse.source
 trHW.Encomia134.text = tr.d070_en_UK_lash.trHW.Encomia134.text
 
-trHW.Encomia135Verse.source = tr.d070_en_UK_lash.trHW.Encomia135Verse.source
 trHW.Encomia135.text = tr.d070_en_UK_lash.trHW.Encomia135.text
 
-trHW.Encomia136Verse.source = tr.d070_en_UK_lash.trHW.Encomia136Verse.source
 trHW.Encomia136.text = tr.d070_en_UK_lash.trHW.Encomia136.text
 
-trHW.Encomia137Verse.source = tr.d070_en_UK_lash.trHW.Encomia137Verse.source
 trHW.Encomia137.text = tr.d070_en_UK_lash.trHW.Encomia137.text
 
-trHW.Encomia138Verse.source = tr.d070_en_UK_lash.trHW.Encomia138Verse.source
 trHW.Encomia138.text = tr.d070_en_UK_lash.trHW.Encomia138.text
 
-trHW.Encomia139Verse.source = tr.d070_en_UK_lash.trHW.Encomia139Verse.source
 trHW.Encomia139.text = tr.d070_en_UK_lash.trHW.Encomia139.text
 
-trHW.Encomia140Verse.source = tr.d070_en_UK_lash.trHW.Encomia140Verse.source
 trHW.Encomia140.text = tr.d070_en_UK_lash.trHW.Encomia140.text
 
-trHW.Encomia141Verse.source = tr.d070_en_UK_lash.trHW.Encomia141Verse.source
 trHW.Encomia141.text = tr.d070_en_UK_lash.trHW.Encomia141.text
 
-trHW.Encomia142Verse.source = tr.d070_en_UK_lash.trHW.Encomia142Verse.source
 trHW.Encomia142.text = tr.d070_en_UK_lash.trHW.Encomia142.text
 
-trHW.Encomia143Verse.source = tr.d070_en_UK_lash.trHW.Encomia143Verse.source
 trHW.Encomia143.text = tr.d070_en_UK_lash.trHW.Encomia143.text
 
-trHW.Encomia144Verse.source = tr.d070_en_UK_lash.trHW.Encomia144Verse.source
 trHW.Encomia144.text = tr.d070_en_UK_lash.trHW.Encomia144.text
 
-trHW.Encomia145Verse.source = tr.d070_en_UK_lash.trHW.Encomia145Verse.source
 trHW.Encomia145.text = tr.d070_en_UK_lash.trHW.Encomia145.text
 
-trHW.Encomia146Verse.source = tr.d070_en_UK_lash.trHW.Encomia146Verse.source
 trHW.Encomia146.text = tr.d070_en_UK_lash.trHW.Encomia146.text
 
-trHW.Encomia147Verse.source = tr.d070_en_UK_lash.trHW.Encomia147Verse.source
 trHW.Encomia147.text = tr.d070_en_UK_lash.trHW.Encomia147.text
 
-trHW.Encomia148Verse.source = tr.d070_en_UK_lash.trHW.Encomia148Verse.source
 trHW.Encomia148.text = tr.d070_en_UK_lash.trHW.Encomia148.text
 
-trHW.Encomia149Verse.source = tr.d070_en_UK_lash.trHW.Encomia149Verse.source
 trHW.Encomia149.text = tr.d070_en_UK_lash.trHW.Encomia149.text
 
-trHW.Encomia150Verse.source = tr.d070_en_UK_lash.trHW.Encomia150Verse.source
 trHW.Encomia150.text = tr.d070_en_UK_lash.trHW.Encomia150.text
 
-trHW.Encomia151Verse.source = tr.d070_en_UK_lash.trHW.Encomia151Verse.source
 trHW.Encomia151.text = tr.d070_en_UK_lash.trHW.Encomia151.text
 
-trHW.Encomia152Verse.source = tr.d070_en_UK_lash.trHW.Encomia152Verse.source
 trHW.Encomia152.text = tr.d070_en_UK_lash.trHW.Encomia152.text
 
-trHW.Encomia153Verse.source = tr.d070_en_UK_lash.trHW.Encomia153Verse.source
 trHW.Encomia153.text = tr.d070_en_UK_lash.trHW.Encomia153.text
 
-trHW.Encomia154Verse.source = tr.d070_en_UK_lash.trHW.Encomia154Verse.source
 trHW.Encomia154.text = tr.d070_en_UK_lash.trHW.Encomia154.text
 
-trHW.Encomia155Verse.source = tr.d070_en_UK_lash.trHW.Encomia155Verse.source
 trHW.Encomia155.text = tr.d070_en_UK_lash.trHW.Encomia155.text
 
-trHW.Encomia156Verse.source = tr.d070_en_UK_lash.trHW.Encomia156Verse.source
 trHW.Encomia156.text = tr.d070_en_UK_lash.trHW.Encomia156.text
 
-trHW.Encomia157Verse.source = tr.d070_en_UK_lash.trHW.Encomia157Verse.source
 trHW.Encomia157.text = tr.d070_en_UK_lash.trHW.Encomia157.text
 
-trHW.Encomia158Verse.source = tr.d070_en_UK_lash.trHW.Encomia158Verse.source
 trHW.Encomia158.text = tr.d070_en_UK_lash.trHW.Encomia158.text
 
-trHW.Encomia159Verse.source = tr.d070_en_UK_lash.trHW.Encomia159Verse.source
 trHW.Encomia159.text = tr.d070_en_UK_lash.trHW.Encomia159.text
 
-trHW.Encomia160Verse.source = tr.d070_en_UK_lash.trHW.Encomia160Verse.source
 trHW.Encomia160.text = tr.d070_en_UK_lash.trHW.Encomia160.text
 
-trHW.Encomia161Verse.source = tr.d070_en_UK_lash.trHW.Encomia161Verse.source
 trHW.Encomia161.text = tr.d070_en_UK_lash.trHW.Encomia161.text
 
-trHW.Encomia162Verse.source = tr.d070_en_UK_lash.trHW.Encomia162Verse.source
 trHW.Encomia162.text = tr.d070_en_UK_lash.trHW.Encomia162.text
 
-trHW.Encomia163Verse.source = tr.d070_en_UK_lash.trHW.Encomia163Verse.source
 trHW.Encomia163.text = tr.d070_en_UK_lash.trHW.Encomia163.text
 
-trHW.Encomia164Verse.source = tr.d070_en_UK_lash.trHW.Encomia164Verse.source
 trHW.Encomia164.text = tr.d070_en_UK_lash.trHW.Encomia164.text
 
-trHW.Encomia165Verse.source = tr.d070_en_UK_lash.trHW.Encomia165Verse.source
 trHW.Encomia165.text = tr.d070_en_UK_lash.trHW.Encomia165.text
 
-trHW.Encomia166Verse.source = tr.d070_en_UK_lash.trHW.Encomia166Verse.source
 trHW.Encomia166.text = tr.d070_en_UK_lash.trHW.Encomia166.text
 
-trHW.Encomia167Verse.source = tr.d070_en_UK_lash.trHW.Encomia167Verse.source
 trHW.Encomia167.text = tr.d070_en_UK_lash.trHW.Encomia167.text
 
-trHW.Encomia168Verse.source = tr.d070_en_UK_lash.trHW.Encomia168Verse.source
 trHW.Encomia168.text = tr.d070_en_UK_lash.trHW.Encomia168.text
 
-trHW.Encomia169Verse.source = tr.d070_en_UK_lash.trHW.Encomia169Verse.source
 trHW.Encomia169.text = tr.d070_en_UK_lash.trHW.Encomia169.text
 
-trHW.Encomia170Verse.source = tr.d070_en_UK_lash.trHW.Encomia170Verse.source
 trHW.Encomia170.text = tr.d070_en_UK_lash.trHW.Encomia170.text
 
-trHW.Encomia171Verse.source = tr.d070_en_UK_lash.trHW.Encomia171Verse.source
 trHW.Encomia171.text = tr.d070_en_UK_lash.trHW.Encomia171.text
 
-trHW.Encomia172Verse.source = tr.d070_en_UK_lash.trHW.Encomia172Verse.source
 trHW.Encomia172.text = tr.d070_en_UK_lash.trHW.Encomia172.text
 
 //trHW.Encomia1TrVerse.text = tr.d070_en_UK_lash.trHW.Encomia1TrVerse.text
@@ -314,181 +238,122 @@ trHW.Encomia200.mode = tr.d070_en_UK_lash.trHW.Encomia200.mode
 
 trHW.Encomia201.text = tr.d070_en_UK_lash.trHW.Encomia201.text
 
-trHW.Encomia202Verse.source = tr.d070_en_UK_lash.trHW.Encomia202Verse.source
 trHW.Encomia202.text = tr.d070_en_UK_lash.trHW.Encomia202.text
 
-trHW.Encomia203Verse.source = tr.d070_en_UK_lash.trHW.Encomia203Verse.source
 trHW.Encomia203.text = tr.d070_en_UK_lash.trHW.Encomia203.text
 
-trHW.Encomia204Verse.source = tr.d070_en_UK_lash.trHW.Encomia204Verse.source
 trHW.Encomia204.text = tr.d070_en_UK_lash.trHW.Encomia204.text
 
-trHW.Encomia205Verse.source = tr.d070_en_UK_lash.trHW.Encomia205Verse.source
 trHW.Encomia205.text = tr.d070_en_UK_lash.trHW.Encomia205.text
 
-trHW.Encomia206Verse.source = tr.d070_en_UK_lash.trHW.Encomia206Verse.source
 trHW.Encomia206.text = tr.d070_en_UK_lash.trHW.Encomia206.text
 
-trHW.Encomia207Verse.source = tr.d070_en_UK_lash.trHW.Encomia207Verse.source
 trHW.Encomia207.text = tr.d070_en_UK_lash.trHW.Encomia207.text
 
-trHW.Encomia208Verse.source = tr.d070_en_UK_lash.trHW.Encomia208Verse.source
 trHW.Encomia208.text = tr.d070_en_UK_lash.trHW.Encomia208.text
 
-trHW.Encomia209Verse.source = tr.d070_en_UK_lash.trHW.Encomia209Verse.source
 trHW.Encomia209.text = tr.d070_en_UK_lash.trHW.Encomia209.text
 
-trHW.Encomia210Verse.source = tr.d070_en_UK_lash.trHW.Encomia210Verse.source
 trHW.Encomia210.text = tr.d070_en_UK_lash.trHW.Encomia210.text
 
-trHW.Encomia211Verse.source = tr.d070_en_UK_lash.trHW.Encomia211Verse.source
 trHW.Encomia211.text = tr.d070_en_UK_lash.trHW.Encomia211.text
 
-trHW.Encomia212Verse.source = tr.d070_en_UK_lash.trHW.Encomia212Verse.source
 trHW.Encomia212.text = tr.d070_en_UK_lash.trHW.Encomia212.text
 
-trHW.Encomia213Verse.source = tr.d070_en_UK_lash.trHW.Encomia213Verse.source
 trHW.Encomia213.text = tr.d070_en_UK_lash.trHW.Encomia213.text
 
-trHW.Encomia214Verse.source = tr.d070_en_UK_lash.trHW.Encomia214Verse.source
 trHW.Encomia214.text = tr.d070_en_UK_lash.trHW.Encomia214.text
 
-trHW.Encomia215Verse.source = tr.d070_en_UK_lash.trHW.Encomia215Verse.source
 trHW.Encomia215.text = tr.d070_en_UK_lash.trHW.Encomia215.text
 
-trHW.Encomia216Verse.source = tr.d070_en_UK_lash.trHW.Encomia216Verse.source
 trHW.Encomia216.text = tr.d070_en_UK_lash.trHW.Encomia216.text
 
-trHW.Encomia217Verse.source = tr.d070_en_UK_lash.trHW.Encomia217Verse.source
 trHW.Encomia217.text = tr.d070_en_UK_lash.trHW.Encomia217.text
 
-trHW.Encomia218Verse.source = tr.d070_en_UK_lash.trHW.Encomia218Verse.source
 trHW.Encomia218.text = tr.d070_en_UK_lash.trHW.Encomia218.text
 
-trHW.Encomia219Verse.source = tr.d070_en_UK_lash.trHW.Encomia219Verse.source
 trHW.Encomia219.text = tr.d070_en_UK_lash.trHW.Encomia219.text
 
-trHW.Encomia220Verse.source = tr.d070_en_UK_lash.trHW.Encomia220Verse.source
 trHW.Encomia220.text = tr.d070_en_UK_lash.trHW.Encomia220.text
 
-trHW.Encomia221Verse.source = tr.d070_en_UK_lash.trHW.Encomia221Verse.source
 trHW.Encomia221.text = tr.d070_en_UK_lash.trHW.Encomia221.text
 
-trHW.Encomia222Verse.source = tr.d070_en_UK_lash.trHW.Encomia222Verse.source
 trHW.Encomia222.text = tr.d070_en_UK_lash.trHW.Encomia222.text
 
-trHW.Encomia223Verse.source = tr.d070_en_UK_lash.trHW.Encomia223Verse.source
 trHW.Encomia223.text = tr.d070_en_UK_lash.trHW.Encomia223.text
 
-trHW.Encomia224Verse.source = tr.d070_en_UK_lash.trHW.Encomia224Verse.source
 trHW.Encomia224.text = tr.d070_en_UK_lash.trHW.Encomia224.text
 
-trHW.Encomia225Verse.source = tr.d070_en_UK_lash.trHW.Encomia225Verse.source
 trHW.Encomia225.text = tr.d070_en_UK_lash.trHW.Encomia225.text
 
-trHW.Encomia226Verse.source = tr.d070_en_UK_lash.trHW.Encomia226Verse.source
 trHW.Encomia226.text = tr.d070_en_UK_lash.trHW.Encomia226.text
 
-trHW.Encomia227Verse.source = tr.d070_en_UK_lash.trHW.Encomia227Verse.source
 trHW.Encomia227.text = tr.d070_en_UK_lash.trHW.Encomia227.text
 
-trHW.Encomia228Verse.source = tr.d070_en_UK_lash.trHW.Encomia228Verse.source
 trHW.Encomia228.text = tr.d070_en_UK_lash.trHW.Encomia228.text
 
-trHW.Encomia229Verse.source = tr.d070_en_UK_lash.trHW.Encomia229Verse.source
 trHW.Encomia229.text = tr.d070_en_UK_lash.trHW.Encomia229.text
 
-trHW.Encomia230Verse.source = tr.d070_en_UK_lash.trHW.Encomia230Verse.source
 trHW.Encomia230.text = tr.d070_en_UK_lash.trHW.Encomia230.text
 
-trHW.Encomia231Verse.source = tr.d070_en_UK_lash.trHW.Encomia231Verse.source
 trHW.Encomia231.text = tr.d070_en_UK_lash.trHW.Encomia231.text
 
-trHW.Encomia232Verse.source = tr.d070_en_UK_lash.trHW.Encomia232Verse.source
 trHW.Encomia232.text = tr.d070_en_UK_lash.trHW.Encomia232.text
 
-trHW.Encomia233Verse.source = tr.d070_en_UK_lash.trHW.Encomia233Verse.source
 trHW.Encomia233.text = tr.d070_en_UK_lash.trHW.Encomia233.text
 
-trHW.Encomia234Verse.source = tr.d070_en_UK_lash.trHW.Encomia234Verse.source
 trHW.Encomia234.text = tr.d070_en_UK_lash.trHW.Encomia234.text
 
-trHW.Encomia235Verse.source = tr.d070_en_UK_lash.trHW.Encomia235Verse.source
 trHW.Encomia235.text = tr.d070_en_UK_lash.trHW.Encomia235.text
 
-trHW.Encomia236Verse.source = tr.d070_en_UK_lash.trHW.Encomia236Verse.source
 trHW.Encomia236.text = tr.d070_en_UK_lash.trHW.Encomia236.text
 
-trHW.Encomia237Verse.source = tr.d070_en_UK_lash.trHW.Encomia237Verse.source
 trHW.Encomia237.text = tr.d070_en_UK_lash.trHW.Encomia237.text
 
-trHW.Encomia238Verse.source = tr.d070_en_UK_lash.trHW.Encomia238Verse.source
 trHW.Encomia238.text = tr.d070_en_UK_lash.trHW.Encomia238.text
 
-trHW.Encomia239Verse.source = tr.d070_en_UK_lash.trHW.Encomia239Verse.source
 trHW.Encomia239.text = tr.d070_en_UK_lash.trHW.Encomia239.text
 
-trHW.Encomia240Verse.source = tr.d070_en_UK_lash.trHW.Encomia240Verse.source
 trHW.Encomia240.text = tr.d070_en_UK_lash.trHW.Encomia240.text
 
-trHW.Encomia241Verse.source = tr.d070_en_UK_lash.trHW.Encomia241Verse.source
 trHW.Encomia241.text = tr.d070_en_UK_lash.trHW.Encomia241.text
 
-trHW.Encomia242Verse.source = tr.d070_en_UK_lash.trHW.Encomia242Verse.source
 trHW.Encomia242.text = tr.d070_en_UK_lash.trHW.Encomia242.text
 
-trHW.Encomia243Verse.source = tr.d070_en_UK_lash.trHW.Encomia243Verse.source
 trHW.Encomia243.text = tr.d070_en_UK_lash.trHW.Encomia243.text
 
-trHW.Encomia244Verse.source = tr.d070_en_UK_lash.trHW.Encomia244Verse.source
 trHW.Encomia244.text = tr.d070_en_UK_lash.trHW.Encomia244.text
 
-trHW.Encomia245Verse.source = tr.d070_en_UK_lash.trHW.Encomia245Verse.source
 trHW.Encomia245.text = tr.d070_en_UK_lash.trHW.Encomia245.text
 
-trHW.Encomia246Verse.source = tr.d070_en_UK_lash.trHW.Encomia246Verse.source
 trHW.Encomia246.text = tr.d070_en_UK_lash.trHW.Encomia246.text
 
-trHW.Encomia247Verse.source = tr.d070_en_UK_lash.trHW.Encomia247Verse.source
 trHW.Encomia247.text = tr.d070_en_UK_lash.trHW.Encomia247.text
 
-trHW.Encomia248Verse.source = tr.d070_en_UK_lash.trHW.Encomia248Verse.source
 trHW.Encomia248.text = tr.d070_en_UK_lash.trHW.Encomia248.text
 
-trHW.Encomia249Verse.source = tr.d070_en_UK_lash.trHW.Encomia249Verse.source
 trHW.Encomia249.text = tr.d070_en_UK_lash.trHW.Encomia249.text
 
-trHW.Encomia250Verse.source = tr.d070_en_UK_lash.trHW.Encomia250Verse.source
 trHW.Encomia250.text = tr.d070_en_UK_lash.trHW.Encomia250.text
 
-trHW.Encomia251Verse.source = tr.d070_en_UK_lash.trHW.Encomia251Verse.source
 trHW.Encomia251.text = tr.d070_en_UK_lash.trHW.Encomia251.text
 
-trHW.Encomia252Verse.source = tr.d070_en_UK_lash.trHW.Encomia252Verse.source
 trHW.Encomia252.text = tr.d070_en_UK_lash.trHW.Encomia252.text
 
-trHW.Encomia253Verse.source = tr.d070_en_UK_lash.trHW.Encomia253Verse.source
 trHW.Encomia253.text = tr.d070_en_UK_lash.trHW.Encomia253.text
 
-trHW.Encomia254Verse.source = tr.d070_en_UK_lash.trHW.Encomia254Verse.source
 trHW.Encomia254.text = tr.d070_en_UK_lash.trHW.Encomia254.text
 
-trHW.Encomia255Verse.source = tr.d070_en_UK_lash.trHW.Encomia255Verse.source
 trHW.Encomia255.text = tr.d070_en_UK_lash.trHW.Encomia255.text
 
-trHW.Encomia256Verse.source = tr.d070_en_UK_lash.trHW.Encomia256Verse.source
 trHW.Encomia256.text = tr.d070_en_UK_lash.trHW.Encomia256.text
 
-trHW.Encomia257Verse.source = tr.d070_en_UK_lash.trHW.Encomia257Verse.source
 trHW.Encomia257.text = tr.d070_en_UK_lash.trHW.Encomia257.text
 
-trHW.Encomia258Verse.source = tr.d070_en_UK_lash.trHW.Encomia258Verse.source
 trHW.Encomia258.text = tr.d070_en_UK_lash.trHW.Encomia258.text
 
-trHW.Encomia259Verse.source = tr.d070_en_UK_lash.trHW.Encomia259Verse.source
 trHW.Encomia259.text = tr.d070_en_UK_lash.trHW.Encomia259.text
 
-trHW.Encomia260Verse.source = tr.d070_en_UK_lash.trHW.Encomia260Verse.source
 trHW.Encomia260.text = tr.d070_en_UK_lash.trHW.Encomia260.text
 
 //trHW.Encomia2TrVerse.text = tr.d070_en_UK_lash.trHW.Encomia2TrVerse.text
@@ -504,139 +369,94 @@ trHW.Encomia300.mode = tr.d070_en_UK_lash.trHW.Encomia300.mode
 
 trHW.Encomia301.text = tr.d070_en_UK_lash.trHW.Encomia301.text
 
-trHW.Encomia302Verse.source = tr.d070_en_UK_lash.trHW.Encomia302Verse.source
 trHW.Encomia302.text = tr.d070_en_UK_lash.trHW.Encomia302.text
 
-trHW.Encomia303Verse.source = tr.d070_en_UK_lash.trHW.Encomia303Verse.source
 trHW.Encomia303.text = tr.d070_en_UK_lash.trHW.Encomia303.text
 
-trHW.Encomia304Verse.source = tr.d070_en_UK_lash.trHW.Encomia304Verse.source
 trHW.Encomia304.text = tr.d070_en_UK_lash.trHW.Encomia304.text
 
-trHW.Encomia305Verse.source = tr.d070_en_UK_lash.trHW.Encomia305Verse.source
 trHW.Encomia305.text = tr.d070_en_UK_lash.trHW.Encomia305.text
 
-trHW.Encomia306Verse.source = tr.d070_en_UK_lash.trHW.Encomia306Verse.source
 trHW.Encomia306.text = tr.d070_en_UK_lash.trHW.Encomia306.text
 
-trHW.Encomia307Verse.source = tr.d070_en_UK_lash.trHW.Encomia307Verse.source
 trHW.Encomia307.text = tr.d070_en_UK_lash.trHW.Encomia307.text
 
-trHW.Encomia308Verse.source = tr.d070_en_UK_lash.trHW.Encomia308Verse.source
 trHW.Encomia308.text = tr.d070_en_UK_lash.trHW.Encomia308.text
 
-trHW.Encomia309Verse.source = tr.d070_en_UK_lash.trHW.Encomia309Verse.source
 trHW.Encomia309.text = tr.d070_en_UK_lash.trHW.Encomia309.text
 
-trHW.Encomia310Verse.source = tr.d070_en_UK_lash.trHW.Encomia310Verse.source
 trHW.Encomia310.text = tr.d070_en_UK_lash.trHW.Encomia310.text
 
-trHW.Encomia311Verse.source = tr.d070_en_UK_lash.trHW.Encomia311Verse.source
 trHW.Encomia311.text = tr.d070_en_UK_lash.trHW.Encomia311.text
 
-trHW.Encomia312Verse.source = tr.d070_en_UK_lash.trHW.Encomia312Verse.source
 trHW.Encomia312.text = tr.d070_en_UK_lash.trHW.Encomia312.text
 
-trHW.Encomia313Verse.source = tr.d070_en_UK_lash.trHW.Encomia313Verse.source
 trHW.Encomia313.text = tr.d070_en_UK_lash.trHW.Encomia313.text
 
-trHW.Encomia314Verse.source = tr.d070_en_UK_lash.trHW.Encomia314Verse.source
 trHW.Encomia314.text = tr.d070_en_UK_lash.trHW.Encomia314.text
 
-trHW.Encomia315Verse.source = tr.d070_en_UK_lash.trHW.Encomia315Verse.source
 trHW.Encomia315.text = tr.d070_en_UK_lash.trHW.Encomia315.text
 
-trHW.Encomia316Verse.source = tr.d070_en_UK_lash.trHW.Encomia316Verse.source
 trHW.Encomia316.text = tr.d070_en_UK_lash.trHW.Encomia316.text
 
-trHW.Encomia317Verse.source = tr.d070_en_UK_lash.trHW.Encomia317Verse.source
 trHW.Encomia317.text = tr.d070_en_UK_lash.trHW.Encomia317.text
 
-trHW.Encomia318Verse.source = tr.d070_en_UK_lash.trHW.Encomia318Verse.source
 trHW.Encomia318.text = tr.d070_en_UK_lash.trHW.Encomia318.text
 
-trHW.Encomia319Verse.source = tr.d070_en_UK_lash.trHW.Encomia319Verse.source
 trHW.Encomia319.text = tr.d070_en_UK_lash.trHW.Encomia319.text
 
-trHW.Encomia320Verse.source = tr.d070_en_UK_lash.trHW.Encomia320Verse.source
 trHW.Encomia320.text = tr.d070_en_UK_lash.trHW.Encomia320.text
 
-trHW.Encomia321Verse.source = tr.d070_en_UK_lash.trHW.Encomia321Verse.source
 trHW.Encomia321.text = tr.d070_en_UK_lash.trHW.Encomia321.text
 
-trHW.Encomia322Verse.source = tr.d070_en_UK_lash.trHW.Encomia322Verse.source
 trHW.Encomia322.text = tr.d070_en_UK_lash.trHW.Encomia322.text
 
-trHW.Encomia323Verse.source = tr.d070_en_UK_lash.trHW.Encomia323Verse.source
 trHW.Encomia323.text = tr.d070_en_UK_lash.trHW.Encomia323.text
 
-trHW.Encomia324Verse.source = tr.d070_en_UK_lash.trHW.Encomia324Verse.source
 trHW.Encomia324.text = tr.d070_en_UK_lash.trHW.Encomia324.text
 
-trHW.Encomia325Verse.source = tr.d070_en_UK_lash.trHW.Encomia325Verse.source
 trHW.Encomia325.text = tr.d070_en_UK_lash.trHW.Encomia325.text
 
-trHW.Encomia326Verse.source = tr.d070_en_UK_lash.trHW.Encomia326Verse.source
 trHW.Encomia326.text = tr.d070_en_UK_lash.trHW.Encomia326.text
 
-trHW.Encomia327Verse.source = tr.d070_en_UK_lash.trHW.Encomia327Verse.source
 trHW.Encomia327.text = tr.d070_en_UK_lash.trHW.Encomia327.text
 
-trHW.Encomia328Verse.source = tr.d070_en_UK_lash.trHW.Encomia328Verse.source
 trHW.Encomia328.text = tr.d070_en_UK_lash.trHW.Encomia328.text
 
-trHW.Encomia329Verse.source = tr.d070_en_UK_lash.trHW.Encomia329Verse.source
 trHW.Encomia329.text = tr.d070_en_UK_lash.trHW.Encomia329.text
 
-trHW.Encomia330Verse.source = tr.d070_en_UK_lash.trHW.Encomia330Verse.source
 trHW.Encomia330.text = tr.d070_en_UK_lash.trHW.Encomia330.text
 
-trHW.Encomia331Verse.source = tr.d070_en_UK_lash.trHW.Encomia331Verse.source
 trHW.Encomia331.text = tr.d070_en_UK_lash.trHW.Encomia331.text
 
-trHW.Encomia332Verse.source = tr.d070_en_UK_lash.trHW.Encomia332Verse.source
 trHW.Encomia332.text = tr.d070_en_UK_lash.trHW.Encomia332.text
 
-trHW.Encomia333Verse.source = tr.d070_en_UK_lash.trHW.Encomia333Verse.source
 trHW.Encomia333.text = tr.d070_en_UK_lash.trHW.Encomia333.text
 
-trHW.Encomia334Verse.source = tr.d070_en_UK_lash.trHW.Encomia334Verse.source
 trHW.Encomia334.text = tr.d070_en_UK_lash.trHW.Encomia334.text
 
-trHW.Encomia335Verse.source = tr.d070_en_UK_lash.trHW.Encomia335Verse.source
 trHW.Encomia335.text = tr.d070_en_UK_lash.trHW.Encomia335.text
 
-trHW.Encomia336Verse.source = tr.d070_en_UK_lash.trHW.Encomia336Verse.source
 trHW.Encomia336.text = tr.d070_en_UK_lash.trHW.Encomia336.text
 
-trHW.Encomia337Verse.source = tr.d070_en_UK_lash.trHW.Encomia337Verse.source
 trHW.Encomia337.text = tr.d070_en_UK_lash.trHW.Encomia337.text
 
-trHW.Encomia338Verse.source = tr.d070_en_UK_lash.trHW.Encomia338Verse.source
 trHW.Encomia338.text = tr.d070_en_UK_lash.trHW.Encomia338.text
 
-trHW.Encomia339Verse.source = tr.d070_en_UK_lash.trHW.Encomia339Verse.source
 trHW.Encomia339.text = tr.d070_en_UK_lash.trHW.Encomia339.text
 
-trHW.Encomia340Verse.source = tr.d070_en_UK_lash.trHW.Encomia340Verse.source
 trHW.Encomia340.text = tr.d070_en_UK_lash.trHW.Encomia340.text
 
-trHW.Encomia341Verse.source = tr.d070_en_UK_lash.trHW.Encomia341Verse.source
 trHW.Encomia341.text = tr.d070_en_UK_lash.trHW.Encomia341.text
 
-trHW.Encomia342Verse.source = tr.d070_en_UK_lash.trHW.Encomia342Verse.source
 trHW.Encomia342.text = tr.d070_en_UK_lash.trHW.Encomia342.text
 
-trHW.Encomia343Verse.source = tr.d070_en_UK_lash.trHW.Encomia343Verse.source
 trHW.Encomia343.text = tr.d070_en_UK_lash.trHW.Encomia343.text
 
-trHW.Encomia344Verse.source = tr.d070_en_UK_lash.trHW.Encomia344Verse.source
 trHW.Encomia344.text = tr.d070_en_UK_lash.trHW.Encomia344.text
 
-trHW.Encomia345Verse.source = tr.d070_en_UK_lash.trHW.Encomia345Verse.source
 trHW.Encomia345.text = tr.d070_en_UK_lash.trHW.Encomia345.text
 
-trHW.Encomia346Verse.source = tr.d070_en_UK_lash.trHW.Encomia346Verse.source
 trHW.Encomia346.text = tr.d070_en_UK_lash.trHW.Encomia346.text
 
 //trHW.Encomia3TrVerse.text = tr.d070_en_UK_lash.trHW.Encomia3TrVerse.text

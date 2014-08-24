@@ -284,10 +284,8 @@ meMA.ExapTheotokion.mode = me.m11.d27_en_US_dedes.meMA.ExapTheotokion.mode
 meMA.ExapTheotokion.melody = me.m11.d27_en_US_dedes.meMA.ExapTheotokion.melody
 meMA.ExapTheotokion.text = me.m11.d27_en_US_dedes.meMA.ExapTheotokion.text
 
-meMA.LaudsSundayVerse1.source = me.m11.d27_en_US_dedes.meMA.LaudsSundayVerse1.source
 meMA.LaudsSundayVerse1.text = me.m11.d27_en_US_dedes.meMA.LaudsSundayVerse1.text
 
-meMA.LaudsSundayVerse2.source = me.m11.d27_en_US_dedes.meMA.LaudsSundayVerse2.source
 meMA.LaudsSundayVerse2.text = me.m11.d27_en_US_dedes.meMA.LaudsSundayVerse2.text
 
 meMA.AposGlory.poet = me.m11.d27_en_US_dedes.meMA.AposGlory.poet

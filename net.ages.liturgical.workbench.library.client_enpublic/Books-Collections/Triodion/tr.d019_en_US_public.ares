@@ -7,10 +7,8 @@ trInsert2 = tr.d019_en_US_dedes.trInsert2 // for use in petitions and dismissal
 trNote.text = tr.d019_en_US_dedes.trNote.text
 
 trVE.Prokeimenon1.mode = tr.d019_en_US_dedes.trVE.Prokeimenon1.mode
-trVE.Prokeimenon1.source = tr.d019_en_US_dedes.trVE.Prokeimenon1.source
 trVE.Prokeimenon1.text = tr.d019_en_US_dedes.trVE.Prokeimenon1.text
 
-trVE.Prokeimenon1Verse1.source = tr.d019_en_US_dedes.trVE.Prokeimenon1Verse1.source
 trVE.Prokeimenon1Verse1.text = tr.d019_en_US_dedes.trVE.Prokeimenon1Verse1.text
 
 trVE.Reading1.book = tr.d019_en_US_dedes.trVE.Reading1.book
@@ -18,10 +16,8 @@ trVE.Reading1.chapverse = tr.d019_en_US_dedes.trVE.Reading1.chapverse
 trVE.Reading1.text = tr.d019_en_US_dedes.trVE.Reading1.text
 
 trVE.Prokeimenon2.mode = tr.d019_en_US_dedes.trVE.Prokeimenon2.mode
-trVE.Prokeimenon2.source = tr.d019_en_US_dedes.trVE.Prokeimenon2.source
 trVE.Prokeimenon2.text = tr.d019_en_US_dedes.trVE.Prokeimenon2.text
 
-trVE.Prokeimenon2Verse1.source = tr.d019_en_US_dedes.trVE.Prokeimenon2Verse1.source
 trVE.Prokeimenon2Verse1.text = tr.d019_en_US_dedes.trVE.Prokeimenon2Verse1.text
 
 trVE.AposIdiomelon1.mode = tr.d019_en_US_dedes.trVE.AposIdiomelon1.mode

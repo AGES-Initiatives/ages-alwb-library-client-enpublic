@@ -127,7 +127,6 @@ peMA.LaudsGlory.text = pe.d121_en_US_dedes.peMA.LaudsGlory.text
 
 peLI.Antiphon2.text = pe.d121_en_US_dedes.peLI.Antiphon2.text
 
-peLI.EntranceHymn.source = pe.d121_en_US_dedes.peLI.EntranceHymn.source
 peLI.EntranceHymn.text = pe.d121_en_US_dedes.peLI.EntranceHymn.text
 
 peLI.SeasonalKontakion.mode = pe.d121_en_US_dedes.peLI.SeasonalKontakion.mode
@@ -137,6 +136,5 @@ peLI.SeasonalKontakion.text = pe.d121_en_US_dedes.peLI.SeasonalKontakion.text
 peLI.TheotokosHymn.mode = pe.d121_en_US_dedes.peLI.TheotokosHymn.mode
 peLI.TheotokosHymn.text = pe.d121_en_US_dedes.peLI.TheotokosHymn.text
 
-peLI.CommunionHymn.source = pe.d121_en_US_dedes.peLI.CommunionHymn.source
 peLI.CommunionHymn.text = pe.d121_en_US_dedes.peLI.CommunionHymn.text
 

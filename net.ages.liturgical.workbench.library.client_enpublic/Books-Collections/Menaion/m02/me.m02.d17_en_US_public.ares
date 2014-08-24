@@ -309,10 +309,8 @@ meMA.LaudsStavrotheotokion.mode = me.m02.d17_en_US_dedes.meMA.LaudsStavrotheotok
 meMA.LaudsStavrotheotokion.melody = me.m02.d17_en_US_dedes.meMA.LaudsStavrotheotokion.melody
 meMA.LaudsStavrotheotokion.text = me.m02.d17_en_US_dedes.meMA.LaudsStavrotheotokion.text
 
-meMA.LaudsSundayVerse1.source = me.m02.d17_en_US_dedes.meMA.LaudsSundayVerse1.source
 meMA.LaudsSundayVerse1.text = me.m02.d17_en_US_dedes.meMA.LaudsSundayVerse1.text
 
-meMA.LaudsSundayVerse2.source = me.m02.d17_en_US_dedes.meMA.LaudsSundayVerse2.source
 meMA.LaudsSundayVerse2.text = me.m02.d17_en_US_dedes.meMA.LaudsSundayVerse2.text
 
 meMA.AposGlory.poet = me.m02.d17_en_US_dedes.meMA.AposGlory.poet
@@ -334,13 +332,10 @@ meLI.SeasonalKontakion.text = me.m02.d17_en_US_dedes.meLI.SeasonalKontakion.text
 
 meLI.Alleluia.mode = me.m02.d17_en_US_dedes.meLI.Alleluia.mode
 
-meLI.AlleluiaVerse1.source = me.m02.d17_en_US_dedes.meLI.AlleluiaVerse1.source
 meLI.AlleluiaVerse1.text = me.m02.d17_en_US_dedes.meLI.AlleluiaVerse1.text
 
-meLI.AlleluiaVerse2.source = me.m02.d17_en_US_dedes.meLI.AlleluiaVerse2.source
 meLI.AlleluiaVerse2.text = me.m02.d17_en_US_dedes.meLI.AlleluiaVerse2.text
 
-meLI.CommunionHymn.source = me.m02.d17_en_US_dedes.meLI.CommunionHymn.source
 meLI.CommunionHymn.text = me.m02.d17_en_US_dedes.meLI.CommunionHymn.text
 
 meMegalynarion.text = me.m02.d17_en_US_dedes.meMegalynarion.text

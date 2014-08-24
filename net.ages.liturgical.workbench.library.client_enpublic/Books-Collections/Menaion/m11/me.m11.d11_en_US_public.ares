@@ -53,14 +53,12 @@ meVE.Aposticha1.mode = me.m11.d11_en_US_dedes.meVE.Aposticha1.mode
 meVE.Aposticha1.melody = me.m11.d11_en_US_dedes.meVE.Aposticha1.melody
 meVE.Aposticha1.text = me.m11.d11_en_US_dedes.meVE.Aposticha1.text
 
-meVE.ApostichaVerse2.source = me.m11.d11_en_US_dedes.meVE.ApostichaVerse2.source
 meVE.ApostichaVerse2.text = me.m11.d11_en_US_dedes.meVE.ApostichaVerse2.text
 
 meVE.Aposticha2.mode = me.m11.d11_en_US_dedes.meVE.Aposticha2.mode
 meVE.Aposticha2.melody = me.m11.d11_en_US_dedes.meVE.Aposticha2.melody
 meVE.Aposticha2.text = me.m11.d11_en_US_dedes.meVE.Aposticha2.text
 
-meVE.ApostichaVerse3.source = me.m11.d11_en_US_dedes.meVE.ApostichaVerse3.source
 meVE.ApostichaVerse3.text = me.m11.d11_en_US_dedes.meVE.ApostichaVerse3.text
 
 meVE.Aposticha3.mode = me.m11.d11_en_US_dedes.meVE.Aposticha3.mode
@@ -490,7 +488,6 @@ meMA.ExapTheotokion.mode = me.m11.d11_en_US_dedes.meMA.ExapTheotokion.mode
 meMA.ExapTheotokion.melody = me.m11.d11_en_US_dedes.meMA.ExapTheotokion.melody
 meMA.ExapTheotokion.text = me.m11.d11_en_US_dedes.meMA.ExapTheotokion.text
 
-meMA.ApostichaVerse4.source = me.m11.d11_en_US_dedes.meMA.ApostichaVerse4.source
 meMA.ApostichaVerse4.text = me.m11.d11_en_US_dedes.meMA.ApostichaVerse4.text
 
 meMA.Aposticha4.mode = me.m11.d11_en_US_dedes.meMA.Aposticha4.mode
@@ -510,10 +507,8 @@ meMA.AposStavrotheotokion.mode = me.m11.d11_en_US_dedes.meMA.AposStavrotheotokio
 meMA.AposStavrotheotokion.melody = me.m11.d11_en_US_dedes.meMA.AposStavrotheotokion.melody
 meMA.AposStavrotheotokion.text = me.m11.d11_en_US_dedes.meMA.AposStavrotheotokion.text
 
-meMA.LaudsSundayVerse1.source = me.m11.d11_en_US_dedes.meMA.LaudsSundayVerse1.source
 meMA.LaudsSundayVerse1.text = me.m11.d11_en_US_dedes.meMA.LaudsSundayVerse1.text
 
-meMA.LaudsSundayVerse2.source = me.m11.d11_en_US_dedes.meMA.LaudsSundayVerse2.source
 meMA.LaudsSundayVerse2.text = me.m11.d11_en_US_dedes.meMA.LaudsSundayVerse2.text
 
 meLI.SeasonalKontakion.mode = me.m11.d11_en_US_dedes.meLI.SeasonalKontakion.mode
@@ -522,10 +517,8 @@ meLI.SeasonalKontakion.text = me.m11.d11_en_US_dedes.meLI.SeasonalKontakion.text
 
 meLI.Alleluia.mode = me.m11.d11_en_US_dedes.meLI.Alleluia.mode
 
-meLI.AlleluiaVerse1.source = me.m11.d11_en_US_dedes.meLI.AlleluiaVerse1.source
 meLI.AlleluiaVerse1.text = me.m11.d11_en_US_dedes.meLI.AlleluiaVerse1.text
 
-meLI.AlleluiaVerse2.source = me.m11.d11_en_US_dedes.meLI.AlleluiaVerse2.source
 meLI.AlleluiaVerse2.text = me.m11.d11_en_US_dedes.meLI.AlleluiaVerse2.text
 
 meMegalynarion.text = me.m11.d11_en_US_dedes.meMegalynarion.text

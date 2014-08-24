@@ -2,7 +2,6 @@ A_Resource_Whose_Name = eu.memorial_en_US_public
 
 euMEM.title = "MEMORIAL SERVICE"
 
-euMEM.KeyVerse.source = ""
 euMEM.KeyVerse.text = eu.funeral_en_US_public.euFUN.Key0600.text 
 euMEM.Key001.title = eu.funeral_en_US_public.euFUN.Key0600.title
 euMEM.Key001.mode = misc_en_US_public.Mode5
