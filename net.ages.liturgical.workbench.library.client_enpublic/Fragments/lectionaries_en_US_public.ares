@@ -22,6 +22,12 @@ lecAP.mc.R071a = lectionaries_en_US_holycross.lecAP.mc.R071a
 lecAP.mc.R071b = lectionaries_en_US_holycross.lecAP.mc.R071b
 lecAP.mc.R120 = lectionaries_en_US_holycross.lecAP.mc.R120
 
+lecAP.me.m07.dHF.R01 = lectionaries_en_US_holycross.lecAP.me.m07.dHF.R01
+lecAP.me.m10.dHF.R01 = lectionaries_en_US_holycross.lecAP.me.m10.dHF.R01
+lecAP.me.m12.dSunFF.R01 = lectionaries_en_US_holycross.lecAP.me.m12.dSunFF.R01
+lecAP.me.m12.dSunBE.R01 = lectionaries_en_US_holycross.lecAP.me.m12.dSunBE.R01
+lecAP.me.m12.dSunBE.R02 = lectionaries_en_US_holycross.lecAP.me.m12.dSunBE.R02
+
 lecAP.forSundays = lectionaries_en_US_holycross.lecAP.forSundays
 lecAP.forWeekdays = lectionaries_en_US_holycross.lecAP.forWeekdays
 lecAP.forAngels = lectionaries_en_US_holycross.lecAP.forAngels
@@ -91,6 +97,17 @@ lecLE.ofHolyFathers.uc = lectionaries_en_US_holycross.lecLE.ofHolyFathers.uc
 lecLE.ofPentecost.uc = lectionaries_en_US_holycross.lecLE.ofPentecost.uc
 lecLE.HolySpirit.uc = lectionaries_en_US_holycross.lecLE.HolySpirit.uc
 lecLE.AllSaints.uc = lectionaries_en_US_holycross.lecLE.AllSaints.uc
+
+lecLE.SaturdayBeforeChristmas.uc = lectionaries_en_US_holycross.lecLE.SaturdayBeforeChristmas.uc
+lecLE.SaturdayAfterChristmas.uc = lectionaries_en_US_holycross.lecLE.SaturdayAfterChristmas.uc
+lecLE.SaturdayBeforeEpiphany.uc = lectionaries_en_US_holycross.lecLE.SaturdayBeforeEpiphany.uc
+lecLE.SundayBeforeEpiphany.uc = lectionaries_en_US_holycross.lecLE.SundayBeforeEpiphany.uc
+lecLE.SaturdayAfterEpiphany.uc = lectionaries_en_US_holycross.lecLE.SaturdayAfterEpiphany.uc
+lecLE.SundayAfterEpiphany.uc = lectionaries_en_US_holycross.lecLE.SundayAfterEpiphany.uc
+lecLE.SaturdayBeforeCross.uc = lectionaries_en_US_holycross.lecLE.SaturdayBeforeCross.uc
+lecLE.SundayBeforeCross.uc = lectionaries_en_US_holycross.lecLE.SundayBeforeCross.uc
+lecLE.SaturdayAfterCross.uc = lectionaries_en_US_holycross.lecLE.SaturdayAfterCross.uc
+lecLE.SundayAfterCross.uc = lectionaries_en_US_holycross.lecLE.SundayAfterCross.uc
 
 lecLE.Hour1.uc = lectionaries_en_US_holycross.lecLE.Hour1.uc
 lecLE.Hour3.uc = lectionaries_en_US_holycross.lecLE.Hour3.uc
