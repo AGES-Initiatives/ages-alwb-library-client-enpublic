@@ -6,11 +6,11 @@ meShortCommemoration1.text = me.m10.d18_en_US_dedes.meShortCommemoration1.text
 meInsert1 = me.m10.d18_en_US_dedes.meInsert1
 meInsert2 = me.m10.d18_en_US_dedes.meInsert2
 meNote.text = me.m10.d18_en_US_dedes.meNote.text
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
+meLE.commemoration1 = me.m10.d18_en_US_dedes.meLE.commemoration1
+meLE.commemoration2 = me.m10.d18_en_US_dedes.meLE.commemoration2
 meHO.number = me.m10.d18_en_US_dedes.meHO.number
 meHO.rank = me.m10.d18_en_US_dedes.meHO.rank
-meHO.commemorations = ""
+meHO.commemorations = me.m10.d18_en_US_dedes.meHO.commemorations
 meHO.note1 = me.m10.d18_en_US_dedes.meHO.note1
 meHO.note2 = me.m10.d18_en_US_dedes.meHO.note2
 
@@ -30,7 +30,7 @@ meVE.Stichera04.mode = me.m10.d18_en_US_dedes.meVE.Stichera04.mode
 meVE.Stichera04.melody = me.m10.d18_en_US_dedes.meVE.Stichera04.melody
 meVE.Stichera04.text = me.m10.d18_en_US_dedes.meVE.Stichera04.text
 
-meVE.Stichera78910.text = me.m10.d18_en_US_dedes.meVE.Stichera78910.text //for media
+meVE.Stichera78910.text = me.m10.d18_en_US_dedes.meVE.Stichera78910.text // for media
 
 meVE.Stichera05.mode = me.m10.d18_en_US_dedes.meVE.Stichera05.mode
 meVE.Stichera05.melody = me.m10.d18_en_US_dedes.meVE.Stichera05.melody
@@ -103,7 +103,7 @@ meVE.AposTheotokion.text = me.m10.d18_en_US_dedes.meVE.AposTheotokion.text
 meVE.Apolytikion1.mode = me.m10.d18_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m10.d18_en_US_dedes.meVE.Apolytikion1.melody
 meVE.GeneralApolytikion1.name = me.m10.d18_en_US_dedes.meVE.GeneralApolytikion1.name
-meVE.Apolytikion1.text = me.m10.d18_en_US_dedes.meVE.Apolytikion1.text //  for media
+meVE.Apolytikion1.text = me.m10.d18_en_US_dedes.meVE.Apolytikion1.text //   for media
 
 meVE.Apolytikion2.poet = me.m10.d18_en_US_dedes.meVE.Apolytikion2.poet
 meVE.Apolytikion2.mode = me.m10.d18_en_US_dedes.meVE.Apolytikion2.mode

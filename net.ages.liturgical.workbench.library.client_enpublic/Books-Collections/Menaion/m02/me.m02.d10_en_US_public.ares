@@ -1,16 +1,16 @@
 A_Resource_Whose_Name = me.m02.d10_en_US_public
 
-meDate.text = me.m02.d10_en_US_dedes.meDate.text //    date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = me.m02.d10_en_US_dedes.meCommemoration.text //   full title of day
+meDate.text = me.m02.d10_en_US_dedes.meDate.text //     date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = me.m02.d10_en_US_dedes.meCommemoration.text //    full title of day
 meShortCommemoration1.text = me.m02.d10_en_US_dedes.meShortCommemoration1.text
-meInsert1 = me.m02.d10_en_US_dedes.meInsert1 //   for use in petitions and dismissal
-meInsert2 = me.m02.d10_en_US_dedes.meInsert2 //   for use in petitions and dismissal
+meInsert1 = me.m02.d10_en_US_dedes.meInsert1 //    for use in petitions and dismissal
+meInsert2 = me.m02.d10_en_US_dedes.meInsert2 //    for use in petitions and dismissal
 meNote.text = me.m02.d10_en_US_dedes.meNote.text
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
+meLE.commemoration1 = me.m02.d10_en_US_dedes.meLE.commemoration1
+meLE.commemoration2 = me.m02.d10_en_US_dedes.meLE.commemoration2
 meHO.number = me.m02.d10_en_US_dedes.meHO.number
 meHO.rank = me.m02.d10_en_US_dedes.meHO.rank
-meHO.commemorations = ""
+meHO.commemorations = me.m02.d10_en_US_dedes.meHO.commemorations
 meHO.note1 = me.m02.d10_en_US_dedes.meHO.note1
 meHO.note2 = me.m02.d10_en_US_dedes.meHO.note2
 
@@ -174,7 +174,7 @@ meMA.Kathisma3T.mode = me.m02.d10_en_US_dedes.meMA.Kathisma3T.mode
 meMA.Kathisma3T.melody = me.m02.d10_en_US_dedes.meMA.Kathisma3T.melody
 meMA.Kathisma3T.text = me.m02.d10_en_US_dedes.meMA.Kathisma3T.text
 
-meMA.Prokeimenon.text = me.m02.d10_en_US_dedes.meMA.Prokeimenon.text //  for media
+meMA.Prokeimenon.text = me.m02.d10_en_US_dedes.meMA.Prokeimenon.text //   for media
 //meMA.Gospel.name = "Luke." //""
 //meMA.Gospel.chapverse = "21:12-19" //""
 //meMA.Gospel.text = "The Lord said to His disciples, \"Beware of men, for they will lay their hands on you and persecute you, delivering you up to the synagogues and prisons, and you will be brought before kings and governors for my name's sake. This will be a time for you to bear testimony. Settle it therefore in your minds, not to meditate beforehand how to answer; for I will give you a mouth and wisdom, which none of your adversaries will be able to withstand or contradict. You will be delivered up even by parents and brothers and kinsmen and friends, and some of you they will put to death; you will be hated by all for my name's sake. But not a hair of your head will perish. By your endurance you will gain your lives.\""
