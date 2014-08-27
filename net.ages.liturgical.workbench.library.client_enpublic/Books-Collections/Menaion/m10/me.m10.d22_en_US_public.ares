@@ -1,16 +1,16 @@
 A_Resource_Whose_Name = me.m10.d22_en_US_public 
 
 meDate.text = me.m10.d22_en_US_dedes.meDate.text
-meCommemoration.text = me.m10.d22_en_US_dedes.meCommemoration.text //   full title of day
+meCommemoration.text = me.m10.d22_en_US_dedes.meCommemoration.text //    full title of day
 meShortCommemoration1.text = me.m10.d22_en_US_dedes.meShortCommemoration1.text
-meInsert1 = me.m10.d22_en_US_dedes.meInsert1 //   for use in petitions and dismissal
-meInsert2 = me.m10.d22_en_US_dedes.meInsert2 //   for use in petitions and dismissal
+meInsert1 = me.m10.d22_en_US_dedes.meInsert1 //    for use in petitions and dismissal
+meInsert2 = me.m10.d22_en_US_dedes.meInsert2 //    for use in petitions and dismissal
 meNote.text = me.m10.d22_en_US_dedes.meNote.text
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
+meLE.commemoration1 = me.m10.d22_en_US_dedes.meLE.commemoration1
+meLE.commemoration2 = me.m10.d22_en_US_dedes.meLE.commemoration2
 meHO.number = me.m10.d22_en_US_dedes.meHO.number
 meHO.rank = me.m10.d22_en_US_dedes.meHO.rank
-meHO.commemorations = ""
+meHO.commemorations = me.m10.d22_en_US_dedes.meHO.commemorations
 meHO.note1 = me.m10.d22_en_US_dedes.meHO.note1
 meHO.note2 = me.m10.d22_en_US_dedes.meHO.note2
 

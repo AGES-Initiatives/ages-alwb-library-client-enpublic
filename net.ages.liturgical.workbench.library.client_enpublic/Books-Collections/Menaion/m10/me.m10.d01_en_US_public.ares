@@ -4,16 +4,16 @@ meHO.Month.text = me.m10.d01_en_US_dedes.meHO.Month.text
 meHO.DaysHours.text = me.m10.d01_en_US_dedes.meHO.DaysHours.text
 
 meDate.text = me.m10.d01_en_US_dedes.meDate.text
-meCommemoration.text = me.m10.d01_en_US_dedes.meCommemoration.text //   full title of day
+meCommemoration.text = me.m10.d01_en_US_dedes.meCommemoration.text //    full title of day
 meShortCommemoration1.text = me.m10.d01_en_US_dedes.meShortCommemoration1.text
-meInsert1 = me.m10.d01_en_US_dedes.meInsert1 //   for use in petitions and dismissal
-meInsert2 = me.m10.d01_en_US_dedes.meInsert2 //   for use in petitions and dismissal
+meInsert1 = me.m10.d01_en_US_dedes.meInsert1 //    for use in petitions and dismissal
+meInsert2 = me.m10.d01_en_US_dedes.meInsert2 //    for use in petitions and dismissal
 meNote.text = me.m10.d01_en_US_dedes.meNote.text
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
+meLE.commemoration1 = me.m10.d01_en_US_dedes.meLE.commemoration1
+meLE.commemoration2 = me.m10.d01_en_US_dedes.meLE.commemoration2
 meHO.number = me.m10.d01_en_US_dedes.meHO.number
 meHO.rank = me.m10.d01_en_US_dedes.meHO.rank
-meHO.commemorations = ""
+meHO.commemorations = me.m10.d01_en_US_dedes.meHO.commemorations
 meHO.note1 = me.m10.d01_en_US_dedes.meHO.note1
 meHO.note2 = me.m10.d01_en_US_dedes.meHO.note2
 
@@ -41,7 +41,7 @@ meVE.Stichera06.mode = me.m10.d01_en_US_dedes.meVE.Stichera06.mode
 meVE.Stichera06.melody = me.m10.d01_en_US_dedes.meVE.Stichera06.melody
 meVE.Stichera06.text = me.m10.d01_en_US_dedes.meVE.Stichera06.text
 
-meVE.SticGlory.poet = me.m10.d01_en_US_dedes.meVE.SticGlory.poet //   οἱ δέ, Ἀνατολίου
+meVE.SticGlory.poet = me.m10.d01_en_US_dedes.meVE.SticGlory.poet //    οἱ δέ, Ἀνατολίου
 meVE.SticGlory.mode = me.m10.d01_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m10.d01_en_US_dedes.meVE.SticGlory.melody
 meVE.SticGlory.text = me.m10.d01_en_US_dedes.meVE.SticGlory.text

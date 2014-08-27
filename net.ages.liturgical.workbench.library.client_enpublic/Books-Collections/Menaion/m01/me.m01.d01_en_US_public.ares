@@ -3,17 +3,17 @@ A_Resource_Whose_Name =  me.m01.d01_en_US_public
 meHO.Month.text =  me.m01.d01_en_US_dedes.meHO.Month.text
 meHO.DaysHours.text =  me.m01.d01_en_US_dedes.meHO.DaysHours.text
 
-meDate.text =  me.m01.d01_en_US_dedes.meDate.text //     date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text =  me.m01.d01_en_US_dedes.meCommemoration.text //    full title of day
+meDate.text =  me.m01.d01_en_US_dedes.meDate.text //      date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text =  me.m01.d01_en_US_dedes.meCommemoration.text //     full title of day
 meShortCommemoration1.text =  me.m01.d01_en_US_dedes.meShortCommemoration1.text
-meInsert1 =  me.m01.d01_en_US_dedes.meInsert1 //    for use in petitions and dismissal
-meInsert2 =  me.m01.d01_en_US_dedes.meInsert2 //    for use in petitions and dismissal
+meInsert1 =  me.m01.d01_en_US_dedes.meInsert1 //     for use in petitions and dismissal
+meInsert2 =  me.m01.d01_en_US_dedes.meInsert2 //     for use in petitions and dismissal
 meNote.text =  me.m01.d01_en_US_dedes.meNote.text
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
+meLE.commemoration1 =  me.m01.d01_en_US_dedes.meLE.commemoration1
+meLE.commemoration2 =  me.m01.d01_en_US_dedes.meLE.commemoration2
 meHO.number =  me.m01.d01_en_US_dedes.meHO.number
 meHO.rank =  me.m01.d01_en_US_dedes.meHO.rank
-meHO.commemorations = ""
+meHO.commemorations =  me.m01.d01_en_US_dedes.meHO.commemorations
 meHO.note1 =  me.m01.d01_en_US_dedes.meHO.note1
 meHO.note2 =  me.m01.d01_en_US_dedes.meHO.note2
 meDismissal =  me.m01.d01_en_US_dedes.meDismissal
@@ -144,7 +144,7 @@ meMA.Kathisma3T.mode =  me.m01.d01_en_US_dedes.meMA.Kathisma3T.mode
 meMA.Kathisma3T.melody =  me.m01.d01_en_US_dedes.meMA.Kathisma3T.melody
 meMA.Kathisma3T.text =  me.m01.d01_en_US_dedes.meMA.Kathisma3T.text
 
-meMA.Prokeimenon.text =  me.m01.d01_en_US_dedes.meMA.Prokeimenon.text //   for media
+meMA.Prokeimenon.text =  me.m01.d01_en_US_dedes.meMA.Prokeimenon.text //    for media
 // From saved ages file; maybe slightly different beginning? (extra clause)
 //meMA.Gospel.name  = ""
 //meMA.Gospel.chapverse = "John 10:1-9" //""

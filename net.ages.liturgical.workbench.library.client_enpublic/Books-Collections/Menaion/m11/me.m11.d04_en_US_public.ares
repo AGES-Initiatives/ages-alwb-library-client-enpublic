@@ -1,16 +1,16 @@
 A_Resource_Whose_Name = me.m11.d04_en_US_public
 
 meDate.text = me.m11.d04_en_US_dedes.meDate.text
-meCommemoration.text = me.m11.d04_en_US_dedes.meCommemoration.text //   full title of day
+meCommemoration.text = me.m11.d04_en_US_dedes.meCommemoration.text //    full title of day
 meShortCommemoration1.text = me.m11.d04_en_US_dedes.meShortCommemoration1.text
-meInsert1 = me.m11.d04_en_US_dedes.meInsert1 //   for use in petitions and dismissal
-meInsert2 = me.m11.d04_en_US_dedes.meInsert2 //   for use in petitions and dismissal
+meInsert1 = me.m11.d04_en_US_dedes.meInsert1 //    for use in petitions and dismissal
+meInsert2 = me.m11.d04_en_US_dedes.meInsert2 //    for use in petitions and dismissal
 meNote.text = me.m11.d04_en_US_dedes.meNote.text
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
+meLE.commemoration1 = me.m11.d04_en_US_dedes.meLE.commemoration1
+meLE.commemoration2 = me.m11.d04_en_US_dedes.meLE.commemoration2
 meHO.number = me.m11.d04_en_US_dedes.meHO.number
 meHO.rank = me.m11.d04_en_US_dedes.meHO.rank
-meHO.commemorations = ""
+meHO.commemorations = me.m11.d04_en_US_dedes.meHO.commemorations
 meHO.note1 = me.m11.d04_en_US_dedes.meHO.note1
 meHO.note2 = me.m11.d04_en_US_dedes.meHO.note2
 
@@ -62,7 +62,7 @@ meVE.AposStavrotheotokion.mode = me.m11.d04_en_US_dedes.meVE.AposStavrotheotokio
 meVE.AposStavrotheotokion.melody = me.m11.d04_en_US_dedes.meVE.AposStavrotheotokion.melody
 meVE.AposStavrotheotokion.text = me.m11.d04_en_US_dedes.meVE.AposStavrotheotokion.text
 
-meVE.GeneralApolytikion1.name = me.m11.d04_en_US_dedes.meVE.GeneralApolytikion1.name //    name of saint for General Apolytikia when not in Menaion
+meVE.GeneralApolytikion1.name = me.m11.d04_en_US_dedes.meVE.GeneralApolytikion1.name //     name of saint for General Apolytikia when not in Menaion
 
 meVE.Apolytikion1.poet = me.m11.d04_en_US_dedes.meVE.Apolytikion1.poet
 meVE.Apolytikion1.mode = me.m11.d04_en_US_dedes.meVE.Apolytikion1.mode

@@ -3,17 +3,17 @@ A_Resource_Whose_Name = me.m05.d01_en_US_public
 meHO.Month.text = me.m05.d01_en_US_dedes.meHO.Month.text
 meHO.DaysHours.text = me.m05.d01_en_US_dedes.meHO.DaysHours.text
 
-meDate.text = me.m05.d01_en_US_dedes.meDate.text //    date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = me.m05.d01_en_US_dedes.meCommemoration.text //   full title of day
+meDate.text = me.m05.d01_en_US_dedes.meDate.text //     date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = me.m05.d01_en_US_dedes.meCommemoration.text //    full title of day
 meShortCommemoration1.text = me.m05.d01_en_US_dedes.meShortCommemoration1.text
-meInsert1 = me.m05.d01_en_US_dedes.meInsert1 //   for use in petitions and dismissal
-meInsert2 = me.m05.d01_en_US_dedes.meInsert2 //   for use in petitions and dismissal
+meInsert1 = me.m05.d01_en_US_dedes.meInsert1 //    for use in petitions and dismissal
+meInsert2 = me.m05.d01_en_US_dedes.meInsert2 //    for use in petitions and dismissal
 meNote.text = me.m05.d01_en_US_dedes.meNote.text
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
+meLE.commemoration1 = me.m05.d01_en_US_dedes.meLE.commemoration1
+meLE.commemoration2 = me.m05.d01_en_US_dedes.meLE.commemoration2
 meHO.number = me.m05.d01_en_US_dedes.meHO.number
 meHO.rank = me.m05.d01_en_US_dedes.meHO.rank
-meHO.commemorations = ""
+meHO.commemorations = me.m05.d01_en_US_dedes.meHO.commemorations
 meHO.note1 = me.m05.d01_en_US_dedes.meHO.note1
 meHO.note2 = me.m05.d01_en_US_dedes.meHO.note2
 
@@ -31,7 +31,7 @@ meVE.Stichera03.text = me.m05.d01_en_US_dedes.meVE.Stichera03.text
 
 meVE.Apolytikion1.mode = me.m05.d01_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m05.d01_en_US_dedes.meVE.Apolytikion1.melody
-meVE.GeneralApolytikion1.name = me.m05.d01_en_US_dedes.meVE.GeneralApolytikion1.name //    name of saint for General Apolytikia
+meVE.GeneralApolytikion1.name = me.m05.d01_en_US_dedes.meVE.GeneralApolytikion1.name //     name of saint for General Apolytikia
 
 meMA.Ode1C11.ode = me.m05.d01_en_US_dedes.meMA.Ode1C11.ode
 meMA.Ode1C11.mode = me.m05.d01_en_US_dedes.meMA.Ode1C11.mode

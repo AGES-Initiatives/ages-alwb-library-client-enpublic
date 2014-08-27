@@ -1,16 +1,16 @@
 A_Resource_Whose_Name = me.m12.d06_en_US_public
 
-meDate.text = me.m12.d06_en_US_dedes.meDate.text //    date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = me.m12.d06_en_US_dedes.meCommemoration.text //   full title of day
+meDate.text = me.m12.d06_en_US_dedes.meDate.text //     date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = me.m12.d06_en_US_dedes.meCommemoration.text //    full title of day
 meShortCommemoration1.text = me.m12.d06_en_US_dedes.meShortCommemoration1.text
-meInsert1 = me.m12.d06_en_US_dedes.meInsert1 //   for use in petitions and dismissal
-meInsert2 = me.m12.d06_en_US_dedes.meInsert2 //   for use in petitions and dismissal
+meInsert1 = me.m12.d06_en_US_dedes.meInsert1 //    for use in petitions and dismissal
+meInsert2 = me.m12.d06_en_US_dedes.meInsert2 //    for use in petitions and dismissal
 meNote.text = me.m12.d06_en_US_dedes.meNote.text
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
+meLE.commemoration1 = me.m12.d06_en_US_dedes.meLE.commemoration1
+meLE.commemoration2 = me.m12.d06_en_US_dedes.meLE.commemoration2
 meHO.number = me.m12.d06_en_US_dedes.meHO.number
 meHO.rank = me.m12.d06_en_US_dedes.meHO.rank
-meHO.commemorations = ""
+meHO.commemorations = me.m12.d06_en_US_dedes.meHO.commemorations
 meHO.note1 = me.m12.d06_en_US_dedes.meHO.note1
 meHO.note2 = me.m12.d06_en_US_dedes.meHO.note2
 
@@ -183,7 +183,7 @@ meMA.Kathisma3T.mode = me.m12.d06_en_US_dedes.meMA.Kathisma3T.mode
 meMA.Kathisma3T.melody = me.m12.d06_en_US_dedes.meMA.Kathisma3T.melody
 meMA.Kathisma3T.text = me.m12.d06_en_US_dedes.meMA.Kathisma3T.text
 
-meMA.Prokeimenon.text = me.m12.d06_en_US_dedes.meMA.Prokeimenon.text //  for media
+meMA.Prokeimenon.text = me.m12.d06_en_US_dedes.meMA.Prokeimenon.text //   for media
 // This is from Pat. Hem. which differs from Menaion
 //meMA.Gospel.name = "John." //""
 //meMA.Gospel.chapverse = "(Jn. 10:1-9)" //""
