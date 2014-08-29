@@ -41,7 +41,9 @@ lecAP.or = lectionaries_en_US_holycross.lecAP.or
 lecAP.ActsApostles.uc = lectionaries_en_US_holycross.lecAP.ActsApostles.uc
 lecAP.EndActs.uc = lectionaries_en_US_holycross.lecAP.EndActs.uc
 lecAP.EpistlesPaul.uc = lectionaries_en_US_holycross.lecAP.EpistlesPaul.uc
+lecAP.EpistlesVarious.uc = lectionaries_en_US_holycross.lecAP.EpistlesVarious.uc
 
+lecAP.Apostolos.uc = lectionaries_en_US_holycross.lecAP.Apostolos.uc
 lecAP.Period.uc = lectionaries_en_US_holycross.lecAP.Period.uc
 lecAP.HolyWeek.uc = lectionaries_en_US_holycross.lecAP.HolyWeek.uc
 lecAP.Menaion.uc = lectionaries_en_US_holycross.lecAP.Menaion.uc
@@ -116,6 +118,15 @@ lecLE.Hour9.uc = lectionaries_en_US_holycross.lecLE.Hour9.uc
 lecLE.Vespers.uc = lectionaries_en_US_holycross.lecLE.Vespers.uc
 lecLE.Matins.uc = lectionaries_en_US_holycross.lecLE.Matins.uc
 lecLE.Liturgy.uc = lectionaries_en_US_holycross.lecLE.Liturgy.uc
+lecLE.atConsecration.uc = lectionaries_en_US_holycross.lecLE.atConsecration.uc
+lecLE.atBaptism.uc = lectionaries_en_US_holycross.lecLE.atBaptism.uc
+lecLE.atWedding.uc = lectionaries_en_US_holycross.lecLE.atWedding.uc
+lecLE.forDeceased.uc = lectionaries_en_US_holycross.lecLE.forDeceased.uc
+lecLE.atFuneral.uc = lectionaries_en_US_holycross.lecLE.atFuneral.uc
+lecLE.atDooropening.uc = lectionaries_en_US_holycross.lecLE.atDooropening.uc
+lecLE.atWater.uc = lectionaries_en_US_holycross.lecLE.atWater.uc
+lecLE.atUnction.uc = lectionaries_en_US_holycross.lecLE.atUnction.uc
+lecLE.Another.uc = lectionaries_en_US_holycross.lecLE.Another.uc
 
 lecLE.ordinal01a = lectionaries_en_US_holycross.lecLE.ordinal01a
 lecLE.ordinal01b = lectionaries_en_US_holycross.lecLE.ordinal01b
@@ -187,7 +198,6 @@ lecLE.ordinal34a = lectionaries_en_US_holycross.lecLE.ordinal34a
 lecLE.ordinal34b = lectionaries_en_US_holycross.lecLE.ordinal34b
 lecLE.ordinal35a = lectionaries_en_US_holycross.lecLE.ordinal35a
 lecLE.ordinal35b = lectionaries_en_US_holycross.lecLE.ordinal35b
-
 
 lecLE.ordinal01a.uc = lectionaries_en_US_holycross.lecLE.ordinal01a.uc
 lecLE.ordinal01b.uc = lectionaries_en_US_holycross.lecLE.ordinal01b.uc
