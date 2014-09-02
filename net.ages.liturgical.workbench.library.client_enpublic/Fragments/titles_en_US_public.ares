@@ -30,6 +30,8 @@ ApostichaTonAinon = titles_en_US_dedes.ApostichaTonAinon
 
 DoxologiaMegaliKaiApolysis = titles_en_US_dedes.DoxologiaMegaliKaiApolysis
 
+EfchiTouAgiouEfraim = titles_en_US_dedes.EfchiTouAgiouEfraim
+
 EiEstinEideMi = titles_en_US_dedes.EiEstinEideMi
 
 EirmosOAftos = titles_en_US_dedes.EirmosOAftos
@@ -428,36 +430,65 @@ YmnoiMetaTinMikranEisodon = titles_en_US_dedes.YmnoiMetaTinMikranEisodon
 
 Ypakoi = titles_en_US_dedes.Ypakoi
 
-Kyriaki = titles_en_US_dedes.Kyriaki
-Deftera = titles_en_US_dedes.Deftera
-Triti = titles_en_US_dedes.Triti
-Tetarti = titles_en_US_dedes.Tetarti
-Pempti = titles_en_US_dedes.Pempti
-Paraskevi = titles_en_US_dedes.Paraskevi
-Savvaton = titles_en_US_dedes.Savvaton
-TiKyriaki = titles_en_US_dedes.TiKyriaki
-TiDeftera = titles_en_US_dedes.TiDeftera
-TiTriti = titles_en_US_dedes.TiTriti
-TiTetarti = titles_en_US_dedes.TiTetarti
-TiPempti = titles_en_US_dedes.TiPempti
-TiParaskevi = titles_en_US_dedes.TiParaskevi
-ToSavvato = titles_en_US_dedes.ToSavvato
-TisImeras = titles_en_US_dedes.TisImeras
-TisKyriakis = titles_en_US_dedes.TisKyriakis
-TisDefteras = titles_en_US_dedes.TisDefteras
-TisTritis = titles_en_US_dedes.TisTritis
-TisTetartis = titles_en_US_dedes.TisTetartis
-TisPemptis = titles_en_US_dedes.TisPemptis
-TisParaskevis = titles_en_US_dedes.TisParaskevis
-TouSavvatou = titles_en_US_dedes.TouSavvatou
-Esperas = titles_en_US_dedes.Esperas
-Proi = titles_en_US_dedes.Proi
-Tis1Evdomados = titles_en_US_dedes.Tis1Evdomados
-Tis2Evdomados = titles_en_US_dedes.Tis2Evdomados
-Tis3Evdomados = titles_en_US_dedes.Tis3Evdomados
-Tis4Evdomados = titles_en_US_dedes.Tis4Evdomados
-Tis5Evdomados = titles_en_US_dedes.Tis5Evdomados
-Tis6Evdomados = titles_en_US_dedes.Tis6Evdomados
-YmnoiTriadikoi = titles_en_US_dedes.YmnoiTriadikoi
-Fotagogika = titles_en_US_dedes.Fotagogika
-EfchiTouAgiouEfraim = titles_en_US_dedes.EfchiTouAgiouEfraim
+Sunday = titles_en_US_dedes.Sunday
+Monday = titles_en_US_dedes.Monday
+Tuesday = titles_en_US_dedes.Tuesday
+Wednesday = titles_en_US_dedes.Wednesday
+Thursday = titles_en_US_dedes.Thursday
+Friday = titles_en_US_dedes.Friday
+Saturday = titles_en_US_dedes.Saturday
+OnSunday = titles_en_US_dedes.OnSunday
+OnMonday = titles_en_US_dedes.OnMonday
+OnTuesday = titles_en_US_dedes.OnTuesday
+OnWednesday = titles_en_US_dedes.OnWednesday
+OnThursday = titles_en_US_dedes.OnThursday
+OnFriday = titles_en_US_dedes.OnFriday
+OnSaturday = titles_en_US_dedes.OnSaturday
+
+BeforeChristmas = titles_en_US_dedes.BeforeChristmas
+AfterChristmas = titles_en_US_dedes.AfterChristmas
+BeforeEpiphany = titles_en_US_dedes.BeforeEpiphany
+AfterEpiphany = titles_en_US_dedes.AfterEpiphany
+BeforeCross = titles_en_US_dedes.BeforeCross
+AfterCross = titles_en_US_dedes.AfterCross
+
+Sunday.uc = titles_en_US_dedes.Sunday.uc
+Monday.uc = titles_en_US_dedes.Monday.uc
+Tuesday.uc = titles_en_US_dedes.Tuesday.uc
+Wednesday.uc = titles_en_US_dedes.Wednesday.uc
+Thursday.uc = titles_en_US_dedes.Thursday.uc
+Friday.uc = titles_en_US_dedes.Friday.uc
+Saturday.uc = titles_en_US_dedes.Saturday.uc
+OnSunday.uc = titles_en_US_dedes.OnSunday.uc
+OnMonday.uc = titles_en_US_dedes.OnMonday.uc
+OnTuesday.uc = titles_en_US_dedes.OnTuesday.uc
+OnWednesday.uc = titles_en_US_dedes.OnWednesday.uc
+OnThursday.uc = titles_en_US_dedes.OnThursday.uc
+OnFriday.uc = titles_en_US_dedes.OnFriday.uc
+OnSaturday.uc = titles_en_US_dedes.OnSaturday.uc
+
+BeforeChristmas.uc = titles_en_US_dedes.BeforeChristmas.uc
+AfterChristmas.uc = titles_en_US_dedes.AfterChristmas.uc
+BeforeEpiphany.uc = titles_en_US_dedes.BeforeEpiphany.uc
+AfterEpiphany.uc = titles_en_US_dedes.AfterEpiphany.uc
+BeforeCross.uc = titles_en_US_dedes.BeforeCross.uc
+AfterCross.uc = titles_en_US_dedes.AfterCross.uc
+
+ForTheDay = titles_en_US_dedes.ForTheDay
+ForSunday = titles_en_US_dedes.ForSunday
+ForMonday = titles_en_US_dedes.ForMonday
+ForTuesday = titles_en_US_dedes.ForTuesday
+ForWednesday = titles_en_US_dedes.ForWednesday
+ForThursday = titles_en_US_dedes.ForThursday
+ForFriday = titles_en_US_dedes.ForFriday
+ForSaturday = titles_en_US_dedes.ForSaturday
+Evening = titles_en_US_dedes.Evening
+Morning = titles_en_US_dedes.Morning
+ofWeek1 = titles_en_US_dedes.ofWeek1
+ofWeek2 = titles_en_US_dedes.ofWeek2
+ofWeek3 = titles_en_US_dedes.ofWeek3
+ofWeek4 = titles_en_US_dedes.ofWeek4
+ofWeek5 = titles_en_US_dedes.ofWeek5
+ofWeek6 = titles_en_US_dedes.ofWeek6
+TriadicHymns = titles_en_US_dedes.TriadicHymns
+PhotagogicHymns = titles_en_US_dedes.PhotagogicHymns
