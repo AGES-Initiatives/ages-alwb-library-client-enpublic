@@ -302,7 +302,7 @@ StichiraTisTheotokou = titles_en_US_dedes.StichiraTisTheotokou
 
 StichiraTouPascha = titles_en_US_dedes.StichiraTouPascha
 
-StichiraTouProdoromou = titles_en_US_dedes.StichiraTouProdoromou
+StichiraTouProdromou = titles_en_US_dedes.StichiraTouProdromou
 
 Stichoi = titles_en_US_dedes.Stichoi
 
@@ -359,6 +359,8 @@ TonAsomaton = titles_en_US_dedes.TonAsomaton
 TonDodeka = titles_en_US_dedes.TonDodeka
 
 TonEnkainion = titles_en_US_dedes.TonEnkainion
+
+TonIerarchon = titles_en_US_dedes.TonIerarchon
 
 TonIsapostolon = titles_en_US_dedes.TonIsapostolon
 
