@@ -55,7 +55,35 @@ lecAP.Eothinon.uc = lectionaries_en_US_holycross.lecAP.Eothinon.uc
 lecAP.Eothinon = lectionaries_en_US_holycross.lecAP.Eothinon
 
 lecEV.Evangelion = lectionaries_en_US_holycross.lecEV.Evangelion
+lecEV.ForefestalGospel = lectionaries_en_US_holycross.lecEV.ForefestalGospel
+lecEV.PostfestalGospel = lectionaries_en_US_holycross.lecEV.PostfestalGospel
+
 lecEV.Evangelion.uc = lectionaries_en_US_holycross.lecEV.Evangelion.uc
+lecEV.ForefestalGospel.uc = lectionaries_en_US_holycross.lecEV.ForefestalGospel.uc
+lecEV.PostfestalGospel.uc = lectionaries_en_US_holycross.lecEV.PostfestalGospel.uc
+
+lecEV.title1.text = lectionaries_en_US_holycross.lecEV.title1.text
+lecEV.title2.text = lectionaries_en_US_holycross.lecEV.title2.text
+lecEV.GospelsJohn1.uc = lectionaries_en_US_holycross.lecEV.GospelsJohn1.uc
+lecEV.GospelsJohn2.uc = lectionaries_en_US_holycross.lecEV.GospelsJohn2.uc
+lecEV.GospelsMatthew1.uc = lectionaries_en_US_holycross.lecEV.GospelsMatthew1.uc
+lecEV.GospelsMatthew2.uc = lectionaries_en_US_holycross.lecEV.GospelsMatthew2.uc
+lecEV.GospelsLuke1.uc = lectionaries_en_US_holycross.lecEV.GospelsLuke1.uc
+lecEV.GospelsLuke2.uc = lectionaries_en_US_holycross.lecEV.GospelsLuke2.uc
+lecEV.GospelsLentWeek1.uc = lectionaries_en_US_holycross.lecEV.GospelsLentWeek1.uc
+lecEV.GospelsLentWeek2.uc = lectionaries_en_US_holycross.lecEV.GospelsLentWeek2.uc
+lecEV.GospelsMark1.uc = lectionaries_en_US_holycross.lecEV.GospelsMark1.uc
+lecEV.GospelsMark2.uc = lectionaries_en_US_holycross.lecEV.GospelsMark2.uc
+lecEV.GospelsMenaion.uc = lectionaries_en_US_holycross.lecEV.GospelsMenaion.uc
+lecEV.GospelsSaints.uc = lectionaries_en_US_holycross.lecEV.GospelsSaints.uc
+lecEV.GospelsVarious.uc = lectionaries_en_US_holycross.lecEV.GospelsVarious.uc
+lecEV.ofMatthew.uc = lectionaries_en_US_holycross.lecEV.ofMatthew.uc
+lecEV.ofLuke.uc = lectionaries_en_US_holycross.lecEV.ofLuke.uc
+
+lecEV.me.m07.dHF.R01 = lectionaries_en_US_holycross.lecEV.me.m07.dHF.R01
+lecEV.me.m10.dHF.R01 = lectionaries_en_US_holycross.lecEV.me.m10.dHF.R01
+lecEV.me.m12.dFF.R01 = lectionaries_en_US_holycross.lecEV.me.m12.dFF.R01
+lecEV.me.m12.dSunBE.R01 = lectionaries_en_US_holycross.lecEV.me.m12.dSunBE.R01
 
 lecLE.separator = lectionaries_en_US_holycross.lecLE.separator
 lecLE.openP = lectionaries_en_US_holycross.lecLE.openP
