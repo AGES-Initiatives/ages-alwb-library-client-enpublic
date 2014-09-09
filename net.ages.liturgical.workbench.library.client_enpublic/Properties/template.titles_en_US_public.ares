@@ -1,151 +1,189 @@
 A_Resource_Whose_Name = template.titles_en_US_public
 
 //books - collections
-eo = "EOTHINA"
-eu = "EUCHOLOGION"
-he = "HEIRMOLOGION"
-hi = "PRIESTS HANDBOOK"
-ho = "HOROLOGION"
-ka = "KATAVASIAS"
-le = "LECTIONARY" // this should be divided into three sections: prophecies, epistles, gospels
-me = "MENAION"
-oc = "OCTOECHOS"
-pe = "PENTECOSTARION"
-ps = "PSALTER"
-sy = "SYNAXARION"
-tr = "TRIODION"
+eo = template.titles_en_US_dedes.eo
+eu = template.titles_en_US_dedes.eu
+he = template.titles_en_US_dedes.he
+hi = template.titles_en_US_dedes.hi
+ho = template.titles_en_US_dedes.ho
+ka = template.titles_en_US_dedes.ka
+le = template.titles_en_US_dedes.le
+me = template.titles_en_US_dedes.me
+oc = template.titles_en_US_dedes.oc
+pe = template.titles_en_US_dedes.pe
+ps = template.titles_en_US_dedes.ps
+sy = template.titles_en_US_dedes.sy
+tr = template.titles_en_US_dedes.tr
 
 //service days
-sat = "SATURDAY"
-sun = "SUNDAY"
-wkd = "WEEKDAY"
-
-//service names
-service = "Service"
-
-co.html.tab  = "COMPLINE"
-co.pdf.header = "COMPLINE"
-co.pdf.cover = "The Service of Compline"
-co.smallcompline.cover = "Small Compline"
-co.smallcompline.header = "SMALL COMPLINE"
-co.salutations.pdf.cover = "Small Compline with Salutations"
-co.salutations.pdf.header = "SMALL COMPLINE WITH SALUTATIONS"
-co.greatcompline.pdf.cover = "Great Compline"
-co.greatcompline.pdf.header = "GREAT COMPLINE"
+sat = template.titles_en_US_dedes.sat
+sun = template.titles_en_US_dedes.sun
+wkd = template.titles_en_US_dedes.wkd
 
 //sacraments
-con.consecration = "Consecration"
+bap.html.tab = template.titles_en_US_dedes.bap.html.tab
+bap.pdf.header = template.titles_en_US_dedes.bap.pdf.header
+bap.pdf.cover = template.titles_en_US_dedes.bap.pdf.cover
 
-un.html.tab  = "UNCTION"
-un.pdf.header = "The Service of Holy Unction"
-un.pdf.cover = "The Service of Holy Unction"
+cdo.html.tab = template.titles_en_US_dedes.cdo.html.tab
+cdo.pdf.header = template.titles_en_US_dedes.cdo.pdf.header
+cdo.pdf.cover = template.titles_en_US_dedes.cdo.pdf.cover
 
-em.html.tab  = "MATINS"  //this is for Matins in the evening during Holy Week
-em.pdf.header = "Matins"
-em.pdf.cover = "Matins"
+chi.html.tab = template.titles_en_US_dedes.chi.html.tab
+chi.pdf.header = template.titles_en_US_dedes.chi.pdf.header
+chi.pdf.cover = template.titles_en_US_dedes.chi.pdf.cover
 
-gh.html.tab  = "GREAT HOURS"
-gh.pdf.header = "Great Hours"
-gh.pdf.cover = "The Great Hours"
+con.html.tab = template.titles_en_US_dedes.con.html.tab
+con.pdf.header = template.titles_en_US_dedes.con.pdf.header
+con.pdf.cover = template.titles_en_US_dedes.con.pdf.cover
 
-gp.html.tab = "PARAKLESIS"
-gp.pdf.header = "Great Paraklesis"
-gp.pdf.cover = "Service of the Great Parklesis"
+fun.html.tab = template.titles_en_US_dedes.fun.html.tab
+fun.pdf.header = template.titles_en_US_dedes.fun.pdf.header
+fun.pdf.cover = template.titles_en_US_dedes.fun.pdf.cover
 
-h1.html.tab  = "FIRST HOUR"
-h1.pdf.header = "First Hour"
-h1.pdf.cover = "The First Hour"
+mem.html.tab = template.titles_en_US_dedes.mem.html.tab
+mem.pdf.header = template.titles_en_US_dedes.mem.pdf.header
+mem.pdf.cover = template.titles_en_US_dedes.mem.pdf.cover
 
-h3.html.tab  = "THIRD HOUR"
-h3.pdf.header = "Third Hour"
-h3.pdf.cover = "The Third Hour"
+ord.html.tab = template.titles_en_US_dedes.ord.html.tab
+ord.pdf.header = template.titles_en_US_dedes.ord.pdf.header
+ord.pdf.cover = template.titles_en_US_dedes.ord.pdf.cover
 
-h6.html.tab  = "SIXTH HOUR"
-h6.pdf.header = "Sixth Hour"
-h6.pdf.cover = "The Sixth Hour"
+pen.html.tab = template.titles_en_US_dedes.pen.html.tab
+pen.pdf.header = template.titles_en_US_dedes.pen.pdf.header
+pen.pdf.cover = template.titles_en_US_dedes.pen.pdf.cover
 
-h9.html.tab  = "NINTH HOUR"
-h9.pdf.header = "Ninth Hour"
-h9.pdf.cover = "The Ninth Hour"
+swb.html.tab = template.titles_en_US_dedes.swb.html.tab
+swb.pdf.header = template.titles_en_US_dedes.swb.pdf.header
+swb.pdf.cover = template.titles_en_US_dedes.swb.pdf.cover
 
-hw.pdf.cover = "Holy Week "
+unc.html.tab  = template.titles_en_US_dedes.unc.html.tab 
+unc.pdf.header = template.titles_en_US_dedes.unc.pdf.header
+unc.pdf.cover = template.titles_en_US_dedes.unc.pdf.cover
 
-li.html.tab  = "LITURGY"
-li.pdf.header = "Liturgy"
-li.pdf.cover = "The Divine Liturgy"
+wed.html.tab = template.titles_en_US_dedes.wed.html.tab
+wed.pdf.header = template.titles_en_US_dedes.wed.pdf.header
+wed.pdf.cover = template.titles_en_US_dedes.wed.pdf.cover
 
-ma.html.tab  = "MATINS"
-ma.pdf.header = "Matins"
-ma.pdf.cover = "The Service of Matins"
+//service names
+service = template.titles_en_US_dedes.service
 
-mo.html.tab  = "MIDNIGHT OFFICE"
-mo.pdf.header = "Midnight Office"
-mo.pdf.cover = "The Midnight Office"
+co.html.tab  = template.titles_en_US_dedes.co.html.tab 
+co.pdf.header = template.titles_en_US_dedes.co.pdf.header
+co.pdf.cover = template.titles_en_US_dedes.co.pdf.cover
+co.smallcompline.cover = template.titles_en_US_dedes.co.smallcompline.cover
+co.smallcompline.header = template.titles_en_US_dedes.co.smallcompline.header
+co.salutations.pdf.cover = template.titles_en_US_dedes.co.salutations.pdf.cover
+co.salutations.pdf.header = template.titles_en_US_dedes.co.salutations.pdf.header
+co.greatcompline.pdf.cover = template.titles_en_US_dedes.co.greatcompline.pdf.cover
+co.greatcompline.pdf.header = template.titles_en_US_dedes.co.greatcompline.pdf.header
 
-pl.html.tab  = "PRESANCTIFIED"
-pl.pdf.header = "Presanctified Liturgy"
-pl.pdf.cover = "The Presanctified Liturgy"
+em.html.tab  = template.titles_en_US_dedes.em.html.tab 
+em.pdf.header = template.titles_en_US_dedes.em.pdf.header
+em.pdf.cover = template.titles_en_US_dedes.em.pdf.cover
 
-sp.html.tab = "PARAKLESIS"
-sp.pdf.header = "Small Paraklesis"
-sp.pdf.cover = "Service of the Small Parklesis"
+gh.html.tab  = template.titles_en_US_dedes.gh.html.tab 
+gh.pdf.header = template.titles_en_US_dedes.gh.pdf.header
+gh.pdf.cover = template.titles_en_US_dedes.gh.pdf.cover
 
-sv.html.tab  = "SMALL VESPERS"
-sv.pdf.header = "Small Vespers"
-sv.pdf.cover = "The Service of Small Vespers"
+gp.html.tab = template.titles_en_US_dedes.gp.html.tab
+gp.pdf.header = template.titles_en_US_dedes.gp.pdf.header
+gp.pdf.cover = template.titles_en_US_dedes.gp.pdf.cover
 
-ve.html.tab  = "VESPERS"
-ve.pdf.header = "Vespers"
-ve.pdf.cover = "The Service of Vespers"
+h1.html.tab  = template.titles_en_US_dedes.h1.html.tab 
+h1.pdf.header = template.titles_en_US_dedes.h1.pdf.header
+h1.pdf.cover = template.titles_en_US_dedes.h1.pdf.cover
 
-vl.html.tab  = "VESPERAL LITURGY"
-vl.pdf.header = "Vesperal Liturgy"
-vl.pdf.cover = "Vesperal Liturgy"
+h3.html.tab  = template.titles_en_US_dedes.h3.html.tab 
+h3.pdf.header = template.titles_en_US_dedes.h3.pdf.header
+h3.pdf.cover = template.titles_en_US_dedes.h3.pdf.cover
+
+h6.html.tab  = template.titles_en_US_dedes.h6.html.tab 
+h6.pdf.header = template.titles_en_US_dedes.h6.pdf.header
+h6.pdf.cover = template.titles_en_US_dedes.h6.pdf.cover
+
+h9.html.tab  = template.titles_en_US_dedes.h9.html.tab 
+h9.pdf.header = template.titles_en_US_dedes.h9.pdf.header
+h9.pdf.cover = template.titles_en_US_dedes.h9.pdf.cover
+
+hw.pdf.cover = template.titles_en_US_dedes.hw.pdf.cover
+
+li.html.tab  = template.titles_en_US_dedes.li.html.tab 
+li.pdf.header = template.titles_en_US_dedes.li.pdf.header
+li.pdf.cover = template.titles_en_US_dedes.li.pdf.cover
+
+ma.html.tab  = template.titles_en_US_dedes.ma.html.tab 
+ma.pdf.header = template.titles_en_US_dedes.ma.pdf.header
+ma.pdf.cover = template.titles_en_US_dedes.ma.pdf.cover
+
+mo.html.tab  = template.titles_en_US_dedes.mo.html.tab 
+mo.pdf.header = template.titles_en_US_dedes.mo.pdf.header
+mo.pdf.cover = template.titles_en_US_dedes.mo.pdf.cover
+
+pl.html.tab  = template.titles_en_US_dedes.pl.html.tab 
+pl.pdf.header = template.titles_en_US_dedes.pl.pdf.header
+pl.pdf.cover = template.titles_en_US_dedes.pl.pdf.cover
+
+sp.html.tab = template.titles_en_US_dedes.sp.html.tab
+sp.pdf.header = template.titles_en_US_dedes.sp.pdf.header
+sp.pdf.cover = template.titles_en_US_dedes.sp.pdf.cover
+
+sv.html.tab  = template.titles_en_US_dedes.sv.html.tab 
+sv.pdf.header = template.titles_en_US_dedes.sv.pdf.header
+sv.pdf.cover = template.titles_en_US_dedes.sv.pdf.cover
+
+ve.html.tab  = template.titles_en_US_dedes.ve.html.tab 
+ve.pdf.header = template.titles_en_US_dedes.ve.pdf.header
+ve.pdf.cover = template.titles_en_US_dedes.ve.pdf.cover
+
+vl.html.tab  = template.titles_en_US_dedes.vl.html.tab 
+vl.pdf.header = template.titles_en_US_dedes.vl.pdf.header
+vl.pdf.cover = template.titles_en_US_dedes.vl.pdf.cover
 
 //other
-d  = "DAY"
-d.delimiter = " - "
-d.of = " of "
-d.on = " on "
-d.ontheeveof = " on the eve of "
-d.onSundayMorning = "on Sunday Morning"
-d.onSundayEvening = "on Sunday Evening"
-d.onMondayMorning = "on Monday Morning"
-d.onMondayEvening = "on Monday Evening"
-d.onTuesdayMorning = "on Tuesday Morning"
-d.onTuesdayEvening = "on Tuesday Evening"
-d.onWednesdayMorning = "on Wednesday Morning"
-d.onWednesdayEvening = "on Wednesday Evening"
-d.onThursdayMorning = "on Thursday Morning"
-d.onThursdayEvening = "on Thursday Evening"
-d.onFridayMorning = "on Friday Morning"
-d.onFridayAfternoon = "on Friday Afternoon"
-d.onFridayEvening = "on Friday Evening"
-d.onSaturdayMorning = "on Saturday Morning"
-d.onSaturdayEvening = "on Saturday Evening"
+d  = template.titles_en_US_dedes.d 
+d.delimiter = template.titles_en_US_dedes.d.delimiter
+d.of = template.titles_en_US_dedes.d.of
+d.on = template.titles_en_US_dedes.d.on
+d.ontheeveof = template.titles_en_US_dedes.d.ontheeveof
+d.onSundayMorning = template.titles_en_US_dedes.d.onSundayMorning
+d.onSundayEvening = template.titles_en_US_dedes.d.onSundayEvening
+d.onMondayMorning = template.titles_en_US_dedes.d.onMondayMorning
+d.onMondayEvening = template.titles_en_US_dedes.d.onMondayEvening
+d.onTuesdayMorning = template.titles_en_US_dedes.d.onTuesdayMorning
+d.onTuesdayEvening = template.titles_en_US_dedes.d.onTuesdayEvening
+d.onWednesdayMorning = template.titles_en_US_dedes.d.onWednesdayMorning
+d.onWednesdayEvening = template.titles_en_US_dedes.d.onWednesdayEvening
+d.onThursdayMorning = template.titles_en_US_dedes.d.onThursdayMorning
+d.onThursdayEvening = template.titles_en_US_dedes.d.onThursdayEvening
+d.onFridayMorning = template.titles_en_US_dedes.d.onFridayMorning
+d.onFridayAfternoon = template.titles_en_US_dedes.d.onFridayAfternoon
+d.onFridayEvening = template.titles_en_US_dedes.d.onFridayEvening
+d.onSaturdayMorning = template.titles_en_US_dedes.d.onSaturdayMorning
+d.onSaturdayEvening = template.titles_en_US_dedes.d.onSaturdayEvening
 
-m.month  = "MONTH" // I will programatically determine whether to look up the m.month vs m.mode key
-m.mode = "MODE"
+m.month  = template.titles_en_US_dedes.m.month 
+m.mode = template.titles_en_US_dedes.m.mode
 
 //Holy Week
-hw.mergedscores.title = "Holy Week and Pascha Music<br>Merged Scores"
-hw.palmsunday = "Palm Sunday"
-hw.bridegroomservice = "Bridegroom Service "
-hw.passion = "Service of the Twelve Passion Gospels "
-hw.removal = "Removal from the Cross "
-hw.lamentation = "The Graveside Lamentation "
-hw.beforeresurrection = "The Service before the Resurrection "
-hw.ofholymonday = "of Holy Monday"
-hw.ofholytuesday = "of Holy Tuesday"
-hw.ofholywednesday = "of Holy Wednesday"
-hw.ofholythursday = "of Holy Thursday"
-hw.ofholyfriday = "of Holy Friday"
-hw.ofholysaturday = "of Holy Saturday"
+hw.mergedscores.title = template.titles_en_US_dedes.hw.mergedscores.title
+hw.palmsunday = template.titles_en_US_dedes.hw.palmsunday
+hw.bridegroomservice = template.titles_en_US_dedes.hw.bridegroomservice
+hw.passion = template.titles_en_US_dedes.hw.passion
+hw.removal = template.titles_en_US_dedes.hw.removal
+hw.lamentation = template.titles_en_US_dedes.hw.lamentation
+hw.beforeresurrection = template.titles_en_US_dedes.hw.beforeresurrection
+hw.ofholymonday = template.titles_en_US_dedes.hw.ofholymonday
+hw.ofholytuesday = template.titles_en_US_dedes.hw.ofholytuesday
+hw.ofholywednesday = template.titles_en_US_dedes.hw.ofholywednesday
+hw.ofholythursday = template.titles_en_US_dedes.hw.ofholythursday
+hw.ofholyfriday = template.titles_en_US_dedes.hw.ofholyfriday
+hw.ofholysaturday = template.titles_en_US_dedes.hw.ofholysaturday
 
-pa.pascha = "Holy Pascha"
-pa.ofpascha = "of Pascha"
-pa.resurrection = "The Resurrection"
-pa.easter = "Easter Sunday"
-pa.agape = "The Agape Vespers Service"
-pa.brightweek = "Bright / Renewal Week"
+pa.pascha = template.titles_en_US_dedes.pa.pascha
+pa.ofpascha = template.titles_en_US_dedes.pa.ofpascha
+pa.resurrection = template.titles_en_US_dedes.pa.resurrection
+pa.easter = template.titles_en_US_dedes.pa.easter
+pa.agape = template.titles_en_US_dedes.pa.agape
+pa.brightweek = template.titles_en_US_dedes.pa.brightweek
 
