@@ -50,9 +50,9 @@ lecAP.Period.uc = lectionaries_en_US_holycross.lecAP.Period.uc
 lecAP.HolyWeek.uc = lectionaries_en_US_holycross.lecAP.HolyWeek.uc
 lecAP.Menaion.uc = lectionaries_en_US_holycross.lecAP.Menaion.uc
 lecAP.Various.uc = lectionaries_en_US_holycross.lecAP.Various.uc
-lecAP.Eothinon.uc = lectionaries_en_US_holycross.lecAP.Eothinon.uc
+lecLE.Eothinon.uc = lectionaries_en_US_holycross.lecLE.Eothinon.uc
 
-lecAP.Eothinon = lectionaries_en_US_holycross.lecAP.Eothinon
+lecLE.Eothinon = lectionaries_en_US_holycross.lecLE.Eothinon
 
 lecEV.Evangelion = lectionaries_en_US_holycross.lecEV.Evangelion
 lecEV.ForefestalGospel = lectionaries_en_US_holycross.lecEV.ForefestalGospel
