@@ -28,6 +28,8 @@ meVE.Stichera03.mode = me.m01.d11_en_US_dedes.meVE.Stichera03.mode
 meVE.Stichera03.melody = me.m01.d11_en_US_dedes.meVE.Stichera03.melody
 meVE.Stichera03.text = me.m01.d11_en_US_dedes.meVE.Stichera03.text
 
+meVE.Stichera8910.text = me.m01.d11_en_US_dedes.meVE.Stichera8910.text
+
 meVE.SticGlory.poet = me.m01.d11_en_US_dedes.meVE.SticGlory.poet
 meVE.SticGlory.mode = me.m01.d11_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m01.d11_en_US_dedes.meVE.SticGlory.melody
@@ -66,6 +68,7 @@ meVE.AposBoth.text = me.m01.d11_en_US_dedes.meVE.AposBoth.text
 
 meVE.Apolytikion1.mode = me.m01.d11_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m01.d11_en_US_dedes.meVE.Apolytikion1.melody
+meVE.Apolytikion1.text = me.m01.d11_en_US_dedes.meVE.Apolytikion1.text
 meVE.GeneralApolytikion1.name = me.m01.d11_en_US_dedes.meVE.GeneralApolytikion1.name //     name of saint for General Apolytikia
 
 meMA.Kathisma11.mode = me.m01.d11_en_US_dedes.meMA.Kathisma11.mode
@@ -85,9 +88,6 @@ meMA.Kathisma32.melody = me.m01.d11_en_US_dedes.meMA.Kathisma32.melody
 meMA.Kathisma32.text = me.m01.d11_en_US_dedes.meMA.Kathisma32.text
 
 meMA.Prokeimenon.text = me.m01.d11_en_US_dedes.meMA.Prokeimenon.text //   for media
-//meMA.Gospel.name = //""
-//meMA.Gospel.chapverse = //""
-//meMA.Gospel.text = ""
 
 meMA.PostGospelGlory.mode = me.m01.d11_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m01.d11_en_US_dedes.meMA.PostGospelGlory.melody
