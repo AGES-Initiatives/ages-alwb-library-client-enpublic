@@ -23,6 +23,8 @@ trVE.Stichera04.mode = tr.d015_en_US_dedes.trVE.Stichera04.mode
 trVE.Stichera04.melody = tr.d015_en_US_dedes.trVE.Stichera04.melody
 trVE.Stichera04.text = tr.d015_en_US_dedes.trVE.Stichera04.text
 
+trVE.Stichera567.text = tr.d015_en_US_dedes.trVE.Stichera567.text
+
 trVE.SticGlory.mode = tr.d015_en_US_dedes.trVE.SticGlory.mode
 trVE.SticGlory.melody = tr.d015_en_US_dedes.trVE.SticGlory.melody
 trVE.SticGlory.text = tr.d015_en_US_dedes.trVE.SticGlory.text
@@ -39,9 +41,9 @@ trVE.AposGlory.mode = tr.d015_en_US_dedes.trVE.AposGlory.mode
 trVE.AposGlory.melody = tr.d015_en_US_dedes.trVE.AposGlory.melody
 trVE.AposGlory.text = tr.d015_en_US_dedes.trVE.AposGlory.text
 
-trVE.AposTheotokion.mode = tr.d015_en_US_dedes.trVE.AposTheotokion.mode
-trVE.AposTheotokion.melody = tr.d015_en_US_dedes.trVE.AposTheotokion.melody
-trVE.AposTheotokion.text = tr.d015_en_US_dedes.trVE.AposTheotokion.text
+trVE.AposTheotokion.mode = oc.m8.d1_en_US_public.ocVE.AposTheotokion.mode
+trVE.AposTheotokion.melody = oc.m8.d1_en_US_public.ocVE.AposTheotokion.melody
+trVE.AposTheotokion.text = oc.m8.d1_en_US_public.ocVE.AposTheotokion.text
 
 trMA.PostGospelGlory.mode = tr.d015_en_US_dedes.trMA.PostGospelGlory.mode
 trMA.PostGospelGlory.melody = tr.d015_en_US_dedes.trMA.PostGospelGlory.melody
