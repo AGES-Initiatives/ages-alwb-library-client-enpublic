@@ -87,13 +87,11 @@ meVE.Stichera06.mode = me.m02.d06_en_US_dedes.meVE.Stichera06.mode
 meVE.Stichera06.melody = me.m02.d06_en_US_dedes.meVE.Stichera06.melody
 meVE.Stichera06.text = me.m02.d06_en_US_dedes.meVE.Stichera06.text
 
+meVE.Stichera8910.text = me.m02.d06_en_US_dedes.meVE.Stichera8910.text
+
 meVE.SticGlory.mode = me.m02.d06_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m02.d06_en_US_dedes.meVE.SticGlory.melody
 meVE.SticGlory.text = me.m02.d06_en_US_dedes.meVE.SticGlory.text
-
-//http://ec-patr.org/gr/typikon/2013/2013-02-06.htm
-//Καί νῦν: Τό ὁμόηχον Ἰδιόμελον τῆς Ἑορτῆς· «Ἀνοιγέσθω ἡ πύλη...», ζήτει τοῦτο εἰς τό Δόξα, Καί νῦν, τῶν Ἑσπερίων τῆς Ἑορτῆς.
-//Added poet
 
 meVE.SticBoth.poet = me.m02.d06_en_US_dedes.meVE.SticBoth.poet
 meVE.SticBoth.mode = me.m02.d06_en_US_dedes.meVE.SticBoth.mode
