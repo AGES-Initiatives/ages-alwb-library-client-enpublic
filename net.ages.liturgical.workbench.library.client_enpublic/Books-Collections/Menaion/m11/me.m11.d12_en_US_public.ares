@@ -19,8 +19,8 @@ meVE.Stichera01.melody = me.m11.d12_en_US_dedes.meVE.Stichera01.melody
 meVE.Stichera01.text = me.m11.d12_en_US_dedes.meVE.Stichera01.text
 
 meVE.Stichera02.mode = me.m11.d12_en_US_dedes.meVE.Stichera02.mode
-meVE.Stichera02.melody = misc_en_US_public.NotMetered
-meVE.Stichera02.text = me.m11.d11_en_US_oca.meVE.Stichera02.text
+meVE.Stichera02.melody = me.m11.d12_en_US_dedes.meVE.Stichera02.melody
+meVE.Stichera02.text = me.m11.d12_en_US_dedes.meVE.Stichera02.text
 
 meVE.Stichera03.mode = me.m11.d12_en_US_dedes.meVE.Stichera03.mode
 meVE.Stichera03.melody = me.m11.d12_en_US_dedes.meVE.Stichera03.melody

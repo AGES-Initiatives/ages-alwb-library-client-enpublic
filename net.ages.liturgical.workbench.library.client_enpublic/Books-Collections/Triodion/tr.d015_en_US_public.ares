@@ -8,26 +8,26 @@ trNote.text = tr.d015_en_US_dedes.trNote.text
 trDismissal = tr.d015_en_US_dedes.trDismissal
 
 trVE.Stichera01.mode = tr.d015_en_US_dedes.trVE.Stichera01.mode
-trVE.Stichera01.melody = tr.d015_en_US_dedes.trVE.Stichera01.melody
-trVE.Stichera01.text = tr.d015_en_US_dedes.trVE.Stichera01.text
+trVE.Stichera01.melody = tr.d015_en_UK_lash.trVE.Stichera01.melody
+trVE.Stichera01.text = tr.d015_en_UK_lash.trVE.Stichera01.text
 
 trVE.Stichera02.mode = tr.d015_en_US_dedes.trVE.Stichera02.mode
-trVE.Stichera02.melody = tr.d015_en_US_dedes.trVE.Stichera02.melody
-trVE.Stichera02.text = tr.d015_en_US_dedes.trVE.Stichera02.text
+trVE.Stichera02.melody = tr.d015_en_UK_lash.trVE.Stichera02.melody
+trVE.Stichera02.text = tr.d015_en_UK_lash.trVE.Stichera02.text
 
 trVE.Stichera03.mode = tr.d015_en_US_dedes.trVE.Stichera03.mode
-trVE.Stichera03.melody = tr.d015_en_US_dedes.trVE.Stichera03.melody
-trVE.Stichera03.text = tr.d015_en_US_dedes.trVE.Stichera03.text
+trVE.Stichera03.melody = tr.d015_en_UK_lash.trVE.Stichera03.melody
+trVE.Stichera03.text = tr.d015_en_UK_lash.trVE.Stichera03.text
 
 trVE.Stichera04.mode = tr.d015_en_US_dedes.trVE.Stichera04.mode
-trVE.Stichera04.melody = tr.d015_en_US_dedes.trVE.Stichera04.melody
-trVE.Stichera04.text = tr.d015_en_US_dedes.trVE.Stichera04.text
+trVE.Stichera04.melody = tr.d015_en_UK_lash.trVE.Stichera04.melody
+trVE.Stichera04.text = tr.d015_en_UK_lash.trVE.Stichera04.text
 
 trVE.Stichera567.text = tr.d015_en_US_dedes.trVE.Stichera567.text
 
 trVE.SticGlory.mode = tr.d015_en_US_dedes.trVE.SticGlory.mode
 trVE.SticGlory.melody = tr.d015_en_US_dedes.trVE.SticGlory.melody
-trVE.SticGlory.text = tr.d015_en_US_dedes.trVE.SticGlory.text
+trVE.SticGlory.text = tr.d015_en_UK_lash.trVE.SticGlory.text
 
 trVE.LityGlory.mode = tr.d015_en_US_dedes.trVE.LityGlory.mode
 trVE.LityGlory.melody = tr.d015_en_US_dedes.trVE.LityGlory.melody
@@ -39,7 +39,7 @@ trVE.LityBoth.text = tr.d015_en_US_dedes.trVE.LityBoth.text
 
 trVE.AposGlory.mode = tr.d015_en_US_dedes.trVE.AposGlory.mode
 trVE.AposGlory.melody = tr.d015_en_US_dedes.trVE.AposGlory.melody
-trVE.AposGlory.text = tr.d015_en_US_dedes.trVE.AposGlory.text
+trVE.AposGlory.text = tr.d015_en_UK_lash.trVE.AposGlory.text
 
 trVE.AposTheotokion.mode = oc.m8.d1_en_US_public.ocVE.AposTheotokion.mode
 trVE.AposTheotokion.melody = oc.m8.d1_en_US_public.ocVE.AposTheotokion.melody
