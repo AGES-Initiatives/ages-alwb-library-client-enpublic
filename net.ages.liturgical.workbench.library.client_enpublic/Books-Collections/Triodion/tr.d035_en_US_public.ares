@@ -268,20 +268,9 @@ trLI.SeasonalKontakion.mode = tr.d035_en_US_dedes.trLI.SeasonalKontakion.mode
 trLI.SeasonalKontakion.melody = tr.d035_en_US_dedes.trLI.SeasonalKontakion.melody
 trLI.SeasonalKontakion.text = tr.d035_en_US_dedes.trLI.SeasonalKontakion.text
 
-trLI.Prokeimenon.mode = tr.d035_en_US_dedes.trLI.Prokeimenon.mode
-trLI.Prokeimenon.text = tr.d035_en_US_dedes.trLI.Prokeimenon.text
-
-trLI.ProkeimenonVerse.text = tr.d035_en_US_dedes.trLI.ProkeimenonVerse.text
-
 trLI.Epistle.book = tr.d035_en_US_dedes.trLI.Epistle.book
 trLI.Epistle.chapverse = tr.d035_en_US_dedes.trLI.Epistle.chapverse
 trLI.Epistle.text = tr.d035_en_US_dedes.trLI.Epistle.text
-
-trLI.Alleluia.mode = tr.d035_en_US_dedes.trLI.Alleluia.mode
-
-trLI.AlleluiaVerse1.text = tr.d035_en_US_dedes.trLI.AlleluiaVerse1.text
-
-trLI.AlleluiaVerse2.text = tr.d035_en_US_dedes.trLI.AlleluiaVerse2.text
 
 trLI.Gospel.book = tr.d035_en_US_dedes.trLI.Gospel.book
 trLI.Gospel.chapverse = tr.d035_en_US_dedes.trLI.Gospel.chapverse

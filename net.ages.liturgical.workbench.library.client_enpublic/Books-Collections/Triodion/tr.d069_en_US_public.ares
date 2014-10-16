@@ -321,11 +321,6 @@ trHW.BeatitudesT.mode = tr.d069_en_US_dedes.trHW.BeatitudesT.mode
 trHW.BeatutidesT.melody = tr.d069_en_US_dedes.trHW.BeatutidesT.melody
 trHW.BeatitudesT.text = tr.d069_en_US_dedes.trHW.BeatitudesT.text
 
-trHW.Prokeimenon.mode = tr.d069_en_US_dedes.trHW.Prokeimenon.mode
-trHW.Prokeimenon.text = tr.d069_en_US_dedes.trHW.Prokeimenon.text
-
-trHW.ProkeimenonVerse1.text = tr.d069_en_US_dedes.trHW.ProkeimenonVerse1.text
-
 trMA.C1Poet = tr.d069_en_US_dedes.trMA.C1Poet
 trMA.C1Acrostic.text = tr.d069_en_US_dedes.trMA.C1Acrostic.text
 
