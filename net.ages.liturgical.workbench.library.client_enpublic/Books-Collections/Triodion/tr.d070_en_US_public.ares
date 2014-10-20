@@ -5,6 +5,7 @@ trShortCommemoration1.text = tr.d070_en_US_dedes.trShortCommemoration1.text
 trInsert1 = tr.d070_en_US_dedes.trInsert1 // for use in petitions and dismissal
 trInsert2 = tr.d070_en_US_dedes.trInsert2 // for use in petitions and dismissal
 trNote.text = tr.d070_en_US_dedes.trNote.text
+trDismissal = tr.d070_en_US_dedes.trDismissal
 
 trHW.LIHC.text = tr.d070_en_US_dedes.trHW.LIHC.text // for media
 
