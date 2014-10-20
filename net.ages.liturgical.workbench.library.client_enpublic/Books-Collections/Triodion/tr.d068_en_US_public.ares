@@ -5,6 +5,7 @@ trShortCommemoration1.text = tr.d068_en_US_dedes.trShortCommemoration1.text
 trInsert1 = tr.d068_en_US_dedes.trInsert1 // for use in petitions and dismissal
 trInsert2 = tr.d068_en_US_dedes.trInsert2 // for use in petitions and dismissal
 trNote.text = tr.d068_en_US_dedes.trNote.text
+trDismissal = tr.d068_en_US_dedes.trDismissal
 
 trVE.Stichera01.mode = tr.d068_en_US_dedes.trVE.Stichera01.mode
 trVE.Stichera01.melody = tr.d068_en_US_dedes.trVE.Stichera01.melody
