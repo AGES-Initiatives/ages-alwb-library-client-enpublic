@@ -112,9 +112,41 @@ li.html.tab  = template.titles_en_US_dedes.li.html.tab
 li.pdf.header = template.titles_en_US_dedes.li.pdf.header
 li.pdf.cover = template.titles_en_US_dedes.li.pdf.cover
 
+li2.html.tab  = template.titles_en_US_dedes.li2.html.tab 
+li2.pdf.header = template.titles_en_US_dedes.li2.pdf.header
+li2.pdf.cover = template.titles_en_US_dedes.li2.pdf.cover
+
+li3.html.tab  = template.titles_en_US_dedes.li3.html.tab 
+li3.pdf.header = template.titles_en_US_dedes.li3.pdf.header
+li3.pdf.cover = template.titles_en_US_dedes.li3.pdf.cover
+
+li4.html.tab  = template.titles_en_US_dedes.li4.html.tab 
+li4.pdf.header = template.titles_en_US_dedes.li4.pdf.header
+li4.pdf.cover = template.titles_en_US_dedes.li4.pdf.cover
+
+li5.html.tab  = template.titles_en_US_dedes.li5.html.tab 
+li5.pdf.header = template.titles_en_US_dedes.li5.pdf.header
+li5.pdf.cover = template.titles_en_US_dedes.li5.pdf.cover
+
 ma.html.tab  = template.titles_en_US_dedes.ma.html.tab 
 ma.pdf.header = template.titles_en_US_dedes.ma.pdf.header
 ma.pdf.cover = template.titles_en_US_dedes.ma.pdf.cover
+
+ma2.html.tab  = template.titles_en_US_dedes.ma2.html.tab 
+ma2.pdf.header = template.titles_en_US_dedes.ma2.pdf.header
+ma2.pdf.cover = template.titles_en_US_dedes.ma2.pdf.cover
+
+ma3.html.tab  = template.titles_en_US_dedes.ma3.html.tab 
+ma3.pdf.header = template.titles_en_US_dedes.ma3.pdf.header
+ma3.pdf.cover = template.titles_en_US_dedes.ma3.pdf.cover
+
+ma4.html.tab  = template.titles_en_US_dedes.ma4.html.tab 
+ma4.pdf.header = template.titles_en_US_dedes.ma4.pdf.header
+ma4.pdf.cover = template.titles_en_US_dedes.ma4.pdf.cover
+
+ma5.html.tab  = template.titles_en_US_dedes.ma5.html.tab 
+ma5.pdf.header = template.titles_en_US_dedes.ma5.pdf.header
+ma5.pdf.cover = template.titles_en_US_dedes.ma5.pdf.cover
 
 mo.html.tab  = template.titles_en_US_dedes.mo.html.tab 
 mo.pdf.header = template.titles_en_US_dedes.mo.pdf.header
@@ -135,6 +167,22 @@ sv.pdf.cover = template.titles_en_US_dedes.sv.pdf.cover
 ve.html.tab  = template.titles_en_US_dedes.ve.html.tab 
 ve.pdf.header = template.titles_en_US_dedes.ve.pdf.header
 ve.pdf.cover = template.titles_en_US_dedes.ve.pdf.cover
+
+ve2.html.tab  = template.titles_en_US_dedes.ve2.html.tab 
+ve2.pdf.header = template.titles_en_US_dedes.ve2.pdf.header
+ve2.pdf.cover = template.titles_en_US_dedes.ve2.pdf.cover
+
+ve3.html.tab  = template.titles_en_US_dedes.ve3.html.tab 
+ve3.pdf.header = template.titles_en_US_dedes.ve.pdf.header
+ve3.pdf.cover = template.titles_en_US_dedes.ve3.pdf.cover
+
+ve4.html.tab  = template.titles_en_US_dedes.ve4.html.tab 
+ve4.pdf.header = template.titles_en_US_dedes.ve4.pdf.header
+ve4.pdf.cover = template.titles_en_US_dedes.ve4.pdf.cover
+
+ve5.html.tab  = template.titles_en_US_dedes.ve5.html.tab 
+ve5.pdf.header = template.titles_en_US_dedes.ve5.pdf.header
+ve5.pdf.cover = template.titles_en_US_dedes.ve5.pdf.cover
 
 vl.html.tab  = template.titles_en_US_dedes.vl.html.tab 
 vl.pdf.header = template.titles_en_US_dedes.vl.pdf.header
