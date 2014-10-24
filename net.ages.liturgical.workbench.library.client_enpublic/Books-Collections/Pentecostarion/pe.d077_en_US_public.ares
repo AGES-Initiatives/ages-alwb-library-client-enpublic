@@ -11,31 +11,31 @@ peVE.Stichera1234.text = pe.d077_en_US_dedes.peVE.Stichera1234.text // for media
 
 peVE.Stichera01.mode = pe.d077_en_US_dedes.peVE.Stichera01.mode
 peVE.Stichera01.melody = pe.d077_en_US_dedes.peVE.Stichera01.melody
-peVE.Stichera01.text = pe.d077_en_US_dedes.peVE.Stichera01.text
+peVE.Stichera01.text = pe.d077_en_US_holycross.peVE.Stichera01.text
 
 peVE.Stichera02.mode = pe.d077_en_US_dedes.peVE.Stichera02.mode
 peVE.Stichera02.melody = pe.d077_en_US_dedes.peVE.Stichera02.melody
-peVE.Stichera02.text = pe.d077_en_US_dedes.peVE.Stichera02.text
+peVE.Stichera02.text = pe.d077_en_US_holycross.peVE.Stichera02.text
 
 peVE.Stichera03.mode = pe.d077_en_US_dedes.peVE.Stichera03.mode
 peVE.Stichera03.melody = pe.d077_en_US_dedes.peVE.Stichera03.melody
-peVE.Stichera03.text = pe.d077_en_US_dedes.peVE.Stichera03.text
+peVE.Stichera03.text = pe.d077_en_US_holycross.peVE.Stichera03.text
 
 peVE.Stichera04.mode = pe.d077_en_US_dedes.peVE.Stichera04.mode
 peVE.Stichera04.melody = pe.d077_en_US_dedes.peVE.Stichera04.melody
-peVE.Stichera04.text = pe.d077_en_US_dedes.peVE.Stichera04.text
+peVE.Stichera04.text = pe.d077_en_US_holycross.peVE.Stichera04.text
 
 peVE.Stichera05.mode = pe.d077_en_US_dedes.peVE.Stichera05.mode
 peVE.Stichera05.melody = pe.d077_en_US_dedes.peVE.Stichera05.melody
-peVE.Stichera05.text = pe.d077_en_US_dedes.peVE.Stichera05.text
+peVE.Stichera05.text = pe.d077_en_US_holycross.peVE.Stichera05.text
 
 peVE.Stichera06.mode = pe.d077_en_US_dedes.peVE.Stichera06.mode
 peVE.Stichera06.melody = pe.d077_en_US_dedes.peVE.Stichera06.melody
-peVE.Stichera06.text = pe.d077_en_US_dedes.peVE.Stichera06.text
+peVE.Stichera06.text = pe.d077_en_US_holycross.peVE.Stichera06.text
 
 peVE.SticGlory.mode = pe.d077_en_US_dedes.peVE.SticGlory.mode
 peVE.SticGlory.melody = pe.d077_en_US_dedes.peVE.SticGlory.melody
-peVE.SticGlory.text = pe.d077_en_US_dedes.peVE.SticGlory.text
+peVE.SticGlory.text = pe.d077_en_US_holycross.peVE.SticGlory.text
 
 peVE.SticBoth.mode = pe.d077_en_US_dedes.peVE.SticBoth.mode
 peVE.SticBoth.melody = pe.d077_en_US_dedes.peVE.SticBoth.melody
