@@ -34,19 +34,19 @@ peVE.Stichera06.melody = pe.d076_en_US_dedes.peVE.Stichera06.melody
 peVE.Stichera06.text = pe.d076_en_US_holycross.peVE.Stichera06.text
 
 peVE.Stichera07.mode = pe.d076_en_US_dedes.peVE.Stichera07.mode
-peVE.Stichera07.melody = pe.d076_en_US_oca.peVE.Stichera07.melody
+peVE.Stichera07.melody = misc_en_US_public.NotMetered
 peVE.Stichera07.text = pe.d076_en_US_oca.peVE.Stichera07.text
 
 peVE.Stichera08.mode = pe.d076_en_US_dedes.peVE.Stichera08.mode
-peVE.Stichera08.melody = pe.d076_en_US_oca.peVE.Stichera08.melody
+peVE.Stichera08.melody = misc_en_US_public.NotMetered
 peVE.Stichera08.text = pe.d076_en_US_oca.peVE.Stichera08.text
 
 peVE.Stichera09.mode = pe.d076_en_US_dedes.peVE.Stichera09.mode
-peVE.Stichera09.melody = pe.d076_en_US_oca.peVE.Stichera09.melody
+peVE.Stichera09.melody = misc_en_US_public.NotMetered
 peVE.Stichera09.text = pe.d076_en_US_oca.peVE.Stichera09.text
 
 peVE.Stichera10.mode = pe.d076_en_US_dedes.peVE.Stichera10.mode
-peVE.Stichera10.melody = pe.d076_en_US_oca.peVE.Stichera10.melody
+peVE.Stichera10.melody = misc_en_US_public.NotMetered
 peVE.Stichera10.text = pe.d076_en_US_oca.peVE.Stichera10.text
 
 peVE.SticGlory.mode = pe.d076_en_US_dedes.peVE.SticGlory.mode
@@ -64,15 +64,15 @@ peVE.Aposticha1.melody = pe.d076_en_US_dedes.peVE.Aposticha1.melody
 peVE.Aposticha1.text = pe.d076_en_US_holycross.peVE.Aposticha1.text
 
 peVE.Aposticha2.mode = pe.d076_en_US_dedes.peVE.Aposticha2.mode
-peVE.Aposticha2.melody = pe.d076_en_US_oca.peVE.Aposticha2.melody
+peVE.Aposticha2.melody = misc_en_US_public.NotMetered
 peVE.Aposticha2.text = pe.d076_en_US_oca.peVE.Aposticha2.text
 
 peVE.Aposticha3.mode = pe.d076_en_US_dedes.peVE.Aposticha3.mode
-peVE.Aposticha3.melody = pe.d076_en_US_oca.peVE.Aposticha3.melody
+peVE.Aposticha3.melody = misc_en_US_public.NotMetered
 peVE.Aposticha3.text = pe.d076_en_US_oca.peVE.Aposticha3.text
 
 peVE.Aposticha4.mode = pe.d076_en_US_dedes.peVE.Aposticha4.mode
-peVE.Aposticha4.melody = pe.d076_en_US_oca.peVE.Aposticha4.melody
+peVE.Aposticha4.melody = misc_en_US_public.NotMetered
 peVE.Aposticha4.text = pe.d076_en_US_oca.peVE.Aposticha4.text
 
 peVE.AposGlory.mode = pe.d076_en_US_dedes.peVE.AposGlory.mode
