@@ -508,7 +508,8 @@ meLI.SeasonalKontakion.melody = me.m08.d15_en_US_dedes.meLI.SeasonalKontakion.me
 meLI.SeasonalKontakion.text = me.m08.d15_en_US_dedes.meLI.SeasonalKontakion.text
 
 meLI.TheotokosHymn.mode = me.m08.d15_en_US_dedes.meLI.TheotokosHymn.mode
-meLI.TheotokosHymn.text = me.m08.d15_en_US_dedes.meLI.TheotokosHymn.text //    need to prefix meMA.Ode9C1M01.text
+meLI.TheotokosHymnVerse.text = me.m08.d15_en_US_dedes.meLI.TheotokosHymnVerse.text
+meLI.TheotokosHymn.text = me.m08.d15_en_US_dedes.meLI.TheotokosHymn.text
 
 meLI.CommunionHymn.text = me.m08.d15_en_US_dedes.meLI.CommunionHymn.text
 
