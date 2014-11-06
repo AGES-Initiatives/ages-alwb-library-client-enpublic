@@ -534,29 +534,7 @@ peMA.LaudsGlory.mode = pe.d120_en_US_dedes.peMA.LaudsGlory.mode
 peMA.LaudsGlory.melody = pe.d120_en_US_dedes.peMA.LaudsGlory.melody
 peMA.LaudsGlory.text = pe.d120_en_US_dedes.peMA.LaudsGlory.text
 
-peLI.Antiphon1Verse1.text = pe.d120_en_US_dedes.peLI.Antiphon1Verse1.text
-
-peLI.Antiphon1Verse2.text = pe.d120_en_US_dedes.peLI.Antiphon1Verse2.text
-
-peLI.Antiphon1Verse3.text = pe.d120_en_US_dedes.peLI.Antiphon1Verse3.text
-
-peLI.Antiphon1Verse4.text = pe.d120_en_US_dedes.peLI.Antiphon1Verse4.text
-
-peLI.Antiphon2Verse1.text = pe.d120_en_US_dedes.peLI.Antiphon2Verse1.text
-
-peLI.Antiphon2Verse2.text = pe.d120_en_US_dedes.peLI.Antiphon2Verse2.text
-
-peLI.Antiphon2Verse3.text = pe.d120_en_US_dedes.peLI.Antiphon2Verse3.text
-
 peLI.Antiphon2.text = pe.d120_en_US_dedes.peLI.Antiphon2.text
-
-peLI.Antiphon3Verse1.text = pe.d120_en_US_dedes.peLI.Antiphon3Verse1.text
-
-peLI.Antiphon3Verse2.text = pe.d120_en_US_dedes.peLI.Antiphon3Verse2.text
-
-peLI.Antiphon3Verse3.text = pe.d120_en_US_dedes.peLI.Antiphon3Verse3.text
-
-peLI.Antiphon3Verse4.text = pe.d120_en_US_dedes.peLI.Antiphon3Verse4.text
 
 peLI.EntranceHymn.text = pe.d120_en_US_dedes.peLI.EntranceHymn.text
 

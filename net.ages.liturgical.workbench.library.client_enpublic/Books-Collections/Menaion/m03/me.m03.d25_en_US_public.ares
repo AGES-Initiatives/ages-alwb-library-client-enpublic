@@ -414,29 +414,7 @@ meMA.LaudsSundayVerse1.text = me.m03.d25_en_US_dedes.meMA.LaudsSundayVerse1.text
 
 meMA.LaudsSundayVerse2.text = me.m03.d25_en_US_dedes.meMA.LaudsSundayVerse2.text
 
-meLI.Antiphon1Verse1.text = me.m03.d25_en_US_dedes.meLI.Antiphon1Verse1.text
-
-meLI.Antiphon1Verse2.text = me.m03.d25_en_US_dedes.meLI.Antiphon1Verse2.text
-
-meLI.Antiphon1Verse3.text = me.m03.d25_en_US_dedes.meLI.Antiphon1Verse3.text
-
-meLI.Antiphon1Verse4.text = me.m03.d25_en_US_dedes.meLI.Antiphon1Verse4.text
-
-meLI.Antiphon2Verse1.text = me.m03.d25_en_US_dedes.meLI.Antiphon2Verse1.text
-
-meLI.Antiphon2Verse2.text = me.m03.d25_en_US_dedes.meLI.Antiphon2Verse2.text
-
-meLI.Antiphon2Verse3.text = me.m03.d25_en_US_dedes.meLI.Antiphon2Verse3.text
-
-meLI.Antiphon2Verse4.text = me.m03.d25_en_US_dedes.meLI.Antiphon2Verse4.text
-
 meLI.Antiphon2.text = me.m03.d25_en_US_dedes.meLI.Antiphon2.text
-
-meLI.Antiphon3Verse1.text = me.m03.d25_en_US_dedes.meLI.Antiphon3Verse1.text
-
-meLI.Antiphon3Verse2.text = me.m03.d25_en_US_dedes.meLI.Antiphon3Verse2.text
-
-meLI.Antiphon3Verse3.text = me.m03.d25_en_US_dedes.meLI.Antiphon3Verse3.text
 
 meLI.EntranceHymn.text = me.m03.d25_en_US_dedes.meLI.EntranceHymn.text
 
@@ -444,8 +422,8 @@ meLI.SeasonalKontakion.mode = me.m03.d25_en_US_dedes.meLI.SeasonalKontakion.mode
 meLI.SeasonalKontakion.melody = me.m03.d25_en_US_dedes.meLI.SeasonalKontakion.melody
 meLI.SeasonalKontakion.text = me.m03.d25_en_US_dedes.meLI.SeasonalKontakion.text
 
-// need to add megaynarion verse
 meLI.TheotokosHymn.mode = me.m03.d25_en_US_dedes.meLI.TheotokosHymn.mode
+meLI.TheotokosHymnVerse.text = me.m03.d25_en_US_dedes.meLI.TheotokosHymnVerse.text
 meLI.TheotokosHymn.text = me.m03.d25_en_US_dedes.meLI.TheotokosHymn.text
 
 meLI.CommunionHymn.text = me.m03.d25_en_US_dedes.meLI.CommunionHymn.text
