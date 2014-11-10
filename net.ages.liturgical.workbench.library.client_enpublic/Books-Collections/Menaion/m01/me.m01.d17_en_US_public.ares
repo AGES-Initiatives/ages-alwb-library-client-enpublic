@@ -378,16 +378,15 @@ meMA.Ode9C1T.text = me.m01.d17_en_US_dedes.meMA.Ode9C1T.text
 meMA.Ode9K.ode = me.m01.d17_en_US_dedes.meMA.Ode9K.ode
 meMA.Ode9K.mode = me.m01.d17_en_US_dedes.meMA.Ode9K.mode
 meMA.Ode9K.melody = me.m01.d17_en_US_dedes.meMA.Ode9K.melody
-// Θεοτόκε ἡ ἐλπίς, πάντων τῶν Χριστιανῶν, σκέπε φρούρει φύλαττε, τοὺς ἐλπίζοντας εἰς σέ.
 meMA.Ode9K.text = me.m01.d17_en_US_dedes.meMA.Ode9K.text
 
 meMA.Exaposteilarion1.mode = me.m01.d17_en_US_dedes.meMA.Exaposteilarion1.mode
-meMA.Exaposteilarion1.melody = me.m01.d17_en_US_dedes.meMA.Exaposteilarion1.melody
-meMA.Exaposteilarion1.text = me.m01.d17_en_US_dedes.meMA.Exaposteilarion1.text
+meMA.Exaposteilarion1.melody = misc_en_US_public.NotMetered
+meMA.Exaposteilarion1.text = me.m01.d17_en_US_oca.meMA.Exaposteilarion1.text
 
 meMA.Exaposteilarion2.mode = me.m01.d17_en_US_dedes.meMA.Exaposteilarion2.mode
-meMA.Exaposteilarion2.melody = me.m01.d17_en_US_dedes.meMA.Exaposteilarion2.melody
-meMA.Exaposteilarion2.text = me.m01.d17_en_US_dedes.meMA.Exaposteilarion2.text
+meMA.Exaposteilarion2.melody = misc_en_US_public.NotMetered
+meMA.Exaposteilarion2.text = me.m01.d17_en_US_oca.meMA.Exaposteilarion2.text
 
 meMA.Exaposteilarion3.mode = me.m01.d17_en_US_dedes.meMA.Exaposteilarion3.mode
 meMA.Exaposteilarion3.melody = me.m01.d17_en_US_dedes.meMA.Exaposteilarion3.melody
@@ -429,12 +428,6 @@ meMA.LaudsSundayVerse2.text = me.m01.d17_en_US_dedes.meMA.LaudsSundayVerse2.text
 meLI.SeasonalKontakion.mode = me.m01.d17_en_US_dedes.meLI.SeasonalKontakion.mode
 meLI.SeasonalKontakion.melody = me.m01.d17_en_US_dedes.meLI.SeasonalKontakion.melody
 meLI.SeasonalKontakion.text = me.m01.d17_en_US_dedes.meLI.SeasonalKontakion.text
-
-meLI.Alleluia.mode = me.m01.d17_en_US_dedes.meLI.Alleluia.mode
-
-meLI.AlleluiaVerse1.text = me.m01.d17_en_US_dedes.meLI.AlleluiaVerse1.text
-
-meLI.AlleluiaVerse2.text = me.m01.d17_en_US_dedes.meLI.AlleluiaVerse2.text
 
 meLI.CommunionHymn.text = me.m01.d17_en_US_dedes.meLI.CommunionHymn.text
 
