@@ -83,15 +83,15 @@ meVE.Stichera03.melody = misc_en_US_public.NotMetered
 meVE.Stichera03.text = me.m01.d25_en_US_oca.meVE.Stichera03.text
 
 meVE.Stichera04.mode = me.m01.d25_en_US_dedes.meVE.Stichera04.mode
-meVE.Stichera04.melody = misc_en_US_repass.NotMetered
+meVE.Stichera04.melody = misc_en_US_public.NotMetered
 meVE.Stichera04.text = me.m01.d25_en_US_repass.meVE.Stichera04.text
 
 meVE.Stichera05.mode = me.m01.d25_en_US_dedes.meVE.Stichera05.mode
-meVE.Stichera05.melody = misc_en_US_repass.NotMetered
+meVE.Stichera05.melody = misc_en_US_public.NotMetered
 meVE.Stichera05.text = me.m01.d25_en_US_repass.meVE.Stichera05.text
 
 meVE.Stichera06.mode = me.m01.d25_en_US_dedes.meVE.Stichera06.mode
-meVE.Stichera06.melody = misc_en_US_repass.NotMetered
+meVE.Stichera06.melody = misc_en_US_public.NotMetered
 meVE.Stichera06.text = me.m01.d25_en_US_repass.meVE.Stichera06.text
 
 meVE.SticGlory.mode = me.m01.d25_en_US_dedes.meVE.SticGlory.mode

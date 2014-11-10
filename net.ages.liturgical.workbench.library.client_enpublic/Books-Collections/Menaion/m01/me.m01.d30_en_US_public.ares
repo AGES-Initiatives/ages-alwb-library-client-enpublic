@@ -63,19 +63,19 @@ meSV.AposBoth.melody = me.m01.d30_en_US_dedes.meSV.AposBoth.melody
 meSV.AposBoth.text = me.m01.d30_en_US_dedes.meSV.AposBoth.text
 
 meVE.Stichera01.mode = me.m01.d30_en_US_dedes.meVE.Stichera01.mode
-meVE.Stichera01.melody = misc_en_US_repass.NotMetered
+meVE.Stichera01.melody = misc_en_US_public.NotMetered
 meVE.Stichera01.text = me.m01.d30_en_US_oca.meVE.Stichera01.text
 
 meVE.Stichera02.mode = me.m01.d30_en_US_dedes.meVE.Stichera02.mode
-meVE.Stichera02.melody = misc_en_US_repass.NotMetered
+meVE.Stichera02.melody = misc_en_US_public.NotMetered
 meVE.Stichera02.text = me.m01.d30_en_US_oca.meVE.Stichera02.text
 
 meVE.Stichera03.mode = me.m01.d30_en_US_dedes.meVE.Stichera03.mode
-meVE.Stichera03.melody = misc_en_US_repass.NotMetered
+meVE.Stichera03.melody = misc_en_US_public.NotMetered
 meVE.Stichera03.text = me.m01.d30_en_US_oca.meVE.Stichera03.text
 
 meVE.Stichera04.mode = me.m01.d30_en_US_dedes.meVE.Stichera04.mode
-meVE.Stichera04.melody = misc_en_US_repass.NotMetered
+meVE.Stichera04.melody = misc_en_US_public.NotMetered
 meVE.Stichera04.text = me.m01.d30_en_US_oca.meVE.Stichera04.text
 
 meVE.SticGlory.poet = me.m01.d30_en_US_dedes.meVE.SticGlory.poet
@@ -118,19 +118,19 @@ meVE.LityBoth.text = me.m01.d30_en_US_dedes.meVE.LityBoth.text
 
 meVE.Aposticha1.poet = me.m01.d30_en_US_dedes.meVE.Aposticha1.poet
 meVE.Aposticha1.mode = me.m01.d30_en_US_dedes.meVE.Aposticha1.mode
-meVE.Aposticha1.melody = misc_en_US_repass.NotMetered
+meVE.Aposticha1.melody = misc_en_US_public.NotMetered
 meVE.Aposticha1.text = me.m01.d30_en_US_oca.meVE.Aposticha1.text
 
 meVE.ApostichaVerse2.text = me.m01.d30_en_US_dedes.meVE.ApostichaVerse2.text
 
 meVE.Aposticha2.mode = me.m01.d30_en_US_dedes.meVE.Aposticha2.mode
-meVE.Aposticha2.melody = misc_en_US_repass.NotMetered
+meVE.Aposticha2.melody = misc_en_US_public.NotMetered
 meVE.Aposticha2.text = me.m01.d30_en_US_oca.meVE.Aposticha2.text
 
 meVE.ApostichaVerse3.text = me.m01.d30_en_US_dedes.meVE.ApostichaVerse3.text
 
 meVE.Aposticha3.mode = me.m01.d30_en_US_dedes.meVE.Aposticha3.mode
-meVE.Aposticha3.melody = misc_en_US_repass.NotMetered
+meVE.Aposticha3.melody = misc_en_US_public.NotMetered
 meVE.Aposticha3.text = me.m01.d30_en_US_oca.meVE.Aposticha3.text
 
 meVE.AposGlory.mode = me.m01.d30_en_US_dedes.meVE.AposGlory.mode
