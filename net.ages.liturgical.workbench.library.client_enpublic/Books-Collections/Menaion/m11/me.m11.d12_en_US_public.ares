@@ -28,20 +28,20 @@ meVE.Stichera03.text = me.m11.d12_en_US_dedes.meVE.Stichera03.text
 
 meVE.Stichera04.mode = me.m11.d12_en_US_dedes.meVE.Stichera04.mode
 meVE.Stichera04.melody = misc_en_US_public.NotMetered
-meVE.Stichera04.text = me.m11.d11_en_US_oca.meVE.Stichera04.text
+meVE.Stichera04.text = me.m11.d12_en_US_oca.meVE.Stichera04.text
 
 meVE.Stichera05.mode = me.m11.d12_en_US_dedes.meVE.Stichera05.mode
 meVE.Stichera05.melody = misc_en_US_public.NotMetered
-meVE.Stichera05.text = me.m11.d11_en_US_oca.meVE.Stichera05.text
+meVE.Stichera05.text = me.m11.d12_en_US_oca.meVE.Stichera05.text
 
 meVE.Stichera06.mode = me.m11.d12_en_US_dedes.meVE.Stichera06.mode
 meVE.Stichera06.melody = misc_en_US_public.NotMetered
-meVE.Stichera06.text = me.m11.d11_en_US_oca.meVE.Stichera06.text
+meVE.Stichera06.text = me.m11.d12_en_US_oca.meVE.Stichera06.text
 
 meVE.SticGlory.poet = me.m11.d12_en_US_dedes.meVE.SticGlory.poet
 meVE.SticGlory.mode = me.m11.d12_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m11.d12_en_US_dedes.meVE.SticGlory.melody
-meVE.SticGlory.text = me.m11.d11_en_US_oca.meVE.SticGlory.text
+meVE.SticGlory.text = me.m11.d12_en_US_oca.meVE.SticGlory.text
 
 meVE.SticTheotokion.mode = me.m11.d12_en_US_dedes.meVE.SticTheotokion.mode
 meVE.SticTheotokion.melody = me.m11.d12_en_US_dedes.meVE.SticTheotokion.melody
@@ -180,7 +180,7 @@ meMA.Ode3H.text = me.m11.d12_en_US_dedes.meMA.Ode3H.text
 
 meMA.Kontakion1.mode = me.m11.d12_en_US_dedes.meMA.Kontakion1.mode
 meMA.Kontakion1.melody = misc_en_US_public.NotMetered
-meMA.Kontakion1.text = me.m11.d11_en_US_oca.meMA.Kontakion1.text
+meMA.Kontakion1.text = me.m11.d12_en_US_oca.meMA.Kontakion1.text
 
 meMA.Oikos1.text = me.m11.d12_en_US_dedes.meMA.Oikos1.text
 meMA.Oikos12.text = me.m11.d12_en_US_dedes.meMA.Oikos12.text
