@@ -8,40 +8,40 @@ peNote.text = pe.d113_en_US_dedes.peNote.text
 peDismissal = pe.d113_en_US_dedes.peDismissal
 
 peVE.Stichera07.mode = pe.d113_en_US_dedes.peVE.Stichera07.mode
-peVE.Stichera07.melody = pe.d113_en_US_dedes.peVE.Stichera07.melody
-peVE.Stichera07.text = pe.d113_en_US_dedes.peVE.Stichera07.text
+peVE.Stichera07.melody = misc_en_US_public.NotMetered
+peVE.Stichera07.text = pe.d113_en_UK_lash.peVE.Stichera07.text
 
 peVE.Stichera08.mode = pe.d113_en_US_dedes.peVE.Stichera08.mode
-peVE.Stichera08.melody = pe.d113_en_US_dedes.peVE.Stichera08.melody
-peVE.Stichera08.text = pe.d113_en_US_dedes.peVE.Stichera08.text
+peVE.Stichera08.melody = misc_en_US_public.NotMetered
+peVE.Stichera08.text = pe.d113_en_UK_lash.peVE.Stichera08.text
 
 peVE.Stichera09.mode = pe.d113_en_US_dedes.peVE.Stichera09.mode
-peVE.Stichera09.melody = pe.d113_en_US_dedes.peVE.Stichera09.melody
-peVE.Stichera09.text = pe.d113_en_US_dedes.peVE.Stichera09.text
+peVE.Stichera09.melody = misc_en_US_public.NotMetered
+peVE.Stichera09.text = pe.d113_en_UK_lash.peVE.Stichera09.text
 
 peVE.Stichera10.mode = pe.d113_en_US_dedes.peVE.Stichera10.mode
-peVE.Stichera10.melody = pe.d113_en_US_dedes.peVE.Stichera10.melody
-peVE.Stichera10.text = pe.d113_en_US_dedes.peVE.Stichera10.text
+peVE.Stichera10.melody = misc_en_US_public.NotMetered
+peVE.Stichera10.text = pe.d113_en_UK_lash.peVE.Stichera10.text
 
 peVE.SticGlory.mode = pe.d113_en_US_dedes.peVE.SticGlory.mode
 peVE.SticGlory.melody = pe.d113_en_US_dedes.peVE.SticGlory.melody
-peVE.SticGlory.text = pe.d113_en_US_dedes.peVE.SticGlory.text
+peVE.SticGlory.text = pe.d113_en_UK_lash.peVE.SticGlory.text
 
 peVE.LityGlory.mode = pe.d113_en_US_dedes.peVE.LityGlory.mode
 peVE.LityGlory.melody = pe.d113_en_US_dedes.peVE.LityGlory.melody
-peVE.LityGlory.text = pe.d113_en_US_dedes.peVE.LityGlory.text
+peVE.LityGlory.text = pe.d113_en_UK_lash.peVE.LityGlory.text
 
 peVE.LityBoth.mode = pe.d113_en_US_dedes.peVE.LityBoth.mode
 peVE.LityBoth.melody = pe.d113_en_US_dedes.peVE.LityBoth.melody
-peVE.LityBoth.text = pe.d113_en_US_dedes.peVE.LityBoth.text
+peVE.LityBoth.text = pe.d113_en_UK_lash.peVE.LityBoth.text
 
 peVE.AposGlory.mode = pe.d113_en_US_dedes.peVE.AposGlory.mode
 peVE.AposGlory.melody = pe.d113_en_US_dedes.peVE.AposGlory.melody
-peVE.AposGlory.text = pe.d113_en_US_dedes.peVE.AposGlory.text
+peVE.AposGlory.text = pe.d113_en_UK_lash.peVE.AposGlory.text
 
 peVE.AposBoth.mode = pe.d113_en_US_dedes.peVE.AposBoth.mode
 peVE.AposBoth.melody = pe.d113_en_US_dedes.peVE.AposBoth.melody
-peVE.AposBoth.text = pe.d113_en_US_dedes.peVE.AposBoth.text
+peVE.AposBoth.text = pe.d113_en_UK_lash.peVE.AposBoth.text
 
 peVE.Apolytikion1.mode = pe.d113_en_US_dedes.peVE.Apolytikion1.mode
 peVE.Apolytikion1.melody = pe.d113_en_US_dedes.peVE.Apolytikion1.melody
