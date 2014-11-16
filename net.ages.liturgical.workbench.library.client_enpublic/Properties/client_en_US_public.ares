@@ -91,8 +91,7 @@ cl.me.m11.d14.R002 = "The rubrics for this day say to sing the Heirmoi of Odes 3
 cl.pe.d072.R001 = "The Patriarchal Typikon omits the Prophecies on this day and says that only the Gospel lesson should be read."
 cl.pe.d078.R001 = "According to the Patriarchal Hemerologion:"
 cl.pe.d078.R002 = "According to common practice:"
-
-//Pentecost Soul Saturday
+cl.pe.d110.R001 = "The Patriarchal Typikon says to sing the troparia without the verse, \"Glory to You, our God...\"."
 cl.pe.d119.R001 = "The Patriarchal Typikon indicates, as usual, that the entire canon be sung. Typically in parishes only the Katavasias are used. This day does not present festal Katavasias, but rather the Heirmoi of the canon are used, which thematically have nothing to do with the Saturday of the Souls. I have therefore included Ode ix in its entirety, edited for the enrichment and edification of both chanters and listeners. Since Saturday of the Souls is not a great feast, Ode ix is, as usual, preceded by the Magnificat."
 
 //Service Books

@@ -596,6 +596,8 @@ peMA.Lauds3.mode = pe.d110_en_US_dedes.peMA.Lauds3.mode
 peMA.Lauds3.melody = pe.d110_en_US_dedes.peMA.Lauds3.melody
 peMA.Lauds3.text = pe.d110_en_US_dedes.peMA.Lauds3.text
 
+peMA.Lauds123.text = pe.d110_en_US_dedes.peMA.Lauds123.text
+
 peMA.LaudsGlory.mode = pe.d110_en_US_dedes.peMA.LaudsGlory.mode
 peMA.LaudsGlory.melody = pe.d110_en_US_dedes.peMA.LaudsGlory.melody
 peMA.LaudsGlory.text = pe.d110_en_US_dedes.peMA.LaudsGlory.text
