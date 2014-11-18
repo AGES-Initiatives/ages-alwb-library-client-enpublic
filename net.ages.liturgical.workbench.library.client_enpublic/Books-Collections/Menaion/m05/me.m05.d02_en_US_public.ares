@@ -245,6 +245,8 @@ meMA.Lauds3.mode = me.m05.d02_en_US_dedes.meMA.Lauds3.mode
 meMA.Lauds3.melody = me.m05.d02_en_US_dedes.meMA.Lauds3.melody
 meMA.Lauds3.text = me.m05.d02_en_US_dedes.meMA.Lauds3.text
 
+meMA.Lauds456.text = me.m05.d02_en_US_dedes.meMA.Lauds456.text
+
 meMA.LaudsGlory.mode = me.m05.d02_en_US_dedes.meMA.LaudsGlory.mode
 meMA.LaudsGlory.melody = me.m05.d02_en_US_dedes.meMA.LaudsGlory.melody
 meMA.LaudsGlory.text = me.m05.d02_en_US_dedes.meMA.LaudsGlory.text
