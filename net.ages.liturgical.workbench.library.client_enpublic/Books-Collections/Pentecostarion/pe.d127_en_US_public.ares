@@ -25,7 +25,7 @@ peVE.Stichera10.text = pe.d127_en_UK_lash.peVE.Stichera10.text
 
 peVE.SticGlory.mode = pe.d127_en_US_dedes.peVE.SticGlory.mode
 peVE.SticGlory.melody = pe.d127_en_US_dedes.peVE.SticGlory.melody
-peVE.SticGlory.text = pe.d127_en_US_dedes.peVE.SticGlory.text
+peVE.SticGlory.text = pe.d127_en_UK_lash.peVE.SticGlory.text
 
 peVE.Lity1.mode = pe.d127_en_US_dedes.peVE.Lity1.mode
 peVE.Lity1.melody = pe.d127_en_US_dedes.peVE.Lity1.melody
@@ -53,7 +53,7 @@ peVE.AposGlory.text = pe.d127_en_UK_lash.peVE.AposGlory.text
 
 peVE.AposBoth.mode = pe.d127_en_US_dedes.peVE.AposBoth.mode
 peVE.AposBoth.melody = pe.d127_en_US_dedes.peVE.AposBoth.melody
-peVE.AposBoth.text = pe.d127_en_US_dedes.peVE.AposBoth.text
+peVE.AposBoth.text = pe.d127_en_US_holycross.peVE.AposBoth.text
 
 peVE.Apolytikion1.mode = pe.d127_en_US_dedes.peVE.Apolytikion1.mode
 peVE.Apolytikion1.melody = pe.d127_en_US_dedes.peVE.Apolytikion1.melody
