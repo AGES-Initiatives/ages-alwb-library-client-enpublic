@@ -7,26 +7,24 @@ trInsert2 = tr.d021_en_US_dedes.trInsert2 // for use in petitions and dismissal
 trNote.text = tr.d021_en_US_dedes.trNote.text
 
 trVE.Stichera01.mode = tr.d021_en_US_dedes.trVE.Stichera01.mode
-trVE.Stichera01.melody = tr.d021_en_US_dedes.trVE.Stichera01.melody
-trVE.Stichera01.text = tr.d021_en_US_dedes.trVE.Stichera01.text
+trVE.Stichera01.melody = misc_en_US_public.NotMetered
+trVE.Stichera01.text = tr.d021_en_US_oca.trVE.Stichera01.text
 
 trVE.Stichera02.mode = tr.d021_en_US_dedes.trVE.Stichera02.mode
-trVE.Stichera02.melody = tr.d021_en_US_dedes.trVE.Stichera02.melody
-trVE.Stichera02.text = tr.d021_en_US_dedes.trVE.Stichera02.text
+trVE.Stichera02.melody = misc_en_US_public.NotMetered
+trVE.Stichera02.text = tr.d021_en_US_oca.trVE.Stichera02.text
 
 trVE.Stichera03.mode = tr.d021_en_US_dedes.trVE.Stichera03.mode
-trVE.Stichera03.melody = tr.d021_en_US_dedes.trVE.Stichera03.melody
-trVE.Stichera03.text = tr.d021_en_US_dedes.trVE.Stichera03.text
+trVE.Stichera03.melody = misc_en_US_public.NotMetered
+trVE.Stichera03.text = tr.d021_en_US_oca.trVE.Stichera03.text
 
 trVE.SticGlory.mode = tr.d021_en_US_dedes.trVE.SticGlory.mode
 trVE.SticGlory.melody = tr.d021_en_US_dedes.trVE.SticGlory.melody
-trVE.SticGlory.text = tr.d021_en_US_dedes.trVE.SticGlory.text
-
-//trVE.Prokeimenon1.text = tr.d021_en_US_dedes.trVE.Prokeimenon1.text
+trVE.SticGlory.text = tr.d021_en_US_oca.trVE.SticGlory.text
 
 trVE.AposIdiomelon1.mode = tr.d021_en_US_dedes.trVE.AposIdiomelon1.mode
 trVE.AposIdiomelon1.melody = tr.d021_en_US_dedes.trVE.AposIdiomelon1.melody
-trVE.AposIdiomelon1.text = tr.d021_en_US_dedes.trVE.AposIdiomelon1.text
+trVE.AposIdiomelon1.text = tr.d021_en_US_oca.trVE.AposIdiomelon1.text
 
 trVE.AposMartyric.mode = tr.d021_en_US_dedes.trVE.AposMartyric.mode
 trVE.AposMartyric.melody = tr.d021_en_US_dedes.trVE.AposMartyric.melody
@@ -34,11 +32,11 @@ trVE.AposMartyric.text = tr.d021_en_US_dedes.trVE.AposMartyric.text
 
 trVE.AposGlory.mode = tr.d021_en_US_dedes.trVE.AposGlory.mode
 trVE.AposGlory.melody = tr.d021_en_US_dedes.trVE.AposGlory.melody
-trVE.AposGlory.text = tr.d021_en_US_dedes.trVE.AposGlory.text
+trVE.AposGlory.text = tr.d021_en_US_oca.trVE.AposGlory.text
 
 trVE.AposTheotokion.mode = tr.d021_en_US_dedes.trVE.AposTheotokion.mode
-trVE.AposTheotokion.melody = tr.d021_en_US_dedes.trVE.AposTheotokion.melody
-trVE.AposTheotokion.text = tr.d021_en_US_dedes.trVE.AposTheotokion.text
+trVE.AposTheotokion.melody = misc_en_US_public.NotMetered
+trVE.AposTheotokion.text = tr.d021_en_US_oca.trVE.AposTheotokion.text
 
 trVE.Apolytikion1.mode = tr.d021_en_US_dedes.trVE.Apolytikion1.mode
 trVE.Apolytikion1.melody = tr.d021_en_US_dedes.trVE.Apolytikion1.melody
