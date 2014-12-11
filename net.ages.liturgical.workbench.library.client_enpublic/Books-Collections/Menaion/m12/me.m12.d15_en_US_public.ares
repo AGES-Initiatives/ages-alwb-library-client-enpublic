@@ -66,8 +66,27 @@ meVE.Apolytikion1.mode = me.m12.d15_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m12.d15_en_US_dedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.text = me.m12.d15_en_US_dedes.meVE.Apolytikion1.text
 
-meMA.C1Acrostic.text = me.m12.d15_en_US_dedes.meMA.C1Acrostic.text
+meMA.Kathisma12.mode  = me.m12.d15_en_US_dedes.meMA.Kathisma12.mode 
+meMA.Kathisma12.melody  = me.m12.d15_en_US_dedes.meMA.Kathisma12.melody 
+meMA.Kathisma12.text = me.m12.d15_en_US_dedes.meMA.Kathisma12.text
 
+meMA.Kathisma21.mode  = me.m12.d15_en_US_dedes.meMA.Kathisma21.mode 
+meMA.Kathisma21.melody  = me.m12.d15_en_US_dedes.meMA.Kathisma21.melody 
+meMA.Kathisma21.text = me.m12.d15_en_US_dedes.meMA.Kathisma21.text
+
+meMA.Kathisma22.mode  = me.m12.d15_en_US_dedes.meMA.Kathisma22.mode 
+meMA.Kathisma22.melody  = me.m12.d15_en_US_dedes.meMA.Kathisma22.melody 
+meMA.Kathisma22.text = me.m12.d15_en_US_dedes.meMA.Kathisma22.text
+
+meMA.Kathisma31.mode  = me.m12.d15_en_US_dedes.meMA.Kathisma31.mode 
+meMA.Kathisma31.melody  = me.m12.d15_en_US_dedes.meMA.Kathisma31.melody 
+meMA.Kathisma31.text = me.m12.d15_en_US_dedes.meMA.Kathisma31.text
+
+meMA.Kathisma32.mode  = me.m12.d15_en_US_dedes.meMA.Kathisma32.mode 
+meMA.Kathisma32.melody  = me.m12.d15_en_US_dedes.meMA.Kathisma32.melody 
+meMA.Kathisma32.text = me.m12.d15_en_US_dedes.meMA.Kathisma32.text
+
+meMA.C1Acrostic.text = me.m12.d15_en_US_dedes.meMA.C1Acrostic.text
 meMA.C2Acrostic.text = me.m12.d15_en_US_dedes.meMA.C2Acrostic.text
 
 meMA.Ode1C11.ode = me.m12.d15_en_US_dedes.meMA.Ode1C11.ode
