@@ -236,11 +236,11 @@ trMA.Ode6C1H.mode = tr.d046_en_US_dedes.trMA.Ode6C1H.mode
 trMA.Ode6C1H.melody = tr.d046_en_US_dedes.trMA.Ode6C1H.melody
 trMA.Ode6C1H.text = tr.d046_en_US_dedes.trMA.Ode6C1H.text
 
-trMA.Kontakion.mode = tr.d046_en_US_dedes.trMA.Kontakion.mode
-trMA.Kontakion.melody = tr.d046_en_US_dedes.trMA.Kontakion.melody
-trMA.Kontakion.text = tr.d046_en_US_dedes.trMA.Kontakion.text
+trMA.Kontakion1.mode = tr.d046_en_US_dedes.trMA.Kontakion1.mode
+trMA.Kontakion1.melody = tr.d046_en_US_dedes.trMA.Kontakion1.melody
+trMA.Kontakion1.text = tr.d046_en_US_dedes.trMA.Kontakion1.text
 
-trMA.Oikos.text = tr.d046_en_US_dedes.trMA.Oikos.text
+trMA.Oikos1.text = tr.d046_en_US_dedes.trMA.Oikos1.text
 
 trMA.Ode7C11.ode = tr.d046_en_US_dedes.trMA.Ode7C11.ode
 trMA.Ode7C11.mode = tr.d046_en_US_dedes.trMA.Ode7C11.mode

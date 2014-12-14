@@ -220,9 +220,9 @@ trMA.Ode6C1T.mode = tr.d048_en_US_dedes.trMA.Ode6C1T.mode
 trMA.Ode6C1T.melody = tr.d048_en_US_dedes.trMA.Ode6C1T.melody
 trMA.Ode6C1T.text = tr.d048_en_US_dedes.trMA.Ode6C1T.text
 
-trMA.Kontakion.mode = tr.d048_en_US_dedes.trMA.Kontakion.mode
-trMA.Kontakion.melody = tr.d048_en_US_dedes.trMA.Kontakion.melody
-trMA.Kontakion.text = tr.d048_en_US_dedes.trMA.Kontakion.text
+trMA.Kontakion1.mode = tr.d048_en_US_dedes.trMA.Kontakion1.mode
+trMA.Kontakion1.melody = tr.d048_en_US_dedes.trMA.Kontakion1.melody
+trMA.Kontakion1.text = tr.d048_en_US_dedes.trMA.Kontakion1.text
 
 trMA.Ode7C11.ode = tr.d048_en_US_dedes.trMA.Ode7C11.ode
 trMA.Ode7C11.mode = tr.d048_en_US_dedes.trMA.Ode7C11.mode
