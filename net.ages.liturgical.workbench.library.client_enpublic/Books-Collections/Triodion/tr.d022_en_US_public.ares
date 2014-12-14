@@ -206,14 +206,14 @@ trMA.Ode6K.mode = tr.d022_en_US_dedes.trMA.Ode6K.mode
 trMA.Ode6K.melody = tr.d022_en_US_dedes.trMA.Ode6K.melody
 trMA.Ode6K.text = tr.d022_en_US_dedes.trMA.Ode6K.text
 
-trMA.Kontakion.mode = tr.d022_en_US_dedes.trMA.Kontakion.mode
-trMA.Kontakion.melody = tr.d022_en_US_dedes.trMA.Kontakion.melody
-trMA.Kontakion.text = tr.d022_en_US_dedes.trMA.Kontakion.text
+trMA.Kontakion1.mode = tr.d022_en_US_dedes.trMA.Kontakion1.mode
+trMA.Kontakion1.melody = tr.d022_en_US_dedes.trMA.Kontakion1.melody
+trMA.Kontakion1.text = tr.d022_en_US_dedes.trMA.Kontakion1.text
 
-trMA.Oikos.text = tr.d022_en_US_dedes.trMA.Oikos.text
-trMA.Oikos2.text = tr.d022_en_US_dedes.trMA.Oikos2.text
-trMA.Oikos3.text = tr.d022_en_US_dedes.trMA.Oikos3.text
-trMA.Oikos4.text = tr.d022_en_US_dedes.trMA.Oikos4.text
+trMA.Oikos1.text = tr.d022_en_US_dedes.trMA.Oikos1.text
+trMA.Oikos12.text = tr.d022_en_US_dedes.trMA.Oikos12.text
+trMA.Oikos13.text = tr.d022_en_US_dedes.trMA.Oikos13.text
+trMA.Oikos14.text = tr.d022_en_US_dedes.trMA.Oikos14.text
 
 trMA.Synaxarion1.Com = tr.d022_en_US_dedes.trMA.Synaxarion1.Com
 trMA.Synaxarion1.Ver1 = tr.d022_en_US_dedes.trMA.Synaxarion1.Ver1

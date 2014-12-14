@@ -217,11 +217,11 @@ trMA.Kathisma31.mode = tr.d066_en_US_dedes.trMA.Kathisma31.mode
 trMA.Kathisma31.melody = tr.d066_en_US_dedes.trMA.Kathisma31.melody
 trMA.Kathisma31.text = tr.d066_en_US_dedes.trMA.Kathisma31.text
 
-trMA.Kontakion.mode = tr.d066_en_US_dedes.trMA.Kontakion.mode
-trMA.Kontakion.melody = tr.d066_en_US_dedes.trMA.Kontakion.melody
-trMA.Kontakion.text = tr.d066_en_US_dedes.trMA.Kontakion.text
+trMA.Kontakion1.mode = tr.d066_en_US_dedes.trMA.Kontakion1.mode
+trMA.Kontakion1.melody = tr.d066_en_US_dedes.trMA.Kontakion1.melody
+trMA.Kontakion1.text = tr.d066_en_US_dedes.trMA.Kontakion1.text
 
-trMA.Oikos.text = tr.d066_en_US_dedes.trMA.Oikos.text
+trMA.Oikos1.text = tr.d066_en_US_dedes.trMA.Oikos1.text
 
 trMA.Synaxarion1.Com = tr.d066_en_US_dedes.trMA.Synaxarion1.Com
 trMA.Synaxarion1.Ver1 = tr.d066_en_US_dedes.trMA.Synaxarion1.Ver1

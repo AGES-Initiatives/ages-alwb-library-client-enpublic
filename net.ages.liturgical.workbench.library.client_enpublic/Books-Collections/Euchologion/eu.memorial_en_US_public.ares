@@ -26,7 +26,7 @@ euMEM.Key007.mode = misc_en_US_public.Mode5
 euMEM.Key007.text = eu.funeral_en_US_public.euFUN.Key0607.text 
 
 euMEM.Key008.mode = misc_en_US_public.Mode8
-euMEM.Key008.text = tr.d014_en_US_public.trMA.Kontakion.text
+euMEM.Key008.text = tr.d014_en_US_public.trMA.Kontakion1.text
 
 euMEM.Key009.mode = misc_en_US_public.Mode4
 euMEM.Key009.text = eu.funeral_en_US_public.euFUN.Key0101.text
