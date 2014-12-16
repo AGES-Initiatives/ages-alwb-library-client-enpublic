@@ -15,47 +15,47 @@ meHO.note1 = me.m05.d02_en_US_dedes.meHO.note1
 meHO.note2 = me.m05.d02_en_US_dedes.meHO.note2
 
 meVE.Stichera01.mode = me.m05.d02_en_US_dedes.meVE.Stichera01.mode
-meVE.Stichera01.melody = me.m05.d02_en_US_dedes.meVE.Stichera01.melody
-meVE.Stichera01.text = me.m05.d02_en_US_dedes.meVE.Stichera01.text
+meVE.Stichera01.melody = misc_en_US_public.NotMetered
+meVE.Stichera01.text = me.m05.d02_en_US_repass.meVE.Stichera01.text
 
 meVE.Stichera02.mode = me.m05.d02_en_US_dedes.meVE.Stichera02.mode
-meVE.Stichera02.melody = me.m05.d02_en_US_dedes.meVE.Stichera02.melody
-meVE.Stichera02.text = me.m05.d02_en_US_dedes.meVE.Stichera02.text
+meVE.Stichera02.melody = misc_en_US_public.NotMetered
+meVE.Stichera02.text = me.m05.d02_en_US_repass.meVE.Stichera02.text
 
 meVE.Stichera03.mode = me.m05.d02_en_US_dedes.meVE.Stichera03.mode
-meVE.Stichera03.melody = me.m05.d02_en_US_dedes.meVE.Stichera03.melody
-meVE.Stichera03.text = me.m05.d02_en_US_dedes.meVE.Stichera03.text
+meVE.Stichera03.melody = misc_en_US_public.NotMetered
+meVE.Stichera03.text = me.m05.d02_en_US_repass.meVE.Stichera03.text
 
 meVE.SticGlory.poet = me.m05.d02_en_US_dedes.meVE.SticGlory.poet
 meVE.SticGlory.mode = me.m05.d02_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m05.d02_en_US_dedes.meVE.SticGlory.melody
-meVE.SticGlory.text = me.m05.d02_en_US_dedes.meVE.SticGlory.text
+meVE.SticGlory.text = me.m05.d02_en_US_repass.meVE.SticGlory.text
 
 meVE.LityGlory.poet = me.m05.d02_en_US_dedes.meVE.LityGlory.poet
 meVE.LityGlory.mode = me.m05.d02_en_US_dedes.meVE.LityGlory.mode
 meVE.LityGlory.melody = me.m05.d02_en_US_dedes.meVE.LityGlory.melody
-meVE.LityGlory.text = me.m05.d02_en_US_dedes.meVE.LityGlory.text
+meVE.LityGlory.text = me.m05.d02_en_US_repass.meVE.LityGlory.text
 
 meVE.Aposticha1.mode = me.m05.d02_en_US_dedes.meVE.Aposticha1.mode
-meVE.Aposticha1.melody = me.m05.d02_en_US_dedes.meVE.Aposticha1.melody
-meVE.Aposticha1.text = me.m05.d02_en_US_dedes.meVE.Aposticha1.text
+meVE.Aposticha1.melody = misc_en_US_public.NotMetered
+meVE.Aposticha1.text = me.m05.d02_en_US_repass.meVE.Aposticha1.text
 
 meVE.ApostichaVerse2.text = me.m05.d02_en_US_dedes.meVE.ApostichaVerse2.text
 
 meVE.Aposticha2.mode = me.m05.d02_en_US_dedes.meVE.Aposticha2.mode
-meVE.Aposticha2.melody = me.m05.d02_en_US_dedes.meVE.Aposticha2.melody
-meVE.Aposticha2.text = me.m05.d02_en_US_dedes.meVE.Aposticha2.text
+meVE.Aposticha2.melody = misc_en_US_public.NotMetered
+meVE.Aposticha2.text = me.m05.d02_en_US_repass.meVE.Aposticha2.text
 
 meVE.ApostichaVerse3.text = me.m05.d02_en_US_dedes.meVE.ApostichaVerse3.text
 
 meVE.Aposticha3.mode = me.m05.d02_en_US_dedes.meVE.Aposticha3.mode
-meVE.Aposticha3.melody = me.m05.d02_en_US_dedes.meVE.Aposticha3.melody
-meVE.Aposticha3.text = me.m05.d02_en_US_dedes.meVE.Aposticha3.text
+meVE.Aposticha3.melody = misc_en_US_public.NotMetered
+meVE.Aposticha3.text = me.m05.d02_en_US_repass.meVE.Aposticha3.text
 
 meVE.AposGlory.poet = me.m05.d02_en_US_dedes.meVE.AposGlory.poet
 meVE.AposGlory.mode = me.m05.d02_en_US_dedes.meVE.AposGlory.mode
 meVE.AposGlory.melody = me.m05.d02_en_US_dedes.meVE.AposGlory.melody
-meVE.AposGlory.text = me.m05.d02_en_US_dedes.meVE.AposGlory.text
+meVE.AposGlory.text = me.m05.d02_en_US_repass.meVE.AposGlory.text
 
 meVE.Apolytikion1.mode = me.m05.d02_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m05.d02_en_US_dedes.meVE.Apolytikion1.melody
