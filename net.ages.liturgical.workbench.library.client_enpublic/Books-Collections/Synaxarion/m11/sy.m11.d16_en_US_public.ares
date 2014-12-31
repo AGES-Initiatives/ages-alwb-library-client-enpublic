@@ -1,5 +1,5 @@
 A_Resource_Whose_Name = sy.m11.d16_en_US_public
 
-S01.Com = sy.m11.d16_en_US_dedes.S01.Com
+S01.commemoration.text = sy.m11.d16_en_US_dedes.S01.commemoration.text
 
-S99.LastLine = sy.m11.d16_en_US_dedes.S99.LastLine
+S99.lastline = sy.m11.d16_en_US_dedes.S99.lastline

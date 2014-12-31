@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = sy.m12.d14_en_US_public
 
-S01.Com = sy.m12.d14_en_US_dedes.S01.Com
+S01.commemoration.text = sy.m12.d14_en_US_dedes.S01.commemoration.text
 
-S02.Com = sy.m12.d14_en_US_dedes.S02.Com
+S02.commemoration.text = sy.m12.d14_en_US_dedes.S02.commemoration.text
 
-S03.Com = sy.m12.d14_en_US_dedes.S03.Com
+S03.commemoration.text = sy.m12.d14_en_US_dedes.S03.commemoration.text
 
-S04.Com = sy.m12.d14_en_US_dedes.S04.Com
+S04.commemoration.text = sy.m12.d14_en_US_dedes.S04.commemoration.text
 
-S99.LastLine = sy.m12.d14_en_US_dedes.S99.LastLine
+S99.lastline = sy.m12.d14_en_US_dedes.S99.lastline

@@ -1,14 +1,7 @@
 A_Resource_Whose_Name = sy.m06.d27_en_US_public
 
-S01.Com = sy.m06.d27_en_US_dedes.S01.Com
-S01.Ver1 = sy.m06.d27_en_US_dedes.S01.Ver1
-S01.Ver2 = sy.m06.d27_en_US_dedes.S01.Ver2
-S01.Ver3 = sy.m06.d27_en_US_dedes.S01.Ver3
-S01.Nar = sy.m06.d27_en_US_dedes.S01.Nar
+S01.commemoration.text = sy.m06.d27_en_US_dedes.S01.commemoration.text
 
-S02.Com = sy.m06.d27_en_US_dedes.S02.Com
-S02.Ver1 = sy.m06.d27_en_US_dedes.S02.Ver1
-S02.Ver2 = sy.m06.d27_en_US_dedes.S02.Ver2
-S02.Nar = sy.m06.d27_en_US_dedes.S02.Nar
+S02.commemoration.text = sy.m06.d27_en_US_dedes.S02.commemoration.text
 
-S99.LastLine = sy.m06.d27_en_US_dedes.S99.LastLine
+S99.lastline = sy.m06.d27_en_US_dedes.S99.lastline

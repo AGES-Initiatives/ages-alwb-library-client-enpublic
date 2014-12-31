@@ -1,19 +1,19 @@
 A_Resource_Whose_Name = sy.m10.d03_en_US_public
 
-S01.Com = sy.m10.d03_en_US_dedes.S01.Com
+S01.commemoration.text = sy.m10.d03_en_US_dedes.S01.commemoration.text
 
-S02.Com = sy.m10.d03_en_US_dedes.S02.Com
+S02.commemoration.text = sy.m10.d03_en_US_dedes.S02.commemoration.text
 
-S03.Com = sy.m10.d03_en_US_dedes.S03.Com
+S03.commemoration.text = sy.m10.d03_en_US_dedes.S03.commemoration.text
 
-S04.Com = sy.m10.d03_en_US_dedes.S04.Com
+S04.commemoration.text = sy.m10.d03_en_US_dedes.S04.commemoration.text
 
-S05.Com = sy.m10.d03_en_US_dedes.S05.Com
+S05.commemoration.text = sy.m10.d03_en_US_dedes.S05.commemoration.text
 
-S06.Com = sy.m10.d03_en_US_dedes.S06.Com
+S06.commemoration.text = sy.m10.d03_en_US_dedes.S06.commemoration.text
 
-S07.Com = sy.m10.d03_en_US_dedes.S07.Com
+S07.commemoration.text = sy.m10.d03_en_US_dedes.S07.commemoration.text
 
-S08.Com = sy.m10.d03_en_US_dedes.S08.Com
+S08.commemoration.text = sy.m10.d03_en_US_dedes.S08.commemoration.text
 
-S99.LastLine = sy.m10.d03_en_US_dedes.S99.LastLine
+S99.lastline = sy.m10.d03_en_US_dedes.S99.lastline

@@ -1,10 +1,6 @@
 
 A_Resource_Whose_Name = sy.m10.dHF_en_US_public 
 
-S01.Com = sy.m10.dHF_en_US_dedes.S01.Com
-S01.Nar = sy.m10.dHF_en_US_dedes.S01.Nar
-S01.Ver1 = sy.m10.dHF_en_US_dedes.S01.Ver1
-S01.Ver2 = sy.m10.dHF_en_US_dedes.S01.Ver2
-S01.Ver3 = sy.m10.dHF_en_US_dedes.S01.Ver3
+S01.commemoration.text = sy.m10.dHF_en_US_dedes.S01.commemoration.text
 
-S99.LastLine = sy.m10.dHF_en_US_dedes.S99.LastLine
+S99.lastline = sy.m10.dHF_en_US_dedes.S99.lastline
