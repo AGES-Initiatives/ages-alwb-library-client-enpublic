@@ -1,27 +1,27 @@
 A_Resource_Whose_Name = sy.m08.d07_en_US_public 
 
-S01.Com = sy.m08.d07_en_US_dedes.S01.Com
+S01.commemoration.text = sy.m08.d07_en_US_dedes.S01.commemoration.text
 
-S02.Com = sy.m08.d07_en_US_dedes.S02.Com
+S02.commemoration.text = sy.m08.d07_en_US_dedes.S02.commemoration.text
 
-S03.Com = sy.m08.d07_en_US_dedes.S03.Com
+S03.commemoration.text = sy.m08.d07_en_US_dedes.S03.commemoration.text
 
-S04.Com = sy.m08.d07_en_US_dedes.S04.Com
+S04.commemoration.text = sy.m08.d07_en_US_dedes.S04.commemoration.text
 
-S05.Com = sy.m08.d07_en_US_dedes.S05.Com
+S05.commemoration.text = sy.m08.d07_en_US_dedes.S05.commemoration.text
 
-S06.Com = sy.m08.d07_en_US_dedes.S06.Com
+S06.commemoration.text = sy.m08.d07_en_US_dedes.S06.commemoration.text
 
-S07.Com = sy.m08.d07_en_US_dedes.S07.Com
+S07.commemoration.text = sy.m08.d07_en_US_dedes.S07.commemoration.text
 
-S08.Com = sy.m08.d07_en_US_dedes.S08.Com
+S08.commemoration.text = sy.m08.d07_en_US_dedes.S08.commemoration.text
 
-S09.Com = sy.m08.d07_en_US_dedes.S09.Com
+S09.commemoration.text = sy.m08.d07_en_US_dedes.S09.commemoration.text
 
-S10.Com = sy.m08.d07_en_US_dedes.S10.Com
+S10.commemoration.text = sy.m08.d07_en_US_dedes.S10.commemoration.text
 
-S11.Com = sy.m08.d07_en_US_dedes.S11.Com
+S11.commemoration.text = sy.m08.d07_en_US_dedes.S11.commemoration.text
 
-S12.Com = sy.m08.d07_en_US_dedes.S12.Com
+S12.commemoration.text = sy.m08.d07_en_US_dedes.S12.commemoration.text
 
-S99.LastLine = sy.m08.d07_en_US_dedes.S99.LastLine
+S99.lastline = sy.m08.d07_en_US_dedes.S99.lastline

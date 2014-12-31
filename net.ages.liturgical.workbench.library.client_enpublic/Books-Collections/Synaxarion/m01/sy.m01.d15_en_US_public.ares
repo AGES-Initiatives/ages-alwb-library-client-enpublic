@@ -1,21 +1,11 @@
 A_Resource_Whose_Name = sy.m01.d15_en_US_public
 
-S01.Com = sy.m01.d15_en_US_dedes.S01.Com
-S01.Ver1 = sy.m01.d15_en_US_dedes.S01.Ver1
-S01.Ver2 = sy.m01.d15_en_US_dedes.S01.Ver2
-S01.Ver3 = sy.m01.d15_en_US_dedes.S01.Ver3
-S01.Nar = sy.m01.d15_en_US_dedes.S01.Nar
+S01.commemoration.text = sy.m01.d15_en_US_dedes.S01.commemoration.text
 
-S02.Com = sy.m01.d15_en_US_dedes.S02.Com
-S02.Ver = sy.m01.d15_en_US_dedes.S02.Ver
-S02.Nar = sy.m01.d15_en_US_dedes.S02.Nar
+S02.commemoration.text = sy.m01.d15_en_US_dedes.S02.commemoration.text
 
-S03.Com = sy.m01.d15_en_US_dedes.S03.Com
-S03.Ver = sy.m01.d15_en_US_dedes.S03.Ver
-S03.Nar = sy.m01.d15_en_US_dedes.S03.Nar
+S03.commemoration.text = sy.m01.d15_en_US_dedes.S03.commemoration.text
 
-S04.Com = sy.m01.d15_en_US_dedes.S04.Com
-S04.Ver = sy.m01.d15_en_US_dedes.S04.Ver
-S04.Nar = sy.m01.d15_en_US_dedes.S04.Nar
+S04.commemoration.text = sy.m01.d15_en_US_dedes.S04.commemoration.text
 
-S99.LastLine = sy.m01.d15_en_US_dedes.S99.LastLine
+S99.lastline = sy.m01.d15_en_US_dedes.S99.lastline
