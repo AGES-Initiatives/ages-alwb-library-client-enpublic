@@ -241,16 +241,18 @@ trMA.Kontakion1.text = tr.d001_en_US_dedes.trMA.Kontakion1.text
 
 trMA.Oikos1.text = tr.d001_en_US_dedes.trMA.Oikos1.text
 
-trMA.Synaxarion1.Com = tr.d001_en_US_dedes.trMA.Synaxarion1.Com
-trMA.Synaxarion1.Ver1 = tr.d001_en_US_dedes.trMA.Synaxarion1.Ver1
-trMA.Synaxarion1.Ver2 = tr.d001_en_US_dedes.trMA.Synaxarion1.Ver2
-trMA.Synaxarion1.Ver3 = tr.d001_en_US_dedes.trMA.Synaxarion1.Ver3 // Title
-trMA.Synaxarion1.Ver4 = tr.d001_en_US_dedes.trMA.Synaxarion1.Ver4
-trMA.Synaxarion1.Ver5 = tr.d001_en_US_dedes.trMA.Synaxarion1.Ver5
-trMA.Synaxarion1.Ver6 = tr.d001_en_US_dedes.trMA.Synaxarion1.Ver6
-trMA.Synaxarion1.Nar = tr.d001_en_US_dedes.trMA.Synaxarion1.Nar
-
-trMA.Synaxarion.LastLine = tr.d001_en_US_dedes.trMA.Synaxarion.LastLine
+trMA.Synaxarion.commemoration.text = tr.d001_en_US_dedes.trMA.Synaxarion.commemoration.text
+trMA.Synaxarion.couplet1.title = tr.d001_en_US_dedes.trMA.Synaxarion.couplet1.title
+trMA.Synaxarion.couplet1.verse1 = tr.d001_en_US_dedes.trMA.Synaxarion.couplet1.verse1
+trMA.Synaxarion.couplet1.verse2 = tr.d001_en_US_dedes.trMA.Synaxarion.couplet1.verse2
+trMA.Synaxarion.couplet2.title = tr.d001_en_US_dedes.trMA.Synaxarion.couplet2.title
+trMA.Synaxarion.couplet2.verse1 = tr.d001_en_US_dedes.trMA.Synaxarion.couplet2.verse1
+trMA.Synaxarion.couplet2.verse2 = tr.d001_en_US_dedes.trMA.Synaxarion.couplet2.verse2
+trMA.Synaxarion.couplet2.verse3 = tr.d001_en_US_dedes.trMA.Synaxarion.couplet2.verse3
+trMA.Synaxarion.single1.title = tr.d001_en_US_dedes.trMA.Synaxarion.single1.title
+trMA.Synaxarion.single1.text = tr.d001_en_US_dedes.trMA.Synaxarion.single1.text
+trMA.Synaxarion.narration1.text = tr.d001_en_US_dedes.trMA.Synaxarion.narration1.text
+trMA.Synaxarion.lastline.text = tr.d001_en_US_dedes.trMA.Synaxarion.lastline.text
 
 trMA.Ode7C11.ode = tr.d001_en_US_dedes.trMA.Ode7C11.ode
 trMA.Ode7C11.mode = tr.d001_en_US_dedes.trMA.Ode7C11.mode

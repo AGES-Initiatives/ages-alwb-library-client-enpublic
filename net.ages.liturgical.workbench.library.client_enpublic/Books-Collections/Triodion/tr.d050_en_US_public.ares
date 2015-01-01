@@ -272,15 +272,15 @@ trMA.Kontakion1.text = tr.d050_en_US_dedes.trMA.Kontakion1.text
 
 trMA.Oikos1.text = tr.d050_en_US_dedes.trMA.Oikos1.text
 
-trMA.Synaxarion1.Com = tr.d050_en_US_dedes.trMA.Synaxarion1.Com
-trMA.Synaxarion1.Ver1 = tr.d050_en_US_dedes.trMA.Synaxarion1.Ver1
-trMA.Synaxarion1.Ver2 = tr.d050_en_US_dedes.trMA.Synaxarion1.Ver2
-trMA.Synaxarion1.Ver3 = tr.d050_en_US_dedes.trMA.Synaxarion1.Ver3
-trMA.Synaxarion1.Ver4 = tr.d050_en_US_dedes.trMA.Synaxarion1.Ver4
-
-trMA.Synaxarion1.Nar = tr.d050_en_US_dedes.trMA.Synaxarion1.Nar
-
-trMA.Synaxarion.LastLine = tr.d050_en_US_dedes.trMA.Synaxarion.LastLine
+trMA.Synaxarion.commemoration.text = tr.d050_en_US_dedes.trMA.Synaxarion.commemoration.text
+trMA.Synaxarion.couplet1.title = tr.d050_en_US_dedes.trMA.Synaxarion.couplet1.title
+trMA.Synaxarion.couplet1.verse1 = tr.d050_en_US_dedes.trMA.Synaxarion.couplet1.verse1
+trMA.Synaxarion.couplet1.verse2 = tr.d050_en_US_dedes.trMA.Synaxarion.couplet1.verse2
+trMA.Synaxarion.couplet2.title = tr.d050_en_US_dedes.trMA.Synaxarion.couplet2.title
+trMA.Synaxarion.couplet2.verse1 = tr.d050_en_US_dedes.trMA.Synaxarion.couplet2.verse1
+trMA.Synaxarion.couplet2.verse2 = tr.d050_en_US_dedes.trMA.Synaxarion.couplet2.verse2
+trMA.Synaxarion.narration1.text = tr.d050_en_US_dedes.trMA.Synaxarion.narration1.text
+trMA.Synaxarion.lastline.text = tr.d050_en_US_dedes.trMA.Synaxarion.lastline.text
 
 trMA.Ode7C11.ode = tr.d050_en_US_dedes.trMA.Ode7C11.ode
 trMA.Ode7C11.mode = tr.d050_en_US_dedes.trMA.Ode7C11.mode
