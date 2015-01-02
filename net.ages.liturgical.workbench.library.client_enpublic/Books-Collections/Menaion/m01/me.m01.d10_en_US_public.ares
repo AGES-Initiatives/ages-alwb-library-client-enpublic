@@ -80,12 +80,12 @@ meVE.Apolytikion1.melody = me.m01.d10_en_US_dedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.text = me.m01.d10_en_US_dedes.meVE.Apolytikion1.text
 
 meMA.Kathisma11.mode = me.m01.d10_en_US_dedes.meMA.Kathisma11.mode
-meMA.Kathisma11.melody = me.m01.d10_en_US_dedes.meMA.Kathisma11.melody
-meMA.Kathisma11.text = me.m01.d10_en_US_dedes.meMA.Kathisma11.text
+meMA.Kathisma11.melody = misc_en_US_public.NotMetered
+meMA.Kathisma11.text = me.m01.d10_en_US_oca.meMA.Kathisma11.text
 
 meMA.Kathisma21.mode = me.m01.d10_en_US_dedes.meMA.Kathisma21.mode
-meMA.Kathisma21.melody = me.m01.d10_en_US_dedes.meMA.Kathisma21.melody
-meMA.Kathisma21.text = me.m01.d10_en_US_dedes.meMA.Kathisma21.text
+meMA.Kathisma21.melody = misc_en_US_public.NotMetered
+meMA.Kathisma21.text = me.m01.d10_en_US_oca.meMA.Kathisma21.text
 
 meMA.C1Poet = me.m01.d10_en_US_dedes.meMA.C1Poet
 
@@ -302,8 +302,8 @@ meMA.Ode6H.melody = me.m01.d10_en_US_dedes.meMA.Ode6H.melody
 meMA.Ode6H.text = me.m01.d10_en_US_dedes.meMA.Ode6H.text
 
 meMA.Kontakion1.mode = me.m01.d10_en_US_dedes.meMA.Kontakion1.mode
-meMA.Kontakion1.melody = me.m01.d10_en_US_dedes.meMA.Kontakion1.melody
-meMA.Kontakion1.text = me.m01.d10_en_US_dedes.meMA.Kontakion1.text
+meMA.Kontakion1.melody =misc_en_US_public.NotMetered
+meMA.Kontakion1.text = me.m01.d10_en_US_oca.meMA.Kontakion1.text
 
 meMA.Oikos1.text = me.m01.d10_en_US_dedes.meMA.Oikos1.text
 
@@ -446,50 +446,44 @@ meMA.Ode9H.melody = me.m01.d10_en_US_dedes.meMA.Ode9H.melody
 meMA.Ode9H.text = me.m01.d10_en_US_dedes.meMA.Ode9H.text
 
 meMA.Exaposteilarion1.mode = me.m01.d10_en_US_dedes.meMA.Exaposteilarion1.mode
-meMA.Exaposteilarion1.melody = me.m01.d10_en_US_dedes.meMA.Exaposteilarion1.melody
-meMA.Exaposteilarion1.text = me.m01.d10_en_US_dedes.meMA.Exaposteilarion1.text
+meMA.Exaposteilarion1.melody = misc_en_US_public.NotMetered
+meMA.Exaposteilarion1.text = me.m01.d10_en_US_oca.meMA.Exaposteilarion1.text
 
 meMA.LaudsSundayVerse1.text = me.m01.d10_en_US_dedes.meMA.LaudsSundayVerse1.text
 
 meMA.LaudsSundayVerse2.text = me.m01.d10_en_US_dedes.meMA.LaudsSundayVerse2.text
 
 meMA.Aposticha1.mode = me.m01.d10_en_US_dedes.meMA.Aposticha1.mode
-meMA.Aposticha1.melody = me.m01.d10_en_US_dedes.meMA.Aposticha1.melody
-meMA.Aposticha1.text = me.m01.d10_en_US_dedes.meMA.Aposticha1.text
+meMA.Aposticha1.melody = misc_en_US_public.NotMetered
+meMA.Aposticha1.text = me.m01.d10_en_US_oca.meMA.Aposticha1.text
 
 meMA.ApostichaVerse2.text = me.m01.d10_en_US_dedes.meMA.ApostichaVerse2.text
 
 meMA.Aposticha2.mode = me.m01.d10_en_US_dedes.meMA.Aposticha2.mode
-meMA.Aposticha2.melody = me.m01.d10_en_US_dedes.meMA.Aposticha2.melody
-meMA.Aposticha2.text = me.m01.d10_en_US_dedes.meMA.Aposticha2.text
+meMA.Aposticha2.melody = misc_en_US_public.NotMetered
+meMA.Aposticha2.text = me.m01.d10_en_US_oca.meMA.Aposticha2.text
 
 meMA.ApostichaVerse3.text = me.m01.d10_en_US_dedes.meMA.ApostichaVerse3.text
 
 meMA.Aposticha3.mode = me.m01.d10_en_US_dedes.meMA.Aposticha3.mode
-meMA.Aposticha3.melody = me.m01.d10_en_US_dedes.meMA.Aposticha3.melody
-meMA.Aposticha3.text = me.m01.d10_en_US_dedes.meMA.Aposticha3.text
+meMA.Aposticha3.melody = misc_en_US_public.NotMetered
+meMA.Aposticha3.text = me.m01.d10_en_US_oca.meMA.Aposticha3.text
 
 meMA.AposGlory.poet = me.m01.d10_en_US_dedes.meMA.AposGlory.poet
 meMA.AposGlory.mode = me.m01.d10_en_US_dedes.meMA.AposGlory.mode
 meMA.AposGlory.melody = me.m01.d10_en_US_dedes.meMA.AposGlory.melody
-meMA.AposGlory.text = me.m01.d10_en_US_dedes.meMA.AposGlory.text
+meMA.AposGlory.text = me.m01.d10_en_US_oca.meMA.AposGlory.text
 
 meMA.AposBoth.poet = me.m01.d10_en_US_dedes.meMA.AposBoth.poet
 meMA.AposBoth.mode = me.m01.d10_en_US_dedes.meMA.AposBoth.mode
 meMA.AposBoth.melody = me.m01.d10_en_US_dedes.meMA.AposBoth.melody
-meMA.AposBoth.text = me.m01.d10_en_US_dedes.meMA.AposBoth.text
+meMA.AposBoth.text = me.m01.d10_en_US_oca.meMA.AposBoth.text
 
 meLI.Antiphon2.text = me.m01.d10_en_US_dedes.meLI.Antiphon2.text
 
 meLI.SeasonalKontakion.mode = me.m01.d10_en_US_dedes.meLI.SeasonalKontakion.mode
 meLI.SeasonalKontakion.melody = me.m01.d10_en_US_dedes.meLI.SeasonalKontakion.melody
 meLI.SeasonalKontakion.text = me.m01.d10_en_US_dedes.meLI.SeasonalKontakion.text
-
-meLI.Alleluia.mode = me.m01.d10_en_US_dedes.meLI.Alleluia.mode
-
-meLI.AlleluiaVerse1.text = me.m01.d10_en_US_dedes.meLI.AlleluiaVerse1.text
-
-meLI.AlleluiaVerse2.text = me.m01.d10_en_US_dedes.meLI.AlleluiaVerse2.text
 
 meMegalynarion.text = me.m01.d10_en_US_dedes.meMegalynarion.text
 

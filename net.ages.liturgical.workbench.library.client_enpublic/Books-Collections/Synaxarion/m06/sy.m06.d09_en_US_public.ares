@@ -2,4 +2,4 @@ A_Resource_Whose_Name = sy.m06.d09_en_US_public
 
 S01.commemoration.text = sy.m06.d09_en_US_dedes.S01.commemoration.text
 
-S99.lastline = sy.m06.d09_en_US_dedes.S99.lastline
+S99.lastline.text= sy.m06.d09_en_US_dedes.S99.lastline.text
