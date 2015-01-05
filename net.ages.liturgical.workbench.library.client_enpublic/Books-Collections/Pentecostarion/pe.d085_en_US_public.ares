@@ -383,12 +383,11 @@ peMA.Kontakion1.text = pe.d085_en_US_dedes.peMA.Kontakion1.text
 
 peMA.Oikos1.text = pe.d085_en_US_dedes.peMA.Oikos1.text
 
-peMA.Synaxarion1.Com = pe.d085_en_US_dedes.peMA.Synaxarion1.Com
-peMA.Synaxarion1.Ver1 = pe.d085_en_US_dedes.peMA.Synaxarion1.Ver1
-peMA.Synaxarion1.Ver2 = pe.d085_en_US_dedes.peMA.Synaxarion1.Ver2
-peMA.Synaxarion1.Nar = pe.d085_en_US_dedes.peMA.Synaxarion1.Nar
-
-peMA.Synaxarion.LastLine = pe.d085_en_US_dedes.peMA.Synaxarion.LastLine
+peMA.Synaxarion.commemoration.text = pe.d085_en_US_dedes.peMA.Synaxarion.commemoration.text
+peMA.Synaxarion.couplet1.title = pe.d085_en_US_dedes.peMA.Synaxarion.couplet1.title
+peMA.Synaxarion.couplet1.verse1 = pe.d085_en_US_dedes.peMA.Synaxarion.couplet1.verse1
+peMA.Synaxarion.couplet1.verse2 = pe.d085_en_US_dedes.peMA.Synaxarion.couplet1.verse2
+peMA.Synaxarion.lastline.text = pe.d085_en_US_dedes.peMA.Synaxarion.lastline.text
 
 peMA.Ode7C1H.ode = pe.d085_en_US_dedes.peMA.Ode7C1H.ode
 peMA.Ode7C1H.mode = pe.d085_en_US_dedes.peMA.Ode7C1H.mode

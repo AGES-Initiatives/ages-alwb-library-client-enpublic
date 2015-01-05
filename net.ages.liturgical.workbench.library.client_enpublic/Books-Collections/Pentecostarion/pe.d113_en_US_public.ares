@@ -203,16 +203,14 @@ peMA.Kontakion2.text = pe.d113_en_US_dedes.peMA.Kontakion2.text
 
 peMA.Oikos2.text = pe.d113_en_US_dedes.peMA.Oikos2.text
 
-peMA.Synaxarion1.Com = pe.d113_en_US_dedes.peMA.Synaxarion1.Com
-peMA.Synaxarion1.Ver1 = pe.d113_en_US_dedes.peMA.Synaxarion1.Ver1
-peMA.Synaxarion1.Ver2 = pe.d113_en_US_dedes.peMA.Synaxarion1.Ver2
-peMA.Synaxarion1.Ver3 = pe.d113_en_US_dedes.peMA.Synaxarion1.Ver3 // title
-peMA.Synaxarion1.Ver4 = pe.d113_en_US_dedes.peMA.Synaxarion1.Ver4
-peMA.Synaxarion1.Ver5 = pe.d113_en_US_dedes.peMA.Synaxarion1.Ver5
-
-peMA.Synaxarion1.Nar = pe.d113_en_US_dedes.peMA.Synaxarion1.Nar
-
-peMA.Synaxarion.LastLine = pe.d113_en_US_dedes.peMA.Synaxarion.LastLine
+peMA.Synaxarion.commemoration.text = pe.d113_en_US_dedes.peMA.Synaxarion.commemoration.text
+peMA.Synaxarion.couplet1.title = pe.d113_en_US_dedes.peMA.Synaxarion.couplet1.title
+peMA.Synaxarion.couplet1.verse1 = pe.d113_en_US_dedes.peMA.Synaxarion.couplet1.verse1
+peMA.Synaxarion.couplet1.verse2 = pe.d113_en_US_dedes.peMA.Synaxarion.couplet1.verse2
+peMA.Synaxarion.couplet2.title = pe.d113_en_US_dedes.peMA.Synaxarion.couplet2.title
+peMA.Synaxarion.couplet2.verse1 = pe.d113_en_US_dedes.peMA.Synaxarion.couplet2.verse1
+peMA.Synaxarion.couplet2.verse2 = pe.d113_en_US_dedes.peMA.Synaxarion.couplet2.verse2
+peMA.Synaxarion.lastline.text = pe.d113_en_US_dedes.peMA.Synaxarion.lastline.text
 
 peMA.Ode7C11.ode = pe.d113_en_US_dedes.peMA.Ode7C11.ode
 peMA.Ode7C11.mode = pe.d113_en_US_dedes.peMA.Ode7C11.mode

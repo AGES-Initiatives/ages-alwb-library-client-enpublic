@@ -93,13 +93,12 @@ peMA.Kathisma21.mode = pe.d121_en_US_dedes.peMA.Kathisma21.mode
 peMA.Kathisma21.melody = pe.d121_en_US_dedes.peMA.Kathisma21.melody
 peMA.Kathisma21.text = pe.d121_en_US_dedes.peMA.Kathisma21.text
 
-peMA.Synaxarion1.Com = pe.d121_en_US_dedes.peMA.Synaxarion1.Com
-peMA.Synaxarion1.Ver1 = pe.d121_en_US_dedes.peMA.Synaxarion1.Ver1
-peMA.Synaxarion1.Ver2 = pe.d121_en_US_dedes.peMA.Synaxarion1.Ver2
+peMA.Synaxarion.commemoration.text = pe.d121_en_US_dedes.peMA.Synaxarion.commemoration.text
+peMA.Synaxarion.couplet1.title = pe.d121_en_US_dedes.peMA.Synaxarion.couplet1.title
+peMA.Synaxarion.couplet1.verse1 = pe.d121_en_US_dedes.peMA.Synaxarion.couplet1.verse1
+peMA.Synaxarion.couplet1.verse2 = pe.d121_en_US_dedes.peMA.Synaxarion.couplet1.verse2
 
-peMA.Synaxarion1.Nar = pe.d121_en_US_dedes.peMA.Synaxarion1.Nar
-
-peMA.Synaxarion.LastLine = pe.d121_en_US_dedes.peMA.Synaxarion.LastLine
+peMA.Synaxarion.lastline.text = pe.d121_en_US_dedes.peMA.Synaxarion.lastline.text
 
 peMA.Exaposteilarion1.mode = pe.d121_en_US_dedes.peMA.Exaposteilarion1.mode
 peMA.Exaposteilarion1.melody = pe.d121_en_US_dedes.peMA.Exaposteilarion1.melody
