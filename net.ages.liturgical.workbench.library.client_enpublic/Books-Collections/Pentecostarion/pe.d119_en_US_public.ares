@@ -215,12 +215,8 @@ peMA.Kontakion1.text = pe.d119_en_US_dedes.peMA.Kontakion1.text
 
 peMA.Oikos1.text = pe.d119_en_US_dedes.peMA.Oikos1.text
 
-peMA.Synaxarion1.Com = pe.d119_en_US_dedes.peMA.Synaxarion1.Com
-peMA.Synaxarion1.Ver1 = pe.d119_en_US_dedes.peMA.Synaxarion1.Ver1
-peMA.Synaxarion1.Ver2 = pe.d119_en_US_dedes.peMA.Synaxarion1.Ver2
-peMA.Synaxarion1.Nar = pe.d119_en_US_dedes.peMA.Synaxarion1.Nar
-
-peMA.Synaxarion.LastLine = pe.d119_en_US_dedes.peMA.Synaxarion.LastLine
+peMA.Synaxarion.commemoration.text = pe.d119_en_US_dedes.peMA.Synaxarion.commemoration.text
+peMA.Synaxarion.lastline.text = pe.d119_en_US_dedes.peMA.Synaxarion.lastline.text
 
 peMA.Ode7C11.ode = pe.d119_en_US_dedes.peMA.Ode7C11.ode
 peMA.Ode7C11.mode = pe.d119_en_US_dedes.peMA.Ode7C11.mode
