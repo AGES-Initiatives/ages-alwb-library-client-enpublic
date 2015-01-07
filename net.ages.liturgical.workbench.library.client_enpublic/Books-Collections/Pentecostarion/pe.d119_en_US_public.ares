@@ -63,9 +63,11 @@ peVE.Apolytikion1.mode = pe.d119_en_US_dedes.peVE.Apolytikion1.mode
 peVE.Apolytikion1.melody = pe.d119_en_US_dedes.peVE.Apolytikion1.melody
 peVE.Apolytikion1.text = pe.d119_en_US_dedes.peVE.Apolytikion1.text
 
-peVE.Apolytikion3.mode = pe.d119_en_US_dedes.peVE.Apolytikion3.mode
-peVE.Apolytikion3.melody = pe.d119_en_US_dedes.peVE.Apolytikion3.melody
-peVE.Apolytikion3.text = pe.d119_en_US_dedes.peVE.Apolytikion3.text
+peVE.Apolytikion2.text = pe.d119_en_US_dedes.peVE.Apolytikion2.text
+
+peVE.ApolTheotokion.mode = pe.d119_en_US_dedes.peVE.ApolTheotokion.mode
+peVE.ApolTheotokion.melody = pe.d119_en_US_dedes.peVE.ApolTheotokion.melody
+peVE.ApolTheotokion.text = pe.d119_en_US_dedes.peVE.ApolTheotokion.text
 
 peMA.Kathisma11.mode = pe.d119_en_US_dedes.peMA.Kathisma11.mode
 peMA.Kathisma11.melody = pe.d119_en_US_dedes.peMA.Kathisma11.melody
