@@ -1,0 +1,247 @@
+A_Resource_Whose_Name = pe.d109alt_en_US_public
+
+peCommemoration.text = pe.d109alt_en_US_dedes.peCommemoration.text // full title of day
+peShortCommemoration1.text = pe.d109alt_en_US_dedes.peShortCommemoration1.text
+peInsert1 = pe.d109alt_en_US_dedes.peInsert1 // for use in petitions and dismissal
+peInsert2 = pe.d109alt_en_US_dedes.peInsert2 // for use in petitions and dismissal
+peNote.text = pe.d109alt_en_US_dedes.peNote.text
+peHO.day = pe.d109alt_en_US_dedes.peHO.day
+peHO.commemorations = pe.d109alt_en_US_dedes.peHO.commemorations
+peHO.description1 = pe.d109alt_en_US_dedes.peHO.description1
+peHO.description2 = pe.d109alt_en_US_dedes.peHO.description2
+peHO.note1 = pe.d109alt_en_US_dedes.peHO.note1
+peHO.note2 = pe.d109alt_en_US_dedes.peHO.note2
+peDismissal = pe.d109alt_en_US_dedes.peDismissal
+
+peVE.Stichera01.mode = pe.d109alt_en_US_dedes.peVE.Stichera01.mode
+peVE.Stichera01.melody = pe.d109alt_en_US_dedes.peVE.Stichera01.melody
+peVE.Stichera01.text = pe.d109alt_en_US_dedes.peVE.Stichera01.text
+
+peVE.Stichera02.mode = pe.d109alt_en_US_dedes.peVE.Stichera02.mode
+peVE.Stichera02.melody = pe.d109alt_en_US_dedes.peVE.Stichera02.melody
+peVE.Stichera02.text = pe.d109alt_en_US_dedes.peVE.Stichera02.text
+
+peVE.Stichera03.mode = pe.d109alt_en_US_dedes.peVE.Stichera03.mode
+peVE.Stichera03.melody = pe.d109alt_en_US_dedes.peVE.Stichera03.melody
+peVE.Stichera03.text = pe.d109alt_en_US_dedes.peVE.Stichera03.text
+
+peVE.Stichera04.mode = pe.d109alt_en_US_dedes.peVE.Stichera04.mode
+peVE.Stichera04.melody = pe.d109alt_en_US_dedes.peVE.Stichera04.melody
+peVE.Stichera04.text = pe.d109alt_en_US_dedes.peVE.Stichera04.text
+
+peVE.Stichera05.mode = pe.d109alt_en_US_dedes.peVE.Stichera05.mode
+peVE.Stichera05.melody = pe.d109alt_en_US_dedes.peVE.Stichera05.melody
+peVE.Stichera05.text = pe.d109alt_en_US_dedes.peVE.Stichera05.text
+
+peVE.Stichera06.mode = pe.d109alt_en_US_dedes.peVE.Stichera06.mode
+peVE.Stichera06.melody = pe.d109alt_en_US_dedes.peVE.Stichera06.melody
+peVE.Stichera06.text = pe.d109alt_en_US_dedes.peVE.Stichera06.text
+
+peVE.SticGlory.mode = pe.d109alt_en_US_dedes.peVE.SticGlory.mode
+peVE.SticGlory.melody = pe.d109alt_en_US_dedes.peVE.SticGlory.melody
+peVE.SticGlory.text = pe.d109alt_en_US_dedes.peVE.SticGlory.text
+
+peVE.SticBoth.mode = pe.d109alt_en_US_dedes.peVE.SticBoth.mode
+peVE.SticBoth.melody = pe.d109alt_en_US_dedes.peVE.SticBoth.melody
+peVE.SticBoth.text = pe.d109alt_en_US_dedes.peVE.SticBoth.text
+
+peVE.Aposticha1.mode = pe.d109alt_en_US_dedes.peVE.Aposticha1.mode
+peVE.Aposticha1.melody = pe.d109alt_en_US_dedes.peVE.Aposticha1.melody
+peVE.Aposticha1.text = pe.d109alt_en_US_dedes.peVE.Aposticha1.text
+
+peMA.Kathisma11.mode = pe.d109alt_en_US_dedes.peMA.Kathisma11.mode
+peMA.Kathisma11.melody = pe.d109alt_en_US_dedes.peMA.Kathisma11.melody
+peMA.Kathisma11.text = pe.d109alt_en_US_dedes.peMA.Kathisma11.text
+
+peMA.Kathisma12.mode = pe.d109alt_en_US_dedes.peMA.Kathisma12.mode
+peMA.Kathisma12.melody = pe.d109alt_en_US_dedes.peMA.Kathisma12.melody
+peMA.Kathisma12.text = pe.d109alt_en_US_dedes.peMA.Kathisma12.text
+
+peMA.Kathisma1T.mode = pe.d109alt_en_US_dedes.peMA.Kathisma1T.mode
+peMA.Kathisma1T.melody = pe.d109alt_en_US_dedes.peMA.Kathisma1T.melody
+peMA.Kathisma1T.text = pe.d109alt_en_US_dedes.peMA.Kathisma1T.text
+
+peMA.Kathisma21.mode = pe.d109alt_en_US_dedes.peMA.Kathisma21.mode
+peMA.Kathisma21.melody = pe.d109alt_en_US_dedes.peMA.Kathisma21.melody
+peMA.Kathisma21.text = pe.d109alt_en_US_dedes.peMA.Kathisma21.text
+
+peMA.C1Poet = pe.d109alt_en_US_dedes.peMA.C1Poet
+peMA.C1Acrostic.text = pe.d109alt_en_US_dedes.peMA.C1Acrostic.text
+
+peMA.Ode1C11.ode = pe.d109alt_en_US_dedes.peMA.Ode1C11.ode
+peMA.Ode1C11.mode = pe.d109alt_en_US_dedes.peMA.Ode1C11.mode
+peMA.Ode1C11.melody = pe.d109alt_en_US_dedes.peMA.Ode1C11.melody
+peMA.Ode1C11.text = pe.d109alt_en_US_dedes.peMA.Ode1C11.text
+
+peMA.Ode1C12.ode = pe.d109alt_en_US_dedes.peMA.Ode1C12.ode
+peMA.Ode1C12.mode = pe.d109alt_en_US_dedes.peMA.Ode1C12.mode
+peMA.Ode1C12.melody = pe.d109alt_en_US_dedes.peMA.Ode1C12.melody
+peMA.Ode1C12.text = pe.d109alt_en_US_dedes.peMA.Ode1C12.text
+
+peMA.Ode1C13.ode = pe.d109alt_en_US_dedes.peMA.Ode1C13.ode
+peMA.Ode1C13.mode = pe.d109alt_en_US_dedes.peMA.Ode1C13.mode
+peMA.Ode1C13.melody = pe.d109alt_en_US_dedes.peMA.Ode1C13.melody
+peMA.Ode1C13.text = pe.d109alt_en_US_dedes.peMA.Ode1C13.text
+
+peMA.Ode3C11.ode = pe.d109alt_en_US_dedes.peMA.Ode3C11.ode
+peMA.Ode3C11.mode = pe.d109alt_en_US_dedes.peMA.Ode3C11.mode
+peMA.Ode3C11.melody = pe.d109alt_en_US_dedes.peMA.Ode3C11.melody
+peMA.Ode3C11.text = pe.d109alt_en_US_dedes.peMA.Ode3C11.text
+
+peMA.Ode3C12.ode = pe.d109alt_en_US_dedes.peMA.Ode3C12.ode
+peMA.Ode3C12.mode = pe.d109alt_en_US_dedes.peMA.Ode3C12.mode
+peMA.Ode3C12.melody = pe.d109alt_en_US_dedes.peMA.Ode3C12.melody
+peMA.Ode3C12.text = pe.d109alt_en_US_dedes.peMA.Ode3C12.text
+
+peMA.Ode3C13.ode = pe.d109alt_en_US_dedes.peMA.Ode3C13.ode
+peMA.Ode3C13.mode = pe.d109alt_en_US_dedes.peMA.Ode3C13.mode
+peMA.Ode3C13.melody = pe.d109alt_en_US_dedes.peMA.Ode3C13.melody
+peMA.Ode3C13.text = pe.d109alt_en_US_dedes.peMA.Ode3C13.text
+
+peMA.Ode3Kathisma1.mode = pe.d109alt_en_US_dedes.peMA.Ode3Kathisma1.mode
+peMA.Ode3Kathisma1.melody = pe.d109alt_en_US_dedes.peMA.Ode3Kathisma1.melody
+peMA.Ode3Kathisma1.text = pe.d109alt_en_US_dedes.peMA.Ode3Kathisma1.text
+
+peMA.Ode3Kathisma2.mode = pe.d109alt_en_US_dedes.peMA.Ode3Kathisma2.mode
+peMA.Ode3Kathisma2.melody = pe.d109alt_en_US_dedes.peMA.Ode3Kathisma2.melody
+peMA.Ode3Kathisma2.text = pe.d109alt_en_US_dedes.peMA.Ode3Kathisma2.text
+
+peMA.Ode4C11.ode = pe.d109alt_en_US_dedes.peMA.Ode4C11.ode
+peMA.Ode4C11.mode = pe.d109alt_en_US_dedes.peMA.Ode4C11.mode
+peMA.Ode4C11.melody = pe.d109alt_en_US_dedes.peMA.Ode4C11.melody
+peMA.Ode4C11.text = pe.d109alt_en_US_dedes.peMA.Ode4C11.text
+
+peMA.Ode4C12.ode = pe.d109alt_en_US_dedes.peMA.Ode4C12.ode
+peMA.Ode4C12.mode = pe.d109alt_en_US_dedes.peMA.Ode4C12.mode
+peMA.Ode4C12.melody = pe.d109alt_en_US_dedes.peMA.Ode4C12.melody
+peMA.Ode4C12.text = pe.d109alt_en_US_dedes.peMA.Ode4C12.text
+
+peMA.Ode4C13.ode = pe.d109alt_en_US_dedes.peMA.Ode4C13.ode
+peMA.Ode4C13.mode = pe.d109alt_en_US_dedes.peMA.Ode4C13.mode
+peMA.Ode4C13.melody = pe.d109alt_en_US_dedes.peMA.Ode4C13.melody
+peMA.Ode4C13.text = pe.d109alt_en_US_dedes.peMA.Ode4C13.text
+
+peMA.Ode4C14.ode = pe.d109alt_en_US_dedes.peMA.Ode4C14.ode
+peMA.Ode4C14.mode = pe.d109alt_en_US_dedes.peMA.Ode4C14.mode
+peMA.Ode4C14.melody = pe.d109alt_en_US_dedes.peMA.Ode4C14.melody
+peMA.Ode4C14.text = pe.d109alt_en_US_dedes.peMA.Ode4C14.text
+
+peMA.Ode5C11.ode = pe.d109alt_en_US_dedes.peMA.Ode5C11.ode
+peMA.Ode5C11.mode = pe.d109alt_en_US_dedes.peMA.Ode5C11.mode
+peMA.Ode5C11.melody = pe.d109alt_en_US_dedes.peMA.Ode5C11.melody
+peMA.Ode5C11.text = pe.d109alt_en_US_dedes.peMA.Ode5C11.text
+
+peMA.Ode5C12.ode = pe.d109alt_en_US_dedes.peMA.Ode5C12.ode
+peMA.Ode5C12.mode = pe.d109alt_en_US_dedes.peMA.Ode5C12.mode
+peMA.Ode5C12.melody = pe.d109alt_en_US_dedes.peMA.Ode5C12.melody
+peMA.Ode5C12.text = pe.d109alt_en_US_dedes.peMA.Ode5C12.text
+
+peMA.Ode5C13.ode = pe.d109alt_en_US_dedes.peMA.Ode5C13.ode
+peMA.Ode5C13.mode = pe.d109alt_en_US_dedes.peMA.Ode5C13.mode
+peMA.Ode5C13.melody = pe.d109alt_en_US_dedes.peMA.Ode5C13.melody
+peMA.Ode5C13.text = pe.d109alt_en_US_dedes.peMA.Ode5C13.text
+
+peMA.Ode6C11.ode = pe.d109alt_en_US_dedes.peMA.Ode6C11.ode
+peMA.Ode6C11.mode = pe.d109alt_en_US_dedes.peMA.Ode6C11.mode
+peMA.Ode6C11.melody = pe.d109alt_en_US_dedes.peMA.Ode6C11.melody
+peMA.Ode6C11.text = pe.d109alt_en_US_dedes.peMA.Ode6C11.text
+
+peMA.Ode6C12.ode = pe.d109alt_en_US_dedes.peMA.Ode6C12.ode
+peMA.Ode6C12.mode = pe.d109alt_en_US_dedes.peMA.Ode6C12.mode
+peMA.Ode6C12.melody = pe.d109alt_en_US_dedes.peMA.Ode6C12.melody
+peMA.Ode6C12.text = pe.d109alt_en_US_dedes.peMA.Ode6C12.text
+
+peMA.Ode6C13.ode = pe.d109alt_en_US_dedes.peMA.Ode6C13.ode
+peMA.Ode6C13.mode = pe.d109alt_en_US_dedes.peMA.Ode6C13.mode
+peMA.Ode6C13.melody = pe.d109alt_en_US_dedes.peMA.Ode6C13.melody
+peMA.Ode6C13.text = pe.d109alt_en_US_dedes.peMA.Ode6C13.text
+
+peMA.Ode7C11.ode = pe.d109alt_en_US_dedes.peMA.Ode7C11.ode
+peMA.Ode7C11.mode = pe.d109alt_en_US_dedes.peMA.Ode7C11.mode
+peMA.Ode7C11.melody = pe.d109alt_en_US_dedes.peMA.Ode7C11.melody
+peMA.Ode7C11.text = pe.d109alt_en_US_dedes.peMA.Ode7C11.text
+
+peMA.Ode7C12.ode = pe.d109alt_en_US_dedes.peMA.Ode7C12.ode
+peMA.Ode7C12.mode = pe.d109alt_en_US_dedes.peMA.Ode7C12.mode
+peMA.Ode7C12.melody = pe.d109alt_en_US_dedes.peMA.Ode7C12.melody
+peMA.Ode7C12.text = pe.d109alt_en_US_dedes.peMA.Ode7C12.text
+
+peMA.Ode7C13.ode = pe.d109alt_en_US_dedes.peMA.Ode7C13.ode
+peMA.Ode7C13.mode = pe.d109alt_en_US_dedes.peMA.Ode7C13.mode
+peMA.Ode7C13.melody = pe.d109alt_en_US_dedes.peMA.Ode7C13.melody
+peMA.Ode7C13.text = pe.d109alt_en_US_dedes.peMA.Ode7C13.text
+
+peMA.Ode7C14.ode = pe.d109alt_en_US_dedes.peMA.Ode7C14.ode
+peMA.Ode7C14.mode = pe.d109alt_en_US_dedes.peMA.Ode7C14.mode
+peMA.Ode7C14.melody = pe.d109alt_en_US_dedes.peMA.Ode7C14.melody
+peMA.Ode7C14.text = pe.d109alt_en_US_dedes.peMA.Ode7C14.text
+
+peMA.Ode8C11.ode = pe.d109alt_en_US_dedes.peMA.Ode8C11.ode
+peMA.Ode8C11.mode = pe.d109alt_en_US_dedes.peMA.Ode8C11.mode
+peMA.Ode8C11.melody = pe.d109alt_en_US_dedes.peMA.Ode8C11.melody
+peMA.Ode8C11.text = pe.d109alt_en_US_dedes.peMA.Ode8C11.text
+
+peMA.Ode8C12.ode = pe.d109alt_en_US_dedes.peMA.Ode8C12.ode
+peMA.Ode8C12.mode = pe.d109alt_en_US_dedes.peMA.Ode8C12.mode
+peMA.Ode8C12.melody = pe.d109alt_en_US_dedes.peMA.Ode8C12.melody
+peMA.Ode8C12.text = pe.d109alt_en_US_dedes.peMA.Ode8C12.text
+
+peMA.Ode8C13.ode = pe.d109alt_en_US_dedes.peMA.Ode8C13.ode
+peMA.Ode8C13.mode = pe.d109alt_en_US_dedes.peMA.Ode8C13.mode
+peMA.Ode8C13.melody = pe.d109alt_en_US_dedes.peMA.Ode8C13.melody
+peMA.Ode8C13.text = pe.d109alt_en_US_dedes.peMA.Ode8C13.text
+
+peMA.Ode8C14.ode = pe.d109alt_en_US_dedes.peMA.Ode8C14.ode
+peMA.Ode8C14.mode = pe.d109alt_en_US_dedes.peMA.Ode8C14.mode
+peMA.Ode8C14.melody = pe.d109alt_en_US_dedes.peMA.Ode8C14.melody
+peMA.Ode8C14.text = pe.d109alt_en_US_dedes.peMA.Ode8C14.text
+
+peMA.Ode9C11.ode = pe.d109alt_en_US_dedes.peMA.Ode9C11.ode
+peMA.Ode9C11.mode = pe.d109alt_en_US_dedes.peMA.Ode9C11.mode
+peMA.Ode9C11.melody = pe.d109alt_en_US_dedes.peMA.Ode9C11.melody
+peMA.Ode9C11.text = pe.d109alt_en_US_dedes.peMA.Ode9C11.text
+
+peMA.Ode9C12.ode = pe.d109alt_en_US_dedes.peMA.Ode9C12.ode
+peMA.Ode9C12.mode = pe.d109alt_en_US_dedes.peMA.Ode9C12.mode
+peMA.Ode9C12.melody = pe.d109alt_en_US_dedes.peMA.Ode9C12.melody
+peMA.Ode9C12.text = pe.d109alt_en_US_dedes.peMA.Ode9C12.text
+
+peMA.Ode9C13.ode = pe.d109alt_en_US_dedes.peMA.Ode9C13.ode
+peMA.Ode9C13.mode = pe.d109alt_en_US_dedes.peMA.Ode9C13.mode
+peMA.Ode9C13.melody = pe.d109alt_en_US_dedes.peMA.Ode9C13.melody
+peMA.Ode9C13.text = pe.d109alt_en_US_dedes.peMA.Ode9C13.text
+
+peMA.Ode9C14.ode = pe.d109alt_en_US_dedes.peMA.Ode9C14.ode
+peMA.Ode9C14.mode = pe.d109alt_en_US_dedes.peMA.Ode9C14.mode
+peMA.Ode9C14.melody = pe.d109alt_en_US_dedes.peMA.Ode9C14.melody
+peMA.Ode9C14.text = pe.d109alt_en_US_dedes.peMA.Ode9C14.text
+
+peMA.Ode9C1T.ode = pe.d109alt_en_US_dedes.peMA.Ode9C1T.ode
+peMA.Ode9C1T.mode = pe.d109alt_en_US_dedes.peMA.Ode9C1T.mode
+peMA.Ode9C1T.melody = pe.d109alt_en_US_dedes.peMA.Ode9C1T.melody
+peMA.Ode9C1T.text = pe.d109alt_en_US_dedes.peMA.Ode9C1T.text
+
+peMA.Exaposteilarion1.mode = pe.d109alt_en_US_dedes.peMA.Exaposteilarion1.mode
+peMA.Exaposteilarion1.melody = pe.d109alt_en_US_dedes.peMA.Exaposteilarion1.melody
+peMA.Exaposteilarion1.text = pe.d109alt_en_US_dedes.peMA.Exaposteilarion1.text
+
+peMA.Exaposteilarion2.mode = pe.d109alt_en_US_dedes.peMA.Exaposteilarion2.mode
+peMA.Exaposteilarion2.melody = pe.d109alt_en_US_dedes.peMA.Exaposteilarion2.melody
+peMA.Exaposteilarion2.text = pe.d109alt_en_US_dedes.peMA.Exaposteilarion2.text
+
+peMA.Lauds1.mode = pe.d109alt_en_US_dedes.peMA.Lauds1.mode
+peMA.Lauds1.melody = pe.d109alt_en_US_dedes.peMA.Lauds1.melody
+peMA.Lauds1.text = pe.d109alt_en_US_dedes.peMA.Lauds1.text
+
+peMA.Lauds2.mode = pe.d109alt_en_US_dedes.peMA.Lauds2.mode
+peMA.Lauds2.melody = pe.d109alt_en_US_dedes.peMA.Lauds2.melody
+peMA.Lauds2.text = pe.d109alt_en_US_dedes.peMA.Lauds2.text
+
+peMA.Lauds3.mode = pe.d109alt_en_US_dedes.peMA.Lauds3.mode
+peMA.Lauds3.melody = pe.d109alt_en_US_dedes.peMA.Lauds3.melody
+peMA.Lauds3.text = pe.d109alt_en_US_dedes.peMA.Lauds3.text
+
+peMA.Lauds4.mode = pe.d109alt_en_US_dedes.peMA.Lauds4.mode
+peMA.Lauds4.melody = pe.d109alt_en_US_dedes.peMA.Lauds4.melody
+peMA.Lauds4.text = pe.d109alt_en_US_dedes.peMA.Lauds4.text
+
