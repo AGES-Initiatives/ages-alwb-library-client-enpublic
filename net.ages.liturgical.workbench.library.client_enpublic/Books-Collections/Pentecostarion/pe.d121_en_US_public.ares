@@ -29,47 +29,47 @@ peVE.SticGlory.mode = pe.d121_en_US_dedes.peVE.SticGlory.mode
 peVE.SticGlory.melody = pe.d121_en_US_dedes.peVE.SticGlory.melody
 peVE.SticGlory.text = pe.d121_en_US_dedes.peVE.SticGlory.text
 
-pePE.Prayer1.rubric = pe.d121_en_US_dedes.pePE.Prayer1.rubric
-pePE.Prayer1.title = pe.d121_en_US_dedes.pePE.Prayer1.title
-pePE.Prayer11.text = pe.d121_en_US_dedes.pePE.Prayer11.text
-pePE.Prayer12.text = pe.d121_en_US_dedes.pePE.Prayer12.text
-pePE.Prayer13.text = pe.d121_en_US_dedes.pePE.Prayer13.text
-pePE.Prayer14.text = pe.d121_en_US_dedes.pePE.Prayer14.text
+pePE.Prayer1.rubric = pe.d121_en_US_holycross.pePE.Prayer1.rubric
+pePE.Prayer1.title = pe.d121_en_US_holycross.pePE.Prayer1.title
+pePE.Prayer11.text = pe.d121_en_US_holycross.pePE.Prayer11.text
+pePE.Prayer12.text = pe.d121_en_US_holycross.pePE.Prayer12.text
+pePE.Prayer13.text = pe.d121_en_US_holycross.pePE.Prayer13.text
+pePE.Prayer14.text = pe.d121_en_US_holycross.pePE.Prayer14.text
 
-pePE.Prayer2.rubric = pe.d121_en_US_dedes.pePE.Prayer2.rubric
-pePE.Prayer2.title = pe.d121_en_US_dedes.pePE.Prayer2.title
-pePE.Prayer21.text = pe.d121_en_US_dedes.pePE.Prayer21.text
-pePE.Prayer22.text = pe.d121_en_US_dedes.pePE.Prayer22.text
+pePE.Prayer2.rubric = pe.d121_en_US_holycross.pePE.Prayer2.rubric
+pePE.Prayer2.title = pe.d121_en_US_holycross.pePE.Prayer2.title
+pePE.Prayer21.text = pe.d121_en_US_holycross.pePE.Prayer21.text
+pePE.Prayer22.text = pe.d121_en_US_holycross.pePE.Prayer22.text
 
-pePE.Prayer3.rubric = pe.d121_en_US_dedes.pePE.Prayer3.rubric
-pePE.Prayer3.title = pe.d121_en_US_dedes.pePE.Prayer3.title
-pePE.Prayer31.text = pe.d121_en_US_dedes.pePE.Prayer31.text
-pePE.Prayer32.text = pe.d121_en_US_dedes.pePE.Prayer32.text
-pePE.Prayer33.text = pe.d121_en_US_dedes.pePE.Prayer33.text
-pePE.Prayer34.text = pe.d121_en_US_dedes.pePE.Prayer34.text
+pePE.Prayer3.rubric = pe.d121_en_US_holycross.pePE.Prayer3.rubric
+pePE.Prayer3.title = pe.d121_en_US_holycross.pePE.Prayer3.title
+pePE.Prayer31.text = pe.d121_en_US_holycross.pePE.Prayer31.text
+pePE.Prayer32.text = pe.d121_en_US_holycross.pePE.Prayer32.text
+pePE.Prayer33.text = pe.d121_en_US_holycross.pePE.Prayer33.text
+pePE.Prayer34.text = pe.d121_en_US_holycross.pePE.Prayer34.text
 
-pePE.Prayer4.rubric = pe.d121_en_US_dedes.pePE.Prayer4.rubric
-pePE.Prayer4.title = pe.d121_en_US_dedes.pePE.Prayer4.title
-pePE.Prayer41.text = pe.d121_en_US_dedes.pePE.Prayer41.text
+pePE.Prayer4.rubric = pe.d121_en_US_holycross.pePE.Prayer4.rubric
+pePE.Prayer4.title = pe.d121_en_US_holycross.pePE.Prayer4.title
+pePE.Prayer41.text = pe.d121_en_US_holycross.pePE.Prayer41.text
 
-pePE.Prayer5.rubric = pe.d121_en_US_dedes.pePE.Prayer5.rubric
-pePE.Prayer5.title = pe.d121_en_US_dedes.pePE.Prayer5.title
-pePE.Prayer51.text = pe.d121_en_US_dedes.pePE.Prayer51.text
-pePE.Prayer52.text = pe.d121_en_US_dedes.pePE.Prayer52.text
-pePE.Prayer53.text = pe.d121_en_US_dedes.pePE.Prayer53.text
-pePE.Prayer54.text = pe.d121_en_US_dedes.pePE.Prayer54.text
+pePE.Prayer5.rubric = pe.d121_en_US_holycross.pePE.Prayer5.rubric
+pePE.Prayer5.title = pe.d121_en_US_holycross.pePE.Prayer5.title
+pePE.Prayer51.text = pe.d121_en_US_holycross.pePE.Prayer51.text
+pePE.Prayer52.text = pe.d121_en_US_holycross.pePE.Prayer52.text
+pePE.Prayer53.text = pe.d121_en_US_holycross.pePE.Prayer53.text
+pePE.Prayer54.text = pe.d121_en_US_holycross.pePE.Prayer54.text
 
-pePE.Prayer6.rubric = pe.d121_en_US_dedes.pePE.Prayer6.rubric
-pePE.Prayer6.title = pe.d121_en_US_dedes.pePE.Prayer6.title
-pePE.Prayer61.text = pe.d121_en_US_dedes.pePE.Prayer61.text
-pePE.Prayer62.text = pe.d121_en_US_dedes.pePE.Prayer62.text
-pePE.Prayer63.text = pe.d121_en_US_dedes.pePE.Prayer63.text
-pePE.Prayer64.text = pe.d121_en_US_dedes.pePE.Prayer64.text
-pePE.Prayer65.text = pe.d121_en_US_dedes.pePE.Prayer65.text
+pePE.Prayer6.rubric = pe.d121_en_US_holycross.pePE.Prayer6.rubric
+pePE.Prayer6.title = pe.d121_en_US_holycross.pePE.Prayer6.title
+pePE.Prayer61.text = pe.d121_en_US_holycross.pePE.Prayer61.text
+pePE.Prayer62.text = pe.d121_en_US_holycross.pePE.Prayer62.text
+pePE.Prayer63.text = pe.d121_en_US_holycross.pePE.Prayer63.text
+pePE.Prayer64.text = pe.d121_en_US_holycross.pePE.Prayer64.text
+pePE.Prayer65.text = pe.d121_en_US_holycross.pePE.Prayer65.text
 
-pePE.Prayer7.rubric = pe.d121_en_US_dedes.pePE.Prayer7.rubric
-pePE.Prayer7.title = pe.d121_en_US_dedes.pePE.Prayer7.title
-pePE.Prayer71.text = pe.d121_en_US_dedes.pePE.Prayer71.text
+pePE.Prayer7.rubric = pe.d121_en_US_holycross.pePE.Prayer7.rubric
+pePE.Prayer7.title = pe.d121_en_US_holycross.pePE.Prayer7.title
+pePE.Prayer71.text = pe.d121_en_US_holycross.pePE.Prayer71.text
 
 peVE.Aposticha1.mode = pe.d121_en_US_dedes.peVE.Aposticha1.mode
 peVE.Aposticha1.melody = pe.d121_en_US_dedes.peVE.Aposticha1.melody
@@ -98,6 +98,12 @@ peMA.Kathisma11.text = pe.d121_en_US_dedes.peMA.Kathisma11.text
 peMA.Kathisma21.mode = pe.d121_en_US_dedes.peMA.Kathisma21.mode
 peMA.Kathisma21.melody = pe.d121_en_US_dedes.peMA.Kathisma21.melody
 peMA.Kathisma21.text = pe.d121_en_US_dedes.peMA.Kathisma21.text
+
+peMA.Kontakion1.mode = pe.d121_en_US_dedes.peMA.Kontakion1.mode
+peMA.Kontakion1.melody  = pe.d121_en_US_dedes.peMA.Kontakion1.melody
+peMA.Kontakion1.text = pe.d121_en_US_dedes.peMA.Kontakion1.text
+
+peMA.Oikos1.text = pe.d121_en_US_dedes.peMA.Oikos1.text
 
 peMA.Synaxarion.commemoration.text = pe.d121_en_US_dedes.peMA.Synaxarion.commemoration.text
 peMA.Synaxarion.couplet1.title = pe.d121_en_US_dedes.peMA.Synaxarion.couplet1.title

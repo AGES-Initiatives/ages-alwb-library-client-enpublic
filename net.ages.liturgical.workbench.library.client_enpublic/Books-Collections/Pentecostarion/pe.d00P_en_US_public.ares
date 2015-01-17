@@ -22,12 +22,12 @@ pePA.Key0102.mode = pe.d00P_en_US_dedes.pePA.Key0102.mode
 pePA.Key0102.text = pe.d00P_en_US_dedes.pePA.Key0102.text
 
 pePA.ChristIsRisen.mode = pe.d00P_en_US_dedes.pePA.ChristIsRisen.mode
-pePA.ChristIsRisen.text = pe.d00P_en_US_dedes.pePA.ChristIsRisen.text
-pePA.ChristIsRisen1a.text = pe.d00P_en_US_dedes.pePA.ChristIsRisen1a.text
-pePA.ChristIsRisen1b.text = pe.d00P_en_US_dedes.pePA.ChristIsRisen1b.text
-pePA.ChristIsRisen2a.text = pe.d00P_en_US_dedes.pePA.ChristIsRisen2a.text
-pePA.ChristIsRisen2b.text = pe.d00P_en_US_dedes.pePA.ChristIsRisen2b.text
-pePA.ChristIsRisenShort.text = pe.d00P_en_US_dedes.pePA.ChristIsRisenShort.text // for media
+pePA.ChristIsRisen.text = pe.d00P_en_US_goa.pePA.ChristIsRisen.text
+pePA.ChristIsRisen1a.text = pe.d00P_en_US_goa.pePA.ChristIsRisen1a.text
+pePA.ChristIsRisen1b.text = pe.d00P_en_US_goa.pePA.ChristIsRisen1b.text
+pePA.ChristIsRisen2a.text = pe.d00P_en_US_goa.pePA.ChristIsRisen2a.text
+pePA.ChristIsRisen2b.text = pe.d00P_en_US_goa.pePA.ChristIsRisen2b.text
+pePA.ChristIsRisenShort.text = pe.d00P_en_US_goa.pePA.ChristIsRisenShort.text // for media
 
 pePA.PaschaVerse1.text = pe.d00P_en_US_dedes.pePA.PaschaVerse1.text
 
@@ -317,7 +317,7 @@ pePA.SticGlory.text = pe.d00P_en_US_dedes.pePA.SticGlory.text
 pePA.Homily.title = pe.d00P_en_US_dedes.pePA.Homily.title
 pePA.Homily.text = pe.d00P_en_US_dedes.pePA.Homily.text
 
-pePA.Hours1.text = pe.d00P_en_US_dedes.pePA.Hours1.text
+pePA.Hours1.text = pe.d00P_en_US_goa.pePA.Hours1.text
 pePA.Hours2.text = pe.d00P_en_US_dedes.pePA.Hours2.text
 pePA.Hours3.text = pe.d00P_en_US_dedes.pePA.Hours3.text
 pePA.Hours4.text = pe.d00P_en_US_dedes.pePA.Hours4.text
@@ -325,31 +325,7 @@ pePA.Hours5.text = pe.d00P_en_US_dedes.pePA.Hours5.text
 pePA.Hours6.text = pe.d00P_en_US_dedes.pePA.Hours6.text
 pePA.Hours7.text = pe.d00P_en_US_dedes.pePA.Hours7.text
 
-pePA.Antiphon1Verse1.text = pe.d00P_en_US_dedes.pePA.Antiphon1Verse1.text
-
-pePA.Antiphon1Verse2.text = pe.d00P_en_US_dedes.pePA.Antiphon1Verse2.text
-
-pePA.Antiphon1Verse3.text = pe.d00P_en_US_dedes.pePA.Antiphon1Verse3.text
-
-pePA.Antiphon1Verse4.text = pe.d00P_en_US_dedes.pePA.Antiphon1Verse4.text
-
-pePA.Antiphon2Verse1.text = pe.d00P_en_US_dedes.pePA.Antiphon2Verse1.text
-
-pePA.Antiphon2Verse2.text = pe.d00P_en_US_dedes.pePA.Antiphon2Verse2.text
-
-pePA.Antiphon2Verse3.text = pe.d00P_en_US_dedes.pePA.Antiphon2Verse3.text
-
-pePA.Antiphon2Verse4.text = pe.d00P_en_US_dedes.pePA.Antiphon2Verse4.text
-
 pePA.Antiphon2.text = pe.d00P_en_US_dedes.pePA.Antiphon2.text
-
-pePA.Antiphon3Verse1.text = pe.d00P_en_US_dedes.pePA.Antiphon3Verse1.text
-
-pePA.Antiphon3Verse2.text = pe.d00P_en_US_dedes.pePA.Antiphon3Verse2.text
-
-pePA.Antiphon3Verse3.text = pe.d00P_en_US_dedes.pePA.Antiphon3Verse3.text
-
-pePA.Antiphon3Verse4.text = pe.d00P_en_US_dedes.pePA.Antiphon3Verse4.text
 
 pePA.EntranceHymn.text = pe.d00P_en_US_dedes.pePA.EntranceHymn.text
 
