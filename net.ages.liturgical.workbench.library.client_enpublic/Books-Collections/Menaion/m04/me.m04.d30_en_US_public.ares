@@ -298,12 +298,6 @@ meMA.LaudsSundayVerse1.text = me.m04.d30_en_US_dedes.meMA.LaudsSundayVerse1.text
 
 meMA.LaudsSundayVerse2.text = me.m04.d30_en_US_dedes.meMA.LaudsSundayVerse2.text
 
-meLI.Alleluia.mode = me.m04.d30_en_US_dedes.meLI.Alleluia.mode
-
-meLI.AlleluiaVerse1.text = me.m04.d30_en_US_dedes.meLI.AlleluiaVerse1.text
-
-meLI.AlleluiaVerse2.text = me.m04.d30_en_US_dedes.meLI.AlleluiaVerse2.text
-
 meLI.CommunionHymn.text = me.m04.d30_en_US_dedes.meLI.CommunionHymn.text
 
 meMegalynarion.text = me.m04.d30_en_US_dedes.meMegalynarion.text

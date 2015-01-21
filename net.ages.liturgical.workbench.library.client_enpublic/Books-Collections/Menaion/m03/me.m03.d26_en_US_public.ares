@@ -31,8 +31,6 @@ meVE.SticGlory.mode = me.m03.d26_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m03.d26_en_US_dedes.meVE.SticGlory.melody
 meVE.SticGlory.text = me.m03.d26_en_US_dedes.meVE.SticGlory.text
 
-
-
 meVE.Apolytikion1.poet = me.m03.d26_en_US_dedes.meVE.Apolytikion1.poet
 meVE.Apolytikion1.mode = me.m03.d26_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m03.d26_en_US_dedes.meVE.Apolytikion1.melody
@@ -227,12 +225,6 @@ meLI.Kontakion1.text = ""
 meLI.SeasonalKontakion.mode = me.m03.d26_en_US_dedes.meLI.SeasonalKontakion.mode
 meLI.SeasonalKontakion.melody = me.m03.d26_en_US_dedes.meLI.SeasonalKontakion.melody
 meLI.SeasonalKontakion.text = me.m03.d26_en_US_dedes.meLI.SeasonalKontakion.text
-
-meLI.Alleluia.mode = me.m03.d26_en_US_dedes.meLI.Alleluia.mode
-
-meLI.AlleluiaVerse1.text = me.m03.d26_en_US_dedes.meLI.AlleluiaVerse1.text
-
-meLI.AlleluiaVerse2.text = me.m03.d26_en_US_dedes.meLI.AlleluiaVerse2.text
 
 meLI.CommunionHymn.text = me.m03.d26_en_US_dedes.meLI.CommunionHymn.text
 
