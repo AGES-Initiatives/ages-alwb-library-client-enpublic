@@ -322,12 +322,6 @@ meLI.SeasonalKontakion.mode = me.m11.d14_en_US_dedes.meLI.SeasonalKontakion.mode
 meLI.SeasonalKontakion.melody = me.m11.d14_en_US_dedes.meLI.SeasonalKontakion.melody
 meLI.SeasonalKontakion.text = me.m11.d14_en_US_dedes.meLI.SeasonalKontakion.text
 
-meLI.Alleluia.mode = me.m11.d14_en_US_dedes.meLI.Alleluia.mode
-
-meLI.AlleluiaVerse1.text = me.m11.d14_en_US_dedes.meLI.AlleluiaVerse1.text
-
-meLI.AlleluiaVerse2.text = me.m11.d14_en_US_dedes.meLI.AlleluiaVerse2.text
-
 meLI.TheotokosHymn.mode = me.m11.d14_en_US_dedes.meLI.TheotokosHymn.mode
 meLI.TheotokosHymn.text = me.m11.d14_en_US_dedes.meLI.TheotokosHymn.text
 
