@@ -254,6 +254,10 @@ meMA.LaudsSundayVerse1.text = me.m06.d13_en_US_dedes.meMA.LaudsSundayVerse1.text
 
 meMA.LaudsSundayVerse2.text = me.m06.d13_en_US_dedes.meMA.LaudsSundayVerse2.text
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = me.m06.d13_en_US_dedes.meLI.SeasonalKontakion.mode
 meLI.SeasonalKontakion.melody = me.m06.d13_en_US_dedes.meLI.SeasonalKontakion.melody
 meLI.SeasonalKontakion.text = me.m06.d13_en_US_dedes.meLI.SeasonalKontakion.text
