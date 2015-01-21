@@ -394,6 +394,10 @@ mePL.Theotokion.mode = me.m03.d09_en_US_dedes.mePL.Theotokion.mode
 mePL.Theotokion.melody = me.m03.d09_en_US_dedes.mePL.Theotokion.melody
 mePL.Theotokion.text = me.m03.d09_en_US_dedes.mePL.Theotokion.text
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = me.m03.d09_en_US_dedes.meLI.SeasonalKontakion.mode
 meLI.SeasonalKontakion.melody = me.m03.d09_en_US_dedes.meLI.SeasonalKontakion.melody
 meLI.SeasonalKontakion.text = me.m03.d09_en_US_dedes.meLI.SeasonalKontakion.text

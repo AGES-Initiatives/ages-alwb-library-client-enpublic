@@ -562,6 +562,10 @@ meMA.AdditionalIdiomelonBoth.mode = me.m08.d29_en_US_dedes.meMA.AdditionalIdiome
 meMA.AdditionalIdiomelonBoth.melody = me.m08.d29_en_US_dedes.meMA.AdditionalIdiomelonBoth.melody
 meMA.AdditionalIdiomelonBoth.text = me.m08.d29_en_US_dedes.meMA.AdditionalIdiomelonBoth.text
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = me.m08.d29_en_US_dedes.meLI.SeasonalKontakion.mode
 meLI.SeasonalKontakion.melody = me.m08.d29_en_US_dedes.meLI.SeasonalKontakion.melody
 meLI.SeasonalKontakion.text = me.m08.d29_en_US_dedes.meLI.SeasonalKontakion.text

@@ -227,6 +227,10 @@ meMA.Ode9H.mode = me.m12.d01_en_US_dedes.meMA.Ode9H.mode
 meMA.Ode9H.melody = me.m12.d01_en_US_dedes.meMA.Ode9H.melody
 meMA.Ode9H.text = me.m12.d01_en_US_dedes.meMA.Ode9H.text
 
+meLI.Kontakion1.mode = ""
+meLI.Kontakion1.melody = ""
+meLI.Kontakion1.text = ""
+
 meLI.SeasonalKontakion.mode = me.m12.d01_en_US_dedes.meLI.SeasonalKontakion.mode
 meLI.SeasonalKontakion.melody = me.m12.d01_en_US_dedes.meLI.SeasonalKontakion.melody
 meLI.SeasonalKontakion.text = me.m12.d01_en_US_dedes.meLI.SeasonalKontakion.text

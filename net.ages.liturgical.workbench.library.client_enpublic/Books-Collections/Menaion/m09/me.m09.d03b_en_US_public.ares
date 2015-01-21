@@ -18,6 +18,10 @@ meVE.Apolytikion1.mode = me.m09.d03b_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m09.d03b_en_US_dedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.text = me.m09.d03b_en_US_dedes.meVE.Apolytikion1.text
 
+meLI.Kontakion1.mode = ""
+meLI.Kontakion1.melody = ""
+meLI.Kontakion1.text = ""
+
 meLI.SeasonalKontakion.mode = me.m09.d03b_en_US_dedes.meLI.SeasonalKontakion.mode
 meLI.SeasonalKontakion.melody = me.m09.d03b_en_US_dedes.meLI.SeasonalKontakion.melody
 meLI.SeasonalKontakion.text = me.m09.d03b_en_US_dedes.meLI.SeasonalKontakion.text

@@ -381,6 +381,10 @@ meMA.LaudsBoth.text = me.m01.d11_en_US_dedes.meMA.LaudsBoth.text
 
 meLI.Antiphon2.text = me.m01.d11_en_US_dedes.meLI.Antiphon2.text
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = me.m01.d11_en_US_dedes.meLI.SeasonalKontakion.mode
 meLI.SeasonalKontakion.melody = me.m01.d11_en_US_dedes.meLI.SeasonalKontakion.melody
 meLI.SeasonalKontakion.text = me.m01.d11_en_US_dedes.meLI.SeasonalKontakion.text
