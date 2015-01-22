@@ -508,3 +508,9 @@ ofWeek5 = titles_en_US_dedes.ofWeek5
 ofWeek6 = titles_en_US_dedes.ofWeek6
 TriadicHymns = titles_en_US_dedes.TriadicHymns
 PhotagogicHymns = titles_en_US_dedes.PhotagogicHymns
+
+sourceHorologion = titles_en_US_dedes.sourceHorologion
+sourceMenaion = titles_en_US_dedes.sourceMenaion
+sourceOctoechos = titles_en_US_dedes.sourceOctoechos
+sourcePentecostarion = titles_en_US_dedes.sourcePentecostarion
+sourceTriodion = titles_en_US_dedes.sourceTriodion
