@@ -1,16 +1,16 @@
 A_Resource_Whose_Name = oc.m7.d1_en_US_public
 
-ocVE.GlorySticheraric.mode = oc.m7.d1_en_US_dedes.ocVE.GlorySticheraric.mode //  for mode-specific media
-ocVE.GlorySticheraric.text = oc.m7.d1_en_US_dedes.ocVE.GlorySticheraric.text
+ocGE.GlorySticheraric.mode = oc.m7.d1_en_US_dedes.ocGE.GlorySticheraric.mode //  for mode-specific media
+ocGE.GlorySticheraric.text = oc.m7.d1_en_US_dedes.ocGE.GlorySticheraric.text
 
-ocVE.BothSticheraric.mode = oc.m7.d1_en_US_dedes.ocVE.BothSticheraric.mode //  for mode-specific media
-ocVE.BothSticheraric.text = oc.m7.d1_en_US_dedes.ocVE.BothSticheraric.text
+ocGE.BothSticheraric.mode = oc.m7.d1_en_US_dedes.ocGE.BothSticheraric.mode //  for mode-specific media
+ocGE.BothSticheraric.text = oc.m7.d1_en_US_dedes.ocGE.BothSticheraric.text
 
-ocVE.GloryHeirmologic.mode = oc.m7.d1_en_US_dedes.ocVE.GloryHeirmologic.mode //  for mode-specific media
-ocVE.GloryHeirmologic.text = oc.m7.d1_en_US_dedes.ocVE.GloryHeirmologic.text
+ocGE.GloryHeirmologic.mode = oc.m7.d1_en_US_dedes.ocGE.GloryHeirmologic.mode //  for mode-specific media
+ocGE.GloryHeirmologic.text = oc.m7.d1_en_US_dedes.ocGE.GloryHeirmologic.text
 
-ocVE.BothHeirmologic.mode = oc.m7.d1_en_US_dedes.ocVE.BothHeirmologic.mode //  for mode-specific media
-ocVE.BothHeirmologic.text = oc.m7.d1_en_US_dedes.ocVE.BothHeirmologic.text
+ocGE.BothHeirmologic.mode = oc.m7.d1_en_US_dedes.ocGE.BothHeirmologic.mode //  for mode-specific media
+ocGE.BothHeirmologic.text = oc.m7.d1_en_US_dedes.ocGE.BothHeirmologic.text
 
 ocSV.Dogmatic.mode = oc.m7.d1_en_US_dedes.ocSV.Dogmatic.mode
 ocSV.Dogmatic.melody = oc.m7.d1_en_US_dedes.ocSV.Dogmatic.melody
