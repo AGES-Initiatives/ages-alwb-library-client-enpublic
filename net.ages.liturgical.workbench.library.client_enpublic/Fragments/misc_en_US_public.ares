@@ -34,3 +34,15 @@ Ode6 = misc_en_US_dedes.Ode6
 Ode7 = misc_en_US_dedes.Ode7
 Ode8 = misc_en_US_dedes.Ode8
 Ode9 = misc_en_US_dedes.Ode9
+
+book.Euchologion.name = misc_en_US_dedes.book.Euchologion.name
+book.Heirmologion.name = misc_en_US_dedes.book.Heirmologion.name
+book.Hieratikon.name = misc_en_US_dedes.book.Hieratikon.name
+book.Horologion.name = misc_en_US_dedes.book.Horologion.name 
+book.Menaion.name = misc_en_US_dedes.book.Menaion.name
+book.Octoechos.name = misc_en_US_dedes.book.Octoechos.name
+book.Pentecostarion.name = misc_en_US_dedes.book.Pentecostarion.name
+book.Psalter.name = misc_en_US_dedes.book.Psalter.name
+book.Synaxarion.name = misc_en_US_dedes.book.Synaxarion.name
+book.Triodion.name = misc_en_US_dedes.book.Triodion.name
+book.Typikon.name = misc_en_US_dedes.book.Typikon.name
