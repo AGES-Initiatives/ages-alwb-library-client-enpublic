@@ -149,6 +149,8 @@ trMA.Kathisma31.mode = tr.d064_en_US_dedes.trMA.Kathisma31.mode
 trMA.Kathisma31.melody = tr.d064_en_US_dedes.trMA.Kathisma31.melody
 trMA.Kathisma31.text = tr.d064_en_US_dedes.trMA.Kathisma31.text
 
+trMA.Prokeimenon.text = tr.d064_en_US_dedes.trMA.Prokeimenon.text
+
 trMA.PostGospelGlory.mode = tr.d064_en_US_dedes.trMA.PostGospelGlory.mode
 trMA.PostGospelGlory.melody = tr.d064_en_US_dedes.trMA.PostGospelGlory.melody
 trMA.PostGospelGlory.text = tr.d064_en_US_dedes.trMA.PostGospelGlory.text
