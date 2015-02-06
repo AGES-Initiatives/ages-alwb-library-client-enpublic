@@ -1,5 +1,18 @@
 A_Resource_Whose_Name = ho.s06_en_US_public
 
-hoH6.title = ho.s06_en_US_dedes.hoH6.title
-hoH6.Theotokion.text = ho.s06_en_US_dedes.hoH6.Theotokion.text
-hoH6.Prayer.text = ho.s06_en_US_dedes.hoH6.Prayer.text
+hoH6.title = ho.s06_en_US_dedes.hoH6.title 
+
+hoH6.LentTroparion.mode = ho.s06_en_US_dedes.hoH6.LentTroparion.mode 
+hoH6.LentTroparion.text = ho.s06_en_US_dedes.hoH6.LentTroparion.text 
+
+hoH6.Theotokion.text = ho.s06_en_US_dedes.hoH6.Theotokion.text 
+
+hoH6.Troparion1.text = ho.s06_en_US_dedes.hoH6.Troparion1.text 
+
+hoH6.Troparion2.text = ho.s06_en_US_dedes.hoH6.Troparion2.text 
+
+hoH6.Troparion3.text = ho.s06_en_US_dedes.hoH6.Troparion3.text 
+
+hoH6.Troparion4.text = ho.s06_en_US_dedes.hoH6.Troparion4.text 
+
+hoH6.Prayer.text = ho.s06_en_US_dedes.hoH6.Prayer.text 
