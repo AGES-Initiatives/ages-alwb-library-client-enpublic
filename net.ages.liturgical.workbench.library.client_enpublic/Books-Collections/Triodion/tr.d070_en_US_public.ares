@@ -43,6 +43,8 @@ trVE.SticBoth.mode = tr.d070_en_US_dedes.trVE.SticBoth.mode
 trVE.SticBoth.melody = tr.d070_en_US_dedes.trVE.SticBoth.melody
 trVE.SticBoth.text = tr.d070_en_US_dedes.trVE.SticBoth.text
 
+trVE.Prokeimenon.text = tr.d070_en_US_dedes.trVE.Prokeimenon.text
+
 trVE.Aposticha1.mode = tr.d070_en_US_dedes.trVE.Aposticha1.mode
 trVE.Aposticha1.melody = tr.d070_en_US_dedes.trVE.Aposticha1.melody
 trVE.Aposticha1.text = tr.d070_en_US_dedes.trVE.Aposticha1.text
