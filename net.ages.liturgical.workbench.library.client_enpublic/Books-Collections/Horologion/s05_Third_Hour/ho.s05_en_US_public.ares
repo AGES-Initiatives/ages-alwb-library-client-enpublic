@@ -1,9 +1,21 @@
 A_Resource_Whose_Name = ho.s05_en_US_public 
 
-hoH3.mhTroparion2.mode = ho.s05_en_US_dedes.hoH3.mhTroparion2.mode
-hoH3.mhTroparion2.melody = ho.s05_en_US_dedes.hoH3.mhTroparion2.melody
-hoH3.mhTroparion2.text = ho.s05_en_US_dedes.hoH3.mhTroparion2.text
+hoH3.mhTroparion2.mode = ho.s05_en_US_dedes.hoH3.mhTroparion2.mode 
+hoH3.mhTroparion2.melody = ho.s05_en_US_dedes.hoH3.mhTroparion2.melody 
+hoH3.mhTroparion2.text = ho.s05_en_US_dedes.hoH3.mhTroparion2.text 
 
-hoH3.title = ho.s05_en_US_dedes.hoH3.title
-hoH3.Theotokion.text = ho.s05_en_US_dedes.hoH3.Theotokion.text
-hoH3.Prayer.text = ho.s05_en_US_dedes.hoH3.Prayer.text
+hoH3.title = ho.s05_en_US_dedes.hoH3.title 
+
+hoH3.LentTroparion.mode = ho.s05_en_US_dedes.hoH3.LentTroparion.mode 
+hoH3.LentTroparion.text = ho.s05_en_US_dedes.hoH3.LentTroparion.text 
+
+hoH3.Theotokion.text = ho.s05_en_US_dedes.hoH3.Theotokion.text 
+
+hoH3.Troparion1.text = ho.s05_en_US_dedes.hoH3.Troparion1.text 
+
+hoH3.Troparion2.text = ho.s05_en_US_dedes.hoH3.Troparion2.text 
+
+hoH3.Troparion3.text = ho.s05_en_US_dedes.hoH3.Troparion3.text 
+
+hoH3.Prayer.text = ho.s05_en_US_dedes.hoH3.Prayer.text 
+
