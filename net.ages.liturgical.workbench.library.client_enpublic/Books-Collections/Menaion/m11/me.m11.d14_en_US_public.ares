@@ -60,10 +60,10 @@ meVE.AposTheotokion.mode = me.m11.d14_en_US_dedes.meVE.AposTheotokion.mode
 meVE.AposTheotokion.melody = me.m11.d14_en_US_dedes.meVE.AposTheotokion.melody
 meVE.AposTheotokion.text = me.m11.d14_en_US_dedes.meVE.AposTheotokion.text
 
-meVE.Apolytikion1.mode = me.m11.d14_en_US_dedes.meVE.Apolytikion1.mode
-meVE.Apolytikion1.melody = me.m11.d14_en_US_dedes.meVE.Apolytikion1.melody
-meVE.GeneralApolytikion1.name = me.m11.d14_en_US_dedes.meVE.GeneralApolytikion1.name //     name of saint for General Apolytikia
-meVE.Apolytikion1.text = me.m11.d14_en_US_dedes.meVE.Apolytikion1.text //    for media
+meVE.GeneralApolytikion1.mode = me.m11.d14_en_US_dedes.meVE.GeneralApolytikion1.mode
+meVE.GeneralApolytikion1.melody = me.m11.d14_en_US_dedes.meVE.GeneralApolytikion1.melody
+meVE.GeneralApolytikion1.name = me.m11.d14_en_US_dedes.meVE.GeneralApolytikion1.name
+meVE.GeneralApolytikion1.text = me.m11.d14_en_US_dedes.meVE.GeneralApolytikion1.text // for media
 
 meVE.Apolytikion2.poet = me.m11.d14_en_US_dedes.meVE.Apolytikion2.poet
 meVE.Apolytikion2.mode = me.m11.d14_en_US_dedes.meVE.Apolytikion2.mode

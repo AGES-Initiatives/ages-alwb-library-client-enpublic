@@ -82,10 +82,10 @@ meVE.Apolytikion1.mode = me.m12.d04_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m12.d04_en_US_dedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.text = me.m12.d04_en_US_dedes.meVE.Apolytikion1.text
 
-meVE.Apolytikion2.mode = me.m12.d04_en_US_dedes.meVE.Apolytikion2.mode
-meVE.Apolytikion2.melody = me.m12.d04_en_US_dedes.meVE.Apolytikion2.melody
+meVE.GeneralApolytikion2.mode = me.m12.d04_en_US_dedes.meVE.GeneralApolytikion2.mode
+meVE.GeneralApolytikion2.melody = me.m12.d04_en_US_dedes.meVE.GeneralApolytikion2.melody
 meVE.GeneralApolytikion2.name = me.m12.d04_en_US_dedes.meVE.GeneralApolytikion2.name
-meVE.Apolytikion2.text = me.m12.d04_en_US_dedes.meVE.Apolytikion2.text //    for media
+meVE.GeneralApolytikion2.text = me.m12.d04_en_US_dedes.meVE.GeneralApolytikion2.text //    for media
 
 meVE.Apolytikion3.poet = me.m12.d04_en_US_dedes.meVE.Apolytikion3.poet
 meVE.Apolytikion3.mode = me.m12.d04_en_US_dedes.meVE.Apolytikion3.mode
