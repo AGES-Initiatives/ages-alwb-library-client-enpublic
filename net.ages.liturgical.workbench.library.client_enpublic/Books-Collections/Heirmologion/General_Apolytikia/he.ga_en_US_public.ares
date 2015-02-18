@@ -21,6 +21,13 @@ ApostoloiAgioi.mode = he.ga_en_US_dedes.ApostoloiAgioi.mode
 ApostoloiAgioi.melody = he.ga_en_US_dedes.ApostoloiAgioi.melody
 ApostoloiAgioi.text = he.ga_en_US_dedes.ApostoloiAgioi.text
 
+// For hieromartyr
+ChristotitaEkdidachtheis.name = he.ga_en_US_dedes.ChristotitaEkdidachtheis.name
+ChristotitaEkdidachtheis.mode = he.ga_en_US_dedes.ChristotitaEkdidachtheis.mode
+ChristotitaEkdidachtheis.melody  = he.ga_en_US_dedes.ChristotitaEkdidachtheis.melody
+ChristotitaEkdidachtheis.text1 = he.ga_en_US_dedes.ChristotitaEkdidachtheis.text1
+ChristotitaEkdidachtheis.text2 = he.ga_en_US_dedes.ChristotitaEkdidachtheis.text2
+
 // For one unnamed Martyr
 OMartysSouKyrie.name = he.ga_en_US_dedes.OMartysSouKyrie.name
 OMartysSouKyrie.mode = he.ga_en_US_dedes.OMartysSouKyrie.mode
