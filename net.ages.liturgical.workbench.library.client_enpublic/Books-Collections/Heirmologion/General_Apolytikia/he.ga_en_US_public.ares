@@ -4,7 +4,7 @@ A_Resource_Whose_Name = he.ga_en_US_public
 TouProfitouSou.name = he.ga_en_US_dedes.TouProfitouSou.name
 TouProfitouSou.mode = he.ga_en_US_dedes.TouProfitouSou.mode
 TouProfitouSou.melody = he.ga_en_US_dedes.TouProfitouSou.melody
-TouProfitouSou.text1 = he.ga_en_US_dedes.TouProfitouSou.text1 //  insert name from Menaion. E.g. me.m09.d04_en_US_public.meVE.Apolytikion2.text 
+TouProfitouSou.text1 = he.ga_en_US_dedes.TouProfitouSou.text1 // insert name from Menaion. E.g. me.m09.d04_en_US_public.meVE.Apolytikion2.text 
 TouProfitouSou.text2 = he.ga_en_US_dedes.TouProfitouSou.text2
 
 // For one named Apostle and/or Evangelist. Insert name with comma.
@@ -24,7 +24,7 @@ ApostoloiAgioi.text = he.ga_en_US_dedes.ApostoloiAgioi.text
 // For hieromartyr
 ChristotitaEkdidachtheis.name = he.ga_en_US_dedes.ChristotitaEkdidachtheis.name
 ChristotitaEkdidachtheis.mode = he.ga_en_US_dedes.ChristotitaEkdidachtheis.mode
-ChristotitaEkdidachtheis.melody  = he.ga_en_US_dedes.ChristotitaEkdidachtheis.melody
+ChristotitaEkdidachtheis.melody = he.ga_en_US_dedes.ChristotitaEkdidachtheis.melody
 ChristotitaEkdidachtheis.text1 = he.ga_en_US_dedes.ChristotitaEkdidachtheis.text1
 ChristotitaEkdidachtheis.text2 = he.ga_en_US_dedes.ChristotitaEkdidachtheis.text2
 

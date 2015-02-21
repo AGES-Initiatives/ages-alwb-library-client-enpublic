@@ -3,7 +3,7 @@ A_Resource_Whose_Name = other.dormitionencomia_en_US_public
 other.Encomia.title = other.dormitionencomia_en_US_dedes.other.Encomia.title
 
 // First Stanza
-other.Encomia100.mode  = other.dormitionencomia_en_US_dedes.other.Encomia100.mode
+other.Encomia100.mode = other.dormitionencomia_en_US_dedes.other.Encomia100.mode
 
 other.Encomia101.text = other.dormitionencomia_en_US_dedes.other.Encomia101.text
 other.Encomia102.text = other.dormitionencomia_en_US_dedes.other.Encomia102.text
@@ -83,7 +83,7 @@ other.EncomiaT.text = other.dormitionencomia_en_US_dedes.other.EncomiaT.text
 other.Encomia1F.text = other.dormitionencomia_en_US_dedes.other.Encomia1F.text
 
 // Second Stanza
-other.Encomia200.mode  = other.dormitionencomia_en_US_dedes.other.Encomia200.mode
+other.Encomia200.mode = other.dormitionencomia_en_US_dedes.other.Encomia200.mode
 
 other.Encomia201.text = other.dormitionencomia_en_US_dedes.other.Encomia201.text
 other.Encomia202.text = other.dormitionencomia_en_US_dedes.other.Encomia202.text
@@ -151,7 +151,7 @@ other.Encomia2F.text = other.dormitionencomia_en_US_dedes.other.Encomia2F.text
 
 // Stanza Three
 
-other.Encomia300.mode  = other.dormitionencomia_en_US_dedes.other.Encomia300.mode
+other.Encomia300.mode = other.dormitionencomia_en_US_dedes.other.Encomia300.mode
 
 other.Encomia301.text = other.dormitionencomia_en_US_dedes.other.Encomia301.text
 other.Encomia302.text = other.dormitionencomia_en_US_dedes.other.Encomia302.text

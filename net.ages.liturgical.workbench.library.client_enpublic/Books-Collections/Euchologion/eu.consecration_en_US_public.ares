@@ -58,7 +58,7 @@ euVE.AposGlory.melody = misc_en_US_dedes.Idiomelon
 euVE.AposGlory.text = me.m09.d13_en_US_dedes.meMA.LaudsGlory.text
 
 euVE.Apolytikion.mode = misc_en_US_dedes.Mode4
-euVE.Apolytikion.melody  = ""
+euVE.Apolytikion.melody = ""
 euVE.Apolytikion.text = me.m09.d13_en_US_dedes.meVE.Apolytikion1.text
 
 euCON.Key3000.title = eu.consecration_en_US_dedes.euCON.Key3000.title

@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = oc.m8.d1_en_US_public
 
-ocGE.GlorySticheraric.mode = oc.m8.d1_en_US_dedes.ocGE.GlorySticheraric.mode //  for mode-specific media
+ocGE.GlorySticheraric.mode = oc.m8.d1_en_US_dedes.ocGE.GlorySticheraric.mode // for mode-specific media
 ocGE.GlorySticheraric.text = oc.m8.d1_en_US_dedes.ocGE.GlorySticheraric.text
 
-ocGE.BothSticheraric.mode = oc.m8.d1_en_US_dedes.ocGE.BothSticheraric.mode //  for mode-specific media
+ocGE.BothSticheraric.mode = oc.m8.d1_en_US_dedes.ocGE.BothSticheraric.mode // for mode-specific media
 ocGE.BothSticheraric.text = oc.m8.d1_en_US_dedes.ocGE.BothSticheraric.text
 
-ocGE.GloryHeirmologic.mode = oc.m8.d1_en_US_dedes.ocGE.GloryHeirmologic.mode //  for mode-specific media
+ocGE.GloryHeirmologic.mode = oc.m8.d1_en_US_dedes.ocGE.GloryHeirmologic.mode // for mode-specific media
 ocGE.GloryHeirmologic.text = oc.m8.d1_en_US_dedes.ocGE.GloryHeirmologic.text
 
-ocGE.BothHeirmologic.mode = oc.m8.d1_en_US_dedes.ocGE.BothHeirmologic.mode //  for mode-specific media
+ocGE.BothHeirmologic.mode = oc.m8.d1_en_US_dedes.ocGE.BothHeirmologic.mode // for mode-specific media
 ocGE.BothHeirmologic.text = oc.m8.d1_en_US_dedes.ocGE.BothHeirmologic.text
 
 ocSV.Dogmatic.mode = oc.m8.d1_en_US_dedes.ocSV.Dogmatic.mode
@@ -39,63 +39,63 @@ ocVE.LIHC2.mode = oc.m8.d1_en_US_dedes.ocVE.LIHC2.mode
 ocVE.LIHC2.text = "" //for media
 
 ocVE.Stichera1.mode = oc.m8.d1_en_US_dedes.ocVE.Stichera1.mode
-ocVE.Stichera1.melody  = ""
+ocVE.Stichera1.melody = ""
 ocVE.Stichera1.text = oc.m8.d1_en_US_holycross.ocVE.Stichera1.text
 
 ocVE.Stichera2.mode = oc.m8.d1_en_US_dedes.ocVE.Stichera2.mode
-ocVE.Stichera2.melody  = ""
+ocVE.Stichera2.melody = ""
 ocVE.Stichera2.text = oc.m8.d1_en_US_holycross.ocVE.Stichera2.text
 
 ocVE.Stichera3.mode = oc.m8.d1_en_US_dedes.ocVE.Stichera3.mode
-ocVE.Stichera3.melody  = ""
+ocVE.Stichera3.melody = ""
 ocVE.Stichera3.text = oc.m8.d1_en_US_holycross.ocVE.Stichera3.text
 
 ocVE.Stichera4.mode = oc.m8.d1_en_US_dedes.ocVE.Stichera4.mode
-ocVE.Stichera4.melody  = ""
+ocVE.Stichera4.melody = ""
 ocVE.Stichera4.text = oc.m8.d1_en_US_holycross.ocVE.Stichera4.text
 
 ocVE.Stichera5.mode = oc.m8.d1_en_US_dedes.ocVE.Stichera5.mode
-ocVE.Stichera5.melody  = ""
+ocVE.Stichera5.melody = ""
 ocVE.Stichera5.text = oc.m8.d1_en_US_holycross.ocVE.Stichera5.text
 
 ocVE.Stichera6.mode = oc.m8.d1_en_US_dedes.ocVE.Stichera6.mode
-ocVE.Stichera6.melody  = ""
+ocVE.Stichera6.melody = ""
 ocVE.Stichera6.text = oc.m8.d1_en_US_holycross.ocVE.Stichera6.text
 
 ocVE.Stichera7.mode = oc.m8.d1_en_US_dedes.ocVE.Stichera7.mode
-ocVE.Stichera7.melody  = ""
+ocVE.Stichera7.melody = ""
 ocVE.Stichera7.text = oc.m8.d1_en_US_holycross.ocVE.Stichera7.text
 
 ocVE.SticTheotokion.mode = oc.m8.d1_en_US_dedes.ocVE.SticTheotokion.mode
-ocVE.SticTheotokion.melody  = ""
+ocVE.SticTheotokion.melody = ""
 ocVE.SticTheotokion.text = oc.m8.d1_en_US_dedes.ocVE.SticTheotokion.text
 
 ocVE.Aposticha1.mode = oc.m8.d1_en_US_dedes.ocVE.Aposticha1.mode
-ocVE.Aposticha1.melody  = ""
+ocVE.Aposticha1.melody = ""
 ocVE.Aposticha1.text = oc.m8.d1_en_US_holycross.ocVE.Aposticha1.text
 
 ocVE.Aposticha2.mode = oc.m8.d1_en_US_dedes.ocVE.Aposticha2.mode
-ocVE.Aposticha2.melody  = ""
+ocVE.Aposticha2.melody = ""
 ocVE.Aposticha2.text = oc.m8.d1_en_US_holycross.ocVE.Aposticha2.text
 
 ocVE.Aposticha3.mode = oc.m8.d1_en_US_dedes.ocVE.Aposticha3.mode
-ocVE.Aposticha3.melody  = ""
+ocVE.Aposticha3.melody = ""
 ocVE.Aposticha3.text = oc.m8.d1_en_US_holycross.ocVE.Aposticha3.text
 
 ocVE.Aposticha4.mode = oc.m8.d1_en_US_dedes.ocVE.Aposticha4.mode
-ocVE.Aposticha4.melody  = ""
+ocVE.Aposticha4.melody = ""
 ocVE.Aposticha4.text = oc.m8.d1_en_US_holycross.ocVE.Aposticha4.text
 
 ocVE.AposTheotokion.mode = oc.m8.d1_en_US_dedes.ocVE.AposTheotokion.mode
-ocVE.AposTheotokion.melody  = ""
+ocVE.AposTheotokion.melody = ""
 ocVE.AposTheotokion.text = oc.m8.d1_en_US_dedes.ocVE.AposTheotokion.text
 
 ocVE.Apolytikion.mode = oc.m8.d1_en_US_dedes.ocVE.Apolytikion.mode
-ocVE.Apolytikion.melody  = ""
+ocVE.Apolytikion.melody = ""
 ocVE.Apolytikion.text = oc.m8.d1_en_US_dedes.ocVE.Apolytikion.text
 
 ocVE.ApolTheotokionVM.mode = oc.m8.d1_en_US_dedes.ocVE.ApolTheotokionVM.mode
-ocVE.ApolTheotokionVM.melody  = ""
+ocVE.ApolTheotokionVM.melody = ""
 ocVE.ApolTheotokionVM.text = oc.m8.d1_en_US_dedes.ocVE.ApolTheotokionVM.text
 
 ocMO.Poet = oc.m8.d1_en_US_dedes.ocMO.Poet

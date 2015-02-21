@@ -26,34 +26,34 @@ cl.localpatronsaint1.dismissal = "(local patron saint);"
 cl.localpatronsaint1.greatcompline = "(local patron saint), intercede for us sinners."
 
 cl.Apolytikion1.title = "(For the Parish Church)"
-cl.Apolytikion1.mode  = ""
-cl.Apolytikion1.melody  = ""
+cl.Apolytikion1.mode = ""
+cl.Apolytikion1.melody = ""
 cl.Apolytikion1.text = "(The text of the hymn for the local church goes here.)"
 
 cl.Kontakion1.title = "(For the Parish Church)"
-cl.Kontakion1.mode  = 
-cl.Kontakion1.melody  = 
+cl.Kontakion1.mode = 
+cl.Kontakion1.melody = 
 cl.Kontakion1.text = "(Kontakion for the parish church)"
 
 cl.consecration.name = "(name of the church being consecrated);"
 
 cl.relics.saint1 = ""
 cl.relics.saint1.Apolytikion.title = ""
-cl.relics.saint1.Apolytikion.mode  = ""
-cl.relics.saint1.Apolytikion.melody  = ""
-cl.relics.saint1.Apolytikion.text  = ""
+cl.relics.saint1.Apolytikion.mode = ""
+cl.relics.saint1.Apolytikion.melody = ""
+cl.relics.saint1.Apolytikion.text = ""
 
 cl.relics.saint2 = ""
 cl.relics.saint2.Apolytikion.title = ""
-cl.relics.saint2.Apolytikion.mode  = ""
-cl.relics.saint2.Apolytikion.melody  = ""
-cl.relics.saint2.Apolytikion.text  = ""
+cl.relics.saint2.Apolytikion.mode = ""
+cl.relics.saint2.Apolytikion.melody = ""
+cl.relics.saint2.Apolytikion.text = ""
 
 cl.relics.saint3 = ""
 cl.relics.saint3.Apolytikion.title = ""
-cl.relics.saint3.Apolytikion.mode  = ""
-cl.relics.saint3.Apolytikion.melody  = ""
-cl.relics.saint3.Apolytikion.text  = ""
+cl.relics.saint3.Apolytikion.mode = ""
+cl.relics.saint3.Apolytikion.melody = ""
+cl.relics.saint3.Apolytikion.text = ""
 
 //Rubrics
 cl.eu.lichrysbasil.R001 = "(The designated verses from the Psalms are sung with the hymn:)"
@@ -74,14 +74,14 @@ cl.eu.lichrysbasil.R014 = "(The Communion Hymn changes according to the Feast Da
 cl.ho.s23.R001 = "In many monasteries and churches, the Canon of the Paraklesis is chanted without the Heirmoi (except perhaps in Ode ix of Small Paraklesis, in order to make an even number of troparia and thus to avoid repeating one.)"
 cl.ho.s23.R002 = "(The Heirmos may be omitted.)"
 
-cl.hw.synaxarion.rubric  = ""
+cl.hw.synaxarion.rubric = ""
 
 cl.me.m09.d01.R001 = "There are a number of options for the content of the services for September 1. The Patriarchal Hemerologion, which we aspire to follow, describes the Patriarchate's added special commemorations of an Icon of the Theotokos as well as the Environment, and then indicates that, presumably for the rest of us, the service should be celebrated according to the Menaion."
 
 //Sep. 14
 cl.me.m09.d14.R001 = "The Doxology follows immediately."
 cl.me.m09.d14.R002 = "(Mode 2 is preferred for today.)"
-cl.me.m09.d14.R003 = "If  the Service of the Elevation of the Cross will occur at the end of Liturgy then sing the following. Otherwise, see below."
+cl.me.m09.d14.R003 = "If the Service of the Elevation of the Cross will occur at the end of Liturgy then sing the following. Otherwise, see below."
 cl.me.m09.d14.R004 = "Special Service of the Elevation"
 cl.me.m09.d14.R005 = "(The procession with the cross takes place during singing of the Asmatic Holy God.)"
 cl.me.m09.d14.R006 = "For each petition, the choir sings \"Lord, have mercy,\" 3-10-3 times."
@@ -120,12 +120,12 @@ cl.tr.d021.R001 = "The Patriarchal Typikon indicates, as usual, that the entire 
 
 //Lent 3
 cl.tr.d043.R001 = "As the choirs sing the Holy God for the Great Doxology, the priest processes to the solea or around the nave of the church holding the tray with the cross. On the solea he circles the table three times before placing it on the table. When the Doxology is finished, he says:"
-cl.tr.d043.R002 = "The  clergy venerate the cross first, followed by the faithful. While they are venerating, the following Idiomela may be chanted."
+cl.tr.d043.R002 = "The clergy venerate the cross first, followed by the faithful. While they are venerating, the following Idiomela may be chanted."
 cl.tr.d043.R003 = "When the veneration is finished, the priest returns the cross to the holy altar."
 
-cl.tr.d069.ma.R001  = ""
-cl.tr.d069.gh.R001  = ""
-cl.tr.d069.gh.R002  = ""
+cl.tr.d069.ma.R001 = ""
+cl.tr.d069.gh.R001 = ""
+cl.tr.d069.gh.R002 = ""
 
 cl.tr.d070.R301 = "The clergy come out of the sanctuary and stand in front of the Epitaphion, censing and beginning each stanza."
 cl.tr.d070.R302 = "(End with the first one again.)"

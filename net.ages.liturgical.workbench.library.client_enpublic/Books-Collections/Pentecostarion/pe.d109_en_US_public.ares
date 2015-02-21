@@ -13,54 +13,54 @@ peHO.note1 = pe.d109_en_US_dedes.peHO.note1
 peHO.note2 = pe.d109_en_US_dedes.peHO.note2
 peDismissal = pe.d109_en_US_dedes.peDismissal
 
-peVE.Stichera01.mode  = pe.d109_en_US_dedes.peVE.Stichera01.mode 
-peVE.Stichera01.melody  = pe.d109_en_US_dedes.peVE.Stichera01.melody 
+peVE.Stichera01.mode = pe.d109_en_US_dedes.peVE.Stichera01.mode 
+peVE.Stichera01.melody = pe.d109_en_US_dedes.peVE.Stichera01.melody 
 peVE.Stichera01.text = pe.d109_en_US_holycross.peVE.Stichera01.text
 
-peVE.Stichera02.mode  = pe.d109_en_US_dedes.peVE.Stichera02.mode 
-peVE.Stichera02.melody  = pe.d109_en_US_dedes.peVE.Stichera02.melody 
+peVE.Stichera02.mode = pe.d109_en_US_dedes.peVE.Stichera02.mode 
+peVE.Stichera02.melody = pe.d109_en_US_dedes.peVE.Stichera02.melody 
 peVE.Stichera02.text = pe.d109_en_US_holycross.peVE.Stichera02.text
 
-peVE.Stichera03.mode  = pe.d109_en_US_dedes.peVE.Stichera03.mode 
-peVE.Stichera03.melody  = pe.d109_en_US_dedes.peVE.Stichera03.melody 
+peVE.Stichera03.mode = pe.d109_en_US_dedes.peVE.Stichera03.mode 
+peVE.Stichera03.melody = pe.d109_en_US_dedes.peVE.Stichera03.melody 
 peVE.Stichera03.text = pe.d109_en_US_holycross.peVE.Stichera03.text
 
-peVE.Stichera04.mode  = pe.d109_en_US_dedes.peVE.Stichera04.mode 
-peVE.Stichera04.melody  = pe.d109_en_US_dedes.peVE.Stichera04.melody 
+peVE.Stichera04.mode = pe.d109_en_US_dedes.peVE.Stichera04.mode 
+peVE.Stichera04.melody = pe.d109_en_US_dedes.peVE.Stichera04.melody 
 peVE.Stichera04.text = pe.d109_en_US_holycross.peVE.Stichera04.text
 
-peVE.Stichera05.mode  = pe.d109_en_US_dedes.peVE.Stichera05.mode 
-peVE.Stichera05.melody  = pe.d109_en_US_dedes.peVE.Stichera05.melody 
+peVE.Stichera05.mode = pe.d109_en_US_dedes.peVE.Stichera05.mode 
+peVE.Stichera05.melody = pe.d109_en_US_dedes.peVE.Stichera05.melody 
 peVE.Stichera05.text = pe.d109_en_US_holycross.peVE.Stichera05.text
 
-peVE.Stichera06.mode  = pe.d109_en_US_dedes.peVE.Stichera06.mode 
-peVE.Stichera06.melody  = pe.d109_en_US_dedes.peVE.Stichera06.melody 
+peVE.Stichera06.mode = pe.d109_en_US_dedes.peVE.Stichera06.mode 
+peVE.Stichera06.melody = pe.d109_en_US_dedes.peVE.Stichera06.melody 
 peVE.Stichera06.text = pe.d109_en_US_holycross.peVE.Stichera06.text
 
-peVE.SticGlory.mode  = pe.d109_en_US_dedes.peVE.SticGlory.mode 
-peVE.SticGlory.melody  = pe.d109_en_US_dedes.peVE.SticGlory.melody 
+peVE.SticGlory.mode = pe.d109_en_US_dedes.peVE.SticGlory.mode 
+peVE.SticGlory.melody = pe.d109_en_US_dedes.peVE.SticGlory.melody 
 peVE.SticGlory.text = pe.d109_en_US_holycross.peVE.SticGlory.text
 
-peVE.SticBoth.mode  = pe.d109_en_US_dedes.peVE.SticBoth.mode 
-peVE.SticBoth.melody  = pe.d109_en_US_dedes.peVE.SticBoth.melody 
+peVE.SticBoth.mode = pe.d109_en_US_dedes.peVE.SticBoth.mode 
+peVE.SticBoth.melody = pe.d109_en_US_dedes.peVE.SticBoth.melody 
 peVE.SticBoth.text = pe.d109_en_US_holycross.peVE.SticBoth.text
 
-peVE.Aposticha1.mode  = pe.d109_en_US_dedes.peVE.Aposticha1.mode 
-peVE.Aposticha1.melody  = pe.d109_en_US_dedes.peVE.Aposticha1.melody 
+peVE.Aposticha1.mode = pe.d109_en_US_dedes.peVE.Aposticha1.mode 
+peVE.Aposticha1.melody = pe.d109_en_US_dedes.peVE.Aposticha1.melody 
 peVE.Aposticha1.text = pe.d109_en_US_holycross.peVE.Aposticha1.text
 
 peMA.Lauds1.mode = pe.d109_en_US_dedes.peMA.Lauds1.mode
-peMA.Lauds1.melody  = pe.d109_en_US_dedes.peMA.Lauds1.melody 
+peMA.Lauds1.melody = pe.d109_en_US_dedes.peMA.Lauds1.melody 
 peMA.Lauds1.text = pe.d109_en_US_dedes.peMA.Lauds1.text
 
 peMA.Lauds2.mode = pe.d109_en_US_dedes.peMA.Lauds2.mode
-peMA.Lauds2.melody  = pe.d109_en_US_dedes.peMA.Lauds2.melody 
+peMA.Lauds2.melody = pe.d109_en_US_dedes.peMA.Lauds2.melody 
 peMA.Lauds2.text = pe.d109_en_US_dedes.peMA.Lauds2.text
 
 peMA.Lauds3.mode = pe.d109_en_US_dedes.peMA.Lauds3.mode
-peMA.Lauds3.melody  = pe.d109_en_US_dedes.peMA.Lauds3.melody 
+peMA.Lauds3.melody = pe.d109_en_US_dedes.peMA.Lauds3.melody 
 peMA.Lauds3.text = pe.d109_en_US_dedes.peMA.Lauds3.text
 
 peMA.Lauds4.mode = pe.d109_en_US_dedes.peMA.Lauds4.mode
-peMA.Lauds4.melody  = pe.d109_en_US_dedes.peMA.Lauds4.melody 
+peMA.Lauds4.melody = pe.d109_en_US_dedes.peMA.Lauds4.melody 
 peMA.Lauds4.text = pe.d109_en_US_dedes.peMA.Lauds4.text

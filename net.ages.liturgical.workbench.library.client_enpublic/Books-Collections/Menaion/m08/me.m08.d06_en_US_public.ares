@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = me.m08.d06_en_US_public
 
 meDate.text = me.m08.d06_en_US_dedes.meDate.text
-meCommemoration.text = me.m08.d06_en_US_dedes.meCommemoration.text //    full title of day
+meCommemoration.text = me.m08.d06_en_US_dedes.meCommemoration.text //  full title of day
 meShortCommemoration1.text = me.m08.d06_en_US_dedes.meShortCommemoration1.text
-meInsert1 = me.m08.d06_en_US_dedes.meInsert1 //    for use in petitions and dismissal
-meInsert2 = me.m08.d06_en_US_dedes.meInsert2 //    for use in petitions and dismissal
+meInsert1 = me.m08.d06_en_US_dedes.meInsert1 //  for use in petitions and dismissal
+meInsert2 = me.m08.d06_en_US_dedes.meInsert2 //  for use in petitions and dismissal
 meNote.text = me.m08.d06_en_US_dedes.meNote.text
 meLE.commemoration1 = me.m08.d06_en_US_dedes.meLE.commemoration1
 meLE.commemoration2 = me.m08.d06_en_US_dedes.meLE.commemoration2
@@ -68,7 +68,7 @@ meVE.Stichera04.mode = me.m08.d06_en_US_dedes.meVE.Stichera04.mode
 meVE.Stichera04.melody = me.m08.d06_en_US_dedes.meVE.Stichera04.melody
 meVE.Stichera04.text = me.m08.d06_en_US_dedes.meVE.Stichera04.text
 
-meVE.Stichera78910.text = me.m08.d06_en_US_dedes.meVE.Stichera78910.text //   for media stichera78910 on Sunday after feast
+meVE.Stichera78910.text = me.m08.d06_en_US_dedes.meVE.Stichera78910.text //  for media stichera78910 on Sunday after feast
 
 meVE.SticGlory.poet = me.m08.d06_en_US_dedes.meVE.SticGlory.poet
 meVE.SticGlory.mode = me.m08.d06_en_US_dedes.meVE.SticGlory.mode
@@ -89,11 +89,11 @@ meVE.Lity3.text = me.m08.d06_en_US_dedes.meVE.Lity3.text
 
 meVE.LityGlory.mode = me.m08.d06_en_US_dedes.meVE.LityGlory.mode
 meVE.LityGlory.melody = me.m08.d06_en_US_dedes.meVE.LityGlory.melody
-meVE.LityGlory.text = me.m08.d06_en_US_dedes.meVE.LityGlory.text //   Lash
+meVE.LityGlory.text = me.m08.d06_en_US_dedes.meVE.LityGlory.text //  Lash
 
 meVE.LityBoth.mode = me.m08.d06_en_US_dedes.meVE.LityBoth.mode
 meVE.LityBoth.melody = me.m08.d06_en_US_dedes.meVE.LityBoth.melody
-meVE.LityBoth.text = me.m08.d06_en_US_dedes.meVE.LityBoth.text //   Lash
+meVE.LityBoth.text = me.m08.d06_en_US_dedes.meVE.LityBoth.text //  Lash
 
 meVE.Aposticha1.mode = me.m08.d06_en_US_dedes.meVE.Aposticha1.mode
 meVE.Aposticha1.melody = me.m08.d06_en_US_dedes.meVE.Aposticha1.melody
@@ -131,7 +131,7 @@ meMA.Kathisma31.mode = me.m08.d06_en_US_dedes.meMA.Kathisma31.mode
 meMA.Kathisma31.melody = me.m08.d06_en_US_dedes.meMA.Kathisma31.melody
 meMA.Kathisma31.text = me.m08.d06_en_US_dedes.meMA.Kathisma31.text
 
-meMA.Prokeimenon.text = me.m08.d06_en_US_dedes.meMA.Prokeimenon.text //   for media
+meMA.Prokeimenon.text = me.m08.d06_en_US_dedes.meMA.Prokeimenon.text //  for media
 
 meMA.PostGospelGlory.mode = me.m08.d06_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m08.d06_en_US_dedes.meMA.PostGospelGlory.melody
@@ -554,7 +554,7 @@ meMA.LaudsGlory.mode = me.m08.d06_en_US_dedes.meMA.LaudsGlory.mode
 meMA.LaudsGlory.melody = me.m08.d06_en_US_dedes.meMA.LaudsGlory.melody
 meMA.LaudsGlory.text = me.m08.d06_en_US_dedes.meMA.LaudsGlory.text
 
-meMA.LaudsSundayVerse1.text = me.m08.d06_en_US_dedes.meMA.LaudsSundayVerse1.text //   for media on Sunday after
+meMA.LaudsSundayVerse1.text = me.m08.d06_en_US_dedes.meMA.LaudsSundayVerse1.text //  for media on Sunday after
 
 meLI.Antiphon2.text = me.m08.d06_en_US_dedes.meLI.Antiphon2.text
 
@@ -571,7 +571,7 @@ meLI.SeasonalKontakion.text = me.m08.d06_en_US_dedes.meLI.SeasonalKontakion.text
 meLI.TheotokosHymn.mode = me.m08.d06_en_US_dedes.meLI.TheotokosHymn.mode
 meLI.TheotokosHymn.text = me.m08.d06_en_US_dedes.meLI.TheotokosHymn.text
 
-meLI.CommunionHymn.text = me.m08.d06_en_US_dedes.meLI.CommunionHymn.text //   for media
+meLI.CommunionHymn.text = me.m08.d06_en_US_dedes.meLI.CommunionHymn.text //  for media
 
 meMegalynarion.text = me.m08.d06_en_US_dedes.meMegalynarion.text
 

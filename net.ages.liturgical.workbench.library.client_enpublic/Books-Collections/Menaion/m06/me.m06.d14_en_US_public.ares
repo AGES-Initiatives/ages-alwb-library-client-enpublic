@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = me.m06.d14_en_US_public
 
-meDate.text = me.m06.d14_en_US_dedes.meDate.text //     date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = me.m06.d14_en_US_dedes.meCommemoration.text //    full title of day
-meCommemoration2.text = me.m06.d14_en_US_dedes.meCommemoration2.text //    full title of day
+meDate.text = me.m06.d14_en_US_dedes.meDate.text //   date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = me.m06.d14_en_US_dedes.meCommemoration.text //  full title of day
+meCommemoration2.text = me.m06.d14_en_US_dedes.meCommemoration2.text //  full title of day
 meShortCommemoration1.text = me.m06.d14_en_US_dedes.meShortCommemoration1.text
-meInsert1 = me.m06.d14_en_US_dedes.meInsert1 //    for use in petitions and dismissal
-meInsert2 = me.m06.d14_en_US_dedes.meInsert2 //    for use in petitions and dismissal
+meInsert1 = me.m06.d14_en_US_dedes.meInsert1 //  for use in petitions and dismissal
+meInsert2 = me.m06.d14_en_US_dedes.meInsert2 //  for use in petitions and dismissal
 meNote.text = me.m06.d14_en_US_dedes.meNote.text
 meLE.commemoration1 = me.m06.d14_en_US_dedes.meLE.commemoration1
 meLE.commemoration2 = me.m06.d14_en_US_dedes.meLE.commemoration2
@@ -77,7 +77,7 @@ meVE.Apolytikion1.text = me.m06.d14_en_US_dedes.meVE.Apolytikion1.text
 
 meVE.Apolytikion2.mode = me.m06.d14_en_US_dedes.meVE.Apolytikion2.mode
 meVE.Apolytikion2.melody = me.m06.d14_en_US_dedes.meVE.Apolytikion2.melody
-meVE.GeneralApolytikion2.name = me.m06.d14_en_US_dedes.meVE.GeneralApolytikion2.name //     name of saint for General Apolytikia
+meVE.GeneralApolytikion2.name = me.m06.d14_en_US_dedes.meVE.GeneralApolytikion2.name //   name of saint for General Apolytikia
 
 meMA.C1Poet = me.m06.d14_en_US_dedes.meMA.C1Poet
 meMA.C1Acrostic.text = me.m06.d14_en_US_dedes.meMA.C1Acrostic.text

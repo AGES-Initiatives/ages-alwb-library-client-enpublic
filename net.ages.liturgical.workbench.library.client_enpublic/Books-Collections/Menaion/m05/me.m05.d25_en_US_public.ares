@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = me.m05.d25_en_US_public
 
-meDate.text = me.m05.d25_en_US_dedes.meDate.text //     date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = me.m05.d25_en_US_dedes.meCommemoration.text //    full title of day
+meDate.text = me.m05.d25_en_US_dedes.meDate.text //   date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = me.m05.d25_en_US_dedes.meCommemoration.text //  full title of day
 meShortCommemoration1.text = me.m05.d25_en_US_dedes.meShortCommemoration1.text
 meInsert1 = me.m05.d25_en_US_dedes.meInsert1
 meInsert2 = me.m05.d25_en_US_dedes.meInsert2
@@ -86,7 +86,7 @@ meMA.Kathisma3T.mode = me.m05.d25_en_US_dedes.meMA.Kathisma3T.mode
 meMA.Kathisma3T.melody = me.m05.d25_en_US_dedes.meMA.Kathisma3T.melody
 meMA.Kathisma3T.text = me.m05.d25_en_US_dedes.meMA.Kathisma3T.text
 
-meMA.Prokeimenon.text = me.m05.d25_en_US_dedes.meMA.Prokeimenon.text //   for media
+meMA.Prokeimenon.text = me.m05.d25_en_US_dedes.meMA.Prokeimenon.text //  for media
 // http://goarch.org/chapel/lectionary_view?type=MGandcode=179andevent=66andlanguage=elanddate=5/25/2013
 //meMA.Gospel.name = "" //""
 //meMA.Gospel.chapverse = "" //""
@@ -300,7 +300,7 @@ meMA.Lauds3.mode = me.m05.d25_en_US_dedes.meMA.Lauds3.mode
 meMA.Lauds3.melody = me.m05.d25_en_US_dedes.meMA.Lauds3.melody
 meMA.Lauds3.text = me.m05.d25_en_US_dedes.meMA.Lauds3.text
 
-meMA.Lauds456.text = me.m05.d25_en_US_dedes.meMA.Lauds456.text //    for media
+meMA.Lauds456.text = me.m05.d25_en_US_dedes.meMA.Lauds456.text //  for media
 
 meMA.LaudsGlory.mode = me.m05.d25_en_US_dedes.meMA.LaudsGlory.mode
 meMA.LaudsGlory.melody = me.m05.d25_en_US_dedes.meMA.LaudsGlory.melody

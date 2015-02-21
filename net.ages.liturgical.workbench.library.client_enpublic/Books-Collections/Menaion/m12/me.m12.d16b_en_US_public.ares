@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m12.d16b_en_US_public
 
-meDate.text = me.m12.d16b_en_US_dedes.meDate.text //  date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDate.text = me.m12.d16b_en_US_dedes.meDate.text // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = me.m12.d16b_en_US_dedes.meCommemoration.text // full title of day
 meShortCommemoration1.text = me.m12.d16b_en_US_dedes.meShortCommemoration1.text
 meInsert1 = me.m12.d16b_en_US_dedes.meInsert1 // for use in petitions and dismissal

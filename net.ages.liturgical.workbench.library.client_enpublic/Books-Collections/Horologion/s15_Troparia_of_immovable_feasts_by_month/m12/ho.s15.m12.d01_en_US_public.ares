@@ -6,7 +6,7 @@ A_Resource_Whose_Name = ho.s15.m12.d01_en_US_public
 hoMonth.text = ""
 hoDaysHours.text = ""
 
-ho.rank  = ""
+ho.rank = ""
 ho.number = "1."
 ho.commemorations = ""
 ho.note1 = ""

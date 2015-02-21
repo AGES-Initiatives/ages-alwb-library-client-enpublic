@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = me.m07.d11_en_US_public
 
 meDate.text = me.m07.d11_en_US_dedes.meDate.text
-meCommemoration.text = me.m07.d11_en_US_dedes.meCommemoration.text //    full title of day
+meCommemoration.text = me.m07.d11_en_US_dedes.meCommemoration.text //  full title of day
 meShortCommemoration1.text = me.m07.d11_en_US_dedes.meShortCommemoration1.text
-meInsert1 = me.m07.d11_en_US_dedes.meInsert1 //    for use in petitions and dismissal
-meInsert2 = me.m07.d11_en_US_dedes.meInsert2 //    for use in petitions and dismissal
+meInsert1 = me.m07.d11_en_US_dedes.meInsert1 //  for use in petitions and dismissal
+meInsert2 = me.m07.d11_en_US_dedes.meInsert2 //  for use in petitions and dismissal
 meNote.text = me.m07.d11_en_US_dedes.meNote.text
 meLE.commemoration1 = me.m07.d11_en_US_dedes.meLE.commemoration1
 meLE.commemoration2 = me.m07.d11_en_US_dedes.meLE.commemoration2
@@ -122,7 +122,7 @@ meMA.Kathisma3T.mode = me.m07.d11_en_US_dedes.meMA.Kathisma3T.mode
 meMA.Kathisma3T.melody = me.m07.d11_en_US_dedes.meMA.Kathisma3T.melody
 meMA.Kathisma3T.text = me.m07.d11_en_US_dedes.meMA.Kathisma3T.text
 
-meMA.Prokeimenon.text = me.m07.d11_en_US_dedes.meMA.Prokeimenon.text //   for media
+meMA.Prokeimenon.text = me.m07.d11_en_US_dedes.meMA.Prokeimenon.text //  for media
 
 meMA.PostGospelGlory.mode = me.m07.d11_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m07.d11_en_US_dedes.meMA.PostGospelGlory.melody
