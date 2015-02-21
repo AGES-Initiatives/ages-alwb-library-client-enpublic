@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = me.m04.d25_en_US_public
 
-meDate.text = me.m04.d25_en_US_dedes.meDate.text //     date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = me.m04.d25_en_US_dedes.meCommemoration.text //    full title of day
+meDate.text = me.m04.d25_en_US_dedes.meDate.text //   date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = me.m04.d25_en_US_dedes.meCommemoration.text //  full title of day
 meShortCommemoration1.text = me.m04.d25_en_US_dedes.meShortCommemoration1.text
-meInsert1 = me.m04.d25_en_US_dedes.meInsert1 //    for use in petitions and dismissal
-meInsert2 = me.m04.d25_en_US_dedes.meInsert2 //    for use in petitions and dismissal
+meInsert1 = me.m04.d25_en_US_dedes.meInsert1 //  for use in petitions and dismissal
+meInsert2 = me.m04.d25_en_US_dedes.meInsert2 //  for use in petitions and dismissal
 meNote.text = me.m04.d25_en_US_dedes.meNote.text
 meLE.commemoration1 = me.m04.d25_en_US_dedes.meLE.commemoration1
 meLE.commemoration2 = me.m04.d25_en_US_dedes.meLE.commemoration2
@@ -67,7 +67,7 @@ meVE.Apolytikion1.mode = me.m04.d25_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m04.d25_en_US_dedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.text = me.m04.d25_en_US_dedes.meVE.Apolytikion1.text
 
-meVE.GeneralApolytikion1.name = me.m04.d25_en_US_dedes.meVE.GeneralApolytikion1.name //     name of saint for General Apolytikia when not in Menaion
+meVE.GeneralApolytikion1.name = me.m04.d25_en_US_dedes.meVE.GeneralApolytikion1.name //   name of saint for General Apolytikia when not in Menaion
 
 meMA.Ode1C11.ode = me.m04.d25_en_US_dedes.meMA.Ode1C11.ode
 meMA.Ode1C11.mode = me.m04.d25_en_US_dedes.meMA.Ode1C11.mode
@@ -261,7 +261,7 @@ meMA.Lauds3.mode = me.m04.d25_en_US_dedes.meMA.Lauds3.mode
 meMA.Lauds3.melody = me.m04.d25_en_US_dedes.meMA.Lauds3.melody
 meMA.Lauds3.text = me.m04.d25_en_US_dedes.meMA.Lauds3.text
 
-meMA.Lauds456.text = me.m04.d25_en_US_dedes.meMA.Lauds456.text //    for media when needed
+meMA.Lauds456.text = me.m04.d25_en_US_dedes.meMA.Lauds456.text //  for media when needed
 
 meMA.LaudsGlory.mode = me.m04.d25_en_US_dedes.meMA.LaudsGlory.mode
 meMA.LaudsGlory.melody = me.m04.d25_en_US_dedes.meMA.LaudsGlory.melody

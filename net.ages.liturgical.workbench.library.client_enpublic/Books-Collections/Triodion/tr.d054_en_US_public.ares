@@ -1252,11 +1252,11 @@ trGC.Beatitudes14.verse = tr.d054_en_US_dedes.trGC.Beatitudes14.verse
 trGC.Beatitudes14.mode = tr.d054_en_US_dedes.trGC.Beatitudes14.mode
 trGC.Beatitudes14.text = tr.d054_en_US_dedes.trGC.Beatitudes14.text
 
-trGC.BeatitudesTr.verse = tr.d054_en_US_dedes.trGC.BeatitudesTr.verse //  Doxa
+trGC.BeatitudesTr.verse = tr.d054_en_US_dedes.trGC.BeatitudesTr.verse // Doxa
 trGC.BeatitudesTr.mode = tr.d054_en_US_dedes.trGC.BeatitudesTr.mode
 trGC.BeatitudesTr.text = tr.d054_en_US_dedes.trGC.BeatitudesTr.text
 
-trGC.BeatitudesT.verse = tr.d054_en_US_dedes.trGC.BeatitudesT.verse //  KaiNyn
+trGC.BeatitudesT.verse = tr.d054_en_US_dedes.trGC.BeatitudesT.verse // KaiNyn
 trGC.BeatitudesT.mode = tr.d054_en_US_dedes.trGC.BeatitudesT.mode
 trGC.BeatitudesT.text = tr.d054_en_US_dedes.trGC.BeatitudesT.text
 

@@ -3,7 +3,7 @@ A_Resource_Whose_Name = ho.s15.m12.d17_en_US_public
 // Resource for texts needed in ho.s15 templates that are not in Menaion
 // e.g. commemoration listings, notes, fasting rubrics, extra hymns
 
-ho.rank  = ""
+ho.rank = ""
 ho.number = "17."
 ho.commemorations = ""
 ho.note1 = ""
@@ -11,13 +11,13 @@ ho.note2 = ""
 
 //Only in English, alternate wording for Ionian Village
 ho.Apolytikion3.title = "For the Hierarch."
-ho.Apolytikion3.poet  = ""
+ho.Apolytikion3.poet = ""
 ho.Apolytikion3.mode = misc_en_US_public.Mode1
 ho.Apolytikion3.melody = he.a.m1_en_US_public.TouLithouSfragisthentos.name
 ho.Apolytikion3.text = "To the offspring of Zakynthos and bishop of Aegina, * patron Saint of Ionian Village, our holy Father Dionysios, * O believers, let us all with one accord * pay honor, and sincerely say to him: * \"By your fervent prayers save us, who are observing your memory and who call to you: Glory to Christ who glorified you; glory to Him who made you marvelous; glory to Him who gave us you to intercede for us.\""
 
 ho.Kontakion3.title = "For the Hierarch."
-ho.Kontakion3.poet  = ""
+ho.Kontakion3.poet = ""
 ho.Kontakion3.mode = misc_en_US_public.Mode3
 ho.Kontakion3.melody = he.a.m3_en_US_public.IParthenosSimeron.name
 ho.Kontakion3.text = "Calling all the faithful now, * the city Zakynthos bids them * to extol with grateful songs * her very great and most ardent * patron saint, and the protector of those who need him, * and the one who rescues those who encounter dangers. * And she cries out in his honor: * O Dionysios, the glory of believers, rejoice!"
