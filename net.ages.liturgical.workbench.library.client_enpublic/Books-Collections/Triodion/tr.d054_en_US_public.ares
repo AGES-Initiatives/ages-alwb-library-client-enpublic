@@ -138,7 +138,7 @@ trGC.SticheraT.melody = misc_en_US_public.NotMetered
 trGC.SticheraT.text = tr.d054_en_US_oca.trGC.SticheraT.text
 
 //Matins
-trGC.Title = tr.d054_en_US_dedes.trGC.Title
+trGC.title = tr.d054_en_US_dedes.trGC.title
 trGC.C1Poet = tr.d054_en_US_dedes.trGC.C1Poet
 trGC.Verse1 = tr.d054_en_US_dedes.trGC.Verse1
 trGC.Verse2 = tr.d054_en_US_dedes.trGC.Verse2
