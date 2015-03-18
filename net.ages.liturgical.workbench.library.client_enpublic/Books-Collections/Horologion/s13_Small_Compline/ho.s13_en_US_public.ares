@@ -2,6 +2,11 @@ A_Resource_Whose_Name = ho.s13_en_US_public
 
 hoSC.title = ho.s13_en_US_dedes.hoSC.title
 
+hoSC.R101 = ho.s13_en_US_dedes.hoSC.R101
+hoSC.R201 = ho.s13_en_US_dedes.hoSC.R201
+
+hoSC.VerseBeforePrayerToTheotokos.text = ho.s13_en_US_dedes.hoSC.VerseBeforePrayerToTheotokos.text
+
 hoSC.Key0200.title = ho.s13_en_US_dedes.hoSC.Key0200.title
 hoSC.Key0201.title = ho.s13_en_US_dedes.hoSC.Key0201.title
 hoSC.Key0201.text = ho.s13_en_US_dedes.hoSC.Key0201.text
