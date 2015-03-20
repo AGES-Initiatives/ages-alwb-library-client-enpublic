@@ -1,0 +1,52 @@
+A_Resource_Whose_Name = variables.info_en_US_public 
+
+Antiphon1.title = "The 1st Antiphon"
+Antiphon1.pagenumber = "4"
+
+Antiphon2.title = "The 2nd Antiphon"
+Antiphon2.pagenumber = "5"
+
+Antiphon3.title = "The 3rd Antiphon."
+Antiphon3.pagenumber = ""
+
+SmallEntrance.title = "The Small Entrance"
+SmallEntrance.pagenumber = "7"
+
+HymnsAfterSmallEntrance.title = "Hymns After Small Entrance"
+
+Trisagion.title = "Trisagios Hymn"
+Trisagion.pagenumber = "8"
+
+Readings.title = "The Readings"
+Readings.pagenumber = "10"
+
+GreatEntrance.title = "The Great Entrance"
+GreatEntrance.pagenumber = "12"
+
+Creed.title = "The Creed"
+Creed.pagenumber = "18"
+
+Theotokos.title = "Hymn to the Theotokos"
+Theotokos.pagenumber = "23"
+
+LordsPrayer.title = "The Lord's Prayer"
+LordsPrayer.pagenumber = "26"
+
+CommunionPrayers.title = "Communion Prayers"
+CommunionPrayers.pagenumber = "29"
+CommunionPrayers.rubric = "(Read aloud by the Congregation)"
+
+CommunionHymn.title = "Communion Hymn"
+CommunionHymn.pagenumber = "29"
+
+HolyCommunion.title = "Holy Communion:"
+HolyCommunion.rubric = "Orthodox Christians prepared to receive Holy Communion come forward quietly and reverently at the direction of the ushers."
+
+Thanksgiving.rubric = "Prayers of Thanksgiving after Holy Communion can be found on pages 40-42."
+
+AfterCommunion.title = "After Communion"
+AfterCommunion.pagenumber = "32"
+
+Dismissal.title = "The Dismissal"
+Dismissal.pagenumber = "34"
+
