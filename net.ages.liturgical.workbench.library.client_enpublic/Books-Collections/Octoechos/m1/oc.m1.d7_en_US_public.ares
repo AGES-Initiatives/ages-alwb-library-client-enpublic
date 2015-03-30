@@ -516,6 +516,7 @@ ocMA.LaudsTheotokion.melody = oc.m1.d7_en_US_dedes.ocMA.LaudsTheotokion.melody
 ocMA.LaudsTheotokion.text = oc.m1.d7_en_US_dedes.ocMA.LaudsTheotokion.text
 
 ocMA.LaudsRubric1.text = oc.m1.d7_en_US_dedes.ocMA.LaudsRubric1.text
+ocMA.LaudsRubric2.text = oc.m1.d7_en_US_dedes.ocMA.LaudsRubric2.text
 
 ocMA.Aposticha1.mode = oc.m1.d7_en_US_dedes.ocMA.Aposticha1.mode
 ocMA.Aposticha1.melody = oc.m1.d7_en_US_dedes.ocMA.Aposticha1.melody
