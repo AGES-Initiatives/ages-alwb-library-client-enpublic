@@ -488,6 +488,8 @@ ocMA.OdeW9C2T.ode = oc.m8.d7_en_US_dedes.ocMA.OdeW9C2T.ode
 ocMA.OdeW9C2T.melody = oc.m8.d7_en_US_dedes.ocMA.OdeW9C2T.melody
 ocMA.OdeW9C2T.text = oc.m8.d7_en_US_dedes.ocMA.OdeW9C2T.text
 
+ocMA.LaudsRubric1.text = oc.m8.d7_en_US_dedes.ocMA.LaudsRubric1.text
+
 ocMA.Lauds1.mode = oc.m8.d7_en_US_dedes.ocMA.Lauds1.mode
 ocMA.Lauds1.melody = oc.m8.d7_en_US_dedes.ocMA.Lauds1.melody
 ocMA.Lauds1.text = oc.m8.d7_en_US_dedes.ocMA.Lauds1.text
