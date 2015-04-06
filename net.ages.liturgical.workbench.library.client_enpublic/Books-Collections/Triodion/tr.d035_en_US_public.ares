@@ -282,7 +282,7 @@ trLI.Gospel.book = tr.d035_en_US_dedes.trLI.Gospel.book
 trLI.Gospel.chapverse = tr.d035_en_US_dedes.trLI.Gospel.chapverse
 trLI.Gospel.text = tr.d035_en_US_dedes.trLI.Gospel.text
 
-trLI.CommunionHymn.text = tr.d035_en_US_dedes.trLI.CommunionHymn.text
+trLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
-trLI.CommunionHymn2.text = tr.d035_en_US_dedes.trLI.CommunionHymn2.text
+trLI.MM.CommunionHymn2.text = properties_en_US_public.media.key
 

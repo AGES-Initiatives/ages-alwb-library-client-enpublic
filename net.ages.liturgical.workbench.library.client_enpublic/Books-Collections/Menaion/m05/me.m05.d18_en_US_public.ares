@@ -262,9 +262,7 @@ meMA.Ode9H.mode = me.m05.d18_en_US_dedes.meMA.Ode9H.mode
 meMA.Ode9H.melody = me.m05.d18_en_US_dedes.meMA.Ode9H.melody
 meMA.Ode9H.text = me.m05.d18_en_US_dedes.meMA.Ode9H.text
 
-meMA.LaudsSundayVerse1.text = me.m05.d18_en_US_dedes.meMA.LaudsSundayVerse1.text
-
-meMA.LaudsSundayVerse2.text = me.m05.d18_en_US_dedes.meMA.LaudsSundayVerse2.text
+meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
 meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""
@@ -274,6 +272,6 @@ meLI.SeasonalKontakion.mode = me.m05.d18_en_US_dedes.meLI.SeasonalKontakion.mode
 meLI.SeasonalKontakion.melody = me.m05.d18_en_US_dedes.meLI.SeasonalKontakion.melody
 meLI.SeasonalKontakion.text = me.m05.d18_en_US_dedes.meLI.SeasonalKontakion.text
 
-meLI.CommunionHymn.text = me.m05.d18_en_US_dedes.meLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
 meMegalynarion.text = me.m05.d18_en_US_dedes.meMegalynarion.text

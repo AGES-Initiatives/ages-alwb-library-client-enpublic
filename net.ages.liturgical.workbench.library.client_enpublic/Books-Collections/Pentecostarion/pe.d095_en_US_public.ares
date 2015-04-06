@@ -604,7 +604,7 @@ peMA.Lauds3.mode = pe.d095_en_US_dedes.peMA.Lauds3.mode
 peMA.Lauds3.melody = pe.d095_en_US_dedes.peMA.Lauds3.melody
 peMA.Lauds3.text = pe.d095_en_US_dedes.peMA.Lauds3.text
 
-peMA.Lauds123.text = pe.d095_en_US_dedes.peMA.Lauds123.text // for media
+peMA.MM.Lauds123.text = properties_en_US_public.media.key
 
 peMA.LaudsGlory.mode = pe.d095_en_US_dedes.peMA.LaudsGlory.mode
 peMA.LaudsGlory.melody = pe.d095_en_US_dedes.peMA.LaudsGlory.melody
@@ -617,6 +617,6 @@ peLI.SeasonalKontakion.text = pe.d095_en_US_dedes.peLI.SeasonalKontakion.text
 peLI.TheotokosHymn.mode = pe.d095_en_US_dedes.peLI.TheotokosHymn.mode
 peLI.TheotokosHymn.text = pe.d095_en_US_dedes.peLI.TheotokosHymn.text
 
-peLI.CommunionHymn.text = pe.d095_en_US_dedes.peLI.CommunionHymn.text
+peLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
 peMegalynarion.text = pe.d095_en_US_dedes.peMegalynarion.text

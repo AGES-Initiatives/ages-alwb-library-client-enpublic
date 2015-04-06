@@ -174,10 +174,7 @@ meMA.Kathisma3T.mode = me.m02.d10_en_US_dedes.meMA.Kathisma3T.mode
 meMA.Kathisma3T.melody = me.m02.d10_en_US_dedes.meMA.Kathisma3T.melody
 meMA.Kathisma3T.text = me.m02.d10_en_US_dedes.meMA.Kathisma3T.text
 
-meMA.Prokeimenon.text = me.m02.d10_en_US_dedes.meMA.Prokeimenon.text //  for media
-//meMA.Gospel.name = "Luke." //""
-//meMA.Gospel.chapverse = "21:12-19" //""
-//meMA.Gospel.text = "The Lord said to His disciples, \"Beware of men, for they will lay their hands on you and persecute you, delivering you up to the synagogues and prisons, and you will be brought before kings and governors for my name's sake. This will be a time for you to bear testimony. Settle it therefore in your minds, not to meditate beforehand how to answer; for I will give you a mouth and wisdom, which none of your adversaries will be able to withstand or contradict. You will be delivered up even by parents and brothers and kinsmen and friends, and some of you they will put to death; you will be hated by all for my name's sake. But not a hair of your head will perish. By your endurance you will gain your lives.\""
+meMA.MM.Prokeimenon.text = properties_en_US_public.media.key
 
 meMA.PostGospelGlory.mode = me.m02.d10_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m02.d10_en_US_dedes.meMA.PostGospelGlory.melody
@@ -559,9 +556,7 @@ meMA.LaudsTheotokion.mode = me.m02.d10_en_US_dedes.meMA.LaudsTheotokion.mode
 meMA.LaudsTheotokion.melody = me.m02.d10_en_US_dedes.meMA.LaudsTheotokion.melody
 meMA.LaudsTheotokion.text = me.m02.d10_en_US_dedes.meMA.LaudsTheotokion.text
 
-meMA.LaudsSundayVerse1.text = me.m02.d10_en_US_dedes.meMA.LaudsSundayVerse1.text
-
-meMA.LaudsSundayVerse2.text = me.m02.d10_en_US_dedes.meMA.LaudsSundayVerse2.text
+meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -571,7 +566,7 @@ meLI.SeasonalKontakion.mode = me.m02.d10_en_US_dedes.meLI.SeasonalKontakion.mode
 meLI.SeasonalKontakion.melody = me.m02.d10_en_US_dedes.meLI.SeasonalKontakion.melody
 meLI.SeasonalKontakion.text = me.m02.d10_en_US_dedes.meLI.SeasonalKontakion.text
 
-meLI.CommunionHymn.text = me.m02.d10_en_US_dedes.meLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
 meMegalynarion.text = me.m02.d10_en_US_dedes.meMegalynarion.text
 

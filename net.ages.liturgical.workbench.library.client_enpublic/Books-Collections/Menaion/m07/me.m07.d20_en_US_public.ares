@@ -115,7 +115,7 @@ meMA.Kathisma2T.text = me.m07.d20_en_US_dedes.meMA.Kathisma2T.text
 //Not in Menaion, optional Matins Gospel
 
 meR01 = me.m07.d20_en_US_dedes.meR01
-meMA.Prokeimenon.text = me.m07.d20_en_US_dedes.meMA.Prokeimenon.text //  for media
+meMA.MM.Prokeimenon.text = properties_en_US_public.media.key
 
 meMA.PostGospelGlory.mode = me.m07.d20_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m07.d20_en_US_dedes.meMA.PostGospelGlory.melody
@@ -503,7 +503,7 @@ meMA.LaudsTheotokion.mode = me.m07.d20_en_US_dedes.meMA.LaudsTheotokion.mode
 meMA.LaudsTheotokion.melody = me.m07.d20_en_US_dedes.meMA.LaudsTheotokion.melody
 meMA.LaudsTheotokion.text = me.m07.d20_en_US_dedes.meMA.LaudsTheotokion.text
 
-meMA.LaudsSundayVerse1.text = me.m07.d20_en_US_dedes.meMA.LaudsSundayVerse1.text //  for media
+meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -513,6 +513,6 @@ meLI.SeasonalKontakion.mode = me.m07.d20_en_US_dedes.meLI.SeasonalKontakion.mode
 meLI.SeasonalKontakion.melody = me.m07.d20_en_US_dedes.meLI.SeasonalKontakion.melody
 meLI.SeasonalKontakion.text = me.m07.d20_en_US_dedes.meLI.SeasonalKontakion.text
 
-meLI.CommunionHymn.text = me.m07.d20_en_US_dedes.meLI.CommunionHymn.text //  for media
+meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
 meMegalynarion.text = me.m07.d20_en_US_dedes.meMegalynarion.text

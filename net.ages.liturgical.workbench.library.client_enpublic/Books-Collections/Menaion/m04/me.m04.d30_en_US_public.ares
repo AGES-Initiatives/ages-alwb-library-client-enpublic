@@ -294,11 +294,9 @@ meMA.LaudsGlory.mode = me.m04.d30_en_US_dedes.meMA.LaudsGlory.mode
 meMA.LaudsGlory.melody = me.m04.d30_en_US_dedes.meMA.LaudsGlory.melody
 meMA.LaudsGlory.text = me.m04.d30_en_US_dedes.meMA.LaudsGlory.text
 
-meMA.LaudsSundayVerse1.text = me.m04.d30_en_US_dedes.meMA.LaudsSundayVerse1.text
+meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
-meMA.LaudsSundayVerse2.text = me.m04.d30_en_US_dedes.meMA.LaudsSundayVerse2.text
-
-meLI.CommunionHymn.text = me.m04.d30_en_US_dedes.meLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
 meMegalynarion.text = me.m04.d30_en_US_dedes.meMegalynarion.text
 

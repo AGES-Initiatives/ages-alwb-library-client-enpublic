@@ -130,10 +130,7 @@ meMA.Kathisma3T.mode = me.m01.d18_en_US_dedes.meMA.Kathisma3T.mode
 meMA.Kathisma3T.melody = me.m01.d18_en_US_dedes.meMA.Kathisma3T.melody
 meMA.Kathisma3T.text = me.m01.d18_en_US_dedes.meMA.Kathisma3T.text
 
-meMA.Prokeimenon.text = me.m01.d18_en_US_dedes.meMA.Prokeimenon.text //  for media
-//meMA.Gospel.name = bible_en_US_rsv.John
-//meMA.Gospel.chapverse = "10:1-9" //""
-//meMA.Gospel.text = "The Lord said, \"Truly, truly, I say to you, he who does not enter the sheepfold by the door but climbs in by another way, that man is a thief and a robber; but he who enters by the door is the shepherd of the sheep. To him the gatekeeper opens; the sheep hear his voice, and he calls his own sheep by name and leads them out. When he has brought out all his own, he goes before them, and the sheep follow him, for they know his voice. A stranger they will not follow, but they will flee from him, for they do not know the voice of strangers.\" This figure Jesus used with them, but they did not understand what he was saying to them. So Jesus again said to them, \"Truly, truly, I say to you, I am the door of the sheep. All who came before me are thieves and robbers; but the sheep did not heed them. I am the door; if any one enters by me, he will be saved, and will go in and out and find pasture.\""
+meMA.MM.Prokeimenon.text = properties_en_US_public.media.key
 
 meMA.PostGospelGlory.mode = me.m01.d18_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m01.d18_en_US_dedes.meMA.PostGospelGlory.melody
@@ -546,9 +543,7 @@ meMA.LaudsTheotokion.mode = me.m01.d18_en_US_dedes.meMA.LaudsTheotokion.mode
 meMA.LaudsTheotokion.melody = me.m01.d18_en_US_dedes.meMA.LaudsTheotokion.melody
 meMA.LaudsTheotokion.text = me.m01.d18_en_US_dedes.meMA.LaudsTheotokion.text
 
-meMA.LaudsSundayVerse1.text = me.m01.d18_en_US_dedes.meMA.LaudsSundayVerse1.text
-
-meMA.LaudsSundayVerse2.text = me.m01.d18_en_US_dedes.meMA.LaudsSundayVerse2.text
+meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -558,7 +553,7 @@ meLI.SeasonalKontakion.mode = me.m01.d18_en_US_dedes.meLI.SeasonalKontakion.mode
 meLI.SeasonalKontakion.melody = me.m01.d18_en_US_dedes.meLI.SeasonalKontakion.melody
 meLI.SeasonalKontakion.text = me.m01.d18_en_US_dedes.meLI.SeasonalKontakion.text
 
-meLI.CommunionHymn.text = me.m01.d18_en_US_dedes.meLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
 meMegalynarion.text = me.m01.d18_en_US_dedes.meMegalynarion.text
 

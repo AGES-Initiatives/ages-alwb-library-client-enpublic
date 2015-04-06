@@ -290,8 +290,6 @@ meMA.ExapTheotokion.mode = me.m11.d02_en_US_dedes.meMA.ExapTheotokion.mode
 meMA.ExapTheotokion.melody = me.m11.d02_en_US_dedes.meMA.ExapTheotokion.melody
 meMA.ExapTheotokion.text = me.m11.d02_en_US_dedes.meMA.ExapTheotokion.text
 
-meMA.ApostichaVerse4.text = me.m11.d02_en_US_dedes.meMA.ApostichaVerse4.text
-
 meMA.Aposticha4.mode = me.m11.d02_en_US_dedes.meMA.Aposticha4.mode
 meMA.Aposticha4.melody = me.m11.d02_en_US_dedes.meMA.Aposticha4.melody
 meMA.Aposticha4.text = me.m11.d02_en_US_dedes.meMA.Aposticha4.text

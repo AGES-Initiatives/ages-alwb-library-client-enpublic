@@ -468,13 +468,11 @@ meMA.Lauds2.mode = me.m12.dAC_en_US_dedes.meMA.Lauds2.mode
 meMA.Lauds2.melody = me.m12.dAC_en_US_dedes.meMA.Lauds2.melody
 meMA.Lauds2.text = me.m12.dAC_en_US_dedes.meMA.Lauds2.text
 
-meMA.LaudsSundayVerse1.text = me.m12.dAC_en_US_dedes.meMA.LaudsSundayVerse1.text
+meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
 meMA.Lauds3.mode = me.m12.dAC_en_US_dedes.meMA.Lauds3.mode
 meMA.Lauds3.melody = me.m12.dAC_en_US_dedes.meMA.Lauds3.melody
 meMA.Lauds3.text = me.m12.dAC_en_US_dedes.meMA.Lauds3.text
-
-meMA.LaudsSundayVerse2.text = me.m12.dAC_en_US_dedes.meMA.LaudsSundayVerse2.text
 
 meMA.Lauds4.mode = me.m12.dAC_en_US_dedes.meMA.Lauds4.mode
 meMA.Lauds4.melody = me.m12.dAC_en_US_dedes.meMA.Lauds4.melody

@@ -112,7 +112,7 @@ meMA.Kathisma32.mode = me.m11.d25_en_US_dedes.meMA.Kathisma32.mode
 meMA.Kathisma32.melody = me.m11.d25_en_US_dedes.meMA.Kathisma32.melody
 meMA.Kathisma32.text = me.m11.d25_en_US_dedes.meMA.Kathisma32.text
 
-meMA.Prokeimenon.text = me.m11.d25_en_US_dedes.meMA.Prokeimenon.text //  for media
+meMA.MM.Prokeimenon.text = properties_en_US_public.media.key
 
 meMA.PostGospelGlory.mode = me.m11.d25_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m11.d25_en_US_dedes.meMA.PostGospelGlory.melody
@@ -542,6 +542,10 @@ meMA.Lauds6.mode = me.m11.d25_en_US_dedes.meMA.Lauds6.mode
 meMA.Lauds6.melody = me.m11.d25_en_US_dedes.meMA.Lauds6.melody
 meMA.Lauds6.text = me.m11.d25_en_US_dedes.meMA.Lauds6.text
 
+meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
+meMA.MM.Lauds12as45.text = properties_en_US_public.media.key
+meMA.MM.Lauds456as6women12.text = properties_en_US_public.media.key
+
 meMA.LaudsGlory.mode = me.m11.d25_en_US_dedes.meMA.LaudsGlory.mode
 meMA.LaudsGlory.melody = me.m11.d25_en_US_dedes.meMA.LaudsGlory.melody
 meMA.LaudsGlory.text = me.m11.d25_en_US_dedes.meMA.LaudsGlory.text
@@ -549,10 +553,6 @@ meMA.LaudsGlory.text = me.m11.d25_en_US_dedes.meMA.LaudsGlory.text
 meMA.LaudsBoth.mode = me.m11.d25_en_US_dedes.meMA.LaudsBoth.mode
 meMA.LaudsBoth.melody = me.m11.d25_en_US_dedes.meMA.LaudsBoth.melody
 meMA.LaudsBoth.text = me.m11.d25_en_US_dedes.meMA.LaudsBoth.text
-
-meMA.LaudsSundayVerse1.text = me.m11.d25_en_US_dedes.meMA.LaudsSundayVerse1.text
-
-meMA.LaudsSundayVerse2.text = me.m11.d25_en_US_dedes.meMA.LaudsSundayVerse2.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -566,7 +566,7 @@ meLI.TheotokosHymn.mode = me.m11.d25_en_US_dedes.meLI.TheotokosHymn.mode
 meLI.TheotokosHymnVerse.text = me.m11.d25_en_US_dedes.meLI.TheotokosHymnVerse.text
 meLI.TheotokosHymn.text = me.m11.d25_en_US_dedes.meLI.TheotokosHymn.text
 
-meLI.CommunionHymn.text = me.m11.d25_en_US_dedes.meLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
 meMegalynarion.text = me.m11.d25_en_US_dedes.meMegalynarion.text
 

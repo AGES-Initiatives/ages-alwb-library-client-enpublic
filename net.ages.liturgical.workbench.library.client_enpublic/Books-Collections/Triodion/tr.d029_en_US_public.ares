@@ -388,7 +388,7 @@ trMA.LaudsTheotokion.text = tr.d029_en_US_dedes.trMA.LaudsTheotokion.text
 
 trLI.Antiphon2.text = tr.d029_en_US_dedes.trLI.Antiphon2.text
 
-trLI.EntranceHymn.text = tr.d029_en_US_dedes.trLI.EntranceHymn.text
+trLI.MM.EntranceHymn.text = properties_en_US_public.media.key
 
 trLI.SeasonalKontakion.mode = tr.d029_en_US_dedes.trLI.SeasonalKontakion.mode
 trLI.SeasonalKontakion.melody = tr.d029_en_US_dedes.trLI.SeasonalKontakion.melody

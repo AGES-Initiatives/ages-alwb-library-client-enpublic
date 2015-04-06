@@ -21,7 +21,7 @@ trVE.Stichera02.mode = tr.d008_en_US_dedes.trVE.Stichera02.mode
 trVE.Stichera02.melody = tr.d008_en_US_dedes.trVE.Stichera02.melody
 trVE.Stichera02.text = tr.d008_en_US_dedes.trVE.Stichera02.text
 
-trVE.Stichera567.text = tr.d008_en_US_dedes.trVE.Stichera567.text
+trVE.MM.Stichera123as567.text = properties_en_US_public.media.key
 
 trVE.SticGlory.mode = tr.d008_en_US_dedes.trVE.SticGlory.mode
 trVE.SticGlory.melody = tr.d008_en_US_dedes.trVE.SticGlory.melody
@@ -311,7 +311,7 @@ trLI.SeasonalKontakion.mode = tr.d008_en_US_dedes.trLI.SeasonalKontakion.mode
 trLI.SeasonalKontakion.melody = tr.d008_en_US_dedes.trLI.SeasonalKontakion.melody
 trLI.SeasonalKontakion.text = tr.d008_en_US_dedes.trLI.SeasonalKontakion.text
 
-trLI.CommunionHymn.text = tr.d008_en_US_dedes.trLI.CommunionHymn.text
+trLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
 trMegalynarion.text = tr.d008_en_US_dedes.trMegalynarion.text
 

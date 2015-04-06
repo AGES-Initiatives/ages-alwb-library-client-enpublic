@@ -182,11 +182,8 @@ meMA.Kathisma32.mode = me.m02.d06_en_US_dedes.meMA.Kathisma32.mode
 meMA.Kathisma32.melody = me.m02.d06_en_US_dedes.meMA.Kathisma32.melody
 meMA.Kathisma32.text = me.m02.d06_en_US_dedes.meMA.Kathisma32.text
 
-meMA.Prokeimenon.text = me.m02.d06_en_US_dedes.meMA.Prokeimenon.text //  for media
+meMA.MM.Prokeimenon.text = properties_en_US_public.media.key
 // From Nov13.pdf saved from 2009
-//meMA.Gospel.name = "John." //""
-//meMA.Gospel.chapverse = "10:1-9" //""
-//meMA.Gospel.text = "The Lord said to the Jews who came to him, \"Truly, truly, I say to you, he who does not enter the sheepfold by the door but climbs in by another way, that man is a thief and a robber; but he who enters by the door is the shepherd of the sheep. To him the gatekeeper opens; the sheep hear his voice, and he calls his own sheep by name and leads them out. When he has brought out all his own, he goes before them, and the sheep follow him, for they know his voice. A stranger they will not follow, but they will flee from him, for they do not know the voice of strangers.\" This figure Jesus used with them, but they did not understand what he was saying to them. So Jesus again said to them, \"Truly, truly, I say to you, I am the door of the sheep. All who came before me are thieves and robbers; but the sheep did not heed them. I am the door; if anyone enters by me, he will be saved, and will go in and out and find pasture.\""
 
 meMA.PostGospelGlory.mode = me.m02.d06_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m02.d06_en_US_dedes.meMA.PostGospelGlory.melody
@@ -421,13 +418,11 @@ meMA.LaudsBoth.mode = me.m02.d06_en_US_dedes.meMA.LaudsBoth.mode
 meMA.LaudsBoth.melody = me.m02.d06_en_US_dedes.meMA.LaudsBoth.melody
 meMA.LaudsBoth.text = me.m02.d06_en_US_dedes.meMA.LaudsBoth.text
 
-meMA.LaudsSundayVerse1.text = me.m02.d06_en_US_dedes.meMA.LaudsSundayVerse1.text
-
-meMA.LaudsSundayVerse2.text = me.m02.d06_en_US_dedes.meMA.LaudsSundayVerse2.text
+meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
 meLI.Antiphon2.text = me.m02.d06_en_US_dedes.meLI.Antiphon2.text
 
-meLI.EntranceHymn.text = me.m02.d06_en_US_dedes.meLI.EntranceHymn.text
+meLI.MM.EntranceHymn.text = properties_en_US_public.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -437,7 +432,7 @@ meLI.SeasonalKontakion.mode = me.m02.d06_en_US_dedes.meLI.SeasonalKontakion.mode
 meLI.SeasonalKontakion.melody = me.m02.d06_en_US_dedes.meLI.SeasonalKontakion.melody
 meLI.SeasonalKontakion.text = me.m02.d06_en_US_dedes.meLI.SeasonalKontakion.text
 
-meLI.CommunionHymn.text = me.m02.d06_en_US_dedes.meLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
 meMegalynarion.text = me.m02.d06_en_US_dedes.meMegalynarion.text
 

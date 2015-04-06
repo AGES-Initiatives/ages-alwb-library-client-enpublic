@@ -487,13 +487,9 @@ meMA.Aposticha1.mode = me.m10.d14_en_US_dedes.meMA.Aposticha1.mode
 meMA.Aposticha1.melody = me.m10.d14_en_US_dedes.meMA.Aposticha1.melody
 meMA.Aposticha1.text = me.m10.d14_en_US_dedes.meMA.Aposticha1.text
 
-meMA.ApostichaVerse2.text = me.m10.d14_en_US_dedes.meMA.ApostichaVerse2.text
-
 meMA.Aposticha2.mode = me.m10.d14_en_US_dedes.meMA.Aposticha2.mode
 meMA.Aposticha2.melody = me.m10.d14_en_US_dedes.meMA.Aposticha2.melody
 meMA.Aposticha2.text = me.m10.d14_en_US_dedes.meMA.Aposticha2.text
-
-meMA.ApostichaVerse3.text = me.m10.d14_en_US_dedes.meMA.ApostichaVerse3.text
 
 meMA.Aposticha3.mode = me.m10.d14_en_US_dedes.meMA.Aposticha3.mode
 meMA.Aposticha3.melody = me.m10.d14_en_US_dedes.meMA.Aposticha3.melody
