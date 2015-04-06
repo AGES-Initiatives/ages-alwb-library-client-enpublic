@@ -731,13 +731,9 @@ trMA.Aposticha1.mode = tr.d028_en_US_dedes.trMA.Aposticha1.mode
 trMA.Aposticha1.melody = tr.d028_en_US_dedes.trMA.Aposticha1.melody
 trMA.Aposticha1.text = tr.d028_en_US_dedes.trMA.Aposticha1.text
 
-trMA.ApostichaVerse2.text = tr.d028_en_US_dedes.trMA.ApostichaVerse2.text
-
 trMA.Aposticha2.mode = tr.d028_en_US_dedes.trMA.Aposticha2.mode
 trMA.Aposticha2.melody = tr.d028_en_US_dedes.trMA.Aposticha2.melody
 trMA.Aposticha2.text = tr.d028_en_US_dedes.trMA.Aposticha2.text
-
-trMA.ApostichaVerse3.text = tr.d028_en_US_dedes.trMA.ApostichaVerse3.text
 
 trMA.Aposticha3.mode = tr.d028_en_US_dedes.trMA.Aposticha3.mode
 trMA.Aposticha3.melody = tr.d028_en_US_dedes.trMA.Aposticha3.melody

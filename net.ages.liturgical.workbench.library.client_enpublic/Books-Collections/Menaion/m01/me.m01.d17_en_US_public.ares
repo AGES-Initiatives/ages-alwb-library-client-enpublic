@@ -38,13 +38,9 @@ meSV.Aposticha1.mode = me.m01.d17_en_US_dedes.meSV.Aposticha1.mode
 meSV.Aposticha1.melody = me.m01.d17_en_US_dedes.meSV.Aposticha1.melody
 meSV.Aposticha1.text = me.m01.d17_en_US_dedes.meSV.Aposticha1.text
 
-meSV.ApostichaVerse2.text = me.m01.d17_en_US_dedes.meSV.ApostichaVerse2.text
-
 meSV.Aposticha2.mode = me.m01.d17_en_US_dedes.meSV.Aposticha2.mode
 meSV.Aposticha2.melody = me.m01.d17_en_US_dedes.meSV.Aposticha2.melody
 meSV.Aposticha2.text = me.m01.d17_en_US_dedes.meSV.Aposticha2.text
-
-meSV.ApostichaVerse3.text = me.m01.d17_en_US_dedes.meSV.ApostichaVerse3.text
 
 meSV.Aposticha3.mode = me.m01.d17_en_US_dedes.meSV.Aposticha3.mode
 meSV.Aposticha3.melody = me.m01.d17_en_US_dedes.meSV.Aposticha3.melody
@@ -112,13 +108,9 @@ meVE.Aposticha1.mode = me.m01.d17_en_US_dedes.meVE.Aposticha1.mode
 meVE.Aposticha1.melody = misc_en_US_public.NotMetered
 meVE.Aposticha1.text = me.m01.d17_en_UK_lash.meVE.Aposticha1.text
 
-meVE.ApostichaVerse2.text = me.m01.d17_en_US_dedes.meVE.ApostichaVerse2.text
-
 meVE.Aposticha2.mode = me.m01.d17_en_US_dedes.meVE.Aposticha2.mode
 meVE.Aposticha2.melody = misc_en_US_public.NotMetered
 meVE.Aposticha2.text = me.m01.d17_en_UK_lash.meVE.Aposticha2.text
-
-meVE.ApostichaVerse3.text = me.m01.d17_en_US_dedes.meVE.ApostichaVerse3.text
 
 meVE.Aposticha3.mode = me.m01.d17_en_US_dedes.meVE.Aposticha3.mode
 meVE.Aposticha3.melody = misc_en_US_public.NotMetered
