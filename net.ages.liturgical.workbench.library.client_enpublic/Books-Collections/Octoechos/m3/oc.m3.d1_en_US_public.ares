@@ -32,6 +32,8 @@ ocVE.MM.LIHC1.text = properties_en_US_public.media.key
 
 ocVE.MM.LIHC2.text = properties_en_US_public.media.key
 
+ocVE.MM.LIHC_Stichologia = properties_en_US_public.media.key
+
 ocVE.Stichera1.mode = oc.m3.d1_en_US_dedes.ocVE.Stichera1.mode
 ocVE.Stichera1.melody = ""
 ocVE.Stichera1.text = oc.m3.d1_en_US_holycross.ocVE.Stichera1.text
