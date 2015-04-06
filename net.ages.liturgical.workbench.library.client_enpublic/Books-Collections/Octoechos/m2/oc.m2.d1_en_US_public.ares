@@ -1,16 +1,12 @@
 A_Resource_Whose_Name = oc.m2.d1_en_US_public
 
-ocGE.GlorySticheraric.mode = oc.m2.d1_en_US_dedes.ocGE.GlorySticheraric.mode // for mode-specific media
-ocGE.GlorySticheraric.text = oc.m2.d1_en_US_dedes.ocGE.GlorySticheraric.text
+ocGE.MM.GlorySticheraric.text = properties_en_US_public.media.key
 
-ocGE.BothSticheraric.mode = oc.m2.d1_en_US_dedes.ocGE.BothSticheraric.mode // for mode-specific media
-ocGE.BothSticheraric.text = oc.m2.d1_en_US_dedes.ocGE.BothSticheraric.text
+ocGE.MM.BothSticheraric.text = properties_en_US_public.media.key
 
-ocGE.GloryHeirmologic.mode = oc.m2.d1_en_US_dedes.ocGE.GloryHeirmologic.mode // for mode-specific media
-ocGE.GloryHeirmologic.text = oc.m2.d1_en_US_dedes.ocGE.GloryHeirmologic.text
+ocGE.MM.GloryHeirmologic.text = properties_en_US_public.media.key
 
-ocGE.BothHeirmologic.mode = oc.m2.d1_en_US_dedes.ocGE.BothHeirmologic.mode // for mode-specific media
-ocGE.BothHeirmologic.text = oc.m2.d1_en_US_dedes.ocGE.BothHeirmologic.text
+ocGE.MM.BothHeirmologic.text = properties_en_US_public.media.key
 
 ocSV.Dogmatic.mode = oc.m2.d1_en_US_dedes.ocSV.Dogmatic.mode
 ocSV.Dogmatic.melody = oc.m2.d1_en_US_dedes.ocSV.Dogmatic.melody
@@ -32,11 +28,9 @@ ocSV.AposDogmatic.mode = oc.m2.d1_en_US_dedes.ocSV.AposDogmatic.mode
 ocSV.AposDogmatic.melody = oc.m2.d1_en_US_dedes.ocSV.AposDogmatic.melody
 ocSV.AposDogmatic.text = oc.m2.d1_en_US_dedes.ocSV.AposDogmatic.text
 
-ocVE.LIHC1.mode = oc.m2.d1_en_US_dedes.ocVE.LIHC1.mode
-ocVE.LIHC1.text = "" //for media
+ocVE.MM.LIHC1.text = properties_en_US_public.media.key
 
-ocVE.LIHC2.mode = oc.m2.d1_en_US_dedes.ocVE.LIHC2.mode
-ocVE.LIHC2.text = "" //for media
+ocVE.MM.LIHC2.text = properties_en_US_public.media.key
 
 ocVE.Stichera1.mode = oc.m2.d1_en_US_dedes.ocVE.Stichera1.mode
 ocVE.Stichera1.melody = ""
@@ -262,8 +256,7 @@ ocMO.Ode9T.ode = oc.m2.d1_en_US_dedes.ocMO.Ode9T.ode
 ocMO.Ode9T.melody = oc.m2.d1_en_US_dedes.ocMO.Ode9T.melody
 ocMO.Ode9T.text = oc.m2.d1_en_US_dedes.ocMO.Ode9T.text
 
-ocMA.GodIsTheLord.mode = oc.m2.d1_en_US_dedes.ocMA.GodIsTheLord.mode
-ocMA.GodIsTheLord.text = oc.m2.d1_en_US_dedes.ocMA.GodIsTheLord.text
+ocMA.MM.GodIsTheLord.text = properties_en_US_public.media.key
 
 ocMA.Kathisma11.mode = oc.m2.d1_en_US_dedes.ocMA.Kathisma11.mode
 ocMA.Kathisma11.melody = oc.m2.d1_en_US_dedes.ocMA.Kathisma11.melody
@@ -329,7 +322,7 @@ ocMA.Antiphon33.mode = oc.m2.d1_en_US_dedes.ocMA.Antiphon33.mode
 ocMA.Antiphon33.melody = oc.m2.d1_en_US_dedes.ocMA.Antiphon33.melody
 ocMA.Antiphon33.text = oc.m2.d1_en_US_dedes.ocMA.Antiphon33.text
 
-ocMA.Prokeimenon.text = oc.m2.d1_en_US_dedes.ocMA.Prokeimenon.text
+ocMA.MM.Prokeimenon.text = properties_en_US_public.media.key
 
 ocMA.C1Poet = oc.m2.d1_en_US_dedes.ocMA.C1Poet
 ocMA.C2Poet = oc.m2.d1_en_US_dedes.ocMA.C2Poet
@@ -683,8 +676,8 @@ ocMA.OdeS9C32.text = oc.m2.d1_en_US_dedes.ocMA.OdeS9C32.text
 ocMA.Magnificat.mode = oc.m2.d1_en_US_dedes.ocMA.Magnificat.mode
 ocMA.Magnificat.text = oc.m2.d1_en_US_dedes.ocMA.Magnificat.text
 
-ocMA.Lauds01.text = oc.m2.d1_en_US_dedes.ocMA.Lauds01.text //for media
-ocMA.Lauds02.text = oc.m2.d1_en_US_dedes.ocMA.Lauds02.text //for media
+ocMA.MM.Lauds01.text = properties_en_US_public.media.key
+ocMA.MM.Lauds02.text = properties_en_US_public.media.key
 
 ocMA.Lauds1.mode = oc.m2.d1_en_US_dedes.ocMA.Lauds1.mode
 ocMA.Lauds1.melody = oc.m2.d1_en_US_dedes.ocMA.Lauds1.melody

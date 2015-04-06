@@ -48,8 +48,7 @@ ocVE.ApolTheotokionVM.mode = oc.m6.d7_en_US_dedes.ocVE.ApolTheotokionVM.mode
 ocVE.ApolTheotokionVM.melody = oc.m6.d7_en_US_dedes.ocVE.ApolTheotokionVM.melody
 ocVE.ApolTheotokionVM.text = oc.m6.d7_en_US_dedes.ocVE.ApolTheotokionVM.text
 
-ocMA.Alleluia.mode = oc.m6.d7_en_US_dedes.ocMA.Alleluia.mode // for mode-specific media e.g. Triodion
-ocMA.Alleluia.text = oc.m6.d7_en_US_dedes.ocMA.Alleluia.text
+ocMA.MM.Alleluia.text = properties_en_US_public.media.key
 
 ocMA.Kathisma11.mode = oc.m6.d7_en_US_dedes.ocMA.Kathisma11.mode
 ocMA.Kathisma11.melody = oc.m6.d7_en_US_dedes.ocMA.Kathisma11.melody
