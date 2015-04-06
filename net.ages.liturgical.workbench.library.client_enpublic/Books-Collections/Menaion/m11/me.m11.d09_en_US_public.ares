@@ -42,13 +42,9 @@ meSV.Aposticha1.mode = me.m11.d09_en_US_dedes.meSV.Aposticha1.mode
 meSV.Aposticha1.melody = me.m11.d09_en_US_dedes.meSV.Aposticha1.melody
 meSV.Aposticha1.text = me.m11.d09_en_US_dedes.meSV.Aposticha1.text
 
-meSV.ApostichaVerse2.text = me.m11.d09_en_US_dedes.meSV.ApostichaVerse2.text
-
 meSV.Aposticha2.mode = me.m11.d09_en_US_dedes.meSV.Aposticha2.mode
 meSV.Aposticha2.melody = me.m11.d09_en_US_dedes.meSV.Aposticha2.melody
 meSV.Aposticha2.text = me.m11.d09_en_US_dedes.meSV.Aposticha2.text
-
-meSV.ApostichaVerse3.text = me.m11.d09_en_US_dedes.meSV.ApostichaVerse3.text
 
 meSV.Aposticha3.mode = me.m11.d09_en_US_dedes.meSV.Aposticha3.mode
 meSV.Aposticha3.melody = me.m11.d09_en_US_dedes.meSV.Aposticha3.melody
@@ -126,13 +122,9 @@ meVE.Aposticha1.mode = me.m11.d09_en_US_dedes.meVE.Aposticha1.mode
 meVE.Aposticha1.melody = me.m11.d09_en_US_dedes.meVE.Aposticha1.melody
 meVE.Aposticha1.text = me.m11.d09_en_US_dedes.meVE.Aposticha1.text
 
-meVE.ApostichaVerse2.text = me.m11.d09_en_US_dedes.meVE.ApostichaVerse2.text
-
 meVE.Aposticha2.mode = me.m11.d09_en_US_dedes.meVE.Aposticha2.mode
 meVE.Aposticha2.melody = me.m11.d09_en_US_dedes.meVE.Aposticha2.melody
 meVE.Aposticha2.text = me.m11.d09_en_US_dedes.meVE.Aposticha2.text
-
-meVE.ApostichaVerse3.text = me.m11.d09_en_US_dedes.meVE.ApostichaVerse3.text
 
 meVE.Aposticha3.mode = me.m11.d09_en_US_dedes.meVE.Aposticha3.mode
 meVE.Aposticha3.melody = me.m11.d09_en_US_dedes.meVE.Aposticha3.melody
@@ -1318,9 +1310,9 @@ alt1.meMA.ExapTheotokion.mode = me.m11.d09_en_US_dedes.alt1.meMA.ExapTheotokion.
 alt1.meMA.ExapTheotokion.melody = me.m11.d09_en_US_dedes.alt1.meMA.ExapTheotokion.melody
 alt1.meMA.ExapTheotokion.text = me.m11.d09_en_US_dedes.alt1.meMA.ExapTheotokion.text
 
-alt1.meLI.Kontakion1.mode = alt1.meMA.Kontakion1.mode
-alt1.meLI.Kontakion1.melody = alt1.meMA.Kontakion1.melody
-alt1.meLI.Kontakion1.text = alt1.meMA.Kontakion1.text
+alt1.meLI.Kontakion1.mode = me.m11.d09_en_US_dedes.alt1.meMA.Kontakion1.mode
+alt1.meLI.Kontakion1.melody = me.m11.d09_en_US_dedes.alt1.meMA.Kontakion1.melody
+alt1.meLI.Kontakion1.text = me.m11.d09_en_US_dedes.alt1.meMA.Kontakion1.text
 
 alt1.meLI.SeasonalKontakion.mode = me.m11.d09_en_US_dedes.alt1.meLI.SeasonalKontakion.mode
 alt1.meLI.SeasonalKontakion.melody = me.m11.d09_en_US_dedes.alt1.meLI.SeasonalKontakion.melody
