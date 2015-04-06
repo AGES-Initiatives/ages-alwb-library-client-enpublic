@@ -289,13 +289,9 @@ meMA.Aposticha1.mode = me.m08.d19_en_US_dedes.meMA.Aposticha1.mode
 meMA.Aposticha1.melody = me.m08.d19_en_US_dedes.meMA.Aposticha1.melody
 meMA.Aposticha1.text = me.m08.d19_en_US_dedes.meMA.Aposticha1.text
 
-meMA.ApostichaVerse2.text = me.m08.d19_en_US_dedes.meMA.ApostichaVerse2.text
-
 meMA.Aposticha2.mode = me.m08.d19_en_US_dedes.meMA.Aposticha2.mode
 meMA.Aposticha2.melody = me.m08.d19_en_US_dedes.meMA.Aposticha2.melody
 meMA.Aposticha2.text = me.m08.d19_en_US_dedes.meMA.Aposticha2.text
-
-meMA.ApostichaVerse3.text = me.m08.d19_en_US_dedes.meMA.ApostichaVerse3.text
 
 meMA.Aposticha3.mode = me.m08.d19_en_US_dedes.meMA.Aposticha3.mode
 meMA.Aposticha3.melody = me.m08.d19_en_US_dedes.meMA.Aposticha3.melody
@@ -305,9 +301,7 @@ meMA.AposGlory.mode = me.m08.d19_en_US_dedes.meMA.AposGlory.mode
 meMA.AposGlory.melody = me.m08.d19_en_US_dedes.meMA.AposGlory.melody
 meMA.AposGlory.text = me.m08.d19_en_US_dedes.meMA.AposGlory.text
 
-meMA.LaudsSundayVerse1.text = me.m08.d19_en_US_dedes.meMA.LaudsSundayVerse1.text
-
-meMA.LaudsSundayVerse2.text = me.m08.d19_en_US_dedes.meMA.LaudsSundayVerse2.text
+meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
 meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""

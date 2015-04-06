@@ -342,6 +342,6 @@ peLI.SeasonalKontakion.mode = pe.d119_en_US_dedes.peLI.SeasonalKontakion.mode
 peLI.SeasonalKontakion.melody = pe.d119_en_US_dedes.peLI.SeasonalKontakion.melody
 peLI.SeasonalKontakion.text = pe.d119_en_US_dedes.peLI.SeasonalKontakion.text
 
-peLI.CommunionHymn.text = pe.d119_en_US_dedes.peLI.CommunionHymn.text
+peLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
 peMegalynarion.text = pe.d119_en_US_dedes.peMegalynarion.text

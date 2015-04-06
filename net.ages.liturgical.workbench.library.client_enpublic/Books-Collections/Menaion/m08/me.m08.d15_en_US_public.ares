@@ -164,11 +164,8 @@ meMA.Kathisma31.mode = me.m08.d15_en_US_dedes.meMA.Kathisma31.mode
 meMA.Kathisma31.melody = me.m08.d15_en_US_dedes.meMA.Kathisma31.melody
 meMA.Kathisma31.text = me.m08.d15_en_US_dedes.meMA.Kathisma31.text
 
-meMA.Prokeimenon.text = me.m08.d15_en_US_dedes.meMA.Prokeimenon.text //  for media
+meMA.MM.Prokeimenon.text = properties_en_US_public.media.key
 //from goarch: http://goarch.org/chapel/lectionary_view?type=MGandcode=370andlanguage=elanddate=8/15/2013
-//meMA.Gospel.name = "Luke." //""
-//meMA.Gospel.chapverse = "Luke 1:39-49, 56" //""
-//meMA.Gospel.text = "In those days, Mary arose and went with haste into the hill country, to a city of Judah, and she entered the house of Zacharias and greeted Elizabeth. And when Elizabeth heard the greeting of Mary, the babe leaped in her womb; and Elizabeth was filled with the Holy Spirit and she exclaimed with a loud cry, \"Blessed are you among women, and blessed is the fruit of your womb! And why is this granted me, that the mother of my Lord should come to me? For behold, when the voice of your greeting came to my ears, the babe in my womb leaped for joy. And blessed is she who believed that there would be a fulfillment of what was spoken to her from the Lord.\" And Mary said, \"My soul magnifies the Lord, and my spirit has rejoiced in God my Savior, for He has regarded the humility of His handmaiden. For behold, henceforth all generations will call me blessed; for He who is mighty has done great things for me, and holy is His name.\" And Mary remained with her about three months, and returned to her home."
 
 meMA.PostGospelGlory.mode = me.m08.d15_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m08.d15_en_US_dedes.meMA.PostGospelGlory.melody
@@ -495,13 +492,11 @@ meMA.LaudsGlory.mode = me.m08.d15_en_US_dedes.meMA.LaudsGlory.mode
 meMA.LaudsGlory.melody = me.m08.d15_en_US_dedes.meMA.LaudsGlory.melody
 meMA.LaudsGlory.text = me.m08.d15_en_US_dedes.meMA.LaudsGlory.text
 
-meMA.LaudsSundayVerse1.text = me.m08.d15_en_US_dedes.meMA.LaudsSundayVerse1.text
-
-meMA.LaudsSundayVerse2.text = me.m08.d15_en_US_dedes.meMA.LaudsSundayVerse2.text
+meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
 meLI.Antiphon2.text = me.m08.d15_en_US_dedes.meLI.Antiphon2.text
 
-meLI.EntranceHymn.text = me.m08.d15_en_US_dedes.meLI.EntranceHymn.text
+meLI.MM.EntranceHymn.text = properties_en_US_public.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -515,7 +510,7 @@ meLI.TheotokosHymn.mode = me.m08.d15_en_US_dedes.meLI.TheotokosHymn.mode
 meLI.TheotokosHymnVerse.text = me.m08.d15_en_US_dedes.meLI.TheotokosHymnVerse.text
 meLI.TheotokosHymn.text = me.m08.d15_en_US_dedes.meLI.TheotokosHymn.text
 
-meLI.CommunionHymn.text = me.m08.d15_en_US_dedes.meLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
 meMegalynarion.text = me.m08.d15_en_US_dedes.meMegalynarion.text
 

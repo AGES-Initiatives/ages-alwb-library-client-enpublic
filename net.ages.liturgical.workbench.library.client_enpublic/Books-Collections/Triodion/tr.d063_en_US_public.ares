@@ -913,7 +913,7 @@ trLI.SeasonalKontakion.text = tr.d063_en_US_dedes.trLI.SeasonalKontakion.text
 trLI.TheotokosHymn.mode = tr.d063_en_US_dedes.trLI.TheotokosHymn.mode
 trLI.TheotokosHymn.text = tr.d063_en_US_dedes.trLI.TheotokosHymn.text
 
-trLI.CommunionHymn.text = tr.d063_en_US_dedes.trLI.CommunionHymn.text
+trLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
 trLI.AfterCommunion.mode = tr.d063_en_US_dedes.trLI.AfterCommunion.mode
 trLI.AfterCommunion.text = tr.d063_en_US_dedes.trLI.AfterCommunion.text

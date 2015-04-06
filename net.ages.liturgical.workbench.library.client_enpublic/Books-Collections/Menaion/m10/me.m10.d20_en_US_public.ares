@@ -281,9 +281,7 @@ meMA.ExapTheotokion.mode = me.m10.d20_en_US_dedes.meMA.ExapTheotokion.mode
 meMA.ExapTheotokion.melody = me.m10.d20_en_US_dedes.meMA.ExapTheotokion.melody
 meMA.ExapTheotokion.text = me.m10.d20_en_US_dedes.meMA.ExapTheotokion.text
 
-meMA.LaudsSundayVerse1.text = me.m10.d20_en_US_dedes.meMA.LaudsSundayVerse1.text
-
-meMA.LaudsSundayVerse2.text = me.m10.d20_en_US_dedes.meMA.LaudsSundayVerse2.text
+meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

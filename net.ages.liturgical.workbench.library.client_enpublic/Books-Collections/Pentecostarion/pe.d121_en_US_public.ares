@@ -138,7 +138,7 @@ peMA.LaudsGlory.text = pe.d121_en_US_dedes.peMA.LaudsGlory.text
 
 peLI.Antiphon2.text = pe.d121_en_US_dedes.peLI.Antiphon2.text
 
-peLI.EntranceHymn.text = pe.d121_en_US_dedes.peLI.EntranceHymn.text
+peLI.MM.EntranceHymn.text = properties_en_US_public.media.key
 
 peLI.SeasonalKontakion.mode = pe.d121_en_US_dedes.peLI.SeasonalKontakion.mode
 peLI.SeasonalKontakion.melody = pe.d121_en_US_dedes.peLI.SeasonalKontakion.melody

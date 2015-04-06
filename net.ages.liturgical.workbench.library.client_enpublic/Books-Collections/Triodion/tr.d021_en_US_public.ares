@@ -646,7 +646,7 @@ trLI.SeasonalKontakion.mode = tr.d021_en_US_dedes.trLI.SeasonalKontakion.mode
 trLI.SeasonalKontakion.melody = tr.d021_en_US_dedes.trLI.SeasonalKontakion.melody
 trLI.SeasonalKontakion.text = tr.d021_en_US_dedes.trLI.SeasonalKontakion.text
 
-trLI.CommunionHymn.text = tr.d021_en_US_dedes.trLI.CommunionHymn.text
+trLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
 trMegalynarion.text = tr.d021_en_US_dedes.trMegalynarion.text
 

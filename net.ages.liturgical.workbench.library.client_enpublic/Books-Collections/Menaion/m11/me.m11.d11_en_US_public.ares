@@ -490,8 +490,6 @@ meMA.ExapTheotokion.mode = me.m11.d11_en_US_dedes.meMA.ExapTheotokion.mode
 meMA.ExapTheotokion.melody = me.m11.d11_en_US_dedes.meMA.ExapTheotokion.melody
 meMA.ExapTheotokion.text = me.m11.d11_en_US_dedes.meMA.ExapTheotokion.text
 
-meMA.ApostichaVerse4.text = me.m11.d11_en_US_dedes.meMA.ApostichaVerse4.text
-
 meMA.Aposticha4.mode = me.m11.d11_en_US_dedes.meMA.Aposticha4.mode
 meMA.Aposticha4.melody = me.m11.d11_en_US_dedes.meMA.Aposticha4.melody
 meMA.Aposticha4.text = me.m11.d11_en_US_oca.meMA.Aposticha4.text
@@ -509,9 +507,7 @@ meMA.AposStavrotheotokion.mode = me.m11.d11_en_US_dedes.meMA.AposStavrotheotokio
 meMA.AposStavrotheotokion.melody = me.m11.d11_en_US_dedes.meMA.AposStavrotheotokion.melody
 meMA.AposStavrotheotokion.text = me.m11.d11_en_US_dedes.meMA.AposStavrotheotokion.text
 
-meMA.LaudsSundayVerse1.text = me.m11.d11_en_US_dedes.meMA.LaudsSundayVerse1.text
-
-meMA.LaudsSundayVerse2.text = me.m11.d11_en_US_dedes.meMA.LaudsSundayVerse2.text
+meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

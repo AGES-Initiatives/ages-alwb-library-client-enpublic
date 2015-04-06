@@ -21,7 +21,7 @@ trVE.Stichera02.mode = tr.d001_en_US_dedes.trVE.Stichera02.mode
 trVE.Stichera02.melody = tr.d001_en_US_dedes.trVE.Stichera02.melody
 trVE.Stichera02.text = tr.d001_en_US_dedes.trVE.Stichera02.text
 
-trVE.Stichera567.text = tr.d001_en_US_dedes.trVE.Stichera567.text
+trVE.MM.Stichera123as567.text = properties_en_US_public.media.key
 
 trVE.SticGlory.mode = tr.d001_en_US_dedes.trVE.SticGlory.mode
 trVE.SticGlory.melody = tr.d001_en_US_dedes.trVE.SticGlory.melody
@@ -391,7 +391,7 @@ trMA.Lauds4.mode = tr.d001_en_US_dedes.trMA.Lauds4.mode
 trMA.Lauds4.melody = tr.d001_en_US_dedes.trMA.Lauds4.melody
 trMA.Lauds4.text = tr.d001_en_US_dedes.trMA.Lauds4.text
 
-trMA.LaudsSundayVerse1.text = tr.d001_en_US_dedes.trMA.LaudsSundayVerse1.text // needed for media
+trMA.MM.LaudsSunday_i_12as56.text = properties_en_US_public.media.key
 
 trMA.LaudsGlory.mode = tr.d001_en_US_dedes.trMA.LaudsGlory.mode
 trMA.LaudsGlory.melody = tr.d001_en_US_dedes.trMA.LaudsGlory.melody
@@ -408,7 +408,7 @@ trLI.SeasonalKontakion.text = tr.d001_en_US_dedes.trLI.SeasonalKontakion.text
 trLI.CherubicHymn.mode = tr.d001_en_US_dedes.trLI.CherubicHymn.mode
 trLI.CherubicHymn.text = tr.d001_en_US_dedes.trLI.CherubicHymn.text
 
-trLI.CommunionHymn.text = tr.d001_en_US_dedes.trLI.CommunionHymn.text
+trLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
 trMegalynarion.text = tr.d001_en_US_dedes.trMegalynarion.text
 

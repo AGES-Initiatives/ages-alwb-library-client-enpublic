@@ -479,8 +479,7 @@ trMA.AdditionalIdiomelonBoth.text = tr.d043_en_US_dedes.trMA.AdditionalIdiomelon
 
 trLI.Antiphon2.text = tr.d043_en_US_dedes.trLI.Antiphon2.text
 
-trLI.EntranceHymn.text = tr.d043_en_US_dedes.trLI.EntranceHymn.text
-
+trLI.MM.EntranceHymn.text = properties_en_US_public.media.key
 trLI.SeasonalKontakion.mode = tr.d043_en_US_dedes.trLI.SeasonalKontakion.mode
 trLI.SeasonalKontakion.melody = tr.d043_en_US_dedes.trLI.SeasonalKontakion.melody
 trLI.SeasonalKontakion.text = tr.d043_en_US_dedes.trLI.SeasonalKontakion.text
@@ -488,7 +487,7 @@ trLI.SeasonalKontakion.text = tr.d043_en_US_dedes.trLI.SeasonalKontakion.text
 trLI.TheotokosHymn.mode = tr.d043_en_US_dedes.trLI.TheotokosHymn.mode
 trLI.TheotokosHymn.text = tr.d043_en_US_dedes.trLI.TheotokosHymn.text
 
-trLI.CommunionHymn.text = tr.d043_en_US_dedes.trLI.CommunionHymn.text
+trLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
 trLI.AfterCommunion.mode = tr.d043_en_US_dedes.trLI.AfterCommunion.mode
 trLI.AfterCommunion.text = tr.d043_en_US_dedes.trLI.AfterCommunion.text

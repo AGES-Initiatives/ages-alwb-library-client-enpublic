@@ -324,9 +324,7 @@ meMA.LaudsBoth.mode = me.m01.d07_en_US_dedes.meMA.LaudsBoth.mode
 meMA.LaudsBoth.melody = me.m01.d07_en_US_dedes.meMA.LaudsBoth.melody
 meMA.LaudsBoth.text = me.m01.d07_en_US_dedes.meMA.LaudsBoth.text
 
-meMA.LaudsSundayVerse1.text = me.m01.d07_en_US_dedes.meMA.LaudsSundayVerse1.text
-
-meMA.LaudsSundayVerse2.text = me.m01.d07_en_US_dedes.meMA.LaudsSundayVerse2.text
+meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
 meLI.Antiphon2.text = me.m01.d07_en_US_dedes.meLI.Antiphon2.text
 
@@ -342,6 +340,6 @@ meLI.TheotokosHymn.mode = me.m01.d07_en_US_dedes.meLI.TheotokosHymn.mode
 meLI.TheotokosHymnVerse.text = me.m01.d07_en_US_dedes.meLI.TheotokosHymnVerse.text
 meLI.TheotokosHymn.text = me.m01.d07_en_US_dedes.meLI.TheotokosHymn.text
 
-meLI.CommunionHymn.text = me.m01.d07_en_US_dedes.meLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
 meMegalynarion.text = me.m01.d07_en_US_dedes.meMegalynarion.text

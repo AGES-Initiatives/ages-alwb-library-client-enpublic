@@ -87,7 +87,7 @@ meMA.Kathisma32.mode = me.m01.d11_en_US_dedes.meMA.Kathisma32.mode
 meMA.Kathisma32.melody = me.m01.d11_en_US_dedes.meMA.Kathisma32.melody
 meMA.Kathisma32.text = me.m01.d11_en_US_dedes.meMA.Kathisma32.text
 
-meMA.Prokeimenon.text = me.m01.d11_en_US_dedes.meMA.Prokeimenon.text //  for media
+meMA.MM.Prokeimenon.text = properties_en_US_public.media.key
 
 meMA.PostGospelGlory.mode = me.m01.d11_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m01.d11_en_US_dedes.meMA.PostGospelGlory.melody
@@ -365,9 +365,7 @@ meMA.Lauds4.mode = me.m01.d11_en_US_dedes.meMA.Lauds4.mode
 meMA.Lauds4.melody = me.m01.d11_en_US_dedes.meMA.Lauds4.melody
 meMA.Lauds4.text = me.m01.d11_en_US_dedes.meMA.Lauds4.text
 
-meMA.LaudsSundayVerse1.text = me.m01.d11_en_US_dedes.meMA.LaudsSundayVerse1.text
-
-meMA.LaudsSundayVerse2.text = me.m01.d11_en_US_dedes.meMA.LaudsSundayVerse2.text
+meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
 meMA.LaudsGlory.poet = me.m01.d11_en_US_dedes.meMA.LaudsGlory.poet
 meMA.LaudsGlory.mode = me.m01.d11_en_US_dedes.meMA.LaudsGlory.mode
@@ -389,7 +387,7 @@ meLI.SeasonalKontakion.mode = me.m01.d11_en_US_dedes.meLI.SeasonalKontakion.mode
 meLI.SeasonalKontakion.melody = me.m01.d11_en_US_dedes.meLI.SeasonalKontakion.melody
 meLI.SeasonalKontakion.text = me.m01.d11_en_US_dedes.meLI.SeasonalKontakion.text
 
-meLI.CommunionHymn.text = me.m01.d11_en_US_dedes.meLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
 meMegalynarion.text = me.m01.d11_en_US_dedes.meMegalynarion.text
 

@@ -1,17 +1,17 @@
 A_Resource_Whose_Name = actors_en_US_public 
 
 Candidate_Sponsor = actors_en_US_dedes.Candidate_Sponsor
-Chanter    = actors_en_US_dedes.Chanter    
+Chanter   = actors_en_US_dedes.Chanter    
 ChanterOrReader = actors_en_US_dedes.ChanterOrReader
-Choir     = actors_en_US_dedes.Choir     
-ChoirL     = actors_en_US_dedes.ChoirL     
-ChoirR     = actors_en_US_dedes.ChoirR     
-Clergy     = actors_en_US_dedes.Clergy    
+Choir    = actors_en_US_dedes.Choir     
+ChoirL    = actors_en_US_dedes.ChoirL     
+ChoirR    = actors_en_US_dedes.ChoirR     
+Clergy    = actors_en_US_dedes.Clergy    
 ClergyAndPeople = actors_en_US_dedes.ClergyAndPeople
-Deacon     = actors_en_US_dedes.Deacon    
-Hierarch    = actors_en_US_dedes.Hierarch   
+Deacon    = actors_en_US_dedes.Deacon    
+Hierarch   = actors_en_US_dedes.Hierarch   
 HierarchOrPriest = actors_en_US_dedes.HierarchOrPriest
-People     = actors_en_US_dedes.People    
-Priest     = actors_en_US_dedes.Priest    
+People    = actors_en_US_dedes.People    
+Priest    = actors_en_US_dedes.Priest    
 PriestOrDeacon = actors_en_US_dedes.PriestOrDeacon
-Reader     = actors_en_US_dedes.Reader    
+Reader    = actors_en_US_dedes.Reader    

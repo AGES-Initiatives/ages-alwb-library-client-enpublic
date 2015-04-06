@@ -258,9 +258,7 @@ meMA.Exaposteilarion1.mode = me.m07.d22_en_US_dedes.meMA.Exaposteilarion1.mode
 meMA.Exaposteilarion1.melody = misc_en_US_public.NotMetered
 meMA.Exaposteilarion1.text = me.m07.d22_en_UK_lash.meMA.Exaposteilarion1.text
 
-meMA.LaudsSundayVerse1.text = me.m07.d22_en_UK_lash.meMA.LaudsSundayVerse1.text
-
-meMA.LaudsSundayVerse2.text = me.m07.d22_en_UK_lash.meMA.LaudsSundayVerse2.text
+meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = misc_en_US_public.NotMetered
@@ -270,6 +268,6 @@ meLI.SeasonalKontakion.mode = me.m07.d22_en_US_dedes.meLI.SeasonalKontakion.mode
 meLI.SeasonalKontakion.melody = misc_en_US_public.NotMetered
 meLI.SeasonalKontakion.text = me.m07.d22_en_UK_lash.meLI.SeasonalKontakion.text
 
-meLI.CommunionHymn.text = me.m07.d22_en_UK_lash.meLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
 meMegalynarion.text = me.m07.d22_en_UK_lash.meMegalynarion.text

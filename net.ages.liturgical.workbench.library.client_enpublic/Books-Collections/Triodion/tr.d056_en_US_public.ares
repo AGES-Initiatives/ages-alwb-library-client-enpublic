@@ -709,13 +709,12 @@ trMA.LaudsGlory.mode = tr.d056_en_US_dedes.trMA.LaudsGlory.mode
 trMA.LaudsGlory.melody = tr.d056_en_US_dedes.trMA.LaudsGlory.melody
 trMA.LaudsGlory.text = tr.d056_en_US_dedes.trMA.LaudsGlory.text
 
-trLI.EntranceHymn.text = tr.d056_en_US_dedes.trLI.EntranceHymn.text
-
+trLI.MM.EntranceHymn.text = properties_en_US_public.media.key
 trLI.SeasonalKontakion.mode = tr.d056_en_US_dedes.trLI.SeasonalKontakion.mode
 trLI.SeasonalKontakion.melody = tr.d056_en_US_dedes.trLI.SeasonalKontakion.melody
 trLI.SeasonalKontakion.text = tr.d056_en_US_dedes.trLI.SeasonalKontakion.text
 
-trLI.CommunionHymn.text = tr.d056_en_US_dedes.trLI.CommunionHymn.text
+trLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
 trMegalynarion.text = tr.d056_en_US_dedes.trMegalynarion.text
 

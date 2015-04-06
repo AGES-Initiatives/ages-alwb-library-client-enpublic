@@ -118,10 +118,7 @@ meMA.Kathisma3T.mode = me.m02.d19_en_US_dedes.meMA.Kathisma3T.mode
 meMA.Kathisma3T.melody = me.m02.d19_en_US_dedes.meMA.Kathisma3T.melody
 meMA.Kathisma3T.text = me.m02.d19_en_US_dedes.meMA.Kathisma3T.text
 
-meMA.Prokeimenon.text = me.m02.d19_en_US_dedes.meMA.Prokeimenon.text // for media
-//meMA.Gospel.name = "Matthew." //""
-//meMA.Gospel.chapverse = "6:19-21" //""
-//meMA.Gospel.text = "The Lord said to his disciples, \"Do not lay up for yourselves treasures on earth, where moth and rust consume and where thieves break in and steal, but lay up for yourselves treasures in heaven, where neither moth nor rust consumes and where thieves do not break in and steal. For where your treasure is, there will your heart be also.\""
+meMA.MM.Prokeimenon.text = properties_en_US_public.media.key
 
 meMA.PostGospelGlory.mode = me.m02.d19_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m02.d19_en_US_dedes.meMA.PostGospelGlory.melody
@@ -547,9 +544,7 @@ meMA.LaudsTheotokion.mode = me.m02.d19_en_US_dedes.meMA.LaudsTheotokion.mode
 meMA.LaudsTheotokion.melody = me.m02.d19_en_US_dedes.meMA.LaudsTheotokion.melody
 meMA.LaudsTheotokion.text = me.m02.d19_en_US_dedes.meMA.LaudsTheotokion.text
 
-meMA.LaudsSundayVerse1.text = me.m02.d19_en_US_dedes.meMA.LaudsSundayVerse1.text
-
-meMA.LaudsSundayVerse2.text = me.m02.d19_en_US_dedes.meMA.LaudsSundayVerse2.text
+meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -559,7 +554,7 @@ meLI.SeasonalKontakion.mode = me.m02.d19_en_US_dedes.meLI.SeasonalKontakion.mode
 meLI.SeasonalKontakion.melody = me.m02.d19_en_US_dedes.meLI.SeasonalKontakion.melody
 meLI.SeasonalKontakion.text = me.m02.d19_en_US_dedes.meLI.SeasonalKontakion.text
 
-meLI.CommunionHymn.text = me.m02.d19_en_US_dedes.meLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
 meMegalynarion.text = me.m02.d19_en_US_dedes.meMegalynarion.text
 
