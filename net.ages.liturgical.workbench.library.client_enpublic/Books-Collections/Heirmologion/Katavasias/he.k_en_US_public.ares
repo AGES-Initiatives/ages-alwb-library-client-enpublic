@@ -2,107 +2,107 @@ A_Resource_Whose_Name = he.k_en_US_public
 
 // The keys in this file replace those for odes 1 and 9 in the Katavasia templates, so that a media link for the whole set can exist apart from the actual heirmos
 
-Annunciation.title = he.k_en_US_dedes.Annunciation.title
-AnnunciationOde1345678.text = he.k_en_US_dedes.AnnunciationOde1345678.text
-AnnunciationOde9.text = he.k_en_US_dedes.AnnunciationOde9.text
+ka.MM.Annunciation.title = he.k_en_US_dedes.ka.MM.Annunciation.title
+ka.MM.AnnunciationOde1345678.text = he.k_en_US_dedes.ka.MM.AnnunciationOde1345678.text
+ka.MM.AnnunciationOde9.text = he.k_en_US_dedes.ka.MM.AnnunciationOde9.text
 
-Blindman.title = he.k_en_US_dedes.Blindman.title
-BlindmanOde1345678.text = he.k_en_US_dedes.BlindmanOde1345678.text
-BlindmanOde9.text = he.k_en_US_dedes.BlindmanOde9.text
+ka.MM.Blindman.title = he.k_en_US_dedes.ka.MM.Blindman.title
+ka.MM.BlindmanOde1345678.text = he.k_en_US_dedes.ka.MM.BlindmanOde1345678.text
+ka.MM.BlindmanOde9.text = he.k_en_US_dedes.ka.MM.BlindmanOde9.text
 
-Christmas1.title = he.k_en_US_dedes.Christmas1.title
-Christmas1Ode1345678.text = he.k_en_US_dedes.Christmas1Ode1345678.text
-Christmas1Ode9.text = he.k_en_US_dedes.Christmas1Ode9.text
+ka.MM.Christmas1.title = he.k_en_US_dedes.ka.MM.Christmas1.title
+ka.MM.Christmas1Ode1345678.text = he.k_en_US_dedes.ka.MM.Christmas1Ode1345678.text
+ka.MM.Christmas1Ode9.text = he.k_en_US_dedes.ka.MM.Christmas1Ode9.text
 
-Christmas2.title = he.k_en_US_dedes.Christmas2.title
-Christmas2Ode1345678.text = he.k_en_US_dedes.Christmas2Ode1345678.text
-Christmas2Ode9.text = he.k_en_US_dedes.Christmas2Ode9.text
+ka.MM.Christmas2.title = he.k_en_US_dedes.ka.MM.Christmas2.title
+ka.MM.Christmas2Ode1345678.text = he.k_en_US_dedes.ka.MM.Christmas2Ode1345678.text
+ka.MM.Christmas2Ode9.text = he.k_en_US_dedes.ka.MM.Christmas2Ode9.text
 
-Christmas12.title = he.k_en_US_dedes.Christmas12.title
-Christmas12Ode1345678.text = he.k_en_US_dedes.Christmas12Ode1345678.text
-Christmas12Ode9.text = he.k_en_US_dedes.Christmas12Ode9.text
+ka.MM.Christmas12.title = he.k_en_US_dedes.ka.MM.Christmas12.title
+ka.MM.Christmas12Ode1345678.text = he.k_en_US_dedes.ka.MM.Christmas12Ode1345678.text
+ka.MM.Christmas12Ode9.text = he.k_en_US_dedes.ka.MM.Christmas12Ode9.text
 
-Cross.title = he.k_en_US_dedes.Cross.title
-CrossOde1345678.text = he.k_en_US_dedes.CrossOde1345678.text
-CrossOde91.text = he.k_en_US_dedes.CrossOde91.text
-CrossOde92.text = he.k_en_US_dedes.CrossOde92.text
+ka.MM.Cross.title = he.k_en_US_dedes.ka.MM.Cross.title
+ka.MM.CrossOde1345678.text = he.k_en_US_dedes.ka.MM.CrossOde1345678.text
+ka.MM.CrossOde91.text = he.k_en_US_dedes.ka.MM.CrossOde91.text
+ka.MM.CrossOde92.text = he.k_en_US_dedes.ka.MM.CrossOde92.text
 
-Dormition.title = he.k_en_US_dedes.Dormition.title
-DormitionOde1345678.text = he.k_en_US_dedes.DormitionOde1345678.text
-DormitionOde9.text = he.k_en_US_dedes.DormitionOde9.text
+ka.MM.Dormition.title = he.k_en_US_dedes.ka.MM.Dormition.title
+ka.MM.DormitionOde1345678.text = he.k_en_US_dedes.ka.MM.DormitionOde1345678.text
+ka.MM.DormitionOde9.text = he.k_en_US_dedes.ka.MM.DormitionOde9.text
 
-Epiphany1.title = he.k_en_US_dedes.Epiphany1.title
-Epiphany1Ode1345678.text = he.k_en_US_dedes.Epiphany1Ode1345678.text
-Epiphany1Ode9.text = he.k_en_US_dedes.Epiphany1Ode9.text
+ka.MM.Epiphany1.title = he.k_en_US_dedes.ka.MM.Epiphany1.title
+ka.MM.Epiphany1Ode1345678.text = he.k_en_US_dedes.ka.MM.Epiphany1Ode1345678.text
+ka.MM.Epiphany1Ode9.text = he.k_en_US_dedes.ka.MM.Epiphany1Ode9.text
 
-Epiphany2.title = he.k_en_US_dedes.Epiphany2.title
-Epiphany2Ode1345678.text = he.k_en_US_dedes.Epiphany2Ode1345678.text
-Epiphany2Ode9.text = he.k_en_US_dedes.Epiphany2Ode9.text
+ka.MM.Epiphany2.title = he.k_en_US_dedes.ka.MM.Epiphany2.title
+ka.MM.Epiphany2Ode1345678.text = he.k_en_US_dedes.ka.MM.Epiphany2Ode1345678.text
+ka.MM.Epiphany2Ode9.text = he.k_en_US_dedes.ka.MM.Epiphany2Ode9.text
 
-Epiphany12.title = he.k_en_US_dedes.Epiphany12.title
-Epiphany12Ode1345678.text = he.k_en_US_dedes.Epiphany12Ode1345678.text
-Epiphany12Ode9.text = he.k_en_US_dedes.Epiphany12Ode9.text
+ka.MM.Epiphany12.title = he.k_en_US_dedes.ka.MM.Epiphany12.title
+ka.MM.Epiphany12Ode1345678.text = he.k_en_US_dedes.ka.MM.Epiphany12Ode1345678.text
+ka.MM.Epiphany12Ode9.text = he.k_en_US_dedes.ka.MM.Epiphany12Ode9.text
 
-Lazarus.title = he.k_en_US_dedes.Lazarus.title
-LazarusOde1345678.text = he.k_en_US_dedes.LazarusOde1345678.text
-LazarusOde9.text = he.k_en_US_dedes.LazarusOde9.text
+ka.MM.Lazarus.title = he.k_en_US_dedes.ka.MM.Lazarus.title
+ka.MM.LazarusOde1345678.text = he.k_en_US_dedes.ka.MM.LazarusOde1345678.text
+ka.MM.LazarusOde9.text = he.k_en_US_dedes.ka.MM.LazarusOde9.text
 
-Lent1.title = he.k_en_US_dedes.Lent1.title
-Lent1Ode1345678.text = he.k_en_US_dedes.Lent1Ode1345678.text
-Lent1Ode9.text = he.k_en_US_dedes.Lent1Ode9.text
+ka.MM.Lent1.title = he.k_en_US_dedes.ka.MM.Lent1.title
+ka.MM.Lent1Ode1345678.text = he.k_en_US_dedes.ka.MM.Lent1Ode1345678.text
+ka.MM.Lent1Ode9.text = he.k_en_US_dedes.ka.MM.Lent1Ode9.text
 
-Lent3.title = he.k_en_US_dedes.Lent3.title
-Lent3Ode1345678.text = he.k_en_US_dedes.Lent3Ode1345678.text
-Lent3Ode9.text = he.k_en_US_dedes.Lent3Ode9.text
+ka.MM.Lent3.title = he.k_en_US_dedes.ka.MM.Lent3.title
+ka.MM.Lent3Ode1345678.text = he.k_en_US_dedes.ka.MM.Lent3Ode1345678.text
+ka.MM.Lent3Ode9.text = he.k_en_US_dedes.ka.MM.Lent3Ode9.text
 
-Meeting.title = he.k_en_US_dedes.Meeting.title
-MeetingOde1345678.text = he.k_en_US_dedes.MeetingOde1345678.text
-MeetingOde9.text = he.k_en_US_dedes.MeetingOde9.text
+ka.MM.Meeting.title = he.k_en_US_dedes.ka.MM.Meeting.title
+ka.MM.MeetingOde1345678.text = he.k_en_US_dedes.ka.MM.MeetingOde1345678.text
+ka.MM.MeetingOde9.text = he.k_en_US_dedes.ka.MM.MeetingOde9.text
 
-MidPentecost.title = he.k_en_US_dedes.MidPentecost.title
-MidPentecostOde1345678.text = he.k_en_US_dedes.MidPentecostOde1345678.text
-MidPentecostOde9.text = he.k_en_US_dedes.MidPentecostOde9.text
+ka.MM.MidPentecost.title = he.k_en_US_dedes.ka.MM.MidPentecost.title
+ka.MM.MidPentecostOde1345678.text = he.k_en_US_dedes.ka.MM.MidPentecostOde1345678.text
+ka.MM.MidPentecostOde9.text = he.k_en_US_dedes.ka.MM.MidPentecostOde9.text
 
-PalmSunday.title = he.k_en_US_dedes.PalmSunday.title
-PalmSundayOde1345678.text = he.k_en_US_dedes.PalmSundayOde1345678.text
-PalmSundayOde9.text = he.k_en_US_dedes.PalmSundayOde9.text
+ka.MM.PalmSunday.title = he.k_en_US_dedes.ka.MM.PalmSunday.title
+ka.MM.PalmSundayOde1345678.text = he.k_en_US_dedes.ka.MM.PalmSundayOde1345678.text
+ka.MM.PalmSundayOde9.text = he.k_en_US_dedes.ka.MM.PalmSundayOde9.text
 
-Pascha.title = he.k_en_US_dedes.Pascha.title
-PaschaOde1345678.text = he.k_en_US_dedes.PaschaOde1345678.text
-PaschaOde9.text = he.k_en_US_dedes.PaschaOde9.text
+ka.MM.Pascha.title = he.k_en_US_dedes.ka.MM.Pascha.title
+ka.MM.PaschaOde1345678.text = he.k_en_US_dedes.ka.MM.PaschaOde1345678.text
+ka.MM.PaschaOde9.text = he.k_en_US_dedes.ka.MM.PaschaOde9.text
 
-Pentecost12.title = he.k_en_US_dedes.Pentecost12.title
-Pentecost12Ode1345678.text = he.k_en_US_dedes.Pentecost12Ode1345678.text
-Pentecost12Ode9.text = he.k_en_US_dedes.Pentecost12Ode9.text
+ka.MM.Pentecost12.title = he.k_en_US_dedes.ka.MM.Pentecost12.title
+ka.MM.Pentecost12Ode1345678.text = he.k_en_US_dedes.ka.MM.Pentecost12Ode1345678.text
+ka.MM.Pentecost12Ode9.text = he.k_en_US_dedes.ka.MM.Pentecost12Ode9.text
 
-Pentecost2.title = he.k_en_US_dedes.Pentecost2.title
-Pentecost2Ode1345678.text = he.k_en_US_dedes.Pentecost2Ode1345678.text
-Pentecost2Ode9.text = he.k_en_US_dedes.Pentecost2Ode9.text
+ka.MM.Pentecost2.title = he.k_en_US_dedes.ka.MM.Pentecost2.title
+ka.MM.Pentecost2Ode1345678.text = he.k_en_US_dedes.ka.MM.Pentecost2Ode1345678.text
+ka.MM.Pentecost2Ode9.text = he.k_en_US_dedes.ka.MM.Pentecost2Ode9.text
 
-Summer.title = he.k_en_US_dedes.Summer.title
-SummerOde1345678.text = he.k_en_US_dedes.SummerOde1345678.text
-SummerOde9.text = he.k_en_US_dedes.SummerOde9.text
+ka.MM.Summer.title = he.k_en_US_dedes.ka.MM.Summer.title
+ka.MM.SummerOde1345678.text = he.k_en_US_dedes.ka.MM.SummerOde1345678.text
+ka.MM.SummerOde9.text = he.k_en_US_dedes.ka.MM.SummerOde9.text
 
-Theotokos.title = he.k_en_US_dedes.Theotokos.title
-TheotokosOde1345678.text = he.k_en_US_dedes.TheotokosOde1345678.text
-TheotokosOde9.text = he.k_en_US_dedes.TheotokosOde9.text
+ka.MM.Theotokos.title = he.k_en_US_dedes.ka.MM.Theotokos.title
+ka.MM.TheotokosOde1345678.text = he.k_en_US_dedes.ka.MM.TheotokosOde1345678.text
+ka.MM.TheotokosOde9.text = he.k_en_US_dedes.ka.MM.TheotokosOde9.text
 
-TheotokosDormition.title = he.k_en_US_dedes.TheotokosDormition.title
-TheotokosDormitionOde1345678.text = he.k_en_US_dedes.TheotokosDormitionOde1345678.text
-TheotokosDormitionOde9.text = he.k_en_US_dedes.TheotokosDormitionOde9.text
+ka.MM.TheotokosDormition.title = he.k_en_US_dedes.ka.MM.TheotokosDormition.title
+ka.MM.TheotokosDormitionOde1345678.text = he.k_en_US_dedes.ka.MM.TheotokosDormitionOde1345678.text
+ka.MM.TheotokosDormitionOde9.text = he.k_en_US_dedes.ka.MM.TheotokosDormitionOde9.text
 
-TheotokosEntry.title = he.k_en_US_dedes.TheotokosEntry.title
-TheotokosEntryOde1345678.text = he.k_en_US_dedes.TheotokosEntryOde1345678.text
-TheotokosEntryOde9.text = he.k_en_US_dedes.TheotokosEntryOde9.text
+ka.MM.TheotokosEntry.title = he.k_en_US_dedes.ka.MM.TheotokosEntry.title
+ka.MM.TheotokosEntryOde1345678.text = he.k_en_US_dedes.ka.MM.TheotokosEntryOde1345678.text
+ka.MM.TheotokosEntryOde9.text = he.k_en_US_dedes.ka.MM.TheotokosEntryOde9.text
 
-Triodion14.title = he.k_en_US_dedes.Triodion14.title
-Triodion14Ode1345678.text = he.k_en_US_dedes.Triodion14Ode1345678.text
-Triodion14Ode9.text = he.k_en_US_dedes.Triodion14Ode9.text
+ka.MM.Triodion14.title = he.k_en_US_dedes.ka.MM.Triodion14.title
+ka.MM.Triodion14Ode1345678.text = he.k_en_US_dedes.ka.MM.Triodion14Ode1345678.text
+ka.MM.Triodion14Ode9.text = he.k_en_US_dedes.ka.MM.Triodion14Ode9.text
 
-Triodion2.title = he.k_en_US_dedes.Triodion2.title
-Triodion2Ode1345678.text = he.k_en_US_dedes.Triodion2Ode1345678.text
-Triodion2Ode9.text = he.k_en_US_dedes.Triodion2Ode9.text
+ka.MM.Triodion2.title = he.k_en_US_dedes.ka.MM.Triodion2.title
+ka.MM.Triodion2Ode1345678.text = he.k_en_US_dedes.ka.MM.Triodion2Ode1345678.text
+ka.MM.Triodion2Ode9.text = he.k_en_US_dedes.ka.MM.Triodion2Ode9.text
 
-Triodion3.title = he.k_en_US_dedes.Triodion3.title
-Triodion3Ode1345678.text = he.k_en_US_dedes.Triodion3Ode1345678.text
-Triodion3Ode9.text = he.k_en_US_dedes.Triodion3Ode9.text
+ka.MM.Triodion3.title = he.k_en_US_dedes.ka.MM.Triodion3.title
+ka.MM.Triodion3Ode1345678.text = he.k_en_US_dedes.ka.MM.Triodion3Ode1345678.text
+ka.MM.Triodion3Ode9.text = he.k_en_US_dedes.ka.MM.Triodion3Ode9.text
