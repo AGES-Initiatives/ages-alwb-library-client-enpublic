@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = eu.funeral_en_US_public 
 
-euFUN.title = eu.funeral_en_US_dedes.euFUN.title
+euFUN.title = eu.funeral_en_US_holycross.euFUN.title
+euFUN.brightweek.title = eu.funeral_en_US_holycross.euFUN.brightweek.title
 euFUN.translator = ""
 
 euFUN.Key0100.title = eu.funeral_en_US_dedes.euFUN.Key0100.title
@@ -97,6 +98,8 @@ euFUN.Key0908.text = eu.funeral_en_US_dedes.euFUN.Key0908.text
 
 euFUN.EpistleProkeimenon.text = eu.funeral_en_US_dedes.euFUN.EpistleProkeimenon.text
 
+euFUN.brightweek.R091 = eu.funeral_en_US_holycross.euFUN.brightweek.R091
+
 euFUN.Key1000.title = eu.funeral_en_US_holycross.euFUN.Key1000.title
 euFUN.Key1001.title = eu.funeral_en_US_holycross.euFUN.Key1001.title
 euFUN.Key1002.text = eu.funeral_en_US_holycross.euFUN.Key1002.text
@@ -122,6 +125,9 @@ euFUN.Key1104.text = eu.funeral_en_US_dedes.euFUN.Key1104.text
 euFUN.Key1105.mode = eu.funeral_en_US_dedes.euFUN.Key1105.mode
 euFUN.Key1105.melody = eu.funeral_en_US_dedes.euFUN.Key1105.melody
 euFUN.Key1105.text = eu.funeral_en_US_dedes.euFUN.Key1105.text
+
+euFUN.brightweek.R111= eu.funeral_en_US_dedes.euFUN.brightweek.R111
+euFUN.brightweek.R112= eu.funeral_en_US_dedes.euFUN.brightweek.R112
 
 euFUN.Key1200.title = eu.funeral_en_US_dedes.euFUN.Key1200.title
 
