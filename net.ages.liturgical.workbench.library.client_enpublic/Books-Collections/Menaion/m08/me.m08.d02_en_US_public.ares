@@ -48,7 +48,7 @@ meVE.SticTheotokion.text = me.m08.d02_en_US_dedes.meVE.SticTheotokion.text
 
 meVE.AposGlory.mode = me.m08.d02_en_US_dedes.meVE.AposGlory.mode
 meVE.AposGlory.melody = me.m08.d02_en_US_dedes.meVE.AposGlory.melody
-meVE.AposGlory.text = me.m08.d02_en_US_dedes.meVE.AposGlory.text
+meVE.AposGlory.text = me.m08.d02_en_US_oca.meVE.AposGlory.text
 
 meVE.AposTheotokion.mode = me.m08.d02_en_US_dedes.meVE.AposTheotokion.mode
 meVE.AposTheotokion.melody = me.m08.d02_en_US_dedes.meVE.AposTheotokion.melody
@@ -195,8 +195,8 @@ meMA.Ode6H.melody = me.m08.d02_en_US_dedes.meMA.Ode6H.melody
 meMA.Ode6H.text = me.m08.d02_en_US_dedes.meMA.Ode6H.text
 
 meMA.Kontakion1.mode = me.m08.d02_en_US_dedes.meMA.Kontakion1.mode
-meMA.Kontakion1.melody = me.m08.d02_en_US_dedes.meMA.Kontakion1.melody
-meMA.Kontakion1.text = me.m08.d02_en_US_dedes.meMA.Kontakion1.text
+meMA.Kontakion1.melody = misc_en_US_public.NotMetered
+meMA.Kontakion1.text = me.m08.d02_en_US_oca.meMA.Kontakion1.text
 
 meMA.Oikos1.text = me.m08.d02_en_US_dedes.meMA.Oikos1.text
 
@@ -314,7 +314,7 @@ meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
 meMA.AposGlory.mode = me.m08.d02_en_US_dedes.meMA.AposGlory.mode
 meMA.AposGlory.melody = me.m08.d02_en_US_dedes.meMA.AposGlory.melody
-meMA.AposGlory.text = me.m08.d02_en_US_dedes.meMA.AposGlory.text
+meMA.AposGlory.text = me.m08.d02_en_US_oca.meMA.AposGlory.text
 
 meMA.AposTheotokion.mode = me.m08.d02_en_US_dedes.meMA.AposTheotokion.mode
 meMA.AposTheotokion.melody = me.m08.d02_en_US_dedes.meMA.AposTheotokion.melody
