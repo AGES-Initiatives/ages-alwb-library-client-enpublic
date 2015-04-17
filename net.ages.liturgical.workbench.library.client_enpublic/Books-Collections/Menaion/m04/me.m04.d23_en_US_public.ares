@@ -71,7 +71,7 @@ meVE.Stichera06.mode = me.m04.d23_en_US_dedes.meVE.Stichera06.mode
 meVE.Stichera06.melody = me.m04.d23_en_US_dedes.meVE.Stichera06.melody
 meVE.Stichera06.text = me.m04.d23_en_US_dedes.meVE.Stichera06.text
 
-meVE.Stichera5678.text = me.m04.d23_en_US_dedes.meVE.Stichera5678.text //  for media bright week
+meVE.MM.Stichera1234as5678.text = me.m04.d23_en_US_dedes.meVE.MM.Stichera1234as5678.text
 
 meVE.SticGlory.mode = me.m04.d23_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m04.d23_en_US_dedes.meVE.SticGlory.melody
@@ -534,14 +534,12 @@ meMA.Lauds4.mode = me.m04.d23_en_US_dedes.meMA.Lauds4.mode
 meMA.Lauds4.melody = me.m04.d23_en_US_dedes.meMA.Lauds4.melody
 meMA.Lauds4.text = me.m04.d23_en_US_dedes.meMA.Lauds4.text
 
-meMA.Lauds5678.text = me.m04.d23_en_US_dedes.meMA.Lauds5678.text //  for media in bright week
+meMA.MM.Lauds1234as5678.text = me.m04.d23_en_US_dedes.meMA.MM.Lauds1234as5678.text
 
 meMA.LaudsGlory.poet = me.m04.d23_en_US_dedes.meMA.LaudsGlory.poet
 meMA.LaudsGlory.mode = me.m04.d23_en_US_dedes.meMA.LaudsGlory.mode
 meMA.LaudsGlory.melody = me.m04.d23_en_US_dedes.meMA.LaudsGlory.melody
 meMA.LaudsGlory.text = me.m04.d23_en_US_dedes.meMA.LaudsGlory.text
-
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

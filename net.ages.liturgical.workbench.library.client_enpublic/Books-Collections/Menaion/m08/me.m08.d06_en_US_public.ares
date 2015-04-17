@@ -64,7 +64,7 @@ meVE.Stichera04.mode = me.m08.d06_en_US_dedes.meVE.Stichera04.mode
 meVE.Stichera04.melody = me.m08.d06_en_US_dedes.meVE.Stichera04.melody
 meVE.Stichera04.text = me.m08.d06_en_US_dedes.meVE.Stichera04.text
 
-meVE.Stichera78910.text = me.m08.d06_en_US_dedes.meVE.Stichera78910.text //  for media stichera78910 on Sunday after feast
+meVE.MM.Stichera1234as78910.text = me.m08.d06_en_US_dedes.meVE.MM.Stichera1234as78910.text
 
 meVE.SticGlory.poet = me.m08.d06_en_US_dedes.meVE.SticGlory.poet
 meVE.SticGlory.mode = me.m08.d06_en_US_dedes.meVE.SticGlory.mode
