@@ -244,3 +244,6 @@ pa.agape = template.titles_en_US_dedes.pa.agape
 pa.brightweek = template.titles_en_US_dedes.pa.brightweek
 pa.ofbrightweek = template.titles_en_US_dedes.pa.ofbrightweek
 
+clps.stichologia.top = template.titles_en_US_dedes.clps.stichologia.top
+clps.stichologia.bottom = template.titles_en_US_dedes.clps.stichologia.bottom
+
