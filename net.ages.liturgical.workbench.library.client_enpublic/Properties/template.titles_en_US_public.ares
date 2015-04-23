@@ -246,4 +246,6 @@ pa.ofbrightweek = template.titles_en_US_dedes.pa.ofbrightweek
 
 clps.stichologia.top = template.titles_en_US_dedes.clps.stichologia.top
 clps.stichologia.bottom = template.titles_en_US_dedes.clps.stichologia.bottom
+clps.alternative.top = template.titles_en_US_dedes.clps.alternative.top
+clps.alternative.bottom = template.titles_en_US_dedes.clps.alternative.bottom
 
