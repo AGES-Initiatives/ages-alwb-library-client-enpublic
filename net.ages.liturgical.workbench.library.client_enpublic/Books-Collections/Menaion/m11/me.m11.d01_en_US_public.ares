@@ -23,42 +23,42 @@ meVE.Stichera01.text = me.m11.d01_en_US_dedes.meVE.Stichera01.text
 
 meVE.Stichera02.mode = me.m11.d01_en_US_dedes.meVE.Stichera02.mode
 meVE.Stichera02.melody = me.m11.d01_en_US_dedes.meVE.Stichera02.melody
-meVE.Stichera02.text = me.m11.d01_en_US_dedes.meVE.Stichera02.text
+meVE.Stichera02.text = me.m11.d01_en_UK_lash.meVE.Stichera02.text
 
 meVE.Stichera03.mode = me.m11.d01_en_US_dedes.meVE.Stichera03.mode
 meVE.Stichera03.melody = me.m11.d01_en_US_dedes.meVE.Stichera03.melody
-meVE.Stichera03.text = me.m11.d01_en_US_dedes.meVE.Stichera03.text
+meVE.Stichera03.text = me.m11.d01_en_UK_lash.meVE.Stichera03.text
 
 meVE.SticGlory.poet = me.m11.d01_en_US_dedes.meVE.SticGlory.poet
 meVE.SticGlory.mode = me.m11.d01_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m11.d01_en_US_dedes.meVE.SticGlory.melody
-meVE.SticGlory.text = me.m11.d01_en_US_dedes.meVE.SticGlory.text
+meVE.SticGlory.text = me.m11.d01_en_UK_lash.meVE.SticGlory.text
 
 meVE.SticTheotokion.mode = me.m11.d01_en_US_dedes.meVE.SticTheotokion.mode
 meVE.SticTheotokion.melody = me.m11.d01_en_US_dedes.meVE.SticTheotokion.melody
-meVE.SticTheotokion.text = me.m11.d01_en_US_dedes.meVE.SticTheotokion.text
+meVE.SticTheotokion.text = me.m11.d01_en_UK_lash.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = me.m11.d01_en_US_dedes.meVE.SticStavrotheotokion.mode
 meVE.SticStavrotheotokion.melody = me.m11.d01_en_US_dedes.meVE.SticStavrotheotokion.melody
-meVE.SticStavrotheotokion.text = me.m11.d01_en_US_dedes.meVE.SticStavrotheotokion.text
+meVE.SticStavrotheotokion.text = me.m11.d01_en_UK_lash.meVE.SticStavrotheotokion.text
 
 meVE.Aposticha1.mode = me.m11.d01_en_US_dedes.meVE.Aposticha1.mode
 meVE.Aposticha1.melody = me.m11.d01_en_US_dedes.meVE.Aposticha1.melody
-meVE.Aposticha1.text = me.m11.d01_en_US_dedes.meVE.Aposticha1.text
+meVE.Aposticha1.text = me.m11.d01_en_UK_lash.meVE.Aposticha1.text
 
 meVE.Aposticha2.poet = me.m11.d01_en_US_dedes.meVE.Aposticha2.poet
 meVE.Aposticha2.mode = me.m11.d01_en_US_dedes.meVE.Aposticha2.mode
 meVE.Aposticha2.melody = me.m11.d01_en_US_dedes.meVE.Aposticha2.melody
-meVE.Aposticha2.text = me.m11.d01_en_US_dedes.meVE.Aposticha2.text
+meVE.Aposticha2.text = me.m11.d01_en_UK_lash.meVE.Aposticha2.text
 
 meVE.Aposticha3.poet = me.m11.d01_en_US_dedes.meVE.Aposticha3.poet
 meVE.Aposticha3.mode = me.m11.d01_en_US_dedes.meVE.Aposticha3.mode
 meVE.Aposticha3.melody = me.m11.d01_en_US_dedes.meVE.Aposticha3.melody
-meVE.Aposticha3.text = me.m11.d01_en_US_dedes.meVE.Aposticha3.text
+meVE.Aposticha3.text = me.m11.d01_en_UK_lash.meVE.Aposticha3.text
 
 meVE.AposGlory.mode = me.m11.d01_en_US_dedes.meVE.AposGlory.mode
 meVE.AposGlory.melody = me.m11.d01_en_US_dedes.meVE.AposGlory.melody
-meVE.AposGlory.text = me.m11.d01_en_US_dedes.meVE.AposGlory.text
+meVE.AposGlory.text = me.m11.d01_en_UK_lash.meVE.AposGlory.text
 
 meVE.AposTheotokion.mode = me.m11.d01_en_US_dedes.meVE.AposTheotokion.mode
 meVE.AposTheotokion.melody = me.m11.d01_en_US_dedes.meVE.AposTheotokion.melody
@@ -66,7 +66,7 @@ meVE.AposTheotokion.text = me.m11.d01_en_US_dedes.meVE.AposTheotokion.text
 
 meVE.AposStavrotheotokion.mode = me.m11.d01_en_US_dedes.meVE.AposStavrotheotokion.mode
 meVE.AposStavrotheotokion.melody = me.m11.d01_en_US_dedes.meVE.AposStavrotheotokion.melody
-meVE.AposStavrotheotokion.text = me.m11.d01_en_US_dedes.meVE.AposStavrotheotokion.text
+meVE.AposStavrotheotokion.text = me.m11.d01_en_UK_lash.meVE.AposStavrotheotokion.text
 
 meVE.Apolytikion1.mode = me.m11.d01_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m11.d01_en_US_dedes.meVE.Apolytikion1.melody

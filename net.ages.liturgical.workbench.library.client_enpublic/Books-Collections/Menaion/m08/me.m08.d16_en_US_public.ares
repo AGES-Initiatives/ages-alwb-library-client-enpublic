@@ -413,8 +413,8 @@ meMA.Ode9H.melody = me.m08.d16_en_US_dedes.meMA.Ode9H.melody
 meMA.Ode9H.text = me.m08.d16_en_US_dedes.meMA.Ode9H.text
 
 meMA.Exaposteilarion1.mode = me.m08.d16_en_US_dedes.meMA.Exaposteilarion1.mode
-meMA.Exaposteilarion1.melody = me.m08.d16_en_US_dedes.meMA.Exaposteilarion1.melody
-meMA.Exaposteilarion1.text = me.m08.d16_en_US_dedes.meMA.Exaposteilarion1.text
+meMA.Exaposteilarion1.melody = misc_en_US_public.NotMetered
+meMA.Exaposteilarion1.text = me.m08.d16_en_US_repass.meMA.Exaposteilarion1.text
 
 meMA.Exaposteilarion2.mode = me.m08.d16_en_US_dedes.meMA.Exaposteilarion2.mode
 meMA.Exaposteilarion2.melody = me.m08.d16_en_US_dedes.meMA.Exaposteilarion2.melody
