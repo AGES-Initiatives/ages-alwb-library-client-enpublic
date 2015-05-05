@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = prayers_en_US_public
+A_Resource_Whose_Name = prayers_en_US_public 
 
 Doxa = prayers_en_US_holycross.Doxa
 
@@ -36,8 +36,6 @@ DoxaSoiOTheos1 = prayers_en_US_holycross.DoxaSoiOTheos1
 
 DoxaSoiOTheosImon.text = prayers_en_US_holycross.DoxaSoiOTheosImon.text
 
-DoxaTiAgiaAnastasei.text = prayers_en_US_holycross.DoxaTiAgiaAnastasei.text
-
 DoxaTiMakrothymia.text = prayers_en_US_holycross.DoxaTiMakrothymia.text
 
 DoxaTiMakrothymiaP.text = prayers_en_US_holycross.DoxaTiMakrothymiaP.text
@@ -58,7 +56,7 @@ Kelefson = prayers_en_US_holycross.Kelefson
 
 KelefsonDespota = prayers_en_US_holycross.KelefsonDespota
 
-KelefsonDespotaAgie = prayers_en_US_dedes.KelefsonDespotaAgie
+KelefsonDespotaAgie = prayers_en_US_holycross.KelefsonDespotaAgie
 
 OTheosOiktirisai.text = prayers_en_US_holycross.OTheosOiktirisai.text
 
@@ -71,16 +69,6 @@ EvlogisonP = prayers_en_US_holycross.EvlogisonP
 EnOnomatiKyriou.text = prayers_en_US_holycross.EnOnomatiKyriou.text
 
 EvlogisonThymiama.text = prayers_en_US_holycross.EvlogisonThymiama.text
-
-AgieTouTheou.text = prayers_en_US_holycross.AgieTouTheou.text
-
-AgiaTouTheou.text = prayers_en_US_holycross.AgiaTouTheou.text
-
-AgioiTouTheou.text = prayers_en_US_holycross.AgioiTouTheou.text
-
-ApostoleTouChristou.text = prayers_en_US_holycross.ApostoleTouChristou.text
-
-OsiaTouTheou.text = prayers_en_US_holycross.OsiaTouTheou.text
 
 EleisonMeOTheos.text = prayers_en_US_holycross.EleisonMeOTheos.text
 
@@ -121,7 +109,7 @@ SoulSaturday.text = prayers_en_US_holycross.SoulSaturday.text
 
 Thymiama.text = prayers_en_US_holycross.Thymiama.text
 
-TinTimioteran.text = prayers_en_US_dedes.TinTimioteran.text
+TinTimioteran.text = prayers_en_US_holycross.TinTimioteran.text
 
 VasilefOuranie.text = prayers_en_US_holycross.VasilefOuranie.text
 
@@ -629,54 +617,76 @@ gos03b = prayers_en_US_holycross.gos03b
 
 gos04 = prayers_en_US_holycross.gos04
 
-verse_Angels.text = prayers_en_US_dedes.verse_Angels.text
+verse_Angels.text = prayers_en_US_holycross.verse_Angels.text
 
-verseP_Angels.text = prayers_en_US_dedes.verseP_Angels.text
+verseP_Angels.text = prayers_en_US_holycross.verseP_Angels.text
 
-verse_ApostlesMartyrs.text = prayers_en_US_dedes.verse_ApostlesMartyrs.text
+verse_Apostle.text = prayers_en_US_holycross.verse_Apostle.text
 
-verseP_ApostlesMartyrs.text = prayers_en_US_dedes.verseP_ApostlesMartyrs.text
+verse_Apostles.text = prayers_en_US_holycross.verse_Apostles.text
 
-verse_Baptist.text = prayers_en_US_dedes.verse_Baptist.text
+verse_ApostlesMartyrs.text = prayers_en_US_holycross.verse_ApostlesMartyrs.text
 
-verseP_Baptist.text = prayers_en_US_dedes.verseP_Baptist.text
+verseP_ApostlesMartyrs.text = prayers_en_US_holycross.verseP_ApostlesMartyrs.text
 
-verse_Cross.text = prayers_en_US_dedes.verse_Cross.text
+verse_Baptist.text = prayers_en_US_holycross.verse_Baptist.text
 
-verseP_Cross.text = prayers_en_US_dedes.verseP_Cross.text
+verseP_Baptist.text = prayers_en_US_holycross.verseP_Baptist.text
 
-verse_GreatMartyrs.text = prayers_en_US_dedes.verse_GreatMartyrs.text
+verse_Cross.text = prayers_en_US_holycross.verse_Cross.text
 
-verseP_GreatMartyrs.text = prayers_en_US_dedes.verseP_GreatMartyrs.text
+verseP_Cross.text = prayers_en_US_holycross.verseP_Cross.text
 
-verse_Hierarchs.text = prayers_en_US_dedes.verse_Hierarchs.text
+verse_Crucifixion.text = prayers_en_US_holycross.verse_Crucifixion.text
 
-verseP_Hierarchs.text = prayers_en_US_dedes.verseP_Hierarchs.text
+verse_DevoutMan.text = prayers_en_US_holycross.verse_DevoutMan.text
 
-verse_Nicholas.text = prayers_en_US_dedes.verse_Nicholas.text
+verse_DevoutMen.text = prayers_en_US_holycross.verse_DevoutMen.text
 
-verseP_Nicholas.text = prayers_en_US_dedes.verseP_Nicholas.text
+verse_DevoutWoman.text = prayers_en_US_holycross.verse_DevoutWoman.text
 
-verse_Panteleimon.text = prayers_en_US_dedes.verse_Panteleimon.text
+verse_God.text = prayers_en_US_holycross.verse_God.text
 
-verseP_Panteleimon.text = prayers_en_US_dedes.verseP_Panteleimon.text
+verse_GreatMartyrs.text = prayers_en_US_holycross.verse_GreatMartyrs.text
 
-verse_Righteous.text = prayers_en_US_dedes.verse_Righteous.text
+verseP_GreatMartyrs.text = prayers_en_US_holycross.verseP_GreatMartyrs.text
 
-verseP_Righteous.text = prayers_en_US_dedes.verseP_Righteous.text
+verse_Hierarchs.text = prayers_en_US_holycross.verse_Hierarchs.text
 
-verse_SoulSaturday.text = prayers_en_US_dedes.verse_SoulSaturday.text
+verseP_Hierarchs.text = prayers_en_US_holycross.verseP_Hierarchs.text
 
-verseP_SoulSaturday.text = prayers_en_US_dedes.verseP_SoulSaturday.text
+verse_Nicholas.text = prayers_en_US_holycross.verse_Nicholas.text
 
-verse_Theotokos.text = prayers_en_US_dedes.verse_Theotokos.text
+verseP_Nicholas.text = prayers_en_US_holycross.verseP_Nicholas.text
 
-verseP_Theotokos.text = prayers_en_US_dedes.verseP_Theotokos.text
+verse_Panteleimon.text = prayers_en_US_holycross.verse_Panteleimon.text
 
-verse_Trinity.text = prayers_en_US_dedes.verse_Trinity.text
+verseP_Panteleimon.text = prayers_en_US_holycross.verseP_Panteleimon.text
 
-verseP_Trinity.text = prayers_en_US_dedes.verseP_Trinity.text
+verse_Resurrection.text = prayers_en_US_holycross.verse_Resurrection.text
 
-verse_Unmercenaries.text = prayers_en_US_dedes.verse_Unmercenaries.text
+verse_Righteous.text = prayers_en_US_holycross.verse_Righteous.text
 
-verseP_Unmercenaries.text = prayers_en_US_dedes.verseP_Unmercenaries.text
+verseP_Righteous.text = prayers_en_US_holycross.verseP_Righteous.text
+
+verse_SaintM.text = prayers_en_US_holycross.verse_SaintM.text
+
+verse_SaintW.text = prayers_en_US_holycross.verse_SaintW.text
+
+verse_SaintsM.text = prayers_en_US_holycross.verse_SaintsM.text
+
+verse_SoulSaturday.text = prayers_en_US_holycross.verse_SoulSaturday.text
+
+verseP_SoulSaturday.text = prayers_en_US_holycross.verseP_SoulSaturday.text
+
+verse_Theotokos.text = prayers_en_US_holycross.verse_Theotokos.text
+
+verseP_Theotokos.text = prayers_en_US_holycross.verseP_Theotokos.text
+
+verse_Trinity.text = prayers_en_US_holycross.verse_Trinity.text
+
+verseP_Trinity.text = prayers_en_US_holycross.verseP_Trinity.text
+
+verse_Unmercenaries.text = prayers_en_US_holycross.verse_Unmercenaries.text
+
+verseP_Unmercenaries.text = prayers_en_US_holycross.verseP_Unmercenaries.text
