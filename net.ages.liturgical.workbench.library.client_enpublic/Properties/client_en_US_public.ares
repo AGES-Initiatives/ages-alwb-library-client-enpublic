@@ -6,10 +6,10 @@ cl.city = ""
 cl.state = ""
 cl.zipcode = ""
 
-cl.bishop0.rank = "" //the superior of the local hierarch
-cl.bishop0.name_c = "" //comma
-cl.bishop0.name_p = "" //period
-cl.bishop0.fimi.text = ""
+cl.bishop0.rank = "(episcopal rank)" //the superior of the local hierarch
+cl.bishop0.name_c = "(name)," //comma
+cl.bishop0.name_p = "(name)." //period
+cl.bishop0.fimi.text = "(The text of the appropriate episcopal anthem goes here.)"
 
 cl.bishop1.rank = "(episcopal rank)"
 cl.bishop1.name_c = "(name)," //comma
