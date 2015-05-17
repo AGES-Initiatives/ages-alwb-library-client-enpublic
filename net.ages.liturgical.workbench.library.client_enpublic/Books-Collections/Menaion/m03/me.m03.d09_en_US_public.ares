@@ -29,6 +29,11 @@ meVE.Stichera03.mode = me.m03.d09_en_US_dedes.meVE.Stichera03.mode
 meVE.Stichera03.melody = me.m03.d09_en_US_dedes.meVE.Stichera03.melody
 meVE.Stichera03.text = me.m03.d09_en_US_dedes.meVE.Stichera03.text
 
+meVE.SticGlory.poet = me.m03.d09_en_US_dedes.meVE.SticGlory.poet
+meVE.SticGlory.mode = me.m03.d09_en_US_dedes.meVE.SticGlory.mode
+meVE.SticGlory.melody = me.m03.d09_en_US_dedes.meVE.SticGlory.melody
+meVE.SticGlory.text = me.m03.d09_en_US_dedes.meVE.SticGlory.text
+
 meVE.SticTheotokion.mode = me.m03.d09_en_US_dedes.meVE.SticTheotokion.mode
 meVE.SticTheotokion.melody = me.m03.d09_en_US_dedes.meVE.SticTheotokion.melody
 meVE.SticTheotokion.text = me.m03.d09_en_US_dedes.meVE.SticTheotokion.text
