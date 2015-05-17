@@ -525,11 +525,11 @@ octrVE.Stichera2.text = oc.m2.d2_en_US_dedes.octrVE.Stichera2.text
 
 octrVE.Stichera3.mode = oc.m2.d2_en_US_dedes.octrVE.Stichera3.mode
 octrVE.Stichera3.melody = oc.m2.d2_en_US_dedes.octrVE.Stichera3.melody
-octrVE.Stichera3.text = oc.m2.d2_en_US_dedes.octrVE.Stichera3.text
+octrVE.Stichera3.text = oc.m2.d2_en_UK_lash.octrVE.Stichera3.text
 
 octrVE.Stichera4.mode = oc.m2.d2_en_US_dedes.octrVE.Stichera4.mode
 octrVE.Stichera4.melody = oc.m2.d2_en_US_dedes.octrVE.Stichera4.melody
-octrVE.Stichera4.text = oc.m2.d2_en_US_dedes.octrVE.Stichera4.text
+octrVE.Stichera4.text = oc.m2.d2_en_UK_lash.octrVE.Stichera4.text
 
 octrMA.Triadic1.mode = oc.m2.d2_en_US_dedes.octrMA.Triadic1.mode
 octrMA.Triadic1.text = oc.m2.d2_en_US_dedes.octrMA.Triadic1.text
