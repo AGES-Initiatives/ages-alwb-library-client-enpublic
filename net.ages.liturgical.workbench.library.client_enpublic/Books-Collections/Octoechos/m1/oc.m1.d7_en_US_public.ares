@@ -76,15 +76,15 @@ ocMA.Kathisma21.text = oc.m1.d7_en_US_dedes.ocMA.Kathisma21.text
 
 ocMA.Kathisma22.mode = oc.m1.d7_en_US_dedes.ocMA.Kathisma22.mode
 ocMA.Kathisma22.melody = oc.m1.d7_en_US_dedes.ocMA.Kathisma22.melody
-ocMA.Kathisma22.text = oc.m1.d7_en_US_dedes.ocMA.Kathisma22.text
+ocMA.Kathisma22.text = oc.m1.d7_en_UK_lash.ocMA.Kathisma22.text
 
 ocMA.Kathisma23.mode = oc.m1.d7_en_US_dedes.ocMA.Kathisma23.mode
 ocMA.Kathisma23.melody = oc.m1.d7_en_US_dedes.ocMA.Kathisma23.melody
-ocMA.Kathisma23.text = oc.m1.d7_en_US_dedes.ocMA.Kathisma23.text
+ocMA.Kathisma23.text = oc.m1.d7_en_UK_lash.ocMA.Kathisma23.text
 
 ocMA.Kathisma24.mode = oc.m1.d7_en_US_dedes.ocMA.Kathisma24.mode
 ocMA.Kathisma24.melody = oc.m1.d7_en_US_dedes.ocMA.Kathisma24.melody
-ocMA.Kathisma24.text = oc.m1.d7_en_US_dedes.ocMA.Kathisma24.text
+ocMA.Kathisma24.text = oc.m1.d7_en_UK_lash.ocMA.Kathisma24.text
 
 ocMA.C1Acrostic.text = oc.m1.d7_en_US_dedes.ocMA.C1Acrostic.text
 
@@ -500,19 +500,19 @@ ocMA.Lauds2.text = oc.m1.d7_en_US_dedes.ocMA.Lauds2.text
 
 ocMA.Lauds3.mode = oc.m1.d7_en_US_dedes.ocMA.Lauds3.mode
 ocMA.Lauds3.melody = oc.m1.d7_en_US_dedes.ocMA.Lauds3.melody
-ocMA.Lauds3.text = oc.m1.d7_en_US_dedes.ocMA.Lauds3.text
+ocMA.Lauds3.text = oc.m1.d7_en_UK_lash.ocMA.Lauds3.text
 
 ocMA.Lauds4.mode = oc.m1.d7_en_US_dedes.ocMA.Lauds4.mode
 ocMA.Lauds4.melody = oc.m1.d7_en_US_dedes.ocMA.Lauds4.melody
-ocMA.Lauds4.text = oc.m1.d7_en_US_dedes.ocMA.Lauds4.text
+ocMA.Lauds4.text = oc.m1.d7_en_UK_lash.ocMA.Lauds4.text
 
 ocMA.Lauds5.mode = oc.m1.d7_en_US_dedes.ocMA.Lauds5.mode
 ocMA.Lauds5.melody = oc.m1.d7_en_US_dedes.ocMA.Lauds5.melody
-ocMA.Lauds5.text = oc.m1.d7_en_US_dedes.ocMA.Lauds5.text
+ocMA.Lauds5.text = oc.m1.d7_en_UK_lash.ocMA.Lauds5.text
 
 ocMA.LaudsTheotokion.mode = oc.m1.d7_en_US_dedes.ocMA.LaudsTheotokion.mode
 ocMA.LaudsTheotokion.melody = oc.m1.d7_en_US_dedes.ocMA.LaudsTheotokion.melody
-ocMA.LaudsTheotokion.text = oc.m1.d7_en_US_dedes.ocMA.LaudsTheotokion.text
+ocMA.LaudsTheotokion.text = oc.m1.d7_en_UK_lash.ocMA.LaudsTheotokion.text
 
 ocMA.LaudsRubric1.text = oc.m1.d7_en_US_dedes.ocMA.LaudsRubric1.text
 ocMA.LaudsRubric2.text = oc.m1.d7_en_US_dedes.ocMA.LaudsRubric2.text
@@ -531,11 +531,11 @@ ocMA.Aposticha3.text = oc.m1.d7_en_US_dedes.ocMA.Aposticha3.text
 
 ocMA.Aposticha4.mode = oc.m1.d7_en_US_dedes.ocMA.Aposticha4.mode
 ocMA.Aposticha4.melody = oc.m1.d7_en_US_dedes.ocMA.Aposticha4.melody
-ocMA.Aposticha4.text = oc.m1.d7_en_US_dedes.ocMA.Aposticha4.text
+ocMA.Aposticha4.text = oc.m1.d7_en_UK_lash.ocMA.Aposticha4.text
 
 ocMA.AposTheotokion.mode = oc.m1.d7_en_US_dedes.ocMA.AposTheotokion.mode
 ocMA.AposTheotokion.melody = oc.m1.d7_en_US_dedes.ocMA.AposTheotokion.melody
-ocMA.AposTheotokion.text = oc.m1.d7_en_US_dedes.ocMA.AposTheotokion.text
+ocMA.AposTheotokion.text = oc.m1.d7_en_UK_lash.ocMA.AposTheotokion.text
 
 ocMA.ApolTheotokion.mode = oc.m1.d7_en_US_dedes.ocMA.ApolTheotokion.mode
 ocMA.ApolTheotokion.melody = oc.m1.d7_en_US_dedes.ocMA.ApolTheotokion.melody
