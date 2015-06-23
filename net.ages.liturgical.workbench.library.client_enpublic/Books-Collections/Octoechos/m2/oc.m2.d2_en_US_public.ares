@@ -57,7 +57,7 @@ ocMA.Kathisma12.melody = oc.m2.d2_en_US_dedes.ocMA.Kathisma12.melody
 ocMA.Kathisma12.text = oc.m2.d2_en_UK_lash.ocMA.Kathisma12.text
 
 ocMA.Kathisma13.mode = oc.m2.d2_en_US_dedes.ocMA.Kathisma13.mode
-ocMA.Kathisma13.melody = misc_en_US_public.NotMetered
+ocMA.Kathisma13.melody = oc.m2.d2_en_UK_lash.ocMA.Kathisma13.melody
 ocMA.Kathisma13.text = oc.m2.d2_en_UK_lash.ocMA.Kathisma13.text
 
 ocMA.Kathisma21.mode = oc.m2.d2_en_US_dedes.ocMA.Kathisma21.mode
@@ -73,7 +73,7 @@ ocMA.Kathisma23.melody = oc.m2.d2_en_US_dedes.ocMA.Kathisma23.melody
 ocMA.Kathisma23.text = oc.m2.d2_en_UK_lash.ocMA.Kathisma23.text
 
 ocMA.Kathisma31.mode = oc.m2.d2_en_US_dedes.ocMA.Kathisma31.mode
-ocMA.Kathisma31.melody = misc_en_US_public.NotMetered
+ocMA.Kathisma31.melody = oc.m2.d2_en_UK_lash.ocMA.Kathisma31.melody
 ocMA.Kathisma31.text = oc.m2.d2_en_UK_lash.ocMA.Kathisma31.text
 
 ocMA.Kathisma32.mode = oc.m2.d2_en_US_dedes.ocMA.Kathisma32.mode
