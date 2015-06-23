@@ -25,11 +25,11 @@ trVE.AposTheotokion.melody = tr.d018_en_US_dedes.trVE.AposTheotokion.melody
 trVE.AposTheotokion.text = tr.d018_en_UK_lash.trVE.AposTheotokion.text
 
 trMA.Kathisma21.mode = tr.d018_en_US_dedes.trMA.Kathisma21.mode
-trMA.Kathisma21.melody = misc_en_US_public.NotMetered
+trMA.Kathisma21.melody = tr.d018_en_US_oca.trMA.Kathisma21.melody
 trMA.Kathisma21.text = tr.d018_en_US_oca.trMA.Kathisma21.text
 
 trMA.Kathisma22.mode = tr.d018_en_US_dedes.trMA.Kathisma22.mode
-trMA.Kathisma22.melody = misc_en_US_public.NotMetered
+trMA.Kathisma22.melody = tr.d018_en_US_oca.trMA.Kathisma22.melody
 trMA.Kathisma22.text = tr.d018_en_US_oca.trMA.Kathisma22.text
 
 trMA.C1Poet = tr.d018_en_US_dedes.trMA.C1Poet

@@ -15,19 +15,19 @@ meHO.note1 = me.m12.dFF_en_US_dedes.meHO.note1
 meHO.note2 = me.m12.dFF_en_US_dedes.meHO.note2
 
 meVE.Stichera01.mode = me.m12.dFF_en_US_dedes.meVE.Stichera01.mode
-meVE.Stichera01.melody = misc_en_US_public.NotMetered
+meVE.Stichera01.melody = me.m12.dFF_en_UK_lash.meVE.Stichera01.melody
 meVE.Stichera01.text = me.m12.dFF_en_UK_lash.meVE.Stichera01.text
 
 meVE.Stichera02.mode = me.m12.dFF_en_US_dedes.meVE.Stichera02.mode
-meVE.Stichera02.melody = misc_en_US_public.NotMetered
+meVE.Stichera02.melody = me.m12.dFF_en_UK_lash.meVE.Stichera02.melody
 meVE.Stichera02.text = me.m12.dFF_en_UK_lash.meVE.Stichera02.text
 
 meVE.Stichera03.mode = me.m12.dFF_en_US_dedes.meVE.Stichera03.mode
-meVE.Stichera03.melody = misc_en_US_public.NotMetered
+meVE.Stichera03.melody = me.m12.dFF_en_UK_lash.meVE.Stichera03.melody
 meVE.Stichera03.text = me.m12.dFF_en_UK_lash.meVE.Stichera03.text
 
 meVE.Stichera04.mode = me.m12.dFF_en_US_dedes.meVE.Stichera04.mode
-meVE.Stichera04.melody = misc_en_US_public.NotMetered
+meVE.Stichera04.melody = me.m12.dFF_en_UK_lash.meVE.Stichera04.melody
 meVE.Stichera04.text = me.m12.dFF_en_UK_lash.meVE.Stichera04.text
 
 meVE.SticGlory.poet = me.m12.dFF_en_US_dedes.meVE.SticGlory.poet

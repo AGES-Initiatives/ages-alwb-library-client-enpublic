@@ -491,27 +491,27 @@ alt1.meSV.AposBoth.melody = me.m10.d28_en_UK_lash.alt1.meSV.AposBoth.melody
 alt1.meSV.AposBoth.text = me.m10.d28_en_UK_lash.alt1.meSV.AposBoth.text
 
 alt1.meVE.Stichera01.mode = me.m10.d28_en_US_dedes.alt1.meVE.Stichera01.mode
-alt1.meVE.Stichera01.melody = misc_en_US_public.NotMetered
+alt1.meVE.Stichera01.melody = me.m10.d28_en_UK_lash.alt1.meVE.Stichera01.melody
 alt1.meVE.Stichera01.text = me.m10.d28_en_UK_lash.alt1.meVE.Stichera01.text
 
 alt1.meVE.Stichera02.mode = me.m10.d28_en_US_dedes.alt1.meVE.Stichera02.mode
-alt1.meVE.Stichera02.melody = misc_en_US_public.NotMetered
+alt1.meVE.Stichera02.melody = me.m10.d28_en_UK_lash.alt1.meVE.Stichera02.melody
 alt1.meVE.Stichera02.text = me.m10.d28_en_UK_lash.alt1.meVE.Stichera02.text
 
 alt1.meVE.Stichera03.mode = me.m10.d28_en_US_dedes.alt1.meVE.Stichera03.mode
-alt1.meVE.Stichera03.melody = misc_en_US_public.NotMetered
+alt1.meVE.Stichera03.melody = me.m10.d28_en_UK_lash.alt1.meVE.Stichera03.melody
 alt1.meVE.Stichera03.text = me.m10.d28_en_UK_lash.alt1.meVE.Stichera03.text
 
 alt1.meVE.Stichera04.mode = me.m10.d28_en_US_dedes.alt1.meVE.Stichera04.mode
-alt1.meVE.Stichera04.melody = misc_en_US_public.NotMetered
+alt1.meVE.Stichera04.melody = me.m10.d28_en_UK_lash.alt1.meVE.Stichera04.melody
 alt1.meVE.Stichera04.text = me.m10.d28_en_UK_lash.alt1.meVE.Stichera04.text
 
 alt1.meVE.Stichera05.mode = me.m10.d28_en_US_dedes.alt1.meVE.Stichera05.mode
-alt1.meVE.Stichera05.melody = misc_en_US_public.NotMetered
+alt1.meVE.Stichera05.melody = me.m10.d28_en_UK_lash.alt1.meVE.Stichera05.melody
 alt1.meVE.Stichera05.text = me.m10.d28_en_UK_lash.alt1.meVE.Stichera05.text
 
 alt1.meVE.Stichera06.mode = me.m10.d28_en_US_dedes.alt1.meVE.Stichera06.mode
-alt1.meVE.Stichera06.melody = misc_en_US_public.NotMetered
+alt1.meVE.Stichera06.melody = me.m10.d28_en_UK_lash.alt1.meVE.Stichera06.melody
 alt1.meVE.Stichera06.text = me.m10.d28_en_UK_lash.alt1.meVE.Stichera06.text
 
 alt1.meVE.SticGlory.mode = me.m10.d28_en_US_dedes.alt1.meVE.SticGlory.mode
@@ -539,7 +539,7 @@ alt1.meVE.LityGlory.melody = me.m10.d28_en_UK_lash.alt1.meVE.LityGlory.melody
 alt1.meVE.LityGlory.text = me.m10.d28_en_UK_lash.alt1.meVE.LityGlory.text
 
 alt1.meVE.Aposticha1.mode = me.m10.d28_en_US_dedes.alt1.meVE.Aposticha1.mode
-alt1.meVE.Aposticha1.melody = misc_en_US_public.NotMetered
+alt1.meVE.Aposticha1.melody = me.m10.d28_en_UK_lash.alt1.meVE.Aposticha1.melody
 alt1.meVE.Aposticha1.text = me.m10.d28_en_UK_lash.alt1.meVE.Aposticha1.text
 
 alt1.meVE.Aposticha2.mode = me.m10.d28_en_US_dedes.alt1.meVE.Aposticha2.mode
@@ -555,23 +555,23 @@ alt1.meVE.AposGlory.melody = me.m10.d28_en_UK_lash.alt1.meVE.AposGlory.melody
 alt1.meVE.AposGlory.text = me.m10.d28_en_UK_lash.alt1.meVE.AposGlory.text
 
 alt1.meVE.Apolytikion1.mode = me.m10.d28_en_US_dedes.alt1.meVE.Apolytikion1.mode
-alt1.meVE.Apolytikion1.melody = misc_en_US_public.NotMetered
+alt1.meVE.Apolytikion1.melody = me.m10.d28_en_UK_lash.alt1.meVE.Apolytikion1.melody
 alt1.meVE.Apolytikion1.text = me.m10.d28_en_UK_lash.alt1.meVE.Apolytikion1.text
 
 alt1.meVE.Apolytikion2.mode = me.m10.d28_en_US_dedes.alt1.meVE.Apolytikion2.mode
-alt1.meVE.Apolytikion2.melody = misc_en_US_public.NotMetered
+alt1.meVE.Apolytikion2.melody = me.m10.d28_en_UK_lash.alt1.meVE.Apolytikion2.melody
 alt1.meVE.Apolytikion2.text = me.m10.d28_en_UK_lash.alt1.meVE.Apolytikion2.text
 
 alt1.meMA.Kathisma11.mode = me.m10.d28_en_US_dedes.alt1.meMA.Kathisma11.mode
-alt1.meMA.Kathisma11.melody = misc_en_US_public.NotMetered
+alt1.meMA.Kathisma11.melody = me.m10.d28_en_UK_lash.alt1.meMA.Kathisma11.melody
 alt1.meMA.Kathisma11.text = me.m10.d28_en_UK_lash.alt1.meMA.Kathisma11.text
 
 alt1.meMA.Kathisma21.mode = me.m10.d28_en_US_dedes.alt1.meMA.Kathisma21.mode
-alt1.meMA.Kathisma21.melody = misc_en_US_public.NotMetered
+alt1.meMA.Kathisma21.melody = me.m10.d28_en_UK_lash.alt1.meMA.Kathisma21.melody
 alt1.meMA.Kathisma21.text = me.m10.d28_en_UK_lash.alt1.meMA.Kathisma21.text
 
 alt1.meMA.Kathisma31.mode = me.m10.d28_en_US_dedes.alt1.meMA.Kathisma31.mode
-alt1.meMA.Kathisma31.melody = misc_en_US_public.NotMetered
+alt1.meMA.Kathisma31.melody = me.m10.d28_en_UK_lash.alt1.meMA.Kathisma31.melody
 alt1.meMA.Kathisma31.text = me.m10.d28_en_UK_lash.alt1.meMA.Kathisma31.text
 
 alt1.meMA.MM.Prokeimenon.text = properties_en_US_public.media.key
@@ -1023,27 +1023,27 @@ alt1.meMA.Ode9K.melody = me.m10.d28_en_UK_lash.alt1.meMA.Ode9K.melody
 alt1.meMA.Ode9K.text = me.m10.d28_en_UK_lash.alt1.meMA.Ode9K.text
 
 alt1.meMA.Exaposteilarion1.mode = me.m10.d28_en_US_dedes.alt1.meMA.Exaposteilarion1.mode
-alt1.meMA.Exaposteilarion1.melody = misc_en_US_public.NotMetered
+alt1.meMA.Exaposteilarion1.melody = me.m10.d28_en_UK_lash.alt1.meMA.Exaposteilarion1.melody
 alt1.meMA.Exaposteilarion1.text = me.m10.d28_en_UK_lash.alt1.meMA.Exaposteilarion1.text
 
 alt1.meMA.Exaposteilarion2.mode = me.m10.d28_en_US_dedes.alt1.meMA.Exaposteilarion2.mode
-alt1.meMA.Exaposteilarion2.melody = misc_en_US_public.NotMetered
+alt1.meMA.Exaposteilarion2.melody = me.m10.d28_en_UK_lash.alt1.meMA.Exaposteilarion2.melody
 alt1.meMA.Exaposteilarion2.text = me.m10.d28_en_UK_lash.alt1.meMA.Exaposteilarion2.text
 
 alt1.meMA.Lauds1.mode = me.m10.d28_en_US_dedes.alt1.meMA.Lauds1.mode
-alt1.meMA.Lauds1.melody = misc_en_US_public.NotMetered
+alt1.meMA.Lauds1.melody = me.m10.d28_en_UK_lash.alt1.meMA.Lauds1.melody
 alt1.meMA.Lauds1.text = me.m10.d28_en_UK_lash.alt1.meMA.Lauds1.text
 
 alt1.meMA.Lauds2.mode = me.m10.d28_en_US_dedes.alt1.meMA.Lauds2.mode
-alt1.meMA.Lauds2.melody = misc_en_US_public.NotMetered
+alt1.meMA.Lauds2.melody = me.m10.d28_en_UK_lash.alt1.meMA.Lauds2.melody
 alt1.meMA.Lauds2.text = me.m10.d28_en_UK_lash.alt1.meMA.Lauds2.text
 
 alt1.meMA.Lauds3.mode = me.m10.d28_en_US_dedes.alt1.meMA.Lauds3.mode
-alt1.meMA.Lauds3.melody = misc_en_US_public.NotMetered
+alt1.meMA.Lauds3.melody = me.m10.d28_en_UK_lash.alt1.meMA.Lauds3.melody
 alt1.meMA.Lauds3.text = me.m10.d28_en_UK_lash.alt1.meMA.Lauds3.text
 
 alt1.meMA.Lauds4.mode = me.m10.d28_en_US_dedes.alt1.meMA.Lauds4.mode
-alt1.meMA.Lauds4.melody = misc_en_US_public.NotMetered
+alt1.meMA.Lauds4.melody = me.m10.d28_en_UK_lash.alt1.meMA.Lauds4.melody
 alt1.meMA.Lauds4.text = me.m10.d28_en_UK_lash.alt1.meMA.Lauds4.text
 
 alt1.meMA.LaudsGlory.mode = me.m10.d28_en_US_dedes.alt1.meMA.LaudsGlory.mode

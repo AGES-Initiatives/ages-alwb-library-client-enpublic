@@ -14,11 +14,11 @@ trHO.note2 = tr.d038_en_US_dedes.trHO.note2
 
 trVE.Stichera01.poet = tr.d038_en_US_dedes.trVE.Stichera01.poet
 trVE.Stichera01.mode = tr.d038_en_US_dedes.trVE.Stichera01.mode
-trVE.Stichera01.melody = misc_en_US_public.NotMetered
+trVE.Stichera01.melody = tr.d038_en_US_oca.trVE.Stichera01.melody
 trVE.Stichera01.text = tr.d038_en_US_oca.trVE.Stichera01.text
 
 trVE.Stichera02.mode = tr.d038_en_US_dedes.trVE.Stichera02.mode
-trVE.Stichera02.melody = misc_en_US_public.NotMetered
+trVE.Stichera02.melody = tr.d038_en_US_oca.trVE.Stichera02.melody
 trVE.Stichera02.text = tr.d038_en_US_oca.trVE.Stichera02.text
 
 trVE.Stichera03.poet = tr.d038_en_US_dedes.trVE.Stichera03.poet
