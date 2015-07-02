@@ -54,8 +54,8 @@ ocMA.Kathisma11.melody = oc.m6.d6_en_US_dedes.ocMA.Kathisma11.melody
 ocMA.Kathisma11.text = oc.m6.d6_en_US_dedes.ocMA.Kathisma11.text
 
 ocMA.Kathisma12.mode = oc.m6.d6_en_US_dedes.ocMA.Kathisma12.mode
-ocMA.Kathisma12.melody = oc.m6.d6_en_US_dedes.ocMA.Kathisma12.melody
-ocMA.Kathisma12.text = oc.m6.d6_en_US_dedes.ocMA.Kathisma12.text
+ocMA.Kathisma12.melody = oc.m6.d6_en_US_oca.ocMA.Kathisma12.melody
+ocMA.Kathisma12.text = oc.m6.d6_en_US_oca.ocMA.Kathisma12.text
 
 ocMA.Kathisma13.mode = oc.m6.d6_en_US_dedes.ocMA.Kathisma13.mode
 ocMA.Kathisma13.melody = oc.m6.d6_en_US_dedes.ocMA.Kathisma13.melody
@@ -74,8 +74,8 @@ ocMA.Kathisma23.melody = oc.m6.d6_en_US_dedes.ocMA.Kathisma23.melody
 ocMA.Kathisma23.text = oc.m6.d6_en_US_dedes.ocMA.Kathisma23.text
 
 ocMA.Kathisma31.mode = oc.m6.d6_en_US_dedes.ocMA.Kathisma31.mode
-ocMA.Kathisma31.melody = oc.m6.d6_en_US_dedes.ocMA.Kathisma31.melody
-ocMA.Kathisma31.text = oc.m6.d6_en_US_dedes.ocMA.Kathisma31.text
+ocMA.Kathisma31.melody = oc.m6.d6_en_US_oca.ocMA.Kathisma31.melody
+ocMA.Kathisma31.text = oc.m6.d6_en_US_oca.ocMA.Kathisma31.text
 
 ocMA.Kathisma32.mode = oc.m6.d6_en_US_dedes.ocMA.Kathisma32.mode
 ocMA.Kathisma32.melody = oc.m6.d6_en_US_dedes.ocMA.Kathisma32.melody
