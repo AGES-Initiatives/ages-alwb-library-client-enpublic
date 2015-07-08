@@ -1,4 +1,3 @@
-
 A_Resource_Whose_Name = me.m09.d20_en_US_public
 
 meDate.text = me.m09.d20_en_US_dedes.meDate.text
@@ -28,21 +27,21 @@ meVE.Stichera03.melody = me.m09.d20_en_US_dedes.meVE.Stichera03.melody
 meVE.Stichera03.text = me.m09.d20_en_US_dedes.meVE.Stichera03.text
 
 meVE.Stichera04.mode = me.m09.d20_en_US_dedes.meVE.Stichera04.mode
-meVE.Stichera04.melody = me.m09.d20_en_US_dedes.meVE.Stichera04.melody
-meVE.Stichera04.text = me.m09.d20_en_US_dedes.meVE.Stichera04.text
+meVE.Stichera04.melody = me.m09.d20_en_US_oca.meVE.Stichera04.melody
+meVE.Stichera04.text = me.m09.d20_en_US_oca.meVE.Stichera04.text
 
 meVE.Stichera05.mode = me.m09.d20_en_US_dedes.meVE.Stichera05.mode
-meVE.Stichera05.melody = me.m09.d20_en_US_dedes.meVE.Stichera05.melody
-meVE.Stichera05.text = me.m09.d20_en_US_dedes.meVE.Stichera05.text
+meVE.Stichera05.melody = me.m09.d20_en_US_oca.meVE.Stichera05.melody
+meVE.Stichera05.text = me.m09.d20_en_US_oca.meVE.Stichera05.text
 
 meVE.Stichera06.mode = me.m09.d20_en_US_dedes.meVE.Stichera06.mode
-meVE.Stichera06.melody = me.m09.d20_en_US_dedes.meVE.Stichera06.melody
-meVE.Stichera06.text = me.m09.d20_en_US_dedes.meVE.Stichera06.text
+meVE.Stichera06.melody = me.m09.d20_en_US_oca.meVE.Stichera06.melody
+meVE.Stichera06.text = me.m09.d20_en_US_oca.meVE.Stichera06.text
 
 meVE.SticGlory.poet = me.m09.d20_en_US_dedes.meVE.SticGlory.poet
 meVE.SticGlory.mode = me.m09.d20_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m09.d20_en_US_dedes.meVE.SticGlory.melody
-meVE.SticGlory.text = me.m09.d20_en_US_dedes.meVE.SticGlory.text
+meVE.SticGlory.text = me.m09.d20_en_US_oca.meVE.SticGlory.text
 
 meVE.SticBoth.mode = me.m09.d20_en_US_dedes.meVE.SticBoth.mode
 meVE.SticBoth.melody = me.m09.d20_en_US_dedes.meVE.SticBoth.melody
@@ -63,7 +62,7 @@ meVE.Aposticha3.text = me.m09.d20_en_US_dedes.meVE.Aposticha3.text
 meVE.AposGlory.poet = me.m09.d20_en_US_dedes.meVE.AposGlory.poet
 meVE.AposGlory.mode = me.m09.d20_en_US_dedes.meVE.AposGlory.mode
 meVE.AposGlory.melody = me.m09.d20_en_US_dedes.meVE.AposGlory.melody
-meVE.AposGlory.text = me.m09.d20_en_US_dedes.meVE.AposGlory.text
+meVE.AposGlory.text = me.m09.d20_en_US_oca.meVE.AposGlory.text
 
 meVE.AposBoth.mode = me.m09.d20_en_US_dedes.meVE.AposBoth.mode
 meVE.AposBoth.melody = me.m09.d20_en_US_dedes.meVE.AposBoth.melody
