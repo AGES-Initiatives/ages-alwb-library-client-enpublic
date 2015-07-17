@@ -54,6 +54,14 @@ meVE.AposTheotokion.mode = me.m08.d30_en_US_dedes.meVE.AposTheotokion.mode
 meVE.AposTheotokion.melody = me.m08.d30_en_US_dedes.meVE.AposTheotokion.melody
 meVE.AposTheotokion.text = me.m08.d30_en_US_dedes.meVE.AposTheotokion.text
 
+meVE.Apolytikion1.mode = me.m08.d30_en_US_dedes.meVE.Apolytikion1.mode
+meVE.Apolytikion1.melody = me.m08.d30_en_US_dedes.meVE.Apolytikion1.melody
+meVE.Apolytikion1.text = me.m08.d30_en_US_dedes.meVE.Apolytikion1.text
+
+meVE.Apolytikion2.mode = me.m08.d30_en_US_dedes.meVE.Apolytikion2.mode
+meVE.Apolytikion2.melody = me.m08.d30_en_US_dedes.meVE.Apolytikion2.melody
+meVE.Apolytikion2.text = me.m08.d30_en_US_dedes.meVE.Apolytikion2.text
+
 meMA.C1Acrostic.text = me.m08.d30_en_US_dedes.meMA.C1Acrostic.text
 
 meMA.Ode1C11.ode = me.m08.d30_en_US_dedes.meMA.Ode1C11.ode
