@@ -127,10 +127,6 @@ peMA.Ode3C1T.mode = pe.d113_en_US_dedes.peMA.Ode3C1T.mode
 peMA.Ode3C1T.melody = pe.d113_en_US_dedes.peMA.Ode3C1T.melody
 peMA.Ode3C1T.text = pe.d113_en_US_dedes.peMA.Ode3C1T.text
 
-peMA.Kontakion1.mode = pe.d113_en_US_dedes.peMA.Kontakion1.mode
-peMA.Kontakion1.melody = pe.d113_en_US_dedes.peMA.Kontakion1.melody
-peMA.Kontakion1.text = pe.d113_en_US_dedes.peMA.Kontakion1.text
-
 peMA.Ode3Kathisma1.mode = pe.d113_en_US_dedes.peMA.Ode3Kathisma1.mode
 peMA.Ode3Kathisma1.melody = pe.d113_en_US_dedes.peMA.Ode3Kathisma1.melody
 peMA.Ode3Kathisma1.text = pe.d113_en_US_dedes.peMA.Ode3Kathisma1.text
@@ -203,11 +199,11 @@ peMA.Ode6C1T.mode = pe.d113_en_US_dedes.peMA.Ode6C1T.mode
 peMA.Ode6C1T.melody = pe.d113_en_US_dedes.peMA.Ode6C1T.melody
 peMA.Ode6C1T.text = pe.d113_en_US_dedes.peMA.Ode6C1T.text
 
-peMA.Kontakion2.mode = pe.d113_en_US_dedes.peMA.Kontakion2.mode
-peMA.Kontakion2.melody = pe.d113_en_US_dedes.peMA.Kontakion2.melody
-peMA.Kontakion2.text = pe.d113_en_US_dedes.peMA.Kontakion2.text
+peMA.Kontakion1.mode = pe.d113_en_US_dedes.peMA.Kontakion1.mode
+peMA.Kontakion1.melody = pe.d113_en_US_dedes.peMA.Kontakion1.melody
+peMA.Kontakion1.text = pe.d113_en_US_dedes.peMA.Kontakion1.text
 
-peMA.Oikos2.text = pe.d113_en_US_dedes.peMA.Oikos2.text
+peMA.Oikos1.text = pe.d113_en_US_dedes.peMA.Oikos1.text
 
 peMA.Synaxarion.commemoration.text = pe.d113_en_US_dedes.peMA.Synaxarion.commemoration.text
 peMA.Synaxarion.couplet1.title = pe.d113_en_US_dedes.peMA.Synaxarion.couplet1.title
