@@ -30,7 +30,7 @@ meVE.Stichera04.mode = me.m10.d18_en_US_dedes.meVE.Stichera04.mode
 meVE.Stichera04.melody = me.m10.d18_en_US_dedes.meVE.Stichera04.melody
 meVE.Stichera04.text = me.m10.d18_en_US_dedes.meVE.Stichera04.text
 
-meVE.Stichera78910.text = me.m10.d18_en_US_dedes.meVE.Stichera78910.text // for media
+meVE.MM.Stichera78910.text = me.m10.d18_en_US_dedes.meVE.MM.Stichera78910.text // for media
 
 meVE.Stichera05.mode = me.m10.d18_en_US_dedes.meVE.Stichera05.mode
 meVE.Stichera05.melody = me.m10.d18_en_US_dedes.meVE.Stichera05.melody
