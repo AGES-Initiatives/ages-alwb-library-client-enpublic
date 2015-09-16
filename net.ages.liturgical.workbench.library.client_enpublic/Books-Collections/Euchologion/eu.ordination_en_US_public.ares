@@ -1,0 +1,134 @@
+A_Resource_Whose_Name = eu.ordination_en_US_public
+
+euORD.Key0100.title = eu.ordination_en_US_goa.euORD.Key0100.title
+euORD.R101 = eu.ordination_en_US_goa.euORD.R101
+euORD.Key0101.text = eu.ordination_en_US_goa.euORD.Key0101.text
+euORD.R102 = eu.ordination_en_US_goa.euORD.R102
+euORD.Key0102.text = eu.ordination_en_US_goa.euORD.Key0102.text
+euORD.R103 = eu.ordination_en_US_goa.euORD.R103
+
+euORD.Key0200.title = eu.ordination_en_US_goa.euORD.Key0200.title
+euORD.R201 = eu.ordination_en_US_goa.euORD.R201
+euORD.Key0201.text = eu.ordination_en_US_goa.euORD.Key0201.text
+euORD.Key0202.text = eu.ordination_en_US_goa.euORD.Key0202.text
+euORD.Key0203.text = eu.ordination_en_US_goa.euORD.Key0203.text
+euORD.R202 = eu.ordination_en_US_goa.euORD.R202
+euORD.R203 = eu.ordination_en_US_goa.euORD.R203
+
+euORD.Key0204.title = eu.ordination_en_US_dedes.euORD.Key0204.title
+euORD.Key0204.mode = eu.ordination_en_US_dedes.euORD.Key0204.mode
+euORD.Key0204.text = eu.ordination_en_US_dedes.euORD.Key0204.text
+
+euORD.Key0205.mode = eu.ordination_en_US_dedes.euORD.Key0205.mode
+euORD.Key0205.text = eu.ordination_en_US_dedes.euORD.Key0205.text
+
+euORD.Key0206.mode = eu.ordination_en_US_dedes.euORD.Key0206.mode
+euORD.Key0206.text = eu.ordination_en_US_dedes.euORD.Key0206.text
+
+euORD.R204 = eu.ordination_en_US_goa.euORD.R204
+euORD.R205 = eu.ordination_en_US_goa.euORD.R205
+euORD.Key0207.text = eu.ordination_en_US_goa.euORD.Key0207.text
+euORD.R206 = eu.ordination_en_US_goa.euORD.R206
+euORD.R207 = eu.ordination_en_US_goa.euORD.R207
+euORD.Key0208.text = eu.ordination_en_US_goa.euORD.Key0208.text
+euORD.R208 = eu.ordination_en_US_goa.euORD.R208
+
+euORD.R209 = eu.ordination_en_US_goa.euORD.R209
+euORD.Key0209.text = eu.ordination_en_US_goa.euORD.Key0209.text
+euORD.R210 = eu.ordination_en_US_goa.euORD.R210
+euORD.R211 = eu.ordination_en_US_goa.euORD.R211
+euORD.R212 = eu.ordination_en_US_goa.euORD.R212
+euORD.R213 = eu.ordination_en_US_goa.euORD.R213
+euORD.R214 = eu.ordination_en_US_goa.euORD.R214
+euORD.R215 = eu.ordination_en_US_goa.euORD.R215
+euORD.R216 = eu.ordination_en_US_goa.euORD.R216
+euORD.R217 = eu.ordination_en_US_goa.euORD.R217
+euORD.R218 = eu.ordination_en_US_goa.euORD.R218
+
+euORD.Key0300.title = eu.ordination_en_US_goa.euORD.Key0300.title
+euORD.R301 = eu.ordination_en_US_goa.euORD.R301
+euORD.Key0301.text = eu.ordination_en_US_goa.euORD.Key0301.text
+euORD.Key0302.text = eu.ordination_en_US_goa.euORD.Key0302.text
+euORD.Key0303.text = eu.ordination_en_US_goa.euORD.Key0303.text
+euORD.R302 = eu.ordination_en_US_goa.euORD.R302
+euORD.R303 = eu.ordination_en_US_goa.euORD.R303
+euORD.R304 = eu.ordination_en_US_goa.euORD.R304
+euORD.R305 = eu.ordination_en_US_goa.euORD.R305
+euORD.R305 = eu.ordination_en_US_goa.euORD.R305
+euORD.Key0304.text = eu.ordination_en_US_goa.euORD.Key0304.text
+euORD.R306 = eu.ordination_en_US_goa.euORD.R306
+euORD.R307 = eu.ordination_en_US_goa.euORD.R307
+euORD.Key0305.text = eu.ordination_en_US_goa.euORD.Key0305.text
+euORD.R307 = eu.ordination_en_US_goa.euORD.R307
+euORD.R308 = eu.ordination_en_US_goa.euORD.R308
+euORD.Key0306.text = eu.ordination_en_US_goa.euORD.Key0306.text
+euORD.R309 = eu.ordination_en_US_goa.euORD.R309
+euORD.R310 = eu.ordination_en_US_goa.euORD.R310
+euORD.R311 = eu.ordination_en_US_goa.euORD.R311
+euORD.R312 = eu.ordination_en_US_goa.euORD.R312
+euORD.Key0307.text = eu.ordination_en_US_goa.euORD.Key0307.text
+euORD.R313 = eu.ordination_en_US_goa.euORD.R313
+euORD.R314 = eu.ordination_en_US_goa.euORD.R314
+
+//need to create additional actors
+euORD.Key0400.title = eu.ordination_en_US_goa.euORD.Key0400.title
+euORD.R401 = eu.ordination_en_US_goa.euORD.R401
+euORD.Key0401.text = eu.ordination_en_US_goa.euORD.Key0401.text
+euORD.R402 = eu.ordination_en_US_goa.euORD.R402
+euORD.Key0402.text = eu.ordination_en_US_goa.euORD.Key0402.text
+euORD.Key0403.text = eu.ordination_en_US_goa.euORD.Key0403.text
+euORD.Key0404.text = eu.ordination_en_US_goa.euORD.Key0404.text
+euORD.Key0405.text = eu.ordination_en_US_goa.euORD.Key0405.text
+euORD.Key0406.text = eu.ordination_en_US_goa.euORD.Key0406.text
+euORD.Key0407.text = eu.ordination_en_US_goa.euORD.Key0407.text
+euORD.Key0408.text = eu.ordination_en_US_goa.euORD.Key0408.text
+euORD.Key0409.text = eu.ordination_en_US_goa.euORD.Key0409.text
+euORD.R403 = eu.ordination_en_US_goa.euORD.R403
+euORD.Key0410.text = eu.ordination_en_US_goa.euORD.Key0410.text
+euORD.R404 = eu.ordination_en_US_goa.euORD.R404
+euORD.R405 = eu.ordination_en_US_goa.euORD.R405
+euORD.Key0411.text = eu.ordination_en_US_goa.euORD.Key0411.text
+euORD.R406 = eu.ordination_en_US_goa.euORD.R406
+euORD.R407 = eu.ordination_en_US_goa.euORD.R407
+euORD.Key0412.text = eu.ordination_en_US_goa.euORD.Key0412.text
+euORD.R408 = eu.ordination_en_US_goa.euORD.R408
+euORD.Key0413.text = eu.ordination_en_US_goa.euORD.Key0413.text
+euORD.Key0414.text = eu.ordination_en_US_goa.euORD.Key0414.text
+euORD.R409 = eu.ordination_en_US_goa.euORD.R409
+euORD.R410 = eu.ordination_en_US_goa.euORD.R410
+euORD.Key0415.text = eu.ordination_en_US_goa.euORD.Key0415.text
+euORD.R411 = eu.ordination_en_US_goa.euORD.R411
+
+euORD.R412 = eu.ordination_en_US_goa.euORD.R412
+euORD.Key0416.text = eu.ordination_en_US_goa.euORD.Key0416.text
+euORD.R413 = eu.ordination_en_US_goa.euORD.R413
+euORD.Key0417.text = eu.ordination_en_US_goa.euORD.Key0417.text
+euORD.R414 = eu.ordination_en_US_goa.euORD.R414
+euORD.R415 = eu.ordination_en_US_goa.euORD.R415
+euORD.R416 = eu.ordination_en_US_goa.euORD.R416
+
+euORD.Key0500.title = eu.ordination_en_US_goa.euORD.Key0500.title
+euORD.R501 = eu.ordination_en_US_goa.euORD.R501
+euORD.R501 = eu.ordination_en_US_goa.euORD.R501
+euORD.Key0501.text = eu.ordination_en_US_goa.euORD.Key0501.text
+euORD.R501 = eu.ordination_en_US_goa.euORD.R501
+euORD.Key0502.text = eu.ordination_en_US_goa.euORD.Key0502.text
+euORD.R501 = eu.ordination_en_US_goa.euORD.R501
+euORD.R501 = eu.ordination_en_US_goa.euORD.R501
+euORD.Key0503.text = eu.ordination_en_US_goa.euORD.Key0503.text
+euORD.R501 = eu.ordination_en_US_goa.euORD.R501
+euORD.Key0504.text = eu.ordination_en_US_goa.euORD.Key0504.text
+
+euORD.Key0600.title = eu.ordination_en_US_goa.euORD.Key0600.title
+euORD.R601 = eu.ordination_en_US_goa.euORD.R601
+euORD.Key0601.text = eu.ordination_en_US_goa.euORD.Key0601.text
+
+euORD.Key0700.title = eu.ordination_en_US_goa.euORD.Key0700.title
+euORD.R701 = eu.ordination_en_US_goa.euORD.R701
+euORD.Key0701.text = eu.ordination_en_US_goa.euORD.Key0701.text
+euORD.R702 = eu.ordination_en_US_goa.euORD.R702
+
+euORD.Key0800.title = eu.ordination_en_US_goa.euORD.Key0800.title
+euORD.R801 = eu.ordination_en_US_goa.euORD.R801
+euORD.Key0801.text = eu.ordination_en_US_goa.euORD.Key0801.text
+

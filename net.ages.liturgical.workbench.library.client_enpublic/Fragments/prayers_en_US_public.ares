@@ -359,6 +359,19 @@ petKneel07 = prayers_en_US_holycross.petKneel07
 
 petKneel08 = prayers_en_US_holycross.petKneel08
 
+petOrdination01a = prayers_en_US_holycross.petOrdination01a
+petOrdination01b = prayers_en_US_holycross.petOrdination01b
+
+petOrdination02_deacon = prayers_en_US_holycross.petOrdination02_deacon
+petOrdination02_priest = prayers_en_US_holycross.petOrdination02_priest
+petOrdination02_bishop = prayers_en_US_holycross.petOrdination02_bishop
+
+petOrdination03_deacon = prayers_en_US_holycross.petOrdination03_deacon
+petOrdination03_priest = prayers_en_US_holycross.petOrdination03_priest
+petOrdination03_bishop = prayers_en_US_holycross.petOrdination03_bishop
+
+petOrdination04 = prayers_en_US_holycross.petOrdination04
+
 petSouls01 = prayers_en_US_holycross.petSouls01
 
 petSouls02 = prayers_en_US_holycross.petSouls02
