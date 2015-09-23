@@ -27,8 +27,8 @@ meVE.Stichera03.mode = me.m12.dAC_en_US_dedes.meVE.Stichera03.mode
 meVE.Stichera03.melody = me.m12.dAC_en_US_oca.meVE.Stichera03.melody
 meVE.Stichera03.text = me.m12.dAC_en_US_oca.meVE.Stichera03.text
 
-meVE.Stichera567.text = me.m12.dAC_en_US_dedes.meVE.Stichera567.text
-meVE.Stichera8910.text = me.m12.dAC_en_US_dedes.meVE.Stichera8910.text
+meVE.MM.Stichera567.text = me.m12.dAC_en_US_dedes.meVE.MM.Stichera567.text
+meVE.MM.Stichera8910.text = me.m12.dAC_en_US_dedes.meVE.MM.Stichera8910.text
 
 meVE.SticGlory.mode = me.m12.dAC_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m12.dAC_en_US_dedes.meVE.SticGlory.melody
