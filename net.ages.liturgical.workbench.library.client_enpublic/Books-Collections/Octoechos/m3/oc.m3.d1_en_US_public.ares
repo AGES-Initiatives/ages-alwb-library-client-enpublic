@@ -321,7 +321,7 @@ ocMA.C2Acrostic.text = oc.m3.d1_en_UK_lash.ocMA.C2Acrostic.text
 
 ocMA.C3Acrostic.text = oc.m3.d1_en_UK_lash.ocMA.C3Acrostic.text
 
-ocMA.OdeS1C1H.melody = oc.m3.d1_en_UK_lash.ocMA.OdeS1C1H.melody
+ocMA.OdeS1C1H.mode = oc.m3.d1_en_US_dedes.ocMA.OdeS1C1H.mode
 ocMA.OdeS1C1H.ode = oc.m3.d1_en_US_dedes.ocMA.OdeS1C1H.ode
 ocMA.OdeS1C1H.melody = oc.m3.d1_en_UK_lash.ocMA.OdeS1C1H.melody
 ocMA.OdeS1C1H.text = oc.m3.d1_en_UK_lash.ocMA.OdeS1C1H.text
