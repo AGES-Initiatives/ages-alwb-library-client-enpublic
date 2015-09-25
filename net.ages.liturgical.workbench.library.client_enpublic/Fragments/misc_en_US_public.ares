@@ -3,6 +3,7 @@ A_Resource_Whose_Name = misc_en_US_public
 NotAvailable = misc_en_US_dedes.NotAvailable
 NotMetered = misc_en_US_dedes.NotMetered
 Automelon = misc_en_US_dedes.Automelon
+AutomelonNotMetered = ""
 Heirmos = misc_en_US_dedes.Heirmos
 HeirmosNotMetered = misc_en_US_dedes.HeirmosNotMetered
 Idiomelon = misc_en_US_dedes.Idiomelon
