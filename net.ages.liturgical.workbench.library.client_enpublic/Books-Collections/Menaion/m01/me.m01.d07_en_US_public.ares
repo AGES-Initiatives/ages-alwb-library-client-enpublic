@@ -112,8 +112,6 @@ meMA.Ode1C1T.mode = me.m01.d07_en_US_dedes.meMA.Ode1C1T.mode
 meMA.Ode1C1T.melody = me.m01.d07_en_US_dedes.meMA.Ode1C1T.melody
 meMA.Ode1C1T.text = me.m01.d07_en_US_dedes.meMA.Ode1C1T.text
 
-// Don't insert Katavasias for this day
-
 meMA.Ode3C11.ode = me.m01.d07_en_US_dedes.meMA.Ode3C11.ode
 meMA.Ode3C11.mode = me.m01.d07_en_US_dedes.meMA.Ode3C11.mode
 meMA.Ode3C11.melody = me.m01.d07_en_US_dedes.meMA.Ode3C11.melody

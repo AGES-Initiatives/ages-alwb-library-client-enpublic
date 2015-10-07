@@ -21,6 +21,10 @@ cl.bishop2.name_c = ""
 cl.bishop2.name_p = ""
 cl.bishop2.fimi.text = ""
 
+//To activate these settings, you must set them in client_gr_GR_cog
+cl.double_commemoration.bishop1and2 = ""
+cl.fimi.bishop1 = ""
+
 cl.localpatronsaint1.supplication = "(local patron saint);"
 cl.localpatronsaint1.dismissal = "(local patron saint);"
 cl.localpatronsaint1.greatcompline = "(local patron saint), intercede for us sinners."
