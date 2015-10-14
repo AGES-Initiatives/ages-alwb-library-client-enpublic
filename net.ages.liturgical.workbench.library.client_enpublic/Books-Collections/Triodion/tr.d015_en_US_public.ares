@@ -105,11 +105,6 @@ trMA.Ode1C1T.mode = tr.d015_en_US_dedes.trMA.Ode1C1T.mode
 trMA.Ode1C1T.melody = tr.d015_en_US_dedes.trMA.Ode1C1T.melody
 trMA.Ode1C1T.text = tr.d015_en_US_dedes.trMA.Ode1C1T.text
 
-trMA.Ode1K.ode = tr.d015_en_US_dedes.trMA.Ode1K.ode
-trMA.Ode1K.mode = tr.d015_en_US_dedes.trMA.Ode1K.mode
-trMA.Ode1K.melody = tr.d015_en_US_dedes.trMA.Ode1K.melody
-trMA.Ode1K.text = tr.d015_en_US_dedes.trMA.Ode1K.text
-
 trMA.Ode3C11.ode = tr.d015_en_US_dedes.trMA.Ode3C11.ode
 trMA.Ode3C11.mode = tr.d015_en_US_dedes.trMA.Ode3C11.mode
 trMA.Ode3C11.melody = tr.d015_en_US_dedes.trMA.Ode3C11.melody
@@ -149,11 +144,6 @@ trMA.Ode3C1T.ode = tr.d015_en_US_dedes.trMA.Ode3C1T.ode
 trMA.Ode3C1T.mode = tr.d015_en_US_dedes.trMA.Ode3C1T.mode
 trMA.Ode3C1T.melody = tr.d015_en_US_dedes.trMA.Ode3C1T.melody
 trMA.Ode3C1T.text = tr.d015_en_US_dedes.trMA.Ode3C1T.text
-
-trMA.Ode3K.ode = tr.d015_en_US_dedes.trMA.Ode3K.ode
-trMA.Ode3K.mode = tr.d015_en_US_dedes.trMA.Ode3K.mode
-trMA.Ode3K.melody = tr.d015_en_US_dedes.trMA.Ode3K.melody
-trMA.Ode3K.text = tr.d015_en_US_dedes.trMA.Ode3K.text
 
 trMA.Ode3Kathisma1.mode = tr.d015_en_US_dedes.trMA.Ode3Kathisma1.mode
 trMA.Ode3Kathisma1.melody = tr.d015_en_US_dedes.trMA.Ode3Kathisma1.melody
@@ -220,11 +210,6 @@ trMA.Ode4C1T.mode = tr.d015_en_US_dedes.trMA.Ode4C1T.mode
 trMA.Ode4C1T.melody = tr.d015_en_US_dedes.trMA.Ode4C1T.melody
 trMA.Ode4C1T.text = tr.d015_en_US_dedes.trMA.Ode4C1T.text
 
-trMA.Ode4K.ode = tr.d015_en_US_dedes.trMA.Ode4K.ode
-trMA.Ode4K.mode = tr.d015_en_US_dedes.trMA.Ode4K.mode
-trMA.Ode4K.melody = tr.d015_en_US_dedes.trMA.Ode4K.melody
-trMA.Ode4K.text = tr.d015_en_US_dedes.trMA.Ode4K.text
-
 trMA.Ode5C11.ode = tr.d015_en_US_dedes.trMA.Ode5C11.ode
 trMA.Ode5C11.mode = tr.d015_en_US_dedes.trMA.Ode5C11.mode
 trMA.Ode5C11.melody = tr.d015_en_US_dedes.trMA.Ode5C11.melody
@@ -265,11 +250,6 @@ trMA.Ode5C1T.mode = tr.d015_en_US_dedes.trMA.Ode5C1T.mode
 trMA.Ode5C1T.melody = tr.d015_en_US_dedes.trMA.Ode5C1T.melody
 trMA.Ode5C1T.text = tr.d015_en_US_dedes.trMA.Ode5C1T.text
 
-trMA.Ode5K.ode = tr.d015_en_US_dedes.trMA.Ode5K.ode
-trMA.Ode5K.mode = tr.d015_en_US_dedes.trMA.Ode5K.mode
-trMA.Ode5K.melody = tr.d015_en_US_dedes.trMA.Ode5K.melody
-trMA.Ode5K.text = tr.d015_en_US_dedes.trMA.Ode5K.text
-
 trMA.Ode6C11.ode = tr.d015_en_US_dedes.trMA.Ode6C11.ode
 trMA.Ode6C11.mode = tr.d015_en_US_dedes.trMA.Ode6C11.mode
 trMA.Ode6C11.melody = tr.d015_en_US_dedes.trMA.Ode6C11.melody
@@ -309,11 +289,6 @@ trMA.Ode6C1T.ode = tr.d015_en_US_dedes.trMA.Ode6C1T.ode
 trMA.Ode6C1T.mode = tr.d015_en_US_dedes.trMA.Ode6C1T.mode
 trMA.Ode6C1T.melody = tr.d015_en_US_dedes.trMA.Ode6C1T.melody
 trMA.Ode6C1T.text = tr.d015_en_US_dedes.trMA.Ode6C1T.text
-
-trMA.Ode6K.ode = tr.d015_en_US_dedes.trMA.Ode6K.ode
-trMA.Ode6K.mode = tr.d015_en_US_dedes.trMA.Ode6K.mode
-trMA.Ode6K.melody = tr.d015_en_US_dedes.trMA.Ode6K.melody
-trMA.Ode6K.text = tr.d015_en_US_dedes.trMA.Ode6K.text
 
 trMA.Kontakion1.mode = tr.d015_en_US_dedes.trMA.Kontakion1.mode
 trMA.Kontakion1.melody = tr.d015_en_US_dedes.trMA.Kontakion1.melody
@@ -367,11 +342,6 @@ trMA.Ode7C1T.mode = tr.d015_en_US_dedes.trMA.Ode7C1T.mode
 trMA.Ode7C1T.melody = tr.d015_en_US_dedes.trMA.Ode7C1T.melody
 trMA.Ode7C1T.text = tr.d015_en_US_dedes.trMA.Ode7C1T.text
 
-trMA.Ode7K.ode = tr.d015_en_US_dedes.trMA.Ode7K.ode
-trMA.Ode7K.mode = tr.d015_en_US_dedes.trMA.Ode7K.mode
-trMA.Ode7K.melody = tr.d015_en_US_dedes.trMA.Ode7K.melody
-trMA.Ode7K.text = tr.d015_en_US_dedes.trMA.Ode7K.text
-
 trMA.Ode8C11.ode = tr.d015_en_US_dedes.trMA.Ode8C11.ode
 trMA.Ode8C11.mode = tr.d015_en_US_dedes.trMA.Ode8C11.mode
 trMA.Ode8C11.melody = tr.d015_en_US_dedes.trMA.Ode8C11.melody
@@ -412,11 +382,6 @@ trMA.Ode8C1T.mode = tr.d015_en_US_dedes.trMA.Ode8C1T.mode
 trMA.Ode8C1T.melody = tr.d015_en_US_dedes.trMA.Ode8C1T.melody
 trMA.Ode8C1T.text = tr.d015_en_US_dedes.trMA.Ode8C1T.text
 
-trMA.Ode8K.ode = tr.d015_en_US_dedes.trMA.Ode8K.ode
-trMA.Ode8K.mode = tr.d015_en_US_dedes.trMA.Ode8K.mode
-trMA.Ode8K.melody = tr.d015_en_US_dedes.trMA.Ode8K.melody
-trMA.Ode8K.text = tr.d015_en_US_dedes.trMA.Ode8K.text
-
 trMA.Ode9C11.ode = tr.d015_en_US_dedes.trMA.Ode9C11.ode
 trMA.Ode9C11.mode = tr.d015_en_US_dedes.trMA.Ode9C11.mode
 trMA.Ode9C11.melody = tr.d015_en_US_dedes.trMA.Ode9C11.melody
@@ -456,11 +421,6 @@ trMA.Ode9C1T.ode = tr.d015_en_US_dedes.trMA.Ode9C1T.ode
 trMA.Ode9C1T.mode = tr.d015_en_US_dedes.trMA.Ode9C1T.mode
 trMA.Ode9C1T.melody = tr.d015_en_US_dedes.trMA.Ode9C1T.melody
 trMA.Ode9C1T.text = tr.d015_en_US_dedes.trMA.Ode9C1T.text
-
-trMA.Ode9K.ode = tr.d015_en_US_dedes.trMA.Ode9K.ode
-trMA.Ode9K.mode = tr.d015_en_US_dedes.trMA.Ode9K.mode
-trMA.Ode9K.melody = tr.d015_en_US_dedes.trMA.Ode9K.melody
-trMA.Ode9K.text = tr.d015_en_US_dedes.trMA.Ode9K.text
 
 trMA.Exaposteilarion1.mode = tr.d015_en_US_dedes.trMA.Exaposteilarion1.mode
 trMA.Exaposteilarion1.melody = tr.d015_en_US_dedes.trMA.Exaposteilarion1.melody
