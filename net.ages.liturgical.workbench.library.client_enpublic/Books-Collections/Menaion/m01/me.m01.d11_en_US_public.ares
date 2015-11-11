@@ -68,12 +68,12 @@ meVE.GeneralApolytikion1.text = me.m01.d11_en_US_dedes.meVE.GeneralApolytikion1.
 meVE.GeneralApolytikion1.name = me.m01.d11_en_US_dedes.meVE.GeneralApolytikion1.name
 
 meMA.Kathisma11.mode = me.m01.d11_en_US_dedes.meMA.Kathisma11.mode
-meMA.Kathisma11.melody = me.m01.d11_en_US_dedes.meMA.Kathisma11.melody
-meMA.Kathisma11.text = me.m01.d11_en_US_dedes.meMA.Kathisma11.text
+meMA.Kathisma11.melody = me.m01.d11_en_US_oca.meMA.Kathisma11.melody
+meMA.Kathisma11.text = me.m01.d11_en_US_oca.meMA.Kathisma11.text
 
 meMA.Kathisma21.mode = me.m01.d11_en_US_dedes.meMA.Kathisma21.mode
-meMA.Kathisma21.melody = me.m01.d11_en_US_dedes.meMA.Kathisma21.melody
-meMA.Kathisma21.text = me.m01.d11_en_US_dedes.meMA.Kathisma21.text
+meMA.Kathisma21.melody = me.m01.d11_en_US_oca.meMA.Kathisma21.melody
+meMA.Kathisma21.text = me.m01.d11_en_US_oca.meMA.Kathisma21.text
 
 meMA.Kathisma31.mode = me.m01.d11_en_US_dedes.meMA.Kathisma31.mode
 meMA.Kathisma31.melody = me.m01.d11_en_US_dedes.meMA.Kathisma31.melody
@@ -228,8 +228,8 @@ meMA.Ode6C1T.melody = me.m01.d11_en_US_dedes.meMA.Ode6C1T.melody
 meMA.Ode6C1T.text = me.m01.d11_en_US_dedes.meMA.Ode6C1T.text
 
 meMA.Kontakion1.mode = me.m01.d11_en_US_dedes.meMA.Kontakion1.mode
-meMA.Kontakion1.melody = me.m01.d11_en_US_dedes.meMA.Kontakion1.melody
-meMA.Kontakion1.text = me.m01.d11_en_US_dedes.meMA.Kontakion1.text
+meMA.Kontakion1.melody = me.m01.d11_en_US_oca.meMA.Kontakion1.melody
+meMA.Kontakion1.text = me.m01.d11_en_US_oca.meMA.Kontakion1.text
 
 meMA.Oikos1.text = me.m01.d11_en_US_dedes.meMA.Oikos1.text
 meMA.Oikos12.text = me.m01.d11_en_US_dedes.meMA.Oikos12.text
@@ -365,8 +365,8 @@ meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
 meMA.LaudsGlory.poet = me.m01.d11_en_US_dedes.meMA.LaudsGlory.poet
 meMA.LaudsGlory.mode = me.m01.d11_en_US_dedes.meMA.LaudsGlory.mode
-meMA.LaudsGlory.melody = me.m01.d11_en_US_dedes.meMA.LaudsGlory.melody
-meMA.LaudsGlory.text = me.m01.d11_en_US_dedes.meMA.LaudsGlory.text
+meMA.LaudsGlory.melody = me.m01.d11_en_US_oca.meMA.LaudsGlory.melody
+meMA.LaudsGlory.text = me.m01.d11_en_US_oca.meMA.LaudsGlory.text
 
 meMA.LaudsBoth.poet = me.m01.d11_en_US_dedes.meMA.LaudsBoth.poet
 meMA.LaudsBoth.mode = me.m01.d11_en_US_dedes.meMA.LaudsBoth.mode
