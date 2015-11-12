@@ -52,6 +52,8 @@ meVE.Apolytikion1.mode = me.m02.d14_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m02.d14_en_US_dedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.text = me.m02.d14_en_US_dedes.meVE.Apolytikion1.text
 
+meVE.MM.GeneralApolytikion1.text = me.m02.d14_en_US_dedes.meVE.MM.GeneralApolytikion1.text 
+
 meMA.C1Poet = me.m02.d14_en_US_dedes.meMA.C1Poet
 meMA.C1Acrostic.text = me.m02.d14_en_US_dedes.meMA.C1Acrostic.text
 

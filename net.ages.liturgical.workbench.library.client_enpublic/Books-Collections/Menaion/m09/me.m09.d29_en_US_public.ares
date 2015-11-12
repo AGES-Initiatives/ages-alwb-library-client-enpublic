@@ -53,7 +53,7 @@ meVE.AposStavrotheotokion.text = me.m09.d29_en_US_dedes.meVE.AposStavrotheotokio
 meVE.GeneralApolytikion1.mode = me.m09.d29_en_US_dedes.meVE.GeneralApolytikion1.mode
 meVE.GeneralApolytikion1.melody = me.m09.d29_en_US_dedes.meVE.GeneralApolytikion1.melody
 meVE.GeneralApolytikion1.name = me.m09.d29_en_US_dedes.meVE.GeneralApolytikion1.name
-meVE.GeneralApolytikion1.text = me.m09.d29_en_US_dedes.meVE.GeneralApolytikion1.text //  for media
+meVE.MM.GeneralApolytikion1.text = me.m09.d29_en_US_dedes.meVE.MM.GeneralApolytikion1.text //  for media
 
 meVE.Apolytikion2.poet = me.m09.d29_en_US_dedes.meVE.Apolytikion2.poet
 meVE.Apolytikion2.mode = me.m09.d29_en_US_dedes.meVE.Apolytikion2.mode

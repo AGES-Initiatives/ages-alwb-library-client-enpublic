@@ -117,7 +117,7 @@ meVE.Apolytikion1.melody = me.m12.d05_en_US_dedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.text = me.m12.d05_en_US_dedes.meVE.Apolytikion1.text
 
 meVE.GeneralApolytikion1.name = me.m12.d05_en_US_dedes.meVE.GeneralApolytikion1.name
-meVE.GeneralApolytikion1.text = me.m12.d05_en_US_dedes.meVE.GeneralApolytikion1.text
+meVE.MM.GeneralApolytikion1.text = me.m12.d05_en_US_dedes.meVE.MM.GeneralApolytikion1.text
 
 meMA.Kathisma11.mode = me.m12.d05_en_US_dedes.meMA.Kathisma11.mode
 meMA.Kathisma11.melody = me.m12.d05_en_US_oca.meMA.Kathisma11.melody
