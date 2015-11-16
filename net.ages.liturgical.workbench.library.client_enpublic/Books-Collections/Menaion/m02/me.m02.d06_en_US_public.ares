@@ -793,3 +793,143 @@ alt1.meMA.Ode3KathismaSt.mode = me.m02.d06_en_US_dedes.alt1.meMA.Ode3KathismaSt.
 alt1.meMA.Ode3KathismaSt.melody = me.m02.d06_en_US_dedes.alt1.meMA.Ode3KathismaSt.melody
 alt1.meMA.Ode3KathismaSt.text = me.m02.d06_en_US_dedes.alt1.meMA.Ode3KathismaSt.text
 
+
+alt2.meDate.text = me.m02.d06_en_US_dedes.alt2.meDate.text
+alt2.meCommemoration.text = me.m02.d06_en_US_dedes.alt2.meCommemoration.text
+alt2.meShortCommemoration1.text = me.m02.d06_en_US_dedes.alt2.meShortCommemoration1.text
+alt2.meInsert1 = me.m02.d06_en_US_dedes.alt2.meInsert1
+alt2.meInsert2 = me.m02.d06_en_US_dedes.alt2.meInsert2
+alt2.meNote.text = me.m02.d06_en_US_dedes.alt2.meNote.text
+alt2.meLE.commemoration1 = me.m02.d06_en_US_dedes.alt2.meLE.commemoration1
+alt2.meLE.commemoration2 = me.m02.d06_en_US_dedes.alt2.meLE.commemoration2
+alt2.meHO.number = me.m02.d06_en_US_dedes.alt2.meHO.number
+alt2.meHO.rank = me.m02.d06_en_US_dedes.alt2.meHO.rank
+alt2.meHO.commemorations = me.m02.d06_en_US_dedes.alt2.meHO.commemorations
+alt2.meHO.note1 = me.m02.d06_en_US_dedes.alt2.meHO.note1
+alt2.meHO.note2 = me.m02.d06_en_US_dedes.alt2.meHO.note2
+alt2.meDismissal = me.m02.d06_en_US_dedes.alt2.meDismissal
+
+alt2.meSV.Stichera1.mode = me.m02.d06_en_US_dedes.alt2.meSV.Stichera1.mode
+alt2.meSV.Stichera1.melody = me.m02.d06_en_US_dedes.alt2.meSV.Stichera1.melody
+alt2.meSV.Stichera1.text = me.m02.d06_en_US_dedes.alt2.meSV.Stichera1.text
+
+alt2.meSV.Stichera2.mode = me.m02.d06_en_US_dedes.alt2.meSV.Stichera2.mode
+alt2.meSV.Stichera2.melody = me.m02.d06_en_US_dedes.alt2.meSV.Stichera2.melody
+alt2.meSV.Stichera2.text = me.m02.d06_en_US_dedes.alt2.meSV.Stichera2.text
+
+alt2.meSV.Stichera3.mode = me.m02.d06_en_US_dedes.alt2.meSV.Stichera3.mode
+alt2.meSV.Stichera3.melody = me.m02.d06_en_US_dedes.alt2.meSV.Stichera3.melody
+alt2.meSV.Stichera3.text = me.m02.d06_en_US_dedes.alt2.meSV.Stichera3.text
+
+alt2.meSV.Stichera4.mode = me.m02.d06_en_US_dedes.alt2.meSV.Stichera4.mode
+alt2.meSV.Stichera4.melody = me.m02.d06_en_US_dedes.alt2.meSV.Stichera4.melody
+alt2.meSV.Stichera4.text = me.m02.d06_en_US_dedes.alt2.meSV.Stichera4.text
+
+alt2.meSV.SticGlory.mode = me.m02.d06_en_US_dedes.alt2.meSV.SticGlory.mode
+alt2.meSV.SticGlory.melody = me.m02.d06_en_US_dedes.alt2.meSV.SticGlory.melody
+alt2.meSV.SticGlory.text = me.m02.d06_en_US_dedes.alt2.meSV.SticGlory.text
+
+alt2.meSV.SticBoth.mode = me.m02.d06_en_US_dedes.alt2.meSV.SticBoth.mode
+alt2.meSV.SticBoth.melody = me.m02.d06_en_US_dedes.alt2.meSV.SticBoth.melody
+alt2.meSV.SticBoth.text = me.m02.d06_en_US_dedes.alt2.meSV.SticBoth.text
+
+alt2.meSV.Aposticha1.mode = me.m02.d06_en_US_dedes.alt2.meSV.Aposticha1.mode
+alt2.meSV.Aposticha1.melody = me.m02.d06_en_US_dedes.alt2.meSV.Aposticha1.melody
+alt2.meSV.Aposticha1.text = me.m02.d06_en_US_dedes.alt2.meSV.Aposticha1.text
+
+alt2.meSV.Aposticha2.mode = me.m02.d06_en_US_dedes.alt2.meSV.Aposticha2.mode
+alt2.meSV.Aposticha2.melody = me.m02.d06_en_US_dedes.alt2.meSV.Aposticha2.melody
+alt2.meSV.Aposticha2.text = me.m02.d06_en_US_dedes.alt2.meSV.Aposticha2.text
+
+alt2.meSV.Aposticha3.mode = me.m02.d06_en_US_dedes.alt2.meSV.Aposticha3.mode
+alt2.meSV.Aposticha3.melody = me.m02.d06_en_US_dedes.alt2.meSV.Aposticha3.melody
+alt2.meSV.Aposticha3.text = me.m02.d06_en_US_dedes.alt2.meSV.Aposticha3.text
+
+alt2.meSV.AposGlory.mode = me.m02.d06_en_US_dedes.alt2.meSV.AposGlory.mode
+alt2.meSV.AposGlory.melody = me.m02.d06_en_US_dedes.alt2.meSV.AposGlory.melody
+alt2.meSV.AposGlory.text = me.m02.d06_en_US_dedes.alt2.meSV.AposGlory.text
+
+alt2.meSV.AposBoth.mode = me.m02.d06_en_US_dedes.alt2.meSV.AposBoth.mode
+alt2.meSV.AposBoth.melody = me.m02.d06_en_US_dedes.alt2.meSV.AposBoth.melody
+alt2.meSV.AposBoth.text = me.m02.d06_en_US_dedes.alt2.meSV.AposBoth.text
+
+alt2.meVE.Stichera01.mode = me.m02.d06_en_US_dedes.alt2.meVE.Stichera01.mode
+alt2.meVE.Stichera01.melody = me.m02.d06_en_US_dedes.alt2.meVE.Stichera01.melody
+alt2.meVE.Stichera01.text = me.m02.d06_en_US_dedes.alt2.meVE.Stichera01.text
+
+alt2.meVE.Stichera02.mode = me.m02.d06_en_US_dedes.alt2.meVE.Stichera02.mode
+alt2.meVE.Stichera02.melody = me.m02.d06_en_US_dedes.alt2.meVE.Stichera02.melody
+alt2.meVE.Stichera02.text = me.m02.d06_en_US_dedes.alt2.meVE.Stichera02.text
+
+alt2.meVE.Stichera03.mode = me.m02.d06_en_US_dedes.alt2.meVE.Stichera03.mode
+alt2.meVE.Stichera03.melody = me.m02.d06_en_US_dedes.alt2.meVE.Stichera03.melody
+alt2.meVE.Stichera03.text = me.m02.d06_en_US_dedes.alt2.meVE.Stichera03.text
+
+alt2.meVE.Stichera04.mode = me.m02.d06_en_US_dedes.alt2.meVE.Stichera04.mode
+alt2.meVE.Stichera04.melody = me.m02.d06_en_US_dedes.alt2.meVE.Stichera04.melody
+alt2.meVE.Stichera04.text = me.m02.d06_en_US_dedes.alt2.meVE.Stichera04.text
+
+alt2.meVE.Stichera05.mode = me.m02.d06_en_US_dedes.alt2.meVE.Stichera05.mode
+alt2.meVE.Stichera05.melody = me.m02.d06_en_US_dedes.alt2.meVE.Stichera05.melody
+alt2.meVE.Stichera05.text = me.m02.d06_en_US_dedes.alt2.meVE.Stichera05.text
+
+alt2.meVE.Stichera06.mode = me.m02.d06_en_US_dedes.alt2.meVE.Stichera06.mode
+alt2.meVE.Stichera06.melody = me.m02.d06_en_US_dedes.alt2.meVE.Stichera06.melody
+alt2.meVE.Stichera06.text = me.m02.d06_en_US_dedes.alt2.meVE.Stichera06.text
+
+alt2.meVE.SticGlory.mode = me.m02.d06_en_US_dedes.alt2.meVE.SticGlory.mode
+alt2.meVE.SticGlory.melody = me.m02.d06_en_US_dedes.alt2.meVE.SticGlory.melody
+alt2.meVE.SticGlory.text = me.m02.d06_en_US_dedes.alt2.meVE.SticGlory.text
+
+alt2.meVE.SticBoth.mode = me.m02.d06_en_US_dedes.alt2.meVE.SticBoth.mode
+alt2.meVE.SticBoth.melody = me.m02.d06_en_US_dedes.alt2.meVE.SticBoth.melody
+alt2.meVE.SticBoth.text = me.m02.d06_en_US_dedes.alt2.meVE.SticBoth.text
+
+alt2.meVE.Lity1.mode = me.m02.d06_en_US_dedes.alt2.meVE.Lity1.mode
+alt2.meVE.Lity1.melody = me.m02.d06_en_US_dedes.alt2.meVE.Lity1.melody
+alt2.meVE.Lity1.text = me.m02.d06_en_US_dedes.alt2.meVE.Lity1.text
+
+alt2.meVE.Lity2.mode = me.m02.d06_en_US_dedes.alt2.meVE.Lity2.mode
+alt2.meVE.Lity2.melody = me.m02.d06_en_US_dedes.alt2.meVE.Lity2.melody
+alt2.meVE.Lity2.text = me.m02.d06_en_US_dedes.alt2.meVE.Lity2.text
+
+alt2.meVE.Lity3.mode = me.m02.d06_en_US_dedes.alt2.meVE.Lity3.mode
+alt2.meVE.Lity3.melody = me.m02.d06_en_US_dedes.alt2.meVE.Lity3.melody
+alt2.meVE.Lity3.text = me.m02.d06_en_US_dedes.alt2.meVE.Lity3.text
+
+alt2.meVE.Lity4.mode = me.m02.d06_en_US_dedes.alt2.meVE.Lity4.mode
+alt2.meVE.Lity4.melody = me.m02.d06_en_US_dedes.alt2.meVE.Lity4.melody
+alt2.meVE.Lity4.text = me.m02.d06_en_US_dedes.alt2.meVE.Lity4.text
+
+alt2.meVE.LityGlory.mode = me.m02.d06_en_US_dedes.alt2.meVE.LityGlory.mode
+alt2.meVE.LityGlory.melody = me.m02.d06_en_US_dedes.alt2.meVE.LityGlory.melody
+alt2.meVE.LityGlory.text = me.m02.d06_en_US_dedes.alt2.meVE.LityGlory.text
+
+alt2.meVE.LityBoth.mode = me.m02.d06_en_US_dedes.alt2.meVE.LityBoth.mode
+alt2.meVE.LityBoth.melody = me.m02.d06_en_US_dedes.alt2.meVE.LityBoth.melody
+alt2.meVE.LityBoth.text = me.m02.d06_en_US_dedes.alt2.meVE.LityBoth.text
+
+alt2.meVE.Aposticha1.mode = me.m02.d06_en_US_dedes.alt2.meVE.Aposticha1.mode
+alt2.meVE.Aposticha1.melody = me.m02.d06_en_US_dedes.alt2.meVE.Aposticha1.melody
+alt2.meVE.Aposticha1.text = me.m02.d06_en_US_dedes.alt2.meVE.Aposticha1.text
+
+alt2.meVE.Aposticha2.mode = me.m02.d06_en_US_dedes.alt2.meVE.Aposticha2.mode
+alt2.meVE.Aposticha2.melody = me.m02.d06_en_US_dedes.alt2.meVE.Aposticha2.melody
+alt2.meVE.Aposticha2.text = me.m02.d06_en_US_dedes.alt2.meVE.Aposticha2.text
+
+alt2.meVE.Aposticha3.mode = me.m02.d06_en_US_dedes.alt2.meVE.Aposticha3.mode
+alt2.meVE.Aposticha3.melody = me.m02.d06_en_US_dedes.alt2.meVE.Aposticha3.melody
+alt2.meVE.Aposticha3.text = me.m02.d06_en_US_dedes.alt2.meVE.Aposticha3.text
+
+alt2.meVE.AposGlory.mode = me.m02.d06_en_US_dedes.alt2.meVE.AposGlory.mode
+alt2.meVE.AposGlory.melody = me.m02.d06_en_US_dedes.alt2.meVE.AposGlory.melody
+alt2.meVE.AposGlory.text = me.m02.d06_en_US_dedes.alt2.meVE.AposGlory.text
+
+alt2.meVE.AposBoth.mode = me.m02.d06_en_US_dedes.alt2.meVE.AposBoth.mode
+alt2.meVE.AposBoth.melody = me.m02.d06_en_US_dedes.alt2.meVE.AposBoth.melody
+alt2.meVE.AposBoth.text = me.m02.d06_en_US_dedes.alt2.meVE.AposBoth.text
+
+alt2.meVE.Apolytikion1.mode = me.m02.d06_en_US_dedes.alt2.meVE.Apolytikion1.mode
+alt2.meVE.Apolytikion1.melody = me.m02.d06_en_US_dedes.alt2.meVE.Apolytikion1.melody
+alt2.meVE.Apolytikion1.text = me.m02.d06_en_US_dedes.alt2.meVE.Apolytikion1.text
+
