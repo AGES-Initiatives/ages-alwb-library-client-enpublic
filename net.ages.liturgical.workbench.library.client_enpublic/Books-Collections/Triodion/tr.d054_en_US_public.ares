@@ -12,128 +12,128 @@ trHO.description2 = tr.d054_en_US_dedes.trHO.description2
 trHO.note1 = tr.d054_en_US_dedes.trHO.note1
 trHO.note2 = tr.d054_en_US_dedes.trHO.note2
 
-trVE.AposIdiomelon1.mode = tr.d054_en_US_oca.trVE.AposIdiomelon1.mode
+trVE.AposIdiomelon1.mode = tr.d054_en_US_dedes.trVE.AposIdiomelon1.mode
 trVE.AposIdiomelon1.melody = tr.d054_en_US_oca.trVE.AposIdiomelon1.melody
 trVE.AposIdiomelon1.text = tr.d054_en_US_oca.trVE.AposIdiomelon1.text
 
-trVE.AposMartyric.mode = tr.d054_en_US_oca.trVE.AposMartyric.mode
-trVE.AposMartyric.melody = tr.d054_en_US_oca.trVE.AposMartyric.melody
-trVE.AposMartyric.text = tr.d054_en_US_oca.trVE.AposMartyric.text
+trVE.AposMartyric.mode = tr.d054_en_US_dedes.trVE.AposMartyric.mode
+trVE.AposMartyric.melody = tr.d054_en_US_dedes.trVE.AposMartyric.melody
+trVE.AposMartyric.text = tr.d054_en_US_dedes.trVE.AposMartyric.text
 
-trVE.Stichera01.poet = tr.d054_en_US_oca.trVE.Stichera01.poet
-trVE.Stichera01.mode = tr.d054_en_US_oca.trVE.Stichera01.mode
+trVE.Stichera01.poet = tr.d054_en_US_dedes.trVE.Stichera01.poet
+trVE.Stichera01.mode = tr.d054_en_US_dedes.trVE.Stichera01.mode
 trVE.Stichera01.melody = tr.d054_en_US_oca.trVE.Stichera01.melody
 trVE.Stichera01.text = tr.d054_en_US_oca.trVE.Stichera01.text
 
-trVE.Stichera02.mode = tr.d054_en_US_oca.trVE.Stichera02.mode
+trVE.Stichera02.mode = tr.d054_en_US_dedes.trVE.Stichera02.mode
 trVE.Stichera02.melody = tr.d054_en_US_oca.trVE.Stichera02.melody
 trVE.Stichera02.text = tr.d054_en_US_oca.trVE.Stichera02.text
 
-trVE.Stichera03.poet = tr.d054_en_US_oca.trVE.Stichera03.poet
-trVE.Stichera03.mode = tr.d054_en_US_oca.trVE.Stichera03.mode
+trVE.Stichera03.poet = tr.d054_en_US_dedes.trVE.Stichera03.poet
+trVE.Stichera03.mode = tr.d054_en_US_dedes.trVE.Stichera03.mode
 trVE.Stichera03.melody = tr.d054_en_US_oca.trVE.Stichera03.melody
 trVE.Stichera03.text = tr.d054_en_US_oca.trVE.Stichera03.text
 
 trGC.SticheraPoet = tr.d054_en_US_oca.trGC.SticheraPoet
 trGC.SticheraAcrostic.text = tr.d054_en_US_oca.trGC.SticheraAcrostic.text
 
-trGC.Stichera01.mode = tr.d054_en_US_oca.trGC.Stichera01.mode
+trGC.Stichera01.mode = tr.d054_en_US_dedes.trGC.Stichera01.mode
 trGC.Stichera01.melody = tr.d054_en_US_oca.trGC.Stichera01.melody
 trGC.Stichera01.text = tr.d054_en_US_oca.trGC.Stichera01.text
 
-trGC.Stichera02.mode = tr.d054_en_US_oca.trGC.Stichera02.mode
+trGC.Stichera02.mode = tr.d054_en_US_dedes.trGC.Stichera02.mode
 trGC.Stichera02.melody = tr.d054_en_US_oca.trGC.Stichera02.melody
 trGC.Stichera02.text = tr.d054_en_US_oca.trGC.Stichera02.text
 
-trGC.Stichera03.mode = tr.d054_en_US_oca.trGC.Stichera03.mode
+trGC.Stichera03.mode = tr.d054_en_US_dedes.trGC.Stichera03.mode
 trGC.Stichera03.melody = tr.d054_en_US_oca.trGC.Stichera03.melody
 trGC.Stichera03.text = tr.d054_en_US_oca.trGC.Stichera03.text
 
-trGC.Stichera04.mode = tr.d054_en_US_oca.trGC.Stichera04.mode
+trGC.Stichera04.mode = tr.d054_en_US_dedes.trGC.Stichera04.mode
 trGC.Stichera04.melody = tr.d054_en_US_oca.trGC.Stichera04.melody
 trGC.Stichera04.text = tr.d054_en_US_oca.trGC.Stichera04.text
 
-trGC.Stichera05.mode = tr.d054_en_US_oca.trGC.Stichera05.mode
+trGC.Stichera05.mode = tr.d054_en_US_dedes.trGC.Stichera05.mode
 trGC.Stichera05.melody = tr.d054_en_US_oca.trGC.Stichera05.melody
 trGC.Stichera05.text = tr.d054_en_US_oca.trGC.Stichera05.text
 
-trGC.Stichera06.mode = tr.d054_en_US_oca.trGC.Stichera06.mode
+trGC.Stichera06.mode = tr.d054_en_US_dedes.trGC.Stichera06.mode
 trGC.Stichera06.melody = tr.d054_en_US_oca.trGC.Stichera06.melody
 trGC.Stichera06.text = tr.d054_en_US_oca.trGC.Stichera06.text
 
-trGC.Stichera07.mode = tr.d054_en_US_oca.trGC.Stichera07.mode
+trGC.Stichera07.mode = tr.d054_en_US_dedes.trGC.Stichera07.mode
 trGC.Stichera07.melody = tr.d054_en_US_oca.trGC.Stichera07.melody
 trGC.Stichera07.text = tr.d054_en_US_oca.trGC.Stichera07.text
 
-trGC.Stichera08.mode = tr.d054_en_US_oca.trGC.Stichera08.mode
+trGC.Stichera08.mode = tr.d054_en_US_dedes.trGC.Stichera08.mode
 trGC.Stichera08.melody = tr.d054_en_US_oca.trGC.Stichera08.melody
 trGC.Stichera08.text = tr.d054_en_US_oca.trGC.Stichera08.text
 
-trGC.Stichera09.mode = tr.d054_en_US_oca.trGC.Stichera09.mode
+trGC.Stichera09.mode = tr.d054_en_US_dedes.trGC.Stichera09.mode
 trGC.Stichera09.melody = tr.d054_en_US_oca.trGC.Stichera09.melody
 trGC.Stichera09.text = tr.d054_en_US_oca.trGC.Stichera09.text
 
-trGC.Stichera10.mode = tr.d054_en_US_oca.trGC.Stichera10.mode
+trGC.Stichera10.mode = tr.d054_en_US_dedes.trGC.Stichera10.mode
 trGC.Stichera10.melody = tr.d054_en_US_oca.trGC.Stichera10.melody
 trGC.Stichera10.text = tr.d054_en_US_oca.trGC.Stichera10.text
 
-trGC.Stichera11.mode = tr.d054_en_US_oca.trGC.Stichera11.mode
+trGC.Stichera11.mode = tr.d054_en_US_dedes.trGC.Stichera11.mode
 trGC.Stichera11.melody = tr.d054_en_US_oca.trGC.Stichera11.melody
 trGC.Stichera11.text = tr.d054_en_US_oca.trGC.Stichera11.text
 
-trGC.Stichera12.mode = tr.d054_en_US_oca.trGC.Stichera12.mode
+trGC.Stichera12.mode = tr.d054_en_US_dedes.trGC.Stichera12.mode
 trGC.Stichera12.melody = tr.d054_en_US_oca.trGC.Stichera12.melody
 trGC.Stichera12.text = tr.d054_en_US_oca.trGC.Stichera12.text
 
-trGC.Stichera13.mode = tr.d054_en_US_oca.trGC.Stichera13.mode
+trGC.Stichera13.mode = tr.d054_en_US_dedes.trGC.Stichera13.mode
 trGC.Stichera13.melody = tr.d054_en_US_oca.trGC.Stichera13.melody
 trGC.Stichera13.text = tr.d054_en_US_oca.trGC.Stichera13.text
 
-trGC.Stichera14.mode = tr.d054_en_US_oca.trGC.Stichera14.mode
+trGC.Stichera14.mode = tr.d054_en_US_dedes.trGC.Stichera14.mode
 trGC.Stichera14.melody = tr.d054_en_US_oca.trGC.Stichera14.melody
 trGC.Stichera14.text = tr.d054_en_US_oca.trGC.Stichera14.text
 
-trGC.Stichera15.mode = tr.d054_en_US_oca.trGC.Stichera15.mode
+trGC.Stichera15.mode = tr.d054_en_US_dedes.trGC.Stichera15.mode
 trGC.Stichera15.melody = tr.d054_en_US_oca.trGC.Stichera15.melody
 trGC.Stichera15.text = tr.d054_en_US_oca.trGC.Stichera15.text
 
-trGC.Stichera16.mode = tr.d054_en_US_oca.trGC.Stichera16.mode
+trGC.Stichera16.mode = tr.d054_en_US_dedes.trGC.Stichera16.mode
 trGC.Stichera16.melody = tr.d054_en_US_oca.trGC.Stichera16.melody
 trGC.Stichera16.text = tr.d054_en_US_oca.trGC.Stichera16.text
 
-trGC.Stichera17.mode = tr.d054_en_US_oca.trGC.Stichera17.mode
+trGC.Stichera17.mode = tr.d054_en_US_dedes.trGC.Stichera17.mode
 trGC.Stichera17.melody = tr.d054_en_US_oca.trGC.Stichera17.melody
 trGC.Stichera17.text = tr.d054_en_US_oca.trGC.Stichera17.text
 
-trGC.Stichera18.mode = tr.d054_en_US_oca.trGC.Stichera18.mode
+trGC.Stichera18.mode = tr.d054_en_US_dedes.trGC.Stichera18.mode
 trGC.Stichera18.melody = tr.d054_en_US_oca.trGC.Stichera18.melody
 trGC.Stichera18.text = tr.d054_en_US_oca.trGC.Stichera18.text
 
-trGC.Stichera19.mode = tr.d054_en_US_oca.trGC.Stichera19.mode
+trGC.Stichera19.mode = tr.d054_en_US_dedes.trGC.Stichera19.mode
 trGC.Stichera19.melody = tr.d054_en_US_oca.trGC.Stichera19.melody
 trGC.Stichera19.text = tr.d054_en_US_oca.trGC.Stichera19.text
 
-trGC.Stichera20.mode = tr.d054_en_US_oca.trGC.Stichera20.mode
+trGC.Stichera20.mode = tr.d054_en_US_dedes.trGC.Stichera20.mode
 trGC.Stichera20.melody = tr.d054_en_US_oca.trGC.Stichera20.melody
 trGC.Stichera20.text = tr.d054_en_US_oca.trGC.Stichera20.text
 
-trGC.Stichera21.mode = tr.d054_en_US_oca.trGC.Stichera21.mode
+trGC.Stichera21.mode = tr.d054_en_US_dedes.trGC.Stichera21.mode
 trGC.Stichera21.melody = tr.d054_en_US_oca.trGC.Stichera21.melody
 trGC.Stichera21.text = tr.d054_en_US_oca.trGC.Stichera21.text
 
-trGC.Stichera22.mode = tr.d054_en_US_oca.trGC.Stichera22.mode
+trGC.Stichera22.mode = tr.d054_en_US_dedes.trGC.Stichera22.mode
 trGC.Stichera22.melody = tr.d054_en_US_oca.trGC.Stichera22.melody
 trGC.Stichera22.text = tr.d054_en_US_oca.trGC.Stichera22.text
 
-trGC.Stichera23.mode = tr.d054_en_US_oca.trGC.Stichera23.mode
+trGC.Stichera23.mode = tr.d054_en_US_dedes.trGC.Stichera23.mode
 trGC.Stichera23.melody = tr.d054_en_US_oca.trGC.Stichera23.melody
 trGC.Stichera23.text = tr.d054_en_US_oca.trGC.Stichera23.text
 
-trGC.Stichera24.mode = tr.d054_en_US_oca.trGC.Stichera24.mode
+trGC.Stichera24.mode = tr.d054_en_US_dedes.trGC.Stichera24.mode
 trGC.Stichera24.melody = tr.d054_en_US_oca.trGC.Stichera24.melody
 trGC.Stichera24.text = tr.d054_en_US_oca.trGC.Stichera24.text
 
-trGC.SticheraT.mode = tr.d054_en_US_oca.trGC.SticheraT.mode
+trGC.SticheraT.mode = tr.d054_en_US_dedes.trGC.SticheraT.mode
 trGC.SticheraT.melody = tr.d054_en_US_oca.trGC.SticheraT.melody
 trGC.SticheraT.text = tr.d054_en_US_oca.trGC.SticheraT.text
 
