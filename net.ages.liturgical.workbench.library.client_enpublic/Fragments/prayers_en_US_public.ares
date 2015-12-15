@@ -491,6 +491,7 @@ res04 = prayers_en_US_holycross.res04
 res05 = prayers_en_US_holycross.res05
 
 res06 = prayers_en_US_holycross.res06
+res06.MM.long.sos.text = prayers_en_US_holycross.res06.MM.long.sos.text
 
 res07 = prayers_en_US_holycross.res07
 
