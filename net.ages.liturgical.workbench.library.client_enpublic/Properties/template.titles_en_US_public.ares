@@ -218,6 +218,9 @@ d.onFridayEvening = template.titles_en_US_dedes.d.onFridayEvening
 d.onSaturdayMorning = template.titles_en_US_dedes.d.onSaturdayMorning
 d.onSaturdayEvening = template.titles_en_US_dedes.d.onSaturdayEvening
 
+me.m01.d06.onEpiphanyEve = template.titles_en_US_dedes.me.m01.d06.onEpiphanyEve
+me.m12.d25.onChristmasEve = template.titles_en_US_dedes.me.m12.d25.onChristmasEve
+
 m.month = template.titles_en_US_dedes.m.month 
 m.mode = template.titles_en_US_dedes.m.mode
 
