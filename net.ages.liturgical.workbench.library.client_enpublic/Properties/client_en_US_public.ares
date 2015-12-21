@@ -122,6 +122,9 @@ cl.tr.d014.R002 = "Each of the next five troparia may be preceded by the verse: 
 //Lent Cheese Saturday
 cl.tr.d021.R001 = "The Patriarchal Typikon indicates, as usual, that the entire canon be sung. Typically in parishes only the Katavasias are chanted. This day does not present normal Katavasias, but rather Heirmoi chanted again at the end of each ode as Katavasias. These Heirmoi thematically have nothing to do with today's commemoration of the Ascetic Fathers, so I have chosen instead to present Ode ix in its entirety, for the enrichment and edification of both chanters and listeners. Since this Saturday of Cheesefare week is not a great feast, Ode ix is, as usual, preceded by the Magnificat."
 
+//Forgiveness Vespers
+cl.tr.d023.R001 = "The last three stichera and Theotokion are from the Menaion and depend on the date, and therefore they change from year to year."
+
 //Sat of Akathist
 cl.tr.d056.R001 = "The priest, vested in epitrachilion and phelonion, stands before the Icon of the Theotokos, and he intones the Oikos."
 
