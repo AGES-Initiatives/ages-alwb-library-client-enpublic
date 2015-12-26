@@ -80,6 +80,8 @@ cl.ho.s23.R002 = "(The Heirmos may be omitted.)"
 
 cl.hw.synaxarion.rubric = ""
 
+cl.me.m01.d06.R001 = "The [second] choir sings the following Idiomelon, up to the asterisk; then the first choir begins the Great Doxology, starting with the last verse of the Idiomelon: \"Glory be to God...\""
+
 cl.me.m09.d01.R001 = "There are a number of options for the content of the services for September 1. The Patriarchal Hemerologion, which we aspire to follow, describes the Patriarchate's added special commemorations of an Icon of the Theotokos as well as the Environment, and then indicates that, presumably for the rest of us, the service should be celebrated according to the Menaion."
 
 //Sep. 14
@@ -96,6 +98,9 @@ cl.me.m10.d26.R001 = "Use the verses in the text if they differ from those in th
 // Nov. 14
 cl.me.m11.d14.R001 = "The rubrics for this day say to sing the Kathismata of the Mode and day of the week from the Parakletike (Octoechos). Since most parishes are not familiar with these hymns, and since they change from year to year, we have not included them here."
 cl.me.m11.d14.R002 = "The rubrics for this day say to sing the Heirmoi of Odes 3, 6, 8, and 9 of the Canon of the Menaion. Most parishes would not be familiar with this, so we have inserted Katavasias instead."
+
+
+cl.me.m12.d25.R001 = "The [second] choir sings the following Idiomelon, up to the asterisk; then the first choir begins the Great Doxology, starting with the last verse of the Idiomelon: \"Glory to God in the highest...\""
 
 cl.pe.d072.R001 = "The Patriarchal Typikon omits the Prophecies on this day and says that only the Gospel lesson should be read."
 cl.pe.d078.R001 = "According to the Patriarchal Hemerologion:"
