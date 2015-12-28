@@ -15,11 +15,11 @@ trDismissal = tr.d063_en_US_dedes.trDismissal
 
 trVE.AposIdiomelon1.mode = tr.d063_en_US_dedes.trVE.AposIdiomelon1.mode
 trVE.AposIdiomelon1.melody = tr.d063_en_US_dedes.trVE.AposIdiomelon1.melody
-trVE.AposIdiomelon1.text = tr.d063_en_US_oca.trVE.AposIdiomelon1.text
+trVE.AposIdiomelon1.text = tr.d063_en_US_dedes.trVE.AposIdiomelon1.text
 
 trVE.AposMartyric.mode = tr.d063_en_US_dedes.trVE.AposMartyric.mode
 trVE.AposMartyric.melody = tr.d063_en_US_dedes.trVE.AposMartyric.melody
-trVE.AposMartyric.text = tr.d063_en_US_oca.trVE.AposMartyric.text
+trVE.AposMartyric.text = tr.d063_en_US_dedes.trVE.AposMartyric.text
 
 trVE.Stichera01.poet = tr.d063_en_US_dedes.trVE.Stichera01.poet
 trVE.Stichera01.mode = tr.d063_en_US_dedes.trVE.Stichera01.mode
