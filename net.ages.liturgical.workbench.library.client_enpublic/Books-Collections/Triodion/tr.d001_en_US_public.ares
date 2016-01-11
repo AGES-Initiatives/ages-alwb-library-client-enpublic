@@ -21,7 +21,8 @@ trVE.Stichera02.mode = tr.d001_en_US_dedes.trVE.Stichera02.mode
 trVE.Stichera02.melody = tr.d001_en_US_dedes.trVE.Stichera02.melody
 trVE.Stichera02.text = tr.d001_en_US_dedes.trVE.Stichera02.text
 
-trVE.MM.Stichera123as567.text = properties_en_US_public.media.key
+trVE.MM.Stichera112as8910.text = tr.d001_en_US_dedes.trVE.MM.Stichera112as8910.text
+trVE.MM.Stichera123as567.text = tr.d001_en_US_dedes.trVE.MM.Stichera123as567.text
 
 trVE.SticGlory.mode = tr.d001_en_US_dedes.trVE.SticGlory.mode
 trVE.SticGlory.melody = tr.d001_en_US_dedes.trVE.SticGlory.melody
@@ -351,7 +352,7 @@ trMA.Lauds4.mode = tr.d001_en_US_dedes.trMA.Lauds4.mode
 trMA.Lauds4.melody = tr.d001_en_US_dedes.trMA.Lauds4.melody
 trMA.Lauds4.text = tr.d001_en_US_dedes.trMA.Lauds4.text
 
-trMA.MM.LaudsSunday_i_12as56.text = properties_en_US_public.media.key
+trMA.MM.LaudsSunday_i_12as56.text = tr.d001_en_US_dedes.trMA.MM.LaudsSunday_i_12as56.text
 
 trMA.LaudsGlory.mode = tr.d001_en_US_dedes.trMA.LaudsGlory.mode
 trMA.LaudsGlory.melody = tr.d001_en_US_dedes.trMA.LaudsGlory.melody
