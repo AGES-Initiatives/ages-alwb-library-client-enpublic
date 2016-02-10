@@ -6,4 +6,11 @@ S02.commemoration.text = sy.m05.d08_en_US_dedes.S02.commemoration.text
 //S02.Ver1 = sy.m05.d08_en_US_dedes.//S02.Ver1
 //S02.Ver2 = sy.m05.d08_en_US_dedes.//S02.Ver2
 
+Sdd.commemoration.text = sy.m05.d08_en_US_dedes.Sdd.commemoration.text
+Sdd.couplet1.title = sy.m05.d08_en_US_dedes.Sdd.couplet1.title
+Sdd.couplet1.verse1 = sy.m05.d08_en_US_dedes.Sdd.couplet1.verse1.
+Sdd.couplet1.verse2 = sy.m05.d08_en_US_dedes.Sdd.couplet1.verse2.
+Sdd.single1.text = sy.m05.d08_en_US_dedes.Sdd.single1.text.
+Sdd.narration1.text = sy.m05.d08_en_US_dedes.Sdd.narration1.text.
+
 S99.lastline.text= sy.m05.d08_en_US_dedes.S99.lastline.text
