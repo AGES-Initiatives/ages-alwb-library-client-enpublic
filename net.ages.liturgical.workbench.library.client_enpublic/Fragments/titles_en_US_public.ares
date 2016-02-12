@@ -189,7 +189,11 @@ KanonTouAgiou = titles_en_US_dedes.KanonTouAgiou
 
 KanonTouAgiouNikolaou = titles_en_US_dedes.KanonTouAgiouNikolaou
 
+KanonTouEvangelistou = titles_en_US_dedes.KanonTouEvangelistou
+
 KanonTouOsiou = titles_en_US_dedes.KanonTouOsiou
+
+KanonTouPascha = titles_en_US_dedes.KanonTouPascha
 
 KanonTouProdromou = titles_en_US_dedes.KanonTouProdromou
 
@@ -236,6 +240,8 @@ KontakionProeortion = titles_en_US_dedes.KontakionProeortion
 KontakionTisEortis = titles_en_US_dedes.KontakionTisEortis
 
 KontakionTonPateron = titles_en_US_dedes.KontakionTonPateron
+
+KontakionTouPascha = titles_en_US_dedes.KontakionTouPascha
 
 KontakionTouTriodiou = titles_en_US_dedes.KontakionTouTriodiou
 
