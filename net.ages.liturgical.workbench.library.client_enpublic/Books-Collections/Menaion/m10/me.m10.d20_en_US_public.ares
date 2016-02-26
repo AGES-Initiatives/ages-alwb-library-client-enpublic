@@ -63,6 +63,8 @@ meVE.Apolytikion2.text = me.m10.d20_en_US_dedes.meVE.Apolytikion2.text
 
 meMA.C1Acrostic.text = me.m10.d20_en_US_dedes.meMA.C1Acrostic.text
 
+meMA.C1.verse = me.m10.d20_en_US_dedes.meMA.C1.verse
+
 meMA.Ode1C11.ode = me.m10.d20_en_US_dedes.meMA.Ode1C11.ode
 meMA.Ode1C11.mode = me.m10.d20_en_US_dedes.meMA.Ode1C11.mode
 meMA.Ode1C11.melody = me.m10.d20_en_US_dedes.meMA.Ode1C11.melody
