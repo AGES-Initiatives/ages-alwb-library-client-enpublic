@@ -24,13 +24,13 @@ trVE.Stich3.mode = tr.d025_en_US_dedes.trVE.Stich3.mode
 trVE.Stich3.melody = tr.d025_en_US_dedes.trVE.Stich3.melody
 trVE.Stich3.text = tr.d025_en_US_dedes.trVE.Stich3.text
 
-trVE.ApostIdiom1.mode = tr.d025_en_US_dedes.trVE.ApostIdiom1.mode
-trVE.ApostIdiom1.melody = tr.d025_en_US_dedes.trVE.ApostIdiom1.melody
-trVE.ApostIdiom1.text = tr.d025_en_US_dedes.trVE.ApostIdiom1.text
+trVE.AposIdiomelon1.mode = tr.d025_en_US_dedes.trVE.AposIdiomelon1.mode
+trVE.AposIdiomelon1.melody = tr.d025_en_US_dedes.trVE.AposIdiomelon1.melody
+trVE.AposIdiomelon1.text = tr.d025_en_US_dedes.trVE.AposIdiomelon1.text
 
-trVE.ApostMartyric.mode = tr.d025_en_US_dedes.trVE.ApostMartyric.mode
-trVE.ApostMartyric.melody = tr.d025_en_US_dedes.trVE.ApostMartyric.melody
-trVE.ApostMartyric.text = tr.d025_en_US_dedes.trVE.ApostMartyric.text
+trVE.AposMartyric.mode = tr.d025_en_US_dedes.trVE.AposMartyric.mode
+trVE.AposMartyric.melody = tr.d025_en_US_dedes.trVE.AposMartyric.melody
+trVE.AposMartyric.text = tr.d025_en_US_dedes.trVE.AposMartyric.text
 
 trVE.AposTheotokion.mode = tr.d025_en_US_dedes.trVE.AposTheotokion.mode
 trVE.AposTheotokion.melody = tr.d025_en_US_dedes.trVE.AposTheotokion.melody
@@ -202,13 +202,13 @@ trMA.Ode9C2H.mode = tr.d025_en_US_dedes.trMA.Ode9C2H.mode
 trMA.Ode9C2H.melody = tr.d025_en_US_dedes.trMA.Ode9C2H.melody
 trMA.Ode9C2H.text = tr.d025_en_US_dedes.trMA.Ode9C2H.text
 
-trMA.ApostIdiom1.mode = tr.d025_en_US_dedes.trMA.ApostIdiom1.mode
-trMA.ApostIdiom1.melody = tr.d025_en_US_dedes.trMA.ApostIdiom1.melody
-trMA.ApostIdiom1.text = tr.d025_en_US_dedes.trMA.ApostIdiom1.text
+trMA.AposIdiomelon1.mode = tr.d025_en_US_dedes.trMA.AposIdiomelon1.mode
+trMA.AposIdiomelon1.melody = tr.d025_en_US_dedes.trMA.AposIdiomelon1.melody
+trMA.AposIdiomelon1.text = tr.d025_en_US_dedes.trMA.AposIdiomelon1.text
 
-trMA.ApostMartyric.mode = tr.d025_en_US_dedes.trMA.ApostMartyric.mode
-trMA.ApostMartyric.melody = tr.d025_en_US_dedes.trMA.ApostMartyric.melody
-trMA.ApostMartyric.text = tr.d025_en_US_dedes.trMA.ApostMartyric.text
+trMA.AposMartyric.mode = tr.d025_en_US_dedes.trMA.AposMartyric.mode
+trMA.AposMartyric.melody = tr.d025_en_US_dedes.trMA.AposMartyric.melody
+trMA.AposMartyric.text = tr.d025_en_US_dedes.trMA.AposMartyric.text
 
 trMA.AposTheotokion.mode = tr.d025_en_US_dedes.trMA.AposTheotokion.mode
 trMA.AposTheotokion.melody = tr.d025_en_US_dedes.trMA.AposTheotokion.melody
