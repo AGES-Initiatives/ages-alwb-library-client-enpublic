@@ -39,6 +39,7 @@ meVE.Apolytikion1.mode = me.m03.d15_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m03.d15_en_US_dedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.text = me.m03.d15_en_US_dedes.meVE.Apolytikion1.text
 
+meMA.C1.notice = rubrical_en_US_public.DifferentMenaionCanonInEnglish
 meMA.C1Acrostic.text = gm.fortwoormoremartyrs_en_UK_lash.meMA.C1Acrostic.text
 
 meMA.Ode1C1H.ode = gm.fortwoormoremartyrs_en_UK_lash.meMA.Ode1C1H.ode

@@ -307,6 +307,8 @@ OKanonTisEortis = titles_en_US_dedes.OKanonTisEortis
 
 OKanonTouMinaiou = titles_en_US_dedes.OKanonTouMinaiou
 
+OKanonTouMinaiou2 = titles_en_US_dedes.OKanonTouMinaiou2 //makes English say General Menaion = titles_en_US_dedes.Omoia
+
 Omoia = titles_en_US_dedes.Omoia
 
 Omoion = titles_en_US_dedes.Omoion
@@ -387,6 +389,8 @@ StichiraTisEortis = titles_en_US_dedes.StichiraTisEortis
 StichiraTisTheotokou = titles_en_US_dedes.StichiraTisTheotokou
 
 StichiraTouAgiouNikolaou = titles_en_US_dedes.StichiraTouAgiouNikolaou
+
+StichiraTouMinaiou = titles_en_US_dedes.StichiraTouMinaiou
 
 StichiraTouPascha = titles_en_US_dedes.StichiraTouPascha
 
