@@ -461,3 +461,9 @@ lecLE.ordinal34b.uc = lectionaries_en_US_holycross.lecLE.ordinal34b.uc
 lecLE.ordinal35a.uc = lectionaries_en_US_holycross.lecLE.ordinal35a.uc
 lecLE.ordinal35b.uc = lectionaries_en_US_holycross.lecLE.ordinal35b.uc
 
+lecPS.rubric_kathisma = lectionaries_en_US_dedes.lecPS.rubric_kathisma
+lecPS.rubric_kathisma11 = lectionaries_en_US_dedes.lecPS.rubric_kathisma11
+lecPS.rubric_litany = lectionaries_en_US_dedes.lecPS.rubric_litany
+lecPS.rubric_nokathisma = lectionaries_en_US_dedes.lecPS.rubric_nokathisma
+lecPS.rubric_nolitany = lectionaries_en_US_dedes.lecPS.rubric_nolitany
+lecPS.rubric_presanctified = lectionaries_en_US_dedes.lecPS.rubric_presanctified
