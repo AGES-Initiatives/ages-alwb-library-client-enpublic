@@ -75,6 +75,10 @@ cl.eu.lichrysbasil.R012 = "(The Deacon reads the designated pericope of the holy
 cl.eu.lichrysbasil.R013 = "(Following the readings, it is customary for the priest to preach the sermon.)"
 cl.eu.lichrysbasil.R014 = "(The Communion Hymn changes according to the Feast Day.)"
 
+cl.ho.s06.R001 = "If the Ninth Hour is to be appended, the dismissal of the Sixth Hour is omitted, and the Ninth Hour begins immediately at \"Holy God...\" without \"Blessed is our God... Heavenly King...\""
+
+cl.ho.s09.R001 = "If preceded by the Sixth Hour, the Ninth Hour begins immediately at \"Holy God...\" without \"Blessed is our God... Heavenly King...\""
+
 cl.ho.s10.R001 = "If preceded by the Ninth Hour, Vespers begins without \"Blessed is our God...\""
 cl.ho.s10.R002 = "After the Peace Litany and the exclamation comes the reading of the appointed Kathisma of the Psalter. In parishes today it is customary to omit the recitation of the Psalter except on festal Vespers and at Presanctified Liturgy. Many will also keep the order of reciting the First Kathisma at vespers on Saturday evening."
 cl.ho.s10.R003 = "The appointed Psalms are offered here on separate pages for those who wish to include them."
