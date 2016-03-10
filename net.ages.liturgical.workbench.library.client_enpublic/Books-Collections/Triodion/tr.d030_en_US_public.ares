@@ -39,20 +39,20 @@ trVE.AposTheotokion.melody = tr.d030_en_US_dedes.trVE.AposTheotokion.melody
 trVE.AposTheotokion.text = tr.d030_en_US_dedes.trVE.AposTheotokion.text
 
 trMA.Kathisma21.mode = tr.d030_en_US_dedes.trMA.Kathisma21.mode
-trMA.Kathisma21.melody = tr.d030_en_US_dedes.trMA.Kathisma21.melody
-trMA.Kathisma21.text = tr.d030_en_US_dedes.trMA.Kathisma21.text
+trMA.Kathisma21.melody = tr.d030_en_US_oca.trMA.Kathisma21.melody
+trMA.Kathisma21.text = tr.d030_en_US_oca.trMA.Kathisma21.text
 
 trMA.Kathisma22.mode = tr.d030_en_US_dedes.trMA.Kathisma22.mode
-trMA.Kathisma22.melody = tr.d030_en_US_dedes.trMA.Kathisma22.melody
-trMA.Kathisma22.text = tr.d030_en_US_dedes.trMA.Kathisma22.text
+trMA.Kathisma22.melody = tr.d030_en_US_oca.trMA.Kathisma22.melody
+trMA.Kathisma22.text = tr.d030_en_US_oca.trMA.Kathisma22.text
 
 trMA.Kathisma31.mode = tr.d030_en_US_dedes.trMA.Kathisma31.mode
-trMA.Kathisma31.melody = tr.d030_en_US_dedes.trMA.Kathisma31.melody
-trMA.Kathisma31.text = tr.d030_en_US_dedes.trMA.Kathisma31.text
+trMA.Kathisma31.melody = tr.d030_en_US_oca.trMA.Kathisma31.melody
+trMA.Kathisma31.text = tr.d030_en_US_oca.trMA.Kathisma31.text
 
 trMA.Kathisma32.mode = tr.d030_en_US_dedes.trMA.Kathisma32.mode
-trMA.Kathisma32.melody = tr.d030_en_US_dedes.trMA.Kathisma32.melody
-trMA.Kathisma32.text = tr.d030_en_US_dedes.trMA.Kathisma32.text
+trMA.Kathisma32.melody = tr.d030_en_US_oca.trMA.Kathisma32.melody
+trMA.Kathisma32.text = tr.d030_en_US_oca.trMA.Kathisma32.text
 
 trMA.C1Poet = tr.d030_en_US_dedes.trMA.C1Poet
 
@@ -210,15 +210,15 @@ trMA.Ode9C2H.text = tr.d030_en_US_dedes.trMA.Ode9C2H.text
 
 trMA.AposIdiomelon1.mode = tr.d030_en_US_dedes.trMA.AposIdiomelon1.mode
 trMA.AposIdiomelon1.melody = tr.d030_en_US_dedes.trMA.AposIdiomelon1.melody
-trMA.AposIdiomelon1.text = tr.d030_en_US_dedes.trMA.AposIdiomelon1.text
+trMA.AposIdiomelon1.text = tr.d030_en_US_oca.trMA.AposIdiomelon1.text
 
 trMA.AposMartyric.mode = tr.d030_en_US_dedes.trMA.AposMartyric.mode
-trMA.AposMartyric.melody = tr.d030_en_US_dedes.trMA.AposMartyric.melody
-trMA.AposMartyric.text = tr.d030_en_US_dedes.trMA.AposMartyric.text
+trMA.AposMartyric.melody = tr.d030_en_US_oca.trMA.AposMartyric.melody
+trMA.AposMartyric.text = tr.d030_en_US_oca.trMA.AposMartyric.text
 
 trMA.AposTheotokion.mode = tr.d030_en_US_dedes.trMA.AposTheotokion.mode
-trMA.AposTheotokion.melody = tr.d030_en_US_dedes.trMA.AposTheotokion.melody
-trMA.AposTheotokion.text = tr.d030_en_US_dedes.trMA.AposTheotokion.text
+trMA.AposTheotokion.melody = tr.d030_en_US_oca.trMA.AposTheotokion.melody
+trMA.AposTheotokion.text = tr.d030_en_US_oca.trMA.AposTheotokion.text
 
 trTE.Troparion.mode = tr.d030_en_US_dedes.trTE.Troparion.mode
 trTE.Troparion.melody = tr.d030_en_US_dedes.trTE.Troparion.melody
