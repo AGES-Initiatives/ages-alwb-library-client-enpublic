@@ -6,7 +6,9 @@ S00.hours = sy.m05.d01_en_US_dedes.S00.hours
 S01.commemoration.text = sy.m05.d01_en_US_dedes.S01.commemoration.text
 
 S02.commemoration.text = sy.m05.d01_en_US_dedes.S02.commemoration.text
-//S02.Ver1 = sy.m05.d01_en_US_dedes.//S02.Ver1
-//S02.Ver2 = sy.m05.d01_en_US_dedes.//S02.Ver2
+
+S03.commemoration.text = sy.m05.d01_en_US_dedes.S03.commemoration.text
+
+S04.commemoration.text = sy.m05.d04_en_US_dedes.S04.commemoration.text
 
 S99.lastline.text= sy.m05.d01_en_US_dedes.S99.lastline.text
