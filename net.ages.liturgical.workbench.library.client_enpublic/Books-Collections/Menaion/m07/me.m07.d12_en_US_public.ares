@@ -560,6 +560,10 @@ meMA.Exaposteilarion1.mode = me.m07.d12_en_US_dedes.meMA.Exaposteilarion1.mode
 meMA.Exaposteilarion1.melody = me.m07.d12_en_US_dedes.meMA.Exaposteilarion1.melody
 meMA.Exaposteilarion1.text = me.m07.d12_en_US_dedes.meMA.Exaposteilarion1.text
 
+meMA.Exaposteilarion2.mode = me.m07.d12_en_US_dedes.meMA.Exaposteilarion2.mode
+meMA.Exaposteilarion2.melody = me.m07.d12_en_US_dedes.meMA.Exaposteilarion2.melody
+meMA.Exaposteilarion2.text = me.m07.d12_en_US_dedes.meMA.Exaposteilarion2.text
+
 meMA.ExapTheotokion.mode = me.m07.d12_en_US_dedes.meMA.ExapTheotokion.mode
 meMA.ExapTheotokion.melody = me.m07.d12_en_US_dedes.meMA.ExapTheotokion.melody
 meMA.ExapTheotokion.text = me.m07.d12_en_US_dedes.meMA.ExapTheotokion.text
