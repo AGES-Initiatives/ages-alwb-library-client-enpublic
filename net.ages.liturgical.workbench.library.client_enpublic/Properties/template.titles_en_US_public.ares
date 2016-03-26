@@ -82,6 +82,14 @@ co1.html.tab = template.titles_en_US_dedes.co1.html.tab  //this is the pre-resur
 co1.pdf.header = template.titles_en_US_dedes.co1.pdf.header
 co1.pdf.cover = template.titles_en_US_dedes.co1.pdf.cover
 
+co2.html.tab = template.titles_en_US_dedes.co2.html.tab 
+co2.pdf.header = template.titles_en_US_dedes.co2.pdf.header
+co2.pdf.cover = template.titles_en_US_dedes.co2.pdf.cover
+
+co3.html.tab = template.titles_en_US_dedes.co3.html.tab 
+co3.pdf.header = template.titles_en_US_dedes.co3.pdf.header
+co3.pdf.cover = template.titles_en_US_dedes.co3.pdf.cover
+
 em.html.tab = template.titles_en_US_dedes.em.html.tab 
 em.pdf.header = template.titles_en_US_dedes.em.pdf.header
 em.pdf.cover = template.titles_en_US_dedes.em.pdf.cover
