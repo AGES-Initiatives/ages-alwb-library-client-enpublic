@@ -259,6 +259,8 @@ clps.stichologia.top = template.titles_en_US_dedes.clps.stichologia.top
 clps.stichologia.bottom = template.titles_en_US_dedes.clps.stichologia.bottom
 clps.alternative.top = template.titles_en_US_dedes.clps.alternative.top
 clps.alternative.bottom = template.titles_en_US_dedes.clps.alternative.bottom
+clps.prayers.top = template.titles_en_US_dedes.clps.prayers.top
+clps.prayers.bottom = template.titles_en_US_dedes.clps.prayers.bottom
 
 bmc.tag = "" //begin marked content
 emc.tag = "" //end marked content
