@@ -13,8 +13,8 @@ trHO.note1 = tr.d040_en_US_dedes.trHO.note1
 trHO.note2 = tr.d040_en_US_dedes.trHO.note2
 
 trVE.AposIdiomelon1.mode = tr.d040_en_US_dedes.trVE.AposIdiomelon1.mode
-trVE.AposIdiomelon1.melody = tr.d040_en_US_oca.trVE.AposIdiomelon1.melody
-trVE.AposIdiomelon1.text = tr.d040_en_US_oca.trVE.AposIdiomelon1.text
+trVE.AposIdiomelon1.melody = tr.d040_en_US_dedes.trVE.AposIdiomelon1.melody
+trVE.AposIdiomelon1.text = tr.d040_en_US_dedes.trVE.AposIdiomelon1.text
 
 trVE.AposMartyric.mode = tr.d040_en_US_dedes.trVE.AposMartyric.mode
 trVE.AposMartyric.melody = tr.d040_en_US_dedes.trVE.AposMartyric.melody
@@ -31,8 +31,8 @@ trVE.Stichera02.text = tr.d040_en_US_dedes.trVE.Stichera02.text
 
 trVE.Stichera03.poet = tr.d040_en_US_dedes.trVE.Stichera03.poet
 trVE.Stichera03.mode = tr.d040_en_US_dedes.trVE.Stichera03.mode
-trVE.Stichera03.melody = tr.d040_en_US_oca.trVE.Stichera03.melody
-trVE.Stichera03.text = tr.d040_en_US_oca.trVE.Stichera03.text
+trVE.Stichera03.melody = tr.d040_en_US_dedes.trVE.Stichera03.melody
+trVE.Stichera03.text = tr.d040_en_US_dedes.trVE.Stichera03.text
 
 trMA.Kathisma21.mode = tr.d040_en_US_dedes.trMA.Kathisma21.mode
 trMA.Kathisma21.melody = tr.d040_en_US_dedes.trMA.Kathisma21.melody

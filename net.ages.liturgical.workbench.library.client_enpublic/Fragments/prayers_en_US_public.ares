@@ -72,7 +72,7 @@ EvlogisonThymiama.text = prayers_en_US_holycross.EvlogisonThymiama.text
 
 EleisonMeOTheos.text = prayers_en_US_holycross.EleisonMeOTheos.text
 
-AxionEstin.text = prayers_en_US_holycross.AxionEstin.text
+AxionEstin.text = prayers_en_US_dedes.AxionEstin.text
 
 AgiosOTheos.text = prayers_en_US_holycross.AgiosOTheos.text
 
@@ -238,6 +238,10 @@ pet35 = prayers_en_US_holycross.pet35
 pet36 = prayers_en_US_holycross.pet36
 
 pet37 = prayers_en_US_holycross.pet37
+
+pet37a = prayers_en_US_holycross.pet37a
+
+pet37b = prayers_en_US_holycross.pet37b
 
 petBap01 = prayers_en_US_holycross.petBap01
 
@@ -491,6 +495,7 @@ res04 = prayers_en_US_holycross.res04
 res05 = prayers_en_US_holycross.res05
 
 res06 = prayers_en_US_holycross.res06
+res06.MM.long.sos.text = prayers_en_US_holycross.res06.MM.long.sos.text
 
 res07 = prayers_en_US_holycross.res07
 
@@ -549,6 +554,8 @@ exc02 = prayers_en_US_holycross.exc02
 exc03 = prayers_en_US_holycross.exc03
 
 exc04 = prayers_en_US_holycross.exc04
+
+exc04a = ""
 
 exc05 = prayers_en_US_holycross.exc05
 
@@ -681,6 +688,8 @@ verseP_Nicholas.text = prayers_en_US_holycross.verseP_Nicholas.text
 verse_Panteleimon.text = prayers_en_US_holycross.verse_Panteleimon.text
 
 verseP_Panteleimon.text = prayers_en_US_holycross.verseP_Panteleimon.text
+
+verse_Prophet.text = prayers_en_US_holycross.verse_Prophet.text
 
 verse_Resurrection.text = prayers_en_US_holycross.verse_Resurrection.text
 

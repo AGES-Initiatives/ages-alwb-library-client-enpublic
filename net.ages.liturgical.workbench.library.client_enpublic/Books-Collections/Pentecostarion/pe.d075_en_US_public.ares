@@ -13,7 +13,7 @@ peHO.note1 = pe.d075_en_US_dedes.peHO.note1
 peHO.note2 = pe.d075_en_US_dedes.peHO.note2
 peDismissal = pe.d075_en_US_dedes.peDismissal
 
-peVE.Stichera1234.text = pe.d075_en_US_dedes.peVE.Stichera1234.text // for media with saint
+peVE.MM.Stichera1234as3456.text = pe.d075_en_US_dedes.peVE.MM.Stichera1234as3456.text // for media with saint
 
 peVE.Stichera01.mode = pe.d075_en_US_dedes.peVE.Stichera01.mode
 peVE.Stichera01.melody = pe.d075_en_US_dedes.peVE.Stichera01.melody

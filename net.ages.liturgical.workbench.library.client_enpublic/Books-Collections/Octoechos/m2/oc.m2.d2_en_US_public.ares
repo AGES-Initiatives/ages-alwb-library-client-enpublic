@@ -525,11 +525,11 @@ octrVE.Stichera2.text = oc.m2.d2_en_US_dedes.octrVE.Stichera2.text
 
 octrVE.Stichera3.mode = oc.m2.d2_en_US_dedes.octrVE.Stichera3.mode
 octrVE.Stichera3.melody = oc.m2.d2_en_US_dedes.octrVE.Stichera3.melody
-octrVE.Stichera3.text = oc.m2.d2_en_UK_lash.octrVE.Stichera3.text
+octrVE.Stichera3.text = oc.m2.d2_en_US_dedes.octrVE.Stichera3.text
 
 octrVE.Stichera4.mode = oc.m2.d2_en_US_dedes.octrVE.Stichera4.mode
 octrVE.Stichera4.melody = oc.m2.d2_en_US_dedes.octrVE.Stichera4.melody
-octrVE.Stichera4.text = oc.m2.d2_en_UK_lash.octrVE.Stichera4.text
+octrVE.Stichera4.text = oc.m2.d2_en_US_dedes.octrVE.Stichera4.text
 
 octrMA.Triadic1.mode = oc.m2.d2_en_US_dedes.octrMA.Triadic1.mode
 octrMA.Triadic1.text = oc.m2.d2_en_US_dedes.octrMA.Triadic1.text
@@ -548,9 +548,9 @@ octrMA.Kathisma12.mode = oc.m2.d2_en_US_dedes.octrMA.Kathisma12.mode
 octrMA.Kathisma12.melody = oc.m2.d2_en_US_dedes.octrMA.Kathisma12.melody
 octrMA.Kathisma12.text = oc.m2.d2_en_US_dedes.octrMA.Kathisma12.text
 
-octrMA.Kathisma13.mode = oc.m2.d2_en_US_dedes.octrMA.Kathisma13.mode
-octrMA.Kathisma13.melody = oc.m2.d2_en_US_dedes.octrMA.Kathisma13.melody
-octrMA.Kathisma13.text = oc.m2.d2_en_US_dedes.octrMA.Kathisma13.text
+octrMA.Kathisma1T.mode = oc.m2.d2_en_US_dedes.octrMA.Kathisma1T.mode
+octrMA.Kathisma1T.melody = oc.m2.d2_en_US_dedes.octrMA.Kathisma1T.melody
+octrMA.Kathisma1T.text = oc.m2.d2_en_US_dedes.octrMA.Kathisma1T.text
 
 octrMA.Ode7Martyricon.mode = oc.m2.d2_en_US_dedes.octrMA.Ode7Martyricon.mode
 octrMA.Ode7Martyricon.melody = oc.m2.d2_en_US_dedes.octrMA.Ode7Martyricon.melody

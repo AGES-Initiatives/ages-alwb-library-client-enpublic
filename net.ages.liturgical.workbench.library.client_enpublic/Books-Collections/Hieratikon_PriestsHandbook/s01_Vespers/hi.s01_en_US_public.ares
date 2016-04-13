@@ -1,36 +1,63 @@
 A_Resource_Whose_Name = hi.s01_en_US_public 
 
-hiVE.title = hi.s01_en_US_dedes.hiVE.title
+hiVE.title = hi.s01_en_UK_lash.hiVE.title
 
-hiVE.Key01.title = hi.s01_en_US_dedes.hiVE.Key01.title
+hiVE.Key01.title = hi.s01_en_UK_lash.hiVE.Key01.title
 
-hiVE.Key0101.title = hi.s01_en_US_dedes.hiVE.Key0101.title
-hiVE.Key0101.text = hi.s01_en_US_dedes.hiVE.Key0101.text
+hiVE.R001 = hi.s01_en_UK_lash.hiVE.R001
+hiVE.R002 = hi.s01_en_UK_lash.hiVE.R002
+hiVE.R003 = hi.s01_en_UK_lash.hiVE.R003
+hiVE.R004 = hi.s01_en_UK_lash.hiVE.R004
+hiVE.R005 = hi.s01_en_UK_lash.hiVE.R005
 
-hiVE.Key0102.title = hi.s01_en_US_dedes.hiVE.Key0102.title
-hiVE.Key0102.text = hi.s01_en_US_dedes.hiVE.Key0102.text
+hiVE.R101 = hi.s01_en_UK_lash.hiVE.R101
+hiVE.R102 = hi.s01_en_UK_lash.hiVE.R102
+hiVE.R103 = hi.s01_en_UK_lash.hiVE.R103
+hiVE.R104 = hi.s01_en_UK_lash.hiVE.R104
+hiVE.R105 = hi.s01_en_UK_lash.hiVE.R105
+hiVE.R106 = hi.s01_en_UK_lash.hiVE.R106
+hiVE.R107 = hi.s01_en_UK_lash.hiVE.R107
+hiVE.R108 = hi.s01_en_UK_lash.hiVE.R108
 
-hiVE.Key0103.title = hi.s01_en_US_dedes.hiVE.Key0103.title
-hiVE.Key0103.text = hi.s01_en_US_dedes.hiVE.Key0103.text
+hiVE.Key0101.title = hi.s01_en_UK_lash.hiVE.Key0101.title
+hiVE.Key0101.text = hi.s01_en_UK_lash.hiVE.Key0101.text
+hiVE.Key0101.exclamation = hi.s01_en_UK_lash.hiVE.Key0101.exclamation
 
-hiVE.Key0104.title = hi.s01_en_US_dedes.hiVE.Key0104.title
-hiVE.Key0104.text = hi.s01_en_US_dedes.hiVE.Key0104.text
+hiVE.Key0102.title = hi.s01_en_UK_lash.hiVE.Key0102.title
+hiVE.Key0102.text = hi.s01_en_UK_lash.hiVE.Key0102.text
+hiVE.Key0102.exclamation = hi.s01_en_UK_lash.hiVE.Key0102.exclamation
 
-hiVE.Key0105.title = hi.s01_en_US_dedes.hiVE.Key0105.title
-hiVE.Key0105.text = hi.s01_en_US_dedes.hiVE.Key0105.text
+hiVE.Key0103.title = hi.s01_en_UK_lash.hiVE.Key0103.title
+hiVE.Key0103.text = hi.s01_en_UK_lash.hiVE.Key0103.text
+hiVE.Key0103.exclamation = hi.s01_en_UK_lash.hiVE.Key0103.exclamation
 
-hiVE.Key0106.title = hi.s01_en_US_dedes.hiVE.Key0106.title
-hiVE.Key0106.text = hi.s01_en_US_dedes.hiVE.Key0106.text
+hiVE.Key0104.title = hi.s01_en_UK_lash.hiVE.Key0104.title
+hiVE.Key0104.text = hi.s01_en_UK_lash.hiVE.Key0104.text
+hiVE.Key0104.exclamation = hi.s01_en_UK_lash.hiVE.Key0104.exclamation
 
-hiVE.Key0107.title = hi.s01_en_US_dedes.hiVE.Key0107.title
-hiVE.Key0107.text = hi.s01_en_US_dedes.hiVE.Key0107.text
+hiVE.Key0105.title = hi.s01_en_UK_lash.hiVE.Key0105.title
+hiVE.Key0105.text = hi.s01_en_UK_lash.hiVE.Key0105.text
+hiVE.Key0105.exclamation = hi.s01_en_UK_lash.hiVE.Key0105.exclamation
 
-hiVE.Key0108.title = hi.s01_en_US_dedes.hiVE.Key0108.title
-hiVE.Key0108.text = hi.s01_en_US_dedes.hiVE.Key0108.text
+hiVE.Key0106.title = hi.s01_en_UK_lash.hiVE.Key0106.title
+hiVE.Key0106.text = hi.s01_en_UK_lash.hiVE.Key0106.text
+hiVE.Key0106.exclamation = hi.s01_en_UK_lash.hiVE.Key0106.exclamation
 
-hiVE.Key0109.text = hi.s01_en_US_dedes.hiVE.Key0109.text
+hiVE.Key0107.title = hi.s01_en_UK_lash.hiVE.Key0107.title
+hiVE.Key0107.text = hi.s01_en_UK_lash.hiVE.Key0107.text
+hiVE.Key0107.exclamation = hi.s01_en_UK_lash.hiVE.Key0107.exclamation
 
-hiVE.Key0110.text = hi.s01_en_US_dedes.hiVE.Key0110.text
+hiVE.R201 = hi.s01_en_UK_lash.hiVE.R201
+hiVE.R202 = hi.s01_en_UK_lash.hiVE.R202
 
-hiVE.Key0111.title = hi.s01_en_US_dedes.hiVE.Key0111.title
-hiVE.Key0111.text = hi.s01_en_US_dedes.hiVE.Key0111.text
+hiVE.Key0108.title = hi.s01_en_UK_lash.hiVE.Key0108.title
+hiVE.Key0108.text = hi.s01_en_UK_lash.hiVE.Key0108.text
+hiVE.Key0108.exclamation = hi.s01_en_UK_lash.hiVE.Key0108.exclamation
+
+hiVE.Key0109.text = hi.s01_en_UK_lash.hiVE.Key0109.text
+
+hiVE.Key0110.text = hi.s01_en_UK_lash.hiVE.Key0110.text
+
+hiVE.Key0111.title = hi.s01_en_UK_lash.hiVE.Key0111.title
+hiVE.Key0111.text = hi.s01_en_UK_lash.hiVE.Key0111.text
+hiVE.Key0111.exclamation = hi.s01_en_UK_lash.hiVE.Key0111.exclamation

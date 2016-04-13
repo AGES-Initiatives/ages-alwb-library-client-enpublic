@@ -82,6 +82,14 @@ co1.html.tab = template.titles_en_US_dedes.co1.html.tab  //this is the pre-resur
 co1.pdf.header = template.titles_en_US_dedes.co1.pdf.header
 co1.pdf.cover = template.titles_en_US_dedes.co1.pdf.cover
 
+co2.html.tab = template.titles_en_US_dedes.co2.html.tab 
+co2.pdf.header = template.titles_en_US_dedes.co2.pdf.header
+co2.pdf.cover = template.titles_en_US_dedes.co2.pdf.cover
+
+co3.html.tab = template.titles_en_US_dedes.co3.html.tab 
+co3.pdf.header = template.titles_en_US_dedes.co3.pdf.header
+co3.pdf.cover = template.titles_en_US_dedes.co3.pdf.cover
+
 em.html.tab = template.titles_en_US_dedes.em.html.tab 
 em.pdf.header = template.titles_en_US_dedes.em.pdf.header
 em.pdf.cover = template.titles_en_US_dedes.em.pdf.cover
@@ -218,6 +226,9 @@ d.onFridayEvening = template.titles_en_US_dedes.d.onFridayEvening
 d.onSaturdayMorning = template.titles_en_US_dedes.d.onSaturdayMorning
 d.onSaturdayEvening = template.titles_en_US_dedes.d.onSaturdayEvening
 
+me.m01.d06.onEpiphanyEve = template.titles_en_US_dedes.me.m01.d06.onEpiphanyEve
+me.m12.d25.onChristmasEve = template.titles_en_US_dedes.me.m12.d25.onChristmasEve
+
 m.month = template.titles_en_US_dedes.m.month 
 m.mode = template.titles_en_US_dedes.m.mode
 
@@ -248,6 +259,8 @@ clps.stichologia.top = template.titles_en_US_dedes.clps.stichologia.top
 clps.stichologia.bottom = template.titles_en_US_dedes.clps.stichologia.bottom
 clps.alternative.top = template.titles_en_US_dedes.clps.alternative.top
 clps.alternative.bottom = template.titles_en_US_dedes.clps.alternative.bottom
+clps.prayers.top = template.titles_en_US_dedes.clps.prayers.top
+clps.prayers.bottom = template.titles_en_US_dedes.clps.prayers.bottom
 
 bmc.tag = "" //begin marked content
 emc.tag = "" //end marked content

@@ -110,6 +110,8 @@ Eteros = titles_en_US_dedes.Eteros
 
 EterosKanon = titles_en_US_dedes.EterosKanon
 
+EterosTisEortis = titles_en_US_dedes.EterosTisEortis
+
 EteronTisEortis = titles_en_US_dedes.EteronTisEortis
 
 Evlogitaria = titles_en_US_dedes.Evlogitaria
@@ -131,6 +133,17 @@ Iamvikos = titles_en_US_dedes.Iamvikos
 Idiomela = titles_en_US_dedes.Idiomela
 
 IdiomelaTouTriodiou = titles_en_US_dedes.IdiomelaTouTriodiou
+
+Idiomelon1 = titles_en_US_dedes.Idiomelon1
+Idiomelon2 = titles_en_US_dedes.Idiomelon2
+Idiomelon3 = titles_en_US_dedes.Idiomelon3
+Idiomelon4 = titles_en_US_dedes.Idiomelon4
+Idiomelon5 = titles_en_US_dedes.Idiomelon5
+Idiomelon6 = titles_en_US_dedes.Idiomelon6
+Idiomelon7 = titles_en_US_dedes.Idiomelon7
+Idiomelon8 = titles_en_US_dedes.Idiomelon8
+Idiomelon9 = titles_en_US_dedes.Idiomelon9
+Idiomelon10 = titles_en_US_dedes.Idiomelon10
 
 IProfiteia = titles_en_US_dedes.IProfiteia
 
@@ -178,9 +191,17 @@ KanonTouAgiou = titles_en_US_dedes.KanonTouAgiou
 
 KanonTouAgiouNikolaou = titles_en_US_dedes.KanonTouAgiouNikolaou
 
+KanonTouEvangelistou = titles_en_US_dedes.KanonTouEvangelistou
+
 KanonTouOsiou = titles_en_US_dedes.KanonTouOsiou
 
+KanonTouPascha = titles_en_US_dedes.KanonTouPascha
+
 KanonTouProdromou = titles_en_US_dedes.KanonTouProdromou
+
+KanonATouTriodiou = titles_en_US_dedes.KanonATouTriodiou
+
+KanonBTouTriodiou = titles_en_US_dedes.KanonBTouTriodiou
 
 KanonTouTriodiou = titles_en_US_dedes.KanonTouTriodiou
 
@@ -225,6 +246,8 @@ KontakionProeortion = titles_en_US_dedes.KontakionProeortion
 KontakionTisEortis = titles_en_US_dedes.KontakionTisEortis
 
 KontakionTonPateron = titles_en_US_dedes.KontakionTonPateron
+
+KontakionTouPascha = titles_en_US_dedes.KontakionTouPascha
 
 KontakionTouTriodiou = titles_en_US_dedes.KontakionTouTriodiou
 
@@ -283,6 +306,8 @@ OKanon = titles_en_US_dedes.OKanon
 OKanonTisEortis = titles_en_US_dedes.OKanonTisEortis
 
 OKanonTouMinaiou = titles_en_US_dedes.OKanonTouMinaiou
+
+OKanonTouMinaiou2 = titles_en_US_dedes.OKanonTouMinaiou2 //makes English say General Menaion = titles_en_US_dedes.Omoia
 
 Omoia = titles_en_US_dedes.Omoia
 
@@ -365,9 +390,15 @@ StichiraTisTheotokou = titles_en_US_dedes.StichiraTisTheotokou
 
 StichiraTouAgiouNikolaou = titles_en_US_dedes.StichiraTouAgiouNikolaou
 
+StichiraTouMinaiou = titles_en_US_dedes.StichiraTouMinaiou
+
 StichiraTouPascha = titles_en_US_dedes.StichiraTouPascha
 
 StichiraTouProdromou = titles_en_US_dedes.StichiraTouProdromou
+
+StichiraTouStavrou = titles_en_US_dedes.StichiraTouStavrou
+
+StichiraTouTriodiou = titles_en_US_dedes.StichiraTouTriodiou
 
 Stichoi = titles_en_US_dedes.Stichoi
 
@@ -576,6 +607,13 @@ ofWeek4 = titles_en_US_dedes.ofWeek4
 ofWeek5 = titles_en_US_dedes.ofWeek5
 ofWeek6 = titles_en_US_dedes.ofWeek6
 TriadicHymns = titles_en_US_dedes.TriadicHymns
+IntermediateVersesOde1 = titles_en_US_dedes.IntermediateVersesOde1
+IntermediateVersesOde3 = titles_en_US_dedes.IntermediateVersesOde3
+IntermediateVersesOde4 = titles_en_US_dedes.IntermediateVersesOde4
+IntermediateVersesOde5 = titles_en_US_dedes.IntermediateVersesOde5
+IntermediateVersesOde6 = titles_en_US_dedes.IntermediateVersesOde6
+IntermediateVersesOde7 = titles_en_US_dedes.IntermediateVersesOde7
+IntermediateVersesOde8 = titles_en_US_dedes.IntermediateVersesOde8
 PhotagogicHymns = titles_en_US_dedes.PhotagogicHymns
 
 sourceHorologion = titles_en_US_dedes.sourceHorologion

@@ -83,7 +83,6 @@ meMA.Kathisma3T.melody = me.m05.d25_en_US_dedes.meMA.Kathisma3T.melody
 meMA.Kathisma3T.text = me.m05.d25_en_US_dedes.meMA.Kathisma3T.text
 
 meMA.MM.Prokeimenon.text = properties_en_US_public.media.key
-// http://goarch.org/chapel/lectionary_view?type=MGandcode=179andevent=66andlanguage=elanddate=5/25/2013
 
 meMA.PostGospelGlory.mode = me.m05.d25_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m05.d25_en_US_dedes.meMA.PostGospelGlory.melody
@@ -98,6 +97,8 @@ meMA.PostGospelIdiomelon.melody = me.m05.d25_en_US_dedes.meMA.PostGospelIdiomelo
 meMA.PostGospelIdiomelon.text = me.m05.d25_en_US_dedes.meMA.PostGospelIdiomelon.text
 
 meMA.C1Poet = me.m05.d25_en_US_dedes.meMA.C1Poet
+
+meMA.C1.verse = me.m05.d25_en_US_dedes.meMA.C1.verse
 
 meMA.Ode1C11.ode = me.m05.d25_en_US_dedes.meMA.Ode1C11.ode
 meMA.Ode1C11.mode = me.m05.d25_en_US_dedes.meMA.Ode1C11.mode

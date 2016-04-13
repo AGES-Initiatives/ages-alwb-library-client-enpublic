@@ -49,6 +49,8 @@ euLI.Key0702.text = eu.lichrysbasil_en_US_holycross.euLI.Key0702.text
 euLI.Key0703.text = eu.lichrysbasil_en_US_holycross.euLI.Key0703.text
 euLI.Key0704.text = eu.lichrysbasil_en_US_holycross.euLI.Key0704.text
 euLI.Key0705.text = eu.lichrysbasil_en_US_holycross.euLI.Key0705.text
+euLI.Key0706.title = eu.lichrysbasil_en_US_holycross.euLI.Key0706.title
+euLI.Key0706.rubric = eu.lichrysbasil_en_US_holycross.euLI.Key0706.rubric
 
 // Part 08 Ektenia
 euLI.Key0800.title = eu.lichrysbasil_en_US_holycross.euLI.Key0800.title
@@ -228,6 +230,9 @@ euLI.Key1528.text = eu.lichrysbasil_en_US_holycross.euLI.Key1528.text
 euLI.Key1529.text = eu.lichrysbasil_en_US_holycross.euLI.Key1529.text
 euLI.Key1530.text = eu.lichrysbasil_en_US_dedes.euLI.Key1530.text
 euLI.Key1531.text = eu.lichrysbasil_en_US_dedes.euLI.Key1531.text
+
+euLI.MM.HymnsDuringCommunion.title =  eu.lichrysbasil_en_US_dedes.euLI.MM.HymnsDuringCommunion.title
+euLI.MM.HymnsDuringCommunion.text =  eu.lichrysbasil_en_US_dedes.euLI.MM.HymnsDuringCommunion.text
 
 // Part 16 After Communion 
 euLI.Key1601.text = eu.lichrysbasil_en_US_holycross.euLI.Key1601.text

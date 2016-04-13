@@ -77,6 +77,8 @@ meMA.C1Acrostic.text = me.m09.d07_en_US_dedes.meMA.C1Acrostic.text
 
 meMA.C2Poet = me.m09.d07_en_US_dedes.meMA.C2Poet
 
+meMA.C1.verse = me.m09.d07_en_US_dedes.meMA.C1.verse
+
 meMA.Ode1C11.ode = me.m09.d07_en_US_dedes.meMA.Ode1C11.ode
 meMA.Ode1C11.mode = me.m09.d07_en_US_dedes.meMA.Ode1C11.mode
 meMA.Ode1C11.melody = me.m09.d07_en_US_dedes.meMA.Ode1C11.melody
@@ -96,6 +98,8 @@ meMA.Ode1C14.ode = me.m09.d07_en_US_dedes.meMA.Ode1C14.ode
 meMA.Ode1C14.mode = me.m09.d07_en_US_dedes.meMA.Ode1C14.mode
 meMA.Ode1C14.melody = me.m09.d07_en_US_dedes.meMA.Ode1C14.melody
 meMA.Ode1C14.text = me.m09.d07_en_US_dedes.meMA.Ode1C14.text
+
+meMA.C2.verse = me.m09.d07_en_US_dedes.meMA.C2.verse
 
 meMA.Ode1C21.ode = me.m09.d07_en_US_dedes.meMA.Ode1C21.ode
 meMA.Ode1C21.mode = me.m09.d07_en_US_dedes.meMA.Ode1C21.mode

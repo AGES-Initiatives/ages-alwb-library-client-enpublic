@@ -1,0 +1,70 @@
+A_Resource_Whose_Name = pe.d124_en_US_public
+
+peCommemoration.text = pe.d124_en_US_dedes.peCommemoration.text
+peShortCommemoration1.text = pe.d124_en_US_dedes.peShortCommemoration1.text
+peInsert1 = pe.d124_en_US_dedes.peInsert1
+peInsert2 = pe.d124_en_US_dedes.peInsert2
+peNote.text = pe.d124_en_US_dedes.peNote.text
+peHO.day = pe.d124_en_US_dedes.peHO.day
+peHO.commemorations = pe.d124_en_US_dedes.peHO.commemorations
+peHO.description1 = pe.d124_en_US_dedes.peHO.description1
+peHO.description2 = pe.d124_en_US_dedes.peHO.description2
+peHO.note1 = pe.d124_en_US_dedes.peHO.note1
+peHO.note2 = pe.d124_en_US_dedes.peHO.note2
+peDismissal = pe.d124_en_US_dedes.peDismissal
+
+peVE.Stichera01.mode = pe.d124_en_US_dedes.peVE.Stichera01.mode
+peVE.Stichera01.melody = pe.d124_en_US_dedes.peVE.Stichera01.melody
+peVE.Stichera01.text = pe.d124_en_US_dedes.peVE.Stichera01.text
+
+peVE.Stichera02.mode = pe.d124_en_US_dedes.peVE.Stichera02.mode
+peVE.Stichera02.melody = pe.d124_en_US_dedes.peVE.Stichera02.melody
+peVE.Stichera02.text = pe.d124_en_US_dedes.peVE.Stichera02.text
+
+peVE.Stichera03.mode = pe.d124_en_US_dedes.peVE.Stichera03.mode
+peVE.Stichera03.melody = pe.d124_en_US_dedes.peVE.Stichera03.melody
+peVE.Stichera03.text = pe.d124_en_US_dedes.peVE.Stichera03.text
+
+peVE.SticGlory.mode = pe.d124_en_US_dedes.peVE.SticGlory.mode
+peVE.SticGlory.melody = pe.d124_en_US_dedes.peVE.SticGlory.melody
+peVE.SticGlory.text = pe.d124_en_US_dedes.peVE.SticGlory.text
+
+peVE.Aposticha1.mode = pe.d124_en_US_dedes.peVE.Aposticha1.mode
+peVE.Aposticha1.melody = pe.d124_en_US_dedes.peVE.Aposticha1.melody
+peVE.Aposticha1.text = pe.d124_en_US_dedes.peVE.Aposticha1.text
+
+peVE.Aposticha2.mode = pe.d124_en_US_dedes.peVE.Aposticha2.mode
+peVE.Aposticha2.melody = pe.d124_en_US_dedes.peVE.Aposticha2.melody
+peVE.Aposticha2.text = pe.d124_en_US_dedes.peVE.Aposticha2.text
+
+peVE.Aposticha3.mode = pe.d124_en_US_dedes.peVE.Aposticha3.mode
+peVE.Aposticha3.melody = pe.d124_en_US_dedes.peVE.Aposticha3.melody
+peVE.Aposticha3.text = pe.d124_en_US_dedes.peVE.Aposticha3.text
+
+peVE.AposGlory.mode = pe.d124_en_US_dedes.peVE.AposGlory.mode
+peVE.AposGlory.melody = pe.d124_en_US_dedes.peVE.AposGlory.melody
+peVE.AposGlory.text = pe.d124_en_US_dedes.peVE.AposGlory.text
+
+peMA.Kathisma11.mode = pe.d124_en_US_dedes.peMA.Kathisma11.mode
+peMA.Kathisma11.melody = pe.d124_en_US_dedes.peMA.Kathisma11.melody
+peMA.Kathisma11.text = pe.d124_en_US_dedes.peMA.Kathisma11.text
+
+peMA.Kathisma21.mode = pe.d124_en_US_dedes.peMA.Kathisma21.mode
+peMA.Kathisma21.melody = pe.d124_en_US_dedes.peMA.Kathisma21.melody
+peMA.Kathisma21.text = pe.d124_en_US_dedes.peMA.Kathisma21.text
+
+peMA.Aposticha1.mode = pe.d124_en_US_dedes.peMA.Aposticha1.mode
+peMA.Aposticha1.melody = pe.d124_en_US_dedes.peMA.Aposticha1.melody
+peMA.Aposticha1.text = pe.d124_en_US_dedes.peMA.Aposticha1.text
+
+peMA.Aposticha2.mode = pe.d124_en_US_dedes.peMA.Aposticha2.mode
+peMA.Aposticha2.melody = pe.d124_en_US_dedes.peMA.Aposticha2.melody
+peMA.Aposticha2.text = pe.d124_en_US_dedes.peMA.Aposticha2.text
+
+peMA.Aposticha3.mode = pe.d124_en_US_dedes.peMA.Aposticha3.mode
+peMA.Aposticha3.melody = pe.d124_en_US_dedes.peMA.Aposticha3.melody
+peMA.Aposticha3.text = pe.d124_en_US_dedes.peMA.Aposticha3.text
+
+peMA.AposGlory.mode = pe.d124_en_US_dedes.peMA.AposGlory.mode
+peMA.AposGlory.melody = pe.d124_en_US_dedes.peMA.AposGlory.melody
+peMA.AposGlory.text = pe.d124_en_US_dedes.peMA.AposGlory.text

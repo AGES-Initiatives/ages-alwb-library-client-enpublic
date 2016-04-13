@@ -46,6 +46,8 @@ meMA.Ode1C1H.mode = me.m04.d14_en_US_dedes.meMA.Ode1C1H.mode
 meMA.Ode1C1H.melody = me.m04.d14_en_US_dedes.meMA.Ode1C1H.melody
 meMA.Ode1C1H.text = me.m04.d14_en_US_dedes.meMA.Ode1C1H.text
 
+meMA.C1.verse = me.m04.d14_en_US_dedes.meMA.C1.verse
+
 meMA.Ode1C11.ode = me.m04.d14_en_US_dedes.meMA.Ode1C11.ode
 meMA.Ode1C11.mode = me.m04.d14_en_US_dedes.meMA.Ode1C11.mode
 meMA.Ode1C11.melody = me.m04.d14_en_US_dedes.meMA.Ode1C11.melody

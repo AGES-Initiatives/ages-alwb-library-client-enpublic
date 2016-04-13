@@ -56,15 +56,15 @@ peVE.Lity1.text = pe.d120_en_UK_lash.peVE.Lity1.text
 
 peVE.Lity2.mode = pe.d120_en_US_dedes.peVE.Lity2.mode
 peVE.Lity2.melody = pe.d120_en_US_dedes.peVE.Lity2.melody
-peVE.Lity2.text = pe.d120_en_US_dedes.peVE.Lity2.text
+peVE.Lity2.text = pe.d120_en_UK_lash.peVE.Lity2.text
 
 peVE.Lity3.mode = pe.d120_en_US_dedes.peVE.Lity3.mode
 peVE.Lity3.melody = pe.d120_en_US_dedes.peVE.Lity3.melody
-peVE.Lity3.text = pe.d120_en_US_dedes.peVE.Lity3.text
+peVE.Lity3.text = pe.d120_en_UK_lash.peVE.Lity3.text
 
 peVE.LityGlory.mode = pe.d120_en_US_dedes.peVE.LityGlory.mode
 peVE.LityGlory.melody = pe.d120_en_US_dedes.peVE.LityGlory.melody
-peVE.LityGlory.text = pe.d120_en_US_dedes.peVE.LityGlory.text
+peVE.LityGlory.text = pe.d120_en_UK_lash.peVE.LityGlory.text
 
 peVE.Aposticha1.mode = pe.d120_en_US_dedes.peVE.Aposticha1.mode
 peVE.Aposticha1.melody = pe.d120_en_US_dedes.peVE.Aposticha1.melody
