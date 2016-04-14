@@ -259,13 +259,13 @@ peMA.Ode4C225.text = pe.d120_en_UK_lash.peMA.Ode4C225.text
 
 peMA.Ode4C23.ode = pe.d120_en_US_dedes.peMA.Ode4C23.ode
 peMA.Ode4C23.mode = pe.d120_en_US_dedes.peMA.Ode4C23.mode
-peMA.Ode4C23.melody = pe.d120_en_UK_lash.peMA.Ode4C23.melody
-peMA.Ode4C23.text = pe.d120_en_UK_lash.peMA.Ode4C23.text
-peMA.Ode4C231.text = pe.d120_en_UK_lash.peMA.Ode4C231.text
-peMA.Ode4C232.text = pe.d120_en_UK_lash.peMA.Ode4C232.text
-peMA.Ode4C233.text = pe.d120_en_UK_lash.peMA.Ode4C233.text
-peMA.Ode4C234.text = pe.d120_en_UK_lash.peMA.Ode4C234.text
-peMA.Ode4C235.text = pe.d120_en_UK_lash.peMA.Ode4C235.text
+peMA.Ode4C23.melody = pe.d120_en_US_dedes.peMA.Ode4C23.melody
+peMA.Ode4C23.text = pe.d120_en_US_dedes.peMA.Ode4C23.text
+peMA.Ode4C231.text = pe.d120_en_US_dedes.peMA.Ode4C231.text
+peMA.Ode4C232.text = pe.d120_en_US_dedes.peMA.Ode4C232.text
+peMA.Ode4C233.text = pe.d120_en_US_dedes.peMA.Ode4C233.text
+peMA.Ode4C234.text = pe.d120_en_US_dedes.peMA.Ode4C234.text
+peMA.Ode4C235.text = pe.d120_en_US_dedes.peMA.Ode4C235.text
 
 peMA.Ode5C1H.ode = pe.d120_en_US_dedes.peMA.Ode5C1H.ode
 peMA.Ode5C1H.mode = pe.d120_en_US_dedes.peMA.Ode5C1H.mode
