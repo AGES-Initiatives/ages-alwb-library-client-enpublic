@@ -1,14 +1,14 @@
 A_Resource_Whose_Name = prayers_en_US_public 
 
-Doxa = prayers_en_US_holycross.Doxa
+Doxa = prayers_en_US_goa.Doxa
 
-DoxaKaiNyn = prayers_en_US_holycross.DoxaKaiNyn
+DoxaKaiNyn = prayers_en_US_goa.DoxaKaiNyn
 
-KaiNyn = prayers_en_US_holycross.KaiNyn
+KaiNyn = prayers_en_US_goa.KaiNyn
 
-Allilouia1 = prayers_en_US_holycross.Allilouia1
+Allilouia1 = prayers_en_US_goa.Allilouia1
 
-Allilouia3.text = prayers_en_US_holycross.Allilouia3.text
+Allilouia3.text = prayers_en_US_goa.Allilouia3.text
 
 Allilouia3Doxa.text = prayers_en_US_holycross.Allilouia3Doxa.text
 
@@ -20,21 +20,21 @@ DefteProskinisomen3 = prayers_en_US_holycross.DefteProskinisomen3
 
 DiEfchonDespotou.text = prayers_en_US_holycross.DiEfchonDespotou.text
 
-DiEfchonPateron.text = prayers_en_US_holycross.DiEfchonPateron.text
+DiEfchonPateron.text = prayers_en_US_goa.DiEfchonPateron.text
 
-DoxaPatri.text = prayers_en_US_holycross.DoxaPatri.text
+DoxaPatri.text = prayers_en_US_goa.DoxaPatri.text
 
 DoxaSoiChriste1 = prayers_en_US_holycross.DoxaSoiChriste1
 
 DoxaSoiChriste2 = prayers_en_US_holycross.DoxaSoiChriste2
 
-DoxaSoiKyrie = prayers_en_US_holycross.DoxaSoiKyrie
+DoxaSoiKyrie = prayers_en_US_goa.DoxaSoiKyrie
 
-DoxaSoiKyrieP = prayers_en_US_holycross.DoxaSoiKyrieP
+DoxaSoiKyrieP = prayers_en_US_goa.DoxaSoiKyrieP
 
-DoxaSoiOTheos1 = prayers_en_US_holycross.DoxaSoiOTheos1
+DoxaSoiOTheos1 = prayers_en_US_goa.DoxaSoiOTheos1
 
-DoxaSoiOTheosImon.text = prayers_en_US_holycross.DoxaSoiOTheosImon.text
+DoxaSoiOTheosImon.text = prayers_en_US_goa.DoxaSoiOTheosImon.text
 
 DoxaTiMakrothymia.text = prayers_en_US_holycross.DoxaTiMakrothymia.text
 
@@ -50,17 +50,17 @@ EvlogoumenPatera.text = prayers_en_US_holycross.EvlogoumenPatera.text
 
 IElpisImonKyrie = prayers_en_US_holycross.IElpisImonKyrie
 
-KaiNynKaiAei.text = prayers_en_US_holycross.KaiNynKaiAei.text
+KaiNynKaiAei.text = prayers_en_US_goa.KaiNynKaiAei.text
 
 Kelefson = prayers_en_US_holycross.Kelefson
 
-KelefsonDespota = prayers_en_US_holycross.KelefsonDespota
+KelefsonDespota = prayers_en_US_goa.KelefsonDespota
 
 KelefsonDespotaAgie = prayers_en_US_holycross.KelefsonDespotaAgie
 
 OTheosOiktirisai.text = prayers_en_US_holycross.OTheosOiktirisai.text
 
-PantoteNyn.text = prayers_en_US_holycross.PantoteNyn.text
+PantoteNyn.text = prayers_en_US_goa.PantoteNyn.text
 
 Evlogison = prayers_en_US_holycross.Evlogison
 
@@ -72,9 +72,9 @@ EvlogisonThymiama.text = prayers_en_US_holycross.EvlogisonThymiama.text
 
 EleisonMeOTheos.text = prayers_en_US_holycross.EleisonMeOTheos.text
 
-AxionEstin.text = prayers_en_US_dedes.AxionEstin.text
+AxionEstin.text = prayers_en_US_goa.AxionEstin.text
 
-AgiosOTheos.text = prayers_en_US_holycross.AgiosOTheos.text
+AgiosOTheos.text = prayers_en_US_goa.AgiosOTheos.text
 
 EpouranieVasilef.text = prayers_en_US_holycross.EpouranieVasilef.text
 
@@ -99,9 +99,9 @@ PaschaDialog4.text = prayers_en_US_holycross.PaschaDialog4.text
 PaschaDialog5.text = prayers_en_US_holycross.PaschaDialog5.text
 PaschaDialog6.text = prayers_en_US_holycross.PaschaDialog6.text
 
-PaterImon.text = prayers_en_US_holycross.PaterImon.text
+PaterImon.text = prayers_en_US_goa.PaterImon.text
 
-Pistevo.text = prayers_en_US_holycross.Pistevo.text
+Pistevo.text = prayers_en_US_goa.Pistevo.text
 
 StereosaiKyrios.text = prayers_en_US_holycross.StereosaiKyrios.text
 
@@ -127,19 +127,19 @@ fbPresveiaisKyrieTonAgion = prayers_en_US_holycross.fbPresveiaisKyrieTonAgion
 
 enarxis01 = prayers_en_US_holycross.enarxis01
 
-enarxis02 = prayers_en_US_holycross.enarxis02
+enarxis02 = prayers_en_US_goa.enarxis02
 
 enarxis03 = prayers_en_US_holycross.enarxis03
 
-pet00 = prayers_en_US_holycross.pet00
+pet00 = prayers_en_US_goa.pet00
 
-pet01 = prayers_en_US_holycross.pet01
+pet01 = prayers_en_US_goa.pet01
 
-pet02 = prayers_en_US_holycross.pet02
+pet02 = prayers_en_US_goa.pet02
 
-pet03 = prayers_en_US_holycross.pet03
+pet03 = prayers_en_US_goa.pet03
 
-pet04 = prayers_en_US_holycross.pet04
+pet04 = prayers_en_US_goa.pet04
 
 pet04alt1.title = prayers_en_US_holycross.pet04alt1.title
 pet04alt1 = prayers_en_US_holycross.pet04alt1
@@ -147,49 +147,49 @@ pet04alt1 = prayers_en_US_holycross.pet04alt1
 pet04alt2.title = prayers_en_US_holycross.pet04alt2.title
 pet04alt2 = prayers_en_US_holycross.pet04alt2
 
-pet05 = prayers_en_US_holycross.pet05
+pet05 = prayers_en_US_goa.pet05
 
-pet06 = prayers_en_US_holycross.pet06
+pet06 = prayers_en_US_goa.pet06
 
-pet06a = prayers_en_US_holycross.pet06a
+pet06a = prayers_en_US_goa.pet06a
 
-pet06b = prayers_en_US_holycross.pet06b
+pet06b = prayers_en_US_goa.pet06b
 
 pet07L = prayers_en_US_holycross.pet07L
 
-pet07S = prayers_en_US_holycross.pet07S
+pet07S = prayers_en_US_goa.pet07S
 
 pet07Sa = prayers_en_US_holycross.pet07Sa
 
-pet08 = prayers_en_US_holycross.pet08
+pet08 = prayers_en_US_goa.pet08
 
-pet09 = prayers_en_US_holycross.pet09
+pet09 = prayers_en_US_goa.pet09
 
-pet10 = prayers_en_US_holycross.pet10
+pet10 = prayers_en_US_goa.pet10
 
-pet11 = prayers_en_US_holycross.pet11
+pet11 = prayers_en_US_goa.pet11
 
-pet12 = prayers_en_US_holycross.pet12
+pet12 = prayers_en_US_goa.pet12
 
-pet13 = prayers_en_US_holycross.pet13
+pet13 = prayers_en_US_goa.pet13
 
-pet14 = prayers_en_US_holycross.pet14
+pet14 = prayers_en_US_goa.pet14
 
-pet15 = prayers_en_US_holycross.pet15
+pet15 = prayers_en_US_goa.pet15
 
-pet16 = prayers_en_US_holycross.pet16
+pet16 = prayers_en_US_goa.pet16
 
-pet17 = prayers_en_US_holycross.pet17
+pet17 = prayers_en_US_goa.pet17
 
 pet18 = prayers_en_US_holycross.pet18
 
-pet19 = prayers_en_US_holycross.pet19
+pet19 = prayers_en_US_goa.pet19
 
-pet19a = prayers_en_US_holycross.pet19a
+pet19a = prayers_en_US_goa.pet19a
 
-pet20 = prayers_en_US_holycross.pet20
+pet20 = prayers_en_US_goa.pet20
 
-pet21 = prayers_en_US_holycross.pet21
+pet21 = prayers_en_US_goa.pet21
 
 pet21a = prayers_en_US_holycross.pet21a
 
@@ -201,33 +201,33 @@ pet21d = prayers_en_US_holycross.pet21d
 
 pet21p = prayers_en_US_holycross.pet21p
 
-pet22 = prayers_en_US_holycross.pet22
+pet22 = prayers_en_US_goa.pet22
 
-pet23 = prayers_en_US_holycross.pet23
+pet23 = prayers_en_US_goa.pet23
 
-pet24 = prayers_en_US_holycross.pet24
+pet24 = prayers_en_US_goa.pet24
 
-pet24v = prayers_en_US_holycross.pet24v
+pet24v = prayers_en_US_goa.pet24v
 
-pet24m = prayers_en_US_holycross.pet24m
+pet24m = prayers_en_US_goa.pet24m
 
-pet25v = prayers_en_US_holycross.pet25v
+pet25v = prayers_en_US_goa.pet25v
 
-pet25m = prayers_en_US_holycross.pet25m
+pet25m = prayers_en_US_goa.pet25m
 
-pet26 = prayers_en_US_holycross.pet26
+pet26 = prayers_en_US_goa.pet26
 
-pet27 = prayers_en_US_holycross.pet27
+pet27 = prayers_en_US_goa.pet27
 
-pet28 = prayers_en_US_holycross.pet28
+pet28 = prayers_en_US_goa.pet28
 
-pet29 = prayers_en_US_holycross.pet29
+pet29 = prayers_en_US_goa.pet29
 
-pet30 = prayers_en_US_holycross.pet30
+pet30 = prayers_en_US_goa.pet30
 
-pet31 = prayers_en_US_holycross.pet31
+pet31 = prayers_en_US_goa.pet31
 
-pet32 = prayers_en_US_holycross.pet32
+pet32 = prayers_en_US_goa.pet32
 
 pet33 = prayers_en_US_holycross.pet33
 
@@ -237,11 +237,11 @@ pet35 = prayers_en_US_holycross.pet35
 
 pet36 = prayers_en_US_holycross.pet36
 
-pet37 = prayers_en_US_holycross.pet37
+pet37 = prayers_en_US_goa.pet37
 
-pet37a = prayers_en_US_holycross.pet37a
+pet37a = prayers_en_US_goa.pet37a
 
-pet37b = prayers_en_US_holycross.pet37b
+pet37b = prayers_en_US_goa.pet37b
 
 petBap01 = prayers_en_US_holycross.petBap01
 
@@ -257,29 +257,29 @@ petBap06 = prayers_en_US_holycross.petBap06
 
 petBap07 = prayers_en_US_holycross.petBap07
 
-petCatechumens01 = prayers_en_US_holycross.petCatechumens01
+petCatechumens01 = prayers_en_US_goa.petCatechumens01
 
-petCatechumens02 = prayers_en_US_holycross.petCatechumens02
+petCatechumens02 = prayers_en_US_goa.petCatechumens02
 
-petCatechumens03 = prayers_en_US_holycross.petCatechumens03
+petCatechumens03 = prayers_en_US_goa.petCatechumens03
 
-petCatechumens04 = prayers_en_US_holycross.petCatechumens04
+petCatechumens04 = prayers_en_US_goa.petCatechumens04
 
-petCatechumens05 = prayers_en_US_holycross.petCatechumens05
+petCatechumens05 = prayers_en_US_goa.petCatechumens05
 
-petCatechumens06 = prayers_en_US_holycross.petCatechumens06
+petCatechumens06 = prayers_en_US_goa.petCatechumens06
 
-petCatechumens07 = prayers_en_US_holycross.petCatechumens07
+petCatechumens07 = prayers_en_US_goa.petCatechumens07
 
-petCatechumens08 = prayers_en_US_holycross.petCatechumens08
+petCatechumens08 = prayers_en_US_goa.petCatechumens08
 
-petCatechumens09 = prayers_en_US_holycross.petCatechumens09
+petCatechumens09 = prayers_en_US_goa.petCatechumens09
 
-petCatechumens10 = prayers_en_US_holycross.petCatechumens10
+petCatechumens10 = prayers_en_US_goa.petCatechumens10
 
-petCatechumens11 = prayers_en_US_holycross.petCatechumens11
+petCatechumens11 = prayers_en_US_goa.petCatechumens11
 
-petCatechumens12 = prayers_en_US_holycross.petCatechumens12
+petCatechumens12 = prayers_en_US_goa.petCatechumens12
 
 petCatechumens13 = prayers_en_US_holycross.petCatechumens13
 
@@ -484,15 +484,15 @@ sup15 = prayers_en_US_holycross.sup15
 
 sup99 = prayers_en_US_holycross.sup99
 
-res01 = prayers_en_US_holycross.res01
+res01 = prayers_en_US_goa.res01
 
-res02 = prayers_en_US_holycross.res02
+res02 = prayers_en_US_goa.res02
 
-res03 = prayers_en_US_holycross.res03
+res03 = prayers_en_US_goa.res03
 
-res04 = prayers_en_US_holycross.res04
+res04 = prayers_en_US_goa.res04
 
-res05 = prayers_en_US_holycross.res05
+res05 = prayers_en_US_goa.res05
 
 res06 = prayers_en_US_holycross.res06
 res06.MM.long.sos.text = prayers_en_US_holycross.res06.MM.long.sos.text
@@ -503,29 +503,29 @@ res08 = prayers_en_US_holycross.res08
 
 res09 = prayers_en_US_holycross.res09
 
-res10 = prayers_en_US_holycross.res10
+res10 = prayers_en_US_goa.res10
 
 res12 = prayers_en_US_holycross.res12
 
 res13 = prayers_en_US_holycross.res13
 
-res14 = prayers_en_US_holycross.res14
+res14 = prayers_en_US_goa.res14
 
-res15 = prayers_en_US_holycross.res15
+res15 = prayers_en_US_goa.res15
 
-res16 = prayers_en_US_holycross.res16
+res16 = prayers_en_US_goa.res16
 
-res01p = prayers_en_US_holycross.res01p
+res01p = prayers_en_US_goa.res01p
 
-res02p = prayers_en_US_holycross.res02p
+res02p = prayers_en_US_goa.res02p
 
-res03p = prayers_en_US_holycross.res03p
+res03p = prayers_en_US_goa.res03p
 
-res04p = prayers_en_US_holycross.res04p
+res04p = prayers_en_US_goa.res04p
 
-res05p = prayers_en_US_holycross.res05p
+res05p = prayers_en_US_goa.res05p
 
-res06p = prayers_en_US_holycross.res06p
+res06p = prayers_en_US_goa.res06p
 
 res07p = prayers_en_US_holycross.res07p
 
@@ -533,41 +533,41 @@ res08p = prayers_en_US_holycross.res08p
 
 res09p = prayers_en_US_holycross.res09p
 
-res10p = prayers_en_US_holycross.res10p
+res10p = prayers_en_US_goa.res10p
 
 res12p = prayers_en_US_holycross.res12p
 
 res13p = prayers_en_US_holycross.res13p
 
-res14p = prayers_en_US_holycross.res14p
+res14p = prayers_en_US_goa.res14p
 
-res15p = prayers_en_US_holycross.res15p
+res15p = prayers_en_US_goa.res15p
 
-res16p = prayers_en_US_holycross.res16p
+res16p = prayers_en_US_goa.res16p
 
-exc01 = prayers_en_US_holycross.exc01
+exc01 = prayers_en_US_goa.exc01
 
 exc01a = prayers_en_US_holycross.exc01a
 
-exc02 = prayers_en_US_holycross.exc02
+exc02 = prayers_en_US_goa.exc02
 
-exc03 = prayers_en_US_holycross.exc03
+exc03 = prayers_en_US_goa.exc03
 
 exc04 = prayers_en_US_holycross.exc04
 
 exc04a = ""
 
-exc05 = prayers_en_US_holycross.exc05
+exc05 = prayers_en_US_goa.exc05
 
-exc05a = prayers_en_US_holycross.exc05a
+exc05a = prayers_en_US_goa.exc05a
 
-exc05b = prayers_en_US_holycross.exc05b
+exc05b = prayers_en_US_goa.exc05b
 
 exc06 = prayers_en_US_holycross.exc06
 
 exc07 = prayers_en_US_holycross.exc07
 
-exc07a = prayers_en_US_holycross.exc07a
+exc07a = prayers_en_US_goa.exc07a
 
 exc07b = prayers_en_US_holycross.exc07b
 
@@ -595,19 +595,19 @@ exc16 = prayers_en_US_holycross.exc16
 
 exc16a = prayers_en_US_holycross.exc16a
 
-exc17 = prayers_en_US_holycross.exc17
+exc17 = prayers_en_US_goa.exc17
 
-exc18 = prayers_en_US_holycross.exc18
+exc18 = prayers_en_US_goa.exc18
 
-exc19 = prayers_en_US_holycross.exc19
+exc19 = prayers_en_US_goa.exc19
 
-exc20 = prayers_en_US_holycross.exc20
+exc20 = prayers_en_US_goa.exc20
 
 exc22 = prayers_en_US_holycross.exc22
 
 exc23 = prayers_en_US_holycross.exc23
 
-exc24 = prayers_en_US_holycross.exc24
+exc24 = prayers_en_US_goa.exc24
 
 exc25 = prayers_en_US_holycross.exc25
 
@@ -619,21 +619,21 @@ exc28 = prayers_en_US_holycross.exc28
 
 exc29 = prayers_en_US_holycross.exc29
 
-epi01a = prayers_en_US_holycross.epi01a
+epi01a = prayers_en_US_goa.epi01a
 
 epi01b = prayers_en_US_holycross.epi01b
 
-epi02 = prayers_en_US_holycross.epi02
+epi02 = prayers_en_US_goa.epi02
 
 gos01 = prayers_en_US_holycross.gos01
 
-gos02 = prayers_en_US_holycross.gos02
+gos02 = prayers_en_US_goa.gos02
 
-gos03a = prayers_en_US_holycross.gos03a
+gos03a = prayers_en_US_goa.gos03a
 
 gos03b = prayers_en_US_holycross.gos03b
 
-gos04 = prayers_en_US_holycross.gos04
+gos04 = prayers_en_US_goa.gos04
 
 verse_Angels.text = prayers_en_US_holycross.verse_Angels.text
 
