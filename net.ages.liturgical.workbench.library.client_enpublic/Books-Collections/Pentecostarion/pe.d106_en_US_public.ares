@@ -380,6 +380,22 @@ peMA.Exaposteilarion2.mode = pe.d106_en_US_dedes.peMA.Exaposteilarion2.mode
 peMA.Exaposteilarion2.melody = pe.d106_en_US_dedes.peMA.Exaposteilarion2.melody
 peMA.Exaposteilarion2.text = pe.d106_en_US_dedes.peMA.Exaposteilarion2.text
 
+peMA.Lauds1.mode = pe.d106_en_US_dedes.peMA.Lauds1.mode
+peMA.Lauds1.melody = pe.d106_en_US_dedes.peMA.Lauds1.melody
+peMA.Lauds1.text = pe.d106_en_US_dedes.peMA.Lauds1.text
+
+peMA.Lauds2.mode = pe.d106_en_US_dedes.peMA.Lauds2.mode
+peMA.Lauds2.melody = pe.d106_en_US_dedes.peMA.Lauds2.melody
+peMA.Lauds2.text = pe.d106_en_US_dedes.peMA.Lauds2.text
+
+peMA.Lauds3.mode = pe.d106_en_US_dedes.peMA.Lauds3.mode
+peMA.Lauds3.melody = pe.d106_en_US_dedes.peMA.Lauds3.melody
+peMA.Lauds3.text = pe.d106_en_US_dedes.peMA.Lauds3.text
+
+peMA.Lauds4.mode = pe.d106_en_US_dedes.peMA.Lauds4.mode
+peMA.Lauds4.melody = pe.d106_en_US_dedes.peMA.Lauds4.melody
+peMA.Lauds4.text = pe.d106_en_US_dedes.peMA.Lauds4.text
+
 peMA.LaudsVerse8.text = pe.d106_en_US_dedes.peMA.LaudsVerse8.text
 
 peMA.Lauds8.mode = pe.d106_en_US_dedes.peMA.Lauds8.mode
