@@ -27,8 +27,8 @@ meVE.Stichera03.melody = me.m10.d02_en_US_dedes.meVE.Stichera03.melody
 meVE.Stichera03.text = me.m10.d02_en_US_dedes.meVE.Stichera03.text
 
 meVE.SticGlory.mode = me.m10.d02_en_US_dedes.meVE.SticGlory.mode
-meVE.SticGlory.melody = me.m10.d02_en_US_dedes.meVE.SticGlory.melody
-meVE.SticGlory.text = me.m10.d02_en_US_dedes.meVE.SticGlory.text
+meVE.SticGlory.melody = me.m10.d02_en_US_oca.meVE.SticGlory.melody
+meVE.SticGlory.text = me.m10.d02_en_US_oca.meVE.SticGlory.text
 
 meVE.SticTheotokion.mode = me.m10.d02_en_US_dedes.meVE.SticTheotokion.mode
 meVE.SticTheotokion.melody = me.m10.d02_en_US_dedes.meVE.SticTheotokion.melody
@@ -39,8 +39,8 @@ meVE.SticStavrotheotokion.melody = me.m10.d02_en_US_dedes.meVE.SticStavrotheotok
 meVE.SticStavrotheotokion.text = me.m10.d02_en_US_dedes.meVE.SticStavrotheotokion.text
 
 meVE.AposGlory.mode = me.m10.d02_en_US_dedes.meVE.AposGlory.mode
-meVE.AposGlory.melody = me.m10.d02_en_US_dedes.meVE.AposGlory.melody
-meVE.AposGlory.text = me.m10.d02_en_US_dedes.meVE.AposGlory.text
+meVE.AposGlory.melody = me.m10.d02_en_US_oca.meVE.AposGlory.melody
+meVE.AposGlory.text = me.m10.d02_en_US_oca.meVE.AposGlory.text
 
 meVE.AposTheotokion.mode = me.m10.d02_en_US_dedes.meVE.AposTheotokion.mode
 meVE.AposTheotokion.melody = me.m10.d02_en_US_dedes.meVE.AposTheotokion.melody
