@@ -76,6 +76,8 @@ meVE.Apolytikion2.mode = me.m10.d09_en_US_dedes.meVE.Apolytikion2.mode
 meVE.Apolytikion2.melody = me.m10.d09_en_US_dedes.meVE.Apolytikion2.melody
 meVE.Apolytikion2.text = me.m10.d09_en_US_dedes.meVE.Apolytikion2.text
 
+//this is not the same canon as in cog, but a general canon
+meMA.C1.notice = rubrical_en_US_public.DifferentMenaionCanonInEnglish
 meMA.C1Poet = me.m10.d09_en_US_dedes.meMA.C1Poet
 meMA.C1Acrostic.text = me.m10.d09_en_US_dedes.meMA.C1Acrostic.text
 
@@ -83,25 +85,25 @@ meMA.C2Acrostic.text = me.m10.d09_en_US_dedes.meMA.C2Acrostic.text
 
 meMA.C1.verse = me.m10.d09_en_US_dedes.meMA.C1.verse
 
-meMA.Ode1C11.ode = me.m10.d09_en_US_dedes.meMA.Ode1C11.ode
-meMA.Ode1C11.mode = me.m10.d09_en_US_dedes.meMA.Ode1C11.mode
-meMA.Ode1C11.melody = me.m10.d09_en_US_dedes.meMA.Ode1C11.melody
-meMA.Ode1C11.text = me.m10.d09_en_US_dedes.meMA.Ode1C11.text
+meMA.Ode1C11.ode = gm.foranapostle_en_UK_lash.meMA.Ode1C11.ode
+meMA.Ode1C11.mode = gm.foranapostle_en_UK_lash.meMA.Ode1C11.mode
+meMA.Ode1C11.melody = gm.foranapostle_en_UK_lash.meMA.Ode1C11.melody
+meMA.Ode1C11.text = gm.foranapostle_en_UK_lash.meMA.Ode1C11.text
 
-meMA.Ode1C12.ode = me.m10.d09_en_US_dedes.meMA.Ode1C12.ode
-meMA.Ode1C12.mode = me.m10.d09_en_US_dedes.meMA.Ode1C12.mode
-meMA.Ode1C12.melody = me.m10.d09_en_US_dedes.meMA.Ode1C12.melody
-meMA.Ode1C12.text = me.m10.d09_en_US_dedes.meMA.Ode1C12.text
+meMA.Ode1C12.ode = gm.foranapostle_en_UK_lash.meMA.Ode1C12.ode
+meMA.Ode1C12.mode = gm.foranapostle_en_UK_lash.meMA.Ode1C12.mode
+meMA.Ode1C12.melody = gm.foranapostle_en_UK_lash.meMA.Ode1C12.melody
+meMA.Ode1C12.text = gm.foranapostle_en_UK_lash.meMA.Ode1C12.text
 
-meMA.Ode1C13.ode = me.m10.d09_en_US_dedes.meMA.Ode1C13.ode
-meMA.Ode1C13.mode = me.m10.d09_en_US_dedes.meMA.Ode1C13.mode
-meMA.Ode1C13.melody = me.m10.d09_en_US_dedes.meMA.Ode1C13.melody
-meMA.Ode1C13.text = me.m10.d09_en_US_dedes.meMA.Ode1C13.text
+meMA.Ode1C13.ode = gm.foranapostle_en_UK_lash.meMA.Ode1C13.ode
+meMA.Ode1C13.mode = gm.foranapostle_en_UK_lash.meMA.Ode1C13.mode
+meMA.Ode1C13.melody = gm.foranapostle_en_UK_lash.meMA.Ode1C13.melody
+meMA.Ode1C13.text = gm.foranapostle_en_UK_lash.meMA.Ode1C13.text
 
-meMA.Ode1C1T.ode = me.m10.d09_en_US_dedes.meMA.Ode1C1T.ode
-meMA.Ode1C1T.mode = me.m10.d09_en_US_dedes.meMA.Ode1C1T.mode
-meMA.Ode1C1T.melody = me.m10.d09_en_US_dedes.meMA.Ode1C1T.melody
-meMA.Ode1C1T.text = me.m10.d09_en_US_dedes.meMA.Ode1C1T.text
+meMA.Ode1C1T.ode = gm.foranapostle_en_UK_lash.meMA.Ode1C1T.ode
+meMA.Ode1C1T.mode = gm.foranapostle_en_UK_lash.meMA.Ode1C1T.mode
+meMA.Ode1C1T.melody = gm.foranapostle_en_UK_lash.meMA.Ode1C1T.melody
+meMA.Ode1C1T.text = gm.foranapostle_en_UK_lash.meMA.Ode1C1T.text
 
 meMA.C2.verse = me.m10.d09_en_US_dedes.meMA.C2.verse
 
@@ -125,25 +127,25 @@ meMA.Ode1C2T.mode = me.m10.d09_en_US_dedes.meMA.Ode1C2T.mode
 meMA.Ode1C2T.melody = me.m10.d09_en_US_dedes.meMA.Ode1C2T.melody
 meMA.Ode1C2T.text = me.m10.d09_en_US_dedes.meMA.Ode1C2T.text
 
-meMA.Ode3C11.ode = me.m10.d09_en_US_dedes.meMA.Ode3C11.ode
-meMA.Ode3C11.mode = me.m10.d09_en_US_dedes.meMA.Ode3C11.mode
-meMA.Ode3C11.melody = me.m10.d09_en_US_dedes.meMA.Ode3C11.melody
-meMA.Ode3C11.text = me.m10.d09_en_US_dedes.meMA.Ode3C11.text
+meMA.Ode3C11.ode = gm.foranapostle_en_UK_lash.meMA.Ode3C11.ode
+meMA.Ode3C11.mode = gm.foranapostle_en_UK_lash.meMA.Ode3C11.mode
+meMA.Ode3C11.melody = gm.foranapostle_en_UK_lash.meMA.Ode3C11.melody
+meMA.Ode3C11.text = gm.foranapostle_en_UK_lash.meMA.Ode3C11.text
 
-meMA.Ode3C12.ode = me.m10.d09_en_US_dedes.meMA.Ode3C12.ode
-meMA.Ode3C12.mode = me.m10.d09_en_US_dedes.meMA.Ode3C12.mode
-meMA.Ode3C12.melody = me.m10.d09_en_US_dedes.meMA.Ode3C12.melody
-meMA.Ode3C12.text = me.m10.d09_en_US_dedes.meMA.Ode3C12.text
+meMA.Ode3C12.ode = gm.foranapostle_en_UK_lash.meMA.Ode3C12.ode
+meMA.Ode3C12.mode = gm.foranapostle_en_UK_lash.meMA.Ode3C12.mode
+meMA.Ode3C12.melody = gm.foranapostle_en_UK_lash.meMA.Ode3C12.melody
+meMA.Ode3C12.text = gm.foranapostle_en_UK_lash.meMA.Ode3C12.text
 
-meMA.Ode3C13.ode = me.m10.d09_en_US_dedes.meMA.Ode3C13.ode
-meMA.Ode3C13.mode = me.m10.d09_en_US_dedes.meMA.Ode3C13.mode
-meMA.Ode3C13.melody = me.m10.d09_en_US_dedes.meMA.Ode3C13.melody
-meMA.Ode3C13.text = me.m10.d09_en_US_dedes.meMA.Ode3C13.text
+meMA.Ode3C13.ode = gm.foranapostle_en_UK_lash.meMA.Ode3C13.ode
+meMA.Ode3C13.mode = gm.foranapostle_en_UK_lash.meMA.Ode3C13.mode
+meMA.Ode3C13.melody = gm.foranapostle_en_UK_lash.meMA.Ode3C13.melody
+meMA.Ode3C13.text = gm.foranapostle_en_UK_lash.meMA.Ode3C13.text
 
-meMA.Ode3C1T.ode = me.m10.d09_en_US_dedes.meMA.Ode3C1T.ode
-meMA.Ode3C1T.mode = me.m10.d09_en_US_dedes.meMA.Ode3C1T.mode
-meMA.Ode3C1T.melody = me.m10.d09_en_US_dedes.meMA.Ode3C1T.melody
-meMA.Ode3C1T.text = me.m10.d09_en_US_dedes.meMA.Ode3C1T.text
+meMA.Ode3C1T.ode = gm.foranapostle_en_UK_lash.meMA.Ode3C1T.ode
+meMA.Ode3C1T.mode = gm.foranapostle_en_UK_lash.meMA.Ode3C1T.mode
+meMA.Ode3C1T.melody = gm.foranapostle_en_UK_lash.meMA.Ode3C1T.melody
+meMA.Ode3C1T.text = gm.foranapostle_en_UK_lash.meMA.Ode3C1T.text
 
 meMA.Ode3C21.ode = me.m10.d09_en_US_dedes.meMA.Ode3C21.ode
 meMA.Ode3C21.mode = me.m10.d09_en_US_dedes.meMA.Ode3C21.mode
@@ -171,40 +173,40 @@ meMA.Ode3H.melody = me.m10.d09_en_US_dedes.meMA.Ode3H.melody
 meMA.Ode3H.text = me.m10.d09_en_US_dedes.meMA.Ode3H.text
 
 meMA.Ode3Kathisma1.mode = me.m10.d09_en_US_dedes.meMA.Ode3Kathisma1.mode
-meMA.Ode3Kathisma1.melody = me.m10.d09_en_US_dedes.meMA.Ode3Kathisma1.melody
-meMA.Ode3Kathisma1.text = me.m10.d09_en_US_dedes.meMA.Ode3Kathisma1.text
+meMA.Ode3Kathisma1.melody = gm.foranapostle_en_UK_lash.meMA.Ode3Kathisma1.melody
+meMA.Ode3Kathisma1.text = gm.foranapostle_en_UK_lash.meMA.Ode3Kathisma1.text
 
 meMA.Ode3Kathisma2.mode = me.m10.d09_en_US_dedes.meMA.Ode3Kathisma2.mode
 meMA.Ode3Kathisma2.melody = me.m10.d09_en_US_dedes.meMA.Ode3Kathisma2.melody
 meMA.Ode3Kathisma2.text = me.m10.d09_en_US_dedes.meMA.Ode3Kathisma2.text
 
 meMA.Ode3KathismaT.mode = me.m10.d09_en_US_dedes.meMA.Ode3KathismaT.mode
-meMA.Ode3KathismaT.melody = me.m10.d09_en_US_dedes.meMA.Ode3KathismaT.melody
-meMA.Ode3KathismaT.text = me.m10.d09_en_US_dedes.meMA.Ode3KathismaT.text
+meMA.Ode3KathismaT.melody = gm.foranapostle_en_UK_lash.meMA.Ode3KathismaT.melody
+meMA.Ode3KathismaT.text = gm.foranapostle_en_UK_lash.meMA.Ode3KathismaT.text
 
 meMA.Ode3KathismaSt.mode = me.m10.d09_en_US_dedes.meMA.Ode3KathismaSt.mode
 meMA.Ode3KathismaSt.melody = me.m10.d09_en_US_dedes.meMA.Ode3KathismaSt.melody
 meMA.Ode3KathismaSt.text = me.m10.d09_en_US_dedes.meMA.Ode3KathismaSt.text
 
-meMA.Ode4C11.ode = me.m10.d09_en_US_dedes.meMA.Ode4C11.ode
-meMA.Ode4C11.mode = me.m10.d09_en_US_dedes.meMA.Ode4C11.mode
-meMA.Ode4C11.melody = me.m10.d09_en_US_dedes.meMA.Ode4C11.melody
-meMA.Ode4C11.text = me.m10.d09_en_US_dedes.meMA.Ode4C11.text
+meMA.Ode4C11.ode = gm.foranapostle_en_UK_lash.meMA.Ode4C11.ode
+meMA.Ode4C11.mode = gm.foranapostle_en_UK_lash.meMA.Ode4C11.mode
+meMA.Ode4C11.melody = gm.foranapostle_en_UK_lash.meMA.Ode4C11.melody
+meMA.Ode4C11.text = gm.foranapostle_en_UK_lash.meMA.Ode4C11.text
 
-meMA.Ode4C12.ode = me.m10.d09_en_US_dedes.meMA.Ode4C12.ode
-meMA.Ode4C12.mode = me.m10.d09_en_US_dedes.meMA.Ode4C12.mode
-meMA.Ode4C12.melody = me.m10.d09_en_US_dedes.meMA.Ode4C12.melody
-meMA.Ode4C12.text = me.m10.d09_en_US_dedes.meMA.Ode4C12.text
+meMA.Ode4C12.ode = gm.foranapostle_en_UK_lash.meMA.Ode4C12.ode
+meMA.Ode4C12.mode = gm.foranapostle_en_UK_lash.meMA.Ode4C12.mode
+meMA.Ode4C12.melody = gm.foranapostle_en_UK_lash.meMA.Ode4C12.melody
+meMA.Ode4C12.text = gm.foranapostle_en_UK_lash.meMA.Ode4C12.text
 
-meMA.Ode4C13.ode = me.m10.d09_en_US_dedes.meMA.Ode4C13.ode
-meMA.Ode4C13.mode = me.m10.d09_en_US_dedes.meMA.Ode4C13.mode
-meMA.Ode4C13.melody = me.m10.d09_en_US_dedes.meMA.Ode4C13.melody
-meMA.Ode4C13.text = me.m10.d09_en_US_dedes.meMA.Ode4C13.text
+meMA.Ode4C13.ode = gm.foranapostle_en_UK_lash.meMA.Ode4C13.ode
+meMA.Ode4C13.mode = gm.foranapostle_en_UK_lash.meMA.Ode4C13.mode
+meMA.Ode4C13.melody = gm.foranapostle_en_UK_lash.meMA.Ode4C13.melody
+meMA.Ode4C13.text = gm.foranapostle_en_UK_lash.meMA.Ode4C13.text
 
-meMA.Ode4C1T.ode = me.m10.d09_en_US_dedes.meMA.Ode4C1T.ode
-meMA.Ode4C1T.mode = me.m10.d09_en_US_dedes.meMA.Ode4C1T.mode
-meMA.Ode4C1T.melody = me.m10.d09_en_US_dedes.meMA.Ode4C1T.melody
-meMA.Ode4C1T.text = me.m10.d09_en_US_dedes.meMA.Ode4C1T.text
+meMA.Ode4C1T.ode = gm.foranapostle_en_UK_lash.meMA.Ode4C1T.ode
+meMA.Ode4C1T.mode = gm.foranapostle_en_UK_lash.meMA.Ode4C1T.mode
+meMA.Ode4C1T.melody = gm.foranapostle_en_UK_lash.meMA.Ode4C1T.melody
+meMA.Ode4C1T.text = gm.foranapostle_en_UK_lash.meMA.Ode4C1T.text
 
 meMA.Ode4C21.ode = me.m10.d09_en_US_dedes.meMA.Ode4C21.ode
 meMA.Ode4C21.mode = me.m10.d09_en_US_dedes.meMA.Ode4C21.mode
@@ -226,25 +228,25 @@ meMA.Ode4C2T.mode = me.m10.d09_en_US_dedes.meMA.Ode4C2T.mode
 meMA.Ode4C2T.melody = me.m10.d09_en_US_dedes.meMA.Ode4C2T.melody
 meMA.Ode4C2T.text = me.m10.d09_en_US_dedes.meMA.Ode4C2T.text
 
-meMA.Ode5C11.ode = me.m10.d09_en_US_dedes.meMA.Ode5C11.ode
-meMA.Ode5C11.mode = me.m10.d09_en_US_dedes.meMA.Ode5C11.mode
-meMA.Ode5C11.melody = me.m10.d09_en_US_dedes.meMA.Ode5C11.melody
-meMA.Ode5C11.text = me.m10.d09_en_US_dedes.meMA.Ode5C11.text
+meMA.Ode5C11.ode = gm.foranapostle_en_UK_lash.meMA.Ode5C11.ode
+meMA.Ode5C11.mode = gm.foranapostle_en_UK_lash.meMA.Ode5C11.mode
+meMA.Ode5C11.melody = gm.foranapostle_en_UK_lash.meMA.Ode5C11.melody
+meMA.Ode5C11.text = gm.foranapostle_en_UK_lash.meMA.Ode5C11.text
 
-meMA.Ode5C12.ode = me.m10.d09_en_US_dedes.meMA.Ode5C12.ode
-meMA.Ode5C12.mode = me.m10.d09_en_US_dedes.meMA.Ode5C12.mode
-meMA.Ode5C12.melody = me.m10.d09_en_US_dedes.meMA.Ode5C12.melody
-meMA.Ode5C12.text = me.m10.d09_en_US_dedes.meMA.Ode5C12.text
+meMA.Ode5C12.ode = gm.foranapostle_en_UK_lash.meMA.Ode5C12.ode
+meMA.Ode5C12.mode = gm.foranapostle_en_UK_lash.meMA.Ode5C12.mode
+meMA.Ode5C12.melody = gm.foranapostle_en_UK_lash.meMA.Ode5C12.melody
+meMA.Ode5C12.text = gm.foranapostle_en_UK_lash.meMA.Ode5C12.text
 
-meMA.Ode5C13.ode = me.m10.d09_en_US_dedes.meMA.Ode5C13.ode
-meMA.Ode5C13.mode = me.m10.d09_en_US_dedes.meMA.Ode5C13.mode
-meMA.Ode5C13.melody = me.m10.d09_en_US_dedes.meMA.Ode5C13.melody
-meMA.Ode5C13.text = me.m10.d09_en_US_dedes.meMA.Ode5C13.text
+meMA.Ode5C13.ode = gm.foranapostle_en_UK_lash.meMA.Ode5C13.ode
+meMA.Ode5C13.mode = gm.foranapostle_en_UK_lash.meMA.Ode5C13.mode
+meMA.Ode5C13.melody = gm.foranapostle_en_UK_lash.meMA.Ode5C13.melody
+meMA.Ode5C13.text = gm.foranapostle_en_UK_lash.meMA.Ode5C13.text
 
-meMA.Ode5C1T.ode = me.m10.d09_en_US_dedes.meMA.Ode5C1T.ode
-meMA.Ode5C1T.mode = me.m10.d09_en_US_dedes.meMA.Ode5C1T.mode
-meMA.Ode5C1T.melody = me.m10.d09_en_US_dedes.meMA.Ode5C1T.melody
-meMA.Ode5C1T.text = me.m10.d09_en_US_dedes.meMA.Ode5C1T.text
+meMA.Ode5C1T.ode = gm.foranapostle_en_UK_lash.meMA.Ode5C1T.ode
+meMA.Ode5C1T.mode = gm.foranapostle_en_UK_lash.meMA.Ode5C1T.mode
+meMA.Ode5C1T.melody = gm.foranapostle_en_UK_lash.meMA.Ode5C1T.melody
+meMA.Ode5C1T.text = gm.foranapostle_en_UK_lash.meMA.Ode5C1T.text
 
 meMA.Ode5C21.ode = me.m10.d09_en_US_dedes.meMA.Ode5C21.ode
 meMA.Ode5C21.mode = me.m10.d09_en_US_dedes.meMA.Ode5C21.mode
@@ -266,25 +268,25 @@ meMA.Ode5C2T.mode = me.m10.d09_en_US_dedes.meMA.Ode5C2T.mode
 meMA.Ode5C2T.melody = me.m10.d09_en_US_dedes.meMA.Ode5C2T.melody
 meMA.Ode5C2T.text = me.m10.d09_en_US_dedes.meMA.Ode5C2T.text
 
-meMA.Ode6C11.ode = me.m10.d09_en_US_dedes.meMA.Ode6C11.ode
-meMA.Ode6C11.mode = me.m10.d09_en_US_dedes.meMA.Ode6C11.mode
-meMA.Ode6C11.melody = me.m10.d09_en_US_dedes.meMA.Ode6C11.melody
-meMA.Ode6C11.text = me.m10.d09_en_US_dedes.meMA.Ode6C11.text
+meMA.Ode6C11.ode = gm.foranapostle_en_UK_lash.meMA.Ode6C11.ode
+meMA.Ode6C11.mode = gm.foranapostle_en_UK_lash.meMA.Ode6C11.mode
+meMA.Ode6C11.melody = gm.foranapostle_en_UK_lash.meMA.Ode6C11.melody
+meMA.Ode6C11.text = gm.foranapostle_en_UK_lash.meMA.Ode6C11.text
 
-meMA.Ode6C12.ode = me.m10.d09_en_US_dedes.meMA.Ode6C12.ode
-meMA.Ode6C12.mode = me.m10.d09_en_US_dedes.meMA.Ode6C12.mode
-meMA.Ode6C12.melody = me.m10.d09_en_US_dedes.meMA.Ode6C12.melody
-meMA.Ode6C12.text = me.m10.d09_en_US_dedes.meMA.Ode6C12.text
+meMA.Ode6C12.ode = gm.foranapostle_en_UK_lash.meMA.Ode6C12.ode
+meMA.Ode6C12.mode = gm.foranapostle_en_UK_lash.meMA.Ode6C12.mode
+meMA.Ode6C12.melody = gm.foranapostle_en_UK_lash.meMA.Ode6C12.melody
+meMA.Ode6C12.text = gm.foranapostle_en_UK_lash.meMA.Ode6C12.text
 
-meMA.Ode6C13.ode = me.m10.d09_en_US_dedes.meMA.Ode6C13.ode
-meMA.Ode6C13.mode = me.m10.d09_en_US_dedes.meMA.Ode6C13.mode
-meMA.Ode6C13.melody = me.m10.d09_en_US_dedes.meMA.Ode6C13.melody
-meMA.Ode6C13.text = me.m10.d09_en_US_dedes.meMA.Ode6C13.text
+meMA.Ode6C13.ode = gm.foranapostle_en_UK_lash.meMA.Ode6C13.ode
+meMA.Ode6C13.mode = gm.foranapostle_en_UK_lash.meMA.Ode6C13.mode
+meMA.Ode6C13.melody = gm.foranapostle_en_UK_lash.meMA.Ode6C13.melody
+meMA.Ode6C13.text = gm.foranapostle_en_UK_lash.meMA.Ode6C13.text
 
-meMA.Ode6C1T.ode = me.m10.d09_en_US_dedes.meMA.Ode6C1T.ode
-meMA.Ode6C1T.mode = me.m10.d09_en_US_dedes.meMA.Ode6C1T.mode
-meMA.Ode6C1T.melody = me.m10.d09_en_US_dedes.meMA.Ode6C1T.melody
-meMA.Ode6C1T.text = me.m10.d09_en_US_dedes.meMA.Ode6C1T.text
+meMA.Ode6C1T.ode = gm.foranapostle_en_UK_lash.meMA.Ode6C1T.ode
+meMA.Ode6C1T.mode = gm.foranapostle_en_UK_lash.meMA.Ode6C1T.mode
+meMA.Ode6C1T.melody = gm.foranapostle_en_UK_lash.meMA.Ode6C1T.melody
+meMA.Ode6C1T.text = gm.foranapostle_en_UK_lash.meMA.Ode6C1T.text
 
 meMA.Ode6C21.ode = me.m10.d09_en_US_dedes.meMA.Ode6C21.ode
 meMA.Ode6C21.mode = me.m10.d09_en_US_dedes.meMA.Ode6C21.mode
@@ -319,25 +321,25 @@ meMA.Oikos1.text = me.m10.d09_en_US_dedes.meMA.Oikos1.text
 
 meMA.Synaxarion.text = me.m10.d09_en_US_dedes.meMA.Synaxarion.text
 
-meMA.Ode7C11.ode = me.m10.d09_en_US_dedes.meMA.Ode7C11.ode
-meMA.Ode7C11.mode = me.m10.d09_en_US_dedes.meMA.Ode7C11.mode
-meMA.Ode7C11.melody = me.m10.d09_en_US_dedes.meMA.Ode7C11.melody
-meMA.Ode7C11.text = me.m10.d09_en_US_dedes.meMA.Ode7C11.text
+meMA.Ode7C11.ode = gm.foranapostle_en_UK_lash.meMA.Ode7C11.ode
+meMA.Ode7C11.mode = gm.foranapostle_en_UK_lash.meMA.Ode7C11.mode
+meMA.Ode7C11.melody = gm.foranapostle_en_UK_lash.meMA.Ode7C11.melody
+meMA.Ode7C11.text = gm.foranapostle_en_UK_lash.meMA.Ode7C11.text
 
-meMA.Ode7C12.ode = me.m10.d09_en_US_dedes.meMA.Ode7C12.ode
-meMA.Ode7C12.mode = me.m10.d09_en_US_dedes.meMA.Ode7C12.mode
-meMA.Ode7C12.melody = me.m10.d09_en_US_dedes.meMA.Ode7C12.melody
-meMA.Ode7C12.text = me.m10.d09_en_US_dedes.meMA.Ode7C12.text
+meMA.Ode7C12.ode = gm.foranapostle_en_UK_lash.meMA.Ode7C12.ode
+meMA.Ode7C12.mode = gm.foranapostle_en_UK_lash.meMA.Ode7C12.mode
+meMA.Ode7C12.melody = gm.foranapostle_en_UK_lash.meMA.Ode7C12.melody
+meMA.Ode7C12.text = gm.foranapostle_en_UK_lash.meMA.Ode7C12.text
 
-meMA.Ode7C13.ode = me.m10.d09_en_US_dedes.meMA.Ode7C13.ode
-meMA.Ode7C13.mode = me.m10.d09_en_US_dedes.meMA.Ode7C13.mode
-meMA.Ode7C13.melody = me.m10.d09_en_US_dedes.meMA.Ode7C13.melody
-meMA.Ode7C13.text = me.m10.d09_en_US_dedes.meMA.Ode7C13.text
+meMA.Ode7C13.ode = gm.foranapostle_en_UK_lash.meMA.Ode7C13.ode
+meMA.Ode7C13.mode = gm.foranapostle_en_UK_lash.meMA.Ode7C13.mode
+meMA.Ode7C13.melody = gm.foranapostle_en_UK_lash.meMA.Ode7C13.melody
+meMA.Ode7C13.text = gm.foranapostle_en_UK_lash.meMA.Ode7C13.text
 
-meMA.Ode7C1T.ode = me.m10.d09_en_US_dedes.meMA.Ode7C1T.ode
-meMA.Ode7C1T.mode = me.m10.d09_en_US_dedes.meMA.Ode7C1T.mode
-meMA.Ode7C1T.melody = me.m10.d09_en_US_dedes.meMA.Ode7C1T.melody
-meMA.Ode7C1T.text = me.m10.d09_en_US_dedes.meMA.Ode7C1T.text
+meMA.Ode7C1T.ode = gm.foranapostle_en_UK_lash.meMA.Ode7C1T.ode
+meMA.Ode7C1T.mode = gm.foranapostle_en_UK_lash.meMA.Ode7C1T.mode
+meMA.Ode7C1T.melody = gm.foranapostle_en_UK_lash.meMA.Ode7C1T.melody
+meMA.Ode7C1T.text = gm.foranapostle_en_UK_lash.meMA.Ode7C1T.text
 
 meMA.Ode7C21.ode = me.m10.d09_en_US_dedes.meMA.Ode7C21.ode
 meMA.Ode7C21.mode = me.m10.d09_en_US_dedes.meMA.Ode7C21.mode
@@ -359,25 +361,25 @@ meMA.Ode7C2T.mode = me.m10.d09_en_US_dedes.meMA.Ode7C2T.mode
 meMA.Ode7C2T.melody = me.m10.d09_en_US_dedes.meMA.Ode7C2T.melody
 meMA.Ode7C2T.text = me.m10.d09_en_US_dedes.meMA.Ode7C2T.text
 
-meMA.Ode8C11.ode = me.m10.d09_en_US_dedes.meMA.Ode8C11.ode
-meMA.Ode8C11.mode = me.m10.d09_en_US_dedes.meMA.Ode8C11.mode
-meMA.Ode8C11.melody = me.m10.d09_en_US_dedes.meMA.Ode8C11.melody
-meMA.Ode8C11.text = me.m10.d09_en_US_dedes.meMA.Ode8C11.text
+meMA.Ode8C11.ode = gm.foranapostle_en_UK_lash.meMA.Ode8C11.ode
+meMA.Ode8C11.mode = gm.foranapostle_en_UK_lash.meMA.Ode8C11.mode
+meMA.Ode8C11.melody = gm.foranapostle_en_UK_lash.meMA.Ode8C11.melody
+meMA.Ode8C11.text = gm.foranapostle_en_UK_lash.meMA.Ode8C11.text
 
-meMA.Ode8C12.ode = me.m10.d09_en_US_dedes.meMA.Ode8C12.ode
-meMA.Ode8C12.mode = me.m10.d09_en_US_dedes.meMA.Ode8C12.mode
-meMA.Ode8C12.melody = me.m10.d09_en_US_dedes.meMA.Ode8C12.melody
-meMA.Ode8C12.text = me.m10.d09_en_US_dedes.meMA.Ode8C12.text
+meMA.Ode8C12.ode = gm.foranapostle_en_UK_lash.meMA.Ode8C12.ode
+meMA.Ode8C12.mode = gm.foranapostle_en_UK_lash.meMA.Ode8C12.mode
+meMA.Ode8C12.melody = gm.foranapostle_en_UK_lash.meMA.Ode8C12.melody
+meMA.Ode8C12.text = gm.foranapostle_en_UK_lash.meMA.Ode8C12.text
 
-meMA.Ode8C13.ode = me.m10.d09_en_US_dedes.meMA.Ode8C13.ode
-meMA.Ode8C13.mode = me.m10.d09_en_US_dedes.meMA.Ode8C13.mode
-meMA.Ode8C13.melody = me.m10.d09_en_US_dedes.meMA.Ode8C13.melody
-meMA.Ode8C13.text = me.m10.d09_en_US_dedes.meMA.Ode8C13.text
+meMA.Ode8C13.ode = gm.foranapostle_en_UK_lash.meMA.Ode8C13.ode
+meMA.Ode8C13.mode = gm.foranapostle_en_UK_lash.meMA.Ode8C13.mode
+meMA.Ode8C13.melody = gm.foranapostle_en_UK_lash.meMA.Ode8C13.melody
+meMA.Ode8C13.text = gm.foranapostle_en_UK_lash.meMA.Ode8C13.text
 
-meMA.Ode8C1T.ode = me.m10.d09_en_US_dedes.meMA.Ode8C1T.ode
-meMA.Ode8C1T.mode = me.m10.d09_en_US_dedes.meMA.Ode8C1T.mode
-meMA.Ode8C1T.melody = me.m10.d09_en_US_dedes.meMA.Ode8C1T.melody
-meMA.Ode8C1T.text = me.m10.d09_en_US_dedes.meMA.Ode8C1T.text
+meMA.Ode8C1T.ode = gm.foranapostle_en_UK_lash.meMA.Ode8C1T.ode
+meMA.Ode8C1T.mode = gm.foranapostle_en_UK_lash.meMA.Ode8C1T.mode
+meMA.Ode8C1T.melody = gm.foranapostle_en_UK_lash.meMA.Ode8C1T.melody
+meMA.Ode8C1T.text = gm.foranapostle_en_UK_lash.meMA.Ode8C1T.text
 
 meMA.Ode8C21.ode = me.m10.d09_en_US_dedes.meMA.Ode8C21.ode
 meMA.Ode8C21.mode = me.m10.d09_en_US_dedes.meMA.Ode8C21.mode
@@ -404,25 +406,25 @@ meMA.Ode8H.mode = me.m10.d09_en_US_dedes.meMA.Ode8H.mode
 meMA.Ode8H.melody = me.m10.d09_en_US_dedes.meMA.Ode8H.melody
 meMA.Ode8H.text = me.m10.d09_en_US_dedes.meMA.Ode8H.text
 
-meMA.Ode9C11.ode = me.m10.d09_en_US_dedes.meMA.Ode9C11.ode
-meMA.Ode9C11.mode = me.m10.d09_en_US_dedes.meMA.Ode9C11.mode
-meMA.Ode9C11.melody = me.m10.d09_en_US_dedes.meMA.Ode9C11.melody
-meMA.Ode9C11.text = me.m10.d09_en_US_dedes.meMA.Ode9C11.text
+meMA.Ode9C11.ode = gm.foranapostle_en_UK_lash.meMA.Ode9C11.ode
+meMA.Ode9C11.mode = gm.foranapostle_en_UK_lash.meMA.Ode9C11.mode
+meMA.Ode9C11.melody = gm.foranapostle_en_UK_lash.meMA.Ode9C11.melody
+meMA.Ode9C11.text = gm.foranapostle_en_UK_lash.meMA.Ode9C11.text
 
-meMA.Ode9C12.ode = me.m10.d09_en_US_dedes.meMA.Ode9C12.ode
-meMA.Ode9C12.mode = me.m10.d09_en_US_dedes.meMA.Ode9C12.mode
-meMA.Ode9C12.melody = me.m10.d09_en_US_dedes.meMA.Ode9C12.melody
-meMA.Ode9C12.text = me.m10.d09_en_US_dedes.meMA.Ode9C12.text
+meMA.Ode9C12.ode = gm.foranapostle_en_UK_lash.meMA.Ode9C12.ode
+meMA.Ode9C12.mode = gm.foranapostle_en_UK_lash.meMA.Ode9C12.mode
+meMA.Ode9C12.melody = gm.foranapostle_en_UK_lash.meMA.Ode9C12.melody
+meMA.Ode9C12.text = gm.foranapostle_en_UK_lash.meMA.Ode9C12.text
 
-meMA.Ode9C13.ode = me.m10.d09_en_US_dedes.meMA.Ode9C13.ode
-meMA.Ode9C13.mode = me.m10.d09_en_US_dedes.meMA.Ode9C13.mode
-meMA.Ode9C13.melody = me.m10.d09_en_US_dedes.meMA.Ode9C13.melody
-meMA.Ode9C13.text = me.m10.d09_en_US_dedes.meMA.Ode9C13.text
+meMA.Ode9C13.ode = gm.foranapostle_en_UK_lash.meMA.Ode9C13.ode
+meMA.Ode9C13.mode = gm.foranapostle_en_UK_lash.meMA.Ode9C13.mode
+meMA.Ode9C13.melody = gm.foranapostle_en_UK_lash.meMA.Ode9C13.melody
+meMA.Ode9C13.text = gm.foranapostle_en_UK_lash.meMA.Ode9C13.text
 
-meMA.Ode9C1T.ode = me.m10.d09_en_US_dedes.meMA.Ode9C1T.ode
-meMA.Ode9C1T.mode = me.m10.d09_en_US_dedes.meMA.Ode9C1T.mode
-meMA.Ode9C1T.melody = me.m10.d09_en_US_dedes.meMA.Ode9C1T.melody
-meMA.Ode9C1T.text = me.m10.d09_en_US_dedes.meMA.Ode9C1T.text
+meMA.Ode9C1T.ode = gm.foranapostle_en_UK_lash.meMA.Ode9C1T.ode
+meMA.Ode9C1T.mode = gm.foranapostle_en_UK_lash.meMA.Ode9C1T.mode
+meMA.Ode9C1T.melody = gm.foranapostle_en_UK_lash.meMA.Ode9C1T.melody
+meMA.Ode9C1T.text = gm.foranapostle_en_UK_lash.meMA.Ode9C1T.text
 
 meMA.Ode9C21.ode = me.m10.d09_en_US_dedes.meMA.Ode9C21.ode
 meMA.Ode9C21.mode = me.m10.d09_en_US_dedes.meMA.Ode9C21.mode
