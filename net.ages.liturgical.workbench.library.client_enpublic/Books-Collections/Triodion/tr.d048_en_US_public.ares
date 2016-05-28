@@ -58,6 +58,9 @@ trMA.C2Poet = tr.d048_en_US_dedes.trMA.C2Poet
 
 trMA.C3Poet = tr.d048_en_US_dedes.trMA.C3Poet
 
+trMA.C1.title = tr.d048_en_US_dedes.trMA.C1.title
+trMA.C1.verse = tr.d048_en_US_dedes.trMA.C1.verse
+
 trMA.Ode1C11.ode = tr.d048_en_US_dedes.trMA.Ode1C11.ode
 trMA.Ode1C11.mode = tr.d048_en_US_dedes.trMA.Ode1C11.mode
 trMA.Ode1C11.melody = tr.d048_en_US_dedes.trMA.Ode1C11.melody

@@ -109,6 +109,9 @@ peMA.Kathisma22.text = pe.d119_en_US_dedes.peMA.Kathisma22.text
 
 peMA.C1Acrostic.text = pe.d119_en_US_dedes.peMA.C1Acrostic.text
 
+peMA.C1.title = pe.d119_en_US_dedes.peMA.C1.title
+peMA.C1.verse = pe.d119_en_US_dedes.peMA.C1.verse
+
 peMA.Ode1C11.ode = pe.d119_en_US_dedes.peMA.Ode1C11.ode
 peMA.Ode1C11.mode = pe.d119_en_US_dedes.peMA.Ode1C11.mode
 peMA.Ode1C11.melody = pe.d119_en_US_dedes.peMA.Ode1C11.melody

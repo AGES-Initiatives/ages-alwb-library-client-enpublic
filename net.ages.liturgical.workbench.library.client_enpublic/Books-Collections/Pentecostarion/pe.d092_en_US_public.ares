@@ -82,6 +82,9 @@ peMA.Ode1C1H.mode = pe.d092_en_US_dedes.peMA.Ode1C1H.mode
 peMA.Ode1C1H.melody = pe.d092_en_UK_lash.peMA.Ode1C1H.melody
 peMA.Ode1C1H.text = pe.d092_en_UK_lash.peMA.Ode1C1H.text
 
+peMA.C1.title = pe.d092_en_US_dedes.peMA.C1.title
+peMA.C1.verse = pe.d092_en_US_dedes.peMA.C1.verse
+
 peMA.Ode1C11.ode = pe.d092_en_US_dedes.peMA.Ode1C11.ode
 peMA.Ode1C11.mode = pe.d092_en_US_dedes.peMA.Ode1C11.mode
 peMA.Ode1C11.melody = pe.d092_en_UK_lash.peMA.Ode1C11.melody

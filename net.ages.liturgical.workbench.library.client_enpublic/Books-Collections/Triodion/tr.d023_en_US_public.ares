@@ -57,6 +57,9 @@ trMA.C1Poet = tr.d023_en_US_dedes.trMA.C1Poet
 
 trMA.C2Poet = tr.d023_en_US_dedes.trMA.C2Poet
 
+trMA.C1.title = tr.d023_en_US_dedes.trMA.C1.title
+trMA.C1.verse = tr.d023_en_US_dedes.trMA.C1.verse
+
 trMA.Ode1C11.ode = tr.d023_en_US_dedes.trMA.Ode1C11.ode
 trMA.Ode1C11.mode = tr.d023_en_US_dedes.trMA.Ode1C11.mode
 trMA.Ode1C11.melody = tr.d023_en_US_oca.trMA.Ode1C11.melody
@@ -81,6 +84,9 @@ trMA.Ode1C1T.ode = tr.d023_en_US_dedes.trMA.Ode1C1T.ode
 trMA.Ode1C1T.mode = tr.d023_en_US_dedes.trMA.Ode1C1T.mode
 trMA.Ode1C1T.melody = tr.d023_en_US_dedes.trMA.Ode1C1T.melody
 trMA.Ode1C1T.text = tr.d023_en_US_dedes.trMA.Ode1C1T.text
+
+trMA.C2.title = tr.d023_en_US_dedes.trMA.C2.title
+trMA.C2.verse = tr.d023_en_US_dedes.trMA.C2.verse
 
 trMA.Ode1C21.ode = tr.d023_en_US_dedes.trMA.Ode1C21.ode
 trMA.Ode1C21.mode = tr.d023_en_US_dedes.trMA.Ode1C21.mode
