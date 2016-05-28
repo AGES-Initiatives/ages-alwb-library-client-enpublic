@@ -83,6 +83,7 @@ meMA.C1Acrostic.text = me.m10.d09_en_US_dedes.meMA.C1Acrostic.text
 
 meMA.C2Acrostic.text = me.m10.d09_en_US_dedes.meMA.C2Acrostic.text
 
+meMA.C1.title = me.m10.d09_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m10.d09_en_US_dedes.meMA.C1.verse
 
 meMA.Ode1C11.ode = gm.foranapostle_en_UK_lash.meMA.Ode1C11.ode
@@ -105,6 +106,7 @@ meMA.Ode1C1T.mode = gm.foranapostle_en_UK_lash.meMA.Ode1C1T.mode
 meMA.Ode1C1T.melody = gm.foranapostle_en_UK_lash.meMA.Ode1C1T.melody
 meMA.Ode1C1T.text = gm.foranapostle_en_UK_lash.meMA.Ode1C1T.text
 
+meMA.C2.title = me.m10.d09_en_US_dedes.meMA.C2.title
 meMA.C2.verse = me.m10.d09_en_US_dedes.meMA.C2.verse
 
 meMA.Ode1C21.ode = me.m10.d09_en_US_dedes.meMA.Ode1C21.ode

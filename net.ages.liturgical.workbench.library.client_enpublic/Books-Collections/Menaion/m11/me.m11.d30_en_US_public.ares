@@ -133,6 +133,7 @@ meMA.Ode1C1H.mode = me.m11.d30_en_US_dedes.meMA.Ode1C1H.mode
 meMA.Ode1C1H.melody = me.m11.d30_en_UK_lash.meMA.Ode1C1H.melody
 meMA.Ode1C1H.text = me.m11.d30_en_UK_lash.meMA.Ode1C1H.text
 
+meMA.C1.title = me.m11.d30_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m11.d30_en_US_dedes.meMA.C1.verse
 
 meMA.Ode1C11.ode = me.m11.d30_en_US_dedes.meMA.Ode1C11.ode
@@ -155,6 +156,7 @@ meMA.Ode1C14.mode = me.m11.d30_en_US_dedes.meMA.Ode1C14.mode
 meMA.Ode1C14.melody = me.m11.d30_en_UK_lash.meMA.Ode1C14.melody
 meMA.Ode1C14.text = me.m11.d30_en_UK_lash.meMA.Ode1C14.text
 
+meMA.C2.title = me.m11.d30_en_US_dedes.meMA.C2.title
 meMA.C2.verse = me.m11.d30_en_US_dedes.meMA.C2.verse
 
 meMA.Ode1C21.ode = me.m11.d30_en_US_dedes.meMA.Ode1C21.ode
@@ -177,6 +179,7 @@ meMA.Ode1C2T.mode = me.m11.d30_en_US_dedes.meMA.Ode1C2T.mode
 meMA.Ode1C2T.melody = me.m11.d30_en_UK_lash.meMA.Ode1C2T.melody
 meMA.Ode1C2T.text = me.m11.d30_en_UK_lash.meMA.Ode1C2T.text
 
+meMA.C3.title = me.m11.d30_en_US_dedes.meMA.C3.title
 meMA.C3.verse = me.m11.d30_en_US_dedes.meMA.C3.verse
 
 meMA.Ode1C31.ode = me.m11.d30_en_US_dedes.meMA.Ode1C31.ode
