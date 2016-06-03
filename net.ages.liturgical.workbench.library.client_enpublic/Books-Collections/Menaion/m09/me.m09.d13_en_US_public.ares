@@ -713,7 +713,7 @@ meMA.LaudsBoth.mode = me.m09.d13_en_US_dedes.meMA.LaudsBoth.mode
 meMA.LaudsBoth.melody = me.m09.d13_en_UK_lash.meMA.LaudsBoth.melody
 meMA.LaudsBoth.text = me.m09.d13_en_UK_lash.meMA.LaudsBoth.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
+meMA.MM.Lauds1123as5678.text =  me.m09.d13_en_US_dedes.meMA.MM.Lauds1123as5678.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

@@ -694,6 +694,8 @@ meMA.Lauds4.mode = me.m12.d06_en_US_dedes.meMA.Lauds4.mode
 meMA.Lauds4.melody = me.m12.d06_en_US_dedes.meMA.Lauds4.melody
 meMA.Lauds4.text = me.m12.d06_en_US_dedes.meMA.Lauds4.text
 
+meMA.MM.Lauds1234as5678.text = me.m12.d06_en_US_dedes.meMA.MM.Lauds1234as5678.text
+
 meMA.LaudsGlory.mode = me.m12.d06_en_US_dedes.meMA.LaudsGlory.mode
 meMA.LaudsGlory.melody = me.m12.d06_en_US_dedes.meMA.LaudsGlory.melody
 meMA.LaudsGlory.text = me.m12.d06_en_US_dedes.meMA.LaudsGlory.text
@@ -701,8 +703,6 @@ meMA.LaudsGlory.text = me.m12.d06_en_US_dedes.meMA.LaudsGlory.text
 meMA.LaudsTheotokion.mode = me.m12.d06_en_US_dedes.meMA.LaudsTheotokion.mode
 meMA.LaudsTheotokion.melody = me.m12.d06_en_US_dedes.meMA.LaudsTheotokion.melody
 meMA.LaudsTheotokion.text = me.m12.d06_en_US_dedes.meMA.LaudsTheotokion.text
-
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
 meMA.AdditionalIdiomelon1.poet = me.m12.d06_en_US_dedes.meMA.AdditionalIdiomelon1.poet
 meMA.AdditionalIdiomelon1.mode = me.m12.d06_en_US_dedes.meMA.AdditionalIdiomelon1.mode
