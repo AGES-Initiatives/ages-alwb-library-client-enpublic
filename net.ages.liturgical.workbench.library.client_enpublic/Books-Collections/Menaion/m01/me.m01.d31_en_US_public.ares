@@ -300,7 +300,7 @@ meMA.LaudsStavrotheotokion.mode = me.m01.d31_en_US_dedes.meMA.LaudsStavrotheotok
 meMA.LaudsStavrotheotokion.melody = me.m01.d31_en_US_dedes.meMA.LaudsStavrotheotokion.melody
 meMA.LaudsStavrotheotokion.text = me.m01.d31_en_US_dedes.meMA.LaudsStavrotheotokion.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
+meMA.MM.Lauds1123as5678.text = properties_en_US_public.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
