@@ -594,7 +594,7 @@ meMA.LaudsTheotokion.mode = me.m07.d12_en_US_dedes.meMA.LaudsTheotokion.mode
 meMA.LaudsTheotokion.melody = me.m07.d12_en_US_dedes.meMA.LaudsTheotokion.melody
 meMA.LaudsTheotokion.text = me.m07.d12_en_US_dedes.meMA.LaudsTheotokion.text
 
-meMA.MM.LaudsSunday.text = me.m07.d12_en_US_dedes.meMA.MM.LaudsSunday.text
+meMA.MM.Lauds1234as5678.text = me.m07.d12_en_US_dedes.meMA.MM.Lauds1234as5678.text
 
 meLI.Kontakion1.mode = me.m07.d12_en_US_dedes.meLI.Kontakion1.mode
 meLI.Kontakion1.melody = me.m07.d12_en_US_dedes.meLI.Kontakion1.melody
@@ -1660,7 +1660,7 @@ alt2.meMA.LaudsTheotokion.mode = me.m07.d12_en_US_dedes.alt2.meMA.LaudsTheotokio
 alt2.meMA.LaudsTheotokion.melody = me.m07.d12_en_US_dedes.alt2.meMA.LaudsTheotokion.melody
 alt2.meMA.LaudsTheotokion.text = me.m07.d12_en_US_dedes.alt2.meMA.LaudsTheotokion.text
 
-alt2.meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
+alt2.meMA.MM.Lauds1234as5678.text = properties_en_US_public.media.key
 
 alt2.meLI.Kontakion1.mode = me.m07.d12_en_US_dedes.alt2.meLI.Kontakion1.mode
 alt2.meLI.Kontakion1.melody = me.m07.d12_en_US_dedes.alt2.meLI.Kontakion1.melody
