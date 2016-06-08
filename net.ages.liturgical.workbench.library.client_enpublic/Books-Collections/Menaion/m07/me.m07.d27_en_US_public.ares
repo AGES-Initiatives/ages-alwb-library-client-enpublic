@@ -521,7 +521,7 @@ meMA.Lauds3.mode = me.m07.d27_en_US_dedes.meMA.Lauds3.mode
 meMA.Lauds3.melody = me.m07.d27_en_US_dedes.meMA.Lauds3.melody
 meMA.Lauds3.text = me.m07.d27_en_US_dedes.meMA.Lauds3.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
+meMA.MM.Lauds1123as5678.text = properties_en_US_public.media.key
 
 meMA.LaudsGlory.poet = me.m07.d27_en_US_dedes.meMA.LaudsGlory.poet
 meMA.LaudsGlory.mode = me.m07.d27_en_US_dedes.meMA.LaudsGlory.mode
