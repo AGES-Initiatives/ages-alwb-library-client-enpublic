@@ -201,6 +201,7 @@ meMA.Ode1C1H.mode = me.m12.d06_en_US_dedes.meMA.Ode1C1H.mode
 meMA.Ode1C1H.melody = me.m12.d06_en_US_dedes.meMA.Ode1C1H.melody
 meMA.Ode1C1H.text = me.m12.d06_en_US_dedes.meMA.Ode1C1H.text
 
+meMA.C1.title = me.m12.d06_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m12.d06_en_US_dedes.meMA.C1.verse
 
 meMA.Ode1C11.ode = me.m12.d06_en_US_dedes.meMA.Ode1C11.ode
@@ -213,6 +214,7 @@ meMA.Ode1C12.mode = me.m12.d06_en_US_dedes.meMA.Ode1C12.mode
 meMA.Ode1C12.melody = me.m12.d06_en_US_dedes.meMA.Ode1C12.melody
 meMA.Ode1C12.text = me.m12.d06_en_US_dedes.meMA.Ode1C12.text
 
+meMA.C2.title = me.m12.d06_en_US_dedes.meMA.C2.title
 meMA.C2.verse = me.m12.d06_en_US_dedes.meMA.C2.verse
 
 meMA.Ode1C21.ode = me.m12.d06_en_US_dedes.meMA.Ode1C21.ode
@@ -230,6 +232,7 @@ meMA.Ode1C2T.mode = me.m12.d06_en_US_dedes.meMA.Ode1C2T.mode
 meMA.Ode1C2T.melody = me.m12.d06_en_US_oca.meMA.Ode1C2T.melody
 meMA.Ode1C2T.text = me.m12.d06_en_US_oca.meMA.Ode1C2T.text
 
+meMA.C3.title = me.m12.d06_en_US_dedes.meMA.C3.title
 meMA.C3.verse = me.m12.d06_en_US_dedes.meMA.C3.verse
 
 meMA.Ode1C31.ode = me.m12.d06_en_US_dedes.meMA.Ode1C31.ode
@@ -691,6 +694,8 @@ meMA.Lauds4.mode = me.m12.d06_en_US_dedes.meMA.Lauds4.mode
 meMA.Lauds4.melody = me.m12.d06_en_US_dedes.meMA.Lauds4.melody
 meMA.Lauds4.text = me.m12.d06_en_US_dedes.meMA.Lauds4.text
 
+meMA.MM.Lauds1234as5678.text = me.m12.d06_en_US_dedes.meMA.MM.Lauds1234as5678.text
+
 meMA.LaudsGlory.mode = me.m12.d06_en_US_dedes.meMA.LaudsGlory.mode
 meMA.LaudsGlory.melody = me.m12.d06_en_US_dedes.meMA.LaudsGlory.melody
 meMA.LaudsGlory.text = me.m12.d06_en_US_dedes.meMA.LaudsGlory.text
@@ -698,8 +703,6 @@ meMA.LaudsGlory.text = me.m12.d06_en_US_dedes.meMA.LaudsGlory.text
 meMA.LaudsTheotokion.mode = me.m12.d06_en_US_dedes.meMA.LaudsTheotokion.mode
 meMA.LaudsTheotokion.melody = me.m12.d06_en_US_dedes.meMA.LaudsTheotokion.melody
 meMA.LaudsTheotokion.text = me.m12.d06_en_US_dedes.meMA.LaudsTheotokion.text
-
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
 meMA.AdditionalIdiomelon1.poet = me.m12.d06_en_US_dedes.meMA.AdditionalIdiomelon1.poet
 meMA.AdditionalIdiomelon1.mode = me.m12.d06_en_US_dedes.meMA.AdditionalIdiomelon1.mode

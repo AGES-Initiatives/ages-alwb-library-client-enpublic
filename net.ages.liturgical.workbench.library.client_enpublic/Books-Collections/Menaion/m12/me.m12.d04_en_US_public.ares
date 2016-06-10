@@ -137,6 +137,7 @@ meMA.PostGospelIdiomelon.text = me.m12.d04_en_US_dedes.meMA.PostGospelIdiomelon.
 
 meMA.C1Poet = me.m12.d04_en_US_dedes.meMA.C1Poet
 
+meMA.C1.title = me.m12.d04_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m12.d04_en_US_dedes.meMA.C1.verse
 
 meMA.Ode1C11.ode = me.m12.d04_en_US_dedes.meMA.Ode1C11.ode
@@ -204,6 +205,10 @@ meMA.Ode3H.mode = me.m12.d04_en_US_dedes.meMA.Ode3H.mode
 meMA.Ode3H.melody = me.m12.d04_en_US_dedes.meMA.Ode3H.melody
 meMA.Ode3H.text = me.m12.d04_en_US_dedes.meMA.Ode3H.text
 
+meMA.Kontakion2.mode = me.m12.d04_en_US_dedes.meMA.Kontakion2.mode
+meMA.Kontakion2.melody = me.m12.d04_en_US_dedes.meMA.Kontakion2.melody
+meMA.Kontakion2.text = me.m12.d04_en_US_dedes.meMA.Kontakion2.text
+
 meMA.Ode3Kathisma1.mode = me.m12.d04_en_US_dedes.meMA.Ode3Kathisma1.mode
 meMA.Ode3Kathisma1.melody = me.m12.d04_en_US_dedes.meMA.Ode3Kathisma1.melody
 meMA.Ode3Kathisma1.text = me.m12.d04_en_US_dedes.meMA.Ode3Kathisma1.text
@@ -211,10 +216,6 @@ meMA.Ode3Kathisma1.text = me.m12.d04_en_US_dedes.meMA.Ode3Kathisma1.text
 meMA.Ode3Kathisma2.mode = me.m12.d04_en_US_dedes.meMA.Ode3Kathisma2.mode
 meMA.Ode3Kathisma2.melody = me.m12.d04_en_US_dedes.meMA.Ode3Kathisma2.melody
 meMA.Ode3Kathisma2.text = me.m12.d04_en_US_dedes.meMA.Ode3Kathisma2.text
-
-meMA.Ode3Kathisma3.mode = me.m12.d04_en_US_dedes.meMA.Ode3Kathisma3.mode
-meMA.Ode3Kathisma3.melody = me.m12.d04_en_US_dedes.meMA.Ode3Kathisma3.melody
-meMA.Ode3Kathisma3.text = me.m12.d04_en_US_dedes.meMA.Ode3Kathisma3.text
 
 meMA.Ode3KathismaT.mode = me.m12.d04_en_US_dedes.meMA.Ode3KathismaT.mode
 meMA.Ode3KathismaT.melody = me.m12.d04_en_US_dedes.meMA.Ode3KathismaT.melody
@@ -464,7 +465,7 @@ meMA.LaudsTheotokion.mode = me.m12.d04_en_US_dedes.meMA.LaudsTheotokion.mode
 meMA.LaudsTheotokion.melody = me.m12.d04_en_US_dedes.meMA.LaudsTheotokion.melody
 meMA.LaudsTheotokion.text = me.m12.d04_en_US_dedes.meMA.LaudsTheotokion.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
+meMA.MM.VeApos1123as5678.text = properties_en_US_public.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

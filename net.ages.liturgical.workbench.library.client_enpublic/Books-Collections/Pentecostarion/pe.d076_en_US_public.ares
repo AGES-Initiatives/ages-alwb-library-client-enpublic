@@ -91,6 +91,9 @@ peVE.Apolytikion1.text = pe.d076_en_US_dedes.peVE.Apolytikion1.text
 
 peMA.C1Acrostic.text = pe.d076_en_US_dedes.peMA.C1Acrostic.text
 
+peMA.C1.title = pe.d076_en_US_dedes.peMA.C1.title
+peMA.C1.verse = pe.d076_en_US_dedes.peMA.C1.verse
+
 peMA.Ode1C11.ode = pe.d076_en_US_dedes.peMA.Ode1C11.ode
 peMA.Ode1C11.mode = pe.d076_en_US_dedes.peMA.Ode1C11.mode
 peMA.Ode1C11.melody = pe.d076_en_US_dedes.peMA.Ode1C11.melody

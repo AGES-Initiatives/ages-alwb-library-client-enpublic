@@ -90,6 +90,10 @@ co3.html.tab = template.titles_en_US_dedes.co3.html.tab
 co3.pdf.header = template.titles_en_US_dedes.co3.pdf.header
 co3.pdf.cover = template.titles_en_US_dedes.co3.pdf.cover
 
+co4.html.tab = template.titles_en_US_dedes.co4.html.tab 
+co4.pdf.header = template.titles_en_US_dedes.co4.pdf.header
+co4.pdf.cover = template.titles_en_US_dedes.co4.pdf.cover
+
 em.html.tab = template.titles_en_US_dedes.em.html.tab 
 em.pdf.header = template.titles_en_US_dedes.em.pdf.header
 em.pdf.cover = template.titles_en_US_dedes.em.pdf.cover
@@ -261,6 +265,8 @@ clps.alternative.top = template.titles_en_US_dedes.clps.alternative.top
 clps.alternative.bottom = template.titles_en_US_dedes.clps.alternative.bottom
 clps.prayers.top = template.titles_en_US_dedes.clps.prayers.top
 clps.prayers.bottom = template.titles_en_US_dedes.clps.prayers.bottom
+clps.lity.top = template.titles_en_US_dedes.clps.lity.top
+clps.lity.bottom = template.titles_en_US_dedes.clps.lity.bottom
 
 bmc.tag = "" //begin marked content
 emc.tag = "" //end marked content

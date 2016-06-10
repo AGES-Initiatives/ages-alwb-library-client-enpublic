@@ -3,8 +3,10 @@ A_Resource_Whose_Name = sy.m05.d08_en_US_public
 S01.commemoration.text = sy.m05.d08_en_US_dedes.S01.commemoration.text
 
 S02.commemoration.text = sy.m05.d08_en_US_dedes.S02.commemoration.text
-//S02.Ver1 = sy.m05.d08_en_US_dedes.//S02.Ver1
-//S02.Ver2 = sy.m05.d08_en_US_dedes.//S02.Ver2
+
+S03.commemoration.text = sy.m05.d08_en_US_dedes.S03.commemoration.text
+
+S04.commemoration.text = sy.m05.d08_en_US_dedes.S04.commemoration.text
 
 Sdd.commemoration.text = sy.m05.d08_en_US_dedes.Sdd.commemoration.text
 Sdd.couplet1.title = sy.m05.d08_en_US_dedes.Sdd.couplet1.title

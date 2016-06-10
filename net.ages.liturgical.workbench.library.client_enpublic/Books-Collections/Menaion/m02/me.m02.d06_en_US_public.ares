@@ -187,6 +187,7 @@ meMA.PostGospelIdiomelon.mode = me.m02.d06_en_US_dedes.meMA.PostGospelIdiomelon.
 meMA.PostGospelIdiomelon.melody = me.m02.d06_en_US_dedes.meMA.PostGospelIdiomelon.melody
 meMA.PostGospelIdiomelon.text = me.m02.d06_en_US_dedes.meMA.PostGospelIdiomelon.text
 
+meMA.C1.title = me.m02.d06_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m02.d06_en_US_dedes.meMA.C1.verse
 
 meMA.Ode1C11.ode = me.m02.d06_en_US_dedes.meMA.Ode1C11.ode
@@ -410,7 +411,7 @@ meMA.LaudsBoth.mode = me.m02.d06_en_US_dedes.meMA.LaudsBoth.mode
 meMA.LaudsBoth.melody = me.m02.d06_en_US_dedes.meMA.LaudsBoth.melody
 meMA.LaudsBoth.text = me.m02.d06_en_US_dedes.meMA.LaudsBoth.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
+meMA.MM.Lauds1234as5678.text = me.m02.d06_en_US_dedes.meMA.MM.Lauds1234as5678.text
 
 meLI.Antiphon2.text = me.m02.d06_en_US_dedes.meLI.Antiphon2.text
 

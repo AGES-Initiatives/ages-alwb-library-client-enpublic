@@ -76,6 +76,7 @@ meMA.Kathisma2T.text = me.m10.d06_en_US_dedes.meMA.Kathisma2T.text
 meMA.C1Poet = me.m10.d06_en_US_dedes.meMA.C1Poet
 meMA.C1Acrostic.text = me.m10.d06_en_US_dedes.meMA.C1Acrostic.text
 
+meMA.C1.title = me.m10.d06_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m10.d06_en_US_dedes.meMA.C1.verse
 
 meMA.Ode1C11.ode = me.m10.d06_en_US_dedes.meMA.Ode1C11.ode
@@ -307,7 +308,7 @@ meMA.LaudsTheotokion.mode = me.m10.d06_en_US_dedes.meMA.LaudsTheotokion.mode
 meMA.LaudsTheotokion.melody = me.m10.d06_en_US_dedes.meMA.LaudsTheotokion.melody
 meMA.LaudsTheotokion.text = me.m10.d06_en_US_dedes.meMA.LaudsTheotokion.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
+meMA.MM.Lauds1123as5678.text = properties_en_US_public.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

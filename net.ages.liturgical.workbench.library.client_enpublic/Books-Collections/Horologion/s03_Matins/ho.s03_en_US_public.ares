@@ -276,6 +276,7 @@ R38 = ho.s03_en_US_dedes.R38 // [maybe unpack]
 R39 = ho.s03_en_US_dedes.R39
 
 //Order of Matins Gospel
+hoMA.Antiphon11.title = ho.s03_en_US_dedes.hoMA.Antiphon11.title
 hoMA.Antiphon11.text = ho.s03_en_US_dedes.hoMA.Antiphon11.text //for media
 hoMA.PreGospelHymn.text = ho.s03_en_US_dedes.hoMA.PreGospelHymn.text
 

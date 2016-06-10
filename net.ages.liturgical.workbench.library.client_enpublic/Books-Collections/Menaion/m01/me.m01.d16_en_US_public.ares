@@ -71,6 +71,7 @@ meMA.C1Acrostic.text = me.m01.d16_en_US_dedes.meMA.C1Acrostic.text
 
 meMA.C2Acrostic.text = me.m01.d16_en_US_dedes.meMA.C2Acrostic.text
 
+meMA.C1.title = me.m01.d16_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m01.d16_en_US_dedes.meMA.C1.verse
 
 meMA.Ode1C11.ode = me.m01.d16_en_US_dedes.meMA.Ode1C11.ode
@@ -98,6 +99,7 @@ meMA.Ode1C1T.mode = me.m01.d16_en_US_dedes.meMA.Ode1C1T.mode
 meMA.Ode1C1T.melody = me.m01.d16_en_US_dedes.meMA.Ode1C1T.melody
 meMA.Ode1C1T.text = me.m01.d16_en_US_dedes.meMA.Ode1C1T.text
 
+meMA.C2.title = me.m01.d16_en_US_dedes.meMA.C2.title
 meMA.C2.verse = me.m01.d16_en_US_dedes.meMA.C2.verse
 
 meMA.Ode1C21.ode = me.m01.d16_en_US_dedes.meMA.Ode1C21.ode
@@ -536,7 +538,7 @@ meMA.LaudsStavrotheotokion.mode = me.m01.d16_en_US_dedes.meMA.LaudsStavrotheotok
 meMA.LaudsStavrotheotokion.melody = me.m01.d16_en_US_dedes.meMA.LaudsStavrotheotokion.melody
 meMA.LaudsStavrotheotokion.text = me.m01.d16_en_US_dedes.meMA.LaudsStavrotheotokion.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
+meMA.MM.Lauds1123as5678.text = properties_en_US_public.media.key
 
 meMA.AposGlory.poet = me.m01.d16_en_US_dedes.meMA.AposGlory.poet
 meMA.AposGlory.mode = me.m01.d16_en_US_dedes.meMA.AposGlory.mode

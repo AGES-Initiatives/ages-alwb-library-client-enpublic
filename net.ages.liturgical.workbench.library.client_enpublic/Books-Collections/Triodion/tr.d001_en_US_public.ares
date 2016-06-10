@@ -51,6 +51,9 @@ trMA.PostGospelIdiomelon.text = tr.d001_en_US_dedes.trMA.PostGospelIdiomelon.tex
 trMA.C1Poet = tr.d001_en_US_dedes.trMA.C1Poet
 trMA.C1Acrostic.text = tr.d001_en_US_dedes.trMA.C1Acrostic.text
 
+trMA.C1.title = tr.d001_en_US_dedes.trMA.C1.title
+trMA.C1.verse = tr.d001_en_US_dedes.trMA.C1.verse
+
 trMA.Ode1C11.ode = tr.d001_en_US_dedes.trMA.Ode1C11.ode
 trMA.Ode1C11.mode = tr.d001_en_US_dedes.trMA.Ode1C11.mode
 trMA.Ode1C11.melody = tr.d001_en_US_oca.trMA.Ode1C11.melody
@@ -352,7 +355,7 @@ trMA.Lauds4.mode = tr.d001_en_US_dedes.trMA.Lauds4.mode
 trMA.Lauds4.melody = tr.d001_en_US_dedes.trMA.Lauds4.melody
 trMA.Lauds4.text = tr.d001_en_US_dedes.trMA.Lauds4.text
 
-trMA.MM.LaudsSunday_i_12as56.text = tr.d001_en_US_dedes.trMA.MM.LaudsSunday_i_12as56.text
+trMA.MM.Lauds12as45.text = tr.d001_en_US_dedes.trMA.MM.Lauds12as45.text
 
 trMA.LaudsGlory.mode = tr.d001_en_US_dedes.trMA.LaudsGlory.mode
 trMA.LaudsGlory.melody = tr.d001_en_US_dedes.trMA.LaudsGlory.melody

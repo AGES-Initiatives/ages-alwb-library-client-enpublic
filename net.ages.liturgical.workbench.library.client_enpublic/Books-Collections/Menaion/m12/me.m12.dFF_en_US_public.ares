@@ -52,6 +52,7 @@ meMA.C1Acrostic.text = me.m12.dFF_en_US_dedes.meMA.C1Acrostic.text
 
 meMA.C2Acrostic.text = me.m12.dFF_en_US_dedes.meMA.C2Acrostic.text
 
+meMA.C1.title = ""
 meMA.C1.verse = ""
 
 meMA.Ode1C11.ode = me.m12.dFF_en_US_dedes.meMA.Ode1C11.ode
@@ -74,6 +75,7 @@ meMA.Ode1C1T.mode = me.m12.dFF_en_US_dedes.meMA.Ode1C1T.mode
 meMA.Ode1C1T.melody = me.m12.dFF_en_US_oca.meMA.Ode1C1T.melody
 meMA.Ode1C1T.text = me.m12.dFF_en_US_oca.meMA.Ode1C1T.text
 
+meMA.C2.title = ""
 meMA.C2.verse = ""
 
 meMA.Ode1C21.ode = me.m12.dFF_en_US_dedes.meMA.Ode1C21.ode
@@ -418,7 +420,7 @@ meMA.Lauds1.mode = me.m12.dFF_en_US_dedes.meMA.Lauds1.mode
 meMA.Lauds1.melody = me.m12.dFF_en_US_dedes.meMA.Lauds1.melody
 meMA.Lauds1.text = me.m12.dFF_en_US_dedes.meMA.Lauds1.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
+meMA.MM.Lauds1123as5678.text = me.m12.dFF_en_US_dedes.meMA.MM.Lauds1123as5678.text
 
 meMA.Lauds2.mode = me.m12.dFF_en_US_dedes.meMA.Lauds2.mode
 meMA.Lauds2.melody = me.m12.dFF_en_US_dedes.meMA.Lauds2.melody

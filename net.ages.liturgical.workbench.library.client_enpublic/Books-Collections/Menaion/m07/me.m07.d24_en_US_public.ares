@@ -28,8 +28,8 @@ meVE.Stichera03.text = me.m07.d24_en_US_dedes.meVE.Stichera03.text
 
 meVE.SticGlory.poet = me.m07.d24_en_US_dedes.meVE.SticGlory.poet
 meVE.SticGlory.mode = me.m07.d24_en_US_dedes.meVE.SticGlory.mode
-meVE.SticGlory.melody = me.m07.d24_en_US_dedes.meVE.SticGlory.melody
-meVE.SticGlory.text = me.m07.d24_en_US_dedes.meVE.SticGlory.text
+meVE.SticGlory.melody = me.m07.d24_en_US_oca.meVE.SticGlory.melody
+meVE.SticGlory.text = me.m07.d24_en_US_oca.meVE.SticGlory.text
 
 meVE.SticTheotokion.mode = me.m07.d24_en_US_dedes.meVE.SticTheotokion.mode
 meVE.SticTheotokion.melody = me.m07.d24_en_US_dedes.meVE.SticTheotokion.melody
@@ -41,8 +41,8 @@ meVE.SticStavrotheotokion.text = me.m07.d24_en_US_dedes.meVE.SticStavrotheotokio
 
 meVE.AposGlory.poet = me.m07.d24_en_US_dedes.meVE.AposGlory.poet
 meVE.AposGlory.mode = me.m07.d24_en_US_dedes.meVE.AposGlory.mode
-meVE.AposGlory.melody = me.m07.d24_en_US_dedes.meVE.AposGlory.melody
-meVE.AposGlory.text = me.m07.d24_en_US_dedes.meVE.AposGlory.text
+meVE.AposGlory.melody = me.m07.d24_en_US_oca.meVE.AposGlory.melody
+meVE.AposGlory.text = me.m07.d24_en_US_oca.meVE.AposGlory.text
 
 meVE.AposTheotokion.mode = me.m07.d24_en_US_dedes.meVE.AposTheotokion.mode
 meVE.AposTheotokion.melody = me.m07.d24_en_US_dedes.meVE.AposTheotokion.melody
@@ -59,6 +59,7 @@ meVE.Apolytikion1.text = me.m07.d24_en_US_dedes.meVE.Apolytikion1.text
 
 meMA.C1Acrostic.text = me.m07.d24_en_US_dedes.meMA.C1Acrostic.text
 
+meMA.C1.title = me.m07.d24_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m07.d24_en_US_dedes.meMA.C1.verse
 
 meMA.Ode1C11.ode = me.m07.d24_en_US_dedes.meMA.Ode1C11.ode
@@ -293,7 +294,7 @@ meMA.LaudsGlory.mode = me.m07.d24_en_US_dedes.meMA.LaudsGlory.mode
 meMA.LaudsGlory.melody = me.m07.d24_en_US_dedes.meMA.LaudsGlory.melody
 meMA.LaudsGlory.text = me.m07.d24_en_US_dedes.meMA.LaudsGlory.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
+meMA.MM.Lauds1234as5678.text = me.m07.d24_en_US_dedes.meMA.MM.Lauds1234as5678.text
 
 meMA.LaudsTheotokion.mode = me.m07.d24_en_US_dedes.meMA.LaudsTheotokion.mode
 meMA.LaudsTheotokion.melody = me.m07.d24_en_US_dedes.meMA.LaudsTheotokion.melody

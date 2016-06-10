@@ -21,9 +21,9 @@ hoCO.Key0203.title = ho.s12_en_US_dedes.hoCO.Key0203.title
 hoCO.Key0300.mode = ho.s12_en_US_dedes.hoCO.Key0300.mode
 hoCO.Key0301.text = ho.s12_en_US_dedes.hoCO.Key0301.text
 
-hoCO.Key0401.text = ho.s12_en_US_dedes.hoCO.Key0401.text
-hoCO.Key0402.text = ho.s12_en_US_dedes.hoCO.Key0402.text
-hoCO.Key0403.text = ho.s12_en_US_dedes.hoCO.Key0403.text
+hoCO.Key0401.text = ho.s12_en_US_holycross.hoCO.Key0401.text
+hoCO.Key0402.text = ho.s12_en_US_holycross.hoCO.Key0402.text
+hoCO.Key0403.text = ho.s12_en_US_holycross.hoCO.Key0403.text
 
 hoCO.Key0501.mode = ho.s12_en_US_dedes.hoCO.Key0501.mode
 hoCO.Key0501.text = ho.s12_en_US_dedes.hoCO.Key0501.text
@@ -37,7 +37,7 @@ hoCO.Key0508.text = ho.s12_en_US_dedes.hoCO.Key0508.text
 hoCO.Key0509.text = ho.s12_en_US_dedes.hoCO.Key0509.text
 hoCO.Key0510.text = ho.s12_en_US_dedes.hoCO.Key0510.text
 hoCO.Key0511.title = ho.s12_en_US_dedes.hoCO.Key0511.title
-hoCO.Key0511.text = ho.s12_en_US_dedes.hoCO.Key0511.text
+hoCO.Key0511.text = ho.s12_en_US_holycross.hoCO.Key0511.text
 
 hoCO.Key0601.mode = ho.s12_en_US_dedes.hoCO.Key0601.mode
 hoCO.Key0601.text = ho.s12_en_US_dedes.hoCO.Key0601.text
@@ -52,26 +52,26 @@ hoCO.Key0609.text = ho.s12_en_US_dedes.hoCO.Key0609.text
 
 hoCO.Key0701.rubric = ho.s12_en_US_dedes.hoCO.Key0701.rubric
 hoCO.Key0701.mode = ho.s12_en_US_dedes.hoCO.Key0701.mode
-hoCO.Key0701.text = ho.s12_en_US_dedes.hoCO.Key0701.text
-hoCO.Key0702.text = ho.s12_en_US_dedes.hoCO.Key0702.text
-hoCO.Key0703.text = ho.s12_en_US_dedes.hoCO.Key0703.text
+hoCO.Key0701.text = ho.s12_en_US_holycross.hoCO.Key0701.text
+hoCO.Key0702.text = ho.s12_en_US_holycross.hoCO.Key0702.text
+hoCO.Key0703.text = ho.s12_en_US_holycross.hoCO.Key0703.text
 hoCO.Key0704.rubric = ho.s12_en_US_dedes.hoCO.Key0704.rubric
 hoCO.Key0704.mode = ho.s12_en_US_dedes.hoCO.Key0704.mode
-hoCO.Key0704.text = ho.s12_en_US_dedes.hoCO.Key0704.text
-hoCO.Key0705.text = ho.s12_en_US_dedes.hoCO.Key0705.text
-hoCO.Key0706.text = ho.s12_en_US_dedes.hoCO.Key0706.text
-hoCO.Key0707.text = ho.s12_en_US_dedes.hoCO.Key0707.text
-hoCO.Key0708.text = ho.s12_en_US_dedes.hoCO.Key0708.text
+hoCO.Key0704.text = ho.s12_en_US_holycross.hoCO.Key0704.text
+hoCO.Key0705.text = ho.s12_en_US_holycross.hoCO.Key0705.text
+hoCO.Key0706.text = ho.s12_en_US_holycross.hoCO.Key0706.text
+hoCO.Key0707.text = ho.s12_en_US_holycross.hoCO.Key0707.text
+hoCO.Key0708.text = ho.s12_en_US_holycross.hoCO.Key0708.text
 
-hoCO.Key0709.title = ho.s12_en_US_dedes.hoCO.Key0709.title
-hoCO.Key0709.text = ho.s12_en_US_dedes.hoCO.Key0709.text
+hoCO.Key0709.title = ho.s12_en_US_holycross.hoCO.Key0709.title
+hoCO.Key0709.text = ho.s12_en_US_holycross.hoCO.Key0709.text
 
 hoCO.Key0801.title = ho.s12_en_US_dedes.hoCO.Key0801.title
 
 hoCO.Key0802.title = ho.s12_en_US_dedes.hoCO.Key0802.title
 
-hoCO.Key0803.title = ho.s12_en_US_dedes.hoCO.Key0803.title
-hoCO.Key0803.text = ho.s12_en_US_dedes.hoCO.Key0803.text
+hoCO.Key0803.title = ho.s12_en_US_holycross.hoCO.Key0803.title
+hoCO.Key0803.text = ho.s12_en_US_holycross.hoCO.Key0803.text
 
 hoCO.Key0804.rubric = ho.s12_en_US_dedes.hoCO.Key0804.rubric
 hoCO.Key0804.mode = ho.s12_en_US_dedes.hoCO.Key0804.mode
@@ -80,7 +80,7 @@ hoCO.Key0805.text = ho.s12_en_US_dedes.hoCO.Key0805.text
 hoCO.Key0806.text = ho.s12_en_US_dedes.hoCO.Key0806.text
 
 hoCO.Key0807.title = ho.s12_en_US_dedes.hoCO.Key0807.title
-hoCO.Key0807.text = ho.s12_en_US_dedes.hoCO.Key0807.text
+hoCO.Key0807.text = ho.s12_en_US_holycross.hoCO.Key0807.text
 
 hoCO.Key0901.title = ho.s12_en_US_dedes.hoCO.Key0901.title
 
@@ -102,31 +102,31 @@ hoCO.Key1009.text = ho.s12_en_US_dedes.hoCO.Key1009.text
 hoCO.Key1010.text = ho.s12_en_US_dedes.hoCO.Key1010.text
 
 hoCO.Key1011.mode = ho.s12_en_US_dedes.hoCO.Key1011.mode
-hoCO.Key1011.text = ho.s12_en_US_dedes.hoCO.Key1011.text
-hoCO.Key1012.text = ho.s12_en_US_dedes.hoCO.Key1012.text
+hoCO.Key1011.text = ho.s12_en_US_holycross.hoCO.Key1011.text
+hoCO.Key1012.text = ho.s12_en_US_holycross.hoCO.Key1012.text
 hoCO.Key1013.mode = ho.s12_en_US_dedes.hoCO.Key1013.mode
 hoCO.Key1013.text = ho.s12_en_US_dedes.hoCO.Key1013.text
 hoCO.Key1014.text = ho.s12_en_US_dedes.hoCO.Key1014.text
 
-hoCO.Key1015.text = ho.s12_en_US_dedes.hoCO.Key1015.text
+hoCO.Key1015.text = ho.s12_en_US_holycross.hoCO.Key1015.text
 
-hoCO.Key1016.title = ho.s12_en_US_dedes.hoCO.Key1016.title
-hoCO.Key1016.text = ho.s12_en_US_dedes.hoCO.Key1016.text
-hoCO.Key1017.text = ho.s12_en_US_dedes.hoCO.Key1017.text
-hoCO.Key1018.text = ho.s12_en_US_dedes.hoCO.Key1018.text
-hoCO.Key1019.text = ho.s12_en_US_dedes.hoCO.Key1019.text
+hoCO.Key1016.title = ho.s12_en_US_holycross.hoCO.Key1016.title
+hoCO.Key1016.text = ho.s12_en_US_holycross.hoCO.Key1016.text
+hoCO.Key1017.text = ho.s12_en_US_holycross.hoCO.Key1017.text
+hoCO.Key1018.text = ho.s12_en_US_holycross.hoCO.Key1018.text
+hoCO.Key1019.text = ho.s12_en_US_holycross.hoCO.Key1019.text
 
-hoCO.Key1101.title = ho.s12_en_US_dedes.hoCO.Key1101.title
-hoCO.Key1101.poet = ho.s12_en_US_dedes.hoCO.Key1101.poet
-hoCO.Key1101.text = ho.s12_en_US_dedes.hoCO.Key1101.text
+hoCO.Key1101.title = ho.s12_en_US_holycross.hoCO.Key1101.title
+hoCO.Key1101.poet = ho.s12_en_US_holycross.hoCO.Key1101.poet
+hoCO.Key1101.text = ho.s12_en_US_holycross.hoCO.Key1101.text
 
-hoCO.Key1102.title = ho.s12_en_US_dedes.hoCO.Key1102.title
-hoCO.Key1102.poet = ho.s12_en_US_dedes.hoCO.Key1102.poet
-hoCO.Key1102.text = ho.s12_en_US_dedes.hoCO.Key1102.text
+hoCO.Key1102.title = ho.s12_en_US_holycross.hoCO.Key1102.title
+hoCO.Key1102.poet = ho.s12_en_US_holycross.hoCO.Key1102.poet
+hoCO.Key1102.text = ho.s12_en_US_holycross.hoCO.Key1102.text
 
-hoCO.Key1103.text = ho.s12_en_US_dedes.hoCO.Key1103.text
-hoCO.Key1104.title = ho.s12_en_US_dedes.hoCO.Key1104.title
-hoCO.Key1104.text = ho.s12_en_US_dedes.hoCO.Key1104.text
+hoCO.Key1103.text = ho.s12_en_US_holycross.hoCO.Key1103.text
+hoCO.Key1104.title = ho.s12_en_US_holycross.hoCO.Key1104.title
+hoCO.Key1104.text = ho.s12_en_US_holycross.hoCO.Key1104.text
 hoCO.Key1105.text = ho.s12_en_US_dedes.hoCO.Key1105.text
 
 hoCO.Key1201.rubric = ho.s12_en_US_dedes.hoCO.Key1201.rubric

@@ -124,7 +124,7 @@ meVE.AposGlory.text = me.m09.d14_en_US_dedes.meVE.AposGlory.text
 
 meVE.Apolytikion1.mode = me.m09.d14_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m09.d14_en_US_dedes.meVE.Apolytikion1.melody
-meVE.Apolytikion1.text = me.m09.d14_en_US_dedes.meVE.Apolytikion1.text
+meVE.Apolytikion1.text = me.m09.d14_en_US_goa.meVE.Apolytikion1.text
 
 meMA.Kathisma11.mode = me.m09.d14_en_US_dedes.meMA.Kathisma11.mode
 meMA.Kathisma11.melody = me.m09.d14_en_US_dedes.meMA.Kathisma11.melody
@@ -160,6 +160,7 @@ meMA.Ode1C1H.mode = me.m09.d14_en_US_dedes.meMA.Ode1C1H.mode
 meMA.Ode1C1H.melody = me.m09.d14_en_US_oca.meMA.Ode1C1H.melody
 meMA.Ode1C1H.text = me.m09.d14_en_US_oca.meMA.Ode1C1H.text
 
+meMA.C1.title = me.m09.d14_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m09.d14_en_US_dedes.meMA.C1.verse
 
 meMA.Ode1C11.ode = me.m09.d14_en_US_dedes.meMA.Ode1C11.ode
@@ -363,7 +364,7 @@ meMA.LaudsGlory.mode = me.m09.d14_en_US_dedes.meMA.LaudsGlory.mode
 meMA.LaudsGlory.melody = me.m09.d14_en_US_dedes.meMA.LaudsGlory.melody
 meMA.LaudsGlory.text = me.m09.d14_en_US_dedes.meMA.LaudsGlory.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
+meMA.MM.Lauds1123as5678.text = me.m09.d14_en_US_dedes.meMA.MM.Lauds1123as5678.text
 
 meMA.AdditionalIdiomelon1.mode = me.m09.d14_en_US_dedes.meMA.AdditionalIdiomelon1.mode
 meMA.AdditionalIdiomelon1.melody = me.m09.d14_en_US_dedes.meMA.AdditionalIdiomelon1.melody

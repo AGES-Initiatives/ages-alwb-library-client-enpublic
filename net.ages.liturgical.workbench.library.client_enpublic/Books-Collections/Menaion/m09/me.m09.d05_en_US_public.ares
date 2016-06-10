@@ -70,6 +70,7 @@ meVE.Apolytikion1.text = me.m09.d05_en_US_dedes.meVE.Apolytikion1.text
 
 meMA.C1Acrostic.text = me.m09.d05_en_US_dedes.meMA.C1Acrostic.text
 
+meMA.C1.title = me.m09.d05_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m09.d05_en_US_dedes.meMA.C1.verse
 
 meMA.Ode1C11.ode = me.m09.d05_en_US_dedes.meMA.Ode1C11.ode
@@ -289,7 +290,7 @@ meMA.ExapTheotokion.mode = me.m09.d05_en_US_dedes.meMA.ExapTheotokion.mode
 meMA.ExapTheotokion.melody = me.m09.d05_en_US_dedes.meMA.ExapTheotokion.melody
 meMA.ExapTheotokion.text = me.m09.d05_en_US_dedes.meMA.ExapTheotokion.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
+meMA.MM.VeApos1123as5678.text = properties_en_US_public.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

@@ -63,6 +63,7 @@ meVE.Apolytikion2.text = me.m10.d07_en_US_dedes.meVE.Apolytikion2.text
 meMA.C1Poet = me.m10.d07_en_US_dedes.meMA.C1Poet
 meMA.C1Acrostic.text = me.m10.d07_en_US_dedes.meMA.C1Acrostic.text
 
+meMA.C1.title = me.m10.d07_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m10.d07_en_US_dedes.meMA.C1.verse
 
 meMA.Ode1C11.ode = me.m10.d07_en_US_dedes.meMA.Ode1C11.ode
@@ -319,7 +320,7 @@ meMA.LaudsStavrotheotokion.mode = me.m10.d07_en_US_dedes.meMA.LaudsStavrotheotok
 meMA.LaudsStavrotheotokion.melody = me.m10.d07_en_US_dedes.meMA.LaudsStavrotheotokion.melody
 meMA.LaudsStavrotheotokion.text = me.m10.d07_en_US_dedes.meMA.LaudsStavrotheotokion.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
+meMA.MM.Lauds1123as5678.text = properties_en_US_public.media.key
 
 meMA.AposGlory.poet = me.m10.d07_en_US_dedes.meMA.AposGlory.poet
 meMA.AposGlory.mode = me.m10.d07_en_US_dedes.meMA.AposGlory.mode

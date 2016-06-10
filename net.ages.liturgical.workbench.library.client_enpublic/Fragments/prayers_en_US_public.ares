@@ -2,9 +2,9 @@ A_Resource_Whose_Name = prayers_en_US_public
 
 Doxa = prayers_en_US_holycross.Doxa
 
-DoxaKaiNyn = prayers_en_US_holycross.DoxaKaiNyn
+DoxaKaiNyn = prayers_en_US_dedes.DoxaKaiNyn
 
-KaiNyn = prayers_en_US_holycross.KaiNyn
+KaiNyn = prayers_en_US_dedes.KaiNyn
 
 Allilouia1 = prayers_en_US_holycross.Allilouia1
 
@@ -72,7 +72,7 @@ EvlogisonThymiama.text = prayers_en_US_holycross.EvlogisonThymiama.text
 
 EleisonMeOTheos.text = prayers_en_US_holycross.EleisonMeOTheos.text
 
-AxionEstin.text = prayers_en_US_dedes.AxionEstin.text
+AxionEstin.text = prayers_en_US_holycross.AxionEstin.text
 
 AgiosOTheos.text = prayers_en_US_holycross.AgiosOTheos.text
 

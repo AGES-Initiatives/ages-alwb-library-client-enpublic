@@ -141,8 +141,23 @@ meMA.Kathisma3T.mode = me.m10.d18_en_US_dedes.meMA.Kathisma3T.mode
 meMA.Kathisma3T.melody = me.m10.d18_en_US_dedes.meMA.Kathisma3T.melody
 meMA.Kathisma3T.text = me.m10.d18_en_US_dedes.meMA.Kathisma3T.text
 
+meMA.MM.Prokeimenon.text = me.m10.d18_en_US_dedes.meMA.MM.Prokeimenon.text
+
+meMA.PostGospelGlory.mode = me.m10.d18_en_US_dedes.meMA.PostGospelGlory.mode
+meMA.PostGospelGlory.melody = me.m10.d18_en_US_dedes.meMA.PostGospelGlory.melody
+meMA.PostGospelGlory.text = me.m10.d18_en_US_dedes.meMA.PostGospelGlory.text
+
+meMA.PostGospelBoth.mode = me.m10.d18_en_US_dedes.meMA.PostGospelBoth.mode
+meMA.PostGospelBoth.melody = me.m10.d18_en_US_dedes.meMA.PostGospelBoth.melody
+meMA.PostGospelBoth.text = me.m10.d18_en_US_dedes.meMA.PostGospelBoth.text
+
+meMA.PostGospelIdiomelon.mode = me.m10.d18_en_US_dedes.meMA.PostGospelIdiomelon.mode
+meMA.PostGospelIdiomelon.melody = me.m10.d18_en_US_dedes.meMA.PostGospelIdiomelon.melody
+meMA.PostGospelIdiomelon.text = me.m10.d18_en_US_dedes.meMA.PostGospelIdiomelon.text
+
 meMA.C1Poet = me.m10.d18_en_US_dedes.meMA.C1Poet
 
+meMA.C1.title = me.m10.d18_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m10.d18_en_US_dedes.meMA.C1.verse
 
 meMA.Ode1C11.ode = me.m10.d18_en_US_dedes.meMA.Ode1C11.ode
@@ -377,7 +392,6 @@ meMA.Lauds3.mode = me.m10.d18_en_US_dedes.meMA.Lauds3.mode
 meMA.Lauds3.melody = me.m10.d18_en_US_dedes.meMA.Lauds3.melody
 meMA.Lauds3.text = me.m10.d18_en_US_dedes.meMA.Lauds3.text
 
-meMA.Lauds4.poet = me.m10.d18_en_US_dedes.meMA.Lauds4.poet
 meMA.Lauds4.mode = me.m10.d18_en_US_dedes.meMA.Lauds4.mode
 meMA.Lauds4.melody = me.m10.d18_en_US_dedes.meMA.Lauds4.melody
 meMA.Lauds4.text = me.m10.d18_en_US_dedes.meMA.Lauds4.text
@@ -390,6 +404,7 @@ meMA.Lauds6.mode = me.m10.d18_en_US_dedes.meMA.Lauds6.mode
 meMA.Lauds6.melody = me.m10.d18_en_US_dedes.meMA.Lauds6.melody
 meMA.Lauds6.text = me.m10.d18_en_US_dedes.meMA.Lauds6.text
 
+meMA.Lauds7.poet = me.m10.d18_en_US_dedes.meMA.Lauds7.poet
 meMA.Lauds7.mode = me.m10.d18_en_US_dedes.meMA.Lauds7.mode
 meMA.Lauds7.melody = me.m10.d18_en_US_dedes.meMA.Lauds7.melody
 meMA.Lauds7.text = me.m10.d18_en_US_dedes.meMA.Lauds7.text
@@ -402,7 +417,7 @@ meMA.LaudsTheotokion.mode = me.m10.d18_en_US_dedes.meMA.LaudsTheotokion.mode
 meMA.LaudsTheotokion.melody = me.m10.d18_en_US_dedes.meMA.LaudsTheotokion.melody
 meMA.LaudsTheotokion.text = me.m10.d18_en_US_dedes.meMA.LaudsTheotokion.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
+meMA.MM.Lauds1123as5678.text = me.m10.d18_en_US_dedes.meMA.MM.Lauds1123as5678.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

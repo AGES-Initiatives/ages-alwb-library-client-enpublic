@@ -65,6 +65,7 @@ meVE.Apolytikion1.text = me.m04.d25_en_US_dedes.meVE.Apolytikion1.text
 
 meVE.GeneralApolytikion1.name = me.m04.d25_en_US_dedes.meVE.GeneralApolytikion1.name //   name of saint for General Apolytikia when not in Menaion
 
+meMA.C1.title = me.m04.d25_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m04.d25_en_US_dedes.meMA.C1.verse
 
 meMA.Ode1C11.ode = me.m04.d25_en_US_dedes.meMA.Ode1C11.ode
@@ -260,12 +261,13 @@ meMA.Lauds3.melody = me.m04.d25_en_US_dedes.meMA.Lauds3.melody
 meMA.Lauds3.text = me.m04.d25_en_US_dedes.meMA.Lauds3.text
 
 meMA.MM.Lauds123as456.text = properties_en_US_public.media.key
+meMA.MM.Lauds123as678.text = properties_en_US_public.media.key
 
 meMA.LaudsGlory.mode = me.m04.d25_en_US_dedes.meMA.LaudsGlory.mode
 meMA.LaudsGlory.melody = me.m04.d25_en_US_dedes.meMA.LaudsGlory.melody
 meMA.LaudsGlory.text = me.m04.d25_en_US_dedes.meMA.LaudsGlory.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
+meMA.MM.Lauds1123as5678.text = me.m04.d25_en_US_dedes.meMA.MM.Lauds1123as5678.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

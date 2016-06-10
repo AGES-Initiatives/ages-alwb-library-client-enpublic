@@ -15,16 +15,16 @@ meHO.note1 = me.m11.d20_en_US_dedes.meHO.note1
 meHO.note2 = me.m11.d20_en_US_dedes.meHO.note2
 
 meVE.Stichera01.mode = me.m11.d20_en_US_dedes.meVE.Stichera01.mode
-meVE.Stichera01.melody = me.m11.d20_en_US_dedes.meVE.Stichera01.melody
-meVE.Stichera01.text = me.m11.d20_en_US_dedes.meVE.Stichera01.text
+meVE.Stichera01.melody = me.m11.d20_en_US_oca.meVE.Stichera01.melody
+meVE.Stichera01.text = me.m11.d20_en_US_oca.meVE.Stichera01.text
 
 meVE.Stichera02.mode = me.m11.d20_en_US_dedes.meVE.Stichera02.mode
-meVE.Stichera02.melody = me.m11.d20_en_US_dedes.meVE.Stichera02.melody
-meVE.Stichera02.text = me.m11.d20_en_US_dedes.meVE.Stichera02.text
+meVE.Stichera02.melody = me.m11.d20_en_US_oca.meVE.Stichera02.melody
+meVE.Stichera02.text = me.m11.d20_en_US_oca.meVE.Stichera02.text
 
 meVE.Stichera03.mode = me.m11.d20_en_US_dedes.meVE.Stichera03.mode
-meVE.Stichera03.melody = me.m11.d20_en_US_dedes.meVE.Stichera03.melody
-meVE.Stichera03.text = me.m11.d20_en_US_dedes.meVE.Stichera03.text
+meVE.Stichera03.melody = me.m11.d20_en_US_oca.meVE.Stichera03.melody
+meVE.Stichera03.text = me.m11.d20_en_US_oca.meVE.Stichera03.text
 
 meVE.Stichera04.mode = me.m11.d20_en_US_dedes.meVE.Stichera04.mode
 meVE.Stichera04.melody = me.m11.d20_en_US_dedes.meVE.Stichera04.melody
@@ -39,8 +39,8 @@ meVE.Stichera06.melody = me.m11.d20_en_US_dedes.meVE.Stichera06.melody
 meVE.Stichera06.text = me.m11.d20_en_US_dedes.meVE.Stichera06.text
 
 meVE.SticGlory.mode = me.m11.d20_en_US_dedes.meVE.SticGlory.mode
-meVE.SticGlory.melody = me.m11.d20_en_US_dedes.meVE.SticGlory.melody
-meVE.SticGlory.text = me.m11.d20_en_US_dedes.meVE.SticGlory.text
+meVE.SticGlory.melody = me.m11.d20_en_US_oca.meVE.SticGlory.melody
+meVE.SticGlory.text = me.m11.d20_en_US_oca.meVE.SticGlory.text
 
 meVE.Aposticha1.mode = me.m11.d20_en_US_dedes.meVE.Aposticha1.mode
 meVE.Aposticha1.melody = me.m11.d20_en_US_dedes.meVE.Aposticha1.melody
@@ -55,8 +55,8 @@ meVE.Aposticha3.melody = me.m11.d20_en_US_dedes.meVE.Aposticha3.melody
 meVE.Aposticha3.text = me.m11.d20_en_US_dedes.meVE.Aposticha3.text
 
 meVE.AposGlory.mode = me.m11.d20_en_US_dedes.meVE.AposGlory.mode
-meVE.AposGlory.melody = me.m11.d20_en_US_dedes.meVE.AposGlory.melody
-meVE.AposGlory.text = me.m11.d20_en_US_dedes.meVE.AposGlory.text
+meVE.AposGlory.melody = me.m11.d20_en_US_oca.meVE.AposGlory.melody
+meVE.AposGlory.text = me.m11.d20_en_US_oca.meVE.AposGlory.text
 
 meVE.Apolytikion1.mode = me.m11.d20_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m11.d20_en_US_dedes.meVE.Apolytikion1.melody
@@ -86,6 +86,7 @@ meMA.Ode1C1H.mode = me.m11.d20_en_US_dedes.meMA.Ode1C1H.mode
 meMA.Ode1C1H.melody = me.m11.d20_en_US_dedes.meMA.Ode1C1H.melody
 meMA.Ode1C1H.text = me.m11.d20_en_US_dedes.meMA.Ode1C1H.text
 
+meMA.C1.title = me.m11.d20_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m11.d20_en_US_dedes.meMA.C1.verse
 
 meMA.Ode1C11.ode = me.m11.d20_en_US_dedes.meMA.Ode1C11.ode
@@ -108,6 +109,7 @@ meMA.Ode1C14.mode = me.m11.d20_en_US_dedes.meMA.Ode1C14.mode
 meMA.Ode1C14.melody = me.m11.d20_en_US_dedes.meMA.Ode1C14.melody
 meMA.Ode1C14.text = me.m11.d20_en_US_dedes.meMA.Ode1C14.text
 
+meMA.C2.title = me.m11.d20_en_US_dedes.meMA.C2.title
 meMA.C2.verse = me.m11.d20_en_US_dedes.meMA.C2.verse
 
 meMA.Ode1C21.ode = me.m11.d20_en_US_dedes.meMA.Ode1C21.ode
@@ -130,6 +132,7 @@ meMA.Ode1C2T.mode = me.m11.d20_en_US_dedes.meMA.Ode1C2T.mode
 meMA.Ode1C2T.melody = me.m11.d20_en_US_dedes.meMA.Ode1C2T.melody
 meMA.Ode1C2T.text = me.m11.d20_en_US_dedes.meMA.Ode1C2T.text
 
+meMA.C3.title = me.m11.d20_en_US_dedes.meMA.C3.title
 meMA.C3.verse = me.m11.d20_en_US_dedes.meMA.C3.verse
 
 meMA.Ode1C31.ode = me.m11.d20_en_US_dedes.meMA.Ode1C31.ode
@@ -679,7 +682,7 @@ meMA.Exaposteilarion3.mode = me.m11.d20_en_US_dedes.meMA.Exaposteilarion3.mode
 meMA.Exaposteilarion3.melody = me.m11.d20_en_US_dedes.meMA.Exaposteilarion3.melody
 meMA.Exaposteilarion3.text = me.m11.d20_en_US_dedes.meMA.Exaposteilarion3.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
+meMA.MM.Apos1123as5678.text = properties_en_US_public.media.key
 
 meMA.Aposticha1.mode = me.m11.d20_en_US_dedes.meMA.Aposticha1.mode
 meMA.Aposticha1.melody = me.m11.d20_en_US_dedes.meMA.Aposticha1.melody
