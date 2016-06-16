@@ -179,6 +179,10 @@ KanonBTisEortis = titles_en_US_dedes.KanonBTisEortis
 
 KanonTisEortis = titles_en_US_dedes.KanonTisEortis
 
+KanonATisOsias = titles_en_US_dedes.KanonATisOsias
+
+KanonBTisOsias = titles_en_US_dedes.KanonBTisOsias
+
 KanonTisOsias = titles_en_US_dedes.KanonTisOsias
 
 KanonTisTheotokou = titles_en_US_dedes.KanonTisTheotokou
@@ -186,6 +190,10 @@ KanonTisTheotokou = titles_en_US_dedes.KanonTisTheotokou
 KanonTonAgion = titles_en_US_dedes.KanonTonAgion
 
 KanonTonAgionApostolon = titles_en_US_dedes.KanonTonAgionApostolon
+
+KanonATonAsomaton = titles_en_US_dedes.KanonATonAsomaton
+
+KanonBTonAsomaton = titles_en_US_dedes.KanonBTonAsomaton
 
 KanonTonAsomaton = titles_en_US_dedes.KanonTonAsomaton
 
@@ -196,6 +204,8 @@ KanonTouAgiou = titles_en_US_dedes.KanonTouAgiou
 KanonTouAgiouNikolaou = titles_en_US_dedes.KanonTouAgiouNikolaou
 
 KanonTouApostolou = titles_en_US_dedes.KanonTouApostolou
+
+KanonTouArchangelou = titles_en_US_dedes.KanonTouArchangelou
 
 KanonTouEvangelistou = titles_en_US_dedes.KanonTouEvangelistou
 
