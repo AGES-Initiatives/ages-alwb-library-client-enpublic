@@ -189,6 +189,10 @@ KanonTisTheotokou = titles_en_US_dedes.KanonTisTheotokou
 
 KanonTonAgion = titles_en_US_dedes.KanonTonAgion
 
+KanonATonAgion = titles_en_US_dedes.KanonATonAgion
+
+KanonBTonAgion = titles_en_US_dedes.KanonBTonAgion
+
 KanonTonAgionApostolon = titles_en_US_dedes.KanonTonAgionApostolon
 
 KanonATonAsomaton = titles_en_US_dedes.KanonATonAsomaton
@@ -200,6 +204,10 @@ KanonTonAsomaton = titles_en_US_dedes.KanonTonAsomaton
 KanonTonMartyron = titles_en_US_dedes.KanonTonMartyron
 
 KanonTouAgiou = titles_en_US_dedes.KanonTouAgiou
+
+KanonATouAgiou = titles_en_US_dedes.KanonATouAgiou
+
+KanonBTouAgiou = titles_en_US_dedes.KanonBTouAgiou
 
 KanonTouAgiouNikolaou = titles_en_US_dedes.KanonTouAgiouNikolaou
 
@@ -220,6 +228,10 @@ KanonATouTriodiou = titles_en_US_dedes.KanonATouTriodiou
 KanonBTouTriodiou = titles_en_US_dedes.KanonBTouTriodiou
 
 KanonTouProfitou = titles_en_US_dedes.KanonTouProfitou
+
+KanonATouProfitou = titles_en_US_dedes.KanonATouProfitou
+
+KanonBTouProfitou = titles_en_US_dedes.KanonBTouProfitou
 
 KanonTouTriodiou = titles_en_US_dedes.KanonTouTriodiou
 
