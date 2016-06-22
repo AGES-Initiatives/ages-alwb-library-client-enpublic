@@ -47,6 +47,9 @@ pePA.Ode1H.mode = pe.d00P_en_US_dedes.pePA.Ode1H.mode
 pePA.Ode1H.melody = pe.d00P_en_US_dedes.pePA.Ode1H.melody
 pePA.Ode1H.text = pe.d00P_en_US_dedes.pePA.Ode1H.text
 
+pePA.C1.title = pe.d00P_en_US_dedes.pePA.C1.title
+pePA.C1.verse = pe.d00P_en_US_dedes.pePA.C1.verse
+
 pePA.Ode11.ode = pe.d00P_en_US_dedes.pePA.Ode11.ode
 pePA.Ode11.mode = pe.d00P_en_US_dedes.pePA.Ode11.mode
 pePA.Ode11.melody = pe.d00P_en_US_dedes.pePA.Ode11.melody
