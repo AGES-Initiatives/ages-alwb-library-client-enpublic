@@ -181,6 +181,10 @@ KanonBTisEortis = titles_en_US_dedes.KanonBTisEortis
 
 KanonTisEortis = titles_en_US_dedes.KanonTisEortis
 
+KanonATisMesopentikostis = titles_en_US_dedes.KanonATisMesopentikostis
+
+KanonBTisMesopentikostis = titles_en_US_dedes.KanonBTisMesopentikostis
+
 KanonATisOsias = titles_en_US_dedes.KanonATisOsias
 
 KanonBTisOsias = titles_en_US_dedes.KanonBTisOsias
@@ -208,6 +212,8 @@ KanonBTonAsomaton = titles_en_US_dedes.KanonBTonAsomaton
 KanonTonAsomaton = titles_en_US_dedes.KanonTonAsomaton
 
 KanonTonMartyron = titles_en_US_dedes.KanonTonMartyron
+
+KanonTonPateron = titles_en_US_dedes.KanonTonPateron
 
 KanonTouAgiou = titles_en_US_dedes.KanonTouAgiou
 
