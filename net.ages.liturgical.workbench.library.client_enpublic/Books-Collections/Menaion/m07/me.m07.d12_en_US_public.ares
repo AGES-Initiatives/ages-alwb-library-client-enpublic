@@ -645,6 +645,9 @@ alt1.meVE.Apolytikion1.text = me.m07.d12_en_US_dedes.alt1.meVE.Apolytikion1.text
 
 alt1.meMA.C1Acrostic.text = me.m07.d12_en_US_dedes.alt1.meMA.C1Acrostic.text
 
+alt1.meMA.C1.title = me.m07.d12_en_US_dedes.alt1.meMA.C1.title
+alt1.meMA.C1.verse = me.m07.d12_en_US_dedes.alt1.meMA.C1.verse
+
 alt1.meMA.Ode1C11.ode = me.m07.d12_en_US_dedes.alt1.meMA.Ode1C11.ode
 alt1.meMA.Ode1C11.mode = me.m07.d12_en_US_dedes.alt1.meMA.Ode1C11.mode
 alt1.meMA.Ode1C11.melody = me.m07.d12_en_US_dedes.alt1.meMA.Ode1C11.melody
@@ -1080,6 +1083,9 @@ alt2.meMA.C2Acrostic.text = me.m07.d12_en_US_dedes.alt2.meMA.C2Acrostic.text
 alt2.meMA.C3Poet = me.m07.d12_en_US_dedes.alt2.meMA.C3Poet
 alt2.meMA.C3Acrostic.text = me.m07.d12_en_US_dedes.alt2.meMA.C3Acrostic.text
 
+alt2.meMA.C1.title = me.m07.d12_en_US_dedes.alt2.meMA.C1.title
+alt2.meMA.C1.verse = me.m07.d12_en_US_dedes.alt2.meMA.C1.verse
+
 alt2.meMA.Ode1C1H.ode = me.m07.d12_en_US_dedes.alt2.meMA.Ode1C1H.ode
 alt2.meMA.Ode1C1H.mode = me.m07.d12_en_US_dedes.alt2.meMA.Ode1C1H.mode
 alt2.meMA.Ode1C1H.melody = me.m07.d12_en_US_dedes.alt2.meMA.Ode1C1H.melody
@@ -1105,6 +1111,9 @@ alt2.meMA.Ode1C14.mode = me.m07.d12_en_US_dedes.alt2.meMA.Ode1C14.mode
 alt2.meMA.Ode1C14.melody = me.m07.d12_en_US_dedes.alt2.meMA.Ode1C14.melody
 alt2.meMA.Ode1C14.text = me.m07.d12_en_US_dedes.alt2.meMA.Ode1C14.text
 
+alt2.meMA.C2.title = me.m07.d12_en_US_dedes.alt2.meMA.C2.title
+alt2.meMA.C2.verse = me.m07.d12_en_US_dedes.alt2.meMA.C2.verse
+
 alt2.meMA.Ode1C21.ode = me.m07.d12_en_US_dedes.alt2.meMA.Ode1C21.ode
 alt2.meMA.Ode1C21.mode = me.m07.d12_en_US_dedes.alt2.meMA.Ode1C21.mode
 alt2.meMA.Ode1C21.melody = me.m07.d12_en_US_dedes.alt2.meMA.Ode1C21.melody
@@ -1124,6 +1133,9 @@ alt2.meMA.Ode1C2T.ode = me.m07.d12_en_US_dedes.alt2.meMA.Ode1C2T.ode
 alt2.meMA.Ode1C2T.mode = me.m07.d12_en_US_dedes.alt2.meMA.Ode1C2T.mode
 alt2.meMA.Ode1C2T.melody = me.m07.d12_en_US_dedes.alt2.meMA.Ode1C2T.melody
 alt2.meMA.Ode1C2T.text = me.m07.d12_en_US_dedes.alt2.meMA.Ode1C2T.text
+
+alt2.meMA.C3.title = me.m07.d12_en_US_dedes.alt2.meMA.C3.title
+alt2.meMA.C3.verse = me.m07.d12_en_US_dedes.alt2.meMA.C3.verse
 
 alt2.meMA.Ode1C31.ode = me.m07.d12_en_US_dedes.alt2.meMA.Ode1C31.ode
 alt2.meMA.Ode1C31.mode = me.m07.d12_en_US_dedes.alt2.meMA.Ode1C31.mode

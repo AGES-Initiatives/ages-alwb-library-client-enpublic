@@ -213,8 +213,8 @@ meMA.Ode6H.melody = me.m07.d08_en_US_dedes.meMA.Ode6H.melody
 meMA.Ode6H.text = me.m07.d08_en_US_dedes.meMA.Ode6H.text
 
 meMA.Kontakion1.mode = me.m07.d08_en_US_dedes.meMA.Kontakion1.mode
-meMA.Kontakion1.melody = me.m07.d08_en_US_dedes.meMA.Kontakion1.melody
-meMA.Kontakion1.text = me.m07.d08_en_US_dedes.meMA.Kontakion1.text
+meMA.Kontakion1.melody = me.m07.d08_en_US_oca.meMA.Kontakion1.melody
+meMA.Kontakion1.text = me.m07.d08_en_US_oca.meMA.Kontakion1.text
 
 meMA.Oikos1.text = me.m07.d08_en_US_dedes.meMA.Oikos1.text
 
@@ -319,14 +319,15 @@ meMA.Lauds4.text = me.m07.d08_en_US_dedes.meMA.Lauds4.text
 
 meMA.LaudsGlory.poet = me.m07.d08_en_US_dedes.meMA.LaudsGlory.poet
 meMA.LaudsGlory.mode = me.m07.d08_en_US_dedes.meMA.LaudsGlory.mode
-meMA.LaudsGlory.melody = me.m07.d08_en_US_dedes.meMA.LaudsGlory.melody
-meMA.LaudsGlory.text = me.m07.d08_en_US_dedes.meMA.LaudsGlory.text
+meMA.LaudsGlory.melody = me.m07.d08_en_US_oca.meMA.LaudsGlory.melody
+meMA.LaudsGlory.text = me.m07.d08_en_US_oca.meMA.LaudsGlory.text
 
 meMA.LaudsTheotokion.mode = me.m07.d08_en_US_dedes.meMA.LaudsTheotokion.mode
 meMA.LaudsTheotokion.melody = me.m07.d08_en_US_dedes.meMA.LaudsTheotokion.melody
 meMA.LaudsTheotokion.text = me.m07.d08_en_US_dedes.meMA.LaudsTheotokion.text
 
-meMA.MM.VeApos1123as5678.text = properties_en_US_public.media.key
+meMA.MM.VeApos1123as3456.text = me.m07.d08_en_US_dedes.meMA.MM.VeApos1123as3456.text
+meMA.MM.VeApos1123as5678.text = me.m07.d08_en_US_dedes.meMA.MM.VeApos1123as5678.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
