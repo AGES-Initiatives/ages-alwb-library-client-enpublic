@@ -1,12 +1,12 @@
 A_Resource_Whose_Name = le.go.os_en_US_public 
 
-leosVE.Prayer_NynApolyeis.title = le.go.os_en_US_rsv.leosVE.Prayer_NynApolyeis.title
-leosVE.Prayer_NynApolyeis.version = le.go.os_en_US_rsv.leosVE.Prayer_NynApolyeis.version
-leosVE.Prayer_NynApolyeis.book = le.go.os_en_US_rsv.leosVE.Prayer_NynApolyeis.book
-leosVE.Prayer_NynApolyeis.chapverse = le.go.os_en_US_rsv.leosVE.Prayer_NynApolyeis.chapverse
-leosVE.Prayer_NynApolyeis.text = le.go.os_en_US_rsv.leosVE.Prayer_NynApolyeis.text
-leosVE.Prayer_NynApolyeis1.text = le.go.os_en_US_rsv.leosVE.Prayer_NynApolyeis1.text
-leosVE.Prayer_NynApolyeis2.text = le.go.os_en_US_rsv.leosVE.Prayer_NynApolyeis2.text
+leosVE.Prayer_NynApolyeis.title = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis.title
+leosVE.Prayer_NynApolyeis.version = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis.version
+leosVE.Prayer_NynApolyeis.book = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis.book
+leosVE.Prayer_NynApolyeis.chapverse = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis.chapverse
+leosVE.Prayer_NynApolyeis.text = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis.text
+leosVE.Prayer_NynApolyeis1.text = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis1.text
+leosVE.Prayer_NynApolyeis2.text = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis2.text
 
 leosMA.SixPsalmsIntro1.title = le.go.os_en_US_rsv.leosMA.SixPsalmsIntro1.title
 leosMA.SixPsalmsIntro1.version = le.go.os_en_US_rsv.leosMA.SixPsalmsIntro1.version
