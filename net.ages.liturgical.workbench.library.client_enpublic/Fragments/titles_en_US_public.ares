@@ -14,6 +14,8 @@ Antifonon4 = titles_en_US_dedes.Antifonon4
 
 AntiTouEidomenToFos = titles_en_US_dedes.AntiTouEidomenToFos
 
+ApodosisTisEortis = titles_en_US_dedes.ApodosisTisEortis
+
 Apolysis = titles_en_US_dedes.Apolysis
 
 Apolytikia = titles_en_US_dedes.Apolytikia
@@ -615,6 +617,7 @@ OnThursday = titles_en_US_dedes.OnThursday
 OnFriday = titles_en_US_dedes.OnFriday
 OnSaturday = titles_en_US_dedes.OnSaturday
 
+AfterTheFeast = titles_en_US_dedes.AfterTheFeast
 BeforeChristmas = titles_en_US_dedes.BeforeChristmas
 AfterChristmas = titles_en_US_dedes.AfterChristmas
 BeforeEpiphany = titles_en_US_dedes.BeforeEpiphany
@@ -637,6 +640,7 @@ OnThursday.uc = titles_en_US_dedes.OnThursday.uc
 OnFriday.uc = titles_en_US_dedes.OnFriday.uc
 OnSaturday.uc = titles_en_US_dedes.OnSaturday.uc
 
+AfterTheFeast.uc = titles_en_US_dedes.AfterTheFeast.uc
 BeforeChristmas.uc = titles_en_US_dedes.BeforeChristmas.uc
 AfterChristmas.uc = titles_en_US_dedes.AfterChristmas.uc
 BeforeEpiphany.uc = titles_en_US_dedes.BeforeEpiphany.uc
