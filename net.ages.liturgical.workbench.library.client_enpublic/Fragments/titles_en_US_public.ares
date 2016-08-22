@@ -58,6 +58,7 @@ EisToApodeipnon = titles_en_US_dedes.EisToApodeipnon
 
 EisToKyrieEkekraxa = titles_en_US_dedes.EisToKyrieEkekraxa
 
+eistonesperinon = titles_en_US_dedes.eistonesperinon
 EisTonEsperinon = titles_en_US_dedes.EisTonEsperinon
 
 EisTonOrthron = titles_en_US_dedes.EisTonOrthron
@@ -666,6 +667,12 @@ ofWeek3 = titles_en_US_dedes.ofWeek3
 ofWeek4 = titles_en_US_dedes.ofWeek4
 ofWeek5 = titles_en_US_dedes.ofWeek5
 ofWeek6 = titles_en_US_dedes.ofWeek6
+ofWeek1.uc = titles_en_US_dedes.ofWeek1.uc
+ofWeek2.uc = titles_en_US_dedes.ofWeek2.uc
+ofWeek3.uc = titles_en_US_dedes.ofWeek3.uc
+ofWeek4.uc = titles_en_US_dedes.ofWeek4.uc
+ofWeek5.uc = titles_en_US_dedes.ofWeek5.uc
+ofWeek6.uc = titles_en_US_dedes.ofWeek6.uc
 TriadicHymns = titles_en_US_dedes.TriadicHymns
 IntermediateVersesOde1 = titles_en_US_dedes.IntermediateVersesOde1
 IntermediateVersesOde3 = titles_en_US_dedes.IntermediateVersesOde3
