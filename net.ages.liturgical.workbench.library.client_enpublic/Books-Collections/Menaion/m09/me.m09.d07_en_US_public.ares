@@ -655,15 +655,15 @@ alt1.meMA.Kathisma3T.mode = me.m09.d07_en_US_dedes.alt1.meMA.Kathisma3T.mode
 alt1.meMA.Kathisma3T.melody = me.m09.d07_en_US_dedes.alt1.meMA.Kathisma3T.melody
 alt1.meMA.Kathisma3T.text = me.m09.d07_en_US_andronache.alt1.meMA.Kathisma3T.text
 
-meMA.MM.Prokeimenon.text = properties_en_US_andronache.media.key
+meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 
 alt1.meMA.PostGospelGlory.mode = me.m09.d07_en_US_dedes.alt1.meMA.PostGospelGlory.mode
 alt1.meMA.PostGospelGlory.melody = me.m09.d07_en_US_dedes.alt1.meMA.PostGospelGlory.melody
-alt1.meMA.PostGospelGlory.text = me.m09.d07_en_US_andronache.alt1.meMA.PostGospelGlory.text
+alt1.meMA.PostGospelGlory.text = me.m09.d07_en_US_dedes.alt1.meMA.PostGospelGlory.text
 
 alt1.meMA.PostGospelBoth.mode = me.m09.d07_en_US_dedes.alt1.meMA.PostGospelBoth.mode
 alt1.meMA.PostGospelBoth.melody = me.m09.d07_en_US_dedes.alt1.meMA.PostGospelBoth.melody
-alt1.meMA.PostGospelBoth.text = me.m09.d07_en_US_andronache.alt1.meMA.PostGospelBoth.text
+alt1.meMA.PostGospelBoth.text = me.m09.d07_en_US_dedes.alt1.meMA.PostGospelBoth.text
 
 alt1.meMA.PostGospelIdiomelon.mode = me.m09.d07_en_US_dedes.alt1.meMA.PostGospelIdiomelon.mode
 alt1.meMA.PostGospelIdiomelon.melody = me.m09.d07_en_US_dedes.alt1.meMA.PostGospelIdiomelon.melody
@@ -672,8 +672,8 @@ alt1.meMA.PostGospelIdiomelon.text = me.m09.d07_en_US_andronache.alt1.meMA.PostG
 alt1.meMA.C1Poet = me.m09.d07_en_US_andronache.alt1.meMA.C1Poet
 alt1.meMA.C1Acrostic.text = me.m09.d07_en_US_andronache.alt1.meMA.C1Acrostic.text
 
-alt1.meMA.C1.title = me.m09.d07_en_US_andronache.alt1.meMA.C1.title
-alt1.meMA.C1.verse = me.m09.d07_en_US_andronache.alt1.meMA.C1.verse
+alt1.meMA.C1.title = me.m09.d07_en_US_dedes.alt1.meMA.C1.title
+alt1.meMA.C1.verse = me.m09.d07_en_US_dedes.alt1.meMA.C1.verse
 
 alt1.meMA.Ode1C11.ode = me.m09.d07_en_US_dedes.alt1.meMA.Ode1C11.ode
 alt1.meMA.Ode1C11.mode = me.m09.d07_en_US_dedes.alt1.meMA.Ode1C11.mode
