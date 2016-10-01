@@ -654,6 +654,8 @@ alt1.meMA.Lauds4.mode = me.m12.d02_en_US_dedes.alt1.meMA.Lauds4.mode
 alt1.meMA.Lauds4.melody = me.m12.d02_en_US_dedes.alt1.meMA.Lauds4.melody
 alt1.meMA.Lauds4.text = me.m12.d02_en_US_dedes.alt1.meMA.Lauds4.text
 
+alt1.meMA.MM.Lauds1234as5678.text = me.m12.d02_en_US_dedes.alt1.meMA.MM.Lauds1234as5678.text
+
 alt1.meMA.LaudsGlory.mode = me.m12.d02_en_US_dedes.alt1.meMA.LaudsGlory.mode
 alt1.meMA.LaudsGlory.melody = me.m12.d02_en_US_dedes.alt1.meMA.LaudsGlory.melody
 alt1.meMA.LaudsGlory.text = me.m12.d02_en_US_dedes.alt1.meMA.LaudsGlory.text
