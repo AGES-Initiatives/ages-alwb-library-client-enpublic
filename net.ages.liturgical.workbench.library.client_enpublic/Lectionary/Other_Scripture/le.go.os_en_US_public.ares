@@ -1,0 +1,102 @@
+A_Resource_Whose_Name = le.go.os_en_US_public 
+
+leosVE.Prayer_NynApolyeis.title = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis.title
+leosVE.Prayer_NynApolyeis.version = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis.version
+leosVE.Prayer_NynApolyeis.book = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis.book
+leosVE.Prayer_NynApolyeis.chapverse = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis.chapverse
+leosVE.Prayer_NynApolyeis.text = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis.text
+leosVE.Prayer_NynApolyeis1.text = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis1.text
+leosVE.Prayer_NynApolyeis2.text = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis2.text
+
+leosMA.SixPsalmsIntro1.title = le.go.os_en_US_rsv.leosMA.SixPsalmsIntro1.title
+leosMA.SixPsalmsIntro1.version = le.go.os_en_US_rsv.leosMA.SixPsalmsIntro1.version
+leosMA.SixPsalmsIntro1.book = le.go.os_en_US_rsv.leosMA.SixPsalmsIntro1.book
+leosMA.SixPsalmsIntro1.chapverse = le.go.os_en_US_rsv.leosMA.SixPsalmsIntro1.chapverse
+leosMA.SixPsalmsIntro1.text = le.go.os_en_US_rsv.leosMA.SixPsalmsIntro1.text
+
+//The NT Odes are referenced here and the template (MatinsParts) references these leos keys
+//so that the Scripture version of these NT texts will be controlled by the version option
+//for NT and not the option for Psalter, which is where the Odes live
+leosMA.Ode91.title = le.go.os_en_US_nkjv.leosMA.Ode91.title
+leosMA.Ode91.version = le.go.os_en_US_nkjv.leosMA.Ode91.version
+leosMA.Ode91.book = le.go.os_en_US_nkjv.leosMA.Ode91.book
+leosMA.Ode91.heading1 = le.go.os_en_US_nkjv.leosMA.Ode91.heading1
+leosMA.Ode91.source = le.go.os_en_US_nkjv.leosMA.Ode91.source
+leosMA.Ode91.heading2 = le.go.os_en_US_nkjv.leosMA.Ode91.heading2
+leosMA.Ode91.intro = le.go.os_en_US_nkjv.leosMA.Ode91.intro
+leosMA.Ode91.v1.number = le.go.os_en_US_nkjv.leosMA.Ode91.v1.number
+leosMA.Ode91.v1.text = le.go.os_en_US_nkjv.leosMA.Ode91.v1.text
+leosMA.Ode91.v2.number = le.go.os_en_US_nkjv.leosMA.Ode91.v2.number
+leosMA.Ode91.v2.text = le.go.os_en_US_nkjv.leosMA.Ode91.v2.text
+leosMA.Ode91.v3.number = le.go.os_en_US_nkjv.leosMA.Ode91.v3.number
+leosMA.Ode91.v3.text = le.go.os_en_US_nkjv.leosMA.Ode91.v3.text
+leosMA.Ode91.v4.number = le.go.os_en_US_nkjv.leosMA.Ode91.v4.number
+leosMA.Ode91.v4.text = le.go.os_en_US_nkjv.leosMA.Ode91.v4.text
+leosMA.Ode91.v5.number = le.go.os_en_US_nkjv.leosMA.Ode91.v5.number
+leosMA.Ode91.v5.text = le.go.os_en_US_nkjv.leosMA.Ode91.v5.text
+leosMA.Ode91.v6.number = le.go.os_en_US_nkjv.leosMA.Ode91.v6.number
+leosMA.Ode91.v6.text = le.go.os_en_US_nkjv.leosMA.Ode91.v6.text
+
+leosMA.Ode92.title = le.go.os_en_US_rsv.leosMA.Ode92.title
+leosMA.Ode92.version = le.go.os_en_US_rsv.leosMA.Ode92.version
+leosMA.Ode92.book = le.go.os_en_US_rsv.leosMA.Ode92.book
+leosMA.Ode92.heading1 = le.go.os_en_US_rsv.leosMA.Ode92.heading1
+leosMA.Ode92.source = le.go.os_en_US_rsv.leosMA.Ode92.source
+leosMA.Ode92.heading2 = le.go.os_en_US_rsv.leosMA.Ode92.heading2
+leosMA.Ode92.refrain = le.go.os_en_US_rsv.leosMA.Ode92.refrain
+leosMA.Ode92.v1.number = le.go.os_en_US_rsv.leosMA.Ode92.v1.number
+leosMA.Ode92.v1.text = le.go.os_en_US_rsv.leosMA.Ode92.v1.text
+leosMA.Ode92.v2.number = le.go.os_en_US_rsv.leosMA.Ode92.v2.number
+leosMA.Ode92.v2.text = le.go.os_en_US_rsv.leosMA.Ode92.v2.text
+leosMA.Ode92.v3.number = le.go.os_en_US_rsv.leosMA.Ode92.v3.number
+leosMA.Ode92.v3.text = le.go.os_en_US_rsv.leosMA.Ode92.v3.text
+leosMA.Ode92.v4.number = le.go.os_en_US_rsv.leosMA.Ode92.v4.number
+leosMA.Ode92.v4.text = le.go.os_en_US_rsv.leosMA.Ode92.v4.text
+leosMA.Ode92.v5.number = le.go.os_en_US_rsv.leosMA.Ode92.v5.number
+leosMA.Ode92.v5.text = le.go.os_en_US_rsv.leosMA.Ode92.v5.text
+leosMA.Ode92.eight = le.go.os_en_US_rsv.leosMA.Ode92.eight
+leosMA.Ode92.v6.number = le.go.os_en_US_rsv.leosMA.Ode92.v6.number
+leosMA.Ode92.v6.text = le.go.os_en_US_rsv.leosMA.Ode92.v6.text
+leosMA.Ode92.v7.number = le.go.os_en_US_rsv.leosMA.Ode92.v7.number
+leosMA.Ode92.v7.text = le.go.os_en_US_rsv.leosMA.Ode92.v7.text
+leosMA.Ode92.six = le.go.os_en_US_rsv.leosMA.Ode92.six
+leosMA.Ode92.v8.number = le.go.os_en_US_rsv.leosMA.Ode92.v8.number
+leosMA.Ode92.v8.text = le.go.os_en_US_rsv.leosMA.Ode92.v8.text
+leosMA.Ode92.v9.number = le.go.os_en_US_rsv.leosMA.Ode92.v9.number
+leosMA.Ode92.v9.text = le.go.os_en_US_rsv.leosMA.Ode92.v9.text
+leosMA.Ode92.four = le.go.os_en_US_rsv.leosMA.Ode92.four
+leosMA.Ode92.v10.number = le.go.os_en_US_rsv.leosMA.Ode92.v10.number
+leosMA.Ode92.v10.text = le.go.os_en_US_rsv.leosMA.Ode92.v10.text
+leosMA.Ode92.v11.number = le.go.os_en_US_rsv.leosMA.Ode92.v11.number
+leosMA.Ode92.v11.text = le.go.os_en_US_rsv.leosMA.Ode92.v11.text
+
+leosMA.GreatDoxology.v01.title = ""
+leosMA.GreatDoxology.v01.version = ""
+leosMA.GreatDoxology.v01.book = ""
+leosMA.GreatDoxology.v01.chapverse = ""
+leosMA.GreatDoxology.v01.text = ""
+
+leosLI.pe.d095.CommunionHymn.title = le.go.os_en_US_rsv.leosLI.pe.d095.CommunionHymn.title
+leosLI.pe.d095.CommunionHymn.version = le.go.os_en_US_rsv.leosLI.pe.d095.CommunionHymn.version
+leosLI.pe.d095.CommunionHymn.book = le.go.os_en_US_rsv.leosLI.pe.d095.CommunionHymn.book
+leosLI.pe.d095.CommunionHymn.number = le.go.os_en_US_rsv.leosLI.pe.d095.CommunionHymn.number
+leosLI.pe.d095.CommunionHymn.text = le.go.os_en_US_rsv.leosLI.pe.d095.CommunionHymn.text
+
+leosTY.Beatitudes.title = le.go.os_en_US_rsv.leosTY.Beatitudes.title
+leosTY.Beatitudes.version = le.go.os_en_US_rsv.leosTY.Beatitudes.version
+leosTY.Beatitudes.book = le.go.os_en_US_rsv.leosTY.Beatitudes.book
+leosTY.Beatitudes.chapverse = le.go.os_en_US_rsv.leosTY.Beatitudes.chapverse
+leosTY.Beatitudes_Intro.text = le.go.os_en_US_rsv.leosTY.Beatitudes_Intro.text
+leosTY.Beatitudes_v01.text = le.go.os_en_US_rsv.leosTY.Beatitudes_v01.text
+leosTY.Beatitudes_v02.text = le.go.os_en_US_rsv.leosTY.Beatitudes_v02.text
+leosTY.Beatitudes_v03.text = le.go.os_en_US_rsv.leosTY.Beatitudes_v03.text
+leosTY.Beatitudes_v04.text = le.go.os_en_US_rsv.leosTY.Beatitudes_v04.text
+leosTY.Beatitudes_v05.text = le.go.os_en_US_rsv.leosTY.Beatitudes_v05.text
+leosTY.Beatitudes_v06.text = le.go.os_en_US_rsv.leosTY.Beatitudes_v06.text
+leosTY.Beatitudes_v07.text = le.go.os_en_US_rsv.leosTY.Beatitudes_v07.text
+leosTY.Beatitudes_v08.text = le.go.os_en_US_rsv.leosTY.Beatitudes_v08.text
+leosTY.Beatitudes_v09.text = le.go.os_en_US_rsv.leosTY.Beatitudes_v09.text
+leosTY.Beatitudes_v10.text = le.go.os_en_US_rsv.leosTY.Beatitudes_v10.text
+leosTY.Beatitudes_Refrain1.text = le.go.os_en_US_rsv.leosTY.Beatitudes_Refrain1.text
+leosTY.Beatitudes_Refrain2.text = le.go.os_en_US_rsv.leosTY.Beatitudes_Refrain2.text
+leosTY.Beatitudes_Refrain3.text = le.go.os_en_US_rsv.leosTY.Beatitudes_Refrain3.text

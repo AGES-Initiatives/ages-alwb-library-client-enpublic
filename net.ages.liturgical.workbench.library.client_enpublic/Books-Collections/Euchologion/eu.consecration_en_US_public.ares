@@ -110,6 +110,8 @@ euMA.Lauds3.mode = eu.consecration_en_US_dedes.euMA.Lauds3.mode
 euMA.Lauds3.melody = eu.consecration_en_US_dedes.euMA.Lauds3.melody
 euMA.Lauds3.text = eu.consecration_en_US_dedes.euMA.Lauds3.text
 
+euMA.MM.Lauds123as456.text = eu.consecration_en_US_dedes.euMA.MM.Lauds123as456.text
+
 euMA.LaudsBoth.mode = eu.consecration_en_US_dedes.euMA.LaudsBoth.mode
 euMA.LaudsBoth.melody = eu.consecration_en_US_dedes.euMA.LaudsBoth.melody
 euMA.LaudsBoth.text = eu.consecration_en_US_dedes.euMA.LaudsBoth.text

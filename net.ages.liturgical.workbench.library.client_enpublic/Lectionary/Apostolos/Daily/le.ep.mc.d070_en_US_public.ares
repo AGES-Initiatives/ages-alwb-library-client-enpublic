@@ -1,0 +1,17 @@
+A_Resource_Whose_Name = le.ep.mc.d070_en_US_public 
+
+lemcVE.Epistle.title = le.ep.mc.d070_en_US_rsv.lemcVE.Epistle.title 
+lemcVE.Epistle.version = le.ep.mc.d070_en_US_rsv.lemcVE.Epistle.version 
+lemcVE.Epistle.book = le.ep.mc.d070_en_US_rsv.lemcVE.Epistle.book 
+lemcVE.Epistle.chapverse = le.ep.mc.d070_en_US_rsv.lemcVE.Epistle.chapverse 
+lemcVE.Epistle.text = le.ep.mc.d070_en_US_rsv.lemcVE.Epistle.text 
+lemcVE.Epistle.pagenumber = le.ep.mc.d070_en_US_rsv.lemcVE.Epistle.pagenumber 
+
+// This is at the end of Friday Night service
+lemcLI.Epistle.title = 
+lemcLI.Epistle.version = 
+lemcLI.Epistle.book = 
+lemcLI.Epistle.chapverse = 
+lemcLI.Epistle.text = 
+lemcLI.Epistle.pagenumber = 
+

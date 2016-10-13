@@ -14,6 +14,8 @@ Antifonon4 = titles_en_US_dedes.Antifonon4
 
 AntiTouEidomenToFos = titles_en_US_dedes.AntiTouEidomenToFos
 
+ApodosisTisEortis = titles_en_US_dedes.ApodosisTisEortis
+
 Apolysis = titles_en_US_dedes.Apolysis
 
 Apolytikia = titles_en_US_dedes.Apolytikia
@@ -56,6 +58,7 @@ EisToApodeipnon = titles_en_US_dedes.EisToApodeipnon
 
 EisToKyrieEkekraxa = titles_en_US_dedes.EisToKyrieEkekraxa
 
+eistonesperinon = titles_en_US_dedes.eistonesperinon
 EisTonEsperinon = titles_en_US_dedes.EisTonEsperinon
 
 EisTonOrthron = titles_en_US_dedes.EisTonOrthron
@@ -205,6 +208,8 @@ KanonBTonAgion = titles_en_US_dedes.KanonBTonAgion
 
 KanonTonAgionApostolon = titles_en_US_dedes.KanonTonAgionApostolon
 
+KanonTonApostolon = titles_en_US_dedes.KanonTonApostolon
+
 KanonATonAsomaton = titles_en_US_dedes.KanonATonAsomaton
 
 KanonBTonAsomaton = titles_en_US_dedes.KanonBTonAsomaton
@@ -236,6 +241,10 @@ KanonTouEvangelistou = titles_en_US_dedes.KanonTouEvangelistou
 KanonTouMartyros = titles_en_US_dedes.KanonTouMartyros
 
 KanonTouOsiou = titles_en_US_dedes.KanonTouOsiou
+
+KanonATouOsiou = titles_en_US_dedes.KanonATouOsiou
+
+KanonBTouOsiou = titles_en_US_dedes.KanonBTouOsiou
 
 KanonTouPascha = titles_en_US_dedes.KanonTouPascha
 
@@ -367,6 +376,8 @@ Omoion = titles_en_US_dedes.Omoion
 
 OOikos = titles_en_US_dedes.OOikos
 
+OPolyeleos = titles_en_US_dedes.OPolyeleos
+
 OTrisagiosYmnos = titles_en_US_dedes.OTrisagiosYmnos
 
 OuIAkrostichis = titles_en_US_dedes.OuIAkrostichis
@@ -386,6 +397,8 @@ Prosomoia = titles_en_US_dedes.Prosomoia
 PsallomenaEnTiOdiTafti = titles_en_US_dedes.PsallomenaEnTiOdiTafti
 
 SmallEntrance = titles_en_US_dedes.SmallEntrance
+
+Salutations = titles_en_US_dedes.Salutations
 
 Stasis1 = titles_en_US_dedes.Stasis1
 
@@ -613,6 +626,7 @@ OnThursday = titles_en_US_dedes.OnThursday
 OnFriday = titles_en_US_dedes.OnFriday
 OnSaturday = titles_en_US_dedes.OnSaturday
 
+AfterTheFeast = titles_en_US_dedes.AfterTheFeast
 BeforeChristmas = titles_en_US_dedes.BeforeChristmas
 AfterChristmas = titles_en_US_dedes.AfterChristmas
 BeforeEpiphany = titles_en_US_dedes.BeforeEpiphany
@@ -635,6 +649,7 @@ OnThursday.uc = titles_en_US_dedes.OnThursday.uc
 OnFriday.uc = titles_en_US_dedes.OnFriday.uc
 OnSaturday.uc = titles_en_US_dedes.OnSaturday.uc
 
+AfterTheFeast.uc = titles_en_US_dedes.AfterTheFeast.uc
 BeforeChristmas.uc = titles_en_US_dedes.BeforeChristmas.uc
 AfterChristmas.uc = titles_en_US_dedes.AfterChristmas.uc
 BeforeEpiphany.uc = titles_en_US_dedes.BeforeEpiphany.uc
@@ -657,7 +672,31 @@ ofWeek2 = titles_en_US_dedes.ofWeek2
 ofWeek3 = titles_en_US_dedes.ofWeek3
 ofWeek4 = titles_en_US_dedes.ofWeek4
 ofWeek5 = titles_en_US_dedes.ofWeek5
-ofWeek6 = titles_en_US_dedes.ofWeek6
+ofWeek6_tr = titles_en_US_dedes.ofWeek6_tr
+ofWeek6_pe = titles_en_US_dedes.ofWeek6_pe
+ofWeek7 = titles_en_US_dedes.ofWeek7
+ofWeek8_pe = titles_en_US_dedes.ofWeek8_pe
+ofWeek1.uc = titles_en_US_dedes.ofWeek1.uc
+ofWeek2.uc = titles_en_US_dedes.ofWeek2.uc
+ofWeek3.uc = titles_en_US_dedes.ofWeek3.uc
+ofWeek4.uc = titles_en_US_dedes.ofWeek4.uc
+ofWeek5.uc = titles_en_US_dedes.ofWeek5.uc
+ofWeek6_tr.uc = titles_en_US_dedes.ofWeek6_tr.uc
+ofWeek6_pe.uc = titles_en_US_dedes.ofWeek6_pe.uc
+ofWeek7.uc = titles_en_US_dedes.ofWeek7.uc
+ofWeek8_pe.uc = titles_en_US_dedes.ofWeek8_pe.uc
+FirstSunday = titles_en_US_dedes.FirstSunday
+SecondSunday = titles_en_US_dedes.SecondSunday
+ThirdSunday = titles_en_US_dedes.ThirdSunday
+FourthSunday = titles_en_US_dedes.FourthSunday
+FifthSunday = titles_en_US_dedes.FifthSunday
+FirstSunday.uc = titles_en_US_dedes.FirstSunday.uc
+SecondSunday.uc = titles_en_US_dedes.SecondSunday.uc
+ThirdSunday.uc = titles_en_US_dedes.ThirdSunday.uc
+FourthSunday.uc = titles_en_US_dedes.FourthSunday.uc
+FifthSunday.uc = titles_en_US_dedes.FifthSunday.uc
+ofLent = titles_en_US_dedes.ofLent
+ofLent.uc = titles_en_US_dedes.ofLent.uc
 TriadicHymns = titles_en_US_dedes.TriadicHymns
 IntermediateVersesOde1 = titles_en_US_dedes.IntermediateVersesOde1
 IntermediateVersesOde3 = titles_en_US_dedes.IntermediateVersesOde3
@@ -667,6 +706,7 @@ IntermediateVersesOde6 = titles_en_US_dedes.IntermediateVersesOde6
 IntermediateVersesOde7 = titles_en_US_dedes.IntermediateVersesOde7
 IntermediateVersesOde8 = titles_en_US_dedes.IntermediateVersesOde8
 PhotagogicHymns = titles_en_US_dedes.PhotagogicHymns
+ofBrightWeek = titles_en_US_dedes.ofBrightWeek
 
 sourceHorologion = titles_en_US_dedes.sourceHorologion
 sourceMenaion = titles_en_US_dedes.sourceMenaion

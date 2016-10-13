@@ -1,0 +1,76 @@
+A_Resource_Whose_Name = le.pr.os_en_US_public 
+
+leosCO.Key0300.title = le.pr.os_en_US_saas.leosCO.Key0300.title
+leosCO.Key0300.version = le.pr.os_en_US_saas.leosCO.Key0300.version
+leosCO.Key0300.book = le.pr.os_en_US_saas.leosCO.Key0300.book
+leosCO.Key0300.chapverse = le.pr.os_en_US_saas.leosCO.Key0300.chapverse
+leosCO.Key0301.text = le.pr.os_en_US_saas.leosCO.Key0301.text
+leosCO.Key0302.text = le.pr.os_en_US_saas.leosCO.Key0302.text
+leosCO.Key0303.text = le.pr.os_en_US_saas.leosCO.Key0303.text
+leosCO.Key0304.text = le.pr.os_en_US_saas.leosCO.Key0304.text
+leosCO.Key0305.text = le.pr.os_en_US_saas.leosCO.Key0305.text
+leosCO.Key0306.text = le.pr.os_en_US_saas.leosCO.Key0306.text
+leosCO.Key0307.text = le.pr.os_en_US_saas.leosCO.Key0307.text
+leosCO.Key0308.text = le.pr.os_en_US_saas.leosCO.Key0308.text
+leosCO.Key0309.text = le.pr.os_en_US_saas.leosCO.Key0309.text
+leosCO.Key0310.text = le.pr.os_en_US_saas.leosCO.Key0310.text
+leosCO.Key0311.text = le.pr.os_en_US_saas.leosCO.Key0311.text
+leosCO.Key0312.text = le.pr.os_en_US_saas.leosCO.Key0312.text
+leosCO.Key0313.text = le.pr.os_en_US_saas.leosCO.Key0313.text
+leosCO.Key0314.text = le.pr.os_en_US_saas.leosCO.Key0314.text
+leosCO.Key0315.text = le.pr.os_en_US_saas.leosCO.Key0315.text
+leosCO.Key0316.text = le.pr.os_en_US_saas.leosCO.Key0316.text
+leosCO.Key0317.text = le.pr.os_en_US_saas.leosCO.Key0317.text
+leosCO.Key0318.text = le.pr.os_en_US_saas.leosCO.Key0318.text
+leosCO.Key0319.text = le.pr.os_en_US_saas.leosCO.Key0319.text
+leosCO.Key0320.text = le.pr.os_en_US_saas.leosCO.Key0320.text
+leosCO.Key0321.text = le.pr.os_en_US_saas.leosCO.Key0321.text
+
+leosMA.LentAlleluia.title = le.pr.os_en_US_saas.leosMA.LentAlleluia.title
+leosMA.LentAlleluia.version = le.pr.os_en_US_saas.leosMA.LentAlleluia.version
+leosMA.LentAlleluia.book = le.pr.os_en_US_saas.leosMA.LentAlleluia.book
+leosMA.LentAlleluia.chapverse = le.pr.os_en_US_saas.leosMA.LentAlleluia.chapverse
+leosMA.LentAlleluiaVerse1.text = le.pr.os_en_US_saas.leosMA.LentAlleluiaVerse1.text
+leosMA.LentAlleluiaVerse2.text = le.pr.os_en_US_saas.leosMA.LentAlleluiaVerse2.text
+leosMA.LentAlleluiaVerse3.text = le.pr.os_en_US_saas.leosMA.LentAlleluiaVerse3.text
+leosMA.LentAlleluiaVerse4.text = le.pr.os_en_US_saas.leosMA.LentAlleluiaVerse4.text
+
+leosMA.GreatDoxology.v09.title = le.pr.os_en_US_saas.leosMA.GreatDoxology.v09.title
+leosMA.GreatDoxology.v09.version = le.pr.os_en_US_saas.leosMA.GreatDoxology.v09.version
+leosMA.GreatDoxology.v09.book = le.pr.os_en_US_saas.leosMA.GreatDoxology.v09.book
+leosMA.GreatDoxology.v09.chapverse = le.pr.os_en_US_saas.leosMA.GreatDoxology.v09.chapverse
+leosMA.GreatDoxology.v09.text = le.pr.os_en_US_saas.leosMA.GreatDoxology.v09.text
+
+leosMA.tr.d036.LaudsSundayVerse1.title = le.pr.os_en_US_saas.leosMA.tr.d036.LaudsSundayVerse1.title
+leosMA.tr.d036.LaudsSundayVerse1.version = le.pr.os_en_US_saas.leosMA.tr.d036.LaudsSundayVerse1.version
+leosMA.tr.d036.LaudsSundayVerse1.book = le.pr.os_en_US_saas.leosMA.tr.d036.LaudsSundayVerse1.book
+leosMA.tr.d036.LaudsSundayVerse1.chapverse = le.pr.os_en_US_saas.leosMA.tr.d036.LaudsSundayVerse1.chapverse
+leosMA.tr.d036.LaudsSundayVerse1.text = le.pr.os_en_US_saas.leosMA.tr.d036.LaudsSundayVerse1.text
+
+leosLI.pe.d113.EpistleProkeimenon.title = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.title
+leosLI.pe.d113.EpistleProkeimenon.version = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.version
+leosLI.pe.d113.EpistleProkeimenon.book = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book
+leosLI.pe.d113.EpistleProkeimenon.chapverse = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.chapverse
+leosLI.pe.d113.EpistleProkeimenon.text = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.text
+leosLI.pe.d113.EpistleProkeimenonVerse.text = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenonVerse.text
+
+leosFUN.Key1202.title = le.pr.os_en_US_saas.leosFUN.Key1202.title
+leosFUN.Key1202.version = le.pr.os_en_US_saas.leosFUN.Key1202.version
+leosFUN.Key1202.book = le.pr.os_en_US_saas.leosFUN.Key1202.book
+leosFUN.Key1202.chapverse = le.pr.os_en_US_saas.leosFUN.Key1202.chapverse
+leosFUN.Key1202.text = le.pr.os_en_US_saas.leosFUN.Key1202.text
+
+leosH1.me.m12.d24.Verse1.version = le.pr.os_en_US_saas.leosH1.me.m12.d24.Verse1.version
+leosH1.me.m12.d24.Verse1.book = le.pr.os_en_US_saas.leosH1.me.m12.d24.Verse1.book
+leosH1.me.m12.d24.Verse1.chapverse = le.pr.os_en_US_saas.leosH1.me.m12.d24.Verse1.chapverse
+leosH1.me.m12.d24.Verse1.text = le.pr.os_en_US_saas.leosH1.me.m12.d24.Verse1.text
+
+leosH1.me.m12.d24.Verse2.version = le.pr.os_en_US_saas.leosH1.me.m12.d24.Verse2.version
+leosH1.me.m12.d24.Verse2.book = le.pr.os_en_US_saas.leosH1.me.m12.d24.Verse2.book
+leosH1.me.m12.d24.Verse2.chapverse = le.pr.os_en_US_saas.leosH1.me.m12.d24.Verse2.chapverse
+leosH1.me.m12.d24.Verse2.text = le.pr.os_en_US_saas.leosH1.me.m12.d24.Verse2.text
+
+leosH9.ho.s09.Key0001.version = le.pr.os_en_US_saas.leosH9.ho.s09.Key0001.version
+leosH9.ho.s09.Key0001.book = le.pr.os_en_US_saas.leosH9.ho.s09.Key0001.book
+leosH9.ho.s09.Key0001.chapverse = le.pr.os_en_US_saas.leosH9.ho.s09.Key0001.chapverse
+leosH9.ho.s09.Key0001.text = le.pr.os_en_US_saas.leosH9.ho.s09.Key0001.text
