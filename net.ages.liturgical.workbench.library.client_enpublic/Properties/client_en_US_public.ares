@@ -29,10 +29,10 @@ cl.localpatronsaint1.supplication = "(local patron saint);"
 cl.localpatronsaint1.dismissal = "(local patron saint);"
 cl.localpatronsaint1.greatcompline = "(local patron saint), intercede for us sinners."
 
-cl.Apolytikion1.title = "(For the Parish Church)"
+cl.Apolytikion1.title = "(Apolytikion of the Parish Church)"
 cl.Apolytikion1.mode = ""
 cl.Apolytikion1.melody = ""
-cl.Apolytikion1.text = "(The text of the hymn for the local church goes here.)"
+cl.Apolytikion1.text = "(The text of the Apolytikion of the local church goes here.)"
 
 cl.Kontakion1.title = "(For the Parish Church)"
 cl.Kontakion1.mode = 
