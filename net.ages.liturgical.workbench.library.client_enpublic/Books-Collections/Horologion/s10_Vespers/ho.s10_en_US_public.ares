@@ -90,12 +90,12 @@ R26 = ho.s10_en_US_dedes.R26
 
 // Not in Orologion
 //Lity
-hoVE.LityKyrieEleison.text = ho.s10_en_US_dedes.hoVE.LityKyrieEleison.text
+hoVE.LityKyrieEleison.text = ho.s10_en_US_goa.hoVE.LityKyrieEleison.text
 
 // Artoclasia
-hoVE.ArtoklasiaTheotokeParthene.text = ho.s10_en_US_dedes.hoVE.ArtoklasiaTheotokeParthene.text
-hoVE.ArtoklasiaPrayer1 = ho.s10_en_US_dedes.hoVE.ArtoklasiaPrayer1
-hoVE.ArtoklasiaPrayer2 = ho.s10_en_US_dedes.hoVE.ArtoklasiaPrayer2
+hoVE.ArtoklasiaTheotokeParthene.text = ho.s10_en_US_goa.hoVE.ArtoklasiaTheotokeParthene.text
+hoVE.ArtoklasiaPrayer1 = ho.s10_en_US_goa.hoVE.ArtoklasiaPrayer1
+hoVE.ArtoklasiaPrayer2 = ho.s10_en_US_goa.hoVE.ArtoklasiaPrayer2
 
 hoVE.ArtoklasiaHymn.text = ho.s10_en_US_dedes.hoVE.ArtoklasiaHymn.text
 

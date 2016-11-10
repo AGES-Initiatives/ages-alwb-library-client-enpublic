@@ -1,27 +1,27 @@
 A_Resource_Whose_Name = eu.funeral_en_US_public 
 
-euFUN.title = eu.funeral_en_US_holycross.euFUN.title
-euFUN.brightweek.title = eu.funeral_en_US_holycross.euFUN.brightweek.title
+euFUN.title = eu.funeral_en_US_goa.euFUN.title
+euFUN.brightweek.title = eu.funeral_en_US_goa.euFUN.brightweek.title
 euFUN.translator = ""
 
-euFUN.Key0100.title = eu.funeral_en_US_dedes.euFUN.Key0100.title
+euFUN.Key0100.title = eu.funeral_en_US_goa.euFUN.Key0100.title
 
 euFUN.Key0101.mode = eu.funeral_en_US_holycross.euFUN.Key0101.mode
-euFUN.Key0101.text = eu.funeral_en_US_holycross.euFUN.Key0101.text
-euFUN.Key0102.text = eu.funeral_en_US_holycross.euFUN.Key0102.text
-euFUN.Key0103.text = eu.funeral_en_US_holycross.euFUN.Key0103.text
-euFUN.Key0104.text = eu.funeral_en_US_holycross.euFUN.Key0104.text
+euFUN.Key0101.text = eu.funeral_en_US_goa.euFUN.Key0101.text
+euFUN.Key0102.text = eu.funeral_en_US_goa.euFUN.Key0102.text
+euFUN.Key0103.text = eu.funeral_en_US_goa.euFUN.Key0103.text
+euFUN.Key0104.text = eu.funeral_en_US_goa.euFUN.Key0104.text
 
-euFUN.Key0105.text = eu.funeral_en_US_holycross.euFUN.Key0105.text
-euFUN.Key0106.text = eu.funeral_en_US_holycross.euFUN.Key0106.text
-euFUN.Key0107.text = eu.funeral_en_US_holycross.euFUN.Key0107.text
-euFUN.Key0108.text = eu.funeral_en_US_holycross.euFUN.Key0108.text
+euFUN.Key0105.text = eu.funeral_en_US_goa.euFUN.Key0105.text
+euFUN.Key0106.text = eu.funeral_en_US_goa.euFUN.Key0106.text
+euFUN.Key0107.text = eu.funeral_en_US_goa.euFUN.Key0107.text
+euFUN.Key0108.text = eu.funeral_en_US_goa.euFUN.Key0108.text
 euFUN.Key0109.text = eu.funeral_en_US_holycross.euFUN.Key0109.text
-euFUN.Key0110.text = eu.funeral_en_US_dedes.euFUN.Key0110.text
-euFUN.Key0111.text = eu.funeral_en_US_dedes.euFUN.Key0111.text
-euFUN.Key0112.text = eu.funeral_en_US_dedes.euFUN.Key0112.text
+euFUN.Key0110.text = eu.funeral_en_US_goa.euFUN.Key0110.text
+euFUN.Key0111.text = eu.funeral_en_US_goa.euFUN.Key0111.text
+euFUN.Key0112.text = eu.funeral_en_US_goa.euFUN.Key0112.text
 
-euFUN.Key0200.title = eu.funeral_en_US_holycross.euFUN.Key0200.title
+euFUN.Key0200.title = eu.funeral_en_US_goa.euFUN.Key0200.title
 
 euFUN.Key0300.title = eu.funeral_en_US_dedes.euFUN.Key0300.title
 euFUN.Key0300.mode = eu.funeral_en_US_dedes.euFUN.Key0300.mode
@@ -37,18 +37,18 @@ euFUN.Key0500.text = eu.funeral_en_US_dedes.euFUN.Key0500.text
 
 euFUN.Key0600.title = eu.funeral_en_US_dedes.euFUN.Key0600.title
 euFUN.Key0600.mode = eu.funeral_en_US_dedes.euFUN.Key0600.mode
-euFUN.Key0600.text = eu.funeral_en_US_holycross.euFUN.Key0600.text
-euFUN.Key0601.text = eu.funeral_en_US_holycross.euFUN.Key0601.text
-euFUN.Key0602.text = eu.funeral_en_US_holycross.euFUN.Key0602.text
-euFUN.Key0603.text = eu.funeral_en_US_holycross.euFUN.Key0603.text
-euFUN.Key0604.text = eu.funeral_en_US_holycross.euFUN.Key0604.text
-euFUN.Key0605.text = eu.funeral_en_US_holycross.euFUN.Key0605.text
-euFUN.Key0606.text = eu.funeral_en_US_holycross.euFUN.Key0606.text
-euFUN.Key0607.text = eu.funeral_en_US_holycross.euFUN.Key0607.text
+euFUN.Key0600.text = eu.funeral_en_US_goa.euFUN.Key0600.text
+euFUN.Key0601.text = eu.funeral_en_US_goa.euFUN.Key0601.text
+euFUN.Key0602.text = eu.funeral_en_US_goa.euFUN.Key0602.text
+euFUN.Key0603.text = eu.funeral_en_US_goa.euFUN.Key0603.text
+euFUN.Key0604.text = eu.funeral_en_US_goa.euFUN.Key0604.text
+euFUN.Key0605.text = eu.funeral_en_US_goa.euFUN.Key0605.text
+euFUN.Key0606.text = eu.funeral_en_US_goa.euFUN.Key0606.text
+euFUN.Key0607.text = eu.funeral_en_US_goa.euFUN.Key0607.text
 
 euFUN.Key0700.title = eu.funeral_en_US_dedes.euFUN.Key0700.title
 euFUN.Key0700.mode = eu.funeral_en_US_dedes.euFUN.Key0700.mode
-euFUN.Key0700.text = eu.funeral_en_US_holycross.euFUN.Key0700.text
+euFUN.Key0700.text = eu.funeral_en_US_goa.euFUN.Key0700.text
 
 euFUN.Key0800.title = eu.funeral_en_US_dedes.euFUN.Key0800.title
 euFUN.Key0800.poet = eu.funeral_en_US_dedes.euFUN.Key0800.poet
@@ -98,7 +98,7 @@ euFUN.Key0908.text = eu.funeral_en_US_dedes.euFUN.Key0908.text
 
 euFUN.EpistleProkeimenon.text = eu.funeral_en_US_dedes.euFUN.EpistleProkeimenon.text
 
-euFUN.brightweek.R091 = eu.funeral_en_US_holycross.euFUN.brightweek.R091
+euFUN.brightweek.R091 = eu.funeral_en_US_goa.euFUN.brightweek.R091
 
 euFUN.Key1000.title = eu.funeral_en_US_holycross.euFUN.Key1000.title
 euFUN.Key1001.title = eu.funeral_en_US_holycross.euFUN.Key1001.title

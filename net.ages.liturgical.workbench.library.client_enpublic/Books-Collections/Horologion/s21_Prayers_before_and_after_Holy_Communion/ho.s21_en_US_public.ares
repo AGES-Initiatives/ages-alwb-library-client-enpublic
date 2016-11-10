@@ -1,21 +1,21 @@
 A_Resource_Whose_Name = ho.s21_en_US_public 
 
-hoPCPrayer.title = ho.s21_en_US_dedes.hoPCPrayer.title
+hoPCPrayer.title = ho.s21_en_US_goa.hoPCPrayer.title
 
-hoPCPrayer.PistevoKyrie.text = ho.s21_en_US_dedes.hoPCPrayer.PistevoKyrie.text
+hoPCPrayer.PistevoKyrie.text = ho.s21_en_US_goa.hoPCPrayer.PistevoKyrie.text
 
-hoPCPrayer.IdouVadizo.text = ho.s21_en_US_dedes.hoPCPrayer.IdouVadizo.text
+hoPCPrayer.IdouVadizo.text = ho.s21_en_US_goa.hoPCPrayer.IdouVadizo.text
 
 //find this in Holy Week
-hoPCPrayer.TouDeipnouSou.text = ho.s21_en_US_dedes.hoPCPrayer.TouDeipnouSou.text
+hoPCPrayer.TouDeipnouSou.text = ho.s21_en_US_goa.hoPCPrayer.TouDeipnouSou.text
 
-hoPCPrayer.Theourgon.text = ho.s21_en_US_dedes.hoPCPrayer.Theourgon.text
+hoPCPrayer.Theourgon.text = ho.s21_en_US_goa.hoPCPrayer.Theourgon.text
 
 // find this on August 6
-hoPCPrayer.Ethelxas.text = ho.s21_en_US_dedes.hoPCPrayer.Ethelxas.text
+hoPCPrayer.Ethelxas.text = ho.s21_en_US_goa.hoPCPrayer.Ethelxas.text
 
 //find this in Holy Week
-hoPCPrayer.EnTaisLambrotisi.text = ho.s21_en_US_dedes.hoPCPrayer.EnTaisLambrotisi.text
+hoPCPrayer.EnTaisLambrotisi.text = ho.s21_en_US_goa.hoPCPrayer.EnTaisLambrotisi.text
 
-hoPCPrayer.DespotaFilanthrope.text = ho.s21_en_US_dedes.hoPCPrayer.DespotaFilanthrope.text
+hoPCPrayer.DespotaFilanthrope.text = ho.s21_en_US_goa.hoPCPrayer.DespotaFilanthrope.text
 
