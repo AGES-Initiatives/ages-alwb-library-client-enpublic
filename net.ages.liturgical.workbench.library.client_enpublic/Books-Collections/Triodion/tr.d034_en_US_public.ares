@@ -14,29 +14,29 @@ trHO.note2 = tr.d034_en_US_dedes.trHO.note2
 
 trVE.Stichera01.poet = tr.d034_en_US_dedes.trVE.Stichera01.poet
 trVE.Stichera01.mode = tr.d034_en_US_dedes.trVE.Stichera01.mode
-trVE.Stichera01.melody = tr.d034_en_US_dedes.trVE.Stichera01.melody
-trVE.Stichera01.text = tr.d034_en_US_dedes.trVE.Stichera01.text
+trVE.Stichera01.melody = tr.d034_en_US_oca.trVE.Stichera01.melody
+trVE.Stichera01.text = tr.d034_en_US_oca.trVE.Stichera01.text
 
 trVE.Stichera02.mode = tr.d034_en_US_dedes.trVE.Stichera02.mode
-trVE.Stichera02.melody = tr.d034_en_US_dedes.trVE.Stichera02.melody
-trVE.Stichera02.text = tr.d034_en_US_dedes.trVE.Stichera02.text
+trVE.Stichera02.melody = tr.d034_en_US_oca.trVE.Stichera02.melody
+trVE.Stichera02.text = tr.d034_en_US_oca.trVE.Stichera02.text
 
 trVE.Stichera03.poet = tr.d034_en_US_dedes.trVE.Stichera03.poet
 trVE.Stichera03.mode = tr.d034_en_US_dedes.trVE.Stichera03.mode
-trVE.Stichera03.melody = tr.d034_en_US_dedes.trVE.Stichera03.melody
-trVE.Stichera03.text = tr.d034_en_US_dedes.trVE.Stichera03.text
+trVE.Stichera03.melody = tr.d034_en_US_oca.trVE.Stichera03.melody
+trVE.Stichera03.text = tr.d034_en_US_oca.trVE.Stichera03.text
 
 trVE.AposIdiomelon1.mode = tr.d034_en_US_dedes.trVE.AposIdiomelon1.mode
-trVE.AposIdiomelon1.melody = tr.d034_en_US_dedes.trVE.AposIdiomelon1.melody
-trVE.AposIdiomelon1.text = tr.d034_en_US_dedes.trVE.AposIdiomelon1.text
+trVE.AposIdiomelon1.melody = tr.d034_en_US_oca.trVE.AposIdiomelon1.melody
+trVE.AposIdiomelon1.text = tr.d034_en_US_oca.trVE.AposIdiomelon1.text
 
 trVE.AposMartyric.mode = tr.d034_en_US_dedes.trVE.AposMartyric.mode
-trVE.AposMartyric.melody = tr.d034_en_US_dedes.trVE.AposMartyric.melody
-trVE.AposMartyric.text = tr.d034_en_US_dedes.trVE.AposMartyric.text
+trVE.AposMartyric.melody = tr.d034_en_US_oca.trVE.AposMartyric.melody
+trVE.AposMartyric.text = tr.d034_en_US_oca.trVE.AposMartyric.text
 
 trVE.AposTheotokion.mode = tr.d034_en_US_dedes.trVE.AposTheotokion.mode
-trVE.AposTheotokion.melody = tr.d034_en_US_dedes.trVE.AposTheotokion.melody
-trVE.AposTheotokion.text = tr.d034_en_US_dedes.trVE.AposTheotokion.text
+trVE.AposTheotokion.melody = tr.d034_en_US_oca.trVE.AposTheotokion.melody
+trVE.AposTheotokion.text = tr.d034_en_US_oca.trVE.AposTheotokion.text
 
 trMA.Kathisma21.mode = tr.d034_en_US_dedes.trMA.Kathisma21.mode
 trMA.Kathisma21.melody = tr.d034_en_US_dedes.trMA.Kathisma21.melody
