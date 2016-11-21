@@ -54,70 +54,70 @@ meVE.TheotokosHymn.text = me.m01.d06_en_US_dedes.meVE.TheotokosHymn.text
 meVE.MM.CommunionHymn.text = properties_en_US_public.media.key
 
 //Great Water Blessing for Jan 6 Epiphany
-meGW.title = me.m01.d06_en_US_dedes.meGW.title
-meGW.translator = me.m01.d06_en_US_dedes.meGW.translator
+meGW.title = me.m01.d06_en_UK_lash.meGW.title
+meGW.translator = me.m01.d06_en_UK_lash.meGW.translator
 
-meGW.Idiomelon1.poet = me.m01.d06_en_US_dedes.meGW.Idiomelon1.poet
+meGW.Idiomelon1.poet = me.m01.d06_en_UK_lash.meGW.Idiomelon1.poet
 meGW.Idiomelon1.mode = me.m01.d06_en_US_dedes.meGW.Idiomelon1.mode
-meGW.Idiomelon1.text = me.m01.d06_en_US_dedes.meGW.Idiomelon1.text
+meGW.Idiomelon1.text = me.m01.d06_en_UK_lash.meGW.Idiomelon1.text
 
-meGW.Idiomelon2.poet = me.m01.d06_en_US_dedes.meGW.Idiomelon2.poet
+meGW.Idiomelon2.poet = me.m01.d06_en_UK_lash.meGW.Idiomelon2.poet
 meGW.Idiomelon2.mode = me.m01.d06_en_US_dedes.meGW.Idiomelon2.mode
-meGW.Idiomelon2.text = me.m01.d06_en_US_dedes.meGW.Idiomelon2.text
+meGW.Idiomelon2.text = me.m01.d06_en_UK_lash.meGW.Idiomelon2.text
 
-meGW.Idiomelon3.poet = me.m01.d06_en_US_dedes.meGW.Idiomelon3.poet
+meGW.Idiomelon3.poet = me.m01.d06_en_UK_lash.meGW.Idiomelon3.poet
 meGW.Idiomelon3.mode = me.m01.d06_en_US_dedes.meGW.Idiomelon3.mode
-meGW.Idiomelon3.text = me.m01.d06_en_US_dedes.meGW.Idiomelon3.text
+meGW.Idiomelon3.text = me.m01.d06_en_UK_lash.meGW.Idiomelon3.text
 
-meGW.IdiomelonGlory.poet = me.m01.d06_en_US_dedes.meGW.IdiomelonGlory.poet
+meGW.IdiomelonGlory.poet = me.m01.d06_en_UK_lash.meGW.IdiomelonGlory.poet
 meGW.IdiomelonGlory.mode = me.m01.d06_en_US_dedes.meGW.IdiomelonGlory.mode
-meGW.IdiomelonGlory.text = me.m01.d06_en_US_dedes.meGW.IdiomelonGlory.text
+meGW.IdiomelonGlory.text = me.m01.d06_en_UK_lash.meGW.IdiomelonGlory.text
 
-meGW.R01 = me.m01.d06_en_US_dedes.meGW.R01
+meGW.R01 = me.m01.d06_en_UK_lash.meGW.R01
 
-meGW.Prayer1.text = me.m01.d06_en_US_dedes.meGW.Prayer1.text
+meGW.Prayer1.text = me.m01.d06_en_UK_lash.meGW.Prayer1.text
 
-meGW.R02 = me.m01.d06_en_US_dedes.meGW.R02
+meGW.R02 = me.m01.d06_en_UK_lash.meGW.R02
 
-meGW.Prayer2.poet = me.m01.d06_en_US_dedes.meGW.Prayer2.poet
-meGW.Prayer2.text = me.m01.d06_en_US_dedes.meGW.Prayer2.text
+meGW.Prayer2.poet = me.m01.d06_en_UK_lash.meGW.Prayer2.poet
+meGW.Prayer2.text = me.m01.d06_en_UK_lash.meGW.Prayer2.text
 
-meGW.R03 = me.m01.d06_en_US_dedes.meGW.R03
-meGW.Prayer31.text = me.m01.d06_en_US_dedes.meGW.Prayer31.text //   (x3)
+meGW.R03 = me.m01.d06_en_UK_lash.meGW.R03
+meGW.Prayer31.text = me.m01.d06_en_UK_lash.meGW.Prayer31.text //   (x3)
 
-meGW.Prayer32.text = me.m01.d06_en_US_dedes.meGW.Prayer32.text
+meGW.Prayer32.text = me.m01.d06_en_UK_lash.meGW.Prayer32.text
 
-meGW.Prayer33.text = me.m01.d06_en_US_dedes.meGW.Prayer33.text //   (x3)
+meGW.Prayer33.text = me.m01.d06_en_UK_lash.meGW.Prayer33.text //   (x3)
 
-meGW.Prayer34.text = me.m01.d06_en_US_dedes.meGW.Prayer34.text
+meGW.Prayer34.text = me.m01.d06_en_UK_lash.meGW.Prayer34.text
 
-meGW.Prayer35.text = me.m01.d06_en_US_dedes.meGW.Prayer35.text //   (x3)
+meGW.Prayer35.text = me.m01.d06_en_UK_lash.meGW.Prayer35.text //   (x3)
 
-meGW.Prayer36.text = me.m01.d06_en_US_dedes.meGW.Prayer36.text
+meGW.Prayer36.text = me.m01.d06_en_UK_lash.meGW.Prayer36.text
 
-meGW.Prayer37.text = me.m01.d06_en_US_dedes.meGW.Prayer37.text //   (x3)
+meGW.Prayer37.text = me.m01.d06_en_UK_lash.meGW.Prayer37.text //   (x3)
 
-meGW.Prayer38.text = me.m01.d06_en_US_dedes.meGW.Prayer38.text
+meGW.Prayer38.text = me.m01.d06_en_UK_lash.meGW.Prayer38.text
 
-meGW.R04 = me.m01.d06_en_US_dedes.meGW.R04
-meGW.Prayer4.text = me.m01.d06_en_US_dedes.meGW.Prayer4.text
+meGW.R04 = me.m01.d06_en_UK_lash.meGW.R04
+meGW.Prayer4.text = me.m01.d06_en_UK_lash.meGW.Prayer4.text
 
-meGW.R05 = me.m01.d06_en_US_dedes.meGW.R05
-meGW.Prayer5.text = me.m01.d06_en_US_dedes.meGW.Prayer5.text
+meGW.R05 = me.m01.d06_en_UK_lash.meGW.R05
+meGW.Prayer5.text = me.m01.d06_en_UK_lash.meGW.Prayer5.text
 
-meGW.R06 = me.m01.d06_en_US_dedes.meGW.R06
-meGW.Apolytikion.mode = me.m01.d06_en_US_dedes.meGW.Apolytikion.mode
-meGW.Apolytikion.text = me.m01.d06_en_US_dedes.meGW.Apolytikion.text
+meGW.R06 = me.m01.d06_en_UK_lash.meGW.R06
+meGW.Apolytikion.mode = me.m01.d06_en_UK_lash.meGW.Apolytikion.mode
+meGW.Apolytikion.text = me.m01.d06_en_UK_lash.meGW.Apolytikion.text
 
-meGW.R071 = me.m01.d06_en_US_dedes.meGW.R071
-meGW.R072 = me.m01.d06_en_US_dedes.meGW.R072
-meGW.R073 = me.m01.d06_en_US_dedes.meGW.R073
-meGW.R08 = me.m01.d06_en_US_dedes.meGW.R08
+meGW.R071 = me.m01.d06_en_UK_lash.meGW.R071
+meGW.R072 = me.m01.d06_en_UK_lash.meGW.R072
+meGW.R073 = me.m01.d06_en_UK_lash.meGW.R073
+meGW.R08 = me.m01.d06_en_UK_lash.meGW.R08
 
-meGW.Idiomelon4.mode = me.m01.d06_en_US_dedes.meGW.Idiomelon4.mode
-meGW.Idiomelon4.text = me.m01.d06_en_US_dedes.meGW.Idiomelon4.text
+meGW.Idiomelon4.mode = me.m01.d06_en_UK_lash.meGW.Idiomelon4.mode
+meGW.Idiomelon4.text = me.m01.d06_en_UK_lash.meGW.Idiomelon4.text
 
-meGW.R09 = me.m01.d06_en_US_dedes.meGW.R09
+meGW.R09 = me.m01.d06_en_UK_lash.meGW.R09
 
 meVE.Lity1.poet = me.m01.d06_en_US_dedes.meVE.Lity1.poet
 meVE.Lity1.mode = me.m01.d06_en_US_dedes.meVE.Lity1.mode
