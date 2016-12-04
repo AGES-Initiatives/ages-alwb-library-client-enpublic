@@ -281,7 +281,7 @@ hoMA.Antiphon11.text = ho.s03_en_US_dedes.hoMA.Antiphon11.text //for media
 
 hoMA.PreGospelHymn.text = ho.s03_en_US_dedes.hoMA.PreGospelHymn.text
 
-hoMA.SunPostGospel.text = ho.s03_en_US_dedes.hoMA.SunPostGospel.text
+hoMA.SunPostGospel.text = ho.s03_en_US_goa.hoMA.SunPostGospel.text
 
 hoMA.PostGospelTrinity.text = ho.s03_en_US_dedes.hoMA.PostGospelTrinity.text
 hoMA.PostGospelApostle.text = ho.s03_en_US_dedes.hoMA.PostGospelApostle.text
