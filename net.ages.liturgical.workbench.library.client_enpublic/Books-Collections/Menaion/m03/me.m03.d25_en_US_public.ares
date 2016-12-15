@@ -431,8 +431,8 @@ meMegalynarion.text = me.m03.d25_en_US_dedes.meMegalynarion.text
 
 meMA.AdditionalIdiomelon1.poet = me.m03.d25_en_US_dedes.meMA.AdditionalIdiomelon1.poet
 meMA.AdditionalIdiomelon1.mode = me.m03.d25_en_US_dedes.meMA.AdditionalIdiomelon1.mode
-meMA.AdditionalIdiomelon1.melody = me.m03.d25_en_US_dedes.meMA.AdditionalIdiomelon1.melody
-meMA.AdditionalIdiomelon1.text = me.m03.d25_en_US_dedes.meMA.AdditionalIdiomelon1.text
+meMA.AdditionalIdiomelon1.melody = me.m03.d25_en_US_oca.meMA.AdditionalIdiomelon1.melody
+meMA.AdditionalIdiomelon1.text = me.m03.d25_en_US_oca.meMA.AdditionalIdiomelon1.text
 
 meMA.C2.title = me.m03.d25_en_US_dedes.meMA.C2.title
 meMA.C2.verse = me.m03.d25_en_US_dedes.meMA.C2.verse
