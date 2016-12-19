@@ -73,10 +73,13 @@ co.pdf.header = template.titles_en_US_dedes.co.pdf.header
 co.pdf.cover = template.titles_en_US_dedes.co.pdf.cover
 co.smallcompline.pdf.cover = template.titles_en_US_dedes.co.smallcompline.pdf.cover
 co.smallcompline.pdf.header = template.titles_en_US_dedes.co.smallcompline.pdf.header
+co.akathist.html.tab = template.titles_en_US_dedes.co.akathist.html.tab
+co.akathist.pdf.header = template.titles_en_US_dedes.co.akathist.pdf.header
+co.akathist.pdf.cover = template.titles_en_US_dedes.co.akathist.pdf.cover
 co.salutations.pdf.cover = template.titles_en_US_dedes.co.salutations.pdf.cover
 co.salutations.pdf.header = template.titles_en_US_dedes.co.salutations.pdf.header
-co.greatcompline.pdf.cover = template.titles_en_US_dedes.co.greatcompline.pdf.cover
-co.greatcompline.pdf.header = template.titles_en_US_dedes.co.greatcompline.pdf.header
+//co.greatcompline.pdf.cover = template.titles_en_US_dedes.co.greatcompline.pdf.cover
+//co.greatcompline.pdf.header = template.titles_en_US_dedes.co.greatcompline.pdf.header
 
 co1.html.tab = template.titles_en_US_dedes.co1.html.tab  //this is the pre-resurrection service of Pascha
 co1.pdf.header = template.titles_en_US_dedes.co1.pdf.header
@@ -97,6 +100,10 @@ co4.pdf.cover = template.titles_en_US_dedes.co4.pdf.cover
 em.html.tab = template.titles_en_US_dedes.em.html.tab 
 em.pdf.header = template.titles_en_US_dedes.em.pdf.header
 em.pdf.cover = template.titles_en_US_dedes.em.pdf.cover
+
+gc.html.tab = template.titles_en_US_dedes.gc.html.tab
+gc.pdf.header = template.titles_en_US_dedes.gc.pdf.header
+gc.pdf.cover = template.titles_en_US_dedes.gc.pdf.cover
 
 gh.html.tab = template.titles_en_US_dedes.gh.html.tab 
 gh.pdf.header = template.titles_en_US_dedes.gh.pdf.header
