@@ -714,8 +714,10 @@ ofBrightWeek = titles_en_US_dedes.ofBrightWeek
 
 sourceHorologion = titles_en_US_dedes.sourceHorologion
 sourceMenaion = titles_en_US_dedes.sourceMenaion
+sourceMeSupplement = titles_en_US_dedes.sourceMeSupplement
 sourceOctoechos = titles_en_US_dedes.sourceOctoechos
 sourcePentecostarion = titles_en_US_dedes.sourcePentecostarion
+sourcePeSupplement =  titles_en_US_dedes.sourcePeSupplement
 sourceTriodion = titles_en_US_dedes.sourceTriodion
 
 //used by Horologion Eclogarion
