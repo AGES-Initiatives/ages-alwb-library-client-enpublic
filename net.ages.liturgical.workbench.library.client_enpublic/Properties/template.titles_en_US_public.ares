@@ -97,6 +97,10 @@ co4.html.tab = template.titles_en_US_dedes.co4.html.tab
 co4.pdf.header = template.titles_en_US_dedes.co4.pdf.header
 co4.pdf.cover = template.titles_en_US_dedes.co4.pdf.cover
 
+co5.html.tab = template.titles_en_US_dedes.co5.html.tab 
+co5.pdf.header = template.titles_en_US_dedes.co5.pdf.header
+co5.pdf.cover = template.titles_en_US_dedes.co5.pdf.cover
+
 em.html.tab = template.titles_en_US_dedes.em.html.tab 
 em.pdf.header = template.titles_en_US_dedes.em.pdf.header
 em.pdf.cover = template.titles_en_US_dedes.em.pdf.cover
