@@ -80,7 +80,7 @@ peVE.Lity1.text = pe.d078_en_UK_lash.peVE.Lity1.text
 
 peVE.Lity2.mode = pe.d078_en_US_dedes.peVE.Lity2.mode
 peVE.Lity2.melody = pe.d078_en_US_dedes.peVE.Lity2.melody
-peVE.Lity2.text = pe.d078_en_US_dedes.peVE.Lity2.text
+peVE.Lity2.text = pe.d078_en_UK_lash.peVE.Lity2.text
 
 peVE.LityGlory.poet = pe.d078_en_US_dedes.peVE.LityGlory.poet
 peVE.LityGlory.mode = pe.d078_en_US_dedes.peVE.LityGlory.mode
