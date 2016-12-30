@@ -459,6 +459,8 @@ StichiraTisEortis = titles_en_US_dedes.StichiraTisEortis
 
 StichiraTisTheotokou = titles_en_US_dedes.StichiraTisTheotokou
 
+StichiraTonEnkainion = titles_en_US_dedes.StichiraTonEnkainion
+
 StichiraTouAgiouNikolaou = titles_en_US_dedes.StichiraTouAgiouNikolaou
 
 StichiraTouMinaiou = titles_en_US_dedes.StichiraTouMinaiou
@@ -615,6 +617,8 @@ TroparionTisProfiteias = titles_en_US_dedes.TroparionTisProfiteias
 
 YmnoiMetaTinMikranEisodon = titles_en_US_dedes.YmnoiMetaTinMikranEisodon
 
+YmnosEisTinTheotokon = titles_en_US_dedes.YmnosEisTinTheotokon
+
 Ypakoi = titles_en_US_dedes.Ypakoi
 
 daySunday = titles_en_US_dedes.daySunday
@@ -715,6 +719,7 @@ IntermediateVersesOde8 = titles_en_US_dedes.IntermediateVersesOde8
 PhotagogicHymns = titles_en_US_dedes.PhotagogicHymns
 ofBrightWeek = titles_en_US_dedes.ofBrightWeek
 
+sourceEuchologion = titles_en_US_dedes.sourceEuchologion
 sourceHorologion = titles_en_US_dedes.sourceHorologion
 sourceMenaion = titles_en_US_dedes.sourceMenaion
 sourceMeSupplement = titles_en_US_dedes.sourceMeSupplement
