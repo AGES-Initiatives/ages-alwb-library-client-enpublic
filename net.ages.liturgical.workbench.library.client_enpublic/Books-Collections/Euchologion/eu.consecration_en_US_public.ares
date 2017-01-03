@@ -74,17 +74,141 @@ euMA.Kathisma31.mode = eu.consecration_en_US_dedes.euMA.Kathisma31.mode
 euMA.Kathisma31.melody = eu.consecration_en_US_dedes.euMA.Kathisma31.melody
 euMA.Kathisma31.text = eu.consecration_en_US_dedes.euMA.Kathisma31.text
 
-//Odes 1 and 3 from 09-13 Canon 2
+euMA.C1.title = eu.consecration_en_US_dedes.euMA.C1.title
+euMA.C1.verse = eu.consecration_en_US_dedes.euMA.C1.verse
+
+euMA.Ode1C1H.ode = eu.consecration_en_US_dedes.euMA.Ode1C1H.ode
+euMA.Ode1C1H.mode = eu.consecration_en_US_dedes.euMA.Ode1C1H.mode
+euMA.Ode1C1H.melody = eu.consecration_en_UK_lash.euMA.Ode1C1H.melody
+euMA.Ode1C1H.text = eu.consecration_en_UK_lash.euMA.Ode1C1H.text
+
+euMA.Ode1C11.ode = eu.consecration_en_US_dedes.euMA.Ode1C11.ode
+euMA.Ode1C11.mode = eu.consecration_en_US_dedes.euMA.Ode1C11.mode
+euMA.Ode1C11.melody = eu.consecration_en_UK_lash.euMA.Ode1C11.melody
+euMA.Ode1C11.text = eu.consecration_en_UK_lash.euMA.Ode1C11.text
+
+euMA.Ode1C12.ode = eu.consecration_en_US_dedes.euMA.Ode1C12.ode
+euMA.Ode1C12.mode = eu.consecration_en_US_dedes.euMA.Ode1C12.mode
+euMA.Ode1C12.melody = eu.consecration_en_UK_lash.euMA.Ode1C12.melody
+euMA.Ode1C12.text = eu.consecration_en_UK_lash.euMA.Ode1C12.text
+
+euMA.Ode1C13.ode = eu.consecration_en_US_dedes.euMA.Ode1C13.ode
+euMA.Ode1C13.mode = eu.consecration_en_US_dedes.euMA.Ode1C13.mode
+euMA.Ode1C13.melody = eu.consecration_en_UK_lash.euMA.Ode1C13.melody
+euMA.Ode1C13.text = eu.consecration_en_UK_lash.euMA.Ode1C13.text
+
+euMA.Ode1C1T.ode = eu.consecration_en_US_dedes.euMA.Ode1C1T.ode
+euMA.Ode1C1T.mode = eu.consecration_en_US_dedes.euMA.Ode1C1T.mode
+euMA.Ode1C1T.melody = eu.consecration_en_UK_lash.euMA.Ode1C1T.melody
+euMA.Ode1C1T.text = eu.consecration_en_UK_lash.euMA.Ode1C1T.text
+
+euMA.Ode3C1H.ode = eu.consecration_en_US_dedes.euMA.Ode3C1H.ode
+euMA.Ode3C1H.mode = eu.consecration_en_US_dedes.euMA.Ode3C1H.mode
+euMA.Ode3C1H.melody = eu.consecration_en_UK_lash.euMA.Ode3C1H.melody
+euMA.Ode3C1H.text = eu.consecration_en_UK_lash.euMA.Ode3C1H.text
+
+euMA.Ode3C11.ode = eu.consecration_en_US_dedes.euMA.Ode3C11.ode
+euMA.Ode3C11.mode = eu.consecration_en_US_dedes.euMA.Ode3C11.mode
+euMA.Ode3C11.melody = eu.consecration_en_UK_lash.euMA.Ode3C11.melody
+euMA.Ode3C11.text = eu.consecration_en_UK_lash.euMA.Ode3C11.text
+
+euMA.Ode3C12.ode = eu.consecration_en_US_dedes.euMA.Ode3C12.ode
+euMA.Ode3C12.mode = eu.consecration_en_US_dedes.euMA.Ode3C12.mode
+euMA.Ode3C12.melody = eu.consecration_en_UK_lash.euMA.Ode3C12.melody
+euMA.Ode3C12.text = eu.consecration_en_UK_lash.euMA.Ode3C12.text
+
+euMA.Ode3C13.ode = eu.consecration_en_US_dedes.euMA.Ode3C13.ode
+euMA.Ode3C13.mode = eu.consecration_en_US_dedes.euMA.Ode3C13.mode
+euMA.Ode3C13.melody = eu.consecration_en_UK_lash.euMA.Ode3C13.melody
+euMA.Ode3C13.text = eu.consecration_en_UK_lash.euMA.Ode3C13.text
+
+euMA.Ode3C1T.ode = eu.consecration_en_US_dedes.euMA.Ode3C1T.ode
+euMA.Ode3C1T.mode = eu.consecration_en_US_dedes.euMA.Ode3C1T.mode
+euMA.Ode3C1T.melody = eu.consecration_en_UK_lash.euMA.Ode3C1T.melody
+euMA.Ode3C1T.text = eu.consecration_en_UK_lash.euMA.Ode3C1T.text
 
 euMA.Ode3Kathisma1.mode = eu.consecration_en_US_dedes.euMA.Ode3Kathisma1.mode
-euMA.Ode3Kathisma1.melody = eu.consecration_en_US_dedes.euMA.Ode3Kathisma1.melody
-euMA.Ode3Kathisma1.text = eu.consecration_en_US_dedes.euMA.Ode3Kathisma1.text
+euMA.Ode3Kathisma1.melody = eu.consecration_en_UK_lash.euMA.Ode3Kathisma1.melody
+euMA.Ode3Kathisma1.text = eu.consecration_en_UK_lash.euMA.Ode3Kathisma1.text
 
 euMA.Ode3KathismaT.mode = eu.consecration_en_US_dedes.euMA.Ode3KathismaT.mode
-euMA.Ode3KathismaT.melody = eu.consecration_en_US_dedes.euMA.Ode3KathismaT.melody
-euMA.Ode3KathismaT.text = eu.consecration_en_US_dedes.euMA.Ode3KathismaT.text
+euMA.Ode3KathismaT.melody = eu.consecration_en_UK_lash.euMA.Ode3KathismaT.melody
+euMA.Ode3KathismaT.text = eu.consecration_en_UK_lash.euMA.Ode3KathismaT.text
 
-//Odes 4, 5, and 6 from 09-13 Canon 2
+euMA.Ode4C1H.ode = eu.consecration_en_US_dedes.euMA.Ode4C1H.ode
+euMA.Ode4C1H.mode = eu.consecration_en_US_dedes.euMA.Ode4C1H.mode
+euMA.Ode4C1H.melody = eu.consecration_en_UK_lash.euMA.Ode4C1H.melody
+euMA.Ode4C1H.text = eu.consecration_en_UK_lash.euMA.Ode4C1H.text
+
+euMA.Ode4C11.ode = eu.consecration_en_US_dedes.euMA.Ode4C11.ode
+euMA.Ode4C11.mode = eu.consecration_en_US_dedes.euMA.Ode4C11.mode
+euMA.Ode4C11.melody = eu.consecration_en_UK_lash.euMA.Ode4C11.melody
+euMA.Ode4C11.text = eu.consecration_en_UK_lash.euMA.Ode4C11.text
+
+euMA.Ode4C12.ode = eu.consecration_en_US_dedes.euMA.Ode4C12.ode
+euMA.Ode4C12.mode = eu.consecration_en_US_dedes.euMA.Ode4C12.mode
+euMA.Ode4C12.melody = eu.consecration_en_UK_lash.euMA.Ode4C12.melody
+euMA.Ode4C12.text = eu.consecration_en_UK_lash.euMA.Ode4C12.text
+
+euMA.Ode4C13.ode = eu.consecration_en_US_dedes.euMA.Ode4C13.ode
+euMA.Ode4C13.mode = eu.consecration_en_US_dedes.euMA.Ode4C13.mode
+euMA.Ode4C13.melody = eu.consecration_en_UK_lash.euMA.Ode4C13.melody
+euMA.Ode4C13.text = eu.consecration_en_UK_lash.euMA.Ode4C13.text
+
+euMA.Ode4C1T.ode = eu.consecration_en_US_dedes.euMA.Ode4C1T.ode
+euMA.Ode4C1T.mode = eu.consecration_en_US_dedes.euMA.Ode4C1T.mode
+euMA.Ode4C1T.melody = eu.consecration_en_UK_lash.euMA.Ode4C1T.melody
+euMA.Ode4C1T.text = eu.consecration_en_UK_lash.euMA.Ode4C1T.text
+
+euMA.Ode5C1H.ode = eu.consecration_en_US_dedes.euMA.Ode5C1H.ode
+euMA.Ode5C1H.mode = eu.consecration_en_US_dedes.euMA.Ode5C1H.mode
+euMA.Ode5C1H.melody = eu.consecration_en_UK_lash.euMA.Ode5C1H.melody
+euMA.Ode5C1H.text = eu.consecration_en_UK_lash.euMA.Ode5C1H.text
+
+euMA.Ode5C11.ode = eu.consecration_en_US_dedes.euMA.Ode5C11.ode
+euMA.Ode5C11.mode = eu.consecration_en_US_dedes.euMA.Ode5C11.mode
+euMA.Ode5C11.melody = eu.consecration_en_UK_lash.euMA.Ode5C11.melody
+euMA.Ode5C11.text = eu.consecration_en_UK_lash.euMA.Ode5C11.text
+
+euMA.Ode5C12.ode = eu.consecration_en_US_dedes.euMA.Ode5C12.ode
+euMA.Ode5C12.mode = eu.consecration_en_US_dedes.euMA.Ode5C12.mode
+euMA.Ode5C12.melody = eu.consecration_en_UK_lash.euMA.Ode5C12.melody
+euMA.Ode5C12.text = eu.consecration_en_UK_lash.euMA.Ode5C12.text
+
+euMA.Ode5C13.ode = eu.consecration_en_US_dedes.euMA.Ode5C13.ode
+euMA.Ode5C13.mode = eu.consecration_en_US_dedes.euMA.Ode5C13.mode
+euMA.Ode5C13.melody = eu.consecration_en_UK_lash.euMA.Ode5C13.melody
+euMA.Ode5C13.text = eu.consecration_en_UK_lash.euMA.Ode5C13.text
+
+euMA.Ode5C1T.ode = eu.consecration_en_US_dedes.euMA.Ode5C1T.ode
+euMA.Ode5C1T.mode = eu.consecration_en_US_dedes.euMA.Ode5C1T.mode
+euMA.Ode5C1T.melody = eu.consecration_en_UK_lash.euMA.Ode5C1T.melody
+euMA.Ode5C1T.text = eu.consecration_en_UK_lash.euMA.Ode5C1T.text
+
+euMA.Ode6C1H.ode = eu.consecration_en_US_dedes.euMA.Ode6C1H.ode
+euMA.Ode6C1H.mode = eu.consecration_en_US_dedes.euMA.Ode6C1H.mode
+euMA.Ode6C1H.melody = eu.consecration_en_UK_lash.euMA.Ode6C1H.melody
+euMA.Ode6C1H.text = eu.consecration_en_UK_lash.euMA.Ode6C1H.text
+
+euMA.Ode6C11.ode = eu.consecration_en_US_dedes.euMA.Ode6C11.ode
+euMA.Ode6C11.mode = eu.consecration_en_US_dedes.euMA.Ode6C11.mode
+euMA.Ode6C11.melody = eu.consecration_en_UK_lash.euMA.Ode6C11.melody
+euMA.Ode6C11.text = eu.consecration_en_UK_lash.euMA.Ode6C11.text
+
+euMA.Ode6C12.ode = eu.consecration_en_US_dedes.euMA.Ode6C12.ode
+euMA.Ode6C12.mode = eu.consecration_en_US_dedes.euMA.Ode6C12.mode
+euMA.Ode6C12.melody = eu.consecration_en_UK_lash.euMA.Ode6C12.melody
+euMA.Ode6C12.text = eu.consecration_en_UK_lash.euMA.Ode6C12.text
+
+euMA.Ode6C13.ode = eu.consecration_en_US_dedes.euMA.Ode6C13.ode
+euMA.Ode6C13.mode = eu.consecration_en_US_dedes.euMA.Ode6C13.mode
+euMA.Ode6C13.melody = eu.consecration_en_UK_lash.euMA.Ode6C13.melody
+euMA.Ode6C13.text = eu.consecration_en_UK_lash.euMA.Ode6C13.text
+
+euMA.Ode6C1T.ode = eu.consecration_en_US_dedes.euMA.Ode6C1T.ode
+euMA.Ode6C1T.mode = eu.consecration_en_US_dedes.euMA.Ode6C1T.mode
+euMA.Ode6C1T.melody = eu.consecration_en_UK_lash.euMA.Ode6C1T.melody
+euMA.Ode6C1T.text = eu.consecration_en_UK_lash.euMA.Ode6C1T.text
 
 euMA.Kontakion.mode = eu.consecration_en_US_dedes.euMA.Kontakion.mode
 euMA.Kontakion.melody = eu.consecration_en_US_dedes.euMA.Kontakion.melody
@@ -92,7 +216,80 @@ euMA.Kontakion.text = eu.consecration_en_US_dedes.euMA.Kontakion.text
 
 euMA.Oikos.text = eu.consecration_en_US_dedes.euMA.Oikos.text
 
-//Odes 7, 8, and 9 from 09-13 Canon 2
+euMA.Ode7C1H.ode = eu.consecration_en_US_dedes.euMA.Ode7C1H.ode
+euMA.Ode7C1H.mode = eu.consecration_en_US_dedes.euMA.Ode7C1H.mode
+euMA.Ode7C1H.melody = eu.consecration_en_UK_lash.euMA.Ode7C1H.melody
+euMA.Ode7C1H.text = eu.consecration_en_UK_lash.euMA.Ode7C1H.text
+
+euMA.Ode7C11.ode = eu.consecration_en_US_dedes.euMA.Ode7C11.ode
+euMA.Ode7C11.mode = eu.consecration_en_US_dedes.euMA.Ode7C11.mode
+euMA.Ode7C11.melody = eu.consecration_en_UK_lash.euMA.Ode7C11.melody
+euMA.Ode7C11.text = eu.consecration_en_UK_lash.euMA.Ode7C11.text
+
+euMA.Ode7C12.ode = eu.consecration_en_US_dedes.euMA.Ode7C12.ode
+euMA.Ode7C12.mode = eu.consecration_en_US_dedes.euMA.Ode7C12.mode
+euMA.Ode7C12.melody = eu.consecration_en_UK_lash.euMA.Ode7C12.melody
+euMA.Ode7C12.text = eu.consecration_en_UK_lash.euMA.Ode7C12.text
+
+euMA.Ode7C13.ode = eu.consecration_en_US_dedes.euMA.Ode7C13.ode
+euMA.Ode7C13.mode = eu.consecration_en_US_dedes.euMA.Ode7C13.mode
+euMA.Ode7C13.melody = eu.consecration_en_UK_lash.euMA.Ode7C13.melody
+euMA.Ode7C13.text = eu.consecration_en_UK_lash.euMA.Ode7C13.text
+
+euMA.Ode7C1T.ode = eu.consecration_en_US_dedes.euMA.Ode7C1T.ode
+euMA.Ode7C1T.mode = eu.consecration_en_US_dedes.euMA.Ode7C1T.mode
+euMA.Ode7C1T.melody = eu.consecration_en_UK_lash.euMA.Ode7C1T.melody
+euMA.Ode7C1T.text = eu.consecration_en_UK_lash.euMA.Ode7C1T.text
+
+euMA.Ode8C1H.ode = eu.consecration_en_US_dedes.euMA.Ode8C1H.ode
+euMA.Ode8C1H.mode = eu.consecration_en_US_dedes.euMA.Ode8C1H.mode
+euMA.Ode8C1H.melody = eu.consecration_en_UK_lash.euMA.Ode8C1H.melody
+euMA.Ode8C1H.text = eu.consecration_en_UK_lash.euMA.Ode8C1H.text
+
+euMA.Ode8C11.ode = eu.consecration_en_US_dedes.euMA.Ode8C11.ode
+euMA.Ode8C11.mode = eu.consecration_en_US_dedes.euMA.Ode8C11.mode
+euMA.Ode8C11.melody = eu.consecration_en_UK_lash.euMA.Ode8C11.melody
+euMA.Ode8C11.text = eu.consecration_en_UK_lash.euMA.Ode8C11.text
+
+euMA.Ode8C12.ode = eu.consecration_en_US_dedes.euMA.Ode8C12.ode
+euMA.Ode8C12.mode = eu.consecration_en_US_dedes.euMA.Ode8C12.mode
+euMA.Ode8C12.melody = eu.consecration_en_UK_lash.euMA.Ode8C12.melody
+euMA.Ode8C12.text = eu.consecration_en_UK_lash.euMA.Ode8C12.text
+
+euMA.Ode8C13.ode = eu.consecration_en_US_dedes.euMA.Ode8C13.ode
+euMA.Ode8C13.mode = eu.consecration_en_US_dedes.euMA.Ode8C13.mode
+euMA.Ode8C13.melody = eu.consecration_en_UK_lash.euMA.Ode8C13.melody
+euMA.Ode8C13.text = eu.consecration_en_UK_lash.euMA.Ode8C13.text
+
+euMA.Ode8C1T.ode = eu.consecration_en_US_dedes.euMA.Ode8C1T.ode
+euMA.Ode8C1T.mode = eu.consecration_en_US_dedes.euMA.Ode8C1T.mode
+euMA.Ode8C1T.melody = eu.consecration_en_UK_lash.euMA.Ode8C1T.melody
+euMA.Ode8C1T.text = eu.consecration_en_UK_lash.euMA.Ode8C1T.text
+
+euMA.Ode9C1H.ode = eu.consecration_en_US_dedes.euMA.Ode9C1H.ode
+euMA.Ode9C1H.mode = eu.consecration_en_US_dedes.euMA.Ode9C1H.mode
+euMA.Ode9C1H.melody = eu.consecration_en_UK_lash.euMA.Ode9C1H.melody
+euMA.Ode9C1H.text = eu.consecration_en_UK_lash.euMA.Ode9C1H.text
+
+euMA.Ode9C11.ode = eu.consecration_en_US_dedes.euMA.Ode9C11.ode
+euMA.Ode9C11.mode = eu.consecration_en_US_dedes.euMA.Ode9C11.mode
+euMA.Ode9C11.melody = eu.consecration_en_UK_lash.euMA.Ode9C11.melody
+euMA.Ode9C11.text = eu.consecration_en_UK_lash.euMA.Ode9C11.text
+
+euMA.Ode9C12.ode = eu.consecration_en_US_dedes.euMA.Ode9C12.ode
+euMA.Ode9C12.mode = eu.consecration_en_US_dedes.euMA.Ode9C12.mode
+euMA.Ode9C12.melody = eu.consecration_en_UK_lash.euMA.Ode9C12.melody
+euMA.Ode9C12.text = eu.consecration_en_UK_lash.euMA.Ode9C12.text
+
+euMA.Ode9C13.ode = eu.consecration_en_US_dedes.euMA.Ode9C13.ode
+euMA.Ode9C13.mode = eu.consecration_en_US_dedes.euMA.Ode9C13.mode
+euMA.Ode9C13.melody = eu.consecration_en_UK_lash.euMA.Ode9C13.melody
+euMA.Ode9C13.text = eu.consecration_en_UK_lash.euMA.Ode9C13.text
+
+euMA.Ode9C1T.ode = eu.consecration_en_US_dedes.euMA.Ode9C1T.ode
+euMA.Ode9C1T.mode = eu.consecration_en_US_dedes.euMA.Ode9C1T.mode
+euMA.Ode9C1T.melody = eu.consecration_en_UK_lash.euMA.Ode9C1T.melody
+euMA.Ode9C1T.text = eu.consecration_en_UK_lash.euMA.Ode9C1T.text
 
 euMA.Exaposteilarion1.mode = eu.consecration_en_US_dedes.euMA.Exaposteilarion1.mode
 euMA.Exaposteilarion1.melody = eu.consecration_en_US_dedes.euMA.Exaposteilarion1.melody
@@ -110,6 +307,7 @@ euMA.Lauds3.mode = eu.consecration_en_US_dedes.euMA.Lauds3.mode
 euMA.Lauds3.melody = eu.consecration_en_US_dedes.euMA.Lauds3.melody
 euMA.Lauds3.text = eu.consecration_en_US_dedes.euMA.Lauds3.text
 
+euMA.MM.Lauds12as12.text = eu.consecration_en_US_dedes.euMA.MM.Lauds12as12.text
 euMA.MM.Lauds123as456.text = eu.consecration_en_US_dedes.euMA.MM.Lauds123as456.text
 
 euMA.LaudsBoth.mode = eu.consecration_en_US_dedes.euMA.LaudsBoth.mode
