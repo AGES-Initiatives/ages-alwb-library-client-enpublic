@@ -30,6 +30,8 @@ meVE.Stichera04.mode = me.m11.d06_en_US_dedes.meVE.Stichera04.mode
 meVE.Stichera04.melody = me.m11.d06_en_US_dedes.meVE.Stichera04.melody
 meVE.Stichera04.text = me.m11.d06_en_US_dedes.meVE.Stichera04.text
 
+meVE.MM.Stichera1234as78910.text = me.m11.d06_en_US_dedes.meVE.MM.Stichera1234as78910.text
+
 meVE.SticGlory.poet = me.m11.d06_en_US_dedes.meVE.SticGlory.poet
 meVE.SticGlory.mode = me.m11.d06_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m11.d06_en_US_oca.meVE.SticGlory.melody
