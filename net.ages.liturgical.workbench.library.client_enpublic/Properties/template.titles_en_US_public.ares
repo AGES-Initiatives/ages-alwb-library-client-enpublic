@@ -195,6 +195,10 @@ sv.html.tab = template.titles_en_US_dedes.sv.html.tab
 sv.pdf.header = template.titles_en_US_dedes.sv.pdf.header
 sv.pdf.cover = template.titles_en_US_dedes.sv.pdf.cover
 
+sv3.html.tab = template.titles_en_US_dedes.sv3.html.tab 
+sv3.pdf.header = template.titles_en_US_dedes.sv3.pdf.header
+sv3.pdf.cover = template.titles_en_US_dedes.sv3.pdf.cover
+
 ve.html.tab = template.titles_en_US_dedes.ve.html.tab 
 ve.pdf.header = template.titles_en_US_dedes.ve.pdf.header
 ve.pdf.cover = template.titles_en_US_dedes.ve.pdf.cover
@@ -269,6 +273,8 @@ pa.easter = template.titles_en_US_dedes.pa.easter
 pa.agape = template.titles_en_US_dedes.pa.agape
 pa.brightweek = template.titles_en_US_dedes.pa.brightweek
 pa.ofbrightweek = template.titles_en_US_dedes.pa.ofbrightweek
+
+sal.theotokos = template.titles_en_US_dedes.sal.theotokos
 
 clps.stichologia.top = template.titles_en_US_dedes.clps.stichologia.top
 clps.stichologia.bottom = template.titles_en_US_dedes.clps.stichologia.bottom
