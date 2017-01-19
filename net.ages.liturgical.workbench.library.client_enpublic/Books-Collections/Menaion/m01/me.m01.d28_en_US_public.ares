@@ -28,29 +28,29 @@ meVE.Stichera03.text = me.m01.d28_en_US_dedes.meVE.Stichera03.text
 
 meVE.SticGlory.poet = me.m01.d28_en_US_dedes.meVE.SticGlory.poet
 meVE.SticGlory.mode = me.m01.d28_en_US_dedes.meVE.SticGlory.mode
-meVE.SticGlory.melody = me.m01.d28_en_US_dedes.meVE.SticGlory.melody
-meVE.SticGlory.text = me.m01.d28_en_US_dedes.meVE.SticGlory.text
+meVE.SticGlory.melody = me.m01.d28_en_UK_lash.meVE.SticGlory.melody
+meVE.SticGlory.text = me.m01.d28_en_UK_lash.meVE.SticGlory.text
 
 meVE.SticTheotokion.mode = me.m01.d28_en_US_dedes.meVE.SticTheotokion.mode
-meVE.SticTheotokion.melody = me.m01.d28_en_US_dedes.meVE.SticTheotokion.melody
-meVE.SticTheotokion.text = me.m01.d28_en_US_dedes.meVE.SticTheotokion.text
+meVE.SticTheotokion.melody = me.m01.d28_en_UK_lash.meVE.SticTheotokion.melody
+meVE.SticTheotokion.text = me.m01.d28_en_UK_lash.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = me.m01.d28_en_US_dedes.meVE.SticStavrotheotokion.mode
-meVE.SticStavrotheotokion.melody = me.m01.d28_en_US_dedes.meVE.SticStavrotheotokion.melody
-meVE.SticStavrotheotokion.text = me.m01.d28_en_US_dedes.meVE.SticStavrotheotokion.text
+meVE.SticStavrotheotokion.melody = me.m01.d28_en_UK_lash.meVE.SticStavrotheotokion.melody
+meVE.SticStavrotheotokion.text = me.m01.d28_en_UK_lash.meVE.SticStavrotheotokion.text
 
 meVE.AposGlory.poet = me.m01.d28_en_US_dedes.meVE.AposGlory.poet
 meVE.AposGlory.mode = me.m01.d28_en_US_dedes.meVE.AposGlory.mode
-meVE.AposGlory.melody = me.m01.d28_en_US_dedes.meVE.AposGlory.melody
-meVE.AposGlory.text = me.m01.d28_en_US_dedes.meVE.AposGlory.text
+meVE.AposGlory.melody = me.m01.d28_en_UK_lash.meVE.AposGlory.melody
+meVE.AposGlory.text = me.m01.d28_en_UK_lash.meVE.AposGlory.text
 
 meVE.AposTheotokion.mode = me.m01.d28_en_US_dedes.meVE.AposTheotokion.mode
-meVE.AposTheotokion.melody = me.m01.d28_en_US_dedes.meVE.AposTheotokion.melody
-meVE.AposTheotokion.text = me.m01.d28_en_US_dedes.meVE.AposTheotokion.text
+meVE.AposTheotokion.melody = me.m01.d28_en_UK_lash.meVE.AposTheotokion.melody
+meVE.AposTheotokion.text = me.m01.d28_en_UK_lash.meVE.AposTheotokion.text
 
 meVE.AposStavrotheotokion.mode = me.m01.d28_en_US_dedes.meVE.AposStavrotheotokion.mode
-meVE.AposStavrotheotokion.melody = me.m01.d28_en_US_dedes.meVE.AposStavrotheotokion.melody
-meVE.AposStavrotheotokion.text = me.m01.d28_en_US_dedes.meVE.AposStavrotheotokion.text
+meVE.AposStavrotheotokion.melody = me.m01.d28_en_UK_lash.meVE.AposStavrotheotokion.melody
+meVE.AposStavrotheotokion.text = me.m01.d28_en_UK_lash.meVE.AposStavrotheotokion.text
 
 meVE.Apolytikion1.mode = me.m01.d28_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m01.d28_en_US_dedes.meVE.Apolytikion1.melody
@@ -189,10 +189,10 @@ meMA.Ode6H.melody = me.m01.d28_en_US_dedes.meMA.Ode6H.melody
 meMA.Ode6H.text = me.m01.d28_en_US_dedes.meMA.Ode6H.text
 
 meMA.Kontakion1.mode = me.m01.d28_en_US_dedes.meMA.Kontakion1.mode
-meMA.Kontakion1.melody = me.m01.d28_en_US_dedes.meMA.Kontakion1.melody
-meMA.Kontakion1.text = me.m01.d28_en_US_dedes.meMA.Kontakion1.text
+meMA.Kontakion1.melody = me.m01.d28_en_UK_lash.meMA.Kontakion1.melody
+meMA.Kontakion1.text = me.m01.d28_en_UK_lash.meMA.Kontakion1.text
 
-meMA.Oikos1.text = me.m01.d28_en_US_dedes.meMA.Oikos1.text
+meMA.Oikos1.text = me.m01.d28_en_UK_lash.meMA.Oikos1.text
 
 meMA.Synaxarion.text = me.m01.d28_en_US_dedes.meMA.Synaxarion.text
 
@@ -268,16 +268,16 @@ meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
 meMA.AposGlory.poet = me.m01.d28_en_US_dedes.meMA.AposGlory.poet
 meMA.AposGlory.mode = me.m01.d28_en_US_dedes.meMA.AposGlory.mode
-meMA.AposGlory.melody = me.m01.d28_en_US_dedes.meMA.AposGlory.melody
-meMA.AposGlory.text = me.m01.d28_en_US_dedes.meMA.AposGlory.text
+meMA.AposGlory.melody = me.m01.d28_en_UK_lash.meMA.AposGlory.melody
+meMA.AposGlory.text = me.m01.d28_en_UK_lash.meMA.AposGlory.text
 
 meMA.AposTheotokion.mode = me.m01.d28_en_US_dedes.meMA.AposTheotokion.mode
 meMA.AposTheotokion.melody = me.m01.d28_en_US_dedes.meMA.AposTheotokion.melody
 meMA.AposTheotokion.text = me.m01.d28_en_US_dedes.meMA.AposTheotokion.text
 
 meMA.AposStavrotheotokion.mode = me.m01.d28_en_US_dedes.meMA.AposStavrotheotokion.mode
-meMA.AposStavrotheotokion.melody = me.m01.d28_en_US_dedes.meMA.AposStavrotheotokion.melody
-meMA.AposStavrotheotokion.text = me.m01.d28_en_US_dedes.meMA.AposStavrotheotokion.text
+meMA.AposStavrotheotokion.melody = me.m01.d28_en_UK_lash.meMA.AposStavrotheotokion.melody
+meMA.AposStavrotheotokion.text = me.m01.d28_en_UK_lash.meMA.AposStavrotheotokion.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
