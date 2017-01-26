@@ -389,7 +389,8 @@ meMA.MM.Lauds1123as5678.text = me.m02.d02_en_US_dedes.meMA.MM.Lauds1123as5678.te
 
 meLI.Antiphon2.text = me.m02.d02_en_US_dedes.meLI.Antiphon2.text
 
-meLI.MM.EntranceHymn.text = properties_en_US_public.media.key
+meLI.MM.EntranceHymn.text = me.m02.d02_en_US_dedes.meLI.MM.EntranceHymn.text
+meLI.MM.EntranceHymnSunday.text = me.m02.d02_en_US_dedes.meLI.MM.EntranceHymnSunday.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
