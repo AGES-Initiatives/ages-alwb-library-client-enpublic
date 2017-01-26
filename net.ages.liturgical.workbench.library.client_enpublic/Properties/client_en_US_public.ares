@@ -61,6 +61,11 @@ cl.relics.saint3.Apolytikion.mode = ""
 cl.relics.saint3.Apolytikion.melody = ""
 cl.relics.saint3.Apolytikion.text = ""
 
+cl.saints.array01.text = ""
+cl.saints.array02.text = ""
+cl.saints.array03.text = ""
+cl.saints.array04.text = ""
+
 //Rubrics
 cl.eu.lichrysbasil.R001 = "(The designated verses from the Psalms are sung with the hymn:)"
 cl.eu.lichrysbasil.R002 = "(The designated verses from the Psalms are sung with the hymn:)"
