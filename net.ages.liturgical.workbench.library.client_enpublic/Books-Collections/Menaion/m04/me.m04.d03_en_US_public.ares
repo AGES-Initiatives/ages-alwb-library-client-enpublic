@@ -15,16 +15,16 @@ meHO.note1 = me.m04.d03_en_US_dedes.meHO.note1
 meHO.note2 = me.m04.d03_en_US_dedes.meHO.note2
 
 meVE.Stichera01.mode = me.m04.d03_en_US_dedes.meVE.Stichera01.mode
-meVE.Stichera01.melody = me.m04.d03_en_US_dedes.meVE.Stichera01.melody
-meVE.Stichera01.text = me.m04.d03_en_US_dedes.meVE.Stichera01.text
+meVE.Stichera01.melody = me.m04.d03_en_US_oca.meVE.Stichera01.melody
+meVE.Stichera01.text = me.m04.d03_en_US_oca.meVE.Stichera01.text
 
 meVE.Stichera02.mode = me.m04.d03_en_US_dedes.meVE.Stichera02.mode
-meVE.Stichera02.melody = me.m04.d03_en_US_dedes.meVE.Stichera02.melody
-meVE.Stichera02.text = me.m04.d03_en_US_dedes.meVE.Stichera02.text
+meVE.Stichera02.melody = me.m04.d03_en_US_oca.meVE.Stichera02.melody
+meVE.Stichera02.text = me.m04.d03_en_US_oca.meVE.Stichera02.text
 
 meVE.Stichera03.mode = me.m04.d03_en_US_dedes.meVE.Stichera03.mode
-meVE.Stichera03.melody = me.m04.d03_en_US_dedes.meVE.Stichera03.melody
-meVE.Stichera03.text = me.m04.d03_en_US_dedes.meVE.Stichera03.text
+meVE.Stichera03.melody = me.m04.d03_en_US_oca.meVE.Stichera03.melody
+meVE.Stichera03.text = me.m04.d03_en_US_oca.meVE.Stichera03.text
 
 meVE.SticTheotokion.mode = me.m04.d03_en_US_dedes.meVE.SticTheotokion.mode
 meVE.SticTheotokion.melody = me.m04.d03_en_US_dedes.meVE.SticTheotokion.melody
