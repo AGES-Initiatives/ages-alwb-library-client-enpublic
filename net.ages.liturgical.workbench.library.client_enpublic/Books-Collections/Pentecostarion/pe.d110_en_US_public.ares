@@ -75,31 +75,31 @@ peVE.SticGlory.text = pe.d110_en_US_dedes.peVE.SticGlory.text
 
 peVE.Lity1.mode = pe.d110_en_US_dedes.peVE.Lity1.mode
 peVE.Lity1.melody = pe.d110_en_US_dedes.peVE.Lity1.melody
-peVE.Lity1.text = pe.d110_en_US_dedes.peVE.Lity1.text
+peVE.Lity1.text = pe.d110_en_UK_lash.peVE.Lity1.text
 
 peVE.Lity2.mode = pe.d110_en_US_dedes.peVE.Lity2.mode
 peVE.Lity2.melody = pe.d110_en_US_dedes.peVE.Lity2.melody
-peVE.Lity2.text = pe.d110_en_US_dedes.peVE.Lity2.text
+peVE.Lity2.text = pe.d110_en_UK_lash.peVE.Lity2.text
 
 peVE.Lity3.mode = pe.d110_en_US_dedes.peVE.Lity3.mode
 peVE.Lity3.melody = pe.d110_en_US_dedes.peVE.Lity3.melody
-peVE.Lity3.text = pe.d110_en_US_dedes.peVE.Lity3.text
+peVE.Lity3.text = pe.d110_en_UK_lash.peVE.Lity3.text
 
 peVE.Lity4.mode = pe.d110_en_US_dedes.peVE.Lity4.mode
 peVE.Lity4.melody = pe.d110_en_US_dedes.peVE.Lity4.melody
-peVE.Lity4.text = pe.d110_en_US_dedes.peVE.Lity4.text
+peVE.Lity4.text = pe.d110_en_UK_lash.peVE.Lity4.text
 
 peVE.Lity5.mode = pe.d110_en_US_dedes.peVE.Lity5.mode
 peVE.Lity5.melody = pe.d110_en_US_dedes.peVE.Lity5.melody
-peVE.Lity5.text = pe.d110_en_US_dedes.peVE.Lity5.text
+peVE.Lity5.text = pe.d110_en_UK_lash.peVE.Lity5.text
 
 peVE.Lity6.mode = pe.d110_en_US_dedes.peVE.Lity6.mode
 peVE.Lity6.melody = pe.d110_en_US_dedes.peVE.Lity6.melody
-peVE.Lity6.text = pe.d110_en_US_dedes.peVE.Lity6.text
+peVE.Lity6.text = pe.d110_en_UK_lash.peVE.Lity6.text
 
 peVE.LityGlory.mode = pe.d110_en_US_dedes.peVE.LityGlory.mode
 peVE.LityGlory.melody = pe.d110_en_US_dedes.peVE.LityGlory.melody
-peVE.LityGlory.text = pe.d110_en_US_dedes.peVE.LityGlory.text
+peVE.LityGlory.text = pe.d110_en_UK_lash.peVE.LityGlory.text
 
 peVE.Aposticha1.mode = pe.d110_en_US_dedes.peVE.Aposticha1.mode
 peVE.Aposticha1.melody = pe.d110_en_US_dedes.peVE.Aposticha1.melody
@@ -616,6 +616,7 @@ peMA.LaudsGlory.text = pe.d110_en_US_dedes.peMA.LaudsGlory.text
 peLI.Antiphon2.text = pe.d110_en_US_dedes.peLI.Antiphon2.text
 
 peLI.MM.EntranceHymn.text = properties_en_US_public.media.key
+peLI.MM.EntranceHymnAF.text = properties_en_US_public.media.key
 
 peLI.SeasonalKontakion.mode = pe.d110_en_US_dedes.peLI.SeasonalKontakion.mode
 peLI.SeasonalKontakion.melody = pe.d110_en_US_dedes.peLI.SeasonalKontakion.melody
