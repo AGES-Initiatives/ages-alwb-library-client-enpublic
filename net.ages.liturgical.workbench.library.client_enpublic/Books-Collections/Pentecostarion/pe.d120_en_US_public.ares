@@ -45,6 +45,8 @@ peVE.Stichera08.mode = pe.d120_en_US_dedes.peVE.Stichera08.mode
 peVE.Stichera08.melody = pe.d120_en_US_dedes.peVE.Stichera08.melody
 peVE.Stichera08.text = pe.d120_en_US_dedes.peVE.Stichera08.text
 
+peVE.MM.Stichera1234as3456.text = pe.d120_en_US_dedes.peVE.MM.Stichera1234as3456.text
+
 peVE.SticGlory.poet = pe.d120_en_US_dedes.peVE.SticGlory.poet
 peVE.SticGlory.mode = pe.d120_en_US_dedes.peVE.SticGlory.mode
 peVE.SticGlory.melody = pe.d120_en_US_dedes.peVE.SticGlory.melody
