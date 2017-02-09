@@ -42,12 +42,12 @@ meVE.Stichera06.melody = me.m06.d25_en_US_dedes.meVE.Stichera06.melody
 meVE.Stichera06.text = me.m06.d25_en_US_dedes.meVE.Stichera06.text
 
 meVE.SticGlory.mode = me.m06.d25_en_US_dedes.meVE.SticGlory.mode
-meVE.SticGlory.melody = me.m06.d25_en_US_dedes.meVE.SticGlory.melody
-meVE.SticGlory.text = me.m06.d25_en_US_dedes.meVE.SticGlory.text
+meVE.SticGlory.melody = me.m06.d25_en_US_oca.meVE.SticGlory.melody
+meVE.SticGlory.text = me.m06.d25_en_US_oca.meVE.SticGlory.text
 
 meVE.AposGlory.mode = me.m06.d25_en_US_dedes.meVE.AposGlory.mode
-meVE.AposGlory.melody = me.m06.d25_en_US_dedes.meVE.AposGlory.melody
-meVE.AposGlory.text = me.m06.d25_en_US_dedes.meVE.AposGlory.text
+meVE.AposGlory.melody = me.m06.d25_en_US_oca.meVE.AposGlory.melody
+meVE.AposGlory.text = me.m06.d25_en_US_oca.meVE.AposGlory.text
 
 meVE.Apolytikion1.mode = me.m06.d25_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m06.d25_en_US_dedes.meVE.Apolytikion1.melody
