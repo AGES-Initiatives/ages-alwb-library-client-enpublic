@@ -71,6 +71,7 @@ service = template.titles_en_US_dedes.service
 co.html.tab = template.titles_en_US_dedes.co.html.tab 
 co.pdf.header = template.titles_en_US_dedes.co.pdf.header
 co.pdf.cover = template.titles_en_US_dedes.co.pdf.cover
+co.smallcompline.html.tab = template.titles_en_US_dedes.co.smallcompline.html.tab
 co.smallcompline.pdf.cover = template.titles_en_US_dedes.co.smallcompline.pdf.cover
 co.smallcompline.pdf.header = template.titles_en_US_dedes.co.smallcompline.pdf.header
 co.akathist.html.tab = template.titles_en_US_dedes.co.akathist.html.tab
