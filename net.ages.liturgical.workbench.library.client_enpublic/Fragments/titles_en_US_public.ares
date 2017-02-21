@@ -52,10 +52,12 @@ EirmosOAftos = titles_en_US_dedes.EirmosOAftos
 
 Eisodikon = titles_en_US_dedes.Eisodikon
 
+eistinleitourgian = titles_en_US_dedes.eistinleitourgian
 EisTinLeitourgian = titles_en_US_dedes.EisTinLeitourgian
 
 EisTinLitin = titles_en_US_dedes.EisTinLitin
 
+eistintrithektin = titles_en_US_dedes.eistintrithektin
 EisTinTrithektin = titles_en_US_dedes.EisTinTrithektin
 
 eistoapodeipnon = titles_en_US_dedes.eistoapodeipnon
@@ -696,6 +698,7 @@ ofWeek4 = titles_en_US_dedes.ofWeek4
 ofWeek5 = titles_en_US_dedes.ofWeek5
 ofWeek6_tr = titles_en_US_dedes.ofWeek6_tr
 ofWeek6_pe = titles_en_US_dedes.ofWeek6_pe
+ofHolyWeek = titles_en_US_dedes.ofHolyWeek
 ofWeek7 = titles_en_US_dedes.ofWeek7
 ofWeek8_pe = titles_en_US_dedes.ofWeek8_pe
 ofCheeseWeek.uc = titles_en_US_dedes.ofCheeseWeek.uc
