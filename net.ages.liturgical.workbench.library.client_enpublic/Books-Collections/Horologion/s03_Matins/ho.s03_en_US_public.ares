@@ -163,43 +163,54 @@ Hymn 3x
 Title Mode8
 Hymn 3x
 
-Title Exaposteilaria
-Subtitle
-On Monday
-Title Mode
-Hymn
-Title Theot
-Hymn
-
-On Tuesday
-Title Mode
-Hymn
-Title Theot
-Hymn ref
-
-On Wed and Fri
-Title Mode
-Hymn
-Title StavTheot
-Hymn
-
-On Thur
-Title Mode
-Hymn
-Title
-Hymn
-Title Theot
-Hymn
 */
+hoMA.Exaposteilaria.title = ho.s03_en_US_dedes.hoMA.Exaposteilaria.title
+hoMA.Exaposteilaria.title2 = ho.s03_en_US_dedes.hoMA.Exaposteilaria.title2
+
+hoMA.ExapMonTitle = ho.s03_en_US_dedes.hoMA.ExapMonTitle
+hoMA.ExapMon1.mode = ho.s03_en_US_dedes.hoMA.ExapMon1.mode
+hoMA.ExapMon1.melody = ho.s03_en_US_dedes.hoMA.ExapMon1.melody
+hoMA.ExapMon1.text = ho.s03_en_US_dedes.hoMA.ExapMon1.text
+
+hoMA.ExapMonTh.mode = ho.s03_en_US_dedes.hoMA.ExapMonTh.mode
+hoMA.ExapMonTh.melody = ho.s03_en_US_dedes.hoMA.ExapMonTh.melody
+hoMA.ExapMonTh.text = ho.s03_en_US_dedes.hoMA.ExapMonTh.text
+
+hoMA.ExapTueTitle = ho.s03_en_US_dedes.hoMA.ExapTueTitle
+hoMA.ExapTue1.mode = ho.s03_en_US_dedes.hoMA.ExapTue1.mode
+hoMA.ExapTue1.melody = ho.s03_en_UK_lash.hoMA.ExapTue1.melody
+hoMA.ExapTue1.text = ho.s03_en_UK_lash.hoMA.ExapTue1.text
+
+hoMA.ExapTueTh.mode = ho.s03_en_US_dedes.hoMA.ExapTueTh.mode
+hoMA.ExapTueTh.melody = ho.s03_en_US_dedes.hoMA.ExapTueTh.melody
+hoMA.ExapTueTh.text = ho.s03_en_US_dedes.hoMA.ExapTueTh.text
+
+hoMA.ExapWedFriTitle = ho.s03_en_US_dedes.hoMA.ExapWedFriTitle
+hoMA.ExapWedFri1.mode = ho.s03_en_US_dedes.hoMA.ExapWedFri1.mode
+hoMA.ExapWedFri1.melody = ho.s03_en_US_dedes.hoMA.ExapWedFri1.melody
+hoMA.ExapWedFri1.text = ho.s03_en_US_dedes.hoMA.ExapWedFri1.text
+
+hoMA.ExapWedFriTh.mode = ho.s03_en_US_dedes.hoMA.ExapWedFriTh.mode
+hoMA.ExapWedFriTh.melody = ho.s03_en_US_dedes.hoMA.ExapWedFriTh.melody
+hoMA.ExapWedFriTh.text = ho.s03_en_US_dedes.hoMA.ExapWedFriTh.text
+
+hoMA.ExapThuTitle = ho.s03_en_US_dedes.hoMA.ExapThuTitle
+hoMA.ExapThu1.mode = ho.s03_en_US_dedes.hoMA.ExapThu1.mode
+hoMA.ExapThu1.melody = ho.s03_en_UK_lash.hoMA.ExapThu1.melody
+hoMA.ExapThu1.text = ho.s03_en_UK_lash.hoMA.ExapThu1.text
+
+hoMA.ExapThu2.mode = ho.s03_en_US_dedes.hoMA.ExapThu2.mode
+hoMA.ExapThu2.melody = ho.s03_en_US_dedes.hoMA.ExapThu2.melody
+hoMA.ExapThu2.text = ho.s03_en_US_dedes.hoMA.ExapThu2.text
+
+hoMA.ExapThuTh.mode = ho.s03_en_US_dedes.hoMA.ExapThuTh.mode
+hoMA.ExapThuTh.melody = ho.s03_en_US_dedes.hoMA.ExapThuTh.melody
+hoMA.ExapThuTh.text = ho.s03_en_US_dedes.hoMA.ExapThuTh.text
 
 hoMA.ExapSatTitle = ho.s03_en_US_dedes.hoMA.ExapSatTitle
 hoMA.ExapSat1.mode = ho.s03_en_US_dedes.hoMA.ExapSat1.mode
 hoMA.ExapSat1.melody = ho.s03_en_US_dedes.hoMA.ExapSat1.melody
 hoMA.ExapSat1.text = ho.s03_en_US_dedes.hoMA.ExapSat1.text
-
-hoMA.ExapSat2.mode = ho.s03_en_US_dedes.hoMA.ExapSat2.mode
-hoMA.ExapSat2.melody = ho.s03_en_US_dedes.hoMA.ExapSat2.melody
-hoMA.ExapSat2.text = ho.s03_en_US_dedes.hoMA.ExapSat2.text
 
 hoMA.ExapSatTh.mode = ho.s03_en_US_dedes.hoMA.ExapSatTh.mode
 hoMA.ExapSatTh.melody = ho.s03_en_US_dedes.hoMA.ExapSatTh.melody

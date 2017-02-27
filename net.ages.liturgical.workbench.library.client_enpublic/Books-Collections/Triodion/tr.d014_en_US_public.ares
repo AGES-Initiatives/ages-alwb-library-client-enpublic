@@ -322,8 +322,8 @@ trMA.Ode6K.melody = tr.d014_en_US_dedes.trMA.Ode6K.melody
 trMA.Ode6K.text = tr.d014_en_US_dedes.trMA.Ode6K.text
 
 trMA.Kontakion1.mode = tr.d014_en_US_dedes.trMA.Kontakion1.mode
-trMA.Kontakion1.melody = tr.d014_en_US_dedes.trMA.Kontakion1.melody
-trMA.Kontakion1.text = tr.d014_en_US_dedes.trMA.Kontakion1.text
+trMA.Kontakion1.melody = tr.d014_en_US_holycross.trMA.Kontakion1.melody
+trMA.Kontakion1.text = tr.d014_en_US_holycross.trMA.Kontakion1.text
 
 trMA.Oikos1.text = tr.d014_en_US_dedes.trMA.Oikos1.text
 
