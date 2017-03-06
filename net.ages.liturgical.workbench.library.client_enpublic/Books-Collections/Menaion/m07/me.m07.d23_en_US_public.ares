@@ -39,6 +39,7 @@ meVE.SticStavrotheotokion.melody = me.m07.d23_en_US_dedes.meVE.SticStavrotheotok
 meVE.SticStavrotheotokion.text = me.m07.d23_en_US_dedes.meVE.SticStavrotheotokion.text
 
 meVE.GeneralApolytikion1.name = me.m07.d23_en_US_dedes.meVE.GeneralApolytikion1.name //   name of saint for General Apolytikia when not in Menaion
+meVE.MM.GeneralApolytikion1.text = me.m07.d23_en_US_dedes.meVE.MM.GeneralApolytikion1.text
 
 meVE.Apolytikion1.poet = me.m07.d23_en_US_dedes.meVE.Apolytikion1.poet
 meVE.Apolytikion1.mode = me.m07.d23_en_US_dedes.meVE.Apolytikion1.mode
