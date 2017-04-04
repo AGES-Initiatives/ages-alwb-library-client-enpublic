@@ -328,7 +328,7 @@ pePA.Hours5.text = pe.d00P_en_US_dedes.pePA.Hours5.text
 pePA.Hours6.text = pe.d00P_en_US_dedes.pePA.Hours6.text
 pePA.Hours7.text = pe.d00P_en_US_dedes.pePA.Hours7.text
 
-pePA.Antiphon2.text = pe.d00P_en_US_dedes.pePA.Antiphon2.text
+pePA.Antiphon2.text = pe.d00P_en_US_goa.pePA.Antiphon2.text
 
 pePA.EntranceHymn.text = pe.d00P_en_US_dedes.pePA.EntranceHymn.text
 
@@ -343,7 +343,7 @@ pePA.TheotokosHymn.text = pe.d00P_en_US_dedes.pePA.TheotokosHymn.text
 pePA.CommunionHymn.text = pe.d00P_en_US_dedes.pePA.CommunionHymn.text
 
 pePA.AfterCommunion.mode = pe.d00P_en_US_dedes.pePA.AfterCommunion.mode
-pePA.AfterCommunion.text = pe.d00P_en_US_dedes.pePA.AfterCommunion.text
+pePA.AfterCommunion.text = pe.d00P_en_US_goa.pePA.AfterCommunion.text
 
 pePA.AfterCommunion2.mode = pe.d00P_en_US_dedes.pePA.AfterCommunion2.mode // instead of Blessed be the name
-pePA.AfterCommunion2.text = pe.d00P_en_US_dedes.pePA.AfterCommunion2.text
+pePA.AfterCommunion2.text = pe.d00P_en_US_goa.pePA.AfterCommunion2.text
