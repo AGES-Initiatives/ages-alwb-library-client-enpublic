@@ -5,6 +5,11 @@ AfrastonThavma.mode = he.h.m6_en_US_dedes.AfrastonThavma.mode
 AfrastonThavma.ode = he.h.m6_en_US_dedes.AfrastonThavma.ode
 AfrastonThavma.text = he.h.m6_en_US_dedes.AfrastonThavma.text
 
+AfrastonThavma_Epiphany.name = he.h.m6_en_US_dedes.AfrastonThavma_Epiphany.name
+AfrastonThavma_Epiphany.mode = he.h.m6_en_US_dedes.AfrastonThavma_Epiphany.mode
+AfrastonThavma_Epiphany.ode = he.h.m6_en_US_dedes.AfrastonThavma_Epiphany.ode
+AfrastonThavma_Epiphany.text = he.h.m6_en_US_dedes.AfrastonThavma_Epiphany.text
+
 AkikoaKyrieTinAkoin.name = he.h.m6_en_US_dedes.AkikoaKyrieTinAkoin.name
 AkikoaKyrieTinAkoin.mode = he.h.m6_en_US_dedes.AkikoaKyrieTinAkoin.mode
 AkikoaKyrieTinAkoin.ode = he.h.m6_en_US_dedes.AkikoaKyrieTinAkoin.ode
@@ -59,6 +64,10 @@ EkstithiFrittonOurane.name = he.h.m6_en_US_dedes.EkstithiFrittonOurane.name
 EkstithiFrittonOurane.mode = he.h.m6_en_US_dedes.EkstithiFrittonOurane.mode
 EkstithiFrittonOurane.ode = he.h.m6_en_US_dedes.EkstithiFrittonOurane.ode
 EkstithiFrittonOurane.text = he.h.m6_en_US_dedes.EkstithiFrittonOurane.text
+EkstithiFrittonOurane_Epiphany.name = he.h.m6_en_US_dedes.EkstithiFrittonOurane_Epiphany.name
+EkstithiFrittonOurane_Epiphany.mode = he.h.m6_en_US_dedes.EkstithiFrittonOurane_Epiphany.mode
+EkstithiFrittonOurane_Epiphany.ode = he.h.m6_en_US_dedes.EkstithiFrittonOurane_Epiphany.ode
+EkstithiFrittonOurane_Epiphany.text = he.h.m6_en_US_dedes.EkstithiFrittonOurane_Epiphany.text
 
 EnTiSterraTisPisteos.name = he.h.m6_en_US_dedes.EnTiSterraTisPisteos.name
 EnTiSterraTisPisteos.mode = he.h.m6_en_US_dedes.EnTiSterraTisPisteos.mode
@@ -94,11 +103,23 @@ KymatiThalassis.name = he.h.m6_en_US_dedes.KymatiThalassis.name
 KymatiThalassis.mode = he.h.m6_en_US_dedes.KymatiThalassis.mode
 KymatiThalassis.ode = he.h.m6_en_US_dedes.KymatiThalassis.ode
 KymatiThalassis.text = he.h.m6_en_US_dedes.KymatiThalassis.text
+KymatiThalassis_Epiphany.name = he.h.m6_en_US_dedes.KymatiThalassis_Epiphany.name
+KymatiThalassis_Epiphany.mode = he.h.m6_en_US_dedes.KymatiThalassis_Epiphany.mode
+KymatiThalassis_Epiphany.ode = he.h.m6_en_US_dedes.KymatiThalassis_Epiphany.ode
+KymatiThalassis_Epiphany.text = he.h.m6_en_US_dedes.KymatiThalassis_Epiphany.text
 
 KyriosOnPanton.name = he.h.m6_en_US_dedes.KyriosOnPanton.name
 KyriosOnPanton.mode = he.h.m6_en_US_dedes.KyriosOnPanton.mode
 KyriosOnPanton.ode = he.h.m6_en_US_dedes.KyriosOnPanton.ode
 KyriosOnPanton.text = he.h.m6_en_US_dedes.KyriosOnPanton.text
+KyriosOnPanton_Epiphany.name = he.h.m6_en_US_dedes.KyriosOnPanton_Epiphany.name
+KyriosOnPanton_Epiphany.mode = he.h.m6_en_US_dedes.KyriosOnPanton_Epiphany.mode
+KyriosOnPanton_Epiphany.ode = he.h.m6_en_US_dedes.KyriosOnPanton_Epiphany.ode
+KyriosOnPanton_Epiphany.text = he.h.m6_en_US_dedes.KyriosOnPanton_Epiphany.text
+MiEpodyrestheMatin.name = he.h.m6_en_US_dedes.MiEpodyrestheMatin.name
+MiEpodyrestheMatin.mode = he.h.m6_en_US_dedes.MiEpodyrestheMatin.mode
+MiEpodyrestheMatin.ode = he.h.m6_en_US_dedes.MiEpodyrestheMatin.ode
+MiEpodyrestheMatin.text = he.h.m6_en_US_dedes.MiEpodyrestheMatin.text
 
 MiEpodyrouMouMiter.name = he.h.m6_en_US_dedes.MiEpodyrouMouMiter.name
 MiEpodyrouMouMiter.mode = he.h.m6_en_US_dedes.MiEpodyrouMouMiter.mode
@@ -154,6 +175,10 @@ ProkatidonOProfitis.name = he.h.m6_en_US_dedes.ProkatidonOProfitis.name
 ProkatidonOProfitis.mode = he.h.m6_en_US_dedes.ProkatidonOProfitis.mode
 ProkatidonOProfitis.ode = he.h.m6_en_US_dedes.ProkatidonOProfitis.ode
 ProkatidonOProfitis.text = he.h.m6_en_US_dedes.ProkatidonOProfitis.text
+ProkatidonOProfitis_Epiphany.name = he.h.m6_en_US_dedes.ProkatidonOProfitis_Epiphany.name
+ProkatidonOProfitis_Epiphany.mode = he.h.m6_en_US_dedes.ProkatidonOProfitis_Epiphany.mode
+ProkatidonOProfitis_Epiphany.ode = he.h.m6_en_US_dedes.ProkatidonOProfitis_Epiphany.ode
+ProkatidonOProfitis_Epiphany.text = he.h.m6_en_US_dedes.ProkatidonOProfitis_Epiphany.text
 
 ProsSeOrthrizo.name = he.h.m6_en_US_dedes.ProsSeOrthrizo.name
 ProsSeOrthrizo.mode = he.h.m6_en_US_dedes.ProsSeOrthrizo.mode
@@ -174,6 +199,10 @@ SeTonEpiYdaton.name = he.h.m6_en_US_dedes.SeTonEpiYdaton.name
 SeTonEpiYdaton.mode = he.h.m6_en_US_dedes.SeTonEpiYdaton.mode
 SeTonEpiYdaton.ode = he.h.m6_en_US_dedes.SeTonEpiYdaton.ode
 SeTonEpiYdaton.text = he.h.m6_en_US_dedes.SeTonEpiYdaton.text
+SeTonEpiYdaton_Epiphany.name = he.h.m6_en_US_dedes.SeTonEpiYdaton_Epiphany.name
+SeTonEpiYdaton_Epiphany.mode = he.h.m6_en_US_dedes.SeTonEpiYdaton_Epiphany.mode
+SeTonEpiYdaton_Epiphany.ode = he.h.m6_en_US_dedes.SeTonEpiYdaton_Epiphany.ode
+SeTonEpiYdaton_Epiphany.text = he.h.m6_en_US_dedes.SeTonEpiYdaton_Epiphany.text
 
 StereosonKyrie.name = he.h.m6_en_US_dedes.StereosonKyrie.name
 StereosonKyrie.mode = he.h.m6_en_US_dedes.StereosonKyrie.mode
@@ -194,11 +223,19 @@ SyneschethiAllOuKateschethi.name = he.h.m6_en_US_dedes.SyneschethiAllOuKateschet
 SyneschethiAllOuKateschethi.mode = he.h.m6_en_US_dedes.SyneschethiAllOuKateschethi.mode
 SyneschethiAllOuKateschethi.ode = he.h.m6_en_US_dedes.SyneschethiAllOuKateschethi.ode
 SyneschethiAllOuKateschethi.text = he.h.m6_en_US_dedes.SyneschethiAllOuKateschethi.text
+SyneschethiAllOuKateschethi_Epiphany.name = he.h.m6_en_US_dedes.SyneschethiAllOuKateschethi_Epiphany.name
+SyneschethiAllOuKateschethi_Epiphany.mode = he.h.m6_en_US_dedes.SyneschethiAllOuKateschethi_Epiphany.mode
+SyneschethiAllOuKateschethi_Epiphany.ode = he.h.m6_en_US_dedes.SyneschethiAllOuKateschethi_Epiphany.ode
+SyneschethiAllOuKateschethi_Epiphany.text = he.h.m6_en_US_dedes.SyneschethiAllOuKateschethi_Epiphany.text
 
 TheofaneiasSouChriste.name = he.h.m6_en_US_dedes.TheofaneiasSouChriste.name
 TheofaneiasSouChriste.mode = he.h.m6_en_US_dedes.TheofaneiasSouChriste.mode
 TheofaneiasSouChriste.ode = he.h.m6_en_US_dedes.TheofaneiasSouChriste.ode
 TheofaneiasSouChriste.text = he.h.m6_en_US_dedes.TheofaneiasSouChriste.text
+TheofaneiasSouChriste_Epiphany.name = he.h.m6_en_US_dedes.TheofaneiasSouChriste_Epiphany.name
+TheofaneiasSouChriste_Epiphany.mode = he.h.m6_en_US_dedes.TheofaneiasSouChriste_Epiphany.mode
+TheofaneiasSouChriste_Epiphany.ode = he.h.m6_en_US_dedes.TheofaneiasSouChriste_Epiphany.ode
+TheofaneiasSouChriste_Epiphany.text = he.h.m6_en_US_dedes.TheofaneiasSouChriste_Epiphany.text
 
 TheonAnthropois.name = he.h.m6_en_US_dedes.TheonAnthropois.name
 TheonAnthropois.mode = he.h.m6_en_US_dedes.TheonAnthropois.mode
@@ -215,6 +252,10 @@ TinEnStavroSou.mode = he.h.m6_en_US_dedes.TinEnStavroSou.mode
 TinEnStavroSou.ode = he.h.m6_en_US_dedes.TinEnStavroSou.ode
 TinEnStavroSou.text = he.h.m6_en_US_dedes.TinEnStavroSou.text
 
+TinProsToBaptismaSou.name = he.h.m6_en_US_dedes.TinProsToBaptismaSou.name
+TinProsToBaptismaSou.mode = he.h.m6_en_US_dedes.TinProsToBaptismaSou.mode
+TinProsToBaptismaSou.ode = he.h.m6_en_US_dedes.TinProsToBaptismaSou.ode
+TinProsToBaptismaSou.text = he.h.m6_en_US_dedes.TinProsToBaptismaSou.text
 TinTimioteran.name = he.h.m6_en_US_dedes.TinTimioteran.name
 TinTimioteran.mode = he.h.m6_en_US_dedes.TinTimioteran.mode
 TinTimioteran.ode = he.h.m6_en_US_dedes.TinTimioteran.ode
@@ -234,6 +275,10 @@ ToSyndesmoTisAgapis.name = he.h.m6_en_US_dedes.ToSyndesmoTisAgapis.name
 ToSyndesmoTisAgapis.mode = he.h.m6_en_US_dedes.ToSyndesmoTisAgapis.mode
 ToSyndesmoTisAgapis.ode = he.h.m6_en_US_dedes.ToSyndesmoTisAgapis.ode
 ToSyndesmoTisAgapis.text = he.h.m6_en_US_dedes.ToSyndesmoTisAgapis.text
+ToSyndesmoTisDeilias.name = he.h.m6_en_US_dedes.ToSyndesmoTisDeilias.name
+ToSyndesmoTisDeilias.mode = he.h.m6_en_US_dedes.ToSyndesmoTisDeilias.mode
+ToSyndesmoTisDeilias.ode = he.h.m6_en_US_dedes.ToSyndesmoTisDeilias.ode
+ToSyndesmoTisDeilias.text = he.h.m6_en_US_dedes.ToSyndesmoTisDeilias.text
 
 ToTheioFengeiSou.name = he.h.m6_en_US_dedes.ToTheioFengeiSou.name
 ToTheioFengeiSou.mode = he.h.m6_en_US_dedes.ToTheioFengeiSou.mode
@@ -260,3 +305,7 @@ XeniasDespotikis.mode = he.h.m6_en_US_dedes.XeniasDespotikis.mode
 XeniasDespotikis.ode = he.h.m6_en_US_dedes.XeniasDespotikis.ode
 XeniasDespotikis.text = he.h.m6_en_US_dedes.XeniasDespotikis.text
 
+XeniasDespotikis_Epiphany.name = he.h.m6_en_US_dedes.XeniasDespotikis_Epiphany.name
+XeniasDespotikis_Epiphany.mode = he.h.m6_en_US_dedes.XeniasDespotikis_Epiphany.mode
+XeniasDespotikis_Epiphany.ode = he.h.m6_en_US_dedes.XeniasDespotikis_Epiphany.ode
+XeniasDespotikis_Epiphany.text = he.h.m6_en_US_dedes.XeniasDespotikis_Epiphany.text
