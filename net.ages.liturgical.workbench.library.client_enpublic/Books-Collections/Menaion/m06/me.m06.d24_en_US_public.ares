@@ -17,15 +17,15 @@ meDismissal = me.m06.d24_en_US_dedes.meDismissal
 
 meSV.Stichera1.mode = me.m06.d24_en_US_dedes.meSV.Stichera1.mode
 meSV.Stichera1.melody = me.m06.d24_en_US_dedes.meSV.Stichera1.melody
-meSV.Stichera1.text = me.m06.d24_en_US_dedes.meSV.Stichera1.text
+meSV.Stichera1.text = me.m06.d24_en_US_andronache.meSV.Stichera1.text
 
 meSV.Stichera2.mode = me.m06.d24_en_US_dedes.meSV.Stichera2.mode
 meSV.Stichera2.melody = me.m06.d24_en_US_dedes.meSV.Stichera2.melody
-meSV.Stichera2.text = me.m06.d24_en_US_dedes.meSV.Stichera2.text
+meSV.Stichera2.text = me.m06.d24_en_US_andronache.meSV.Stichera2.text
 
 meSV.Stichera3.mode = me.m06.d24_en_US_dedes.meSV.Stichera3.mode
 meSV.Stichera3.melody = me.m06.d24_en_US_dedes.meSV.Stichera3.melody
-meSV.Stichera3.text = me.m06.d24_en_US_dedes.meSV.Stichera3.text
+meSV.Stichera3.text = me.m06.d24_en_US_andronache.meSV.Stichera3.text
 
 meSV.MM.Stichera1123as78910.text = me.m06.d24_en_US_dedes.meSV.MM.Stichera1123as78910.text
 
