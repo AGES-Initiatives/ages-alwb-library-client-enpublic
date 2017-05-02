@@ -509,7 +509,7 @@ trMA.AposTheotokion.text = tr.d014_en_US_dedes.trMA.AposTheotokion.text
 
 trLI.SeasonalKontakion.mode = tr.d014_en_US_dedes.trLI.SeasonalKontakion.mode
 trLI.SeasonalKontakion.melody = tr.d014_en_US_dedes.trLI.SeasonalKontakion.melody
-trLI.SeasonalKontakion.text = tr.d014_en_US_dedes.trLI.SeasonalKontakion.text
+trLI.SeasonalKontakion.text = tr.d014_en_US_holycross.trLI.SeasonalKontakion.text
 
 trLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
