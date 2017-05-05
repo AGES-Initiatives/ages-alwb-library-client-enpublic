@@ -252,6 +252,8 @@ KanonTouArchangelou = titles_en_US_dedes.KanonTouArchangelou
 
 KanonTouEvangelistou = titles_en_US_dedes.KanonTouEvangelistou
 
+KanonTouIeromartyros = titles_en_US_dedes.KanonTouIeromartyros
+
 KanonTouMartyros = titles_en_US_dedes.KanonTouMartyros
 
 KanonTouOsiou = titles_en_US_dedes.KanonTouOsiou
@@ -280,7 +282,7 @@ KanonATouProfitou = titles_en_US_dedes.KanonATouProfitou
 
 KanonBTouProfitou = titles_en_US_dedes.KanonBTouProfitou
 
-KanonTouStavrou = ""
+KanonTouStavrou = titles_en_US_dedes.KanonTouStavrou
 
 KanonTouTriodiou = titles_en_US_dedes.KanonTouTriodiou
 
