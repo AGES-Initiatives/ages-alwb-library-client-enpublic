@@ -293,6 +293,12 @@ pePA.Ode9T2.mode = pe.d00P_en_US_dedes.pePA.Ode9T2.mode
 pePA.Ode9T2.melody = pe.d00P_en_US_dedes.pePA.Ode9T2.melody
 pePA.Ode9T2.text = pe.d00P_en_US_dedes.pePA.Ode9T2.text
 
+pePA.MM.Ode9HH1122asM1M2M3M4GMtrBMth.text = pe.d00P_en_US_dedes.pePA.MM.Ode9HH1122asM1M2M3M4GMtrBMth.text
+pePA.MM.Ode9HH12asM1M2M3M4.text = pe.d00P_en_US_dedes.pePA.MM.Ode9HH12asM1M2M3M4.text
+pePA.MM.Ode9.T1T2asThTh.text = pe.d00P_en_US_dedes.pePA.MM.Ode9.T1T2asThTh.text
+pePA.MM.Ode9.T1T2asGB.text = pe.d00P_en_US_dedes.pePA.MM.Ode9.T1T2asGB.text
+pePA.MM.Ode9.T1T2asGMtrBMth.text = pe.d00P_en_US_dedes.pePA.MM.Ode9.T1T2asGMtrBMth.text
+
 pePA.Ode9K.ode = pe.d00P_en_US_dedes.pePA.Ode9K.ode
 pePA.Ode9K.mode = pe.d00P_en_US_dedes.pePA.Ode9K.mode
 pePA.Ode9K.melody = pe.d00P_en_US_dedes.pePA.Ode9K.melody
