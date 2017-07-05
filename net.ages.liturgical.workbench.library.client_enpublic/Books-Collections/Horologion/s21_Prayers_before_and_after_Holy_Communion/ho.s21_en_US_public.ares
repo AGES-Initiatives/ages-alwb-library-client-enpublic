@@ -1,5 +1,146 @@
 A_Resource_Whose_Name = ho.s21_en_US_public 
 
+ho.title = ho.s21_en_US_dedes.ho.title
+ho.title2 = ho.s21_en_US_dedes.ho.title2
+
+hoCA.title = ho.s21_en_US_dedes.hoCA.title
+hoCA.poet = ho.s21_en_US_dedes.hoCA.poet
+
+hoCA.media.text = ho.s21_en_US_dedes.hoCA.media.text
+
+R01 = ho.s21_en_US_dedes.R01
+
+hoCA.Ode11.ode = ho.s21_en_US_dedes.hoCA.Ode11.ode
+hoCA.Ode11.mode = ho.s21_en_US_dedes.hoCA.Ode11.mode
+hoCA.Ode11.melody = ho.s21_en_US_dedes.hoCA.Ode11.melody
+hoCA.Ode11.text = ho.s21_en_US_dedes.hoCA.Ode11.text
+
+hoCA.Ode12.ode = ho.s21_en_US_dedes.hoCA.Ode12.ode
+hoCA.Ode12.mode = ho.s21_en_US_dedes.hoCA.Ode12.mode
+hoCA.Ode12.melody = ho.s21_en_US_dedes.hoCA.Ode12.melody
+hoCA.Ode12.text = ho.s21_en_US_dedes.hoCA.Ode12.text
+
+hoCA.Ode1T.ode = ho.s21_en_US_dedes.hoCA.Ode1T.ode
+hoCA.Ode1T.mode = ho.s21_en_US_dedes.hoCA.Ode1T.mode
+hoCA.Ode1T.melody = ho.s21_en_US_dedes.hoCA.Ode1T.melody
+hoCA.Ode1T.text = ho.s21_en_US_dedes.hoCA.Ode1T.text
+
+hoCA.Ode31.ode = ho.s21_en_US_dedes.hoCA.Ode31.ode
+hoCA.Ode31.mode = ho.s21_en_US_dedes.hoCA.Ode31.mode
+hoCA.Ode31.melody = ho.s21_en_US_dedes.hoCA.Ode31.melody
+hoCA.Ode31.text = ho.s21_en_US_dedes.hoCA.Ode31.text
+
+hoCA.Ode32.ode = ho.s21_en_US_dedes.hoCA.Ode32.ode
+hoCA.Ode32.mode = ho.s21_en_US_dedes.hoCA.Ode32.mode
+hoCA.Ode32.melody = ho.s21_en_US_dedes.hoCA.Ode32.melody
+hoCA.Ode32.text = ho.s21_en_US_dedes.hoCA.Ode32.text
+
+hoCA.Ode3T.ode = ho.s21_en_US_dedes.hoCA.Ode3T.ode
+hoCA.Ode3T.mode = ho.s21_en_US_dedes.hoCA.Ode3T.mode
+hoCA.Ode3T.melody = ho.s21_en_US_dedes.hoCA.Ode3T.melody
+hoCA.Ode3T.text = ho.s21_en_US_dedes.hoCA.Ode3T.text
+
+hoCA.Ode41.ode = ho.s21_en_US_dedes.hoCA.Ode41.ode
+hoCA.Ode41.mode = ho.s21_en_US_dedes.hoCA.Ode41.mode
+hoCA.Ode41.melody = ho.s21_en_US_dedes.hoCA.Ode41.melody
+hoCA.Ode41.text = ho.s21_en_US_dedes.hoCA.Ode41.text
+
+hoCA.Ode42.ode = ho.s21_en_US_dedes.hoCA.Ode42.ode
+hoCA.Ode42.mode = ho.s21_en_US_dedes.hoCA.Ode42.mode
+hoCA.Ode42.melody = ho.s21_en_US_dedes.hoCA.Ode42.melody
+hoCA.Ode42.text = ho.s21_en_US_dedes.hoCA.Ode42.text
+
+hoCA.Ode4T.ode = ho.s21_en_US_dedes.hoCA.Ode4T.ode
+hoCA.Ode4T.mode = ho.s21_en_US_dedes.hoCA.Ode4T.mode
+hoCA.Ode4T.melody = ho.s21_en_US_dedes.hoCA.Ode4T.melody
+hoCA.Ode4T.text = ho.s21_en_US_dedes.hoCA.Ode4T.text
+
+hoCA.Ode51.ode = ho.s21_en_US_dedes.hoCA.Ode51.ode
+hoCA.Ode51.mode = ho.s21_en_US_dedes.hoCA.Ode51.mode
+hoCA.Ode51.melody = ho.s21_en_US_dedes.hoCA.Ode51.melody
+hoCA.Ode51.text = ho.s21_en_US_dedes.hoCA.Ode51.text
+
+hoCA.Ode52.ode = ho.s21_en_US_dedes.hoCA.Ode52.ode
+hoCA.Ode52.mode = ho.s21_en_US_dedes.hoCA.Ode52.mode
+hoCA.Ode52.melody = ho.s21_en_US_dedes.hoCA.Ode52.melody
+hoCA.Ode52.text = ho.s21_en_US_dedes.hoCA.Ode52.text
+
+hoCA.Ode5T.ode = ho.s21_en_US_dedes.hoCA.Ode5T.ode
+hoCA.Ode5T.mode = ho.s21_en_US_dedes.hoCA.Ode5T.mode
+hoCA.Ode5T.melody = ho.s21_en_US_dedes.hoCA.Ode5T.melody
+hoCA.Ode5T.text = ho.s21_en_US_dedes.hoCA.Ode5T.text
+
+hoCA.Ode61.ode = ho.s21_en_US_dedes.hoCA.Ode61.ode
+hoCA.Ode61.mode = ho.s21_en_US_dedes.hoCA.Ode61.mode
+hoCA.Ode61.melody = ho.s21_en_US_dedes.hoCA.Ode61.melody
+hoCA.Ode61.text = ho.s21_en_US_dedes.hoCA.Ode61.text
+
+hoCA.Ode62.ode = ho.s21_en_US_dedes.hoCA.Ode62.ode
+hoCA.Ode62.mode = ho.s21_en_US_dedes.hoCA.Ode62.mode
+hoCA.Ode62.melody = ho.s21_en_US_dedes.hoCA.Ode62.melody
+hoCA.Ode62.text = ho.s21_en_US_dedes.hoCA.Ode62.text
+
+hoCA.Ode6T.ode = ho.s21_en_US_dedes.hoCA.Ode6T.ode
+hoCA.Ode6T.mode = ho.s21_en_US_dedes.hoCA.Ode6T.mode
+hoCA.Ode6T.melody = ho.s21_en_US_dedes.hoCA.Ode6T.melody
+hoCA.Ode6T.text = ho.s21_en_US_dedes.hoCA.Ode6T.text
+
+hoCA.Kontakion.mode = ho.s21_en_US_dedes.hoCA.Kontakion.mode
+hoCA.Kontakion.melody = ho.s21_en_US_dedes.hoCA.Kontakion.melody
+hoCA.Kontakion.text = ho.s21_en_US_dedes.hoCA.Kontakion.text
+
+hoCA.Ode71.ode = ho.s21_en_US_dedes.hoCA.Ode71.ode
+hoCA.Ode71.mode = ho.s21_en_US_dedes.hoCA.Ode71.mode
+hoCA.Ode71.melody = ho.s21_en_US_dedes.hoCA.Ode71.melody
+hoCA.Ode71.text = ho.s21_en_US_dedes.hoCA.Ode71.text
+
+hoCA.Ode72.ode = ho.s21_en_US_dedes.hoCA.Ode72.ode
+hoCA.Ode72.mode = ho.s21_en_US_dedes.hoCA.Ode72.mode
+hoCA.Ode72.melody = ho.s21_en_US_dedes.hoCA.Ode72.melody
+hoCA.Ode72.text = ho.s21_en_US_dedes.hoCA.Ode72.text
+
+hoCA.Ode7T.ode = ho.s21_en_US_dedes.hoCA.Ode7T.ode
+hoCA.Ode7T.mode = ho.s21_en_US_dedes.hoCA.Ode7T.mode
+hoCA.Ode7T.melody = ho.s21_en_US_dedes.hoCA.Ode7T.melody
+hoCA.Ode7T.text = ho.s21_en_US_dedes.hoCA.Ode7T.text
+
+hoCA.Ode81.ode = ho.s21_en_US_dedes.hoCA.Ode81.ode
+hoCA.Ode81.mode = ho.s21_en_US_dedes.hoCA.Ode81.mode
+hoCA.Ode81.melody = ho.s21_en_US_dedes.hoCA.Ode81.melody
+hoCA.Ode81.text = ho.s21_en_US_dedes.hoCA.Ode81.text
+
+hoCA.Ode82.ode = ho.s21_en_US_dedes.hoCA.Ode82.ode
+hoCA.Ode82.mode = ho.s21_en_US_dedes.hoCA.Ode82.mode
+hoCA.Ode82.melody = ho.s21_en_US_dedes.hoCA.Ode82.melody
+hoCA.Ode82.text = ho.s21_en_US_dedes.hoCA.Ode82.text
+
+hoCA.Ode8T.ode = ho.s21_en_US_dedes.hoCA.Ode8T.ode
+hoCA.Ode8T.mode = ho.s21_en_US_dedes.hoCA.Ode8T.mode
+hoCA.Ode8T.melody = ho.s21_en_US_dedes.hoCA.Ode8T.melody
+hoCA.Ode8T.text = ho.s21_en_US_dedes.hoCA.Ode8T.text
+
+hoCA.Ode91.ode = ho.s21_en_US_dedes.hoCA.Ode91.ode
+hoCA.Ode91.mode = ho.s21_en_US_dedes.hoCA.Ode91.mode
+hoCA.Ode91.melody = ho.s21_en_US_dedes.hoCA.Ode91.melody
+hoCA.Ode91.text = ho.s21_en_US_dedes.hoCA.Ode91.text
+
+hoCA.Ode92.ode = ho.s21_en_US_dedes.hoCA.Ode92.ode
+hoCA.Ode92.mode = ho.s21_en_US_dedes.hoCA.Ode92.mode
+hoCA.Ode92.melody = ho.s21_en_US_dedes.hoCA.Ode92.melody
+hoCA.Ode92.text = ho.s21_en_US_dedes.hoCA.Ode92.text
+
+hoCA.Ode93.ode = ho.s21_en_US_dedes.hoCA.Ode93.ode
+hoCA.Ode93.mode = ho.s21_en_US_dedes.hoCA.Ode93.mode
+hoCA.Ode93.melody = ho.s21_en_US_dedes.hoCA.Ode93.melody
+hoCA.Ode93.text = ho.s21_en_US_dedes.hoCA.Ode93.text
+
+hoCA.Ode9T.ode = ho.s21_en_US_dedes.hoCA.Ode9T.ode
+hoCA.Ode9T.mode = ho.s21_en_US_dedes.hoCA.Ode9T.mode
+hoCA.Ode9T.melody = ho.s21_en_US_dedes.hoCA.Ode9T.melody
+hoCA.Ode9T.text = ho.s21_en_US_dedes.hoCA.Ode9T.text
+
+R02 = ho.s21_en_US_dedes.R02
+
 hoPCPrayer.title = ho.s21_en_US_goa.hoPCPrayer.title
 
 hoPCPrayer.PistevoKyrie.text = ho.s21_en_US_goa.hoPCPrayer.PistevoKyrie.text
