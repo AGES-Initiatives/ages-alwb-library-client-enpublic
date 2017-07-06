@@ -1,33 +1,41 @@
 A_Resource_Whose_Name = he.a.m7_en_US_public
 
 KatafronisantesPanton.mode = he.a.m7_en_US_dedes.KatafronisantesPanton.mode
+KatafronisantesPanton.notmetered = he.a.m7_en_US_dedes.KatafronisantesPanton.notmetered
 KatafronisantesPanton.name = he.a.m7_en_US_dedes.KatafronisantesPanton.name
 KatafronisantesPanton.text = he.a.m7_en_US_dedes.KatafronisantesPanton.text
 
 ODiEmeAnaschomenos.mode = he.a.m7_en_US_dedes.ODiEmeAnaschomenos.mode
+ODiEmeAnaschomenos.notmetered = he.a.m7_en_US_dedes.ODiEmeAnaschomenos.notmetered
 ODiEmeAnaschomenos.name = he.a.m7_en_US_dedes.ODiEmeAnaschomenos.name
 ODiEmeAnaschomenos.text = he.a.m7_en_US_dedes.ODiEmeAnaschomenos.text
 
 OsEchousaToSympathes.mode = he.a.m7_en_US_dedes.OsEchousaToSympathes.mode
+OsEchousaToSympathes.notmetered = he.a.m7_en_US_dedes.OsEchousaToSympathes.notmetered
 OsEchousaToSympathes.name = he.a.m7_en_US_dedes.OsEchousaToSympathes.name
 OsEchousaToSympathes.text = he.a.m7_en_US_dedes.OsEchousaToSympathes.text
 
 OuketiFloginiRomfaia.mode = he.a.m7_en_US_dedes.OuketiFloginiRomfaia.mode
+OuketiFloginiRomfaia.notmetered = he.a.m7_en_US_dedes.OuketiFloginiRomfaia.notmetered
 OuketiFloginiRomfaia.name = he.a.m7_en_US_dedes.OuketiFloginiRomfaia.name
 OuketiFloginiRomfaia.text = he.a.m7_en_US_dedes.OuketiFloginiRomfaia.text
 
 OukEtiKolyometha.mode = he.a.m7_en_US_dedes.OukEtiKolyometha.mode
+OukEtiKolyometha.notmetered = he.a.m7_en_US_dedes.OukEtiKolyometha.notmetered
 OukEtiKolyometha.name = he.a.m7_en_US_dedes.OukEtiKolyometha.name
 OukEtiKolyometha.text = he.a.m7_en_US_dedes.OukEtiKolyometha.text
 
 PyrosFoteinoteron.mode = he.a.m7_en_US_dedes.PyrosFoteinoteron.mode
+PyrosFoteinoteron.notmetered = he.a.m7_en_US_dedes.PyrosFoteinoteron.notmetered
 PyrosFoteinoteron.name = he.a.m7_en_US_dedes.PyrosFoteinoteron.name
 PyrosFoteinoteron.text = he.a.m7_en_US_dedes.PyrosFoteinoteron.text
 
 SimeronGrigoreiOIoudas.mode = he.a.m7_en_US_dedes.SimeronGrigoreiOIoudas.mode
+SimeronGrigoreiOIoudas.notmetered = he.a.m7_en_US_dedes.SimeronGrigoreiOIoudas.notmetered
 SimeronGrigoreiOIoudas.name = he.a.m7_en_US_dedes.SimeronGrigoreiOIoudas.name
 SimeronGrigoreiOIoudas.text = he.a.m7_en_US_dedes.SimeronGrigoreiOIoudas.text
 
 XylonZois.mode = he.a.m7_en_US_dedes.XylonZois.mode
+XylonZois.notmetered = he.a.m7_en_US_dedes.XylonZois.notmetered
 XylonZois.name = he.a.m7_en_US_dedes.XylonZois.name
 XylonZois.text = he.a.m7_en_US_dedes.XylonZois.text
