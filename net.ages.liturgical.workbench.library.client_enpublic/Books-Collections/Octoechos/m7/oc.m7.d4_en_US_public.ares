@@ -504,13 +504,13 @@ ocLI.Beatitudes4.mode = oc.m7.d4_en_US_dedes.ocLI.Beatitudes4.mode
 ocLI.Beatitudes4.melody = oc.m7.d4_en_US_dedes.ocLI.Beatitudes4.melody
 ocLI.Beatitudes4.text = oc.m7.d4_en_US_dedes.ocLI.Beatitudes4.text
 
-ocLI.BeatitudesGlory.mode = oc.m7.d4_en_US_dedes.ocLI.BeatitudesGlory.mode
-ocLI.BeatitudesGlory.melody = oc.m7.d4_en_US_dedes.ocLI.BeatitudesGlory.melody
-ocLI.BeatitudesGlory.text = oc.m7.d4_en_US_dedes.ocLI.BeatitudesGlory.text
+ocLI.BeatitudesTr.mode = oc.m7.d4_en_US_dedes.ocLI.BeatitudesTr.mode
+ocLI.BeatitudesTr.melody = oc.m7.d4_en_US_dedes.ocLI.BeatitudesTr.melody
+ocLI.BeatitudesTr.text = oc.m7.d4_en_US_dedes.ocLI.BeatitudesTr.text
 
-ocLI.BeatitudesBoth.mode = oc.m7.d4_en_US_dedes.ocLI.BeatitudesBoth.mode
-ocLI.BeatitudesBoth.melody = oc.m7.d4_en_US_dedes.ocLI.BeatitudesBoth.melody
-ocLI.BeatitudesBoth.text = oc.m7.d4_en_US_dedes.ocLI.BeatitudesBoth.text
+ocLI.BeatitudesT.mode = oc.m7.d4_en_US_dedes.ocLI.BeatitudesT.mode
+ocLI.BeatitudesT.melody = oc.m7.d4_en_US_dedes.ocLI.BeatitudesT.melody
+ocLI.BeatitudesT.text = oc.m7.d4_en_US_dedes.ocLI.BeatitudesT.text
 
 //Octoechos in Triodion
 
