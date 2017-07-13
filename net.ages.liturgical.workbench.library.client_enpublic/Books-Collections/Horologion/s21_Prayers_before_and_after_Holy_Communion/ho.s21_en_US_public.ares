@@ -151,7 +151,8 @@ hoPCPrayer.Key004.title = ho.s21_en_US_dedes.hoPCPrayer.Key004.title
 hoPCPrayer.Key004.text = ho.s21_en_US_dedes.hoPCPrayer.Key004.text
 
 hoPCPrayer.Key005.title = ho.s21_en_US_goa.hoPCPrayer.Key005.title
-hoPCPrayer.Key005_1.title = ho.s21_en_US_goa.hoPCPrayer.Key005_1.title
+hoPCPrayer.Key005.title2 = ho.s21_en_US_goa.hoPCPrayer.Key005.title2
+hoPCPrayer.Key005.poet = ho.s21_en_US_goa.hoPCPrayer.Key005.poet
 hoPCPrayer.Key005_1.text = ho.s21_en_US_goa.hoPCPrayer.Key005_1.text
 hoPCPrayer.Key005_2.text = ho.s21_en_US_goa.hoPCPrayer.Key005_2.text
 hoPCPrayer.Key005_3.text = ho.s21_en_US_goa.hoPCPrayer.Key005_3.text
@@ -356,3 +357,58 @@ hoPCPrayer.Key151.text = ho.s21_en_US_goa.hoPCPrayer.Key151.text
 hoPCPrayer.Key161.title = ho.s21_en_US_goa.hoPCPrayer.Key161.title
 hoPCPrayer.Key161.text = ho.s21_en_US_goa.hoPCPrayer.Key161.text
 
+hoPCPrayer.Key200.title = ho.s21_en_US_goa.hoPCPrayer.Key200.title
+hoPCPrayer.Key200.title2 = ho.s21_en_US_goa.hoPCPrayer.Key200.title2
+
+hoPCPrayer.Key201.title = ho.s21_en_US_goa.hoPCPrayer.Key201.title
+hoPCPrayer.Key201_1.text = ho.s21_en_US_goa.hoPCPrayer.Key201_1.text
+hoPCPrayer.Key201_2.text = ho.s21_en_US_goa.hoPCPrayer.Key201_2.text
+hoPCPrayer.Key201_3.text = ho.s21_en_US_goa.hoPCPrayer.Key201_3.text
+hoPCPrayer.Key201_4.text = ho.s21_en_US_goa.hoPCPrayer.Key201_4.text
+hoPCPrayer.Key201_5.text = ho.s21_en_US_goa.hoPCPrayer.Key201_5.text
+
+R04 = ho.s21_en_US_goa.R04
+
+hoPCPrayer.Key202.title = ho.s21_en_US_goa.hoPCPrayer.Key202.title
+hoPCPrayer.Key202.text = ho.s21_en_US_goa.hoPCPrayer.Key202.text
+
+hoPCPrayer.Key203.title = ho.s21_en_US_goa.hoPCPrayer.Key203.title
+hoPCPrayer.Key203.text = ho.s21_en_US_goa.hoPCPrayer.Key203.text
+
+hoPCPrayer.Key204.title = ho.s21_en_US_goa.hoPCPrayer.Key204.title
+hoPCPrayer.Key204.text = ho.s21_en_US_goa.hoPCPrayer.Key204.text
+hoPCPrayer.Key204_001.text = ho.s21_en_US_goa.hoPCPrayer.Key204_001.text
+hoPCPrayer.Key204_002.text = ho.s21_en_US_goa.hoPCPrayer.Key204_002.text
+hoPCPrayer.Key204_003.text = ho.s21_en_US_goa.hoPCPrayer.Key204_003.text
+hoPCPrayer.Key204_004.text = ho.s21_en_US_goa.hoPCPrayer.Key204_004.text
+hoPCPrayer.Key204_005.text = ho.s21_en_US_goa.hoPCPrayer.Key204_005.text
+hoPCPrayer.Key204_006.text = ho.s21_en_US_goa.hoPCPrayer.Key204_006.text
+hoPCPrayer.Key204_007.text = ho.s21_en_US_goa.hoPCPrayer.Key204_007.text
+hoPCPrayer.Key204_008.text = ho.s21_en_US_goa.hoPCPrayer.Key204_008.text
+hoPCPrayer.Key204_009.text = ho.s21_en_US_goa.hoPCPrayer.Key204_009.text
+hoPCPrayer.Key204_010.text = ho.s21_en_US_goa.hoPCPrayer.Key204_010.text
+hoPCPrayer.Key204_011.text = ho.s21_en_US_goa.hoPCPrayer.Key204_011.text
+hoPCPrayer.Key204_012.text = ho.s21_en_US_goa.hoPCPrayer.Key204_012.text
+hoPCPrayer.Key204_013.text = ho.s21_en_US_goa.hoPCPrayer.Key204_013.text
+hoPCPrayer.Key204_014.text = ho.s21_en_US_goa.hoPCPrayer.Key204_014.text
+hoPCPrayer.Key204_015.text = ho.s21_en_US_goa.hoPCPrayer.Key204_015.text
+hoPCPrayer.Key204_016.text = ho.s21_en_US_goa.hoPCPrayer.Key204_016.text
+hoPCPrayer.Key204_017.text = ho.s21_en_US_goa.hoPCPrayer.Key204_017.text
+hoPCPrayer.Key204_018.text = ho.s21_en_US_goa.hoPCPrayer.Key204_018.text
+hoPCPrayer.Key204_019.text = ho.s21_en_US_goa.hoPCPrayer.Key204_019.text
+hoPCPrayer.Key204_020.text = ho.s21_en_US_goa.hoPCPrayer.Key204_020.text
+hoPCPrayer.Key204_021.text = ho.s21_en_US_goa.hoPCPrayer.Key204_021.text
+hoPCPrayer.Key204_022.text = ho.s21_en_US_goa.hoPCPrayer.Key204_022.text
+hoPCPrayer.Key204_023.text = ho.s21_en_US_goa.hoPCPrayer.Key204_023.text
+hoPCPrayer.Key204_024.text = ho.s21_en_US_goa.hoPCPrayer.Key204_024.text
+hoPCPrayer.Key204_025.text = ho.s21_en_US_goa.hoPCPrayer.Key204_025.text
+hoPCPrayer.Key204_026.text = ho.s21_en_US_goa.hoPCPrayer.Key204_026.text
+hoPCPrayer.Key204_027.text = ho.s21_en_US_goa.hoPCPrayer.Key204_027.text
+hoPCPrayer.Key204_028.text = ho.s21_en_US_goa.hoPCPrayer.Key204_028.text
+
+hoPCPrayer.Key205.title = ho.s21_en_US_goa.hoPCPrayer.Key205.title
+hoPCPrayer.Key205.text = ho.s21_en_US_goa.hoPCPrayer.Key205.text
+
+hoPCPrayer.Key206.title = ho.s21_en_US_goa.hoPCPrayer.Key206.title
+hoPCPrayer.Key206.title2 = ho.s21_en_US_goa.hoPCPrayer.Key206.title2
+hoPCPrayer.Key206.text = ho.s21_en_US_goa.hoPCPrayer.Key206.text
