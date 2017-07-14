@@ -73,6 +73,7 @@ meVE.AposStavrotheotokion.text = me.m10.d01_en_US_dedes.meVE.AposStavrotheotokio
 meVE.Apolytikion1.mode = me.m10.d01_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m10.d01_en_US_dedes.meVE.Apolytikion1.melody
 meVE.GeneralApolytikion1.name = me.m10.d01_en_US_dedes.meVE.GeneralApolytikion1.name
+meVE.MM.GeneralApolytikion1.text = me.m10.d01_en_US_dedes.meVE.MM.GeneralApolytikion1.text
 
 meVE.Apolytikion2.poet = me.m10.d01_en_US_dedes.meVE.Apolytikion2.poet
 meVE.Apolytikion2.mode = me.m10.d01_en_US_dedes.meVE.Apolytikion2.mode
@@ -82,6 +83,7 @@ meVE.Apolytikion2.text = me.m10.d01_en_US_dedes.meVE.Apolytikion2.text
 meVE.Apolytikion3.mode = me.m10.d01_en_US_dedes.meVE.Apolytikion3.mode
 meVE.Apolytikion3.melody = me.m10.d01_en_US_dedes.meVE.Apolytikion3.melody
 meVE.GeneralApolytikion3.name = me.m10.d01_en_US_dedes.meVE.GeneralApolytikion3.name
+meVE.MM.GeneralApolytikion3.text = me.m10.d01_en_US_dedes.meVE.MM.GeneralApolytikion3.text
 
 meMA.C1Poet = me.m10.d01_en_US_dedes.meMA.C1Poet
 meMA.C1Acrostic.text = me.m10.d01_en_US_dedes.meMA.C1Acrostic.text
