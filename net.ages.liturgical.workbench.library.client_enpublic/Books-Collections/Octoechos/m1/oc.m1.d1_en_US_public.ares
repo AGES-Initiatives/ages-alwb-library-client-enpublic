@@ -808,5 +808,9 @@ ocLI.BeatitudesT.mode = oc.m1.d1_en_US_dedes.ocLI.BeatitudesT.mode
 ocLI.BeatitudesT.melody = oc.m1.d1_en_US_dedes.ocLI.BeatitudesT.melody
 ocLI.BeatitudesT.text = oc.m1.d1_en_US_dedes.ocLI.BeatitudesT.text
 
+ocLI.MM.Beatitudes123Tas1234.text = oc.m1.d1_en_US_dedes.ocLI.MM.Beatitudes123Tas1234.text
+ocLI.MM.Beatitudes123Tas5678.text = oc.m1.d1_en_US_dedes.ocLI.MM.Beatitudes123Tas5678.text
+ocLI.MM.Beatitudes123456TrTas5678910GB.text = oc.m1.d1_en_US_dedes.ocLI.MM.Beatitudes123456TrTas5678910GB.text
+
 ocLI.Alleuia.text = oc.m1.d1_en_US_dedes.ocLI.Alleuia.text
 
