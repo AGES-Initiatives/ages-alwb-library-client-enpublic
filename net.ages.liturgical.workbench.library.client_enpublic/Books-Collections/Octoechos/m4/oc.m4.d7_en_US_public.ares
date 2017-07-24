@@ -564,6 +564,8 @@ ocLI.BeatitudesT.mode = oc.m4.d7_en_US_dedes.ocLI.BeatitudesT.mode
 ocLI.BeatitudesT.melody = oc.m4.d7_en_US_dedes.ocLI.BeatitudesT.melody
 ocLI.BeatitudesT.text = oc.m4.d7_en_US_dedes.ocLI.BeatitudesT.text
 
+ocLI.MM.Beatitudes1234TrTas78910GB.text = oc.m4.d7_en_US_dedes.ocLI.MM.Beatitudes1234TrTas78910GB.text
+
 //Octoechos in Triodion
 
 octrVE.Stichera1.mode = oc.m4.d7_en_US_dedes.octrVE.Stichera1.mode
