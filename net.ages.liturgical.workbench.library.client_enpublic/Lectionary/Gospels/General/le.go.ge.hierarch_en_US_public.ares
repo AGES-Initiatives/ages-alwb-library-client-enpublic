@@ -5,9 +5,18 @@ legeMA.Gospel.version = le.go.ge.hierarch_en_US_rsv.legeMA.Gospel.version
 legeMA.Gospel.book = le.go.ge.hierarch_en_US_rsv.legeMA.Gospel.book
 legeMA.Gospel.chapverse = le.go.ge.hierarch_en_US_rsv.legeMA.Gospel.chapverse
 legeMA.Gospel.text = le.go.ge.hierarch_en_US_rsv.legeMA.Gospel.text
+legeMA.Gospel.pagenumber = le.go.ge.hierarch_en_US_rsv.legeMA.Gospel.pagenumber
 
 legeLI.Gospel.title = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel.title
 legeLI.Gospel.version = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel.version
 legeLI.Gospel.book = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel.book
 legeLI.Gospel.chapverse = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel.chapverse
 legeLI.Gospel.text = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel.text
+legeLI.Gospel.pagenumber = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel.pagenumber
+
+legeLI.Gospel2.title = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel2.title
+legeLI.Gospel2.version = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel2.version
+legeLI.Gospel2.book = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel2.book
+legeLI.Gospel2.chapverse = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel2.chapverse
+legeLI.Gospel2.text = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel2.text
+legeLI.Gospel2.pagenumber = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel2.pagenumber
