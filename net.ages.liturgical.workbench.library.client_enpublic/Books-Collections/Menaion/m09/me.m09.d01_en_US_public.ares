@@ -514,6 +514,13 @@ meMA.Kontakion2.text = me.m09.d01_en_US_dedes.meMA.Kontakion2.text
 
 meMA.Oikos2.text = me.m09.d01_en_US_dedes.meMA.Oikos2.text
 
+meMA.Kontakion3.poet = me.m09.d01_en_US_dedes.meMA.Kontakion3.poet
+meMA.Kontakion3.mode = me.m09.d01_en_US_dedes.meMA.Kontakion3.mode
+meMA.Kontakion3.melody = me.m09.d01_en_US_dedes.meMA.Kontakion3.melody
+meMA.Kontakion3.text = me.m09.d01_en_US_dedes.meMA.Kontakion3.text
+
+meMA.Oikos3.text = me.m09.d01_en_US_dedes.meMA.Oikos3.text
+
 meMA.Synaxarion.text = me.m09.d01_en_US_dedes.meMA.Synaxarion.text
 
 meMA.Ode7C1H.ode = me.m09.d01_en_US_dedes.meMA.Ode7C1H.ode
@@ -763,9 +770,17 @@ meLI.Antiphon2.text = me.m09.d01_en_US_dedes.meLI.Antiphon2.text
 
 meLI.MM.EntranceHymn.text = properties_en_US_public.media.key
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m09.d01_en_US_dedes.meLI.Kontakion1.mode
+meLI.Kontakion1.melody = me.m09.d01_en_US_dedes.meLI.Kontakion1.melody
+meLI.Kontakion1.text = me.m09.d01_en_US_dedes.meLI.Kontakion1.text
+
+meLI.Kontakion2.mode = me.m09.d01_en_US_dedes.meLI.Kontakion2.mode
+meLI.Kontakion2.melody = me.m09.d01_en_US_dedes.meLI.Kontakion2.melody
+meLI.Kontakion2.text = me.m09.d01_en_US_dedes.meLI.Kontakion2.text
+
+meLI.Kontakion3.mode = me.m09.d01_en_US_dedes.meLI.Kontakion3.mode
+meLI.Kontakion3.melody = me.m09.d01_en_US_dedes.meLI.Kontakion3.melody
+meLI.Kontakion3.text = me.m09.d01_en_US_dedes.meLI.Kontakion3.text
 
 meLI.SeasonalKontakion.mode = me.m09.d01_en_US_dedes.meLI.SeasonalKontakion.mode
 meLI.SeasonalKontakion.melody = me.m09.d01_en_US_dedes.meLI.SeasonalKontakion.melody

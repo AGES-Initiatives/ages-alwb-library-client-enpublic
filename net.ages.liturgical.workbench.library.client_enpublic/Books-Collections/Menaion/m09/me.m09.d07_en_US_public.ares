@@ -475,9 +475,9 @@ meMA.AposGlory.mode = me.m09.d07_en_US_dedes.meMA.AposGlory.mode
 meMA.AposGlory.melody = me.m09.d07_en_US_dedes.meMA.AposGlory.melody
 meMA.AposGlory.text = me.m09.d07_en_US_dedes.meMA.AposGlory.text
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m09.d07_en_UK_lash.meLI.Kontakion1.mode
+meLI.Kontakion1.melody = me.m09.d07_en_UK_lash.meLI.Kontakion1.melody
+meLI.Kontakion1.text = me.m09.d07_en_UK_lash.meLI.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = me.m09.d07_en_US_dedes.meLI.SeasonalKontakion.mode
 meLI.SeasonalKontakion.melody = me.m09.d07_en_UK_lash.meLI.SeasonalKontakion.melody
