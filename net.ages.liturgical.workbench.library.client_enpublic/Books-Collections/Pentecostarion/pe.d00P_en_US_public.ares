@@ -338,10 +338,6 @@ pePA.Antiphon2.text = pe.d00P_en_US_goa.pePA.Antiphon2.text
 
 pePA.EntranceHymn.text = pe.d00P_en_US_dedes.pePA.EntranceHymn.text
 
-pePA.SeasonalKontakion.mode = pe.d00P_en_US_dedes.pePA.SeasonalKontakion.mode
-pePA.SeasonalKontakion.melody = pe.d00P_en_US_dedes.pePA.SeasonalKontakion.melody
-pePA.SeasonalKontakion.text = pe.d00P_en_US_dedes.pePA.SeasonalKontakion.text
-
 pePA.TheotokosHymn.mode = pe.d00P_en_US_dedes.pePA.TheotokosHymn.mode
 pePA.TheotokosHymnVerse.text = pe.d00P_en_US_dedes.pePA.TheotokosHymnVerse.text
 pePA.TheotokosHymn.text = pe.d00P_en_US_dedes.pePA.TheotokosHymn.text

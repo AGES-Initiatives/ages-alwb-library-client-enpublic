@@ -421,10 +421,6 @@ meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
-meLI.SeasonalKontakion.mode = me.m02.d06_en_US_dedes.meLI.SeasonalKontakion.mode
-meLI.SeasonalKontakion.melody = me.m02.d06_en_US_dedes.meLI.SeasonalKontakion.melody
-meLI.SeasonalKontakion.text = me.m02.d06_en_US_dedes.meLI.SeasonalKontakion.text
-
 meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
 meMegalynarion.text = me.m02.d06_en_US_dedes.meMegalynarion.text
@@ -770,10 +766,6 @@ alt1.meLI.Kontakion1.mode = ""
 alt1.meLI.Kontakion1.melody = ""
 alt1.meLI.Kontakion1.text = ""
 
-alt1.meLI.SeasonalKontakion.mode = me.m02.d06_en_US_dedes.alt1.meLI.SeasonalKontakion.mode
-alt1.meLI.SeasonalKontakion.melody = me.m02.d06_en_US_dedes.alt1.meLI.SeasonalKontakion.melody
-alt1.meLI.SeasonalKontakion.text = me.m02.d06_en_US_dedes.alt1.meLI.SeasonalKontakion.text
-
 alt1.meMegalynarion.text = me.m02.d06_en_US_dedes.alt1.meMegalynarion.text
 
 //These extra hymns are found in the back of the Feb. Menaion
@@ -793,7 +785,6 @@ alt1.meMA.Ode3KathismaT.text = me.m02.d06_en_US_dedes.alt1.meMA.Ode3KathismaT.te
 alt1.meMA.Ode3KathismaSt.mode = me.m02.d06_en_US_dedes.alt1.meMA.Ode3KathismaSt.mode
 alt1.meMA.Ode3KathismaSt.melody = me.m02.d06_en_US_dedes.alt1.meMA.Ode3KathismaSt.melody
 alt1.meMA.Ode3KathismaSt.text = me.m02.d06_en_US_dedes.alt1.meMA.Ode3KathismaSt.text
-
 
 alt2.meDate.text = me.m02.d06_en_US_dedes.alt2.meDate.text
 alt2.meCommemoration.text = me.m02.d06_en_US_dedes.alt2.meCommemoration.text
@@ -1197,10 +1188,6 @@ alt2.meLI.MM.EntranceHymn.text = me.m02.d06_en_US_dedes.alt2.meLI.MM.EntranceHym
 alt2.meLI.Kontakion1.mode = me.m02.d06_en_US_dedes.alt2.meLI.Kontakion1.mode
 alt2.meLI.Kontakion1.melody = me.m02.d06_en_US_dedes.alt2.meLI.Kontakion1.melody
 alt2.meLI.Kontakion1.text = me.m02.d06_en_US_dedes.alt2.meLI.Kontakion1.text
-
-alt2.meLI.SeasonalKontakion.mode = me.m02.d06_en_US_dedes.alt2.meLI.SeasonalKontakion.mode
-alt2.meLI.SeasonalKontakion.melody = me.m02.d06_en_US_dedes.alt2.meLI.SeasonalKontakion.melody
-alt2.meLI.SeasonalKontakion.text = me.m02.d06_en_US_dedes.alt2.meLI.SeasonalKontakion.text
 
 alt2.meLI.MM.CommunionHymn.text = me.m02.d06_en_US_dedes.alt2.meLI.MM.CommunionHymn.text
 

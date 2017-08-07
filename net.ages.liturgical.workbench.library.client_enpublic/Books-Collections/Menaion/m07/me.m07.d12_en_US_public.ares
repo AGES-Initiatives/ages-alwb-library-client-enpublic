@@ -878,10 +878,6 @@ alt1.meLI.Kontakion1.mode = ""
 alt1.meLI.Kontakion1.melody = ""
 alt1.meLI.Kontakion1.text = ""
 
-alt1.meLI.SeasonalKontakion.mode = me.m07.d12_en_US_dedes.alt1.meLI.SeasonalKontakion.mode
-alt1.meLI.SeasonalKontakion.melody = me.m07.d12_en_US_dedes.alt1.meLI.SeasonalKontakion.melody
-alt1.meLI.SeasonalKontakion.text = me.m07.d12_en_US_dedes.alt1.meLI.SeasonalKontakion.text
-
 alt1.meMegalynarion.text = me.m07.d12_en_US_dedes.alt1.meMegalynarion.text
 
 // -------------

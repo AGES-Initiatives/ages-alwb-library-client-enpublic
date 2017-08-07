@@ -298,9 +298,8 @@ trMA.LaudsTheotokion.mode = tr.d022_en_US_dedes.trMA.LaudsTheotokion.mode
 trMA.LaudsTheotokion.melody = tr.d022_en_US_dedes.trMA.LaudsTheotokion.melody
 trMA.LaudsTheotokion.text = tr.d022_en_US_dedes.trMA.LaudsTheotokion.text
 
-trLI.SeasonalKontakion.mode = tr.d022_en_US_dedes.trLI.SeasonalKontakion.mode
-trLI.SeasonalKontakion.melody = tr.d022_en_US_dedes.trLI.SeasonalKontakion.melody
-trLI.SeasonalKontakion.text = tr.d022_en_US_dedes.trLI.SeasonalKontakion.text
+trLI.Kontakion1.mode = tr.d022_en_US_dedes.trLI.Kontakion1.mode
+trLI.Kontakion1.melody = tr.d022_en_US_dedes.trLI.Kontakion1.melody
+trLI.Kontakion1.text = tr.d022_en_US_dedes.trLI.Kontakion1.text
 
 trMegalynarion.text = tr.d022_en_US_dedes.trMegalynarion.text
-

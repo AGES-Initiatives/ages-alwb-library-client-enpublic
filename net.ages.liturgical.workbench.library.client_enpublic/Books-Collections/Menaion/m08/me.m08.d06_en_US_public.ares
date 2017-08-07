@@ -518,10 +518,6 @@ meLI.Kontakion1.mode = me.m08.d06_en_US_dedes.meLI.Kontakion1.mode
 meLI.Kontakion1.melody = me.m08.d06_en_US_dedes.meLI.Kontakion1.melody
 meLI.Kontakion1.text = me.m08.d06_en_US_dedes.meLI.Kontakion1.text
 
-meLI.SeasonalKontakion.mode = me.m08.d06_en_US_dedes.meLI.SeasonalKontakion.mode
-meLI.SeasonalKontakion.melody = me.m08.d06_en_US_dedes.meLI.SeasonalKontakion.melody
-meLI.SeasonalKontakion.text = me.m08.d06_en_US_dedes.meLI.SeasonalKontakion.text
-
 meLI.TheotokosHymn.mode = me.m08.d06_en_US_dedes.meLI.TheotokosHymn.mode
 meLI.TheotokosHymn.text = me.m08.d06_en_US_dedes.meLI.TheotokosHymn.text
 

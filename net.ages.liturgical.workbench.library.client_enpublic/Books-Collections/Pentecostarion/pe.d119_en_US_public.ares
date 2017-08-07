@@ -341,10 +341,6 @@ peMA.AposTheotokion.mode = pe.d119_en_US_dedes.peMA.AposTheotokion.mode
 peMA.AposTheotokion.melody = pe.d119_en_US_dedes.peMA.AposTheotokion.melody
 peMA.AposTheotokion.text = pe.d119_en_US_dedes.peMA.AposTheotokion.text
 
-peLI.SeasonalKontakion.mode = pe.d119_en_US_dedes.peLI.SeasonalKontakion.mode
-peLI.SeasonalKontakion.melody = pe.d119_en_US_dedes.peLI.SeasonalKontakion.melody
-peLI.SeasonalKontakion.text = pe.d119_en_US_dedes.peLI.SeasonalKontakion.text
-
 peLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
 peMegalynarion.text = pe.d119_en_US_dedes.peMegalynarion.text

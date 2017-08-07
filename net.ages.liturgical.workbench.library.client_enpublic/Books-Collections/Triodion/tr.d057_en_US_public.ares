@@ -432,9 +432,5 @@ trMA.LaudsGlory.mode = tr.d057_en_US_dedes.trMA.LaudsGlory.mode
 trMA.LaudsGlory.melody = tr.d057_en_US_dedes.trMA.LaudsGlory.melody
 trMA.LaudsGlory.text = tr.d057_en_US_dedes.trMA.LaudsGlory.text
 
-trLI.SeasonalKontakion.mode = tr.d057_en_US_dedes.trLI.SeasonalKontakion.mode
-trLI.SeasonalKontakion.melody = tr.d057_en_US_dedes.trLI.SeasonalKontakion.melody
-trLI.SeasonalKontakion.text = tr.d057_en_US_dedes.trLI.SeasonalKontakion.text
-
 trMegalynarion.text = tr.d057_en_US_dedes.trMegalynarion.text
 

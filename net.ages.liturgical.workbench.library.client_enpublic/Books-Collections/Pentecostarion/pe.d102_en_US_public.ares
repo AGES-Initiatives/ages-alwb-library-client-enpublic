@@ -610,10 +610,6 @@ peMA.LaudsGlory.mode = pe.d095_en_US_public.peMA.LaudsGlory.mode
 peMA.LaudsGlory.melody = pe.d095_en_US_public.peMA.LaudsGlory.melody
 peMA.LaudsGlory.text = pe.d095_en_US_public.peMA.LaudsGlory.text
 
-peLI.SeasonalKontakion.mode = pe.d095_en_US_public.peLI.SeasonalKontakion.mode
-peLI.SeasonalKontakion.melody = pe.d095_en_US_public.peLI.SeasonalKontakion.melody
-peLI.SeasonalKontakion.text = pe.d095_en_US_public.peLI.SeasonalKontakion.text
-
 peLI.TheotokosHymn.mode = pe.d095_en_US_public.peLI.TheotokosHymn.mode
 peLI.TheotokosHymn.text = pe.d095_en_US_public.peLI.TheotokosHymn.text
 

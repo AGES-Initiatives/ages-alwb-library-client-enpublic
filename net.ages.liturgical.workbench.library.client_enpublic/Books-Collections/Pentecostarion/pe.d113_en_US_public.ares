@@ -307,10 +307,6 @@ peMA.LaudsGlory.text = pe.d113_en_US_dedes.peMA.LaudsGlory.text
 
 peLI.Antiphon2.text = pe.d113_en_US_dedes.peLI.Antiphon2.text
 
-peLI.SeasonalKontakion.mode = pe.d113_en_US_dedes.peLI.SeasonalKontakion.mode
-peLI.SeasonalKontakion.melody = pe.d113_en_US_dedes.peLI.SeasonalKontakion.melody
-peLI.SeasonalKontakion.text = pe.d113_en_US_dedes.peLI.SeasonalKontakion.text
-
 peLI.AfterCommunion.mode = pe.d113_en_US_dedes.peLI.AfterCommunion.mode
 peLI.AfterCommunion.text = pe.d113_en_US_dedes.peLI.AfterCommunion.text
 

@@ -270,10 +270,6 @@ trMA.Exaposteilarion1.mode = tr.d035_en_US_dedes.trMA.Exaposteilarion1.mode
 trMA.Exaposteilarion1.melody = tr.d035_en_US_dedes.trMA.Exaposteilarion1.melody
 trMA.Exaposteilarion1.text = tr.d035_en_US_dedes.trMA.Exaposteilarion1.text
 
-trLI.SeasonalKontakion.mode = tr.d035_en_US_dedes.trLI.SeasonalKontakion.mode
-trLI.SeasonalKontakion.melody = tr.d035_en_US_dedes.trLI.SeasonalKontakion.melody
-trLI.SeasonalKontakion.text = tr.d035_en_US_dedes.trLI.SeasonalKontakion.text
-
 trLI.Epistle.book = tr.d035_en_US_dedes.trLI.Epistle.book
 trLI.Epistle.chapverse = tr.d035_en_US_dedes.trLI.Epistle.chapverse
 trLI.Epistle.text = tr.d035_en_US_dedes.trLI.Epistle.text

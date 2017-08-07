@@ -270,8 +270,4 @@ trMA.Exaposteilarion1.mode = tr.d049_en_US_dedes.trMA.Exaposteilarion1.mode
 trMA.Exaposteilarion1.melody = tr.d049_en_US_dedes.trMA.Exaposteilarion1.melody
 trMA.Exaposteilarion1.text = tr.d049_en_US_dedes.trMA.Exaposteilarion1.text
 
-trLI.SeasonalKontakion.mode = tr.d049_en_US_dedes.trLI.SeasonalKontakion.mode
-trLI.SeasonalKontakion.melody = tr.d049_en_US_dedes.trLI.SeasonalKontakion.melody
-trLI.SeasonalKontakion.text = tr.d049_en_US_dedes.trLI.SeasonalKontakion.text
-
 trLI.MM.CommunionHymn.text = properties_en_US_public.media.key

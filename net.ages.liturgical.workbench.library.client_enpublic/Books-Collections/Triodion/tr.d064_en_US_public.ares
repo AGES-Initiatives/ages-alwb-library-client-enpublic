@@ -352,9 +352,10 @@ trMA.LaudsGlory.text = tr.d064_en_US_dedes.trMA.LaudsGlory.text
 trLI.Antiphon2.text = tr.d064_en_US_dedes.trLI.Antiphon2.text
 
 trLI.MM.EntranceHymn.text = properties_en_US_public.media.key
-trLI.SeasonalKontakion.mode = tr.d064_en_US_dedes.trLI.SeasonalKontakion.mode
-trLI.SeasonalKontakion.melody = tr.d064_en_US_dedes.trLI.SeasonalKontakion.melody
-trLI.SeasonalKontakion.text = tr.d064_en_US_dedes.trLI.SeasonalKontakion.text
+
+trLI.Kontakion1.mode = tr.d064_en_US_dedes.trLI.Kontakion1.mode
+trLI.Kontakion1.melody = tr.d064_en_US_dedes.trLI.Kontakion1.melody
+trLI.Kontakion1.text = tr.d064_en_US_dedes.trLI.Kontakion1.text
 
 trLI.TheotokosHymn.mode = tr.d064_en_US_dedes.trLI.TheotokosHymn.mode
 trLI.TheotokosHymn.text = tr.d064_en_US_dedes.trLI.TheotokosHymn.text

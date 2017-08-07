@@ -661,9 +661,5 @@ meLI.Kontakion1.mode = me.m01.d02_en_US_dedes.meLI.Kontakion1.mode
 meLI.Kontakion1.melody = me.m01.d02_en_US_dedes.meLI.Kontakion1.melody
 meLI.Kontakion1.text = me.m01.d02_en_US_dedes.meLI.Kontakion1.text
 
-meLI.SeasonalKontakion.mode = me.m01.d02_en_US_dedes.meLI.SeasonalKontakion.mode
-meLI.SeasonalKontakion.melody = me.m01.d02_en_US_dedes.meLI.SeasonalKontakion.melody
-meLI.SeasonalKontakion.text = me.m01.d02_en_US_dedes.meLI.SeasonalKontakion.text
-
 meMegalynarion.text = me.m01.d02_en_US_dedes.meMegalynarion.text
 

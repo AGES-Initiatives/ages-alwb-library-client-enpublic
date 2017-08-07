@@ -454,10 +454,6 @@ meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
-meLI.SeasonalKontakion.mode = me.m12.d17_en_US_dedes.meLI.SeasonalKontakion.mode
-meLI.SeasonalKontakion.melody = me.m12.d17_en_US_dedes.meLI.SeasonalKontakion.melody
-meLI.SeasonalKontakion.text = me.m12.d17_en_US_dedes.meLI.SeasonalKontakion.text
-
 meMegalynarion.text = me.m12.d17_en_US_dedes.meMegalynarion.text
 
 alt1.meDate.text = me.m12.d17_en_US_dedes.alt1.meDate.text // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
@@ -803,10 +799,6 @@ alt1.meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 alt1.meLI.Kontakion1.mode = me.m12.d17_en_US_dedes.alt1.meMA.Kontakion1.mode
 alt1.meLI.Kontakion1.melody = me.m12.d17_en_US_dedes.alt1.meMA.Kontakion1.melody
 alt1.meLI.Kontakion1.text = me.m12.d17_en_US_dedes.alt1.meMA.Kontakion1.text
-
-alt1.meLI.SeasonalKontakion.mode = me.m12.d17_en_US_dedes.alt1.meLI.SeasonalKontakion.mode
-alt1.meLI.SeasonalKontakion.melody = me.m12.d17_en_US_dedes.alt1.meLI.SeasonalKontakion.melody
-alt1.meLI.SeasonalKontakion.text = me.m12.d17_en_US_dedes.alt1.meLI.SeasonalKontakion.text
 
 alt1.meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 

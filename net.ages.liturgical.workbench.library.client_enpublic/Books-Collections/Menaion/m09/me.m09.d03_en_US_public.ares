@@ -463,10 +463,6 @@ meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
-meLI.SeasonalKontakion.mode = me.m09.d03_en_US_dedes.meLI.SeasonalKontakion.mode
-meLI.SeasonalKontakion.melody = me.m09.d03_en_US_dedes.meLI.SeasonalKontakion.melody
-meLI.SeasonalKontakion.text = me.m09.d03_en_US_dedes.meLI.SeasonalKontakion.text
-
 meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
 meMegalynarion.text = me.m09.d03_en_US_dedes.meMegalynarion.text
@@ -908,10 +904,6 @@ alt1.meMA.MM.Lauds1234as5678.text = me.m09.d03_en_US_dedes.alt1.meMA.MM.Lauds123
 alt1.meLI.Kontakion1.mode = me.m09.d03_en_US_dedes.alt1.meLI.Kontakion1.mode
 alt1.meLI.Kontakion1.melody = me.m09.d03_en_US_dedes.alt1.meLI.Kontakion1.melody
 alt1.meLI.Kontakion1.text = me.m09.d03_en_US_dedes.alt1.meLI.Kontakion1.text
-
-alt1.meLI.SeasonalKontakion.mode = me.m09.d03_en_US_dedes.alt1.meLI.SeasonalKontakion.mode
-alt1.meLI.SeasonalKontakion.melody = me.m09.d03_en_US_dedes.alt1.meLI.SeasonalKontakion.melody
-alt1.meLI.SeasonalKontakion.text = me.m09.d03_en_US_dedes.alt1.meLI.SeasonalKontakion.text
 
 alt1.meLI.MM.CommunionHymn.text = me.m09.d03_en_US_dedes.alt1.meLI.MM.CommunionHymn.text
 

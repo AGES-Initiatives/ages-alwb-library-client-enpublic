@@ -365,14 +365,10 @@ trMA.LaudsTheotokion.mode = tr.d001_en_US_dedes.trMA.LaudsTheotokion.mode
 trMA.LaudsTheotokion.melody = tr.d001_en_US_dedes.trMA.LaudsTheotokion.melody
 trMA.LaudsTheotokion.text = tr.d001_en_US_dedes.trMA.LaudsTheotokion.text
 
-trLI.SeasonalKontakion.mode = tr.d001_en_US_dedes.trLI.SeasonalKontakion.mode
-trLI.SeasonalKontakion.melody = tr.d001_en_US_dedes.trLI.SeasonalKontakion.melody
-trLI.SeasonalKontakion.text = tr.d001_en_US_dedes.trLI.SeasonalKontakion.text
-
-trLI.CherubicHymn.mode = tr.d001_en_US_dedes.trLI.CherubicHymn.mode
-trLI.CherubicHymn.text = tr.d001_en_US_dedes.trLI.CherubicHymn.text
+trLI.Kontakion1.mode = tr.d001_en_US_dedes.trLI.Kontakion1.mode
+trLI.Kontakion1.melody = tr.d001_en_US_dedes.trLI.Kontakion1.melody
+trLI.Kontakion1.text = tr.d001_en_US_dedes.trLI.Kontakion1.text
 
 trLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
 trMegalynarion.text = tr.d001_en_US_dedes.trMegalynarion.text
-

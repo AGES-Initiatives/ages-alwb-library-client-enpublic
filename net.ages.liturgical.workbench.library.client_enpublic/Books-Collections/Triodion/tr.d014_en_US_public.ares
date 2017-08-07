@@ -507,11 +507,10 @@ trMA.AposTheotokion.mode = tr.d014_en_US_dedes.trMA.AposTheotokion.mode
 trMA.AposTheotokion.melody = tr.d014_en_US_dedes.trMA.AposTheotokion.melody
 trMA.AposTheotokion.text = tr.d014_en_US_dedes.trMA.AposTheotokion.text
 
-trLI.SeasonalKontakion.mode = tr.d014_en_US_dedes.trLI.SeasonalKontakion.mode
-trLI.SeasonalKontakion.melody = tr.d014_en_US_dedes.trLI.SeasonalKontakion.melody
-trLI.SeasonalKontakion.text = tr.d014_en_US_holycross.trLI.SeasonalKontakion.text
+trLI.Kontakion1.mode = tr.d014_en_US_dedes.trLI.Kontakion1.mode
+trLI.Kontakion1.melody = tr.d014_en_US_dedes.trLI.Kontakion1.melody
+trLI.Kontakion1.text = tr.d014_en_US_holycross.trLI.Kontakion1.text
 
 trLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
 trMegalynarion.text = tr.d014_en_US_dedes.trMegalynarion.text
-

@@ -782,10 +782,6 @@ meLI.Kontakion3.mode = me.m09.d01_en_US_dedes.meLI.Kontakion3.mode
 meLI.Kontakion3.melody = me.m09.d01_en_US_dedes.meLI.Kontakion3.melody
 meLI.Kontakion3.text = me.m09.d01_en_US_dedes.meLI.Kontakion3.text
 
-meLI.SeasonalKontakion.mode = me.m09.d01_en_US_dedes.meLI.SeasonalKontakion.mode
-meLI.SeasonalKontakion.melody = me.m09.d01_en_US_dedes.meLI.SeasonalKontakion.melody
-meLI.SeasonalKontakion.text = me.m09.d01_en_US_dedes.meLI.SeasonalKontakion.text
-
 meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
 meMegalynarion.text = me.m09.d01_en_US_dedes.meMegalynarion.text
