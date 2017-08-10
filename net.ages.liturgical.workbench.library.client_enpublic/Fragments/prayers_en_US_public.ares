@@ -107,6 +107,8 @@ StereosaiKyrios.text = prayers_en_US_holycross.StereosaiKyrios.text
 
 SoulSaturday.text = prayers_en_US_holycross.SoulSaturday.text
 
+TheotokeParthene.text = ""
+
 Thymiama.text = prayers_en_US_holycross.Thymiama.text
 
 TinTimioteran.text = prayers_en_US_dedes.TinTimioteran.text
@@ -584,7 +586,7 @@ exc03 = prayers_en_US_goa.exc03
 
 exc04 = prayers_en_US_holycross.exc04
 
-exc04a = ""
+exc04a = prayers_en_US_dedes.exc04a
 
 exc05 = prayers_en_US_goa.exc05
 
@@ -652,7 +654,7 @@ exc29 = prayers_en_US_holycross.exc29
 
 epi01a = prayers_en_US_goa.epi01a
 
-epi01b = prayers_en_US_holycross.epi01b
+epi01b = prayers_en_US_goa.epi01b
 
 epi02 = prayers_en_US_goa.epi02
 
@@ -665,6 +667,10 @@ gos03a = prayers_en_US_goa.gos03a
 gos03b = prayers_en_US_holycross.gos03b
 
 gos04 = prayers_en_US_goa.gos04
+
+otr01a = prayers_en_US_goa.otr01a
+
+otr01b = prayers_en_US_goa.otr01b
 
 verse_Angels.text = prayers_en_US_holycross.verse_Angels.text
 

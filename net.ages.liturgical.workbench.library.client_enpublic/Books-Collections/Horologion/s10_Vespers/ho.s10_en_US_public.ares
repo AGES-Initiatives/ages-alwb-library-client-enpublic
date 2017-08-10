@@ -59,11 +59,6 @@ hoVE.FridayAlleluia.title = ho.s10_en_US_dedes.hoVE.FridayAlleluia.title
 hoVE.FridayAlleluia.text = ho.s10_en_US_dedes.hoVE.FridayAlleluia.text
 
 R15 = ho.s10_en_US_dedes.R15
-
-//Not in Horologion. Needed for Vespers readings
-hoVE.Reading_Intro.text1 = ho.s10_en_US_dedes.hoVE.Reading_Intro.text1
-hoVE.Reading_Intro.text2 = ho.s10_en_US_dedes.hoVE.Reading_Intro.text2 // This second part is needed to construct the Greek sentence.
-
 R16 = ho.s10_en_US_dedes.R16
 //This Prayer is also in the Small Doxology, at Matins, Compline etc. with "day" and "night"
 hoVE.Prayer_Kataxioson.text = ho.s10_en_US_holycross.hoVE.Prayer_Kataxioson.text
@@ -90,12 +85,9 @@ R26 = ho.s10_en_US_dedes.R26
 
 // Not in Orologion
 //Lity
-hoVE.LityKyrieEleison.text = ho.s10_en_US_goa.hoVE.LityKyrieEleison.text
+hoVE.MM.LityKyrieEleison.text.text = ho.s10_en_US_dedes.hoVE.MM.LityKyrieEleison.text.text
 
 // Artoclasia
-hoVE.ArtoklasiaTheotokeParthene.text = ho.s10_en_US_goa.hoVE.ArtoklasiaTheotokeParthene.text
-hoVE.ArtoklasiaPrayer1 = ho.s10_en_US_goa.hoVE.ArtoklasiaPrayer1
-hoVE.ArtoklasiaPrayer2 = ho.s10_en_US_goa.hoVE.ArtoklasiaPrayer2
-
-hoVE.ArtoklasiaHymn.text = ho.s10_en_US_dedes.hoVE.ArtoklasiaHymn.text
+hoVE.MM.ArtoklasiaTheotokeParthene.text = ho.s10_en_US_dedes.hoVE.MM.ArtoklasiaTheotokeParthene.text
+hoVE.MM.ArtoklasiaHymn.text = ho.s10_en_US_dedes.hoVE.MM.ArtoklasiaHymn.text
 
