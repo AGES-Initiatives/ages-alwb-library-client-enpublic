@@ -107,7 +107,7 @@ StereosaiKyrios.text = prayers_en_US_holycross.StereosaiKyrios.text
 
 SoulSaturday.text = prayers_en_US_holycross.SoulSaturday.text
 
-TheotokeParthene.text = ""
+TheotokeParthene.text = prayers_en_US_dedes.TheotokeParthene.text
 
 Thymiama.text = prayers_en_US_holycross.Thymiama.text
 
@@ -512,6 +512,9 @@ sup13 = prayers_en_US_holycross.sup13
 sup14 = prayers_en_US_holycross.sup14
 
 sup15 = prayers_en_US_holycross.sup15
+
+sup16a = prayers_en_US_holycross.sup16a
+sup16b = prayers_en_US_holycross.sup16b
 
 sup99 = prayers_en_US_holycross.sup99
 
