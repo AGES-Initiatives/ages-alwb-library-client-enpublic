@@ -4380,6 +4380,7 @@ psa102.v22b.text = ps_en_US_saas.psa102.v22b.text
 psa103.title = ps_en_US_saas.psa103.title
 psa103.version = ps_en_US_saas.psa103.version
 psa103.text = ps_en_US_saas.psa103.text
+psa103a.text = ps_en_US_saas.pas103a.text
 psa103.v1.number = ps_en_US_saas.psa103.v1.number
 psa103.v1.text = ps_en_US_saas.psa103.v1.text
 psa103.v1a.number = ps_en_US_saas.psa103.v1a.number
@@ -4492,6 +4493,8 @@ psa103.v34.number = ps_en_US_saas.psa103.v34.number
 psa103.v34.text = ps_en_US_saas.psa103.v34.text
 psa103.v35.number = ps_en_US_saas.psa103.v35.number
 psa103.v35.text = ps_en_US_saas.psa103.v35.text
+psa103.v35a.text = ps_en_US_saas.psa103.v35a.text
+psa103.v35b.text = ps_en_US_saas.psa103.v35b.text
 
 psa104.title = ps_en_US_saas.psa104.title
 psa104.version = ps_en_US_saas.psa104.version
