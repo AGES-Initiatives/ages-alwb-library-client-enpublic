@@ -150,10 +150,10 @@ meMA.Ode3H.melody = me.m10.d11_en_US_dedes.meMA.Ode3H.melody
 meMA.Ode3H.text = me.m10.d11_en_US_dedes.meMA.Ode3H.text
 
 meMA.Kontakion1.mode = me.m10.d11_en_US_dedes.meMA.Kontakion1.mode
-meMA.Kontakion1.melody = me.m10.d11_en_US_dedes.meMA.Kontakion1.melody
-meMA.Kontakion1.text = me.m10.d11_en_US_dedes.meMA.Kontakion1.text
+meMA.Kontakion1.melody = me.m10.d11_en_US_unknown.meMA.Kontakion1.melody
+meMA.Kontakion1.text = me.m10.d11_en_US_unknown.meMA.Kontakion1.text
 
-meMA.Oikos1.text = me.m10.d11_en_US_dedes.meMA.Oikos1.text
+meMA.Oikos1.text = me.m10.d11_en_US_unknown.meMA.Oikos1.text
 
 meMA.Ode3Kathisma1.mode = me.m10.d11_en_US_dedes.meMA.Ode3Kathisma1.mode
 meMA.Ode3Kathisma1.melody = me.m10.d11_en_US_dedes.meMA.Ode3Kathisma1.melody
@@ -443,12 +443,12 @@ meMA.Ode9H.melody = me.m10.d11_en_US_dedes.meMA.Ode9H.melody
 meMA.Ode9H.text = me.m10.d11_en_US_dedes.meMA.Ode9H.text
 
 meMA.Exaposteilarion1.mode = me.m10.d11_en_US_dedes.meMA.Exaposteilarion1.mode
-meMA.Exaposteilarion1.melody = me.m10.d11_en_US_dedes.meMA.Exaposteilarion1.melody
-meMA.Exaposteilarion1.text = me.m10.d11_en_US_dedes.meMA.Exaposteilarion1.text
+meMA.Exaposteilarion1.melody = me.m10.d11_en_US_unknown.meMA.Exaposteilarion1.melody
+meMA.Exaposteilarion1.text = me.m10.d11_en_US_unknown.meMA.Exaposteilarion1.text
 
 meMA.Exaposteilarion2.mode = me.m10.d11_en_US_dedes.meMA.Exaposteilarion2.mode
-meMA.Exaposteilarion2.melody = me.m10.d11_en_US_dedes.meMA.Exaposteilarion2.melody
-meMA.Exaposteilarion2.text = me.m10.d11_en_US_dedes.meMA.Exaposteilarion2.text
+meMA.Exaposteilarion2.melody = me.m10.d11_en_US_unknown.meMA.Exaposteilarion2.melody
+meMA.Exaposteilarion2.text = me.m10.d11_en_US_unknown.meMA.Exaposteilarion2.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
