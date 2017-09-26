@@ -187,8 +187,8 @@ meMA.Kontakion1.melody = me.m11.d18_en_US_dedes.meMA.Kontakion1.melody
 meMA.Kontakion1.text = me.m11.d18_en_US_dedes.meMA.Kontakion1.text
 
 meMA.Kontakion2.mode = me.m11.d18_en_US_dedes.meMA.Kontakion2.mode
-meMA.Kontakion2.melody = me.m11.d18_en_US_oca.meMA.Kontakion2.melody
-meMA.Kontakion2.text = me.m11.d18_en_US_oca.meMA.Kontakion2.text
+meMA.Kontakion2.melody = me.m11.d18_en_US_dedes.meMA.Kontakion2.melody
+meMA.Kontakion2.text = me.m11.d18_en_US_dedes.meMA.Kontakion2.text
 
 meMA.Oikos2.text = me.m11.d18_en_US_dedes.meMA.Oikos2.text
 
