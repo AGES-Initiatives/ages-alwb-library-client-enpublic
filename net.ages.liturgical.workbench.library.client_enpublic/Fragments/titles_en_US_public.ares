@@ -129,6 +129,8 @@ Eteros = titles_en_US_dedes.Eteros
 
 EterosKanon = titles_en_US_dedes.EterosKanon
 
+EterosKanonProeortios = titles_en_US_dedes.EterosKanonProeortios
+
 EterosTisEortis = titles_en_US_dedes.EterosTisEortis
 
 EteronTisEortis = titles_en_US_dedes.EteronTisEortis
@@ -199,6 +201,10 @@ KanonProeortios = titles_en_US_dedes.KanonProeortios
 KanonStavrosimos = titles_en_US_dedes.KanonStavrosimos
 
 KanonStavroanastasimos = titles_en_US_dedes.KanonStavroanastasimos
+
+KanonATisAgias = titles_en_US_dedes.KanonATisAgias
+
+KanonBTisAgias = titles_en_US_dedes.KanonBTisAgias
 
 KanonTisAgias = titles_en_US_dedes.KanonTisAgias
 
