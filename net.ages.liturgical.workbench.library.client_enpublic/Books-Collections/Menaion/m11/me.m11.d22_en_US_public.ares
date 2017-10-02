@@ -43,8 +43,8 @@ meVE.SticGlory.melody = me.m11.d22_en_US_dedes.meVE.SticGlory.melody
 meVE.SticGlory.text = me.m11.d22_en_US_dedes.meVE.SticGlory.text
 
 meVE.SticBoth.mode = me.m11.d22_en_US_dedes.meVE.SticBoth.mode
-meVE.SticBoth.melody = me.m11.d22_en_US_dedes.meVE.SticBoth.melody
-meVE.SticBoth.text = me.m11.d22_en_US_dedes.meVE.SticBoth.text
+meVE.SticBoth.melody = me.m11.d22_en_US_oca.meVE.SticBoth.melody
+meVE.SticBoth.text = me.m11.d22_en_US_oca.meVE.SticBoth.text
 
 meVE.Aposticha1a.mode = me.m11.d22_en_US_dedes.meVE.Aposticha1a.mode
 meVE.Aposticha1a.melody = me.m11.d22_en_US_dedes.meVE.Aposticha1a.melody
@@ -84,12 +84,12 @@ meVE.Apolytikion2.melody = me.m11.d22_en_US_dedes.meVE.Apolytikion2.melody
 meVE.Apolytikion2.text = me.m11.d22_en_US_dedes.meVE.Apolytikion2.text
 
 meMA.Kathisma11.mode = me.m11.d22_en_US_dedes.meMA.Kathisma11.mode
-meMA.Kathisma11.melody = me.m11.d22_en_US_dedes.meMA.Kathisma11.melody
-meMA.Kathisma11.text = me.m11.d22_en_US_dedes.meMA.Kathisma11.text
+meMA.Kathisma11.melody = me.m11.d22_en_US_oca.meMA.Kathisma11.melody
+meMA.Kathisma11.text = me.m11.d22_en_US_oca.meMA.Kathisma11.text
 
 meMA.Kathisma21.mode = me.m11.d22_en_US_dedes.meMA.Kathisma21.mode
-meMA.Kathisma21.melody = me.m11.d22_en_US_dedes.meMA.Kathisma21.melody
-meMA.Kathisma21.text = me.m11.d22_en_US_dedes.meMA.Kathisma21.text
+meMA.Kathisma21.melody = me.m11.d22_en_US_oca.meMA.Kathisma21.melody
+meMA.Kathisma21.text = me.m11.d22_en_US_oca.meMA.Kathisma21.text
 
 meMA.C1Acrostic.text = me.m11.d22_en_US_dedes.meMA.C1Acrostic.text
 
