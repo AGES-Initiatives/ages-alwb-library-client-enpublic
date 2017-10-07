@@ -219,6 +219,10 @@ hoMA.ExapSatTh.text = ho.s03_en_US_dedes.hoMA.ExapSatTh.text
 R19 = ""
 R20 = ho.s03_en_US_dedes.R20
 R21 = ho.s03_en_US_dedes.R21
+
+
+R_Lauds_Hierarchical = ho.s03_en_US_dedes.R_Lauds_Hierarchical
+
 hoMA.LaudsSunTheotokion.text = ho.s03_en_US_dedes.hoMA.LaudsSunTheotokion.text
 
 hoMA.DoxologyGreat.title = ho.s03_en_US_dedes.hoMA.DoxologyGreat.title
