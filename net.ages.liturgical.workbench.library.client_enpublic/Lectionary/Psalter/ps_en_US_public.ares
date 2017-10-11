@@ -51,6 +51,10 @@ psa2.v11.number = ps_en_US_saas.psa2.v11.number
 psa2.v11.text = ps_en_US_saas.psa2.v11.text
 psa2.v12.number = ps_en_US_saas.psa2.v12.number
 psa2.v12.text = ps_en_US_saas.psa2.v12.text
+psa2.v12a.number = ps_en_US_saas.psa2.v12a.number
+psa2.v12a.text = ps_en_US_saas.psa2.v12a.text
+psa2.v12b.number = ps_en_US_saas.psa2.v12b.number
+psa2.v12b.text = ps_en_US_saas.psa2.v12b.text
 
 psa3.title = ps_en_US_saas.psa3.title
 psa3.version = ps_en_US_saas.psa3.version
