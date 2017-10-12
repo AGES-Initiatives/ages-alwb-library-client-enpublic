@@ -39,9 +39,10 @@ meVE.SticStavrotheotokion.mode = me.m05.d24_en_US_dedes.meVE.SticStavrotheotokio
 meVE.SticStavrotheotokion.melody = me.m05.d24_en_US_dedes.meVE.SticStavrotheotokion.melody
 meVE.SticStavrotheotokion.text = me.m05.d24_en_US_dedes.meVE.SticStavrotheotokion.text
 
-meVE.Apolytikion1.mode = me.m05.d24_en_US_dedes.meVE.Apolytikion1.mode
-meVE.Apolytikion1.melody = me.m05.d24_en_US_dedes.meVE.Apolytikion1.melody
-meVE.Apolytikion1.text = me.m05.d24_en_US_dedes.meVE.Apolytikion1.text
+meVE.GeneralApolytikion1.mode = me.m05.d24_en_US_dedes.meVE.GeneralApolytikion1.mode
+meVE.GeneralApolytikion1.melody = me.m05.d24_en_US_dedes.meVE.GeneralApolytikion1.melody
+meVE.GeneralApolytikion1.name = me.m05.d24_en_US_dedes.meVE.GeneralApolytikion1.name
+meVE.MM.GeneralApolytikion1.text = me.m05.d24_en_US_dedes.meVE.MM.GeneralApolytikion1.text
 
 meMA.C1Poet = me.m05.d24_en_US_dedes.meMA.C1Poet
 meMA.C1Acrostic.text = me.m05.d24_en_US_dedes.meMA.C1Acrostic.text

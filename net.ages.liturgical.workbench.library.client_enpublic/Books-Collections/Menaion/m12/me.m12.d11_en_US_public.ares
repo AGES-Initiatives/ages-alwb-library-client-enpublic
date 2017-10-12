@@ -15,16 +15,16 @@ meHO.note1 = me.m12.d11_en_US_dedes.meHO.note1
 meHO.note2 = me.m12.d11_en_US_dedes.meHO.note2
 
 meVE.Stichera01.mode = me.m12.d11_en_US_dedes.meVE.Stichera01.mode
-meVE.Stichera01.melody = me.m12.d11_en_US_dedes.meVE.Stichera01.melody
-meVE.Stichera01.text = me.m12.d11_en_US_dedes.meVE.Stichera01.text
+meVE.Stichera01.melody = me.m12.d11_en_US_oca.meVE.Stichera01.melody
+meVE.Stichera01.text = me.m12.d11_en_US_oca.meVE.Stichera01.text
 
 meVE.Stichera02.mode = me.m12.d11_en_US_dedes.meVE.Stichera02.mode
-meVE.Stichera02.melody = me.m12.d11_en_US_dedes.meVE.Stichera02.melody
-meVE.Stichera02.text = me.m12.d11_en_US_dedes.meVE.Stichera02.text
+meVE.Stichera02.melody = me.m12.d11_en_US_oca.meVE.Stichera02.melody
+meVE.Stichera02.text = me.m12.d11_en_US_oca.meVE.Stichera02.text
 
 meVE.Stichera03.mode = me.m12.d11_en_US_dedes.meVE.Stichera03.mode
-meVE.Stichera03.melody = me.m12.d11_en_US_dedes.meVE.Stichera03.melody
-meVE.Stichera03.text = me.m12.d11_en_US_dedes.meVE.Stichera03.text
+meVE.Stichera03.melody = me.m12.d11_en_US_oca.meVE.Stichera03.melody
+meVE.Stichera03.text = me.m12.d11_en_US_oca.meVE.Stichera03.text
 
 meVE.SticGlory.poet = me.m12.d11_en_US_dedes.meVE.SticGlory.poet
 meVE.SticGlory.mode = me.m12.d11_en_US_dedes.meVE.SticGlory.mode
@@ -39,9 +39,10 @@ meVE.SticStavrotheotokion.mode = me.m12.d11_en_US_dedes.meVE.SticStavrotheotokio
 meVE.SticStavrotheotokion.melody = me.m12.d11_en_US_dedes.meVE.SticStavrotheotokion.melody
 meVE.SticStavrotheotokion.text = me.m12.d11_en_US_dedes.meVE.SticStavrotheotokion.text
 
-meVE.Apolytikion1.mode = me.m12.d11_en_US_dedes.meVE.Apolytikion1.mode
-meVE.Apolytikion1.melody = me.m12.d11_en_US_dedes.meVE.Apolytikion1.melody
-meVE.Apolytikion1.text = me.m12.d11_en_US_dedes.meVE.Apolytikion1.text
+meVE.GeneralApolytikion1.mode = me.m12.d11_en_US_dedes.meVE.GeneralApolytikion1.mode
+meVE.GeneralApolytikion1.melody = me.m12.d11_en_US_dedes.meVE.GeneralApolytikion1.melody
+meVE.GeneralApolytikion1.name = me.m12.d11_en_US_dedes.meVE.GeneralApolytikion1.name
+meVE.MM.GeneralApolytikion1.text = me.m12.d11_en_US_dedes.meVE.MM.GeneralApolytikion1.text
 
 meMA.C1Acrostic.text = me.m12.d11_en_US_dedes.meMA.C1Acrostic.text
 
