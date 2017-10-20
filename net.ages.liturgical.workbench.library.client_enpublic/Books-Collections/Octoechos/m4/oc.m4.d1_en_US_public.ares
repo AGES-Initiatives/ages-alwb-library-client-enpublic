@@ -764,6 +764,7 @@ ocMA.Magnificat.text = oc.m4.d1_en_US_dedes.ocMA.Magnificat.text
 
 ocMA.MM.Lauds01.text = properties_en_US_public.media.key
 ocMA.MM.Lauds02.text = properties_en_US_public.media.key
+ocMA.MM.LaudsStichologia.text = ""
 
 ocMA.MM.LaudsHeirmologic01.text = properties_en_US_public.media.key
 ocMA.MM.LaudsHeirmologic02.text = properties_en_US_public.media.key
