@@ -73,16 +73,16 @@ ocMA.Kathisma23.melody = oc.m3.d2_en_US_dedes.ocMA.Kathisma23.melody
 ocMA.Kathisma23.text = oc.m3.d2_en_US_dedes.ocMA.Kathisma23.text
 
 ocMA.Kathisma31.mode = oc.m3.d2_en_US_dedes.ocMA.Kathisma31.mode
-ocMA.Kathisma31.melody = oc.m3.d2_en_US_dedes.ocMA.Kathisma31.melody
-ocMA.Kathisma31.text = oc.m3.d2_en_US_dedes.ocMA.Kathisma31.text
+ocMA.Kathisma31.melody = oc.m3.d2_en_UK_lash.ocMA.Kathisma31.melody
+ocMA.Kathisma31.text = oc.m3.d2_en_UK_lash.ocMA.Kathisma31.text
 
 ocMA.Kathisma32.mode = oc.m3.d2_en_US_dedes.ocMA.Kathisma32.mode
-ocMA.Kathisma32.melody = oc.m3.d2_en_US_dedes.ocMA.Kathisma32.melody
-ocMA.Kathisma32.text = oc.m3.d2_en_US_dedes.ocMA.Kathisma32.text
+ocMA.Kathisma32.melody = oc.m3.d2_en_UK_lash.ocMA.Kathisma32.melody
+ocMA.Kathisma32.text = oc.m3.d2_en_UK_lash.ocMA.Kathisma32.text
 
 ocMA.Kathisma33.mode = oc.m3.d2_en_US_dedes.ocMA.Kathisma33.mode
-ocMA.Kathisma33.melody = oc.m3.d2_en_US_dedes.ocMA.Kathisma33.melody
-ocMA.Kathisma33.text = oc.m3.d2_en_US_dedes.ocMA.Kathisma33.text
+ocMA.Kathisma33.melody = oc.m3.d2_en_UK_lash.ocMA.Kathisma33.melody
+ocMA.Kathisma33.text = oc.m3.d2_en_UK_lash.ocMA.Kathisma33.text
 
 ocMA.C1Acrostic.text = oc.m3.d2_en_US_dedes.ocMA.C1Acrostic.text
 
@@ -482,12 +482,12 @@ ocMA.Aposticha2.melody = oc.m3.d2_en_US_dedes.ocMA.Aposticha2.melody
 ocMA.Aposticha2.text = oc.m3.d2_en_US_dedes.ocMA.Aposticha2.text
 
 ocMA.Aposticha3.mode = oc.m3.d2_en_US_dedes.ocMA.Aposticha3.mode
-ocMA.Aposticha3.melody = oc.m3.d2_en_US_dedes.ocMA.Aposticha3.melody
-ocMA.Aposticha3.text = oc.m3.d2_en_US_dedes.ocMA.Aposticha3.text
+ocMA.Aposticha3.melody = oc.m3.d2_en_UK_lash.ocMA.Aposticha3.melody
+ocMA.Aposticha3.text = oc.m3.d2_en_UK_lash.ocMA.Aposticha3.text
 
 ocMA.AposTheotokion.mode = oc.m3.d2_en_US_dedes.ocMA.AposTheotokion.mode
-ocMA.AposTheotokion.melody = oc.m3.d2_en_US_dedes.ocMA.AposTheotokion.melody
-ocMA.AposTheotokion.text = oc.m3.d2_en_US_dedes.ocMA.AposTheotokion.text
+ocMA.AposTheotokion.melody = oc.m3.d2_en_UK_lash.ocMA.AposTheotokion.melody
+ocMA.AposTheotokion.text = oc.m3.d2_en_UK_lash.ocMA.AposTheotokion.text
 
 ocMA.ApolTheotokion.mode = oc.m3.d2_en_US_dedes.ocMA.ApolTheotokion.mode
 ocMA.ApolTheotokion.melody = oc.m3.d2_en_US_dedes.ocMA.ApolTheotokion.melody
