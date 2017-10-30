@@ -30,35 +30,35 @@ meVE.Stichera03.melody = me.m12.d20_en_UK_lash.meVE.Stichera03.melody
 meVE.Stichera03.text = me.m12.d20_en_UK_lash.meVE.Stichera03.text
 
 meVE.Stichera04.mode = me.m12.d20_en_US_dedes.meVE.Stichera04.mode
-meVE.Stichera04.melody = me.m12.d20_en_US_dedes.meVE.Stichera04.melody
-meVE.Stichera04.text = me.m12.d20_en_US_dedes.meVE.Stichera04.text
+meVE.Stichera04.melody = me.m12.d20_en_UK_lash.meVE.Stichera04.melody
+meVE.Stichera04.text = me.m12.d20_en_UK_lash.meVE.Stichera04.text
 
 meVE.Stichera05.mode = me.m12.d20_en_US_dedes.meVE.Stichera05.mode
-meVE.Stichera05.melody = me.m12.d20_en_US_dedes.meVE.Stichera05.melody
-meVE.Stichera05.text = me.m12.d20_en_US_dedes.meVE.Stichera05.text
+meVE.Stichera05.melody = me.m12.d20_en_UK_lash.meVE.Stichera05.melody
+meVE.Stichera05.text = me.m12.d20_en_UK_lash.meVE.Stichera05.text
 
 meVE.Stichera06.mode = me.m12.d20_en_US_dedes.meVE.Stichera06.mode
-meVE.Stichera06.melody = me.m12.d20_en_US_dedes.meVE.Stichera06.melody
-meVE.Stichera06.text = me.m12.d20_en_US_dedes.meVE.Stichera06.text
+meVE.Stichera06.melody = me.m12.d20_en_UK_lash.meVE.Stichera06.melody
+meVE.Stichera06.text = me.m12.d20_en_UK_lash.meVE.Stichera06.text
 
 meVE.SticGlory.poet = me.m12.d20_en_US_dedes.meVE.SticGlory.poet
 meVE.SticGlory.mode = me.m12.d20_en_US_dedes.meVE.SticGlory.mode
-meVE.SticGlory.melody = me.m12.d20_en_US_dedes.meVE.SticGlory.melody
-meVE.SticGlory.text = me.m12.d20_en_US_dedes.meVE.SticGlory.text
+meVE.SticGlory.melody = me.m12.d20_en_UK_lash.meVE.SticGlory.melody
+meVE.SticGlory.text = me.m12.d20_en_UK_lash.meVE.SticGlory.text
 
 meVE.SticBoth.mode = me.m12.d20_en_US_dedes.meVE.SticBoth.mode
-meVE.SticBoth.melody = me.m12.d20_en_US_dedes.meVE.SticBoth.melody
-meVE.SticBoth.text = me.m12.d20_en_US_dedes.meVE.SticBoth.text
+meVE.SticBoth.melody = me.m12.d20_en_UK_lash.meVE.SticBoth.melody
+meVE.SticBoth.text = me.m12.d20_en_UK_lash.meVE.SticBoth.text
 
 meVE.Aposticha1.poet = me.m12.d20_en_US_dedes.meVE.Aposticha1.poet
 meVE.Aposticha1.mode = me.m12.d20_en_US_dedes.meVE.Aposticha1.mode
-meVE.Aposticha1.melody = me.m12.d20_en_US_dedes.meVE.Aposticha1.melody
-meVE.Aposticha1.text = me.m12.d20_en_US_dedes.meVE.Aposticha1.text
+meVE.Aposticha1.melody = me.m12.d20_en_UK_lash.meVE.Aposticha1.melody
+meVE.Aposticha1.text = me.m12.d20_en_UK_lash.meVE.Aposticha1.text
 
 meVE.Aposticha2.poet = me.m12.d20_en_US_dedes.meVE.Aposticha2.poet
 meVE.Aposticha2.mode = me.m12.d20_en_US_dedes.meVE.Aposticha2.mode
-meVE.Aposticha2.melody = me.m12.d20_en_US_dedes.meVE.Aposticha2.melody
-meVE.Aposticha2.text = me.m12.d20_en_US_dedes.meVE.Aposticha2.text
+meVE.Aposticha2.melody = me.m12.d20_en_UK_lash.meVE.Aposticha2.melody
+meVE.Aposticha2.text = me.m12.d20_en_UK_lash.meVE.Aposticha2.text
 
 meVE.Aposticha3.poet = me.m12.d20_en_US_dedes.meVE.Aposticha3.poet
 meVE.Aposticha3.mode = me.m12.d20_en_US_dedes.meVE.Aposticha3.mode
@@ -67,13 +67,13 @@ meVE.Aposticha3.text = me.m12.d20_en_US_dedes.meVE.Aposticha3.text
 
 meVE.AposGlory.poet = me.m12.d20_en_US_dedes.meVE.AposGlory.poet
 meVE.AposGlory.mode = me.m12.d20_en_US_dedes.meVE.AposGlory.mode
-meVE.AposGlory.melody = me.m12.d20_en_US_dedes.meVE.AposGlory.melody
-meVE.AposGlory.text = me.m12.d20_en_US_dedes.meVE.AposGlory.text
+meVE.AposGlory.melody = me.m12.d20_en_UK_lash.meVE.AposGlory.melody
+meVE.AposGlory.text = me.m12.d20_en_UK_lash.meVE.AposGlory.text
 
 meVE.AposBoth.poet = me.m12.d20_en_US_dedes.meVE.AposBoth.poet
 meVE.AposBoth.mode = me.m12.d20_en_US_dedes.meVE.AposBoth.mode
-meVE.AposBoth.melody = me.m12.d20_en_US_dedes.meVE.AposBoth.melody
-meVE.AposBoth.text = me.m12.d20_en_US_dedes.meVE.AposBoth.text
+meVE.AposBoth.melody = me.m12.d20_en_UK_lash.meVE.AposBoth.melody
+meVE.AposBoth.text = me.m12.d20_en_UK_lash.meVE.AposBoth.text
 
 meVE.Apolytikion1.mode = me.m12.d20_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m12.d20_en_US_dedes.meVE.Apolytikion1.melody
@@ -84,63 +84,63 @@ meVE.Apolytikion2.mode = me.m12.d20_en_US_dedes.meVE.Apolytikion2.mode
 meVE.Apolytikion2.melody = me.m12.d20_en_US_dedes.meVE.Apolytikion2.melody
 meVE.Apolytikion2.text = me.m12.d20_en_US_dedes.meVE.Apolytikion2.text
 
-meCO.C1.title = me.m12.d20_en_US_dedes.meCO.C1.title
+meCO.C1.title = me.m12.d20_en_UK_lash.meCO.C1.title
 meCO.C1.verse = me.m12.d20_en_US_dedes.meCO.C1.verse
 
-meCO.C1Acrostic.text = me.m12.d20_en_US_dedes.meCO.C1Acrostic.text
+meCO.C1Acrostic.text = me.m12.d20_en_UK_lash.meCO.C1Acrostic.text
 
 meCO.Ode1C1H.ode = me.m12.d20_en_US_dedes.meCO.Ode1C1H.ode
 meCO.Ode1C1H.mode = me.m12.d20_en_US_dedes.meCO.Ode1C1H.mode
-meCO.Ode1C1H.melody = me.m12.d20_en_US_dedes.meCO.Ode1C1H.melody
-meCO.Ode1C1H.text = me.m12.d20_en_US_dedes.meCO.Ode1C1H.text
+meCO.Ode1C1H.melody = me.m12.d20_en_UK_lash.meCO.Ode1C1H.melody
+meCO.Ode1C1H.text = me.m12.d20_en_UK_lash.meCO.Ode1C1H.text
 
 meCO.Ode1C11.ode = me.m12.d20_en_US_dedes.meCO.Ode1C11.ode
 meCO.Ode1C11.mode = me.m12.d20_en_US_dedes.meCO.Ode1C11.mode
-meCO.Ode1C11.melody = me.m12.d20_en_US_dedes.meCO.Ode1C11.melody
-meCO.Ode1C11.text = me.m12.d20_en_US_dedes.meCO.Ode1C11.text
+meCO.Ode1C11.melody = me.m12.d20_en_UK_lash.meCO.Ode1C11.melody
+meCO.Ode1C11.text = me.m12.d20_en_UK_lash.meCO.Ode1C11.text
 
 meCO.Ode1C12.ode = me.m12.d20_en_US_dedes.meCO.Ode1C12.ode
 meCO.Ode1C12.mode = me.m12.d20_en_US_dedes.meCO.Ode1C12.mode
-meCO.Ode1C12.melody = me.m12.d20_en_US_dedes.meCO.Ode1C12.melody
-meCO.Ode1C12.text = me.m12.d20_en_US_dedes.meCO.Ode1C12.text
+meCO.Ode1C12.melody = me.m12.d20_en_UK_lash.meCO.Ode1C12.melody
+meCO.Ode1C12.text = me.m12.d20_en_UK_lash.meCO.Ode1C12.text
 
 meCO.Ode8C1H.ode = me.m12.d20_en_US_dedes.meCO.Ode8C1H.ode
 meCO.Ode8C1H.mode = me.m12.d20_en_US_dedes.meCO.Ode8C1H.mode
-meCO.Ode8C1H.melody = me.m12.d20_en_US_dedes.meCO.Ode8C1H.melody
-meCO.Ode8C1H.text = me.m12.d20_en_US_dedes.meCO.Ode8C1H.text
+meCO.Ode8C1H.melody = me.m12.d20_en_UK_lash.meCO.Ode8C1H.melody
+meCO.Ode8C1H.text = me.m12.d20_en_UK_lash.meCO.Ode8C1H.text
 
 meCO.Ode8C11.ode = me.m12.d20_en_US_dedes.meCO.Ode8C11.ode
 meCO.Ode8C11.mode = me.m12.d20_en_US_dedes.meCO.Ode8C11.mode
-meCO.Ode8C11.melody = me.m12.d20_en_US_dedes.meCO.Ode8C11.melody
-meCO.Ode8C11.text = me.m12.d20_en_US_dedes.meCO.Ode8C11.text
+meCO.Ode8C11.melody = me.m12.d20_en_UK_lash.meCO.Ode8C11.melody
+meCO.Ode8C11.text = me.m12.d20_en_UK_lash.meCO.Ode8C11.text
 
 meCO.Ode8C12.ode = me.m12.d20_en_US_dedes.meCO.Ode8C12.ode
 meCO.Ode8C12.mode = me.m12.d20_en_US_dedes.meCO.Ode8C12.mode
-meCO.Ode8C12.melody = me.m12.d20_en_US_dedes.meCO.Ode8C12.melody
-meCO.Ode8C12.text = me.m12.d20_en_US_dedes.meCO.Ode8C12.text
+meCO.Ode8C12.melody = me.m12.d20_en_UK_lash.meCO.Ode8C12.melody
+meCO.Ode8C12.text = me.m12.d20_en_UK_lash.meCO.Ode8C12.text
 
 meCO.Ode9C1H.ode = me.m12.d20_en_US_dedes.meCO.Ode9C1H.ode
 meCO.Ode9C1H.mode = me.m12.d20_en_US_dedes.meCO.Ode9C1H.mode
-meCO.Ode9C1H.melody = me.m12.d20_en_US_dedes.meCO.Ode9C1H.melody
-meCO.Ode9C1H.text = me.m12.d20_en_US_dedes.meCO.Ode9C1H.text
+meCO.Ode9C1H.melody = me.m12.d20_en_UK_lash.meCO.Ode9C1H.melody
+meCO.Ode9C1H.text = me.m12.d20_en_UK_lash.meCO.Ode9C1H.text
 
 meCO.Ode9C11.ode = me.m12.d20_en_US_dedes.meCO.Ode9C11.ode
 meCO.Ode9C11.mode = me.m12.d20_en_US_dedes.meCO.Ode9C11.mode
-meCO.Ode9C11.melody = me.m12.d20_en_US_dedes.meCO.Ode9C11.melody
-meCO.Ode9C11.text = me.m12.d20_en_US_dedes.meCO.Ode9C11.text
+meCO.Ode9C11.melody = me.m12.d20_en_UK_lash.meCO.Ode9C11.melody
+meCO.Ode9C11.text = me.m12.d20_en_UK_lash.meCO.Ode9C11.text
 
 meCO.Ode9C12.ode = me.m12.d20_en_US_dedes.meCO.Ode9C12.ode
 meCO.Ode9C12.mode = me.m12.d20_en_US_dedes.meCO.Ode9C12.mode
-meCO.Ode9C12.melody = me.m12.d20_en_US_dedes.meCO.Ode9C12.melody
-meCO.Ode9C12.text = me.m12.d20_en_US_dedes.meCO.Ode9C12.text
+meCO.Ode9C12.melody = me.m12.d20_en_UK_lash.meCO.Ode9C12.melody
+meCO.Ode9C12.text = me.m12.d20_en_UK_lash.meCO.Ode9C12.text
 
 meMA.Kathisma11.mode = me.m12.d20_en_US_dedes.meMA.Kathisma11.mode
-meMA.Kathisma11.melody = me.m12.d20_en_US_dedes.meMA.Kathisma11.melody
-meMA.Kathisma11.text = me.m12.d20_en_US_dedes.meMA.Kathisma11.text
+meMA.Kathisma11.melody = me.m12.d20_en_UK_lash.meMA.Kathisma11.melody
+meMA.Kathisma11.text = me.m12.d20_en_UK_lash.meMA.Kathisma11.text
 
 meMA.Kathisma21.mode = me.m12.d20_en_US_dedes.meMA.Kathisma21.mode
-meMA.Kathisma21.melody = me.m12.d20_en_US_dedes.meMA.Kathisma21.melody
-meMA.Kathisma21.text = me.m12.d20_en_US_dedes.meMA.Kathisma21.text
+meMA.Kathisma21.melody = me.m12.d20_en_UK_lash.meMA.Kathisma21.melody
+meMA.Kathisma21.text = me.m12.d20_en_UK_lash.meMA.Kathisma21.text
 
 meMA.C1Acrostic.text = me.m12.d20_en_US_dedes.meMA.C1Acrostic.text
 
@@ -214,18 +214,18 @@ meMA.Ode3C1H.text = me.m12.d20_en_US_dedes.meMA.Ode3C1H.text
 
 meMA.Ode3C11.ode = me.m12.d20_en_US_dedes.meMA.Ode3C11.ode
 meMA.Ode3C11.mode = me.m12.d20_en_US_dedes.meMA.Ode3C11.mode
-meMA.Ode3C11.melody = me.m12.d20_en_US_dedes.meMA.Ode3C11.melody
-meMA.Ode3C11.text = me.m12.d20_en_US_dedes.meMA.Ode3C11.text
+meMA.Ode3C11.melody = me.m12.d20_en_UK_lash.meMA.Ode3C11.melody
+meMA.Ode3C11.text = me.m12.d20_en_UK_lash.meMA.Ode3C11.text
 
 meMA.Ode3C12.ode = me.m12.d20_en_US_dedes.meMA.Ode3C12.ode
 meMA.Ode3C12.mode = me.m12.d20_en_US_dedes.meMA.Ode3C12.mode
-meMA.Ode3C12.melody = me.m12.d20_en_US_dedes.meMA.Ode3C12.melody
-meMA.Ode3C12.text = me.m12.d20_en_US_dedes.meMA.Ode3C12.text
+meMA.Ode3C12.melody = me.m12.d20_en_UK_lash.meMA.Ode3C12.melody
+meMA.Ode3C12.text = me.m12.d20_en_UK_lash.meMA.Ode3C12.text
 
 meMA.Ode3C13.ode = me.m12.d20_en_US_dedes.meMA.Ode3C13.ode
 meMA.Ode3C13.mode = me.m12.d20_en_US_dedes.meMA.Ode3C13.mode
-meMA.Ode3C13.melody = me.m12.d20_en_US_dedes.meMA.Ode3C13.melody
-meMA.Ode3C13.text = me.m12.d20_en_US_dedes.meMA.Ode3C13.text
+meMA.Ode3C13.melody = me.m12.d20_en_UK_lash.meMA.Ode3C13.melody
+meMA.Ode3C13.text = me.m12.d20_en_UK_lash.meMA.Ode3C13.text
 
 meMA.Ode3C21.ode = me.m12.d20_en_US_dedes.meMA.Ode3C21.ode
 meMA.Ode3C21.mode = me.m12.d20_en_US_dedes.meMA.Ode3C21.mode
@@ -271,7 +271,7 @@ meMA.Kontakion1.mode = me.m12.d20_en_US_dedes.meMA.Kontakion1.mode
 meMA.Kontakion1.melody = me.m12.d20_en_US_dedes.meMA.Kontakion1.melody
 meMA.Kontakion1.text = me.m12.d20_en_US_dedes.meMA.Kontakion1.text
 
-meMA.Oikos1.text = me.m12.d20_en_US_dedes.meMA.Oikos1.text
+meMA.Oikos1.text = me.m12.d20_en_UK_lash.meMA.Oikos1.text
 
 meMA.Ode3Kathisma1.mode = me.m12.d20_en_US_dedes.meMA.Ode3Kathisma1.mode
 meMA.Ode3Kathisma1.melody = me.m12.d20_en_US_dedes.meMA.Ode3Kathisma1.melody
@@ -402,18 +402,18 @@ meMA.Ode6C1H.text = me.m12.d20_en_US_dedes.meMA.Ode6C1H.text
 
 meMA.Ode6C11.ode = me.m12.d20_en_US_dedes.meMA.Ode6C11.ode
 meMA.Ode6C11.mode = me.m12.d20_en_US_dedes.meMA.Ode6C11.mode
-meMA.Ode6C11.melody = me.m12.d20_en_US_dedes.meMA.Ode6C11.melody
-meMA.Ode6C11.text = me.m12.d20_en_US_dedes.meMA.Ode6C11.text
+meMA.Ode6C11.melody = me.m12.d20_en_UK_lash.meMA.Ode6C11.melody
+meMA.Ode6C11.text = me.m12.d20_en_UK_lash.meMA.Ode6C11.text
 
 meMA.Ode6C12.ode = me.m12.d20_en_US_dedes.meMA.Ode6C12.ode
 meMA.Ode6C12.mode = me.m12.d20_en_US_dedes.meMA.Ode6C12.mode
-meMA.Ode6C12.melody = me.m12.d20_en_US_dedes.meMA.Ode6C12.melody
-meMA.Ode6C12.text = me.m12.d20_en_US_dedes.meMA.Ode6C12.text
+meMA.Ode6C12.melody = me.m12.d20_en_UK_lash.meMA.Ode6C12.melody
+meMA.Ode6C12.text = me.m12.d20_en_UK_lash.meMA.Ode6C12.text
 
 meMA.Ode6C13.ode = me.m12.d20_en_US_dedes.meMA.Ode6C13.ode
 meMA.Ode6C13.mode = me.m12.d20_en_US_dedes.meMA.Ode6C13.mode
-meMA.Ode6C13.melody = me.m12.d20_en_US_dedes.meMA.Ode6C13.melody
-meMA.Ode6C13.text = me.m12.d20_en_US_dedes.meMA.Ode6C13.text
+meMA.Ode6C13.melody = me.m12.d20_en_UK_lash.meMA.Ode6C13.melody
+meMA.Ode6C13.text = me.m12.d20_en_UK_lash.meMA.Ode6C13.text
 
 meMA.Ode6C21.ode = me.m12.d20_en_US_dedes.meMA.Ode6C21.ode
 meMA.Ode6C21.mode = me.m12.d20_en_US_dedes.meMA.Ode6C21.mode
@@ -451,10 +451,10 @@ meMA.Ode6C2T.melody = me.m12.d20_en_US_dedes.meMA.Ode6C2T.melody
 meMA.Ode6C2T.text = me.m12.d20_en_US_dedes.meMA.Ode6C2T.text
 
 meMA.Kontakion2.mode = me.m12.d20_en_US_dedes.meMA.Kontakion2.mode
-meMA.Kontakion2.melody = me.m12.d20_en_US_dedes.meMA.Kontakion2.melody
-meMA.Kontakion2.text = me.m12.d20_en_US_dedes.meMA.Kontakion2.text
+meMA.Kontakion2.melody = me.m12.d20_en_UK_lash.meMA.Kontakion2.melody
+meMA.Kontakion2.text = me.m12.d20_en_UK_lash.meMA.Kontakion2.text
 
-meMA.Oikos2.text = me.m12.d20_en_US_dedes.meMA.Oikos2.text
+meMA.Oikos2.text = me.m12.d20_en_UK_lash.meMA.Oikos2.text
 
 meMA.Synaxarion.text = me.m12.d20_en_US_dedes.meMA.Synaxarion.text
 
@@ -560,8 +560,8 @@ meMA.Ode8C2T.text = me.m12.d20_en_US_dedes.meMA.Ode8C2T.text
 
 meMA.Ode9C1H.ode = me.m12.d20_en_US_dedes.meMA.Ode9C1H.ode
 meMA.Ode9C1H.mode = me.m12.d20_en_US_dedes.meMA.Ode9C1H.mode
-meMA.Ode9C1H.melody = me.m12.d20_en_US_dedes.meMA.Ode9C1H.melody
-meMA.Ode9C1H.text = me.m12.d20_en_US_dedes.meMA.Ode9C1H.text
+meMA.Ode9C1H.melody = me.m12.d20_en_UK_lash.meMA.Ode9C1H.melody
+meMA.Ode9C1H.text = me.m12.d20_en_UK_lash.meMA.Ode9C1H.text
 
 meMA.Ode9C11.ode = me.m12.d20_en_US_dedes.meMA.Ode9C11.ode
 meMA.Ode9C11.mode = me.m12.d20_en_US_dedes.meMA.Ode9C11.mode
@@ -619,20 +619,20 @@ meMA.Ode9C2T.melody = me.m12.d20_en_US_dedes.meMA.Ode9C2T.melody
 meMA.Ode9C2T.text = me.m12.d20_en_US_dedes.meMA.Ode9C2T.text
 
 meMA.Exaposteilarion1.mode = me.m12.d20_en_US_dedes.meMA.Exaposteilarion1.mode
-meMA.Exaposteilarion1.melody = me.m12.d20_en_US_dedes.meMA.Exaposteilarion1.melody
-meMA.Exaposteilarion1.text = me.m12.d20_en_US_dedes.meMA.Exaposteilarion1.text
+meMA.Exaposteilarion1.melody = me.m12.d20_en_UK_lash.meMA.Exaposteilarion1.melody
+meMA.Exaposteilarion1.text = me.m12.d20_en_UK_lash.meMA.Exaposteilarion1.text
 
 meMA.Exaposteilarion2.mode = me.m12.d20_en_US_dedes.meMA.Exaposteilarion2.mode
-meMA.Exaposteilarion2.melody = me.m12.d20_en_US_dedes.meMA.Exaposteilarion2.melody
-meMA.Exaposteilarion2.text = me.m12.d20_en_US_dedes.meMA.Exaposteilarion2.text
+meMA.Exaposteilarion2.melody = me.m12.d20_en_UK_lash.meMA.Exaposteilarion2.melody
+meMA.Exaposteilarion2.text = me.m12.d20_en_UK_lash.meMA.Exaposteilarion2.text
 
 meMA.Exaposteilarion3.mode = me.m12.d20_en_US_dedes.meMA.Exaposteilarion3.mode
-meMA.Exaposteilarion3.melody = me.m12.d20_en_US_dedes.meMA.Exaposteilarion3.melody
-meMA.Exaposteilarion3.text = me.m12.d20_en_US_dedes.meMA.Exaposteilarion3.text
+meMA.Exaposteilarion3.melody = me.m12.d20_en_UK_lash.meMA.Exaposteilarion3.melody
+meMA.Exaposteilarion3.text = me.m12.d20_en_UK_lash.meMA.Exaposteilarion3.text
 
 meMA.Exaposteilarion4.mode = me.m12.d20_en_US_dedes.meMA.Exaposteilarion4.mode
-meMA.Exaposteilarion4.melody = me.m12.d20_en_US_dedes.meMA.Exaposteilarion4.melody
-meMA.Exaposteilarion4.text = me.m12.d20_en_US_dedes.meMA.Exaposteilarion4.text
+meMA.Exaposteilarion4.melody = me.m12.d20_en_UK_lash.meMA.Exaposteilarion4.melody
+meMA.Exaposteilarion4.text = me.m12.d20_en_UK_lash.meMA.Exaposteilarion4.text
 
 meMA.Lauds1.poet = me.m12.d20_en_US_dedes.meMA.Lauds1.poet
 meMA.Lauds1.mode = me.m12.d20_en_US_dedes.meMA.Lauds1.mode
@@ -641,53 +641,53 @@ meMA.Lauds1.text = me.m12.d20_en_US_dedes.meMA.Lauds1.text
 
 meMA.Lauds2.poet = me.m12.d20_en_US_dedes.meMA.Lauds2.poet
 meMA.Lauds2.mode = me.m12.d20_en_US_dedes.meMA.Lauds2.mode
-meMA.Lauds2.melody = me.m12.d20_en_US_dedes.meMA.Lauds2.melody
-meMA.Lauds2.text = me.m12.d20_en_US_dedes.meMA.Lauds2.text
+meMA.Lauds2.melody = me.m12.d20_en_UK_lash.meMA.Lauds2.melody
+meMA.Lauds2.text = me.m12.d20_en_UK_lash.meMA.Lauds2.text
 
 meMA.Lauds3.poet = me.m12.d20_en_US_dedes.meMA.Lauds3.poet
 meMA.Lauds3.mode = me.m12.d20_en_US_dedes.meMA.Lauds3.mode
-meMA.Lauds3.melody = me.m12.d20_en_US_dedes.meMA.Lauds3.melody
-meMA.Lauds3.text = me.m12.d20_en_US_dedes.meMA.Lauds3.text
+meMA.Lauds3.melody = me.m12.d20_en_UK_lash.meMA.Lauds3.melody
+meMA.Lauds3.text = me.m12.d20_en_UK_lash.meMA.Lauds3.text
 
 meMA.Lauds4.poet = me.m12.d20_en_US_dedes.meMA.Lauds4.poet
 meMA.Lauds4.mode = me.m12.d20_en_US_dedes.meMA.Lauds4.mode
-meMA.Lauds4.melody = me.m12.d20_en_US_dedes.meMA.Lauds4.melody
-meMA.Lauds4.text = me.m12.d20_en_US_dedes.meMA.Lauds4.text
+meMA.Lauds4.melody = me.m12.d20_en_UK_lash.meMA.Lauds4.melody
+meMA.Lauds4.text = me.m12.d20_en_UK_lash.meMA.Lauds4.text
 
 meMA.Lauds5.poet = me.m12.d20_en_US_dedes.meMA.Lauds5.poet
 meMA.Lauds5.mode = me.m12.d20_en_US_dedes.meMA.Lauds5.mode
-meMA.Lauds5.melody = me.m12.d20_en_US_dedes.meMA.Lauds5.melody
-meMA.Lauds5.text = me.m12.d20_en_US_dedes.meMA.Lauds5.text
+meMA.Lauds5.melody = me.m12.d20_en_UK_lash.meMA.Lauds5.melody
+meMA.Lauds5.text = me.m12.d20_en_UK_lash.meMA.Lauds5.text
 
 meMA.LaudsGlory.poet = me.m12.d20_en_US_dedes.meMA.LaudsGlory.poet
 meMA.LaudsGlory.mode = me.m12.d20_en_US_dedes.meMA.LaudsGlory.mode
-meMA.LaudsGlory.melody = me.m12.d20_en_US_dedes.meMA.LaudsGlory.melody
-meMA.LaudsGlory.text = me.m12.d20_en_US_dedes.meMA.LaudsGlory.text
+meMA.LaudsGlory.melody = me.m12.d20_en_UK_lash.meMA.LaudsGlory.melody
+meMA.LaudsGlory.text = me.m12.d20_en_UK_lash.meMA.LaudsGlory.text
 
 meMA.LaudsBoth.poet = me.m12.d20_en_US_dedes.meMA.LaudsBoth.poet
 meMA.LaudsBoth.mode = me.m12.d20_en_US_dedes.meMA.LaudsBoth.mode
-meMA.LaudsBoth.melody = me.m12.d20_en_US_dedes.meMA.LaudsBoth.melody
-meMA.LaudsBoth.text = me.m12.d20_en_US_dedes.meMA.LaudsBoth.text
+meMA.LaudsBoth.melody = me.m12.d20_en_UK_lash.meMA.LaudsBoth.melody
+meMA.LaudsBoth.text = me.m12.d20_en_UK_lash.meMA.LaudsBoth.text
 
 meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
 meMA.Aposticha1.mode = me.m12.d20_en_US_dedes.meMA.Aposticha1.mode
-meMA.Aposticha1.melody = me.m12.d20_en_US_dedes.meMA.Aposticha1.melody
-meMA.Aposticha1.text = me.m12.d20_en_US_dedes.meMA.Aposticha1.text
+meMA.Aposticha1.melody = me.m12.d20_en_UK_lash.meMA.Aposticha1.melody
+meMA.Aposticha1.text = me.m12.d20_en_UK_lash.meMA.Aposticha1.text
 
 meMA.Aposticha2.poet = me.m12.d20_en_US_dedes.meMA.Aposticha2.poet
 meMA.Aposticha2.mode = me.m12.d20_en_US_dedes.meMA.Aposticha2.mode
-meMA.Aposticha2.melody = me.m12.d20_en_US_dedes.meMA.Aposticha2.melody
-meMA.Aposticha2.text = me.m12.d20_en_US_dedes.meMA.Aposticha2.text
+meMA.Aposticha2.melody = me.m12.d20_en_UK_lash.meMA.Aposticha2.melody
+meMA.Aposticha2.text = me.m12.d20_en_UK_lash.meMA.Aposticha2.text
 
 meMA.Aposticha3.mode = me.m12.d20_en_US_dedes.meMA.Aposticha3.mode
-meMA.Aposticha3.melody = me.m12.d20_en_US_dedes.meMA.Aposticha3.melody
-meMA.Aposticha3.text = me.m12.d20_en_US_dedes.meMA.Aposticha3.text
+meMA.Aposticha3.melody = me.m12.d20_en_UK_lash.meMA.Aposticha3.melody
+meMA.Aposticha3.text = me.m12.d20_en_UK_lash.meMA.Aposticha3.text
 
 meMA.AposGlory.poet = me.m12.d20_en_US_dedes.meMA.AposGlory.poet
 meMA.AposGlory.mode = me.m12.d20_en_US_dedes.meMA.AposGlory.mode
-meMA.AposGlory.melody = me.m12.d20_en_US_dedes.meMA.AposGlory.melody
-meMA.AposGlory.text = me.m12.d20_en_US_dedes.meMA.AposGlory.text
+meMA.AposGlory.melody = me.m12.d20_en_UK_lash.meMA.AposGlory.melody
+meMA.AposGlory.text = me.m12.d20_en_UK_lash.meMA.AposGlory.text
 
 meMA.AposBoth.poet = me.m12.d20_en_US_dedes.meMA.AposBoth.poet
 meMA.AposBoth.mode = me.m12.d20_en_US_dedes.meMA.AposBoth.mode
