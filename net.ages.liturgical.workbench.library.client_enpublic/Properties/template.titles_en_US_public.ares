@@ -79,8 +79,11 @@ co.akathist.pdf.header = template.titles_en_US_dedes.co.akathist.pdf.header
 co.akathist.pdf.cover = template.titles_en_US_dedes.co.akathist.pdf.cover
 co.salutations.pdf.cover = template.titles_en_US_dedes.co.salutations.pdf.cover
 co.salutations.pdf.header = template.titles_en_US_dedes.co.salutations.pdf.header
-//co.greatcompline.pdf.cover = template.titles_en_US_dedes.co.greatcompline.pdf.cover
-//co.greatcompline.pdf.header = template.titles_en_US_dedes.co.greatcompline.pdf.header
+co.greatcanon.html.tab = template.titles_en_US_dedes.co.greatcanon.html.tab
+co.greatcanon.pdf.cover = template.titles_en_US_dedes.co.greatcanon.pdf.cover
+co.greatcanon.pdf.header = template.titles_en_US_dedes.co.greatcanon.pdf.header
+co.greatcompline.pdf.cover = template.titles_en_US_dedes.co.greatcompline.pdf.cover
+co.greatcompline.pdf.header = template.titles_en_US_dedes.co.greatcompline.pdf.header
 
 co1.html.tab = template.titles_en_US_dedes.co1.html.tab  //this is the pre-resurrection service of Pascha
 co1.pdf.header = template.titles_en_US_dedes.co1.pdf.header
