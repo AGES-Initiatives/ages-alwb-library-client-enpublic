@@ -56,6 +56,8 @@ meVE.Apolytikion1.mode = me.m02.d24_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m02.d24_en_US_dedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.text = me.m02.d24_en_US_dedes.meVE.Apolytikion1.text
 
+meCO.SupplicationVerse.text = me.m02.d24_en_US_dedes.meCO.SupplicationVerse.text
+
 meMA.Kathisma11.mode = me.m02.d24_en_US_dedes.meMA.Kathisma11.mode
 meMA.Kathisma11.melody = me.m02.d24_en_US_dedes.meMA.Kathisma11.melody
 meMA.Kathisma11.text = me.m02.d24_en_US_dedes.meMA.Kathisma11.text
