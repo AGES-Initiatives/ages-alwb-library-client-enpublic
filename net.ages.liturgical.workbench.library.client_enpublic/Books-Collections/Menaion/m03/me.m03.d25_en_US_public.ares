@@ -61,6 +61,8 @@ meVE.Stichera03.mode = me.m03.d25_en_US_dedes.meVE.Stichera03.mode
 meVE.Stichera03.melody = me.m03.d25_en_US_dedes.meVE.Stichera03.melody
 meVE.Stichera03.text = me.m03.d25_en_US_dedes.meVE.Stichera03.text
 
+meVE.MM.Stichera123as567.text = me.m03.d25_en_US_dedes.meVE.MM.Stichera123as567.text
+
 meVE.SticGlory.poet = me.m03.d25_en_US_dedes.meVE.SticGlory.poet
 meVE.SticGlory.mode = me.m03.d25_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m03.d25_en_US_dedes.meVE.SticGlory.melody
@@ -399,10 +401,10 @@ meMA.Lauds3.mode = me.m03.d25_en_US_dedes.meMA.Lauds3.mode
 meMA.Lauds3.melody = me.m03.d25_en_US_dedes.meMA.Lauds3.melody
 meMA.Lauds3.text = me.m03.d25_en_US_dedes.meMA.Lauds3.text
 
-//This troparion is not found in the Menaion but appears as a fourth Sticheron at Lauds of the Annunciation in Μέγας Ἱερὸς Συνέκδημος (Athens: Phos Publications, n.d.), p. 877; and, curiously, as an Apostichon at Vespers of the Akathist
 meMA.Lauds4.mode = me.m03.d25_en_US_dedes.meMA.Lauds4.mode
 meMA.Lauds4.melody = me.m03.d25_en_US_dedes.meMA.Lauds4.melody
 meMA.Lauds4.text = me.m03.d25_en_US_dedes.meMA.Lauds4.text
+meMA.Lauds4.note = me.m03.d25_en_US_dedes.meMA.Lauds4.note
 
 meMA.LaudsGlory.poet = me.m03.d25_en_US_dedes.meMA.LaudsGlory.poet
 meMA.LaudsGlory.mode = me.m03.d25_en_US_dedes.meMA.LaudsGlory.mode

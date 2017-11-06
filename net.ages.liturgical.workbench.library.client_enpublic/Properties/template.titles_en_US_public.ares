@@ -288,6 +288,8 @@ clps.prayers.top = template.titles_en_US_dedes.clps.prayers.top
 clps.prayers.bottom = template.titles_en_US_dedes.clps.prayers.bottom
 clps.lity.top = template.titles_en_US_dedes.clps.lity.top
 clps.lity.bottom = template.titles_en_US_dedes.clps.lity.bottom
+clps.selectedverses.top = template.titles_en_US_dedes.clps.selectedverses.top
+clps.selectedverses.bottom = template.titles_en_US_dedes.clps.selectedverses.bottom
 
 bmc.tag = "" //begin marked content
 emc.tag = "" //end marked content
