@@ -42,8 +42,8 @@ peVE.Aposticha3.melody = pe.d088_en_US_dedes.peVE.Aposticha3.melody
 peVE.Aposticha3.text = pe.d088_en_US_dedes.peVE.Aposticha3.text
 
 peVE.AposGlory.mode = pe.d088_en_US_dedes.peVE.AposGlory.mode
-peVE.AposGlory.melody = pe.d088_en_US_dedes.peVE.AposGlory.melody
-peVE.AposGlory.text = pe.d088_en_US_dedes.peVE.AposGlory.text
+peVE.AposGlory.melody = pe.d088_en_UK_lash.peVE.AposGlory.melody
+peVE.AposGlory.text = pe.d088_en_UK_lash.peVE.AposGlory.text
 
 peMA.Kathisma11.mode = pe.d088_en_US_dedes.peMA.Kathisma11.mode
 peMA.Kathisma11.melody = pe.d088_en_US_dedes.peMA.Kathisma11.melody
