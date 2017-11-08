@@ -505,7 +505,7 @@ meMA.AposStavrotheotokion.mode = me.m11.d12_en_US_dedes.meMA.AposStavrotheotokio
 meMA.AposStavrotheotokion.melody = me.m11.d12_en_US_dedes.meMA.AposStavrotheotokion.melody
 meMA.AposStavrotheotokion.text = me.m11.d12_en_US_dedes.meMA.AposStavrotheotokion.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
+meMA.MM.VeApos1123as5678.text = me.m11.d12_en_US_dedes.meMA.MM.VeApos1123as5678.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
