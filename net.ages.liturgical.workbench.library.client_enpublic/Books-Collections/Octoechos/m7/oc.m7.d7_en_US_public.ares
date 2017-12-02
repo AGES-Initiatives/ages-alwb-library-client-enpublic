@@ -611,8 +611,8 @@ octrMA.Lauds3.melody = oc.m7.d7_en_US_dedes.octrMA.Lauds3.melody
 octrMA.Lauds3.text = oc.m7.d7_en_US_dedes.octrMA.Lauds3.text
 
 octrMA.Lauds4.mode = oc.m7.d7_en_US_dedes.octrMA.Lauds4.mode
-octrMA.Lauds4.melody = oc.m7.d7_en_US_dedes.octrMA.Lauds4.melody
-octrMA.Lauds4.text = oc.m7.d7_en_US_dedes.octrMA.Lauds4.text
+octrMA.Lauds4.melody = oc.m7.d7_en_UK_lash.octrMA.Lauds4.melody
+octrMA.Lauds4.text = oc.m7.d7_en_UK_lash.octrMA.Lauds4.text
 
 octrMA.LaudsGlory.mode = oc.m7.d7_en_US_dedes.octrMA.LaudsGlory.mode
 octrMA.LaudsGlory.melody = oc.m7.d7_en_US_dedes.octrMA.LaudsGlory.melody
