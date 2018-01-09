@@ -290,6 +290,7 @@ trMA.Synaxarion.couplet1.verse1 = tr.d050_en_US_dedes.trMA.Synaxarion.couplet1.v
 trMA.Synaxarion.couplet1.verse2 = tr.d050_en_US_dedes.trMA.Synaxarion.couplet1.verse2
 trMA.Synaxarion.couplet2.verse1 = tr.d050_en_US_dedes.trMA.Synaxarion.couplet2.verse1
 trMA.Synaxarion.couplet2.verse2 = tr.d050_en_US_dedes.trMA.Synaxarion.couplet2.verse2
+trMA.Synaxarion.text = "[This is where the text of the Triodion's Synaxarion will appear.]"
 trMA.Synaxarion.lastline.text = tr.d050_en_US_dedes.trMA.Synaxarion.lastline.text
 
 trMA.Ode7C11.ode = tr.d050_en_US_dedes.trMA.Ode7C11.ode
