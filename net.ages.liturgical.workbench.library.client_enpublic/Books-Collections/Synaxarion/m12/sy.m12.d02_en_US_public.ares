@@ -1,12 +1,26 @@
 A_Resource_Whose_Name = sy.m12.d02_en_US_public
 
 S01.commemoration.text = sy.m12.d02_en_US_dedes.S01.commemoration.text
-S01.couplet1.title = 
-S01.couplet1.verse1 = 
-S01.couplet1.verse2 = 
-S01.narration1.text = 
+S01.narration1.p01.text = sy.m12.d02_en_US_dedes.S01.narration1.p01.text
+S01.narration1.p02.text = sy.m12.d02_en_US_dedes.S01.narration1.p02.text
+S01.narration1.p03.text = sy.m12.d02_en_US_dedes.S01.narration1.p03.text
+S01.narration1.p04.text = sy.m12.d02_en_US_dedes.S01.narration1.p04.text
+S01.narration1.p05.text = sy.m12.d02_en_US_dedes.S01.narration1.p05.text
+S01.narration1.p06.text = sy.m12.d02_en_US_dedes.S01.narration1.p06.text
+S01.narration1.p07.text = sy.m12.d02_en_US_dedes.S01.narration1.p07.text
+S01.couplet1.title = //sy.m12.d02_en_US_dedes.S01.couplet1.title
+S01.couplet1.verse1 = //sy.m12.d02_en_US_dedes.S01.couplet1.verse1
+S01.couplet1.verse2 = //sy.m12.d02_en_US_dedes.S01.couplet1.verse2
+S01.narration1.text = //sy.m12.d02_en_US_dedes.S01.narration1.text
 
 S02.commemoration.text = sy.m12.d02_en_US_dedes.S02.commemoration.text
+S02.narration1.p01.text = sy.m12.d02_en_US_dedes.S02.narration1.p01.text
+S02.narration1.p02.text = sy.m12.d02_en_US_dedes.S02.narration1.p02.text
+S02.narration1.p03.text = sy.m12.d02_en_US_dedes.S02.narration1.p03.text
+S02.narration1.p04.text = sy.m12.d02_en_US_dedes.S02.narration1.p04.text
+S02.narration1.p05.text = sy.m12.d02_en_US_dedes.S02.narration1.p05.text
+S02.narration1.p06.text = sy.m12.d02_en_US_dedes.S02.narration1.p06.text
+S02.narration1.p07.text = sy.m12.d02_en_US_dedes.S02.narration1.p07.text
 
 S03.commemoration.text = sy.m12.d02_en_US_dedes.S03.commemoration.text
 
@@ -21,7 +35,6 @@ S07.couplet1.title = sy.m12.d02_en_US_dedes.S07.couplet1.title
 S07.couplet1.verse1 = sy.m12.d02_en_US_dedes.S07.couplet1.verse1
 S07.couplet1.verse2 = sy.m12.d02_en_US_dedes.S07.couplet1.verse2
 S07.single1.text = sy.m12.d02_en_US_dedes.S07.single1.text
-S07.narration1.text = sy.m12.d02_en_US_dedes.S07.narration1.text
 
 S08.commemoration.text = sy.m12.d02_en_US_dedes.S08.commemoration.text
 

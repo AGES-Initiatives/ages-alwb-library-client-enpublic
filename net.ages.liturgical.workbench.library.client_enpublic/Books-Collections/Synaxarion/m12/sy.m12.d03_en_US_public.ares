@@ -1,8 +1,22 @@
 A_Resource_Whose_Name = sy.m12.d03_en_US_public
 
 S01.commemoration.text = sy.m12.d03_en_US_dedes.S01.commemoration.text
+S01.narration1.p01.text = sy.m12.d03_en_US_dedes.S01.narration1.p01.text
+S01.narration1.p02.text = sy.m12.d03_en_US_dedes.S01.narration1.p02.text
+S01.narration1.p03.text = sy.m12.d03_en_US_dedes.S01.narration1.p03.text
+S01.narration1.p04.text = sy.m12.d03_en_US_dedes.S01.narration1.p04.text
+S01.narration1.p05.text = sy.m12.d03_en_US_dedes.S01.narration1.p05.text
+S01.narration1.p06.text = sy.m12.d03_en_US_dedes.S01.narration1.p06.text
+S01.narration1.p07.text = sy.m12.d03_en_US_dedes.S01.narration1.p07.text
 
 S02.commemoration.text = sy.m12.d03_en_US_dedes.S02.commemoration.text
+S02.narration1.p01.text = sy.m12.d03_en_US_dedes.S02.narration1.p01.text
+S02.narration1.p02.text = sy.m12.d03_en_US_dedes.S02.narration1.p02.text
+S02.narration1.p03.text = sy.m12.d03_en_US_dedes.S02.narration1.p03.text
+S02.narration1.p04.text = sy.m12.d03_en_US_dedes.S02.narration1.p04.text
+S02.narration1.p05.text = sy.m12.d03_en_US_dedes.S02.narration1.p05.text
+S02.narration1.p06.text = sy.m12.d03_en_US_dedes.S02.narration1.p06.text
+S02.narration1.p07.text = sy.m12.d03_en_US_dedes.S02.narration1.p07.text
 
 S03.commemoration.text = sy.m12.d03_en_US_dedes.S03.commemoration.text
 
