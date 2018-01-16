@@ -878,6 +878,8 @@ trMA.Ode9K.mode = tr.d063_en_US_dedes.trMA.Ode9K.mode
 trMA.Ode9K.melody = tr.d063_en_US_dedes.trMA.Ode9K.melody
 trMA.Ode9K.text = tr.d063_en_US_dedes.trMA.Ode9K.text
 
+trMA.MM.ExapIntro.text = tr.d063_en_US_dedes.trMA.MM.ExapIntro.text
+
 trMA.Exaposteilarion1.mode = tr.d063_en_US_dedes.trMA.Exaposteilarion1.mode
 trMA.Exaposteilarion1.melody = tr.d063_en_US_dedes.trMA.Exaposteilarion1.melody
 trMA.Exaposteilarion1.text = tr.d063_en_US_dedes.trMA.Exaposteilarion1.text
