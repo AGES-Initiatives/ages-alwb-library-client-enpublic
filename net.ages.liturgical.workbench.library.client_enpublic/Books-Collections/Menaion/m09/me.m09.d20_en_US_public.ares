@@ -200,8 +200,6 @@ meMA.Kontakion1.text = me.m09.d20_en_US_oca.meMA.Kontakion1.text
 
 meMA.Oikos1.text = me.m09.d20_en_US_dedes.meMA.Oikos1.text
 
-meMA.Synaxarion.text = me.m09.d20_en_US_dedes.meMA.Synaxarion.text
-
 meMA.Ode7C11.ode = me.m09.d20_en_US_dedes.meMA.Ode7C11.ode
 meMA.Ode7C11.mode = me.m09.d20_en_US_dedes.meMA.Ode7C11.mode
 meMA.Ode7C11.melody = me.m09.d20_en_US_dedes.meMA.Ode7C11.melody

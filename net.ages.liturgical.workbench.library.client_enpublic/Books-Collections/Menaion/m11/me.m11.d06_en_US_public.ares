@@ -202,8 +202,6 @@ meMA.Kontakion1.text = me.m11.d06_en_US_dedes.meMA.Kontakion1.text
 
 meMA.Oikos1.text = me.m11.d06_en_US_dedes.meMA.Oikos1.text
 
-meMA.Synaxarion.text = me.m11.d06_en_US_dedes.meMA.Synaxarion.text
-
 meMA.Ode7C11.ode = gm.forabishop_en_UK_lash.meMA.Ode7C11.ode
 meMA.Ode7C11.mode = gm.forabishop_en_UK_lash.meMA.Ode7C11.mode
 meMA.Ode7C11.melody = gm.forabishop_en_UK_lash.meMA.Ode7C11.melody

@@ -187,8 +187,6 @@ meMA.Kontakion1.mode = me.m03.d15_en_US_dedes.meMA.Kontakion1.mode
 meMA.Kontakion1.melody = me.m03.d15_en_US_dedes.meMA.Kontakion1.melody
 meMA.Kontakion1.text = me.m03.d15_en_US_dedes.meMA.Kontakion1.text
 
-meMA.Synaxarion.text = me.m03.d15_en_US_dedes.meMA.Synaxarion.text
-
 meMA.Ode7C1H.ode = gm.fortwoormoremartyrs_en_UK_lash.meMA.Ode7C1H.ode
 meMA.Ode7C1H.mode = gm.fortwoormoremartyrs_en_UK_lash.meMA.Ode7C1H.mode
 meMA.Ode7C1H.melody = gm.fortwoormoremartyrs_en_UK_lash.meMA.Ode7C1H.melody

@@ -433,8 +433,6 @@ meMA.Oikos16.text = me.m07.d12_en_US_dedes.meMA.Oikos16.text
 meMA.Oikos17.text = me.m07.d12_en_US_dedes.meMA.Oikos17.text
 meMA.Oikos18.text = me.m07.d12_en_US_dedes.meMA.Oikos18.text
 
-meMA.Synaxarion.text = me.m07.d12_en_US_dedes.meMA.Synaxarion.text
-
 meMA.Ode7C11.ode = me.m07.d12_en_US_dedes.meMA.Ode7C11.ode
 meMA.Ode7C11.mode = me.m07.d12_en_US_dedes.meMA.Ode7C11.mode
 meMA.Ode7C11.melody = me.m07.d12_en_US_dedes.meMA.Ode7C11.melody
@@ -787,9 +785,7 @@ alt1.meMA.Ode6H.mode = me.m07.d12_en_US_dedes.alt1.meMA.Ode6H.mode
 alt1.meMA.Ode6H.melody = me.m07.d12_en_US_dedes.alt1.meMA.Ode6H.melody
 alt1.meMA.Ode6H.text = me.m07.d12_en_US_dedes.alt1.meMA.Ode6H.text
 
-alt1.meMA.Synaxarion.text = me.m07.d12_en_US_dedes.alt1.meMA.Synaxarion.text
-
-alt1.meMA.Ode7C11.ode = me.m07.d12_en_US_dedes.alt1.meMA.Ode7C11.ode
+alt1.alt1.meMA.Ode7C11.ode = me.m07.d12_en_US_dedes.alt1.meMA.Ode7C11.ode
 alt1.meMA.Ode7C11.mode = me.m07.d12_en_US_dedes.alt1.meMA.Ode7C11.mode
 alt1.meMA.Ode7C11.melody = me.m07.d12_en_US_dedes.alt1.meMA.Ode7C11.melody
 alt1.meMA.Ode7C11.text = me.m07.d12_en_US_dedes.alt1.meMA.Ode7C11.text
@@ -1436,9 +1432,7 @@ alt2.meMA.Oikos16.text = me.m07.d12_en_US_dedes.alt2.meMA.Oikos16.text
 alt2.meMA.Oikos17.text = me.m07.d12_en_US_dedes.alt2.meMA.Oikos17.text
 alt2.meMA.Oikos18.text = me.m07.d12_en_US_dedes.alt2.meMA.Oikos18.text
 
-alt2.meMA.Synaxarion.text = me.m07.d12_en_US_dedes.alt2.meMA.Synaxarion.text
-
-alt2.meMA.Ode7C1H.ode = me.m07.d12_en_US_dedes.alt2.meMA.Ode7C1H.ode
+alt2.alt2.meMA.Ode7C1H.ode = me.m07.d12_en_US_dedes.alt2.meMA.Ode7C1H.ode
 alt2.meMA.Ode7C1H.mode = me.m07.d12_en_US_dedes.alt2.meMA.Ode7C1H.mode
 alt2.meMA.Ode7C1H.melody = me.m07.d12_en_US_dedes.alt2.meMA.Ode7C1H.melody
 alt2.meMA.Ode7C1H.text = me.m07.d12_en_US_dedes.alt2.meMA.Ode7C1H.text

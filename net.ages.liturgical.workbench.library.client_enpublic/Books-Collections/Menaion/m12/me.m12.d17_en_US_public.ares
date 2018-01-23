@@ -298,8 +298,6 @@ meMA.Kontakion2.text = me.m12.d17_en_US_dedes.meMA.Kontakion2.text
 
 meMA.Oikos2.text = me.m12.d17_en_US_dedes.meMA.Oikos2.text
 
-meMA.Synaxarion.text = me.m12.d17_en_US_dedes.meMA.Synaxarion.text
-
 meMA.Ode7C11.ode = me.m12.d17_en_US_dedes.meMA.Ode7C11.ode
 meMA.Ode7C11.mode = me.m12.d17_en_US_dedes.meMA.Ode7C11.mode
 meMA.Ode7C11.melody = me.m12.d17_en_US_dedes.meMA.Ode7C11.melody
@@ -700,9 +698,7 @@ alt1.meMA.Kontakion1.text = me.m12.d17_en_US_dedes.alt1.meMA.Kontakion1.text
 
 alt1.meMA.Oikos1.text = me.m12.d17_en_US_dedes.alt1.meMA.Oikos1.text
 
-alt1.meMA.Synaxarion.text = me.m12.d17_en_US_dedes.alt1.meMA.Synaxarion.text
-
-alt1.meMA.Ode7C11.ode = me.m12.d17_en_US_dedes.alt1.meMA.Ode7C11.ode
+alt1.alt1.meMA.Ode7C11.ode = me.m12.d17_en_US_dedes.alt1.meMA.Ode7C11.ode
 alt1.meMA.Ode7C11.mode = me.m12.d17_en_US_dedes.alt1.meMA.Ode7C11.mode
 alt1.meMA.Ode7C11.melody = me.m12.d17_en_US_dedes.alt1.meMA.Ode7C11.melody
 alt1.meMA.Ode7C11.text = me.m12.d17_en_US_dedes.alt1.meMA.Ode7C11.text
