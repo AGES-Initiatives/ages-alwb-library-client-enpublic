@@ -656,7 +656,7 @@ alt1.meMA.Ode6C1T.mode = me.m02.d06_en_US_dedes.alt1.meMA.Ode6C1T.mode
 alt1.meMA.Ode6C1T.melody = me.m02.d06_en_US_dedes.alt1.meMA.Ode6C1T.melody
 alt1.meMA.Ode6C1T.text = me.m02.d06_en_US_dedes.alt1.meMA.Ode6C1T.text
 
-alt1.alt1.meMA.Ode7C1H.ode = me.m02.d06_en_US_dedes.alt1.meMA.Ode7C1H.ode
+alt1.meMA.Ode7C1H.ode = me.m02.d06_en_US_dedes.alt1.meMA.Ode7C1H.ode
 alt1.meMA.Ode7C1H.mode = me.m02.d06_en_US_dedes.alt1.meMA.Ode7C1H.mode
 alt1.meMA.Ode7C1H.melody = me.m02.d06_en_US_dedes.alt1.meMA.Ode7C1H.melody
 alt1.meMA.Ode7C1H.text = me.m02.d06_en_US_dedes.alt1.meMA.Ode7C1H.text
@@ -1081,7 +1081,7 @@ alt2.meMA.Kontakion1.text = me.m02.d06_en_US_dedes.alt2.meMA.Kontakion1.text
 
 alt2.meMA.Oikos1.text = me.m02.d06_en_US_dedes.alt2.meMA.Oikos1.text
 
-alt2.alt2.meMA.Ode7C11.ode = me.m02.d06_en_US_dedes.alt2.meMA.Ode7C11.ode
+alt2.meMA.Ode7C11.ode = me.m02.d06_en_US_dedes.alt2.meMA.Ode7C11.ode
 alt2.meMA.Ode7C11.mode = me.m02.d06_en_US_dedes.alt2.meMA.Ode7C11.mode
 alt2.meMA.Ode7C11.melody = me.m02.d06_en_US_dedes.alt2.meMA.Ode7C11.melody
 alt2.meMA.Ode7C11.text = me.m02.d06_en_US_dedes.alt2.meMA.Ode7C11.text
