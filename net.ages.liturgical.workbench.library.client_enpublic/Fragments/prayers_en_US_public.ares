@@ -482,8 +482,14 @@ sup06a = prayers_en_US_holycross.sup06a
 
 sup06b = prayers_en_US_holycross.sup06b
 
+sup06_basil = prayers_en_US_holycross.sup06_basil
+sup06_gregory = prayers_en_US_holycross.sup06_gregory
+sup06_john = prayers_en_US_holycross.sup06_john
 sup07 = prayers_en_US_holycross.sup07
-
+sup07_athanasios_cyril = prayers_en_US_holycross.sup07_athanasios_cyril
+sup07_athanasios = prayers_en_US_holycross.sup07_athanasios
+sup07_cyril = prayers_en_US_holycross.sup07_cyril
+sup07_john = prayers_en_US_holycross.sup07_john
 sup08 = prayers_en_US_holycross.sup08
 sup08_nicholas = prayers_en_US_holycross.sup08_nicholas
 sup08_spyridon = prayers_en_US_holycross.sup08_spyridon
@@ -492,9 +498,12 @@ sup08_nektarios = prayers_en_US_holycross.sup08_nektarios
 sup09 = prayers_en_US_holycross.sup09
 sup09_demetrios = prayers_en_US_holycross.sup09_demetrios
 sup09_george = prayers_en_US_holycross.sup09_george
-
+sup09_tyro = prayers_en_US_holycross.sup09_tyro
+sup09_general = prayers_en_US_holycross.sup09_general
+sup09_minas = prayers_en_US_holycross.sup09_minas
 sup10 = prayers_en_US_holycross.sup10
-
+sup10_haralambos = prayers_en_US_holycross.sup10_haralambos
+sup10_eleutherios = prayers_en_US_holycross.sup10_eleutherios
 sup11 = prayers_en_US_holycross.sup11
 
 sup11_eufimia = prayers_en_US_holycross.sup11_eufimia
