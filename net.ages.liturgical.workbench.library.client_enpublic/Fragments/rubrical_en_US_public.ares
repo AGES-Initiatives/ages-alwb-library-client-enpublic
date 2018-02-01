@@ -85,3 +85,9 @@ Twice = rubrical_en_US_dedes.Twice
 TwiceWithNoVerse = rubrical_en_US_dedes.TwiceWithNoVerse
 
 WineOil = rubrical_en_US_dedes.WineOil
+
+fasting.strict = rubrical_en_US_goa.fasting.strict
+fasting.wine = rubrical_en_US_goa.fasting.wine
+fasting.fish = rubrical_en_US_goa.fasting.fish
+fasting.dairy = rubrical_en_US_goa.fasting.dairy
+fasting.free = rubrical_en_US_goa.fasting.free
