@@ -274,6 +274,8 @@ KanonBTonPateron = titles_en_US_dedes.KanonBTonPateron
 
 KanonTonPropatoron = titles_en_US_dedes.KanonTonPropatoron
 
+KanonTonTheopatoron = titles_en_US_dedes.KanonTonTheopatoron
+
 KanonTouAgiou = titles_en_US_dedes.KanonTouAgiou
 
 KanonATouAgiou = titles_en_US_dedes.KanonATouAgiou
@@ -664,6 +666,8 @@ TouMinaiou = titles_en_US_dedes.TouMinaiou
 TouMnistoros = titles_en_US_dedes.TouMnistoros
 
 TouNaou = titles_en_US_dedes.TouNaou
+
+TouNeomartyros = titles_en_US_dedes.TouNeomartyros
 
 TouOsiomartyros = titles_en_US_dedes.TouOsiomartyros
 
