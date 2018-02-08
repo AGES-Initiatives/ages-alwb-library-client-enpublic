@@ -62,7 +62,7 @@ meVE.Aposticha3.text = me.m02.d08_en_US_dedes.meVE.Aposticha3.text
 
 meVE.AposGlory.mode = me.m02.d08_en_US_dedes.meVE.AposGlory.mode
 meVE.AposGlory.melody = me.m02.d08_en_US_dedes.meVE.AposGlory.melody
-meVE.AposGlory.text = me.m02.d08_en_US_dedes.meVE.AposGlory.text
+meVE.AposGlory.text = me.m02.d08_en_US_oca.meVE.AposGlory.text
 
 meVE.AposBoth.poet = me.m02.d08_en_US_dedes.meVE.AposBoth.poet
 meVE.AposBoth.mode = me.m02.d08_en_US_dedes.meVE.AposBoth.mode
@@ -70,8 +70,8 @@ meVE.AposBoth.melody = me.m02.d08_en_US_dedes.meVE.AposBoth.melody
 meVE.AposBoth.text = me.m02.d08_en_US_dedes.meVE.AposBoth.text
 
 meVE.Apolytikion1.mode = me.m02.d08_en_US_dedes.meVE.Apolytikion1.mode
-meVE.Apolytikion1.melody = me.m02.d08_en_US_dedes.meVE.Apolytikion1.melody
-meVE.Apolytikion1.text = me.m02.d08_en_US_dedes.meVE.Apolytikion1.text
+meVE.Apolytikion1.melody = me.m02.d08_en_US_oca.meVE.Apolytikion1.melody
+meVE.Apolytikion1.text = me.m02.d08_en_US_oca.meVE.Apolytikion1.text
 
 meVE.Apolytikion2.poet = me.m02.d08_en_US_dedes.meVE.Apolytikion2.poet
 meVE.Apolytikion2.mode = me.m02.d08_en_US_dedes.meVE.Apolytikion2.mode
@@ -83,12 +83,12 @@ meMA.Kathisma11.melody = me.m02.d08_en_US_dedes.meMA.Kathisma11.melody
 meMA.Kathisma11.text = me.m02.d08_en_US_dedes.meMA.Kathisma11.text
 
 meMA.Kathisma12.mode = me.m02.d08_en_US_dedes.meMA.Kathisma12.mode
-meMA.Kathisma12.melody = me.m02.d08_en_US_dedes.meMA.Kathisma12.melody
-meMA.Kathisma12.text = me.m02.d08_en_US_dedes.meMA.Kathisma12.text
+meMA.Kathisma12.melody = me.m02.d08_en_US_oca.meMA.Kathisma12.melody
+meMA.Kathisma12.text = me.m02.d08_en_US_oca.meMA.Kathisma12.text
 
 meMA.Kathisma21.mode = me.m02.d08_en_US_dedes.meMA.Kathisma21.mode
-meMA.Kathisma21.melody = me.m02.d08_en_US_dedes.meMA.Kathisma21.melody
-meMA.Kathisma21.text = me.m02.d08_en_US_dedes.meMA.Kathisma21.text
+meMA.Kathisma21.melody = me.m02.d08_en_US_oca.meMA.Kathisma21.melody
+meMA.Kathisma21.text = me.m02.d08_en_US_oca.meMA.Kathisma21.text
 
 meMA.C1Acrostic.text = me.m02.d08_en_US_dedes.meMA.C1Acrostic.text
 
@@ -379,8 +379,8 @@ meMA.Ode6C2T.melody = me.m02.d08_en_US_dedes.meMA.Ode6C2T.melody
 meMA.Ode6C2T.text = me.m02.d08_en_US_dedes.meMA.Ode6C2T.text
 
 meMA.Kontakion1.mode = me.m02.d08_en_US_dedes.meMA.Kontakion1.mode
-meMA.Kontakion1.melody = me.m02.d08_en_US_dedes.meMA.Kontakion1.melody
-meMA.Kontakion1.text = me.m02.d08_en_US_dedes.meMA.Kontakion1.text
+meMA.Kontakion1.melody = me.m02.d08_en_US_oca.meMA.Kontakion1.melody
+meMA.Kontakion1.text = me.m02.d08_en_US_oca.meMA.Kontakion1.text
 
 meMA.Oikos1.text = me.m02.d08_en_US_dedes.meMA.Oikos1.text
 
@@ -530,24 +530,24 @@ meMA.Ode9C2T.melody = me.m02.d08_en_US_dedes.meMA.Ode9C2T.melody
 meMA.Ode9C2T.text = me.m02.d08_en_US_dedes.meMA.Ode9C2T.text
 
 meMA.Exaposteilarion1.mode = me.m02.d08_en_US_dedes.meMA.Exaposteilarion1.mode
-meMA.Exaposteilarion1.melody = me.m02.d08_en_US_dedes.meMA.Exaposteilarion1.melody
-meMA.Exaposteilarion1.text = me.m02.d08_en_US_dedes.meMA.Exaposteilarion1.text
+meMA.Exaposteilarion1.melody = me.m02.d08_en_US_oca.meMA.Exaposteilarion1.melody
+meMA.Exaposteilarion1.text = me.m02.d08_en_US_oca.meMA.Exaposteilarion1.text
 
 meMA.Exaposteilarion2.mode = me.m02.d08_en_US_dedes.meMA.Exaposteilarion2.mode
 meMA.Exaposteilarion2.melody = me.m02.d08_en_US_dedes.meMA.Exaposteilarion2.melody
 meMA.Exaposteilarion2.text = me.m02.d08_en_US_dedes.meMA.Exaposteilarion2.text
 
 meMA.Lauds1.mode = me.m02.d08_en_US_dedes.meMA.Lauds1.mode
-meMA.Lauds1.melody = me.m02.d08_en_US_dedes.meMA.Lauds1.melody
-meMA.Lauds1.text = me.m02.d08_en_US_dedes.meMA.Lauds1.text
+meMA.Lauds1.melody = me.m02.d08_en_US_oca.meMA.Lauds1.melody
+meMA.Lauds1.text = me.m02.d08_en_US_oca.meMA.Lauds1.text
 
 meMA.Lauds2.mode = me.m02.d08_en_US_dedes.meMA.Lauds2.mode
-meMA.Lauds2.melody = me.m02.d08_en_US_dedes.meMA.Lauds2.melody
-meMA.Lauds2.text = me.m02.d08_en_US_dedes.meMA.Lauds2.text
+meMA.Lauds2.melody = me.m02.d08_en_US_oca.meMA.Lauds2.melody
+meMA.Lauds2.text = me.m02.d08_en_US_oca.meMA.Lauds2.text
 
 meMA.Lauds3.mode = me.m02.d08_en_US_dedes.meMA.Lauds3.mode
-meMA.Lauds3.melody = me.m02.d08_en_US_dedes.meMA.Lauds3.melody
-meMA.Lauds3.text = me.m02.d08_en_US_dedes.meMA.Lauds3.text
+meMA.Lauds3.melody = me.m02.d08_en_US_oca.meMA.Lauds3.melody
+meMA.Lauds3.text = me.m02.d08_en_US_oca.meMA.Lauds3.text
 
 meMA.LaudsGlory.mode = me.m02.d08_en_US_dedes.meMA.LaudsGlory.mode
 meMA.LaudsGlory.melody = me.m02.d08_en_US_dedes.meMA.LaudsGlory.melody
