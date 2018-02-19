@@ -82,6 +82,13 @@ cl.eu.lichrysbasil.R012 = "(The Deacon reads the designated pericope of the holy
 cl.eu.lichrysbasil.R013 = "(Following the readings, it is customary for the priest to preach the sermon.)"
 cl.eu.lichrysbasil.R014 = "(The Communion Hymn changes according to the Feast Day.)"
 
+cl.eu.presanctified.R001 = "(Go to the insert for today's appointed hymns and readings.)"
+cl.eu.presanctified.R002 = "(Go back to the Presanctified Liturgy booklet.)"
+cl.eu.presanctified.R003 = "(During the first three weeks of Lent, the following litany and the Prayer for those Preparing for Illumination are omitted.)"
+cl.eu.presanctified.R004 = "(Go back to the Presanctified Liturgy booklet. After \"Let my prayer...\" find the Epistle and Gospel readings here.)"
+cl.eu.presanctified.R005 = "(Go back to the Presanctified Liturgy booklet. After \"Let my prayer...\" find the Gospel reading here.)"
+cl.eu.presanctified.R006 = "(If there is to be an Epistle and/or Gospel reading, find them in the insert, then come back to this place in the service.)"
+
 cl.ho.s06.R001 = "If the Ninth Hour is to be appended, the dismissal of the Sixth Hour is omitted, and the Ninth Hour begins immediately at \"Holy God...\" without \"Blessed is our God... Heavenly King...\""
 
 cl.ho.s09.R001 = "If preceded by the Sixth Hour, the Ninth Hour begins immediately at \"Holy God...\" without \"Blessed is our God... Heavenly King...\""
