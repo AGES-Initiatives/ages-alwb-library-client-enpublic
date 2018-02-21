@@ -86,16 +86,25 @@ TwiceWithNoVerse = rubrical_en_US_dedes.TwiceWithNoVerse
 
 WineOil = rubrical_en_US_dedes.WineOil
 
-fasting.strict = rubrical_en_US_goa.fasting.strict
-fasting.oil = rubrical_en_US_goa.fasting.oil
-fasting.fish = rubrical_en_US_goa.fasting.fish
-fasting.dairy = rubrical_en_US_goa.fasting.dairy
-fasting.free = rubrical_en_US_goa.fasting.free
+fasting.rule.title = rubrical_en_US_goa.fasting.rule.title
+fasting.rule.strict = rubrical_en_US_goa.fasting.rule.strict
+fasting.rule.oil = rubrical_en_US_goa.fasting.rule.oil
+fasting.rule.fish = rubrical_en_US_goa.fasting.rule.fish
+fasting.rule.dairy = rubrical_en_US_goa.fasting.rule.dairy
+fasting.rule.free = rubrical_en_US_goa.fasting.rule.free
 
+fasting.explanation.title = rubrical_en_US_dedes.fasting.explanation.title
+fasting.explanation.triodion1 = rubrical_en_US_dedes.fasting.explanation.triodion1
+fasting.explanation.triodion3 = rubrical_en_US_dedes.fasting.explanation.triodion3
 fasting.explanation.lent = rubrical_en_US_dedes.fasting.explanation.lent
 fasting.explanation.lentweekend = rubrical_en_US_dedes.fasting.explanation.lentweekend
+fasting.explanation.holyweek = rubrical_en_US_dedes.fasting.explanation.holyweek
 fasting.explanation.wedfri = rubrical_en_US_dedes.fasting.explanation.wedfri
 fasting.explanation.minorfeast = rubrical_en_US_dedes.fasting.explanation.minorfeast
 fasting.explanation.majorfeast = rubrical_en_US_dedes.fasting.explanation.majorfeast
 fasting.explanation.christmas12days = rubrical_en_US_dedes.fasting.explanation.christmas12days
 fasting.explanation.paschal = rubrical_en_US_dedes.fasting.explanation.paschal
+fasting.explanation.pentecost = rubrical_en_US_dedes.fasting.explanation.pentecost
+fasting.explanation.apostlesfast = rubrical_en_US_dedes.fasting.explanation.apostlesfast
+fasting.explanation.dormitionfast = rubrical_en_US_dedes.fasting.explanation.dormitionfast
+fasting.explanation.christmasfast = rubrical_en_US_dedes.fasting.explanation.christmasfast
