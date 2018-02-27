@@ -298,6 +298,8 @@ ocMA.Hypakoe.mode = oc.m6.d1_en_US_dedes.ocMA.Hypakoe.mode
 ocMA.Hypakoe.melody = oc.m6.d1_en_US_dedes.ocMA.Hypakoe.melody
 ocMA.Hypakoe.text = oc.m6.d1_en_US_dedes.ocMA.Hypakoe.text
 
+ocMA.MM.AntiphonsProkeimenon.text = oc.m6.d1_en_US_dedes.ocMA.MM.AntiphonsProkeimenon.text
+
 ocMA.Antiphon11.mode = oc.m6.d1_en_US_dedes.ocMA.Antiphon11.mode
 ocMA.Antiphon11.melody = oc.m6.d1_en_US_dedes.ocMA.Antiphon11.melody
 ocMA.Antiphon11.text = oc.m6.d1_en_US_dedes.ocMA.Antiphon11.text
