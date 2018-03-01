@@ -1,0 +1,25 @@
+A_Resource_Whose_Name = ho.s15.m07_en_US_public
+
+hoD03.GeneralApolytikion3.name = ho.s15.m07_en_US_dedes.hoD03.GeneralApolytikion3.name
+
+hoD04.GeneralApolytikion1.name = ho.s15.m07_en_US_dedes.hoD04.GeneralApolytikion1.name
+
+hoD09.GeneralApolytikion1.name = ho.s15.m07_en_US_dedes.hoD09.GeneralApolytikion1.name
+
+hoD17.Apolytikion3.title = ho.s15.m07_en_US_dedes.hoD17.Apolytikion3.title
+hoD17.Apolytikion3.poet = ho.s15.m07_en_US_dedes.hoD17.Apolytikion3.poet
+hoD17.Apolytikion3.mode = ho.s15.m07_en_US_dedes.hoD17.Apolytikion3.mode
+hoD17.Apolytikion3.melody = ho.s15.m07_en_US_dedes.hoD17.Apolytikion3.melody
+hoD17.Apolytikion3.text = ho.s15.m07_en_US_dedes.hoD17.Apolytikion3.text
+
+hoD19.GeneralApolytikion1.name = ho.s15.m07_en_US_dedes.hoD19.GeneralApolytikion1.name
+hoD19.GeneralApolytikion3.name = ho.s15.m07_en_US_dedes.hoD19.GeneralApolytikion3.name
+
+hoD23.GeneralApolytikion3.name = ho.s15.m07_en_US_dedes.hoD23.GeneralApolytikion3.name
+
+//This one is not in the Horologion, but is from St. Paul's Monatsery
+hoD28.Apolytikion5.title = ho.s15.m07_en_US_dedes.hoD28.Apolytikion5.title
+hoD28.Apolytikion5.poet = ho.s15.m07_en_US_dedes.hoD28.Apolytikion5.poet
+hoD28.Apolytikion5.mode = ho.s15.m07_en_US_dedes.hoD28.Apolytikion5.mode
+hoD28.Apolytikion5.melody = ho.s15.m07_en_US_dedes.hoD28.Apolytikion5.melody
+hoD28.Apolytikion5.text = ho.s15.m07_en_US_dedes.hoD28.Apolytikion5.text
