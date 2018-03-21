@@ -51,16 +51,16 @@ ocVE.ApolTheotokionVM.text = oc.m7.d7_en_US_dedes.ocVE.ApolTheotokionVM.text
 ocMA.MM.Alleluia.text = properties_en_US_public.media.key
 
 ocMA.Kathisma11.mode = oc.m7.d7_en_US_dedes.ocMA.Kathisma11.mode
-ocMA.Kathisma11.melody = oc.m7.d7_en_US_dedes.ocMA.Kathisma11.melody
-ocMA.Kathisma11.text = oc.m7.d7_en_US_dedes.ocMA.Kathisma11.text
+ocMA.Kathisma11.melody = oc.m7.d7_en_US_oca.ocMA.Kathisma11.melody
+ocMA.Kathisma11.text = oc.m7.d7_en_US_oca.ocMA.Kathisma11.text
 
 ocMA.Kathisma12.mode = oc.m7.d7_en_US_dedes.ocMA.Kathisma12.mode
 ocMA.Kathisma12.melody = oc.m7.d7_en_US_dedes.ocMA.Kathisma12.melody
 ocMA.Kathisma12.text = oc.m7.d7_en_US_dedes.ocMA.Kathisma12.text
 
 ocMA.Kathisma13.mode = oc.m7.d7_en_US_dedes.ocMA.Kathisma13.mode
-ocMA.Kathisma13.melody = oc.m7.d7_en_US_dedes.ocMA.Kathisma13.melody
-ocMA.Kathisma13.text = oc.m7.d7_en_US_dedes.ocMA.Kathisma13.text
+ocMA.Kathisma13.melody = oc.m7.d7_en_UK_lash.ocMA.Kathisma13.melody
+ocMA.Kathisma13.text = oc.m7.d7_en_UK_lash.ocMA.Kathisma13.text
 
 ocMA.Kathisma14.mode = oc.m7.d7_en_US_dedes.ocMA.Kathisma14.mode
 ocMA.Kathisma14.melody = oc.m7.d7_en_US_dedes.ocMA.Kathisma14.melody
