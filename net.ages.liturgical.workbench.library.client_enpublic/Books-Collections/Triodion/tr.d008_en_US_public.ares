@@ -165,7 +165,7 @@ trMA.Kontakion1.mode = tr.d008_en_US_dedes.trMA.Kontakion1.mode
 trMA.Kontakion1.melody = tr.d008_en_US_dedes.trMA.Kontakion1.melody
 trMA.Kontakion1.text = tr.d008_en_US_dedes.trMA.Kontakion1.text
 
-trMA.Oikos1.text = tr.d008_en_US_dedes.trMA.Oikos1.text
+trMA.Oikos1.text = tr.d008_en_US_duvall.trMA.Oikos1.text
 
 trMA.Synaxarion.commemoration.text = tr.d008_en_US_dedes.trMA.Synaxarion.commemoration.text
 trMA.Synaxarion.couplet1.title = tr.d008_en_US_dedes.trMA.Synaxarion.couplet1.title
@@ -267,19 +267,19 @@ trMA.ExapTheotokion.text = tr.d008_en_US_dedes.trMA.ExapTheotokion.text
 
 trMA.Lauds1.mode = tr.d008_en_US_dedes.trMA.Lauds1.mode
 trMA.Lauds1.melody = tr.d008_en_US_dedes.trMA.Lauds1.melody
-trMA.Lauds1.text = tr.d008_en_US_dedes.trMA.Lauds1.text
+trMA.Lauds1.text = tr.d008_en_US_duvall.trMA.Lauds1.text
 
 trMA.Lauds2.mode = tr.d008_en_US_dedes.trMA.Lauds2.mode
 trMA.Lauds2.melody = tr.d008_en_US_dedes.trMA.Lauds2.melody
-trMA.Lauds2.text = tr.d008_en_US_dedes.trMA.Lauds2.text
+trMA.Lauds2.text = tr.d008_en_US_duvall.trMA.Lauds2.text
 
 trMA.Lauds3.mode = tr.d008_en_US_dedes.trMA.Lauds3.mode
 trMA.Lauds3.melody = tr.d008_en_US_dedes.trMA.Lauds3.melody
-trMA.Lauds3.text = tr.d008_en_US_dedes.trMA.Lauds3.text
+trMA.Lauds3.text = tr.d008_en_US_duvall.trMA.Lauds3.text
 
 trMA.LaudsGlory.mode = tr.d008_en_US_dedes.trMA.LaudsGlory.mode
 trMA.LaudsGlory.melody = tr.d008_en_US_dedes.trMA.LaudsGlory.melody
-trMA.LaudsGlory.text = tr.d008_en_US_dedes.trMA.LaudsGlory.text
+trMA.LaudsGlory.text = tr.d008_en_US_duvall.trMA.LaudsGlory.text
 
 trMA.LaudsTheotokion.mode = tr.d008_en_US_dedes.trMA.LaudsTheotokion.mode
 trMA.LaudsTheotokion.melody = tr.d008_en_US_dedes.trMA.LaudsTheotokion.melody

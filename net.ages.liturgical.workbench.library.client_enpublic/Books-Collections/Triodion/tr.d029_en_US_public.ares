@@ -246,8 +246,8 @@ trMA.Ode6C1T.melody = tr.d029_en_US_oca.trMA.Ode6C1T.melody
 trMA.Ode6C1T.text = tr.d029_en_US_oca.trMA.Ode6C1T.text
 
 trMA.Kontakion1.mode = tr.d029_en_US_dedes.trMA.Kontakion1.mode
-trMA.Kontakion1.melody = tr.d029_en_US_dedes.trMA.Kontakion1.melody
-trMA.Kontakion1.text = tr.d029_en_US_dedes.trMA.Kontakion1.text
+trMA.Kontakion1.melody = tr.d029_en_US_duvall.trMA.Kontakion1.melody
+trMA.Kontakion1.text = tr.d029_en_US_duvall.trMA.Kontakion1.text
 
 trMA.Oikos1.text = tr.d029_en_US_dedes.trMA.Oikos1.text
 
@@ -353,7 +353,7 @@ trMA.Lauds3.text = tr.d029_en_US_dedes.trMA.Lauds3.text
 
 trMA.LaudsGlory.mode = tr.d029_en_US_dedes.trMA.LaudsGlory.mode
 trMA.LaudsGlory.melody = tr.d029_en_US_dedes.trMA.LaudsGlory.melody
-trMA.LaudsGlory.text = tr.d029_en_US_dedes.trMA.LaudsGlory.text
+trMA.LaudsGlory.text = tr.d029_en_US_duvall.trMA.LaudsGlory.text
 
 trMA.LaudsTheotokion.mode = tr.d029_en_US_dedes.trMA.LaudsTheotokion.mode
 trMA.LaudsTheotokion.melody = tr.d029_en_US_dedes.trMA.LaudsTheotokion.melody

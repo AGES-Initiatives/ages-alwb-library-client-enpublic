@@ -224,7 +224,7 @@ peMA.Kontakion1.mode = pe.d127_en_US_dedes.peMA.Kontakion1.mode
 peMA.Kontakion1.melody = pe.d127_en_US_dedes.peMA.Kontakion1.melody
 peMA.Kontakion1.text = pe.d127_en_US_dedes.peMA.Kontakion1.text
 
-peMA.Oikos1.text = pe.d127_en_US_dedes.peMA.Oikos1.text
+peMA.Oikos1.text = pe.d127_en_US_duvall.peMA.Oikos1.text
 
 peMA.Synaxarion.commemoration.text = pe.d127_en_US_dedes.peMA.Synaxarion.commemoration.text
 peMA.Synaxarion.couplet1.title = pe.d127_en_US_dedes.peMA.Synaxarion.couplet1.title
