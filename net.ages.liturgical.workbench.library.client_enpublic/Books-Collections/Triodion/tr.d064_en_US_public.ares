@@ -200,8 +200,8 @@ trMA.Ode3C12.melody = tr.d064_en_UK_lash.trMA.Ode3C12.melody
 trMA.Ode3C12.text = tr.d064_en_UK_lash.trMA.Ode3C12.text
 
 trMA.Hypakoe.mode = tr.d064_en_US_dedes.trMA.Hypakoe.mode
-trMA.Hypakoe.melody = tr.d064_en_US_dedes.trMA.Hypakoe.melody
-trMA.Hypakoe.text = tr.d064_en_US_dedes.trMA.Hypakoe.text
+trMA.Hypakoe.melody = tr.d064_en_US_duvall.trMA.Hypakoe.melody
+trMA.Hypakoe.text = tr.d064_en_US_duvall.trMA.Hypakoe.text
 
 trMA.Ode4C1H.ode = tr.d064_en_US_dedes.trMA.Ode4C1H.ode
 trMA.Ode4C1H.mode = tr.d064_en_US_dedes.trMA.Ode4C1H.mode
@@ -254,10 +254,10 @@ trMA.Ode6C12.melody = tr.d064_en_UK_lash.trMA.Ode6C12.melody
 trMA.Ode6C12.text = tr.d064_en_UK_lash.trMA.Ode6C12.text
 
 trMA.Kontakion1.mode = tr.d064_en_US_dedes.trMA.Kontakion1.mode
-trMA.Kontakion1.melody = tr.d064_en_US_dedes.trMA.Kontakion1.melody
-trMA.Kontakion1.text = tr.d064_en_US_dedes.trMA.Kontakion1.text
+trMA.Kontakion1.melody = tr.d064_en_US_duvall.trMA.Kontakion1.melody
+trMA.Kontakion1.text = tr.d064_en_US_duvall.trMA.Kontakion1.text
 
-trMA.Oikos1.text = tr.d064_en_US_dedes.trMA.Oikos1.text
+trMA.Oikos1.text = tr.d064_en_US_duvall.trMA.Oikos1.text
 
 trMA.Synaxarion.commemoration.text = tr.d064_en_US_dedes.trMA.Synaxarion.commemoration.text
 trMA.Synaxarion.couplet1.title = tr.d064_en_US_dedes.trMA.Synaxarion.couplet1.title
