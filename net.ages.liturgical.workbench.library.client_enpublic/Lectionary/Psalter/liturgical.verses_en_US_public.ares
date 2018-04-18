@@ -771,39 +771,6 @@ psGH.christmas.H9.prokeimenon.v1.text = liturgical.verses_en_US_saas.psGH.christ
 psGH.christmas.H9.prokeimenon.v2.info = liturgical.verses_en_US_saas.psGH.christmas.H9.prokeimenon.v2.info
 psGH.christmas.H9.prokeimenon.v2.text = liturgical.verses_en_US_saas.psGH.christmas.H9.prokeimenon.v2.text
 
-psGH.holyfriday.H1.v1.info = liturgical.verses_en_US_saas.psGH.holyfriday.H1.v1.info
-psGH.holyfriday.H1.v1.text = liturgical.verses_en_US_saas.psGH.holyfriday.H1.v1.text
-psGH.holyfriday.H1.v2.info = liturgical.verses_en_US_saas.psGH.holyfriday.H1.v2.info
-psGH.holyfriday.H1.v2.text = liturgical.verses_en_US_saas.psGH.holyfriday.H1.v2.text
-psGH.holyfriday.H1.prokeimenon.v1.info = liturgical.verses_en_US_saas.psGH.holyfriday.H1.prokeimenon.v1.info
-psGH.holyfriday.H1.prokeimenon.v1.text = liturgical.verses_en_US_saas.psGH.holyfriday.H1.prokeimenon.v1.text
-psGH.holyfriday.H1.prokeimenon.v2.info = liturgical.verses_en_US_saas.psGH.holyfriday.H1.prokeimenon.v2.info
-psGH.holyfriday.H1.prokeimenon.v2.text = liturgical.verses_en_US_saas.psGH.holyfriday.H1.prokeimenon.v2.text
-psGH.holyfriday.H3.v1.info = liturgical.verses_en_US_saas.psGH.holyfriday.H3.v1.info
-psGH.holyfriday.H3.v1.text = liturgical.verses_en_US_saas.psGH.holyfriday.H3.v1.text
-psGH.holyfriday.H3.v2.info = liturgical.verses_en_US_saas.psGH.holyfriday.H3.v2.info
-psGH.holyfriday.H3.v2.text = liturgical.verses_en_US_saas.psGH.holyfriday.H3.v2.text
-psGH.holyfriday.H3.prokeimenon.v1.info = liturgical.verses_en_US_saas.psGH.holyfriday.H3.prokeimenon.v1.info
-psGH.holyfriday.H3.prokeimenon.v1.text = liturgical.verses_en_US_saas.psGH.holyfriday.H3.prokeimenon.v1.text
-psGH.holyfriday.H3.prokeimenon.v2.info = liturgical.verses_en_US_saas.psGH.holyfriday.H3.prokeimenon.v2.info
-psGH.holyfriday.H3.prokeimenon.v2.text = liturgical.verses_en_US_saas.psGH.holyfriday.H3.prokeimenon.v2.text
-psGH.holyfriday.H6.v1.info = liturgical.verses_en_US_saas.psGH.holyfriday.H6.v1.info
-psGH.holyfriday.H6.v1.text = liturgical.verses_en_US_saas.psGH.holyfriday.H6.v1.text
-psGH.holyfriday.H6.v2.info = liturgical.verses_en_US_saas.psGH.holyfriday.H6.v2.info
-psGH.holyfriday.H6.v2.text = liturgical.verses_en_US_saas.psGH.holyfriday.H6.v2.text
-psGH.holyfriday.H6.prokeimenon.v1.info = liturgical.verses_en_US_saas.psGH.holyfriday.H6.prokeimenon.v1.info
-psGH.holyfriday.H6.prokeimenon.v1.text = liturgical.verses_en_US_saas.psGH.holyfriday.H6.prokeimenon.v1.text
-psGH.holyfriday.H6.prokeimenon.v2.info = liturgical.verses_en_US_saas.psGH.holyfriday.H6.prokeimenon.v2.info
-psGH.holyfriday.H6.prokeimenon.v2.text = liturgical.verses_en_US_saas.psGH.holyfriday.H6.prokeimenon.v2.text
-psGH.holyfriday.H9.v1.info = liturgical.verses_en_US_saas.psGH.holyfriday.H9.v1.info
-psGH.holyfriday.H9.v1.text = liturgical.verses_en_US_saas.psGH.holyfriday.H9.v1.text
-psGH.holyfriday.H9.v2.info = liturgical.verses_en_US_saas.psGH.holyfriday.H9.v2.info
-psGH.holyfriday.H9.v2.text = liturgical.verses_en_US_saas.psGH.holyfriday.H9.v2.text
-psGH.holyfriday.H9.prokeimenon.v1.info = liturgical.verses_en_US_saas.psGH.holyfriday.H9.prokeimenon.v1.info
-psGH.holyfriday.H9.prokeimenon.v1.text = liturgical.verses_en_US_saas.psGH.holyfriday.H9.prokeimenon.v1.text
-psGH.holyfriday.H9.prokeimenon.v2.info = liturgical.verses_en_US_saas.psGH.holyfriday.H9.prokeimenon.v2.info
-psGH.holyfriday.H9.prokeimenon.v2.text = liturgical.verses_en_US_saas.psGH.holyfriday.H9.prokeimenon.v2.text
-
 psH1.v1.info = liturgical.verses_en_US_saas.psH1.v1.info
 psH1.v1.text = liturgical.verses_en_US_saas.psH1.v1.text
 psH1.v2.info = liturgical.verses_en_US_saas.psH1.v2.info
@@ -1286,6 +1253,8 @@ psLI.lazarus.antiphon3.v1.info = liturgical.verses_en_US_saas.psLI.lazarus.antip
 psLI.lazarus.antiphon3.v1.text = liturgical.verses_en_US_saas.psLI.lazarus.antiphon3.v1.text
 psLI.lazarus.antiphon3.v2.info = liturgical.verses_en_US_saas.psLI.lazarus.antiphon3.v2.info
 psLI.lazarus.antiphon3.v2.text = liturgical.verses_en_US_saas.psLI.lazarus.antiphon3.v2.text
+psLI.lazarus.communion.v1.info = liturgical.verses_en_US_saas.psLI.lazarus.communion.v1.info
+psLI.lazarus.communion.v1.text = liturgical.verses_en_US_saas.psLI.lazarus.communion.v1.text
 
 psLI.lent1.antiphon1.v1.info = liturgical.verses_en_US_saas.psLI.lent1.antiphon1.v1.info
 psLI.lent1.antiphon1.v1.text = liturgical.verses_en_US_saas.psLI.lent1.antiphon1.v1.text
@@ -2989,4 +2958,709 @@ psEU.wedding.v5.info = liturgical.verses_en_US_saas.psEU.wedding.v5.info
 psEU.wedding.v5.text = liturgical.verses_en_US_saas.psEU.wedding.v5.text
 psEU.wedding.v6.info = liturgical.verses_en_US_saas.psEU.wedding.v6.info
 psEU.wedding.v6.text = liturgical.verses_en_US_saas.psEU.wedding.v6.text
+
+//Cheese Wed
+psTR.d18.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d18.te.prokeimenon.v1.info
+psTR.d18.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d18.te.prokeimenon.v1.text
+psTR.d18.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d18.te.prokeimenon.v2.info
+psTR.d18.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d18.te.prokeimenon.v2.text
+psTR.d18.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d18.te.prokeimenon.v3.info
+psTR.d18.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d18.te.prokeimenon.v3.text
+psTR.d18.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d18.te.prokeimenon.v4.info
+psTR.d18.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d18.te.prokeimenon.v4.text
+psTR.d19.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d19.ve.prokeimenon.v1.info
+psTR.d19.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d19.ve.prokeimenon.v1.text
+psTR.d19.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d19.ve.prokeimenon.v2.info
+psTR.d19.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d19.ve.prokeimenon.v2.text
+psTR.d19.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d19.ve.prokeimenon.v3.info
+psTR.d19.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d19.ve.prokeimenon.v3.text
+psTR.d19.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d19.ve.prokeimenon.v4.info
+psTR.d19.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d19.ve.prokeimenon.v4.text
+
+//Cheese Fri
+psTR.d20.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d20.te.prokeimenon.v1.info
+psTR.d20.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d20.te.prokeimenon.v1.text
+psTR.d20.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d20.te.prokeimenon.v2.info
+psTR.d20.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d20.te.prokeimenon.v2.text
+psTR.d20.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d20.te.prokeimenon.v3.info
+psTR.d20.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d20.te.prokeimenon.v3.text
+psTR.d20.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d20.te.prokeimenon.v4.info
+psTR.d20.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d20.te.prokeimenon.v4.text
+psTR.d21.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d21.ve.prokeimenon.v1.info
+psTR.d21.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d21.ve.prokeimenon.v1.text
+psTR.d21.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d21.ve.prokeimenon.v2.info
+psTR.d21.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d21.ve.prokeimenon.v2.text
+psTR.d21.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d21.ve.prokeimenon.v3.info
+psTR.d21.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d21.ve.prokeimenon.v3.text
+psTR.d21.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d21.ve.prokeimenon.v4.info
+psTR.d21.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d21.ve.prokeimenon.v4.text
+
+//Mon 1
+psTR.d23.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d23.te.prokeimenon.v1.info
+psTR.d23.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d23.te.prokeimenon.v1.text
+psTR.d23.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d23.te.prokeimenon.v2.info
+psTR.d23.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d23.te.prokeimenon.v2.text
+psTR.d23.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d23.te.prokeimenon.v3.info
+psTR.d23.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d23.te.prokeimenon.v3.text
+psTR.d23.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d23.te.prokeimenon.v4.info
+psTR.d23.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d23.te.prokeimenon.v4.text
+psTR.d24.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d24.ve.prokeimenon.v1.info
+psTR.d24.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d24.ve.prokeimenon.v1.text
+psTR.d24.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d24.ve.prokeimenon.v2.info
+psTR.d24.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d24.ve.prokeimenon.v2.text
+psTR.d24.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d24.ve.prokeimenon.v3.info
+psTR.d24.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d24.ve.prokeimenon.v3.text
+psTR.d24.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d24.ve.prokeimenon.v4.info
+psTR.d24.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d24.ve.prokeimenon.v4.text
+
+//Tue 1
+psTR.d24.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d24.te.prokeimenon.v1.info
+psTR.d24.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d24.te.prokeimenon.v1.text
+psTR.d24.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d24.te.prokeimenon.v2.info
+psTR.d24.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d24.te.prokeimenon.v2.text
+psTR.d24.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d24.te.prokeimenon.v3.info
+psTR.d24.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d24.te.prokeimenon.v3.text
+psTR.d24.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d24.te.prokeimenon.v4.info
+psTR.d24.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d24.te.prokeimenon.v4.text
+psTR.d25.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d25.ve.prokeimenon.v1.info
+psTR.d25.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d25.ve.prokeimenon.v1.text
+psTR.d25.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d25.ve.prokeimenon.v2.info
+psTR.d25.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d25.ve.prokeimenon.v2.text
+psTR.d25.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d25.ve.prokeimenon.v3.info
+psTR.d25.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d25.ve.prokeimenon.v3.text
+psTR.d25.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d25.ve.prokeimenon.v4.info
+psTR.d25.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d25.ve.prokeimenon.v4.text
+
+//Wed 1
+psTR.d25.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d25.te.prokeimenon.v1.info
+psTR.d25.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d25.te.prokeimenon.v1.text
+psTR.d25.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d25.te.prokeimenon.v2.info
+psTR.d25.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d25.te.prokeimenon.v2.text
+psTR.d25.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d25.te.prokeimenon.v3.info
+psTR.d25.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d25.te.prokeimenon.v3.text
+psTR.d25.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d25.te.prokeimenon.v4.info
+psTR.d25.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d25.te.prokeimenon.v4.text
+psTR.d26.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d26.ve.prokeimenon.v1.info
+psTR.d26.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d26.ve.prokeimenon.v1.text
+psTR.d26.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d26.ve.prokeimenon.v2.info
+psTR.d26.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d26.ve.prokeimenon.v2.text
+psTR.d26.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d26.ve.prokeimenon.v3.info
+psTR.d26.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d26.ve.prokeimenon.v3.text
+psTR.d26.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d26.ve.prokeimenon.v4.info
+psTR.d26.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d26.ve.prokeimenon.v4.text
+
+//Thu 1
+psTR.d26.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d26.te.prokeimenon.v1.info
+psTR.d26.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d26.te.prokeimenon.v1.text
+psTR.d26.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d26.te.prokeimenon.v2.info
+psTR.d26.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d26.te.prokeimenon.v2.text
+psTR.d26.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d26.te.prokeimenon.v3.info
+psTR.d26.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d26.te.prokeimenon.v3.text
+psTR.d26.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d26.te.prokeimenon.v4.info
+psTR.d26.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d26.te.prokeimenon.v4.text
+psTR.d27.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d27.ve.prokeimenon.v1.info
+psTR.d27.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d27.ve.prokeimenon.v1.text
+psTR.d27.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d27.ve.prokeimenon.v2.info
+psTR.d27.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d27.ve.prokeimenon.v2.text
+psTR.d27.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d27.ve.prokeimenon.v3.info
+psTR.d27.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d27.ve.prokeimenon.v3.text
+psTR.d27.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d27.ve.prokeimenon.v4.info
+psTR.d27.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d27.ve.prokeimenon.v4.text
+
+//Fri 1
+psTR.d27.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d27.te.prokeimenon.v1.info
+psTR.d27.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d27.te.prokeimenon.v1.text
+psTR.d27.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d27.te.prokeimenon.v2.info
+psTR.d27.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d27.te.prokeimenon.v2.text
+psTR.d27.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d27.te.prokeimenon.v3.info
+psTR.d27.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d27.te.prokeimenon.v3.text
+psTR.d27.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d27.te.prokeimenon.v4.info
+psTR.d27.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d27.te.prokeimenon.v4.text
+psTR.d28.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d28.ve.prokeimenon.v1.info
+psTR.d28.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d28.ve.prokeimenon.v1.text
+psTR.d28.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d28.ve.prokeimenon.v2.info
+psTR.d28.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d28.ve.prokeimenon.v2.text
+psTR.d28.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d28.ve.prokeimenon.v3.info
+psTR.d28.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d28.ve.prokeimenon.v3.text
+psTR.d28.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d28.ve.prokeimenon.v4.info
+psTR.d28.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d28.ve.prokeimenon.v4.text
+
+
+//Mon 2
+psTR.d30.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d30.te.prokeimenon.v1.info
+psTR.d30.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d30.te.prokeimenon.v1.text
+psTR.d30.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d30.te.prokeimenon.v2.info
+psTR.d30.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d30.te.prokeimenon.v2.text
+psTR.d30.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d30.te.prokeimenon.v3.info
+psTR.d30.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d30.te.prokeimenon.v3.text
+psTR.d30.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d30.te.prokeimenon.v4.info
+psTR.d30.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d30.te.prokeimenon.v4.text
+psTR.d31.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d31.ve.prokeimenon.v1.info
+psTR.d31.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d31.ve.prokeimenon.v1.text
+psTR.d31.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d31.ve.prokeimenon.v2.info
+psTR.d31.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d31.ve.prokeimenon.v2.text
+psTR.d31.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d31.ve.prokeimenon.v3.info
+psTR.d31.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d31.ve.prokeimenon.v3.text
+psTR.d31.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d31.ve.prokeimenon.v4.info
+psTR.d31.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d31.ve.prokeimenon.v4.text
+
+//Tue 2
+psTR.d31.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d31.te.prokeimenon.v1.info
+psTR.d31.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d31.te.prokeimenon.v1.text
+psTR.d31.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d31.te.prokeimenon.v2.info
+psTR.d31.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d31.te.prokeimenon.v2.text
+psTR.d31.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d31.te.prokeimenon.v3.info
+psTR.d31.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d31.te.prokeimenon.v3.text
+psTR.d31.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d31.te.prokeimenon.v4.info
+psTR.d31.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d31.te.prokeimenon.v4.text
+psTR.d32.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d32.ve.prokeimenon.v1.info
+psTR.d32.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d32.ve.prokeimenon.v1.text
+psTR.d32.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d32.ve.prokeimenon.v2.info
+psTR.d32.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d32.ve.prokeimenon.v2.text
+psTR.d32.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d32.ve.prokeimenon.v3.info
+psTR.d32.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d32.ve.prokeimenon.v3.text
+psTR.d32.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d32.ve.prokeimenon.v4.info
+psTR.d32.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d32.ve.prokeimenon.v4.text
+
+//Wed 2
+psTR.d32.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d32.te.prokeimenon.v1.info
+psTR.d32.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d32.te.prokeimenon.v1.text
+psTR.d32.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d32.te.prokeimenon.v2.info
+psTR.d32.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d32.te.prokeimenon.v2.text
+psTR.d32.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d32.te.prokeimenon.v3.info
+psTR.d32.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d32.te.prokeimenon.v3.text
+psTR.d32.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d32.te.prokeimenon.v4.info
+psTR.d32.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d32.te.prokeimenon.v4.text
+psTR.d33.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d33.ve.prokeimenon.v1.info
+psTR.d33.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d33.ve.prokeimenon.v1.text
+psTR.d33.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d33.ve.prokeimenon.v2.info
+psTR.d33.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d33.ve.prokeimenon.v2.text
+psTR.d33.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d33.ve.prokeimenon.v3.info
+psTR.d33.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d33.ve.prokeimenon.v3.text
+psTR.d33.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d33.ve.prokeimenon.v4.info
+psTR.d33.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d33.ve.prokeimenon.v4.text
+
+//Thu 2
+psTR.d33.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d33.te.prokeimenon.v1.info
+psTR.d33.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d33.te.prokeimenon.v1.text
+psTR.d33.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d33.te.prokeimenon.v2.info
+psTR.d33.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d33.te.prokeimenon.v2.text
+psTR.d33.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d33.te.prokeimenon.v3.info
+psTR.d33.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d33.te.prokeimenon.v3.text
+psTR.d33.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d33.te.prokeimenon.v4.info
+psTR.d33.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d33.te.prokeimenon.v4.text
+psTR.d34.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d34.ve.prokeimenon.v1.info
+psTR.d34.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d34.ve.prokeimenon.v1.text
+psTR.d34.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d34.ve.prokeimenon.v2.info
+psTR.d34.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d34.ve.prokeimenon.v2.text
+psTR.d34.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d34.ve.prokeimenon.v3.info
+psTR.d34.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d34.ve.prokeimenon.v3.text
+psTR.d34.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d34.ve.prokeimenon.v4.info
+psTR.d34.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d34.ve.prokeimenon.v4.text
+
+//Fri 2
+psTR.d34.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d34.te.prokeimenon.v1.info
+psTR.d34.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d34.te.prokeimenon.v1.text
+psTR.d34.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d34.te.prokeimenon.v2.info
+psTR.d34.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d34.te.prokeimenon.v2.text
+psTR.d34.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d34.te.prokeimenon.v3.info
+psTR.d34.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d34.te.prokeimenon.v3.text
+psTR.d34.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d34.te.prokeimenon.v4.info
+psTR.d34.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d34.te.prokeimenon.v4.text
+psTR.d35.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d35.ve.prokeimenon.v1.info
+psTR.d35.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d35.ve.prokeimenon.v1.text
+psTR.d35.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d35.ve.prokeimenon.v2.info
+psTR.d35.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d35.ve.prokeimenon.v2.text
+psTR.d35.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d35.ve.prokeimenon.v3.info
+psTR.d35.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d35.ve.prokeimenon.v3.text
+psTR.d35.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d35.ve.prokeimenon.v4.info
+psTR.d35.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d35.ve.prokeimenon.v4.text
+
+
+//Mon 3
+psTR.d37.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d37.te.prokeimenon.v1.info
+psTR.d37.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d37.te.prokeimenon.v1.text
+psTR.d37.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d37.te.prokeimenon.v2.info
+psTR.d37.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d37.te.prokeimenon.v2.text
+psTR.d37.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d37.te.prokeimenon.v3.info
+psTR.d37.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d37.te.prokeimenon.v3.text
+psTR.d37.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d37.te.prokeimenon.v4.info
+psTR.d37.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d37.te.prokeimenon.v4.text
+psTR.d38.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d38.ve.prokeimenon.v1.info
+psTR.d38.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d38.ve.prokeimenon.v1.text
+psTR.d38.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d38.ve.prokeimenon.v2.info
+psTR.d38.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d38.ve.prokeimenon.v2.text
+psTR.d38.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d38.ve.prokeimenon.v3.info
+psTR.d38.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d38.ve.prokeimenon.v3.text
+psTR.d38.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d38.ve.prokeimenon.v4.info
+psTR.d38.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d38.ve.prokeimenon.v4.text
+
+//Tue 3
+psTR.d38.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d38.te.prokeimenon.v1.info
+psTR.d38.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d38.te.prokeimenon.v1.text
+psTR.d38.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d38.te.prokeimenon.v2.info
+psTR.d38.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d38.te.prokeimenon.v2.text
+psTR.d38.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d38.te.prokeimenon.v3.info
+psTR.d38.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d38.te.prokeimenon.v3.text
+psTR.d38.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d38.te.prokeimenon.v4.info
+psTR.d38.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d38.te.prokeimenon.v4.text
+psTR.d39.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d39.ve.prokeimenon.v1.info
+psTR.d39.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d39.ve.prokeimenon.v1.text
+psTR.d39.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d39.ve.prokeimenon.v2.info
+psTR.d39.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d39.ve.prokeimenon.v2.text
+psTR.d39.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d39.ve.prokeimenon.v3.info
+psTR.d39.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d39.ve.prokeimenon.v3.text
+psTR.d39.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d39.ve.prokeimenon.v4.info
+psTR.d39.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d39.ve.prokeimenon.v4.text
+
+//Wed 3
+psTR.d39.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d39.te.prokeimenon.v1.info
+psTR.d39.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d39.te.prokeimenon.v1.text
+psTR.d39.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d39.te.prokeimenon.v2.info
+psTR.d39.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d39.te.prokeimenon.v2.text
+psTR.d39.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d39.te.prokeimenon.v3.info
+psTR.d39.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d39.te.prokeimenon.v3.text
+psTR.d39.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d39.te.prokeimenon.v4.info
+psTR.d39.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d39.te.prokeimenon.v4.text
+psTR.d40.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d40.ve.prokeimenon.v1.info
+psTR.d40.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d40.ve.prokeimenon.v1.text
+psTR.d40.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d40.ve.prokeimenon.v2.info
+psTR.d40.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d40.ve.prokeimenon.v2.text
+psTR.d40.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d40.ve.prokeimenon.v3.info
+psTR.d40.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d40.ve.prokeimenon.v3.text
+psTR.d40.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d40.ve.prokeimenon.v4.info
+psTR.d40.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d40.ve.prokeimenon.v4.text
+
+//Thu 3
+psTR.d40.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d40.te.prokeimenon.v1.info
+psTR.d40.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d40.te.prokeimenon.v1.text
+psTR.d40.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d40.te.prokeimenon.v2.info
+psTR.d40.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d40.te.prokeimenon.v2.text
+psTR.d40.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d40.te.prokeimenon.v3.info
+psTR.d40.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d40.te.prokeimenon.v3.text
+psTR.d40.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d40.te.prokeimenon.v4.info
+psTR.d40.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d40.te.prokeimenon.v4.text
+psTR.d41.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d41.ve.prokeimenon.v1.info
+psTR.d41.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d41.ve.prokeimenon.v1.text
+psTR.d41.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d41.ve.prokeimenon.v2.info
+psTR.d41.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d41.ve.prokeimenon.v2.text
+psTR.d41.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d41.ve.prokeimenon.v3.info
+psTR.d41.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d41.ve.prokeimenon.v3.text
+psTR.d41.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d41.ve.prokeimenon.v4.info
+psTR.d41.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d41.ve.prokeimenon.v4.text
+
+//Fri 3
+psTR.d41.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d41.te.prokeimenon.v1.info
+psTR.d41.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d41.te.prokeimenon.v1.text
+psTR.d41.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d41.te.prokeimenon.v2.info
+psTR.d41.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d41.te.prokeimenon.v2.text
+psTR.d41.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d41.te.prokeimenon.v3.info
+psTR.d41.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d41.te.prokeimenon.v3.text
+psTR.d41.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d41.te.prokeimenon.v4.info
+psTR.d41.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d41.te.prokeimenon.v4.text
+psTR.d42.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d42.ve.prokeimenon.v1.info
+psTR.d42.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d42.ve.prokeimenon.v1.text
+psTR.d42.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d42.ve.prokeimenon.v2.info
+psTR.d42.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d42.ve.prokeimenon.v2.text
+psTR.d42.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d42.ve.prokeimenon.v3.info
+psTR.d42.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d42.ve.prokeimenon.v3.text
+psTR.d42.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d42.ve.prokeimenon.v4.info
+psTR.d42.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d42.ve.prokeimenon.v4.text
+
+
+//Mon 4
+psTR.d44.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d44.te.prokeimenon.v1.info
+psTR.d44.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d44.te.prokeimenon.v1.text
+psTR.d44.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d44.te.prokeimenon.v2.info
+psTR.d44.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d44.te.prokeimenon.v2.text
+psTR.d44.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d44.te.prokeimenon.v3.info
+psTR.d44.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d44.te.prokeimenon.v3.text
+psTR.d44.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d44.te.prokeimenon.v4.info
+psTR.d44.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d44.te.prokeimenon.v4.text
+psTR.d45.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d45.ve.prokeimenon.v1.info
+psTR.d45.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d45.ve.prokeimenon.v1.text
+psTR.d45.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d45.ve.prokeimenon.v2.info
+psTR.d45.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d45.ve.prokeimenon.v2.text
+psTR.d45.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d45.ve.prokeimenon.v3.info
+psTR.d45.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d45.ve.prokeimenon.v3.text
+psTR.d45.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d45.ve.prokeimenon.v4.info
+psTR.d45.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d45.ve.prokeimenon.v4.text
+
+//Tue 4
+psTR.d45.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d45.te.prokeimenon.v1.info
+psTR.d45.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d45.te.prokeimenon.v1.text
+psTR.d45.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d45.te.prokeimenon.v2.info
+psTR.d45.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d45.te.prokeimenon.v2.text
+psTR.d45.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d45.te.prokeimenon.v3.info
+psTR.d45.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d45.te.prokeimenon.v3.text
+psTR.d45.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d45.te.prokeimenon.v4.info
+psTR.d45.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d45.te.prokeimenon.v4.text
+psTR.d46.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d46.ve.prokeimenon.v1.info
+psTR.d46.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d46.ve.prokeimenon.v1.text
+psTR.d46.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d46.ve.prokeimenon.v2.info
+psTR.d46.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d46.ve.prokeimenon.v2.text
+psTR.d46.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d46.ve.prokeimenon.v3.info
+psTR.d46.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d46.ve.prokeimenon.v3.text
+psTR.d46.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d46.ve.prokeimenon.v4.info
+psTR.d46.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d46.ve.prokeimenon.v4.text
+
+//Wed 4
+psTR.d46.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d46.te.prokeimenon.v1.info
+psTR.d46.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d46.te.prokeimenon.v1.text
+psTR.d46.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d46.te.prokeimenon.v2.info
+psTR.d46.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d46.te.prokeimenon.v2.text
+psTR.d46.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d46.te.prokeimenon.v3.info
+psTR.d46.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d46.te.prokeimenon.v3.text
+psTR.d46.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d46.te.prokeimenon.v4.info
+psTR.d46.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d46.te.prokeimenon.v4.text
+psTR.d47.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d47.ve.prokeimenon.v1.info
+psTR.d47.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d47.ve.prokeimenon.v1.text
+psTR.d47.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d47.ve.prokeimenon.v2.info
+psTR.d47.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d47.ve.prokeimenon.v2.text
+psTR.d47.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d47.ve.prokeimenon.v3.info
+psTR.d47.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d47.ve.prokeimenon.v3.text
+psTR.d47.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d47.ve.prokeimenon.v4.info
+psTR.d47.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d47.ve.prokeimenon.v4.text
+
+//Thu 4
+psTR.d47.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d47.te.prokeimenon.v1.info
+psTR.d47.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d47.te.prokeimenon.v1.text
+psTR.d47.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d47.te.prokeimenon.v2.info
+psTR.d47.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d47.te.prokeimenon.v2.text
+psTR.d47.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d47.te.prokeimenon.v3.info
+psTR.d47.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d47.te.prokeimenon.v3.text
+psTR.d47.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d47.te.prokeimenon.v4.info
+psTR.d47.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d47.te.prokeimenon.v4.text
+psTR.d48.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d48.ve.prokeimenon.v1.info
+psTR.d48.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d48.ve.prokeimenon.v1.text
+psTR.d48.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d48.ve.prokeimenon.v2.info
+psTR.d48.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d48.ve.prokeimenon.v2.text
+psTR.d48.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d48.ve.prokeimenon.v3.info
+psTR.d48.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d48.ve.prokeimenon.v3.text
+psTR.d48.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d48.ve.prokeimenon.v4.info
+psTR.d48.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d48.ve.prokeimenon.v4.text
+
+//Fri 4
+psTR.d48.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d48.te.prokeimenon.v1.info
+psTR.d48.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d48.te.prokeimenon.v1.text
+psTR.d48.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d48.te.prokeimenon.v2.info
+psTR.d48.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d48.te.prokeimenon.v2.text
+psTR.d48.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d48.te.prokeimenon.v3.info
+psTR.d48.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d48.te.prokeimenon.v3.text
+psTR.d48.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d48.te.prokeimenon.v4.info
+psTR.d48.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d48.te.prokeimenon.v4.text
+psTR.d49.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d49.ve.prokeimenon.v1.info
+psTR.d49.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d49.ve.prokeimenon.v1.text
+psTR.d49.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d49.ve.prokeimenon.v2.info
+psTR.d49.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d49.ve.prokeimenon.v2.text
+psTR.d49.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d49.ve.prokeimenon.v3.info
+psTR.d49.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d49.ve.prokeimenon.v3.text
+psTR.d49.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d49.ve.prokeimenon.v4.info
+psTR.d49.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d49.ve.prokeimenon.v4.text
+
+//Mon 5
+psTR.d51.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d51.te.prokeimenon.v1.info
+psTR.d51.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d51.te.prokeimenon.v1.text
+psTR.d51.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d51.te.prokeimenon.v2.info
+psTR.d51.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d51.te.prokeimenon.v2.text
+psTR.d51.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d51.te.prokeimenon.v3.info
+psTR.d51.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d51.te.prokeimenon.v3.text
+psTR.d51.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d51.te.prokeimenon.v4.info
+psTR.d51.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d51.te.prokeimenon.v4.text
+psTR.d52.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d52.ve.prokeimenon.v1.info
+psTR.d52.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d52.ve.prokeimenon.v1.text
+psTR.d52.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d52.ve.prokeimenon.v2.info
+psTR.d52.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d52.ve.prokeimenon.v2.text
+psTR.d52.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d52.ve.prokeimenon.v3.info
+psTR.d52.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d52.ve.prokeimenon.v3.text
+psTR.d52.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d52.ve.prokeimenon.v4.info
+psTR.d52.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d52.ve.prokeimenon.v4.text
+
+//Tue 5
+psTR.d52.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d52.te.prokeimenon.v1.info
+psTR.d52.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d52.te.prokeimenon.v1.text
+psTR.d52.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d52.te.prokeimenon.v2.info
+psTR.d52.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d52.te.prokeimenon.v2.text
+psTR.d52.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d52.te.prokeimenon.v3.info
+psTR.d52.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d52.te.prokeimenon.v3.text
+psTR.d52.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d52.te.prokeimenon.v4.info
+psTR.d52.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d52.te.prokeimenon.v4.text
+psTR.d53.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d53.ve.prokeimenon.v1.info
+psTR.d53.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d53.ve.prokeimenon.v1.text
+psTR.d53.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d53.ve.prokeimenon.v2.info
+psTR.d53.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d53.ve.prokeimenon.v2.text
+psTR.d53.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d53.ve.prokeimenon.v3.info
+psTR.d53.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d53.ve.prokeimenon.v3.text
+psTR.d53.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d53.ve.prokeimenon.v4.info
+psTR.d53.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d53.ve.prokeimenon.v4.text
+
+//Wed 5
+psTR.d53.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d53.te.prokeimenon.v1.info
+psTR.d53.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d53.te.prokeimenon.v1.text
+psTR.d53.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d53.te.prokeimenon.v2.info
+psTR.d53.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d53.te.prokeimenon.v2.text
+psTR.d53.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d53.te.prokeimenon.v3.info
+psTR.d53.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d53.te.prokeimenon.v3.text
+psTR.d53.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d53.te.prokeimenon.v4.info
+psTR.d53.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d53.te.prokeimenon.v4.text
+psTR.d54.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d54.ve.prokeimenon.v1.info
+psTR.d54.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d54.ve.prokeimenon.v1.text
+psTR.d54.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d54.ve.prokeimenon.v2.info
+psTR.d54.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d54.ve.prokeimenon.v2.text
+psTR.d54.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d54.ve.prokeimenon.v3.info
+psTR.d54.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d54.ve.prokeimenon.v3.text
+psTR.d54.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d54.ve.prokeimenon.v4.info
+psTR.d54.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d54.ve.prokeimenon.v4.text
+
+//Thu 5
+psTR.d54.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d54.te.prokeimenon.v1.info
+psTR.d54.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d54.te.prokeimenon.v1.text
+psTR.d54.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d54.te.prokeimenon.v2.info
+psTR.d54.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d54.te.prokeimenon.v2.text
+psTR.d54.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d54.te.prokeimenon.v3.info
+psTR.d54.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d54.te.prokeimenon.v3.text
+psTR.d54.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d54.te.prokeimenon.v4.info
+psTR.d54.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d54.te.prokeimenon.v4.text
+psTR.d55.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d55.ve.prokeimenon.v1.info
+psTR.d55.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d55.ve.prokeimenon.v1.text
+psTR.d55.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d55.ve.prokeimenon.v2.info
+psTR.d55.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d55.ve.prokeimenon.v2.text
+psTR.d55.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d55.ve.prokeimenon.v3.info
+psTR.d55.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d55.ve.prokeimenon.v3.text
+psTR.d55.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d55.ve.prokeimenon.v4.info
+psTR.d55.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d55.ve.prokeimenon.v4.text
+
+//Fri 5
+psTR.d55.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d55.te.prokeimenon.v1.info
+psTR.d55.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d55.te.prokeimenon.v1.text
+psTR.d55.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d55.te.prokeimenon.v2.info
+psTR.d55.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d55.te.prokeimenon.v2.text
+psTR.d55.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d55.te.prokeimenon.v3.info
+psTR.d55.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d55.te.prokeimenon.v3.text
+psTR.d55.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d55.te.prokeimenon.v4.info
+psTR.d55.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d55.te.prokeimenon.v4.text
+psTR.d56.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d56.ve.prokeimenon.v1.info
+psTR.d56.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d56.ve.prokeimenon.v1.text
+psTR.d56.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d56.ve.prokeimenon.v2.info
+psTR.d56.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d56.ve.prokeimenon.v2.text
+psTR.d56.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d56.ve.prokeimenon.v3.info
+psTR.d56.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d56.ve.prokeimenon.v3.text
+psTR.d56.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d56.ve.prokeimenon.v4.info
+psTR.d56.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d56.ve.prokeimenon.v4.text
+
+
+//Mon 6
+psTR.d58.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d58.te.prokeimenon.v1.info
+psTR.d58.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d58.te.prokeimenon.v1.text
+psTR.d58.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d58.te.prokeimenon.v2.info
+psTR.d58.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d58.te.prokeimenon.v2.text
+psTR.d58.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d58.te.prokeimenon.v3.info
+psTR.d58.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d58.te.prokeimenon.v3.text
+psTR.d58.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d58.te.prokeimenon.v4.info
+psTR.d58.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d58.te.prokeimenon.v4.text
+psTR.d59.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d59.ve.prokeimenon.v1.info
+psTR.d59.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d59.ve.prokeimenon.v1.text
+psTR.d59.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d59.ve.prokeimenon.v2.info
+psTR.d59.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d59.ve.prokeimenon.v2.text
+psTR.d59.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d59.ve.prokeimenon.v3.info
+psTR.d59.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d59.ve.prokeimenon.v3.text
+psTR.d59.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d59.ve.prokeimenon.v4.info
+psTR.d59.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d59.ve.prokeimenon.v4.text
+
+//Tue 6
+psTR.d59.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d59.te.prokeimenon.v1.info
+psTR.d59.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d59.te.prokeimenon.v1.text
+psTR.d59.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d59.te.prokeimenon.v2.info
+psTR.d59.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d59.te.prokeimenon.v2.text
+psTR.d59.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d59.te.prokeimenon.v3.info
+psTR.d59.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d59.te.prokeimenon.v3.text
+psTR.d59.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d59.te.prokeimenon.v4.info
+psTR.d59.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d59.te.prokeimenon.v4.text
+psTR.d60.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d60.ve.prokeimenon.v1.info
+psTR.d60.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d60.ve.prokeimenon.v1.text
+psTR.d60.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d60.ve.prokeimenon.v2.info
+psTR.d60.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d60.ve.prokeimenon.v2.text
+psTR.d60.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d60.ve.prokeimenon.v3.info
+psTR.d60.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d60.ve.prokeimenon.v3.text
+psTR.d60.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d60.ve.prokeimenon.v4.info
+psTR.d60.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d60.ve.prokeimenon.v4.text
+
+//Wed 6
+psTR.d60.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d60.te.prokeimenon.v1.info
+psTR.d60.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d60.te.prokeimenon.v1.text
+psTR.d60.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d60.te.prokeimenon.v2.info
+psTR.d60.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d60.te.prokeimenon.v2.text
+psTR.d60.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d60.te.prokeimenon.v3.info
+psTR.d60.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d60.te.prokeimenon.v3.text
+psTR.d60.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d60.te.prokeimenon.v4.info
+psTR.d60.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d60.te.prokeimenon.v4.text
+psTR.d61.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d61.ve.prokeimenon.v1.info
+psTR.d61.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d61.ve.prokeimenon.v1.text
+psTR.d61.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d61.ve.prokeimenon.v2.info
+psTR.d61.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d61.ve.prokeimenon.v2.text
+psTR.d61.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d61.ve.prokeimenon.v3.info
+psTR.d61.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d61.ve.prokeimenon.v3.text
+psTR.d61.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d61.ve.prokeimenon.v4.info
+psTR.d61.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d61.ve.prokeimenon.v4.text
+
+//Thu 6
+psTR.d61.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d61.te.prokeimenon.v1.info
+psTR.d61.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d61.te.prokeimenon.v1.text
+psTR.d61.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d61.te.prokeimenon.v2.info
+psTR.d61.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d61.te.prokeimenon.v2.text
+psTR.d61.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d61.te.prokeimenon.v3.info
+psTR.d61.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d61.te.prokeimenon.v3.text
+psTR.d61.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d61.te.prokeimenon.v4.info
+psTR.d61.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d61.te.prokeimenon.v4.text
+psTR.d62.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d62.ve.prokeimenon.v1.info
+psTR.d62.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d62.ve.prokeimenon.v1.text
+psTR.d62.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d62.ve.prokeimenon.v2.info
+psTR.d62.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d62.ve.prokeimenon.v2.text
+psTR.d62.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d62.ve.prokeimenon.v3.info
+psTR.d62.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d62.ve.prokeimenon.v3.text
+psTR.d62.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d62.ve.prokeimenon.v4.info
+psTR.d62.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d62.ve.prokeimenon.v4.text
+
+//Fri 6
+psTR.d62.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d62.te.prokeimenon.v1.info
+psTR.d62.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d62.te.prokeimenon.v1.text
+psTR.d62.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d62.te.prokeimenon.v2.info
+psTR.d62.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d62.te.prokeimenon.v2.text
+psTR.d62.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d62.te.prokeimenon.v3.info
+psTR.d62.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d62.te.prokeimenon.v3.text
+psTR.d62.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d62.te.prokeimenon.v4.info
+psTR.d62.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d62.te.prokeimenon.v4.text
+psTR.d63.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d63.ve.prokeimenon.v1.info
+psTR.d63.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d63.ve.prokeimenon.v1.text
+psTR.d63.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d63.ve.prokeimenon.v2.info
+psTR.d63.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d63.ve.prokeimenon.v2.text
+psTR.d63.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d63.ve.prokeimenon.v3.info
+psTR.d63.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d63.ve.prokeimenon.v3.text
+psTR.d63.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d63.ve.prokeimenon.v4.info
+psTR.d63.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d63.ve.prokeimenon.v4.text
+
+//Holy Monday
+psTR.d65.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d65.te.prokeimenon.v1.info
+psTR.d65.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d65.te.prokeimenon.v1.text
+psTR.d65.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d65.te.prokeimenon.v2.info
+psTR.d65.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d65.te.prokeimenon.v2.text
+psTR.d65.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d65.te.prokeimenon.v3.info
+psTR.d65.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d65.te.prokeimenon.v3.text
+psTR.d65.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d65.te.prokeimenon.v4.info
+psTR.d65.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d65.te.prokeimenon.v4.text
+psTR.d66.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d66.ve.prokeimenon.v1.info
+psTR.d66.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d66.ve.prokeimenon.v1.text
+psTR.d66.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d66.ve.prokeimenon.v2.info
+psTR.d66.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d66.ve.prokeimenon.v2.text
+psTR.d66.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d66.ve.prokeimenon.v3.info
+psTR.d66.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d66.ve.prokeimenon.v3.text
+psTR.d66.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d66.ve.prokeimenon.v4.info
+psTR.d66.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d66.ve.prokeimenon.v4.text
+
+//Holy Tuesday
+psTR.d66.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d66.te.prokeimenon.v1.info
+psTR.d66.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d66.te.prokeimenon.v1.text
+psTR.d66.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d66.te.prokeimenon.v2.info
+psTR.d66.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d66.te.prokeimenon.v2.text
+psTR.d66.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d66.te.prokeimenon.v3.info
+psTR.d66.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d66.te.prokeimenon.v3.text
+psTR.d66.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d66.te.prokeimenon.v4.info
+psTR.d66.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d66.te.prokeimenon.v4.text
+psTR.d67.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d67.ve.prokeimenon.v1.info
+psTR.d67.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d67.ve.prokeimenon.v1.text
+psTR.d67.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d67.ve.prokeimenon.v2.info
+psTR.d67.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d67.ve.prokeimenon.v2.text
+psTR.d67.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d67.ve.prokeimenon.v3.info
+psTR.d67.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d67.ve.prokeimenon.v3.text
+psTR.d67.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d67.ve.prokeimenon.v4.info
+psTR.d67.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d67.ve.prokeimenon.v4.text
+
+//Holy Wednesday
+psTR.d67.te.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d67.te.prokeimenon.v1.info
+psTR.d67.te.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d67.te.prokeimenon.v1.text
+psTR.d67.te.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d67.te.prokeimenon.v2.info
+psTR.d67.te.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d67.te.prokeimenon.v2.text
+psTR.d67.te.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d67.te.prokeimenon.v3.info
+psTR.d67.te.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d67.te.prokeimenon.v3.text
+psTR.d67.te.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d67.te.prokeimenon.v4.info
+psTR.d67.te.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d67.te.prokeimenon.v4.text
+psTR.d68.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d68.ve.prokeimenon.v1.info
+psTR.d68.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d68.ve.prokeimenon.v1.text
+psTR.d68.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d68.ve.prokeimenon.v2.info
+psTR.d68.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d68.ve.prokeimenon.v2.text
+psTR.d68.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d68.ve.prokeimenon.v3.info
+psTR.d68.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d68.ve.prokeimenon.v3.text
+psTR.d68.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d68.ve.prokeimenon.v4.info
+psTR.d68.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d68.ve.prokeimenon.v4.text
+psTR.d68.ma.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d68.ma.prokeimenon.v1.info
+psTR.d68.ma.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d68.ma.prokeimenon.v1.text
+psTR.d68.ma.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d68.ma.prokeimenon.v2.info
+psTR.d68.ma.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d68.ma.prokeimenon.v2.text
+psTR.d68.ma.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d68.ma.prokeimenon.v3.info
+psTR.d68.ma.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d68.ma.prokeimenon.v3.text
+psTR.d68.ma.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d68.ma.prokeimenon.v4.info
+psTR.d68.ma.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d68.ma.prokeimenon.v4.text
+
+//Holy Thursday
+psTR.d69.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d69.ve.prokeimenon.v1.info
+psTR.d69.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d69.ve.prokeimenon.v1.text
+psTR.d69.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d69.ve.prokeimenon.v2.info
+psTR.d69.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d69.ve.prokeimenon.v2.text
+psTR.d69.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d69.ve.prokeimenon.v3.info
+psTR.d69.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d69.ve.prokeimenon.v3.text
+psTR.d69.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d69.ve.prokeimenon.v4.info
+psTR.d69.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d69.ve.prokeimenon.v4.text
+
+psTR.d69.ma.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d69.ma.prokeimenon.v1.info
+psTR.d69.ma.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d69.ma.prokeimenon.v1.text
+psTR.d69.ma.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d69.ma.prokeimenon.v2.info
+psTR.d69.ma.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d69.ma.prokeimenon.v2.text
+
+//Holy Friday
+psTR.d69.H1.v1.info = liturgical.verses_en_US_saas.psTR.d69.H1.v1.info
+psTR.d69.H1.v1.text = liturgical.verses_en_US_saas.psTR.d69.H1.v1.text
+psTR.d69.H1.v2.info = liturgical.verses_en_US_saas.psTR.d69.H1.v2.info
+psTR.d69.H1.v2.text = liturgical.verses_en_US_saas.psTR.d69.H1.v2.text
+psTR.d69.H1.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d69.H1.prokeimenon.v1.info
+psTR.d69.H1.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d69.H1.prokeimenon.v1.text
+psTR.d69.H1.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d69.H1.prokeimenon.v2.info
+psTR.d69.H1.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d69.H1.prokeimenon.v2.text
+psTR.d69.H3.v1.info = liturgical.verses_en_US_saas.psTR.d69.H3.v1.info
+psTR.d69.H3.v1.text = liturgical.verses_en_US_saas.psTR.d69.H3.v1.text
+psTR.d69.H3.v2.info = liturgical.verses_en_US_saas.psTR.d69.H3.v2.info
+psTR.d69.H3.v2.text = liturgical.verses_en_US_saas.psTR.d69.H3.v2.text
+psTR.d69.H3.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d69.H3.prokeimenon.v1.info
+psTR.d69.H3.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d69.H3.prokeimenon.v1.text
+psTR.d69.H3.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d69.H3.prokeimenon.v2.info
+psTR.d69.H3.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d69.H3.prokeimenon.v2.text
+psTR.d69.H6.v1.info = liturgical.verses_en_US_saas.psTR.d69.H6.v1.info
+psTR.d69.H6.v1.text = liturgical.verses_en_US_saas.psTR.d69.H6.v1.text
+psTR.d69.H6.v2.info = liturgical.verses_en_US_saas.psTR.d69.H6.v2.info
+psTR.d69.H6.v2.text = liturgical.verses_en_US_saas.psTR.d69.H6.v2.text
+psTR.d69.H6.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d69.H6.prokeimenon.v1.info
+psTR.d69.H6.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d69.H6.prokeimenon.v1.text
+psTR.d69.H6.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d69.H6.prokeimenon.v2.info
+psTR.d69.H6.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d69.H6.prokeimenon.v2.text
+psTR.d69.H9.v1.info = liturgical.verses_en_US_saas.psTR.d69.H9.v1.info
+psTR.d69.H9.v1.text = liturgical.verses_en_US_saas.psTR.d69.H9.v1.text
+psTR.d69.H9.v2.info = liturgical.verses_en_US_saas.psTR.d69.H9.v2.info
+psTR.d69.H9.v2.text = liturgical.verses_en_US_saas.psTR.d69.H9.v2.text
+psTR.d69.H9.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d69.H9.prokeimenon.v1.info
+psTR.d69.H9.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d69.H9.prokeimenon.v1.text
+psTR.d69.H9.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d69.H9.prokeimenon.v2.info
+psTR.d69.H9.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d69.H9.prokeimenon.v2.text
+
+psTR.d70.ve.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d70.ve.prokeimenon.v1.info
+psTR.d70.ve.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d70.ve.prokeimenon.v1.text
+psTR.d70.ve.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d70.ve.prokeimenon.v2.info
+psTR.d70.ve.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d70.ve.prokeimenon.v2.text
+psTR.d70.ve.prokeimenon.v3.info = liturgical.verses_en_US_saas.psTR.d70.ve.prokeimenon.v3.info
+psTR.d70.ve.prokeimenon.v3.text = liturgical.verses_en_US_saas.psTR.d70.ve.prokeimenon.v3.text
+psTR.d70.ve.prokeimenon.v4.info = liturgical.verses_en_US_saas.psTR.d70.ve.prokeimenon.v4.info
+psTR.d70.ve.prokeimenon.v4.text = liturgical.verses_en_US_saas.psTR.d70.ve.prokeimenon.v4.text
+
+psTR.d70.ma.prokeimenon.v1.info = liturgical.verses_en_US_saas.psTR.d70.ma.prokeimenon.v1.info
+psTR.d70.ma.prokeimenon.v1.text = liturgical.verses_en_US_saas.psTR.d70.ma.prokeimenon.v1.text
+psTR.d70.ma.prokeimenon.v2.info = liturgical.verses_en_US_saas.psTR.d70.ma.prokeimenon.v2.info
+psTR.d70.ma.prokeimenon.v2.text = liturgical.verses_en_US_saas.psTR.d70.ma.prokeimenon.v2.text
 
