@@ -744,3 +744,161 @@ psLI.m07.d29.prokeimenon.v1.text = menaion.verses_en_US_saas.psLI.m07.d29.prokei
 psLI.m07.d29.prokeimenon.v2.info = menaion.verses_en_US_saas.psLI.m07.d29.prokeimenon.v2.info
 psLI.m07.d29.prokeimenon.v2.text = menaion.verses_en_US_saas.psLI.m07.d29.prokeimenon.v2.text
 
+
+//August
+
+psLI.m08.d01.prokeimenon.v1.info = menaion.verses_en_US_saas.psLI.m08.d01.prokeimenon.v1.info
+psLI.m08.d01.prokeimenon.v1.text = menaion.verses_en_US_saas.psLI.m08.d01.prokeimenon.v1.text
+psLI.m08.d01.prokeimenon.v2.info = menaion.verses_en_US_saas.psLI.m08.d01.prokeimenon.v2.info
+psLI.m08.d01.prokeimenon.v2.text = menaion.verses_en_US_saas.psLI.m08.d01.prokeimenon.v2.text
+psLI.m08.d01.alleluia.v1.info = menaion.verses_en_US_saas.psLI.m08.d01.alleluia.v1.info
+psLI.m08.d01.alleluia.v1.text = menaion.verses_en_US_saas.psLI.m08.d01.alleluia.v1.text
+psLI.m08.d01.alleluia.v2.info = menaion.verses_en_US_saas.psLI.m08.d01.alleluia.v2.info
+psLI.m08.d01.alleluia.v2.text = menaion.verses_en_US_saas.psLI.m08.d01.alleluia.v2.text
+
+psLI.m08.d06.antiphon1.v1.info = menaion.verses_en_US_saas.psLI.m08.d06.antiphon1.v1.info
+psLI.m08.d06.antiphon1.v1.text = menaion.verses_en_US_saas.psLI.m08.d06.antiphon1.v1.text
+psLI.m08.d06.antiphon1.v2.info = menaion.verses_en_US_saas.psLI.m08.d06.antiphon1.v2.info
+psLI.m08.d06.antiphon1.v2.text = menaion.verses_en_US_saas.psLI.m08.d06.antiphon1.v2.text
+psLI.m08.d06.antiphon1.v3.info = menaion.verses_en_US_saas.psLI.m08.d06.antiphon1.v3.info
+psLI.m08.d06.antiphon1.v3.text = menaion.verses_en_US_saas.psLI.m08.d06.antiphon1.v3.text
+psLI.m08.d06.antiphon1.v4.info = menaion.verses_en_US_saas.psLI.m08.d06.antiphon1.v4.info
+psLI.m08.d06.antiphon1.v4.text = menaion.verses_en_US_saas.psLI.m08.d06.antiphon1.v4.text
+psLI.m08.d06.antiphon2.v1.info = menaion.verses_en_US_saas.psLI.m08.d06.antiphon2.v1.info
+psLI.m08.d06.antiphon2.v1.text = menaion.verses_en_US_saas.psLI.m08.d06.antiphon2.v1.text
+psLI.m08.d06.antiphon2.v2.info = menaion.verses_en_US_saas.psLI.m08.d06.antiphon2.v2.info
+psLI.m08.d06.antiphon2.v2.text = menaion.verses_en_US_saas.psLI.m08.d06.antiphon2.v2.text
+psLI.m08.d06.antiphon2.v3.info = menaion.verses_en_US_saas.psLI.m08.d06.antiphon2.v3.info
+psLI.m08.d06.antiphon2.v3.text = menaion.verses_en_US_saas.psLI.m08.d06.antiphon2.v3.text
+psLI.m08.d06.antiphon2.v4.info = menaion.verses_en_US_saas.psLI.m08.d06.antiphon2.v4.info
+psLI.m08.d06.antiphon2.v4.text = menaion.verses_en_US_saas.psLI.m08.d06.antiphon2.v4.text
+psLI.m08.d06.antiphon3.v1.info = menaion.verses_en_US_saas.psLI.m08.d06.antiphon3.v1.info
+psLI.m08.d06.antiphon3.v1.text = menaion.verses_en_US_saas.psLI.m08.d06.antiphon3.v1.text
+psLI.m08.d06.antiphon3.v2.info = menaion.verses_en_US_saas.psLI.m08.d06.antiphon3.v2.info
+psLI.m08.d06.antiphon3.v2.text = menaion.verses_en_US_saas.psLI.m08.d06.antiphon3.v2.text
+psLI.m08.d06.antiphon3.v3.info = menaion.verses_en_US_saas.psLI.m08.d06.antiphon3.v3.info
+psLI.m08.d06.antiphon3.v3.text = menaion.verses_en_US_saas.psLI.m08.d06.antiphon3.v3.text
+psLI.m08.d06.antiphon3.v4.info = menaion.verses_en_US_saas.psLI.m08.d06.antiphon3.v4.info
+psLI.m08.d06.antiphon3.v4.text = menaion.verses_en_US_saas.psLI.m08.d06.antiphon3.v4.text
+psLI.m08.d06.entrance.v1.info = menaion.verses_en_US_saas.psLI.m08.d06.entrance.v1.info
+psLI.m08.d06.entrance.v1.text = menaion.verses_en_US_saas.psLI.m08.d06.entrance.v1.text
+psLI.m08.d06.entrance.v2.info = menaion.verses_en_US_saas.psLI.m08.d06.entrance.v2.info
+psLI.m08.d06.entrance.v2.text = menaion.verses_en_US_saas.psLI.m08.d06.entrance.v2.text
+psLI.m08.d06.prokeimenon.v1.info = menaion.verses_en_US_saas.psLI.m08.d06.prokeimenon.v1.info
+psLI.m08.d06.prokeimenon.v1.text = menaion.verses_en_US_saas.psLI.m08.d06.prokeimenon.v1.text
+psLI.m08.d06.prokeimenon.v2.info = menaion.verses_en_US_saas.psLI.m08.d06.prokeimenon.v2.info
+psLI.m08.d06.prokeimenon.v2.text = menaion.verses_en_US_saas.psLI.m08.d06.prokeimenon.v2.text
+psLI.m08.d06.alleluia.v1.info = menaion.verses_en_US_saas.psLI.m08.d06.alleluia.v1.info
+psLI.m08.d06.alleluia.v1.text = menaion.verses_en_US_saas.psLI.m08.d06.alleluia.v1.text
+psLI.m08.d06.alleluia.v2.info = menaion.verses_en_US_saas.psLI.m08.d06.alleluia.v2.info
+psLI.m08.d06.alleluia.v2.text = menaion.verses_en_US_saas.psLI.m08.d06.alleluia.v2.text
+psLI.m08.d06.communion.v1.info = menaion.verses_en_US_saas.psLI.m08.d06.communion.v1.info
+psLI.m08.d06.communion.v1.text = menaion.verses_en_US_saas.psLI.m08.d06.communion.v1.text
+
+psLI.m08.d09.prokeimenon.v1.info = menaion.verses_en_US_saas.psLI.m08.d09.prokeimenon.v1.info
+psLI.m08.d09.prokeimenon.v1.text = menaion.verses_en_US_saas.psLI.m08.d09.prokeimenon.v1.text
+psLI.m08.d09.prokeimenon.v2.info = menaion.verses_en_US_saas.psLI.m08.d09.prokeimenon.v2.info
+psLI.m08.d09.prokeimenon.v2.text = menaion.verses_en_US_saas.psLI.m08.d09.prokeimenon.v2.text
+psLI.m08.d09.alleluia.v1.info = menaion.verses_en_US_saas.psLI.m08.d09.alleluia.v1.info
+psLI.m08.d09.alleluia.v1.text = menaion.verses_en_US_saas.psLI.m08.d09.alleluia.v1.text
+psLI.m08.d09.alleluia.v2.info = menaion.verses_en_US_saas.psLI.m08.d09.alleluia.v2.info
+psLI.m08.d09.alleluia.v2.text = menaion.verses_en_US_saas.psLI.m08.d09.alleluia.v2.text
+
+psLI.m08.d15.antiphon1.v1.info = menaion.verses_en_US_saas.psLI.m08.d15.antiphon1.v1.info
+psLI.m08.d15.antiphon1.v1.text = menaion.verses_en_US_saas.psLI.m08.d15.antiphon1.v1.text
+psLI.m08.d15.antiphon1.v2.info = menaion.verses_en_US_saas.psLI.m08.d15.antiphon1.v2.info
+psLI.m08.d15.antiphon1.v2.text = menaion.verses_en_US_saas.psLI.m08.d15.antiphon1.v2.text
+psLI.m08.d15.antiphon1.v3.info = menaion.verses_en_US_saas.psLI.m08.d15.antiphon1.v3.info
+psLI.m08.d15.antiphon1.v3.text = menaion.verses_en_US_saas.psLI.m08.d15.antiphon1.v3.text
+psLI.m08.d15.antiphon1.v4.info = menaion.verses_en_US_saas.psLI.m08.d15.antiphon1.v4.info
+psLI.m08.d15.antiphon1.v4.text = menaion.verses_en_US_saas.psLI.m08.d15.antiphon1.v4.text
+psLI.m08.d15.antiphon2.v1.info = menaion.verses_en_US_saas.psLI.m08.d15.antiphon2.v1.info
+psLI.m08.d15.antiphon2.v1.text = menaion.verses_en_US_saas.psLI.m08.d15.antiphon2.v1.text
+psLI.m08.d15.antiphon2.v2.info = menaion.verses_en_US_saas.psLI.m08.d15.antiphon2.v2.info
+psLI.m08.d15.antiphon2.v2.text = menaion.verses_en_US_saas.psLI.m08.d15.antiphon2.v2.text
+psLI.m08.d15.antiphon2.v3.info = menaion.verses_en_US_saas.psLI.m08.d15.antiphon2.v3.info
+psLI.m08.d15.antiphon2.v3.text = menaion.verses_en_US_saas.psLI.m08.d15.antiphon2.v3.text
+psLI.m08.d15.antiphon2.v4.info = menaion.verses_en_US_saas.psLI.m08.d15.antiphon2.v4.info
+psLI.m08.d15.antiphon2.v4.text = menaion.verses_en_US_saas.psLI.m08.d15.antiphon2.v4.text
+psLI.m08.d15.antiphon3.v1.info = menaion.verses_en_US_saas.psLI.m08.d15.antiphon3.v1.info
+psLI.m08.d15.antiphon3.v1.text = menaion.verses_en_US_saas.psLI.m08.d15.antiphon3.v1.text
+psLI.m08.d15.antiphon3.v2.info = menaion.verses_en_US_saas.psLI.m08.d15.antiphon3.v2.info
+psLI.m08.d15.antiphon3.v2.text = menaion.verses_en_US_saas.psLI.m08.d15.antiphon3.v2.text
+psLI.m08.d15.antiphon3.v3.info = menaion.verses_en_US_saas.psLI.m08.d15.antiphon3.v3.info
+psLI.m08.d15.antiphon3.v3.text = menaion.verses_en_US_saas.psLI.m08.d15.antiphon3.v3.text
+psLI.m08.d15.prokeimenon.v1.info = menaion.verses_en_US_rsv.psLI.m08.d15.prokeimenon.v1.info
+psLI.m08.d15.prokeimenon.v1.text = menaion.verses_en_US_rsv.psLI.m08.d15.prokeimenon.v1.text
+psLI.m08.d15.prokeimenon.v2.info = menaion.verses_en_US_rsv.psLI.m08.d15.prokeimenon.v2.info
+psLI.m08.d15.prokeimenon.v2.text = menaion.verses_en_US_rsv.psLI.m08.d15.prokeimenon.v2.text
+psLI.m08.d15.alleluia.v1.info = menaion.verses_en_US_saas.psLI.m08.d15.alleluia.v1.info
+psLI.m08.d15.alleluia.v1.text = menaion.verses_en_US_saas.psLI.m08.d15.alleluia.v1.text
+psLI.m08.d15.alleluia.v2.info = menaion.verses_en_US_saas.psLI.m08.d15.alleluia.v2.info
+psLI.m08.d15.alleluia.v2.text = menaion.verses_en_US_saas.psLI.m08.d15.alleluia.v2.text
+psLI.m08.d15.communion.v1.info = menaion.verses_en_US_saas.psLI.m08.d15.communion.v1.info
+psLI.m08.d15.communion.v1.text = menaion.verses_en_US_saas.psLI.m08.d15.communion.v1.text
+
+psLI.m08.d16.prokeimenon.v1.info = menaion.verses_en_US_saas.psLI.m08.d16.prokeimenon.v1.info
+psLI.m08.d16.prokeimenon.v1.text = menaion.verses_en_US_saas.psLI.m08.d16.prokeimenon.v1.text
+psLI.m08.d16.prokeimenon.v2.info = menaion.verses_en_US_saas.psLI.m08.d16.prokeimenon.v2.info
+psLI.m08.d16.prokeimenon.v2.text = menaion.verses_en_US_saas.psLI.m08.d16.prokeimenon.v2.text
+psLI.m08.d16.alleluia.v1.info = menaion.verses_en_US_saas.psLI.m08.d16.alleluia.v1.info
+psLI.m08.d16.alleluia.v1.text = menaion.verses_en_US_saas.psLI.m08.d16.alleluia.v1.text
+psLI.m08.d16.alleluia.v2.info = menaion.verses_en_US_saas.psLI.m08.d16.alleluia.v2.info
+psLI.m08.d16.alleluia.v2.text = menaion.verses_en_US_saas.psLI.m08.d16.alleluia.v2.text
+
+psLI.m08.d18.prokeimenon.v1.info = menaion.verses_en_US_saas.psLI.m08.d18.prokeimenon.v1.info
+psLI.m08.d18.prokeimenon.v1.text = menaion.verses_en_US_saas.psLI.m08.d18.prokeimenon.v1.text
+psLI.m08.d18.prokeimenon.v2.info = menaion.verses_en_US_saas.psLI.m08.d18.prokeimenon.v2.info
+psLI.m08.d18.prokeimenon.v2.text = menaion.verses_en_US_saas.psLI.m08.d18.prokeimenon.v2.text
+psLI.m08.d18.alleluia.v1.info = menaion.verses_en_US_saas.psLI.m08.d18.alleluia.v1.info
+psLI.m08.d18.alleluia.v1.text = menaion.verses_en_US_saas.psLI.m08.d18.alleluia.v1.text
+psLI.m08.d18.alleluia.v2.info = menaion.verses_en_US_saas.psLI.m08.d18.alleluia.v2.info
+psLI.m08.d18.alleluia.v2.text = menaion.verses_en_US_saas.psLI.m08.d18.alleluia.v2.text
+
+psLI.m08.d20.prokeimenon.v1.info = menaion.verses_en_US_saas.psLI.m08.d20.prokeimenon.v1.info
+psLI.m08.d20.prokeimenon.v1.text = menaion.verses_en_US_saas.psLI.m08.d20.prokeimenon.v1.text
+psLI.m08.d20.prokeimenon.v2.info = menaion.verses_en_US_saas.psLI.m08.d20.prokeimenon.v2.info
+psLI.m08.d20.prokeimenon.v2.text = menaion.verses_en_US_saas.psLI.m08.d20.prokeimenon.v2.text
+psLI.m08.d20.alleluia.v1.info = menaion.verses_en_US_saas.psLI.m08.d20.alleluia.v1.info
+psLI.m08.d20.alleluia.v1.text = menaion.verses_en_US_saas.psLI.m08.d20.alleluia.v1.text
+psLI.m08.d20.alleluia.v2.info = menaion.verses_en_US_saas.psLI.m08.d20.alleluia.v2.info
+psLI.m08.d20.alleluia.v2.text = menaion.verses_en_US_saas.psLI.m08.d20.alleluia.v2.text
+
+psLI.m08.d25.prokeimenon.v1.info = menaion.verses_en_US_saas.psLI.m08.d25.prokeimenon.v1.info
+psLI.m08.d25.prokeimenon.v1.text = menaion.verses_en_US_saas.psLI.m08.d25.prokeimenon.v1.text
+psLI.m08.d25.prokeimenon.v2.info = menaion.verses_en_US_saas.psLI.m08.d25.prokeimenon.v2.info
+psLI.m08.d25.prokeimenon.v2.text = menaion.verses_en_US_saas.psLI.m08.d25.prokeimenon.v2.text
+psLI.m08.d25.alleluia.v1.info = menaion.verses_en_US_saas.psLI.m08.d25.alleluia.v1.info
+psLI.m08.d25.alleluia.v1.text = menaion.verses_en_US_saas.psLI.m08.d25.alleluia.v1.text
+psLI.m08.d25.alleluia.v2.info = menaion.verses_en_US_saas.psLI.m08.d25.alleluia.v2.info
+psLI.m08.d25.alleluia.v2.text = menaion.verses_en_US_saas.psLI.m08.d25.alleluia.v2.text
+
+psLI.m08.d26.prokeimenon.v1.info = menaion.verses_en_US_saas.psLI.m08.d26.prokeimenon.v1.info
+psLI.m08.d26.prokeimenon.v1.text = menaion.verses_en_US_saas.psLI.m08.d26.prokeimenon.v1.text
+psLI.m08.d26.prokeimenon.v2.info = menaion.verses_en_US_saas.psLI.m08.d26.prokeimenon.v2.info
+psLI.m08.d26.prokeimenon.v2.text = menaion.verses_en_US_saas.psLI.m08.d26.prokeimenon.v2.text
+psLI.m08.d26.alleluia.v1.info = menaion.verses_en_US_saas.psLI.m08.d26.alleluia.v1.info
+psLI.m08.d26.alleluia.v1.text = menaion.verses_en_US_saas.psLI.m08.d26.alleluia.v1.text
+psLI.m08.d26.alleluia.v2.info = menaion.verses_en_US_saas.psLI.m08.d26.alleluia.v2.info
+psLI.m08.d26.alleluia.v2.text = menaion.verses_en_US_saas.psLI.m08.d26.alleluia.v2.text
+
+psLI.m08.d29.prokeimenon.v1.info = menaion.verses_en_US_saas.psLI.m08.d29.prokeimenon.v1.info
+psLI.m08.d29.prokeimenon.v1.text = menaion.verses_en_US_saas.psLI.m08.d29.prokeimenon.v1.text
+psLI.m08.d29.prokeimenon.v2.info = menaion.verses_en_US_saas.psLI.m08.d29.prokeimenon.v2.info
+psLI.m08.d29.prokeimenon.v2.text = menaion.verses_en_US_saas.psLI.m08.d29.prokeimenon.v2.text
+psLI.m08.d29.alleluia.v1.info = menaion.verses_en_US_saas.psLI.m08.d29.alleluia.v1.info
+psLI.m08.d29.alleluia.v1.text = menaion.verses_en_US_saas.psLI.m08.d29.alleluia.v1.text
+psLI.m08.d29.alleluia.v2.info = menaion.verses_en_US_saas.psLI.m08.d29.alleluia.v2.info
+psLI.m08.d29.alleluia.v2.text = menaion.verses_en_US_saas.psLI.m08.d29.alleluia.v2.text
+
+psLI.m08.d31.prokeimenon.v1.info = menaion.verses_en_US_rsv.psLI.m08.d31.prokeimenon.v1.info
+psLI.m08.d31.prokeimenon.v1.text = menaion.verses_en_US_rsv.psLI.m08.d31.prokeimenon.v1.text
+psLI.m08.d31.prokeimenon.v2.info = menaion.verses_en_US_rsv.psLI.m08.d31.prokeimenon.v2.info
+psLI.m08.d31.prokeimenon.v2.text = menaion.verses_en_US_rsv.psLI.m08.d31.prokeimenon.v2.text
+psLI.m08.d31.alleluia.v1.info = menaion.verses_en_US_saas.psLI.m08.d31.alleluia.v1.info
+psLI.m08.d31.alleluia.v1.text = menaion.verses_en_US_saas.psLI.m08.d31.alleluia.v1.text
+psLI.m08.d31.alleluia.v2.info = menaion.verses_en_US_saas.psLI.m08.d31.alleluia.v2.info
+psLI.m08.d31.alleluia.v2.text = menaion.verses_en_US_saas.psLI.m08.d31.alleluia.v2.text
+
+
+
