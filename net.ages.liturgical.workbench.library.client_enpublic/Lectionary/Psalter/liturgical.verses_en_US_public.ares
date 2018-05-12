@@ -2,6 +2,9 @@ A_Resource_Whose_Name = liturgical.verses_en_US_public
 
 //Vespers
 
+psVE.vigilentry.info = liturgical.verses_en_US_saas.psVE.vigilentry.info
+psVE.vigilentry.text = liturgical.verses_en_US_saas.psVE.vigilentry.text
+
 psVE.anoixantaria.v1.info = liturgical.verses_en_US_saas.psVE.anoixantaria.v1.info
 psVE.anoixantaria.v1.text = liturgical.verses_en_US_saas.psVE.anoixantaria.v1.text
 psVE.anoixantaria.v2.info = liturgical.verses_en_US_saas.psVE.anoixantaria.v2.info
@@ -436,6 +439,15 @@ psMA.beginning.v3.info = liturgical.verses_en_US_saas.psMA.beginning.v3.info
 psMA.beginning.v3.text = liturgical.verses_en_US_saas.psMA.beginning.v3.text
 psMA.beginning.v4.info = liturgical.verses_en_US_saas.psMA.beginning.v4.info
 psMA.beginning.v4.text = liturgical.verses_en_US_saas.psMA.beginning.v4.text
+
+psMA.alleluia_lent.v1.info = liturgical.verses_en_US_saas.psMA.alleluia_lent.v1.info
+psMA.alleluia_lent.v1.text = liturgical.verses_en_US_saas.psMA.alleluia_lent.v1.text
+psMA.alleluia_lent.v2.info = liturgical.verses_en_US_saas.psMA.alleluia_lent.v2.info
+psMA.alleluia_lent.v2.text = liturgical.verses_en_US_saas.psMA.alleluia_lent.v2.text
+psMA.alleluia_lent.v3.info = liturgical.verses_en_US_saas.psMA.alleluia_lent.v3.info
+psMA.alleluia_lent.v3.text = liturgical.verses_en_US_saas.psMA.alleluia_lent.v3.text
+psMA.alleluia_lent.v4.info = liturgical.verses_en_US_saas.psMA.alleluia_lent.v4.info
+psMA.alleluia_lent.v4.text = liturgical.verses_en_US_saas.psMA.alleluia_lent.v4.text
 
 psMA.monday.kathismata.v1.info = liturgical.verses_en_US_saas.psMA.monday.kathismata.v1.info
 psMA.monday.kathismata.v1.text = liturgical.verses_en_US_saas.psMA.monday.kathismata.v1.text
