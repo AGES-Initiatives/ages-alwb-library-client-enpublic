@@ -10,6 +10,7 @@ Clergy    = actors_en_US_dedes.Clergy
 ClergyAndPeople = actors_en_US_dedes.ClergyAndPeople
 Deacon    = actors_en_US_dedes.Deacon    
 Hierarch   = actors_en_US_dedes.Hierarch   
+Hierarchs = actors_en_US_dedes.Hierarchs
 HierarchOrPriest = actors_en_US_dedes.HierarchOrPriest
 People    = actors_en_US_dedes.People    
 Priest    = actors_en_US_dedes.Priest    
