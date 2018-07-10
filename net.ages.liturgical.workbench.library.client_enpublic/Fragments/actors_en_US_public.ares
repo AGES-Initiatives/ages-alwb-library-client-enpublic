@@ -2,6 +2,7 @@ A_Resource_Whose_Name = actors_en_US_public
 
 Candidate_Sponsor = actors_en_US_dedes.Candidate_Sponsor
 Chanter   = actors_en_US_dedes.Chanter    
+Chanters = actors_en_US_dedes.Chanters
 ChanterOrReader = actors_en_US_dedes.ChanterOrReader
 Choir    = actors_en_US_dedes.Choir     
 ChoirL    = actors_en_US_dedes.ChoirL     
