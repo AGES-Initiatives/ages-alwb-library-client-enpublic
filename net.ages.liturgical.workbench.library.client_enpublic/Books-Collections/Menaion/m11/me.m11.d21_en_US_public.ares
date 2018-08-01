@@ -78,8 +78,8 @@ meVE.SticGlory.text = me.m11.d21_en_US_dedes.meVE.SticGlory.text
 
 meVE.Lity1.poet = me.m11.d21_en_US_dedes.meVE.Lity1.poet
 meVE.Lity1.mode = me.m11.d21_en_US_dedes.meVE.Lity1.mode
-meVE.Lity1.melody = me.m11.d21_en_US_dedes.meVE.Lity1.melody
-meVE.Lity1.text = me.m11.d21_en_US_dedes.meVE.Lity1.text
+meVE.Lity1.melody = me.m11.d21_en_US_oca.meVE.Lity1.melody
+meVE.Lity1.text = me.m11.d21_en_US_oca.meVE.Lity1.text
 
 meVE.Lity2.poet = me.m11.d21_en_US_dedes.meVE.Lity2.poet
 meVE.Lity2.mode = me.m11.d21_en_US_dedes.meVE.Lity2.mode
@@ -87,13 +87,13 @@ meVE.Lity2.melody = me.m11.d21_en_US_dedes.meVE.Lity2.melody
 meVE.Lity2.text = me.m11.d21_en_US_dedes.meVE.Lity2.text
 
 meVE.Lity3.mode = me.m11.d21_en_US_dedes.meVE.Lity3.mode
-meVE.Lity3.melody = me.m11.d21_en_US_dedes.meVE.Lity3.melody
-meVE.Lity3.text = me.m11.d21_en_US_dedes.meVE.Lity3.text
+meVE.Lity3.melody = me.m11.d21_en_US_oca.meVE.Lity3.melody
+meVE.Lity3.text = me.m11.d21_en_US_oca.meVE.Lity3.text
 
 meVE.LityGlory.poet = me.m11.d21_en_US_dedes.meVE.LityGlory.poet
 meVE.LityGlory.mode = me.m11.d21_en_US_dedes.meVE.LityGlory.mode
-meVE.LityGlory.melody = me.m11.d21_en_US_dedes.meVE.LityGlory.melody
-meVE.LityGlory.text = me.m11.d21_en_US_dedes.meVE.LityGlory.text
+meVE.LityGlory.melody = me.m11.d21_en_US_oca.meVE.LityGlory.melody
+meVE.LityGlory.text = me.m11.d21_en_US_oca.meVE.LityGlory.text
 
 meVE.Aposticha1.mode = me.m11.d21_en_US_dedes.meVE.Aposticha1.mode
 meVE.Aposticha1.melody = me.m11.d21_en_US_oca.meVE.Aposticha1.melody
