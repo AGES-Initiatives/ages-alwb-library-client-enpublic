@@ -472,8 +472,8 @@ trMA.LaudsTheotokion.melody = tr.d015_en_US_dedes.trMA.LaudsTheotokion.melody
 trMA.LaudsTheotokion.text = tr.d015_en_US_dedes.trMA.LaudsTheotokion.text
 
 trLI.Kontakion1.mode = tr.d015_en_US_dedes.trLI.Kontakion1.mode
-trLI.Kontakion1.melody = tr.d015_en_US_dedes.trLI.Kontakion1.melody
-trLI.Kontakion1.text = tr.d015_en_US_dedes.trLI.Kontakion1.text
+trLI.Kontakion1.melody = tr.d015_en_US_duvall.trLI.Kontakion1.melody
+trLI.Kontakion1.text = tr.d015_en_US_duvall.trLI.Kontakion1.text
 
 trLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
