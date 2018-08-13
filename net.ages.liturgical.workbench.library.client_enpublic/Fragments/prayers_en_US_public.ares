@@ -72,7 +72,9 @@ EvlogisonThymiama.text = prayers_en_US_holycross.EvlogisonThymiama.text
 
 EleisonMeOTheos.text = prayers_en_US_holycross.EleisonMeOTheos.text
 
-AxionEstin.text = prayers_en_US_goa.AxionEstin.text
+AxionEstinPart1.text = prayers_en_US_goa.AxionEstinPart1.text
+
+AxionEstinComplete.text = prayers_en_US_goa.AxionEstinComplete.text
 
 AgiosOTheos.text = prayers_en_US_goa.AgiosOTheos.text
 
