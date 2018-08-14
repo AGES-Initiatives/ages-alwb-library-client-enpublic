@@ -76,6 +76,8 @@ meVE.Apolytikion2.mode = me.m10.d09_en_US_dedes.meVE.Apolytikion2.mode
 meVE.Apolytikion2.melody = me.m10.d09_en_US_dedes.meVE.Apolytikion2.melody
 meVE.Apolytikion2.text = me.m10.d09_en_US_dedes.meVE.Apolytikion2.text
 
+meVE.MM.GeneralApolytikion3.text = me.m10.d09_en_US_dedes.meVE.MM.GeneralApolytikion3.text
+
 //this is not the same canon as in cog, but a general canon
 meMA.C1.notice = rubrical_en_US_public.DifferentMenaionCanonInEnglish
 meMA.C1Poet = me.m10.d09_en_US_dedes.meMA.C1Poet

@@ -1,5 +1,7 @@
 A_Resource_Whose_Name = he.ga_en_US_public 
 
+he.title = he.ga_en_US_dedes.he.title
+
 // For a Prophet. Insert name with comma.
 TouProfitouSou.name = he.ga_en_US_dedes.TouProfitouSou.name
 TouProfitouSou.mode = he.ga_en_US_dedes.TouProfitouSou.mode
