@@ -328,3 +328,5 @@ hoMA.RtrSoS01 = ho.s03_en_US_dedes.hoMA.RtrSoS01
 //Polyelelos, not in Horologion
 hoMA.MM.PolyeleosPsalm134.text = ho.s03_en_US_dedes.hoMA.MM.PolyeleosPsalm134.text
 hoMA.MM.PolyeleosPsalm135.text = ho.s03_en_US_dedes.hoMA.MM.PolyeleosPsalm135.text
+
+hoMA.EclogeTheotokionWeekday.text = ho.s03_en_US_dedes.hoMA.EclogeTheotokionWeekday.text
