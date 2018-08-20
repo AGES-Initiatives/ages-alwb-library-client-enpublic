@@ -433,6 +433,14 @@ meMA.Oikos16.text = me.m07.d12_en_US_dedes.meMA.Oikos16.text
 meMA.Oikos17.text = me.m07.d12_en_US_dedes.meMA.Oikos17.text
 meMA.Oikos18.text = me.m07.d12_en_US_dedes.meMA.Oikos18.text
 
+meMA.Synaxarion.text = me.m07.d12_en_US_dedes.meMA.Synaxarion.text
+meMA.couplet1.title = me.m07.d12_en_US_dedes.meMA.couplet1.title
+meMA.couplet1.verse1 = me.m07.d12_en_US_dedes.meMA.couplet1.verse1
+meMA.couplet1.verse2 = me.m07.d12_en_US_dedes.meMA.couplet1.verse2
+meMA.couplet2.verse1 = me.m07.d12_en_US_dedes.meMA.couplet2.verse1
+meMA.couplet2.verse2 = me.m07.d12_en_US_dedes.meMA.couplet2.verse2
+meMA.single1.text = me.m07.d12_en_US_dedes.meMA.single1.text
+
 meMA.Ode7C11.ode = me.m07.d12_en_US_dedes.meMA.Ode7C11.ode
 meMA.Ode7C11.mode = me.m07.d12_en_US_dedes.meMA.Ode7C11.mode
 meMA.Ode7C11.melody = me.m07.d12_en_US_dedes.meMA.Ode7C11.melody
@@ -1431,6 +1439,13 @@ alt2.meMA.Oikos15.text = me.m07.d12_en_US_dedes.alt2.meMA.Oikos15.text
 alt2.meMA.Oikos16.text = me.m07.d12_en_US_dedes.alt2.meMA.Oikos16.text
 alt2.meMA.Oikos17.text = me.m07.d12_en_US_dedes.alt2.meMA.Oikos17.text
 alt2.meMA.Oikos18.text = me.m07.d12_en_US_dedes.alt2.meMA.Oikos18.text
+
+alt2.meMA.Synaxarion.text = me.m07.d12_en_US_dedes.alt2.meMA.Synaxarion.text
+alt2.meMA.couplet1.title = me.m07.d12_en_US_dedes.alt2.meMA.couplet1.title
+alt2.meMA.couplet1.verse1 = me.m07.d12_en_US_dedes.alt2.meMA.couplet1.verse1
+alt2.meMA.couplet1.verse2 = me.m07.d12_en_US_dedes.alt2.meMA.couplet1.verse2
+alt2.meMA.single1.text = me.m07.d12_en_US_dedes.alt2.meMA.single1.text
+alt2.meMA.narration1.text = me.m07.d12_en_US_dedes.alt2.meMA.narration1.text
 
 alt2.meMA.Ode7C1H.ode = me.m07.d12_en_US_dedes.alt2.meMA.Ode7C1H.ode
 alt2.meMA.Ode7C1H.mode = me.m07.d12_en_US_dedes.alt2.meMA.Ode7C1H.mode
