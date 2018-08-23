@@ -1122,11 +1122,13 @@ psH9.v2.text = liturgical.verses_en_US_saas.psH9.v2.text
 
 //at Liturgy
 
+psLI.typika.ps102.title = liturgical.verses_en_US_saas.psLI.typika.ps102.title
 psLI.typika.ps102.intro.info = liturgical.verses_en_US_saas.psLI.typika.ps102.intro.info
 psLI.typika.ps102.intro.text = liturgical.verses_en_US_saas.psLI.typika.ps102.intro.text
 psLI.typika.ps102.end.info = liturgical.verses_en_US_saas.psLI.typika.ps102.end.info
 psLI.typika.ps102.end.text = liturgical.verses_en_US_saas.psLI.typika.ps102.end.text
 
+psLI.typika.ps145.title = liturgical.verses_en_US_saas.psLI.typika.ps145.title
 psLI.typika.ps145.v1.info = liturgical.verses_en_US_saas.psLI.typika.ps145.v1.info
 psLI.typika.ps145.v1.text = liturgical.verses_en_US_saas.psLI.typika.ps145.v1.text
 psLI.typika.ps145.v2.info = liturgical.verses_en_US_saas.psLI.typika.ps145.v2.info
@@ -1417,8 +1419,8 @@ psLI.sunday.m4.alleluia.v1.info = liturgical.verses_en_US_saas.psLI.sunday.m4.al
 psLI.sunday.m4.alleluia.v1.text = liturgical.verses_en_US_saas.psLI.sunday.m4.alleluia.v1.text
 psLI.sunday.m4.alleluia.v2.info = liturgical.verses_en_US_saas.psLI.sunday.m4.alleluia.v2.info
 psLI.sunday.m4.alleluia.v2.text = liturgical.verses_en_US_saas.psLI.sunday.m4.alleluia.v2.text
-psLI.sunday.m1.prokeimenon.title = liturgical.verses_en_US_saas.psLI.sunday.m1.prokeimenon.title
-psLI.sunday.m1.prokeimenon.v1.info = liturgical.verses_en_US_saas.psLI.sunday.m1.prokeimenon.v1.info
+psLI.sunday.m5.prokeimenon.title = liturgical.verses_en_US_saas.psLI.sunday.m5.prokeimenon.title
+psLI.sunday.m5.prokeimenon.v1.info = liturgical.verses_en_US_saas.psLI.sunday.m5.prokeimenon.v1.info
 psLI.sunday.m5.prokeimenon.v1.text = liturgical.verses_en_US_saas.psLI.sunday.m5.prokeimenon.v1.text
 psLI.sunday.m5.prokeimenon.v2.info = liturgical.verses_en_US_saas.psLI.sunday.m5.prokeimenon.v2.info
 psLI.sunday.m5.prokeimenon.v2.text = liturgical.verses_en_US_saas.psLI.sunday.m5.prokeimenon.v2.text
@@ -1546,11 +1548,12 @@ psLI.weekday.d6.alleluia.v1.info = liturgical.verses_en_US_saas.psLI.weekday.d6.
 psLI.weekday.d6.alleluia.v1.text = liturgical.verses_en_US_saas.psLI.weekday.d6.alleluia.v1.text
 psLI.weekday.d6.alleluia.v2.info = liturgical.verses_en_US_saas.psLI.weekday.d6.alleluia.v2.info
 psLI.weekday.d6.alleluia.v2.text = liturgical.verses_en_US_saas.psLI.weekday.d6.alleluia.v2.text
-psLI.weekday.d6.communion.title = liturgical.verses_en_US_saas.psLI.weekday.d6.communion.title
-psLI.weekday.d6.communion.v1.info = liturgical.verses_en_US_saas.psLI.weekday.d6.communion.v1.info
-psLI.weekday.d6.communion.v1.text = liturgical.verses_en_US_saas.psLI.weekday.d6.communion.v1.text
-psLI.weekday.d6.communion.v2.info = liturgical.verses_en_US_saas.psLI.weekday.d6.communion.v2.info
-psLI.weekday.d6.communion.v2.text = liturgical.verses_en_US_saas.psLI.weekday.d6.communion.v2.text
+psLI.weekday.d6.communion1.title = liturgical.verses_en_US_saas.psLI.weekday.d6.communion1.title
+psLI.weekday.d6.communion1.v1.info = liturgical.verses_en_US_saas.psLI.weekday.d6.communion1.v1.info
+psLI.weekday.d6.communion1.v1.text = liturgical.verses_en_US_saas.psLI.weekday.d6.communion1.v1.text
+psLI.weekday.d6.communion2.title = liturgical.verses_en_US_saas.psLI.weekday.d6.communion2.title
+psLI.weekday.d6.communion2.v1.info = liturgical.verses_en_US_saas.psLI.weekday.d6.communion2.v1.info
+psLI.weekday.d6.communion2.v1.text = liturgical.verses_en_US_saas.psLI.weekday.d6.communion2.v1.text
 
 psLI.weekday.d7.prokeimenon.title = liturgical.verses_en_US_saas.psLI.weekday.d7.prokeimenon.title
 psLI.weekday.d7.prokeimenon.v1.info = liturgical.verses_en_US_saas.psLI.weekday.d7.prokeimenon.v1.info
@@ -1562,11 +1565,12 @@ psLI.weekday.d7.alleluia.v1.info = liturgical.verses_en_US_saas.psLI.weekday.d7.
 psLI.weekday.d7.alleluia.v1.text = liturgical.verses_en_US_saas.psLI.weekday.d7.alleluia.v1.text
 psLI.weekday.d7.alleluia.v2.info = liturgical.verses_en_US_saas.psLI.weekday.d7.alleluia.v2.info
 psLI.weekday.d7.alleluia.v2.text = liturgical.verses_en_US_saas.psLI.weekday.d7.alleluia.v2.text
-psLI.weekday.d7.communion.title = liturgical.verses_en_US_saas.psLI.weekday.d7.communion.title
-psLI.weekday.d7.communion.v1.info = liturgical.verses_en_US_saas.psLI.weekday.d7.communion.v1.info
-psLI.weekday.d7.communion.v1.text = liturgical.verses_en_US_saas.psLI.weekday.d7.communion.v1.text
-psLI.weekday.d7.communion.v2.info = liturgical.verses_en_US_saas.psLI.weekday.d7.communion.v2.info
-psLI.weekday.d7.communion.v2.text = liturgical.verses_en_US_saas.psLI.weekday.d7.communion.v2.text
+psLI.weekday.d7.communion1.title = liturgical.verses_en_US_saas.psLI.weekday.d7.communion1.title
+psLI.weekday.d7.communion1.v1.info = liturgical.verses_en_US_saas.psLI.weekday.d7.communion1.v1.info
+psLI.weekday.d7.communion1.v1.text = liturgical.verses_en_US_saas.psLI.weekday.d7.communion1.v1.text
+psLI.weekday.d7.communion2.title = liturgical.verses_en_US_saas.psLI.weekday.d7.communion2.title
+psLI.weekday.d7.communion2.v1.info = liturgical.verses_en_US_saas.psLI.weekday.d7.communion2.v1.info
+psLI.weekday.d7.communion2.v1.text = liturgical.verses_en_US_saas.psLI.weekday.d7.communion2.v1.text
 
 psLI.hierarchical.trisagionblessing.v1.info = liturgical.verses_en_US_saas.psLI.hierarchical.trisagionblessing.v1.info
 psLI.hierarchical.trisagionblessing.v1.text = liturgical.verses_en_US_saas.psLI.hierarchical.trisagionblessing.v1.text
