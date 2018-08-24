@@ -10,6 +10,14 @@ Heirmologic = misc_en_US_dedes.Heirmologic
 Idiomelon = misc_en_US_dedes.Idiomelon
 Prosomoion = misc_en_US_dedes.Prosomoion
 
+greekquotation.left = "«"
+greekquotation.right = "»"
+separator.asterisk = " * "
+separator.emdash = " — "
+separator.endash = " – "
+separator.hyphen = " - "
+separator.pipe = " | "
+
 vVerse = misc_en_US_dedes.vVerse
 vVerse1 = misc_en_US_dedes.vVerse1
 vVerse2 = misc_en_US_dedes.vVerse2
