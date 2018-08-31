@@ -884,6 +884,29 @@ alt1.meLI.Kontakion1.text = me.m07.d12_en_US_dedes.alt1.meLI.Kontakion1.text
 
 alt1.meMegalynarion.text = me.m07.d12_en_US_dedes.alt1.meMegalynarion.text
 
+alt1.meSV.publication.stichera.text = me.m07.d12_en_US_dedes.alt1.meSV.publication.stichera.text
+alt1.meSV.publication.aposticha.text = me.m07.d12_en_US_dedes.alt1.meSV.publication.aposticha.text
+alt1.meVE.publication.introduction.text = me.m07.d12_en_US_dedes.alt1.meVE.publication.introduction.text
+alt1.meVE.publication.stichera.text = me.m07.d12_en_US_dedes.alt1.meVE.publication.stichera.text
+alt1.meVE.publication.middle1.text = me.m07.d12_en_US_dedes.alt1.meVE.publication.middle1.text
+alt1.meVE.publication.lity.text = me.m07.d12_en_US_dedes.alt1.meVE.publication.lity.text
+alt1.meVE.publication.aposticha.text = me.m07.d12_en_US_dedes.alt1.meVE.publication.aposticha.text
+alt1.meVE.publication.symeon.text = me.m07.d12_en_US_dedes.alt1.meVE.publication.symeon.text
+alt1.meMA.publication.kathisma1.text = me.m07.d12_en_US_dedes.alt1.meMA.publication.kathisma1.text
+alt1.meMA.publication.kathisma2.text = me.m07.d12_en_US_dedes.alt1.meMA.publication.kathisma2.text
+alt1.meMA.publication.polyeleos.text = me.m07.d12_en_US_dedes.alt1.meMA.publication.polyeleos.text
+alt1.meMA.publication.antiphon.text = me.m07.d12_en_US_dedes.alt1.meMA.publication.antiphon.text
+alt1.meMA.publication.gospel.text = me.m07.d12_en_US_dedes.alt1.meMA.publication.gospel.text
+alt1.meMA.publication.gospel_1.text = me.m07.d12_en_US_dedes.alt1.meMA.publication.gospel_1.text
+alt1.meMA.publication.gospel_2.text = me.m07.d12_en_US_dedes.alt1.meMA.publication.gospel_2.text
+alt1.meMA.publication.gospel_3.text = me.m07.d12_en_US_dedes.alt1.meMA.publication.gospel_3.text
+alt1.meMA.publication.canons.text = me.m07.d12_en_US_dedes.alt1.meMA.publication.canons.text
+alt1.meMA.publication.lauds.text = me.m07.d12_en_US_dedes.alt1.meMA.publication.lauds.text
+alt1.meMA.publication.doxology.text = me.m07.d12_en_US_dedes.alt1.meMA.publication.doxology.text
+alt1.meLI.publication.typika.text = me.m07.d12_en_US_dedes.alt1.meLI.publication.typika.text
+alt1.meLI.publication.epistle.text = me.m07.d12_en_US_dedes.alt1.meLI.publication.epistle.text
+alt1.meLI.publication.gospel.text = me.m07.d12_en_US_dedes.alt1.meLI.publication.gospel.text
+
 //----------------------
 
 alt2.meDate.text = me.m07.d12_en_US_dedes.alt2.meDate.text
@@ -1687,3 +1710,25 @@ alt2.meLI.Kontakion1.text = me.m07.d12_en_US_dedes.alt2.meLI.Kontakion1.text
 
 alt2.meMegalynarion.text = me.m07.d12_en_US_dedes.alt2.meMegalynarion.text
 
+alt2.meSV.publication.stichera.text = me.m07.d12_en_US_dedes.alt2.meSV.publication.stichera.text
+alt2.meSV.publication.aposticha.text = me.m07.d12_en_US_dedes.alt2.meSV.publication.aposticha.text
+alt2.meVE.publication.introduction.text = me.m07.d12_en_US_dedes.alt2.meVE.publication.introduction.text
+alt2.meVE.publication.stichera.text = me.m07.d12_en_US_dedes.alt2.meVE.publication.stichera.text
+alt2.meVE.publication.middle1.text = me.m07.d12_en_US_dedes.alt2.meVE.publication.middle1.text
+alt2.meVE.publication.lity.text = me.m07.d12_en_US_dedes.alt2.meVE.publication.lity.text
+alt2.meVE.publication.aposticha.text = me.m07.d12_en_US_dedes.alt2.meVE.publication.aposticha.text
+alt2.meVE.publication.symeon.text = me.m07.d12_en_US_dedes.alt2.meVE.publication.symeon.text
+alt2.meMA.publication.kathisma1.text = me.m07.d12_en_US_dedes.alt2.meMA.publication.kathisma1.text
+alt2.meMA.publication.kathisma2.text = me.m07.d12_en_US_dedes.alt2.meMA.publication.kathisma2.text
+alt2.meMA.publication.polyeleos.text = me.m07.d12_en_US_dedes.alt2.meMA.publication.polyeleos.text
+alt2.meMA.publication.antiphon.text = me.m07.d12_en_US_dedes.alt2.meMA.publication.antiphon.text
+alt2.meMA.publication.gospel.text = me.m07.d12_en_US_dedes.alt2.meMA.publication.gospel.text
+alt2.meMA.publication.gospel_1.text = me.m07.d12_en_US_dedes.alt2.meMA.publication.gospel_1.text
+alt2.meMA.publication.gospel_2.text = me.m07.d12_en_US_dedes.alt2.meMA.publication.gospel_2.text
+alt2.meMA.publication.gospel_3.text = me.m07.d12_en_US_dedes.alt2.meMA.publication.gospel_3.text
+alt2.meMA.publication.canons.text = me.m07.d12_en_US_dedes.alt2.meMA.publication.canons.text
+alt2.meMA.publication.lauds.text = me.m07.d12_en_US_dedes.alt2.meMA.publication.lauds.text
+alt2.meMA.publication.doxology.text = me.m07.d12_en_US_dedes.alt2.meMA.publication.doxology.text
+alt2.meLI.publication.typika.text = me.m07.d12_en_US_dedes.alt2.meLI.publication.typika.text
+alt2.meLI.publication.epistle.text = me.m07.d12_en_US_dedes.alt2.meLI.publication.epistle.text
+alt2.meLI.publication.gospel.text = me.m07.d12_en_US_dedes.alt2.meLI.publication.gospel.text
