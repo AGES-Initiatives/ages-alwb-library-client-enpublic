@@ -599,7 +599,7 @@ ocMA.Kontakion.melody = oc.m4.d1_en_US_dedes.ocMA.Kontakion.melody
 ocMA.Kontakion.text = oc.m4.d1_en_US_dedes.ocMA.Kontakion.text
 
 ocMA.Oikos.mode = oc.m4.d1_en_US_dedes.ocMA.Oikos.mode
-ocMA.Oikos.text = oc.m4.d1_en_US_dedes.ocMA.Oikos.text
+ocMA.Oikos.text = oc.m4.d1_en_US_duvall.ocMA.Oikos.text
 
 ocMA.OdeS7C1H.mode = oc.m4.d1_en_US_dedes.ocMA.OdeS7C1H.mode
 ocMA.OdeS7C1H.ode = oc.m4.d1_en_US_dedes.ocMA.OdeS7C1H.ode
