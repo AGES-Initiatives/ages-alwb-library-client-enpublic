@@ -226,6 +226,7 @@ R_Lauds_Hierarchical = ho.s03_en_US_dedes.R_Lauds_Hierarchical
 hoMA.LaudsSunTheotokion.text = ho.s03_en_US_dedes.hoMA.LaudsSunTheotokion.text
 
 hoMA.DoxologyGreat.title = ho.s03_en_US_dedes.hoMA.DoxologyGreat.title
+hoMA.MM.DoxologyGreat.text = ho.s03_en_US_dedes.hoMA.MM.DoxologyGreat.text
 hoMA.DoxologyGreatIntro.text = ho.s03_en_US_dedes.hoMA.DoxologyGreatIntro.text
 hoMA.DoxologyVerse01.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse01.text
 hoMA.DoxologyVerse02.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse02.text
@@ -253,6 +254,7 @@ hoMA.DoxologyVerse17.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse17.text
 hoMA.DoxologyVerse18.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse18.text
 hoMA.DoxologyVerse19.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse19.text
 R22 = ""
+hoMA.MM.DoxologyGreatAsmatic.text = ho.s03_en_US_dedes.hoMA.MM.DoxologyGreatAsmatic.text
 hoMA.DoxologyVerse20.text = ho.s03_en_US_dedes.hoMA.DoxologyVerse20.text
 R23 = ""
 hoMA.DoxologySmallIntro.text = ho.s03_en_US_holycross.hoMA.DoxologySmallIntro.text
