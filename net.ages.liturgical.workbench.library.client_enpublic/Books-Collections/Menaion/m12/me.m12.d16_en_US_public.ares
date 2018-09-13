@@ -627,9 +627,9 @@ alt1.meMA.LaudsGlory.mode = me.m12.d16_en_US_dedes.alt1.meMA.LaudsGlory.mode
 alt1.meMA.LaudsGlory.melody = me.m12.d16_en_US_dedes.alt1.meMA.LaudsGlory.melody
 alt1.meMA.LaudsGlory.text = me.m12.d16_en_US_dedes.alt1.meMA.LaudsGlory.text
 
-alt1.meMA.LaudsTheotokion.mode = me.m12.d16_en_US_dedes.alt1.meMA.LaudsTheotokion.mode
-alt1.meMA.LaudsTheotokion.melody = me.m12.d16_en_US_dedes.alt1.meMA.LaudsTheotokion.melody
-alt1.meMA.LaudsTheotokion.text = me.m12.d16_en_US_dedes.alt1.meMA.LaudsTheotokion.text
+alt1.meMA.LaudsBoth.mode = me.m12.d16_en_US_dedes.alt1.meMA.LaudsBoth.mode
+alt1.meMA.LaudsBoth.melody = me.m12.d16_en_US_dedes.alt1.meMA.LaudsBoth.melody
+alt1.meMA.LaudsBoth.text = me.m12.d16_en_US_dedes.alt1.meMA.LaudsBoth.text
 
 alt1.meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
