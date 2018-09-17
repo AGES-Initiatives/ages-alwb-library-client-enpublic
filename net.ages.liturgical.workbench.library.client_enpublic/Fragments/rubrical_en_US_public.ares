@@ -44,6 +44,8 @@ HolidayFish = rubrical_en_US_dedes.HolidayFish
 
 HolidayWineOil = rubrical_en_US_dedes.HolidayWineOil
 
+IfLityNotDoneAtVespers = rubrical_en_US_dedes.IfLityNotDoneAtVespers
+
 InALowVoice = rubrical_en_US_dedes.InALowVoice
 
 Inaudibly = rubrical_en_US_dedes.Inaudibly
@@ -91,6 +93,8 @@ TwiceWithNoVerse = rubrical_en_US_dedes.TwiceWithNoVerse
 VigilEntry = rubrical_en_US_dedes.VigilEntry
 
 WineOil = rubrical_en_US_dedes.WineOil
+
+WithoutVersesComingBefore = rubrical_en_US_dedes.WithoutVersesComingBefore
 
 fasting.rule.title = rubrical_en_US_goa.fasting.rule.title
 fasting.rule.strict = rubrical_en_US_goa.fasting.rule.strict

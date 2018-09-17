@@ -171,6 +171,10 @@ IchosTisEvdomados = titles_en_US_dedes.IchosTisEvdomados
 
 Idiomela = titles_en_US_dedes.Idiomela
 
+IdiomelaTisLitis = titles_en_US_dedes.IdiomelaTisLitis
+
+IdiomelaTonApostichon = titles_en_US_dedes.IdiomelaTonApostichon
+
 IdiomelaTouPentikostariou = titles_en_US_dedes.IdiomelaTouPentikostariou
 
 IdiomelaTouTriodiou = titles_en_US_dedes.IdiomelaTouTriodiou
@@ -779,6 +783,7 @@ ForWednesday = titles_en_US_dedes.ForWednesday
 ForThursday = titles_en_US_dedes.ForThursday
 ForFriday = titles_en_US_dedes.ForFriday
 ForSaturday = titles_en_US_dedes.ForSaturday
+ForWeekday = titles_en_US_dedes.ForWeekday
 Evening = titles_en_US_dedes.Evening
 intheEvening = titles_en_US_dedes.intheEvening
 Morning = titles_en_US_dedes.Morning
