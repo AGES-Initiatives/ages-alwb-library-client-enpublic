@@ -42,11 +42,11 @@ peVE.Lity2.text = pe.d085_en_UK_lash.peVE.Lity2.text
 
 peVE.Lity3.mode = pe.d085_en_US_dedes.peVE.Lity3.mode
 peVE.Lity3.melody = pe.d085_en_US_dedes.peVE.Lity3.melody
-peVE.Lity3.text = pe.d085_en_UK_lash.peVE.Lity3.text
+peVE.Lity3.text = pe.d085_en_US_dedes.peVE.Lity3.text
 
 peVE.LityGlory.mode = pe.d085_en_US_dedes.peVE.LityGlory.mode
 peVE.LityGlory.melody = pe.d085_en_US_dedes.peVE.LityGlory.melody
-peVE.LityGlory.text = pe.d085_en_UK_lash.peVE.LityGlory.text
+peVE.LityGlory.text = pe.d085_en_US_dedes.peVE.LityGlory.text
 
 peVE.LityBoth.mode = pe.d085_en_US_dedes.peVE.LityBoth.mode
 peVE.LityBoth.melody = pe.d085_en_US_dedes.peVE.LityBoth.melody
