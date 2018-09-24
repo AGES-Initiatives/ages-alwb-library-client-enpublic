@@ -368,8 +368,8 @@ trLI.Antiphon2.text = tr.d064_en_US_dedes.trLI.Antiphon2.text
 trLI.MM.EntranceHymn.text = properties_en_US_public.media.key
 
 trLI.Kontakion1.mode = tr.d064_en_US_dedes.trLI.Kontakion1.mode
-trLI.Kontakion1.melody = tr.d064_en_US_dedes.trLI.Kontakion1.melody
-trLI.Kontakion1.text = tr.d064_en_US_dedes.trLI.Kontakion1.text
+trLI.Kontakion1.melody = tr.d064_en_US_duvall.trLI.Kontakion1.melody
+trLI.Kontakion1.text = tr.d064_en_US_duvall.trLI.Kontakion1.text
 
 trLI.TheotokosHymn.mode = tr.d064_en_US_dedes.trLI.TheotokosHymn.mode
 trLI.TheotokosHymn.text = tr.d064_en_US_dedes.trLI.TheotokosHymn.text

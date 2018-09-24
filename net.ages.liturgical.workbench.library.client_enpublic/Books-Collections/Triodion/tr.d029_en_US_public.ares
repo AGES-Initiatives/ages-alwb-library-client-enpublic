@@ -356,16 +356,16 @@ trMA.LaudsGlory.melody = tr.d029_en_US_dedes.trMA.LaudsGlory.melody
 trMA.LaudsGlory.text = tr.d029_en_US_duvall.trMA.LaudsGlory.text
 
 trMA.LaudsTheotokion.mode = tr.d029_en_US_dedes.trMA.LaudsTheotokion.mode
-trMA.LaudsTheotokion.melody = tr.d029_en_US_duvall.trMA.LaudsTheotokion.melody
-trMA.LaudsTheotokion.text = tr.d029_en_US_duvall.trMA.LaudsTheotokion.text
+trMA.LaudsTheotokion.melody = tr.d029_en_US_dedes.trMA.LaudsTheotokion.melody
+trMA.LaudsTheotokion.text = tr.d029_en_US_dedes.trMA.LaudsTheotokion.text
 
 trLI.Antiphon2.text = tr.d029_en_US_dedes.trLI.Antiphon2.text
 
 trLI.MM.EntranceHymn.text = properties_en_US_public.media.key
 
 trLI.Kontakion1.mode = tr.d029_en_US_dedes.trLI.Kontakion1.mode
-trLI.Kontakion1.melody = tr.d029_en_US_dedes.trLI.Kontakion1.melody
-trLI.Kontakion1.text = tr.d029_en_US_dedes.trLI.Kontakion1.text
+trLI.Kontakion1.melody = tr.d029_en_US_duvall.trLI.Kontakion1.melody
+trLI.Kontakion1.text = tr.d029_en_US_duvall.trLI.Kontakion1.text
 
 trLI.TheotokosHymn.mode = tr.d029_en_US_dedes.trLI.TheotokosHymn.mode
 trLI.TheotokosHymn.text = tr.d029_en_US_dedes.trLI.TheotokosHymn.text
