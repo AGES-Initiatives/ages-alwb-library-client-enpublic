@@ -752,6 +752,11 @@ AfterEpiphany = titles_en_US_dedes.AfterEpiphany
 BeforeCross = titles_en_US_dedes.BeforeCross
 AfterCross = titles_en_US_dedes.AfterCross
 
+SkippedEpistle = titles_en_US_dedes.SkippedEpistle
+SkippedGospel = titles_en_US_dedes.SkippedGospel
+SkippedEpistleP = titles_en_US_dedes.SkippedEpistleP
+SkippedGospelP = titles_en_US_dedes.SkippedGospelP
+
 daySunday.uc = titles_en_US_dedes.daySunday.uc
 dayMonday.uc = titles_en_US_dedes.dayMonday.uc
 dayTuesday.uc = titles_en_US_dedes.dayTuesday.uc
