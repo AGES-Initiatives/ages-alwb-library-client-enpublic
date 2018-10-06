@@ -30,6 +30,8 @@ meVE.SticGlory.mode = me.m03.d24_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m03.d24_en_US_dedes.meVE.SticGlory.melody
 meVE.SticGlory.text = me.m03.d24_en_US_dedes.meVE.SticGlory.text
 
+meVE.MM.Stichera123as567.text = me.m03.d24_en_US_dedes.meVE.MM.Stichera123as567.text
+
 meVE.Apolytikion1.mode = me.m03.d24_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m03.d24_en_US_dedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.text = me.m03.d24_en_US_dedes.meVE.Apolytikion1.text
@@ -169,8 +171,8 @@ meMA.Ode6C14.melody = me.m03.d24_en_US_dedes.meMA.Ode6C14.melody
 meMA.Ode6C14.text = me.m03.d24_en_US_dedes.meMA.Ode6C14.text
 
 meMA.Kontakion1.mode = me.m03.d24_en_US_dedes.meMA.Kontakion1.mode
-meMA.Kontakion1.melody = me.m03.d24_en_US_oca.meMA.Kontakion1.melody
-meMA.Kontakion1.text = me.m03.d24_en_US_oca.meMA.Kontakion1.text
+meMA.Kontakion1.melody = me.m03.d24_en_US_dedes.meMA.Kontakion1.melody
+meMA.Kontakion1.text = me.m03.d24_en_US_dedes.meMA.Kontakion1.text
 
 meMA.Ode7C1H.ode = me.m03.d24_en_US_dedes.meMA.Ode7C1H.ode
 meMA.Ode7C1H.mode = me.m03.d24_en_US_dedes.meMA.Ode7C1H.mode
@@ -250,6 +252,8 @@ meMA.Ode9C14.text = me.m03.d24_en_US_dedes.meMA.Ode9C14.text
 meMA.Exaposteilarion1.mode = me.m03.d24_en_US_dedes.meMA.Exaposteilarion1.mode
 meMA.Exaposteilarion1.melody = me.m03.d24_en_US_dedes.meMA.Exaposteilarion1.melody
 meMA.Exaposteilarion1.text = me.m03.d24_en_US_dedes.meMA.Exaposteilarion1.text
+
+meMA.MM.Mar25Sv123asLauds345.text = me.m03.d24_en_US_dedes.meMA.MM.Mar25Sv123asLauds345.text
 
 meMA.AposGlory.mode = me.m03.d24_en_US_dedes.meMA.AposGlory.mode
 meMA.AposGlory.melody = me.m03.d24_en_US_dedes.meMA.AposGlory.melody

@@ -148,6 +148,10 @@ h9.html.tab = template.titles_en_US_dedes.h9.html.tab
 h9.pdf.header = template.titles_en_US_dedes.h9.pdf.header
 h9.pdf.cover = template.titles_en_US_dedes.h9.pdf.cover
 
+h92.html.tab = template.titles_en_US_dedes.h92.html.tab 
+h92.pdf.header = template.titles_en_US_dedes.h92.pdf.header
+h92.pdf.cover = template.titles_en_US_dedes.h92.pdf.cover
+
 hw.pdf.cover = template.titles_en_US_dedes.hw.pdf.cover
 
 li.html.tab = template.titles_en_US_dedes.li.html.tab 

@@ -72,8 +72,8 @@ trVE.SticGlory.melody = tr.d029_en_US_dedes.trVE.SticGlory.melody
 trVE.SticGlory.text = tr.d029_en_US_dedes.trVE.SticGlory.text
 
 trVE.LityGlory.mode = tr.d029_en_US_dedes.trVE.LityGlory.mode
-trVE.LityGlory.melody = tr.d029_en_US_dedes.trVE.LityGlory.melody
-trVE.LityGlory.text = tr.d029_en_US_dedes.trVE.LityGlory.text
+trVE.LityGlory.melody = tr.d029_en_UK_lash.trVE.LityGlory.melody
+trVE.LityGlory.text = tr.d029_en_UK_lash.trVE.LityGlory.text
 
 trVE.LityBoth.mode = tr.d029_en_US_dedes.trVE.LityBoth.mode
 trVE.LityBoth.melody = tr.d029_en_US_dedes.trVE.LityBoth.melody
