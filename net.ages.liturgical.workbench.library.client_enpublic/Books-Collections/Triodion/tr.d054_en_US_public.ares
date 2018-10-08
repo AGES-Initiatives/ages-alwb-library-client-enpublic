@@ -706,17 +706,17 @@ trGC.Ode3C2T.text = tr.d054_en_US_unknown.trGC.Ode3C2T.text
 
 trMA.Ode3Kathisma1.poet = tr.d054_en_US_dedes.trMA.Ode3Kathisma1.poet
 trMA.Ode3Kathisma1.mode = tr.d054_en_US_dedes.trMA.Ode3Kathisma1.mode
-trMA.Ode3Kathisma1.melody = tr.d054_en_US_dedes.trMA.Ode3Kathisma1.melody
-trMA.Ode3Kathisma1.text = tr.d054_en_US_dedes.trMA.Ode3Kathisma1.text
+trMA.Ode3Kathisma1.melody = tr.d054_en_UK_ware.trMA.Ode3Kathisma1.melody
+trMA.Ode3Kathisma1.text = tr.d054_en_UK_ware.trMA.Ode3Kathisma1.text
 
 trMA.Ode3Kathisma2.poet = tr.d054_en_US_dedes.trMA.Ode3Kathisma2.poet
 trMA.Ode3Kathisma2.mode = tr.d054_en_US_dedes.trMA.Ode3Kathisma2.mode
-trMA.Ode3Kathisma2.melody = tr.d054_en_US_dedes.trMA.Ode3Kathisma2.melody
-trMA.Ode3Kathisma2.text = tr.d054_en_US_dedes.trMA.Ode3Kathisma2.text
+trMA.Ode3Kathisma2.melody = tr.d054_en_UK_ware.trMA.Ode3Kathisma2.melody
+trMA.Ode3Kathisma2.text = tr.d054_en_UK_ware.trMA.Ode3Kathisma2.text
 
 trMA.Ode3Kathisma3.mode = tr.d054_en_US_dedes.trMA.Ode3Kathisma3.mode
-trMA.Ode3Kathisma3.melody = tr.d054_en_US_dedes.trMA.Ode3Kathisma3.melody
-trMA.Ode3Kathisma3.text = tr.d054_en_US_dedes.trMA.Ode3Kathisma3.text
+trMA.Ode3Kathisma3.melody = tr.d054_en_UK_ware.trMA.Ode3Kathisma3.melody
+trMA.Ode3Kathisma3.text = tr.d054_en_UK_ware.trMA.Ode3Kathisma3.text
 
 // Ode 4 Triodion
 
@@ -729,55 +729,55 @@ trMA.Ode4C1H.text = tr.d054_en_US_dedes.trMA.Ode4C1H.text
 
 trMA.Ode4C11.ode = tr.d054_en_US_dedes.trMA.Ode4C11.ode
 trMA.Ode4C11.mode = tr.d054_en_US_dedes.trMA.Ode4C11.mode
-trMA.Ode4C11.melody = tr.d054_en_US_dedes.trMA.Ode4C11.melody
-trMA.Ode4C11.text = tr.d054_en_US_dedes.trMA.Ode4C11.text
+trMA.Ode4C11.melody = tr.d054_en_UK_ware.trMA.Ode4C11.melody
+trMA.Ode4C11.text = tr.d054_en_UK_ware.trMA.Ode4C11.text
 
 trMA.Ode4C12.ode = tr.d054_en_US_dedes.trMA.Ode4C12.ode
 trMA.Ode4C12.mode = tr.d054_en_US_dedes.trMA.Ode4C12.mode
-trMA.Ode4C12.melody = tr.d054_en_US_dedes.trMA.Ode4C12.melody
-trMA.Ode4C12.text = tr.d054_en_US_dedes.trMA.Ode4C12.text
+trMA.Ode4C12.melody = tr.d054_en_UK_ware.trMA.Ode4C12.melody
+trMA.Ode4C12.text = tr.d054_en_UK_ware.trMA.Ode4C12.text
 
 trMA.Ode4C13.ode = tr.d054_en_US_dedes.trMA.Ode4C13.ode
 trMA.Ode4C13.mode = tr.d054_en_US_dedes.trMA.Ode4C13.mode
-trMA.Ode4C13.melody = tr.d054_en_US_dedes.trMA.Ode4C13.melody
-trMA.Ode4C13.text = tr.d054_en_US_dedes.trMA.Ode4C13.text
+trMA.Ode4C13.melody = tr.d054_en_UK_ware.trMA.Ode4C13.melody
+trMA.Ode4C13.text = tr.d054_en_UK_ware.trMA.Ode4C13.text
 
 trMA.Ode4C1T.ode = tr.d054_en_US_dedes.trMA.Ode4C1T.ode
 trMA.Ode4C1T.mode = tr.d054_en_US_dedes.trMA.Ode4C1T.mode
-trMA.Ode4C1T.melody = tr.d054_en_US_dedes.trMA.Ode4C1T.melody
-trMA.Ode4C1T.text = tr.d054_en_US_dedes.trMA.Ode4C1T.text
+trMA.Ode4C1T.melody = tr.d054_en_UK_ware.trMA.Ode4C1T.melody
+trMA.Ode4C1T.text = tr.d054_en_UK_ware.trMA.Ode4C1T.text
 
 trMA.C2Poet = tr.d054_en_US_dedes.trMA.C2Poet
 
 trMA.Ode4C2H.ode = tr.d054_en_US_dedes.trMA.Ode4C2H.ode
 trMA.Ode4C2H.mode = tr.d054_en_US_dedes.trMA.Ode4C2H.mode
-trMA.Ode4C2H.melody = tr.d054_en_US_dedes.trMA.Ode4C2H.melody
-trMA.Ode4C2H.text = tr.d054_en_US_dedes.trMA.Ode4C2H.text
+trMA.Ode4C2H.melody = tr.d054_en_UK_ware.trMA.Ode4C2H.melody
+trMA.Ode4C2H.text = tr.d054_en_UK_ware.trMA.Ode4C2H.text
 
 trMA.Ode4C21.ode = tr.d054_en_US_dedes.trMA.Ode4C21.ode
 trMA.Ode4C21.mode = tr.d054_en_US_dedes.trMA.Ode4C21.mode
-trMA.Ode4C21.melody = tr.d054_en_US_dedes.trMA.Ode4C21.melody
-trMA.Ode4C21.text = tr.d054_en_US_dedes.trMA.Ode4C21.text
+trMA.Ode4C21.melody = tr.d054_en_UK_ware.trMA.Ode4C21.melody
+trMA.Ode4C21.text = tr.d054_en_UK_ware.trMA.Ode4C21.text
 
 trMA.Ode4C22.ode = tr.d054_en_US_dedes.trMA.Ode4C22.ode
 trMA.Ode4C22.mode = tr.d054_en_US_dedes.trMA.Ode4C22.mode
-trMA.Ode4C22.melody = tr.d054_en_US_dedes.trMA.Ode4C22.melody
-trMA.Ode4C22.text = tr.d054_en_US_dedes.trMA.Ode4C22.text
+trMA.Ode4C22.melody = tr.d054_en_UK_ware.trMA.Ode4C22.melody
+trMA.Ode4C22.text = tr.d054_en_UK_ware.trMA.Ode4C22.text
 
 trMA.Ode4C23.ode = tr.d054_en_US_dedes.trMA.Ode4C23.ode
 trMA.Ode4C23.mode = tr.d054_en_US_dedes.trMA.Ode4C23.mode
-trMA.Ode4C23.melody = tr.d054_en_US_dedes.trMA.Ode4C23.melody
-trMA.Ode4C23.text = tr.d054_en_US_dedes.trMA.Ode4C23.text
+trMA.Ode4C23.melody = tr.d054_en_UK_ware.trMA.Ode4C23.melody
+trMA.Ode4C23.text = tr.d054_en_UK_ware.trMA.Ode4C23.text
 
 trMA.Ode4C2Tr.ode = tr.d054_en_US_dedes.trMA.Ode4C2Tr.ode
 trMA.Ode4C2Tr.mode = tr.d054_en_US_dedes.trMA.Ode4C2Tr.mode
-trMA.Ode4C2Tr.melody = tr.d054_en_US_dedes.trMA.Ode4C2Tr.melody
-trMA.Ode4C2Tr.text = tr.d054_en_US_dedes.trMA.Ode4C2Tr.text
+trMA.Ode4C2Tr.melody = tr.d054_en_UK_ware.trMA.Ode4C2Tr.melody
+trMA.Ode4C2Tr.text = tr.d054_en_UK_ware.trMA.Ode4C2Tr.text
 
 trMA.Ode4C2T.ode = tr.d054_en_US_dedes.trMA.Ode4C2T.ode
 trMA.Ode4C2T.mode = tr.d054_en_US_dedes.trMA.Ode4C2T.mode
-trMA.Ode4C2T.melody = tr.d054_en_US_dedes.trMA.Ode4C2T.melody
-trMA.Ode4C2T.text = tr.d054_en_US_dedes.trMA.Ode4C2T.text
+trMA.Ode4C2T.melody = tr.d054_en_UK_ware.trMA.Ode4C2T.melody
+trMA.Ode4C2T.text = tr.d054_en_UK_ware.trMA.Ode4C2T.text
 
 // Ode 4 Great Canon
 
@@ -1199,7 +1199,7 @@ trMA.Kontakion1.mode = tr.d054_en_US_unknown.trMA.Kontakion1.mode
 trMA.Kontakion1.melody = tr.d054_en_US_unknown.trMA.Kontakion1.melody
 trMA.Kontakion1.text = tr.d054_en_US_unknown.trMA.Kontakion1.text
 
-trMA.Oikos1.text = tr.d054_en_US_dedes.trMA.Oikos1.text
+trMA.Oikos1.text = tr.d054_en_US_unknown.trMA.Oikos1.text
 
 trMA.Synaxarion.commemoration.text = tr.d054_en_US_dedes.trMA.Synaxarion.commemoration.text
 trMA.Synaxarion.couplet1.title = tr.d054_en_US_dedes.trMA.Synaxarion.couplet1.title
@@ -1222,57 +1222,57 @@ trMA.Synaxarion.narration2.p07.text = tr.d054_en_US_dedes.trMA.Synaxarion.narrat
 trMA.Synaxarion.lastline.text = tr.d054_en_US_dedes.trMA.Synaxarion.lastline.text
 
 trGC.Beatitudes01.mode = tr.d054_en_US_dedes.trGC.Beatitudes01.mode
-trGC.Beatitudes01.text = tr.d054_en_US_dedes.trGC.Beatitudes01.text
+trGC.Beatitudes01.text = tr.d054_en_UK_ware.trGC.Beatitudes01.text
 
 trGC.Beatitudes02.mode = tr.d054_en_US_dedes.trGC.Beatitudes02.mode
-trGC.Beatitudes02.text = tr.d054_en_US_dedes.trGC.Beatitudes02.text
+trGC.Beatitudes02.text = tr.d054_en_UK_ware.trGC.Beatitudes02.text
 
 trGC.Beatitudes03.mode = tr.d054_en_US_dedes.trGC.Beatitudes03.mode
-trGC.Beatitudes03.text = tr.d054_en_US_dedes.trGC.Beatitudes03.text
+trGC.Beatitudes03.text = tr.d054_en_UK_ware.trGC.Beatitudes03.text
 
 trGC.Beatitudes04.mode = tr.d054_en_US_dedes.trGC.Beatitudes04.mode
-trGC.Beatitudes04.text = tr.d054_en_US_dedes.trGC.Beatitudes04.text
+trGC.Beatitudes04.text = tr.d054_en_UK_ware.trGC.Beatitudes04.text
 
 trGC.Beatitudes05.mode = tr.d054_en_US_dedes.trGC.Beatitudes05.mode
-trGC.Beatitudes05.text = tr.d054_en_US_dedes.trGC.Beatitudes05.text
+trGC.Beatitudes05.text = tr.d054_en_UK_ware.trGC.Beatitudes05.text
 
 trGC.Beatitudes06.mode = tr.d054_en_US_dedes.trGC.Beatitudes06.mode
-trGC.Beatitudes06.text = tr.d054_en_US_dedes.trGC.Beatitudes06.text
+trGC.Beatitudes06.text = tr.d054_en_UK_ware.trGC.Beatitudes06.text
 
 trGC.Beatitudes07.mode = tr.d054_en_US_dedes.trGC.Beatitudes07.mode
-trGC.Beatitudes07.text = tr.d054_en_US_dedes.trGC.Beatitudes07.text
+trGC.Beatitudes07.text = tr.d054_en_UK_ware.trGC.Beatitudes07.text
 
 trGC.Beatitudes08.mode = tr.d054_en_US_dedes.trGC.Beatitudes08.mode
-trGC.Beatitudes08.text = tr.d054_en_US_dedes.trGC.Beatitudes08.text
+trGC.Beatitudes08.text = tr.d054_en_UK_ware.trGC.Beatitudes08.text
 
 trGC.Beatitudes09.mode = tr.d054_en_US_dedes.trGC.Beatitudes09.mode
-trGC.Beatitudes09.text = tr.d054_en_US_dedes.trGC.Beatitudes09.text
+trGC.Beatitudes09.text = tr.d054_en_UK_ware.trGC.Beatitudes09.text
 
 trGC.Beatitudes10.mode = tr.d054_en_US_dedes.trGC.Beatitudes10.mode
-trGC.Beatitudes10.text = tr.d054_en_US_dedes.trGC.Beatitudes10.text
+trGC.Beatitudes10.text = tr.d054_en_UK_ware.trGC.Beatitudes10.text
 
 trGC.Beatitudes11.mode = tr.d054_en_US_dedes.trGC.Beatitudes11.mode
-trGC.Beatitudes11.text = tr.d054_en_US_dedes.trGC.Beatitudes11.text
+trGC.Beatitudes11.text = tr.d054_en_UK_ware.trGC.Beatitudes11.text
 
 trGC.Beatitudes12.verse = tr.d054_en_US_dedes.trGC.Beatitudes12.verse
 trGC.Beatitudes12.mode = tr.d054_en_US_dedes.trGC.Beatitudes12.mode
-trGC.Beatitudes12.text = tr.d054_en_US_dedes.trGC.Beatitudes12.text
+trGC.Beatitudes12.text = tr.d054_en_UK_ware.trGC.Beatitudes12.text
 
 trGC.Beatitudes13.verse = tr.d054_en_US_dedes.trGC.Beatitudes13.verse
 trGC.Beatitudes13.mode = tr.d054_en_US_dedes.trGC.Beatitudes13.mode
-trGC.Beatitudes13.text = tr.d054_en_US_dedes.trGC.Beatitudes13.text
+trGC.Beatitudes13.text = tr.d054_en_UK_ware.trGC.Beatitudes13.text
 
 trGC.Beatitudes14.verse = tr.d054_en_US_dedes.trGC.Beatitudes14.verse
 trGC.Beatitudes14.mode = tr.d054_en_US_dedes.trGC.Beatitudes14.mode
-trGC.Beatitudes14.text = tr.d054_en_US_dedes.trGC.Beatitudes14.text
+trGC.Beatitudes14.text = tr.d054_en_UK_ware.trGC.Beatitudes14.text
 
 trGC.BeatitudesTr.verse = tr.d054_en_US_dedes.trGC.BeatitudesTr.verse // Doxa
 trGC.BeatitudesTr.mode = tr.d054_en_US_dedes.trGC.BeatitudesTr.mode
-trGC.BeatitudesTr.text = tr.d054_en_US_dedes.trGC.BeatitudesTr.text
+trGC.BeatitudesTr.text = tr.d054_en_UK_ware.trGC.BeatitudesTr.text
 
 trGC.BeatitudesT.verse = tr.d054_en_US_dedes.trGC.BeatitudesT.verse // KaiNyn
 trGC.BeatitudesT.mode = tr.d054_en_US_dedes.trGC.BeatitudesT.mode
-trGC.BeatitudesT.text = tr.d054_en_US_dedes.trGC.BeatitudesT.text
+trGC.BeatitudesT.text = tr.d054_en_UK_ware.trGC.BeatitudesT.text
 
 // Ode 7
 
@@ -1410,53 +1410,53 @@ trGC.Ode7C2T.text = tr.d054_en_US_unknown.trGC.Ode7C2T.text
 
 trMA.Ode8C1H.ode = tr.d054_en_US_dedes.trMA.Ode8C1H.ode
 trMA.Ode8C1H.mode = tr.d054_en_US_dedes.trMA.Ode8C1H.mode
-trMA.Ode8C1H.melody = tr.d054_en_US_dedes.trMA.Ode8C1H.melody
-trMA.Ode8C1H.text = tr.d054_en_US_dedes.trMA.Ode8C1H.text
+trMA.Ode8C1H.melody = tr.d054_en_UK_ware.trMA.Ode8C1H.melody
+trMA.Ode8C1H.text = tr.d054_en_UK_ware.trMA.Ode8C1H.text
 
 trMA.Ode8C11.ode = tr.d054_en_US_dedes.trMA.Ode8C11.ode
 trMA.Ode8C11.mode = tr.d054_en_US_dedes.trMA.Ode8C11.mode
-trMA.Ode8C11.melody = tr.d054_en_US_dedes.trMA.Ode8C11.melody
-trMA.Ode8C11.text = tr.d054_en_US_dedes.trMA.Ode8C11.text
+trMA.Ode8C11.melody = tr.d054_en_UK_ware.trMA.Ode8C11.melody
+trMA.Ode8C11.text = tr.d054_en_UK_ware.trMA.Ode8C11.text
 
 trMA.Ode8C12.ode = tr.d054_en_US_dedes.trMA.Ode8C12.ode
 trMA.Ode8C12.mode = tr.d054_en_US_dedes.trMA.Ode8C12.mode
-trMA.Ode8C12.melody = tr.d054_en_US_dedes.trMA.Ode8C12.melody
-trMA.Ode8C12.text = tr.d054_en_US_dedes.trMA.Ode8C12.text
+trMA.Ode8C12.melody = tr.d054_en_UK_ware.trMA.Ode8C12.melody
+trMA.Ode8C12.text = tr.d054_en_UK_ware.trMA.Ode8C12.text
 
 trMA.Ode8C13.ode = tr.d054_en_US_dedes.trMA.Ode8C13.ode
 trMA.Ode8C13.mode = tr.d054_en_US_dedes.trMA.Ode8C13.mode
-trMA.Ode8C13.melody = tr.d054_en_US_dedes.trMA.Ode8C13.melody
-trMA.Ode8C13.text = tr.d054_en_US_dedes.trMA.Ode8C13.text
+trMA.Ode8C13.melody = tr.d054_en_UK_ware.trMA.Ode8C13.melody
+trMA.Ode8C13.text = tr.d054_en_UK_ware.trMA.Ode8C13.text
 
 trMA.Ode8C1T.ode = tr.d054_en_US_dedes.trMA.Ode8C1T.ode
 trMA.Ode8C1T.mode = tr.d054_en_US_dedes.trMA.Ode8C1T.mode
-trMA.Ode8C1T.melody = tr.d054_en_US_dedes.trMA.Ode8C1T.melody
-trMA.Ode8C1T.text = tr.d054_en_US_dedes.trMA.Ode8C1T.text
+trMA.Ode8C1T.melody = tr.d054_en_UK_ware.trMA.Ode8C1T.melody
+trMA.Ode8C1T.text = tr.d054_en_UK_ware.trMA.Ode8C1T.text
 
 trMA.Ode8C21.ode = tr.d054_en_US_dedes.trMA.Ode8C21.ode
 trMA.Ode8C21.mode = tr.d054_en_US_dedes.trMA.Ode8C21.mode
-trMA.Ode8C21.melody = tr.d054_en_US_dedes.trMA.Ode8C21.melody
-trMA.Ode8C21.text = tr.d054_en_US_dedes.trMA.Ode8C21.text
+trMA.Ode8C21.melody = tr.d054_en_UK_ware.trMA.Ode8C21.melody
+trMA.Ode8C21.text = tr.d054_en_UK_ware.trMA.Ode8C21.text
 
 trMA.Ode8C22.ode = tr.d054_en_US_dedes.trMA.Ode8C22.ode
 trMA.Ode8C22.mode = tr.d054_en_US_dedes.trMA.Ode8C22.mode
-trMA.Ode8C22.melody = tr.d054_en_US_dedes.trMA.Ode8C22.melody
-trMA.Ode8C22.text = tr.d054_en_US_dedes.trMA.Ode8C22.text
+trMA.Ode8C22.melody = tr.d054_en_UK_ware.trMA.Ode8C22.melody
+trMA.Ode8C22.text = tr.d054_en_UK_ware.trMA.Ode8C22.text
 
 trMA.Ode8C23.ode = tr.d054_en_US_dedes.trMA.Ode8C23.ode
 trMA.Ode8C23.mode = tr.d054_en_US_dedes.trMA.Ode8C23.mode
-trMA.Ode8C23.melody = tr.d054_en_US_dedes.trMA.Ode8C23.melody
-trMA.Ode8C23.text = tr.d054_en_US_dedes.trMA.Ode8C23.text
+trMA.Ode8C23.melody = tr.d054_en_UK_ware.trMA.Ode8C23.melody
+trMA.Ode8C23.text = tr.d054_en_UK_ware.trMA.Ode8C23.text
 
 trMA.Ode8C2Tr.ode = tr.d054_en_US_dedes.trMA.Ode8C2Tr.ode
 trMA.Ode8C2Tr.mode = tr.d054_en_US_dedes.trMA.Ode8C2Tr.mode
-trMA.Ode8C2Tr.melody = tr.d054_en_US_dedes.trMA.Ode8C2Tr.melody
-trMA.Ode8C2Tr.text = tr.d054_en_US_dedes.trMA.Ode8C2Tr.text
+trMA.Ode8C2Tr.melody = tr.d054_en_UK_ware.trMA.Ode8C2Tr.melody
+trMA.Ode8C2Tr.text = tr.d054_en_UK_ware.trMA.Ode8C2Tr.text
 
 trMA.Ode8C2T.ode = tr.d054_en_US_dedes.trMA.Ode8C2T.ode
 trMA.Ode8C2T.mode = tr.d054_en_US_dedes.trMA.Ode8C2T.mode
-trMA.Ode8C2T.melody = tr.d054_en_US_dedes.trMA.Ode8C2T.melody
-trMA.Ode8C2T.text = tr.d054_en_US_dedes.trMA.Ode8C2T.text
+trMA.Ode8C2T.melody = tr.d054_en_UK_ware.trMA.Ode8C2T.melody
+trMA.Ode8C2T.text = tr.d054_en_UK_ware.trMA.Ode8C2T.text
 
 // Ode 8 Great Canon
 
@@ -1604,23 +1604,23 @@ trMA.Ode9C1H.text = tr.d054_en_US_dedes.trMA.Ode9C1H.text
 
 trMA.Ode9C11.ode = tr.d054_en_US_dedes.trMA.Ode9C11.ode
 trMA.Ode9C11.mode = tr.d054_en_US_dedes.trMA.Ode9C11.mode
-trMA.Ode9C11.melody = tr.d054_en_US_dedes.trMA.Ode9C11.melody
-trMA.Ode9C11.text = tr.d054_en_US_dedes.trMA.Ode9C11.text
+trMA.Ode9C11.melody = tr.d054_en_UK_ware.trMA.Ode9C11.melody
+trMA.Ode9C11.text = tr.d054_en_UK_ware.trMA.Ode9C11.text
 
 trMA.Ode9C12.ode = tr.d054_en_US_dedes.trMA.Ode9C12.ode
 trMA.Ode9C12.mode = tr.d054_en_US_dedes.trMA.Ode9C12.mode
-trMA.Ode9C12.melody = tr.d054_en_US_dedes.trMA.Ode9C12.melody
-trMA.Ode9C12.text = tr.d054_en_US_dedes.trMA.Ode9C12.text
+trMA.Ode9C12.melody = tr.d054_en_UK_ware.trMA.Ode9C12.melody
+trMA.Ode9C12.text = tr.d054_en_UK_ware.trMA.Ode9C12.text
 
 trMA.Ode9C13.ode = tr.d054_en_US_dedes.trMA.Ode9C13.ode
 trMA.Ode9C13.mode = tr.d054_en_US_dedes.trMA.Ode9C13.mode
-trMA.Ode9C13.melody = tr.d054_en_US_dedes.trMA.Ode9C13.melody
-trMA.Ode9C13.text = tr.d054_en_US_dedes.trMA.Ode9C13.text
+trMA.Ode9C13.melody = tr.d054_en_UK_ware.trMA.Ode9C13.melody
+trMA.Ode9C13.text = tr.d054_en_UK_ware.trMA.Ode9C13.text
 
 trMA.Ode9C1T.ode = tr.d054_en_US_dedes.trMA.Ode9C1T.ode
 trMA.Ode9C1T.mode = tr.d054_en_US_dedes.trMA.Ode9C1T.mode
-trMA.Ode9C1T.melody = tr.d054_en_US_dedes.trMA.Ode9C1T.melody
-trMA.Ode9C1T.text = tr.d054_en_US_dedes.trMA.Ode9C1T.text
+trMA.Ode9C1T.melody = tr.d054_en_UK_ware.trMA.Ode9C1T.melody
+trMA.Ode9C1T.text = tr.d054_en_UK_ware.trMA.Ode9C1T.text
 
 trMA.Ode9C2H.ode = tr.d054_en_US_dedes.trMA.Ode9C2H.ode
 trMA.Ode9C2H.mode = tr.d054_en_US_dedes.trMA.Ode9C2H.mode
@@ -1629,28 +1629,28 @@ trMA.Ode9C2H.text = tr.d054_en_US_dedes.trMA.Ode9C2H.text
 
 trMA.Ode9C21.ode = tr.d054_en_US_dedes.trMA.Ode9C21.ode
 trMA.Ode9C21.mode = tr.d054_en_US_dedes.trMA.Ode9C21.mode
-trMA.Ode9C21.melody = tr.d054_en_US_dedes.trMA.Ode9C21.melody
-trMA.Ode9C21.text = tr.d054_en_US_dedes.trMA.Ode9C21.text
+trMA.Ode9C21.melody = tr.d054_en_UK_ware.trMA.Ode9C21.melody
+trMA.Ode9C21.text = tr.d054_en_UK_ware.trMA.Ode9C21.text
 
 trMA.Ode9C22.ode = tr.d054_en_US_dedes.trMA.Ode9C22.ode
 trMA.Ode9C22.mode = tr.d054_en_US_dedes.trMA.Ode9C22.mode
-trMA.Ode9C22.melody = tr.d054_en_US_dedes.trMA.Ode9C22.melody
-trMA.Ode9C22.text = tr.d054_en_US_dedes.trMA.Ode9C22.text
+trMA.Ode9C22.melody = tr.d054_en_UK_ware.trMA.Ode9C22.melody
+trMA.Ode9C22.text = tr.d054_en_UK_ware.trMA.Ode9C22.text
 
 trMA.Ode9C23.ode = tr.d054_en_US_dedes.trMA.Ode9C23.ode
 trMA.Ode9C23.mode = tr.d054_en_US_dedes.trMA.Ode9C23.mode
-trMA.Ode9C23.melody = tr.d054_en_US_dedes.trMA.Ode9C23.melody
-trMA.Ode9C23.text = tr.d054_en_US_dedes.trMA.Ode9C23.text
+trMA.Ode9C23.melody = tr.d054_en_UK_ware.trMA.Ode9C23.melody
+trMA.Ode9C23.text = tr.d054_en_UK_ware.trMA.Ode9C23.text
 
 trMA.Ode9C2Tr.ode = tr.d054_en_US_dedes.trMA.Ode9C2Tr.ode
 trMA.Ode9C2Tr.mode = tr.d054_en_US_dedes.trMA.Ode9C2Tr.mode
-trMA.Ode9C2Tr.melody = tr.d054_en_US_dedes.trMA.Ode9C2Tr.melody
-trMA.Ode9C2Tr.text = tr.d054_en_US_dedes.trMA.Ode9C2Tr.text
+trMA.Ode9C2Tr.melody = tr.d054_en_UK_ware.trMA.Ode9C2Tr.melody
+trMA.Ode9C2Tr.text = tr.d054_en_UK_ware.trMA.Ode9C2Tr.text
 
 trMA.Ode9C2T.ode = tr.d054_en_US_dedes.trMA.Ode9C2T.ode
 trMA.Ode9C2T.mode = tr.d054_en_US_dedes.trMA.Ode9C2T.mode
-trMA.Ode9C2T.melody = tr.d054_en_US_dedes.trMA.Ode9C2T.melody
-trMA.Ode9C2T.text = tr.d054_en_US_dedes.trMA.Ode9C2T.text
+trMA.Ode9C2T.melody = tr.d054_en_UK_ware.trMA.Ode9C2T.melody
+trMA.Ode9C2T.text = tr.d054_en_UK_ware.trMA.Ode9C2T.text
 
 // Ode 9 Great Canon
 
@@ -1816,15 +1816,15 @@ trGC.Ode9C2H.text = tr.d054_en_US_dedes.trGC.Ode9C2H.text
 
 trMA.AposIdiomelon1.mode = tr.d054_en_US_dedes.trMA.AposIdiomelon1.mode
 trMA.AposIdiomelon1.melody = tr.d054_en_US_dedes.trMA.AposIdiomelon1.melody
-trMA.AposIdiomelon1.text = tr.d054_en_US_dedes.trMA.AposIdiomelon1.text
+trMA.AposIdiomelon1.text = tr.d054_en_UK_ware.trMA.AposIdiomelon1.text
 
 trMA.AposMartyric.mode = tr.d054_en_US_dedes.trMA.AposMartyric.mode
 trMA.AposMartyric.melody = tr.d054_en_US_dedes.trMA.AposMartyric.melody
-trMA.AposMartyric.text = tr.d054_en_US_dedes.trMA.AposMartyric.text
+trMA.AposMartyric.text = tr.d054_en_US_oca.trMA.AposMartyric.text
 
 trMA.AposTheotokion.mode = tr.d054_en_US_dedes.trMA.AposTheotokion.mode
 trMA.AposTheotokion.melody = tr.d054_en_US_dedes.trMA.AposTheotokion.melody
-trMA.AposTheotokion.text = tr.d054_en_US_dedes.trMA.AposTheotokion.text
+trMA.AposTheotokion.text = tr.d054_en_UK_ware.trMA.AposTheotokion.text
 
 trTE.Troparion.mode = tr.d054_en_US_dedes.trTE.Troparion.mode
 trTE.Troparion.melody = tr.d054_en_US_dedes.trTE.Troparion.melody
