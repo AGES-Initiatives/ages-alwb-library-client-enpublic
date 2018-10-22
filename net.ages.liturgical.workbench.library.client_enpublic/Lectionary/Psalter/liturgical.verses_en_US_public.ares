@@ -971,6 +971,8 @@ psMA.gospelintro.v1.text = liturgical.verses_en_US_saas.psMA.gospelintro.v1.text
 psMA.gospelintro.v1a.text = liturgical.verses_en_US_saas.psMA.gospelintro.v1a.text
 psMA.gospelintro.v1b.text = liturgical.verses_en_US_saas.psMA.gospelintro.v1b.text
 
+psMA.ps50.intro.v1.info = liturgical.verses_en_US_saas.psMA.ps50.intro.v1.info
+psMA.ps50.intro.v1.text = liturgical.verses_en_US_saas.psMA.ps50.intro.v1.text
 psMA.ps50.end.v1.info = liturgical.verses_en_US_saas.psMA.ps50.end.v1.info
 psMA.ps50.end.v1.text = liturgical.verses_en_US_saas.psMA.ps50.end.v1.text
 psMA.ps50.end.v2.info = liturgical.verses_en_US_saas.psMA.ps50.end.v2.info
