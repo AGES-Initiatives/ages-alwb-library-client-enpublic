@@ -151,6 +151,12 @@ trMA.Ode1C14.mode = tr.d056_en_US_dedes.trMA.Ode1C14.mode
 trMA.Ode1C14.melody = tr.d056_en_US_dedes.trMA.Ode1C14.melody
 trMA.Ode1C14.text = tr.d056_en_US_dedes.trMA.Ode1C14.text
 
+//The following hymn is not in the Greek. It was composed by Fr. Serahpim Dedes. It is intended to come directly after the Heirmos.
+trMA.Ode1C15.ode = tr.d056_en_US_dedes.trMA.Ode1C15.ode
+trMA.Ode1C15.mode = tr.d056_en_US_dedes.trMA.Ode1C15.mode
+trMA.Ode1C15.melody = tr.d056_en_US_dedes.trMA.Ode1C15.melody
+trMA.Ode1C15.text = tr.d056_en_US_dedes.trMA.Ode1C15.text
+
 trMA.Ode1K.ode = tr.d056_en_US_dedes.trMA.Ode1K.ode
 trMA.Ode1K.mode = tr.d056_en_US_dedes.trMA.Ode1K.mode
 trMA.Ode1K.melody = tr.d056_en_US_dedes.trMA.Ode1K.melody
