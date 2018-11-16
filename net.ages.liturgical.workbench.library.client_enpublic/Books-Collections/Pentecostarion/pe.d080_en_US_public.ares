@@ -79,7 +79,7 @@ peMA.Lauds3.text = pe.d080_en_US_dedes.peMA.Lauds3.text
 
 peMA.LaudsGlory.mode = pe.d080_en_US_dedes.peMA.LaudsGlory.mode
 peMA.LaudsGlory.melody = pe.d080_en_US_dedes.peMA.LaudsGlory.melody
-peMA.LaudsGlory.text = pe.d080_en_US_dedes.peMA.LaudsGlory.text
+peMA.LaudsGlory.text = pe.d080_en_UK_lash.peMA.LaudsGlory.text
 
 peMA.Aposticha1.mode = pe.d080_en_US_dedes.peMA.Aposticha1.mode
 peMA.Aposticha1.melody = pe.d080_en_US_dedes.peMA.Aposticha1.melody
