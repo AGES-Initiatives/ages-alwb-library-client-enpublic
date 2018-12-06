@@ -55,6 +55,7 @@ meVE.AposStavrotheotokion.text = me.m01.d28_en_UK_lash.meVE.AposStavrotheotokion
 meVE.Apolytikion1.mode = me.m01.d28_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m01.d28_en_US_dedes.meVE.Apolytikion1.melody
 meVE.GeneralApolytikion1.name = me.m01.d28_en_US_dedes.meVE.GeneralApolytikion1.name //   name of saint for General Apolytikia
+meVE.MM.GeneralApolytikion1.text = me.m01.d28_en_US_dedes.meVE.MM.GeneralApolytikion1.text
 
 meMA.C1Acrostic.text = me.m01.d28_en_UK_lash.meMA.C1Acrostic.text
 
