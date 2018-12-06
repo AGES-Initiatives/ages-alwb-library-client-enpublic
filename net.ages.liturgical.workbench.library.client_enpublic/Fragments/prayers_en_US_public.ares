@@ -548,6 +548,7 @@ res06 = prayers_en_US_goa.res06
 res06.MM.long.sos.text = prayers_en_US_goa.res06.MM.long.sos.text
 
 res07 = prayers_en_US_holycross.res07
+res07.MM.long.text = prayers_en_US_dedes.res07.MM.long.text
 
 res08 = prayers_en_US_holycross.res08
 
