@@ -33,20 +33,20 @@ meSV.SticGlory.melody = me.m02.d02_en_UK_lash.meSV.SticGlory.melody
 meSV.SticGlory.text = me.m02.d02_en_UK_lash.meSV.SticGlory.text
 
 meSV.Aposticha1.mode = me.m02.d02_en_US_dedes.meSV.Aposticha1.mode
-meSV.Aposticha1.melody = me.m02.d02_en_UK_lash.meSV.Aposticha1.melody
-meSV.Aposticha1.text = me.m02.d02_en_UK_lash.meSV.Aposticha1.text
+meSV.Aposticha1.melody = me.m02.d02_en_US_dedes.meSV.Aposticha1.melody
+meSV.Aposticha1.text = me.m02.d02_en_US_dedes.meSV.Aposticha1.text
 
 meSV.Aposticha2.mode = me.m02.d02_en_US_dedes.meSV.Aposticha2.mode
-meSV.Aposticha2.melody = me.m02.d02_en_UK_lash.meSV.Aposticha2.melody
-meSV.Aposticha2.text = me.m02.d02_en_UK_lash.meSV.Aposticha2.text
+meSV.Aposticha2.melody = me.m02.d02_en_US_dedes.meSV.Aposticha2.melody
+meSV.Aposticha2.text = me.m02.d02_en_US_dedes.meSV.Aposticha2.text
 
 meSV.Aposticha3.mode = me.m02.d02_en_US_dedes.meSV.Aposticha3.mode
-meSV.Aposticha3.melody = me.m02.d02_en_UK_lash.meSV.Aposticha3.melody
-meSV.Aposticha3.text = me.m02.d02_en_UK_lash.meSV.Aposticha3.text
+meSV.Aposticha3.melody = me.m02.d02_en_US_dedes.meSV.Aposticha3.melody
+meSV.Aposticha3.text = me.m02.d02_en_US_dedes.meSV.Aposticha3.text
 
 meSV.AposGlory.mode = me.m02.d02_en_US_dedes.meSV.AposGlory.mode
-meSV.AposGlory.melody = me.m02.d02_en_UK_lash.meSV.AposGlory.melody
-meSV.AposGlory.text = me.m02.d02_en_UK_lash.meSV.AposGlory.text
+meSV.AposGlory.melody = me.m02.d02_en_US_dedes.meSV.AposGlory.melody
+meSV.AposGlory.text = me.m02.d02_en_US_dedes.meSV.AposGlory.text
 
 meVE.Stichera01.poet = me.m02.d02_en_US_dedes.meVE.Stichera01.poet
 meVE.Stichera01.mode = me.m02.d02_en_US_dedes.meVE.Stichera01.mode
@@ -397,7 +397,7 @@ meLI.Kontakion1.melody = me.m02.d02_en_US_dedes.meLI.Kontakion1.melody
 meLI.Kontakion1.text = me.m02.d02_en_US_dedes.meLI.Kontakion1.text
 
 meLI.TheotokosHymn.mode = me.m02.d02_en_US_dedes.meLI.TheotokosHymn.mode
-meLI.TheotokosHymnVerse.text = me.m02.d02_en_US_dedes.meLI.TheotokosHymnVerse.text
+meLI.TheotokosHymnVerse.text = me.m02.d02_en_US_duvall.meLI.TheotokosHymnVerse.text
 meLI.TheotokosHymn.text = me.m02.d02_en_US_dedes.meLI.TheotokosHymn.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
