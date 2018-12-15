@@ -16,16 +16,16 @@ meHO.note2 = me.m02.d02_en_US_dedes.meHO.note2
 meDismissal = me.m02.d02_en_US_dedes.meDismissal
 
 meSV.Stichera1.mode = me.m02.d02_en_US_dedes.meSV.Stichera1.mode
-meSV.Stichera1.melody = me.m02.d02_en_UK_lash.meSV.Stichera1.melody
-meSV.Stichera1.text = me.m02.d02_en_UK_lash.meSV.Stichera1.text
+meSV.Stichera1.melody = me.m02.d02_en_US_dedes.meSV.Stichera1.melody
+meSV.Stichera1.text = me.m02.d02_en_US_dedes.meSV.Stichera1.text
 
 meSV.Stichera2.mode = me.m02.d02_en_US_dedes.meSV.Stichera2.mode
-meSV.Stichera2.melody = me.m02.d02_en_UK_lash.meSV.Stichera2.melody
-meSV.Stichera2.text = me.m02.d02_en_UK_lash.meSV.Stichera2.text
+meSV.Stichera2.melody = me.m02.d02_en_US_dedes.meSV.Stichera2.melody
+meSV.Stichera2.text = me.m02.d02_en_US_dedes.meSV.Stichera2.text
 
 meSV.Stichera3.mode = me.m02.d02_en_US_dedes.meSV.Stichera3.mode
-meSV.Stichera3.melody = me.m02.d02_en_UK_lash.meSV.Stichera3.melody
-meSV.Stichera3.text = me.m02.d02_en_UK_lash.meSV.Stichera3.text
+meSV.Stichera3.melody = me.m02.d02_en_US_dedes.meSV.Stichera3.melody
+meSV.Stichera3.text = me.m02.d02_en_US_dedes.meSV.Stichera3.text
 
 meSV.SticGlory.poet = me.m02.d02_en_US_dedes.meSV.SticGlory.poet
 meSV.SticGlory.mode = me.m02.d02_en_US_dedes.meSV.SticGlory.mode
