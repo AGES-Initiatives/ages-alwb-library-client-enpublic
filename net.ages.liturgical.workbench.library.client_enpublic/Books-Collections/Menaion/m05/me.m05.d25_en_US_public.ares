@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = me.m05.d25_en_US_public
 
-meDate.text = me.m05.d25_en_US_dedes.meDate.text //   date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = me.m05.d25_en_US_dedes.meCommemoration.text //  full title of day
+meDate.text = me.m05.d25_en_US_dedes.meDate.text // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = me.m05.d25_en_US_dedes.meCommemoration.text // full title of day
 meShortCommemoration1.text = me.m05.d25_en_US_dedes.meShortCommemoration1.text
 meInsert1 = me.m05.d25_en_US_dedes.meInsert1
 meInsert2 = me.m05.d25_en_US_dedes.meInsert2

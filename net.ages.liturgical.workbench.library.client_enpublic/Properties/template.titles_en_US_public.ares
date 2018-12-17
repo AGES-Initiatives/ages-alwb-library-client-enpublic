@@ -94,7 +94,7 @@ co.epiphanyvigil.html.tab = template.titles_en_US_dedes.co.epiphanyvigil.html.ta
 co.epiphanyvigil.pdf.cover = template.titles_en_US_dedes.co.epiphanyvigil.pdf.cover
 co.epiphanyvigil.pdf.header = template.titles_en_US_dedes.co.epiphanyvigil.pdf.header
 
-co1.html.tab = template.titles_en_US_dedes.co1.html.tab  //this is the pre-resurrection service of Pascha
+co1.html.tab = template.titles_en_US_dedes.co1.html.tab //this is the pre-resurrection service of Pascha
 co1.pdf.header = template.titles_en_US_dedes.co1.pdf.header
 co1.pdf.cover = template.titles_en_US_dedes.co1.pdf.cover
 

@@ -356,11 +356,11 @@ meMA.Ode3KathismaSt.melody = me.m02.d06_en_US_dedes.meMA.Ode3KathismaSt.melody
 meMA.Ode3KathismaSt.text = me.m02.d06_en_US_dedes.meMA.Ode3KathismaSt.text
 
 
-alt1.meDate.text = me.m02.d06_en_US_dedes.alt1.meDate.text //   date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-alt1.meCommemoration.text = me.m02.d06_en_US_dedes.alt1.meCommemoration.text //  full title of day
+alt1.meDate.text = me.m02.d06_en_US_dedes.alt1.meDate.text // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt1.meCommemoration.text = me.m02.d06_en_US_dedes.alt1.meCommemoration.text // full title of day
 alt1.meShortCommemoration1.text = me.m02.d06_en_US_dedes.alt1.meShortCommemoration1.text
-alt1.meInsert1 = me.m02.d06_en_US_dedes.alt1.meInsert1 //  for use in petitions and dismissal
-alt1.meInsert2 = me.m02.d06_en_US_dedes.alt1.meInsert2 //  for use in petitions and dismissal
+alt1.meInsert1 = me.m02.d06_en_US_dedes.alt1.meInsert1 // for use in petitions and dismissal
+alt1.meInsert2 = me.m02.d06_en_US_dedes.alt1.meInsert2 // for use in petitions and dismissal
 alt1.meNote.text = me.m02.d06_en_US_dedes.alt1.meNote.text
 alt1.meLE.commemoration1 = me.m02.d06_en_US_dedes.alt1.meLE.commemoration1
 alt1.meLE.commemoration2 = me.m02.d06_en_US_dedes.alt1.meLE.commemoration2

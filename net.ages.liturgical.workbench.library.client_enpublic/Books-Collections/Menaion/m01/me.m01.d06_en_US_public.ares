@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = me.m01.d06_en_US_public
 
-meDate.text = me.m01.d06_en_US_dedes.meDate.text //   date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = me.m01.d06_en_US_dedes.meCommemoration.text //  full title of day
+meDate.text = me.m01.d06_en_US_dedes.meDate.text // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = me.m01.d06_en_US_dedes.meCommemoration.text // full title of day
 meShortCommemoration1.text = me.m01.d06_en_US_dedes.meShortCommemoration1.text
-meInsert1 = me.m01.d06_en_US_dedes.meInsert1 //  for use in petitions and dismissal
-meInsert2 = me.m01.d06_en_US_dedes.meInsert2 //  for use in petitions and dismissal
+meInsert1 = me.m01.d06_en_US_dedes.meInsert1 // for use in petitions and dismissal
+meInsert2 = me.m01.d06_en_US_dedes.meInsert2 // for use in petitions and dismissal
 meNote.text = me.m01.d06_en_US_dedes.meNote.text
 meLE.commemoration1 = me.m01.d06_en_US_dedes.meLE.commemoration1
 meLE.commemoration2 = me.m01.d06_en_US_dedes.meLE.commemoration2
@@ -83,19 +83,19 @@ meGW.Prayer2.poet = me.m01.d06_en_UK_lash.meGW.Prayer2.poet
 meGW.Prayer2.text = me.m01.d06_en_UK_lash.meGW.Prayer2.text
 
 meGW.R03 = me.m01.d06_en_UK_lash.meGW.R03
-meGW.Prayer31.text = me.m01.d06_en_UK_lash.meGW.Prayer31.text //   (x3)
+meGW.Prayer31.text = me.m01.d06_en_UK_lash.meGW.Prayer31.text // (x3)
 
 meGW.Prayer32.text = me.m01.d06_en_UK_lash.meGW.Prayer32.text
 
-meGW.Prayer33.text = me.m01.d06_en_UK_lash.meGW.Prayer33.text //   (x3)
+meGW.Prayer33.text = me.m01.d06_en_UK_lash.meGW.Prayer33.text // (x3)
 
 meGW.Prayer34.text = me.m01.d06_en_UK_lash.meGW.Prayer34.text
 
-meGW.Prayer35.text = me.m01.d06_en_UK_lash.meGW.Prayer35.text //   (x3)
+meGW.Prayer35.text = me.m01.d06_en_UK_lash.meGW.Prayer35.text // (x3)
 
 meGW.Prayer36.text = me.m01.d06_en_UK_lash.meGW.Prayer36.text
 
-meGW.Prayer37.text = me.m01.d06_en_UK_lash.meGW.Prayer37.text //   (x3)
+meGW.Prayer37.text = me.m01.d06_en_UK_lash.meGW.Prayer37.text // (x3)
 
 meGW.Prayer38.text = me.m01.d06_en_UK_lash.meGW.Prayer38.text
 

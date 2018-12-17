@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = me.m09.d29_en_US_public
 
 meDate.text = me.m09.d29_en_US_dedes.meDate.text
-meCommemoration.text = me.m09.d29_en_US_dedes.meCommemoration.text //  full title of day
+meCommemoration.text = me.m09.d29_en_US_dedes.meCommemoration.text // full title of day
 meShortCommemoration1.text = me.m09.d29_en_US_dedes.meShortCommemoration1.text
-meInsert1 = me.m09.d29_en_US_dedes.meInsert1 //  for use in petitions and dismissal
-meInsert2 = me.m09.d29_en_US_dedes.meInsert2 //  for use in petitions and dismissal
+meInsert1 = me.m09.d29_en_US_dedes.meInsert1 // for use in petitions and dismissal
+meInsert2 = me.m09.d29_en_US_dedes.meInsert2 // for use in petitions and dismissal
 meNote.text = me.m09.d29_en_US_dedes.meNote.text
 meLE.commemoration1 = me.m09.d29_en_US_dedes.meLE.commemoration1
 meLE.commemoration2 = me.m09.d29_en_US_dedes.meLE.commemoration2
@@ -53,7 +53,7 @@ meVE.AposStavrotheotokion.text = me.m09.d29_en_US_dedes.meVE.AposStavrotheotokio
 meVE.GeneralApolytikion1.mode = me.m09.d29_en_US_dedes.meVE.GeneralApolytikion1.mode
 meVE.GeneralApolytikion1.melody = me.m09.d29_en_US_dedes.meVE.GeneralApolytikion1.melody
 meVE.GeneralApolytikion1.name = me.m09.d29_en_US_dedes.meVE.GeneralApolytikion1.name
-meVE.MM.GeneralApolytikion1.text = me.m09.d29_en_US_dedes.meVE.MM.GeneralApolytikion1.text //  for media
+meVE.MM.GeneralApolytikion1.text = me.m09.d29_en_US_dedes.meVE.MM.GeneralApolytikion1.text // for media
 
 meVE.Apolytikion2.poet = me.m09.d29_en_US_dedes.meVE.Apolytikion2.poet
 meVE.Apolytikion2.mode = me.m09.d29_en_US_dedes.meVE.Apolytikion2.mode

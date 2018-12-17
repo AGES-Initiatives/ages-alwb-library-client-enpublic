@@ -16,6 +16,10 @@ BeginMatins = rubrical_en_US_dedes.BeginMatins
 
 BeginVespers = rubrical_en_US_dedes.BeginVespers
 
+ChoirLeftBegins = rubrical_en_US_goa.ChoirLeftBegins
+
+ChoirRightBegins = rubrical_en_US_goa.ChoirRightBegins
+
 ContinueBasilLiturgy = rubrical_en_US_dedes.ContinueBasilLiturgy
 
 ContinueLiturgy = rubrical_en_US_dedes.ContinueLiturgy

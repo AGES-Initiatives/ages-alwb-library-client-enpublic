@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = me.m11.d16_en_US_public
 
 meDate.text = me.m11.d16_en_US_dedes.meDate.text
-meCommemoration.text = me.m11.d16_en_US_dedes.meCommemoration.text //  full title of day
+meCommemoration.text = me.m11.d16_en_US_dedes.meCommemoration.text // full title of day
 meShortCommemoration1.text = me.m11.d16_en_US_dedes.meShortCommemoration1.text
-meInsert1 = me.m11.d16_en_US_dedes.meInsert1 //  for use in petitions and dismissal
-meInsert2 = me.m11.d16_en_US_dedes.meInsert2 //  for use in petitions and dismissal
+meInsert1 = me.m11.d16_en_US_dedes.meInsert1 // for use in petitions and dismissal
+meInsert2 = me.m11.d16_en_US_dedes.meInsert2 // for use in petitions and dismissal
 meNote.text = me.m11.d16_en_US_dedes.meNote.text
 meLE.commemoration1 = me.m11.d16_en_US_dedes.meLE.commemoration1
 meLE.commemoration2 = me.m11.d16_en_US_dedes.meLE.commemoration2
@@ -26,7 +26,7 @@ meVE.Stichera03.mode = me.m11.d16_en_US_dedes.meVE.Stichera03.mode
 meVE.Stichera03.melody = me.m11.d16_en_US_oca.meVE.Stichera03.melody
 meVE.Stichera03.text = me.m11.d16_en_US_oca.meVE.Stichera03.text
 
-meVE.MM.Stichera1123as78910.text = me.m11.d16_en_US_dedes.meVE.MM.Stichera1123as78910.text //  for media
+meVE.MM.Stichera1123as78910.text = me.m11.d16_en_US_dedes.meVE.MM.Stichera1123as78910.text // for media
 
 meVE.SticGlory.mode = me.m11.d16_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m11.d16_en_US_dedes.meVE.SticGlory.melody
