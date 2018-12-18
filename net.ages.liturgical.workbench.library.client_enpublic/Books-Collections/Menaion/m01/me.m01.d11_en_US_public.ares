@@ -18,22 +18,22 @@ meDismissal = me.m01.d11_en_US_dedes.meDismissal
 //Θεοφάνους Ὁμολογητοῦ
 meVE.Stichera01.mode = me.m01.d11_en_US_dedes.meVE.Stichera01.mode
 meVE.Stichera01.melody = me.m01.d11_en_US_dedes.meVE.Stichera01.melody
-meVE.Stichera01.text = me.m01.d11_en_UK_lash.meVE.Stichera01.text
+meVE.Stichera01.text = me.m01.d11_en_US_dedes.meVE.Stichera01.text
 
 meVE.Stichera02.mode = me.m01.d11_en_US_dedes.meVE.Stichera02.mode
 meVE.Stichera02.melody = me.m01.d11_en_US_dedes.meVE.Stichera02.melody
-meVE.Stichera02.text = me.m01.d11_en_UK_lash.meVE.Stichera02.text
+meVE.Stichera02.text = me.m01.d11_en_US_dedes.meVE.Stichera02.text
 
 meVE.Stichera03.mode = me.m01.d11_en_US_dedes.meVE.Stichera03.mode
 meVE.Stichera03.melody = me.m01.d11_en_US_dedes.meVE.Stichera03.melody
-meVE.Stichera03.text = me.m01.d11_en_UK_lash.meVE.Stichera03.text
+meVE.Stichera03.text = me.m01.d11_en_US_dedes.meVE.Stichera03.text
 
 meVE.Stichera8910.text = me.m01.d11_en_US_dedes.meVE.Stichera8910.text
 
 meVE.SticGlory.poet = me.m01.d11_en_US_dedes.meVE.SticGlory.poet
 meVE.SticGlory.mode = me.m01.d11_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m01.d11_en_US_dedes.meVE.SticGlory.melody
-meVE.SticGlory.text = me.m01.d11_en_UK_lash.meVE.SticGlory.text
+meVE.SticGlory.text = me.m01.d11_en_US_dedes.meVE.SticGlory.text
 
 meVE.SticBoth.poet = me.m01.d11_en_US_dedes.meVE.SticBoth.poet
 meVE.SticBoth.mode = me.m01.d11_en_US_dedes.meVE.SticBoth.mode
@@ -68,12 +68,12 @@ meVE.MM.GeneralApolytikion1.text = me.m01.d11_en_US_dedes.meVE.MM.GeneralApolyti
 meVE.GeneralApolytikion1.name = me.m01.d11_en_US_dedes.meVE.GeneralApolytikion1.name
 
 meMA.Kathisma11.mode = me.m01.d11_en_US_dedes.meMA.Kathisma11.mode
-meMA.Kathisma11.melody = me.m01.d11_en_US_oca.meMA.Kathisma11.melody
-meMA.Kathisma11.text = me.m01.d11_en_US_oca.meMA.Kathisma11.text
+meMA.Kathisma11.melody = me.m01.d11_en_US_dedes.meMA.Kathisma11.melody
+meMA.Kathisma11.text = me.m01.d11_en_US_dedes.meMA.Kathisma11.text
 
 meMA.Kathisma21.mode = me.m01.d11_en_US_dedes.meMA.Kathisma21.mode
-meMA.Kathisma21.melody = me.m01.d11_en_US_oca.meMA.Kathisma21.melody
-meMA.Kathisma21.text = me.m01.d11_en_US_oca.meMA.Kathisma21.text
+meMA.Kathisma21.melody = me.m01.d11_en_US_dedes.meMA.Kathisma21.melody
+meMA.Kathisma21.text = me.m01.d11_en_US_dedes.meMA.Kathisma21.text
 
 meMA.Kathisma31.mode = me.m01.d11_en_US_dedes.meMA.Kathisma31.mode
 meMA.Kathisma31.melody = me.m01.d11_en_US_dedes.meMA.Kathisma31.melody
@@ -124,8 +124,6 @@ meMA.Ode1C1T.ode = me.m01.d11_en_US_dedes.meMA.Ode1C1T.ode
 meMA.Ode1C1T.mode = me.m01.d11_en_US_dedes.meMA.Ode1C1T.mode
 meMA.Ode1C1T.melody = me.m01.d11_en_US_dedes.meMA.Ode1C1T.melody
 meMA.Ode1C1T.text = me.m01.d11_en_US_dedes.meMA.Ode1C1T.text
-
-//Skipping katavasia Στείβει θαλάσσης
 
 meMA.Ode3C11.ode = me.m01.d11_en_US_dedes.meMA.Ode3C11.ode
 meMA.Ode3C11.mode = me.m01.d11_en_US_dedes.meMA.Ode3C11.mode
@@ -231,8 +229,8 @@ meMA.Ode6C1T.melody = me.m01.d11_en_US_dedes.meMA.Ode6C1T.melody
 meMA.Ode6C1T.text = me.m01.d11_en_US_dedes.meMA.Ode6C1T.text
 
 meMA.Kontakion1.mode = me.m01.d11_en_US_dedes.meMA.Kontakion1.mode
-meMA.Kontakion1.melody = me.m01.d11_en_US_oca.meMA.Kontakion1.melody
-meMA.Kontakion1.text = me.m01.d11_en_US_oca.meMA.Kontakion1.text
+meMA.Kontakion1.melody = me.m01.d11_en_US_dedes.meMA.Kontakion1.melody
+meMA.Kontakion1.text = me.m01.d11_en_US_dedes.meMA.Kontakion1.text
 
 meMA.Oikos1.text = me.m01.d11_en_US_dedes.meMA.Oikos1.text
 meMA.Oikos12.text = me.m01.d11_en_US_dedes.meMA.Oikos12.text
@@ -366,8 +364,8 @@ meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
 meMA.LaudsGlory.poet = me.m01.d11_en_US_dedes.meMA.LaudsGlory.poet
 meMA.LaudsGlory.mode = me.m01.d11_en_US_dedes.meMA.LaudsGlory.mode
-meMA.LaudsGlory.melody = me.m01.d11_en_US_oca.meMA.LaudsGlory.melody
-meMA.LaudsGlory.text = me.m01.d11_en_US_oca.meMA.LaudsGlory.text
+meMA.LaudsGlory.melody = me.m01.d11_en_US_dedes.meMA.LaudsGlory.melody
+meMA.LaudsGlory.text = me.m01.d11_en_US_dedes.meMA.LaudsGlory.text
 
 meMA.LaudsBoth.poet = me.m01.d11_en_US_dedes.meMA.LaudsBoth.poet
 meMA.LaudsBoth.mode = me.m01.d11_en_US_dedes.meMA.LaudsBoth.mode
