@@ -28,9 +28,10 @@ DoxaSoiChriste1 = prayers_en_US_holycross.DoxaSoiChriste1
 
 DoxaSoiChriste2 = prayers_en_US_holycross.DoxaSoiChriste2
 
-DoxaSoiKyrie = prayers_en_US_holycross.DoxaSoiKyrie
+DoxaSoiKyrie = prayers_en_US_goa.DoxaSoiKyrie
+DoxaSoiKyrie.MM.aftergospel.text = properties_en_US_goa.media.key
 
-DoxaSoiKyrieP = prayers_en_US_holycross.DoxaSoiKyrieP
+DoxaSoiKyrieP = prayers_en_US_goa.DoxaSoiKyrieP
 
 DoxaSoiOTheos1 = prayers_en_US_holycross.DoxaSoiOTheos1
 
