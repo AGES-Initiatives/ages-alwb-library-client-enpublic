@@ -56,436 +56,438 @@ trVE.Apolytikion1.melody = tr.d063_en_US_dedes.trVE.Apolytikion1.melody
 trVE.Apolytikion1.text = tr.d063_en_US_dedes.trVE.Apolytikion1.text
 
 trCO.C1Poet = tr.d063_en_US_dedes.trCO.C1Poet
+trCO.C1.title = tr.d063_en_US_dedes.trCO.C1.title
+trCO.C1.verse = tr.d063_en_US_dedes.trCO.C1.verse
 
 trCO.Ode1C1H.ode = tr.d063_en_US_dedes.trCO.Ode1C1H.ode
 trCO.Ode1C1H.mode = tr.d063_en_US_dedes.trCO.Ode1C1H.mode
-trCO.Ode1C1H.melody = tr.d063_en_US_dedes.trCO.Ode1C1H.melody
-trCO.Ode1C1H.text = tr.d063_en_US_dedes.trCO.Ode1C1H.text
+trCO.Ode1C1H.melody = tr.d063_en_UK_ware.trCO.Ode1C1H.melody
+trCO.Ode1C1H.text = tr.d063_en_UK_ware.trCO.Ode1C1H.text
 
 trCO.Ode1C11.ode = tr.d063_en_US_dedes.trCO.Ode1C11.ode
 trCO.Ode1C11.mode = tr.d063_en_US_dedes.trCO.Ode1C11.mode
-trCO.Ode1C11.melody = tr.d063_en_US_dedes.trCO.Ode1C11.melody
-trCO.Ode1C11.text = tr.d063_en_US_dedes.trCO.Ode1C11.text
+trCO.Ode1C11.melody = tr.d063_en_UK_ware.trCO.Ode1C11.melody
+trCO.Ode1C11.text = tr.d063_en_UK_ware.trCO.Ode1C11.text
 
 trCO.Ode1C12.ode = tr.d063_en_US_dedes.trCO.Ode1C12.ode
 trCO.Ode1C12.mode = tr.d063_en_US_dedes.trCO.Ode1C12.mode
-trCO.Ode1C12.melody = tr.d063_en_US_dedes.trCO.Ode1C12.melody
-trCO.Ode1C12.text = tr.d063_en_US_dedes.trCO.Ode1C12.text
+trCO.Ode1C12.melody = tr.d063_en_UK_ware.trCO.Ode1C12.melody
+trCO.Ode1C12.text = tr.d063_en_UK_ware.trCO.Ode1C12.text
 
 trCO.Ode1C13.ode = tr.d063_en_US_dedes.trCO.Ode1C13.ode
 trCO.Ode1C13.mode = tr.d063_en_US_dedes.trCO.Ode1C13.mode
-trCO.Ode1C13.melody = tr.d063_en_US_dedes.trCO.Ode1C13.melody
-trCO.Ode1C13.text = tr.d063_en_US_dedes.trCO.Ode1C13.text
+trCO.Ode1C13.melody = tr.d063_en_UK_ware.trCO.Ode1C13.melody
+trCO.Ode1C13.text = tr.d063_en_UK_ware.trCO.Ode1C13.text
 
 trCO.Ode1C14.ode = tr.d063_en_US_dedes.trCO.Ode1C14.ode
 trCO.Ode1C14.mode = tr.d063_en_US_dedes.trCO.Ode1C14.mode
-trCO.Ode1C14.melody = tr.d063_en_US_dedes.trCO.Ode1C14.melody
-trCO.Ode1C14.text = tr.d063_en_US_dedes.trCO.Ode1C14.text
+trCO.Ode1C14.melody = tr.d063_en_UK_ware.trCO.Ode1C14.melody
+trCO.Ode1C14.text = tr.d063_en_UK_ware.trCO.Ode1C14.text
 
 trCO.Ode1C15.ode = tr.d063_en_US_dedes.trCO.Ode1C15.ode
 trCO.Ode1C15.mode = tr.d063_en_US_dedes.trCO.Ode1C15.mode
-trCO.Ode1C15.melody = tr.d063_en_US_dedes.trCO.Ode1C15.melody
-trCO.Ode1C15.text = tr.d063_en_US_dedes.trCO.Ode1C15.text
+trCO.Ode1C15.melody = tr.d063_en_UK_ware.trCO.Ode1C15.melody
+trCO.Ode1C15.text = tr.d063_en_UK_ware.trCO.Ode1C15.text
 
 trCO.Ode1C16.ode = tr.d063_en_US_dedes.trCO.Ode1C16.ode
 trCO.Ode1C16.mode = tr.d063_en_US_dedes.trCO.Ode1C16.mode
-trCO.Ode1C16.melody = tr.d063_en_US_dedes.trCO.Ode1C16.melody
-trCO.Ode1C16.text = tr.d063_en_US_dedes.trCO.Ode1C16.text
+trCO.Ode1C16.melody = tr.d063_en_UK_ware.trCO.Ode1C16.melody
+trCO.Ode1C16.text = tr.d063_en_UK_ware.trCO.Ode1C16.text
 
 trCO.Ode1C17.ode = tr.d063_en_US_dedes.trCO.Ode1C17.ode
 trCO.Ode1C17.mode = tr.d063_en_US_dedes.trCO.Ode1C17.mode
-trCO.Ode1C17.melody = tr.d063_en_US_dedes.trCO.Ode1C17.melody
-trCO.Ode1C17.text = tr.d063_en_US_dedes.trCO.Ode1C17.text
+trCO.Ode1C17.melody = tr.d063_en_UK_ware.trCO.Ode1C17.melody
+trCO.Ode1C17.text = tr.d063_en_UK_ware.trCO.Ode1C17.text
 
 trCO.Ode1C1Tr.ode = tr.d063_en_US_dedes.trCO.Ode1C1Tr.ode
 trCO.Ode1C1Tr.mode = tr.d063_en_US_dedes.trCO.Ode1C1Tr.mode
-trCO.Ode1C1Tr.melody = tr.d063_en_US_dedes.trCO.Ode1C1Tr.melody
-trCO.Ode1C1Tr.text = tr.d063_en_US_dedes.trCO.Ode1C1Tr.text
+trCO.Ode1C1Tr.melody = tr.d063_en_UK_ware.trCO.Ode1C1Tr.melody
+trCO.Ode1C1Tr.text = tr.d063_en_UK_ware.trCO.Ode1C1Tr.text
 
 trCO.Ode1C1T.ode = tr.d063_en_US_dedes.trCO.Ode1C1T.ode
 trCO.Ode1C1T.mode = tr.d063_en_US_dedes.trCO.Ode1C1T.mode
-trCO.Ode1C1T.melody = tr.d063_en_US_dedes.trCO.Ode1C1T.melody
-trCO.Ode1C1T.text = tr.d063_en_US_dedes.trCO.Ode1C1T.text
+trCO.Ode1C1T.melody = tr.d063_en_UK_ware.trCO.Ode1C1T.melody
+trCO.Ode1C1T.text = tr.d063_en_UK_ware.trCO.Ode1C1T.text
 
 trCO.Ode2C1H.ode = tr.d063_en_US_dedes.trCO.Ode2C1H.ode
 trCO.Ode2C1H.mode = tr.d063_en_US_dedes.trCO.Ode2C1H.mode
-trCO.Ode2C1H.melody = tr.d063_en_US_dedes.trCO.Ode2C1H.melody
-trCO.Ode2C1H.text = tr.d063_en_US_dedes.trCO.Ode2C1H.text
+trCO.Ode2C1H.melody = tr.d063_en_UK_ware.trCO.Ode2C1H.melody
+trCO.Ode2C1H.text = tr.d063_en_UK_ware.trCO.Ode2C1H.text
 
 trCO.Ode2C11.ode = tr.d063_en_US_dedes.trCO.Ode2C11.ode
 trCO.Ode2C11.mode = tr.d063_en_US_dedes.trCO.Ode2C11.mode
-trCO.Ode2C11.melody = tr.d063_en_US_dedes.trCO.Ode2C11.melody
-trCO.Ode2C11.text = tr.d063_en_US_dedes.trCO.Ode2C11.text
+trCO.Ode2C11.melody = tr.d063_en_UK_ware.trCO.Ode2C11.melody
+trCO.Ode2C11.text = tr.d063_en_UK_ware.trCO.Ode2C11.text
 
 trCO.Ode2C12.ode = tr.d063_en_US_dedes.trCO.Ode2C12.ode
 trCO.Ode2C12.mode = tr.d063_en_US_dedes.trCO.Ode2C12.mode
-trCO.Ode2C12.melody = tr.d063_en_US_dedes.trCO.Ode2C12.melody
-trCO.Ode2C12.text = tr.d063_en_US_dedes.trCO.Ode2C12.text
+trCO.Ode2C12.melody = tr.d063_en_UK_ware.trCO.Ode2C12.melody
+trCO.Ode2C12.text = tr.d063_en_UK_ware.trCO.Ode2C12.text
 
 trCO.Ode2C13.ode = tr.d063_en_US_dedes.trCO.Ode2C13.ode
 trCO.Ode2C13.mode = tr.d063_en_US_dedes.trCO.Ode2C13.mode
-trCO.Ode2C13.melody = tr.d063_en_US_dedes.trCO.Ode2C13.melody
-trCO.Ode2C13.text = tr.d063_en_US_dedes.trCO.Ode2C13.text
+trCO.Ode2C13.melody = tr.d063_en_UK_ware.trCO.Ode2C13.melody
+trCO.Ode2C13.text = tr.d063_en_UK_ware.trCO.Ode2C13.text
 
 trCO.Ode2C14.ode = tr.d063_en_US_dedes.trCO.Ode2C14.ode
 trCO.Ode2C14.mode = tr.d063_en_US_dedes.trCO.Ode2C14.mode
-trCO.Ode2C14.melody = tr.d063_en_US_dedes.trCO.Ode2C14.melody
-trCO.Ode2C14.text = tr.d063_en_US_dedes.trCO.Ode2C14.text
+trCO.Ode2C14.melody = tr.d063_en_UK_ware.trCO.Ode2C14.melody
+trCO.Ode2C14.text = tr.d063_en_UK_ware.trCO.Ode2C14.text
 
 trCO.Ode2C15.ode = tr.d063_en_US_dedes.trCO.Ode2C15.ode
 trCO.Ode2C15.mode = tr.d063_en_US_dedes.trCO.Ode2C15.mode
-trCO.Ode2C15.melody = tr.d063_en_US_dedes.trCO.Ode2C15.melody
-trCO.Ode2C15.text = tr.d063_en_US_dedes.trCO.Ode2C15.text
+trCO.Ode2C15.melody = tr.d063_en_UK_ware.trCO.Ode2C15.melody
+trCO.Ode2C15.text = tr.d063_en_UK_ware.trCO.Ode2C15.text
 
 trCO.Ode2C1Tr.ode = tr.d063_en_US_dedes.trCO.Ode2C1Tr.ode
 trCO.Ode2C1Tr.mode = tr.d063_en_US_dedes.trCO.Ode2C1Tr.mode
-trCO.Ode2C1Tr.melody = tr.d063_en_US_dedes.trCO.Ode2C1Tr.melody
-trCO.Ode2C1Tr.text = tr.d063_en_US_dedes.trCO.Ode2C1Tr.text
+trCO.Ode2C1Tr.melody = tr.d063_en_UK_ware.trCO.Ode2C1Tr.melody
+trCO.Ode2C1Tr.text = tr.d063_en_UK_ware.trCO.Ode2C1Tr.text
 
 trCO.Ode2C1T.ode = tr.d063_en_US_dedes.trCO.Ode2C1T.ode
 trCO.Ode2C1T.mode = tr.d063_en_US_dedes.trCO.Ode2C1T.mode
-trCO.Ode2C1T.melody = tr.d063_en_US_dedes.trCO.Ode2C1T.melody
-trCO.Ode2C1T.text = tr.d063_en_US_dedes.trCO.Ode2C1T.text
+trCO.Ode2C1T.melody = tr.d063_en_UK_ware.trCO.Ode2C1T.melody
+trCO.Ode2C1T.text = tr.d063_en_UK_ware.trCO.Ode2C1T.text
 
 trCO.Ode3C1H.ode = tr.d063_en_US_dedes.trCO.Ode3C1H.ode
 trCO.Ode3C1H.mode = tr.d063_en_US_dedes.trCO.Ode3C1H.mode
-trCO.Ode3C1H.melody = tr.d063_en_US_dedes.trCO.Ode3C1H.melody
-trCO.Ode3C1H.text = tr.d063_en_US_dedes.trCO.Ode3C1H.text
+trCO.Ode3C1H.melody = tr.d063_en_UK_ware.trCO.Ode3C1H.melody
+trCO.Ode3C1H.text = tr.d063_en_UK_ware.trCO.Ode3C1H.text
 
 trCO.Ode3C11.ode = tr.d063_en_US_dedes.trCO.Ode3C11.ode
 trCO.Ode3C11.mode = tr.d063_en_US_dedes.trCO.Ode3C11.mode
-trCO.Ode3C11.melody = tr.d063_en_US_dedes.trCO.Ode3C11.melody
-trCO.Ode3C11.text = tr.d063_en_US_dedes.trCO.Ode3C11.text
+trCO.Ode3C11.melody = tr.d063_en_UK_ware.trCO.Ode3C11.melody
+trCO.Ode3C11.text = tr.d063_en_UK_ware.trCO.Ode3C11.text
 
 trCO.Ode3C12.ode = tr.d063_en_US_dedes.trCO.Ode3C12.ode
 trCO.Ode3C12.mode = tr.d063_en_US_dedes.trCO.Ode3C12.mode
-trCO.Ode3C12.melody = tr.d063_en_US_dedes.trCO.Ode3C12.melody
-trCO.Ode3C12.text = tr.d063_en_US_dedes.trCO.Ode3C12.text
+trCO.Ode3C12.melody = tr.d063_en_UK_ware.trCO.Ode3C12.melody
+trCO.Ode3C12.text = tr.d063_en_UK_ware.trCO.Ode3C12.text
 
 trCO.Ode3C13.ode = tr.d063_en_US_dedes.trCO.Ode3C13.ode
 trCO.Ode3C13.mode = tr.d063_en_US_dedes.trCO.Ode3C13.mode
-trCO.Ode3C13.melody = tr.d063_en_US_dedes.trCO.Ode3C13.melody
-trCO.Ode3C13.text = tr.d063_en_US_dedes.trCO.Ode3C13.text
+trCO.Ode3C13.melody = tr.d063_en_UK_ware.trCO.Ode3C13.melody
+trCO.Ode3C13.text = tr.d063_en_UK_ware.trCO.Ode3C13.text
 
 trCO.Ode3C14.ode = tr.d063_en_US_dedes.trCO.Ode3C14.ode
 trCO.Ode3C14.mode = tr.d063_en_US_dedes.trCO.Ode3C14.mode
-trCO.Ode3C14.melody = tr.d063_en_US_dedes.trCO.Ode3C14.melody
-trCO.Ode3C14.text = tr.d063_en_US_dedes.trCO.Ode3C14.text
+trCO.Ode3C14.melody = tr.d063_en_UK_ware.trCO.Ode3C14.melody
+trCO.Ode3C14.text = tr.d063_en_UK_ware.trCO.Ode3C14.text
 
 trCO.Ode3C15.ode = tr.d063_en_US_dedes.trCO.Ode3C15.ode
 trCO.Ode3C15.mode = tr.d063_en_US_dedes.trCO.Ode3C15.mode
-trCO.Ode3C15.melody = tr.d063_en_US_dedes.trCO.Ode3C15.melody
-trCO.Ode3C15.text = tr.d063_en_US_dedes.trCO.Ode3C15.text
+trCO.Ode3C15.melody = tr.d063_en_UK_ware.trCO.Ode3C15.melody
+trCO.Ode3C15.text = tr.d063_en_UK_ware.trCO.Ode3C15.text
 
 trCO.Ode3C16.ode = tr.d063_en_US_dedes.trCO.Ode3C16.ode
 trCO.Ode3C16.mode = tr.d063_en_US_dedes.trCO.Ode3C16.mode
-trCO.Ode3C16.melody = tr.d063_en_US_dedes.trCO.Ode3C16.melody
-trCO.Ode3C16.text = tr.d063_en_US_dedes.trCO.Ode3C16.text
+trCO.Ode3C16.melody = tr.d063_en_UK_ware.trCO.Ode3C16.melody
+trCO.Ode3C16.text = tr.d063_en_UK_ware.trCO.Ode3C16.text
 
 trCO.Ode3C1Tr.ode = tr.d063_en_US_dedes.trCO.Ode3C1Tr.ode
 trCO.Ode3C1Tr.mode = tr.d063_en_US_dedes.trCO.Ode3C1Tr.mode
-trCO.Ode3C1Tr.melody = tr.d063_en_US_dedes.trCO.Ode3C1Tr.melody
-trCO.Ode3C1Tr.text = tr.d063_en_US_dedes.trCO.Ode3C1Tr.text
+trCO.Ode3C1Tr.melody = tr.d063_en_UK_ware.trCO.Ode3C1Tr.melody
+trCO.Ode3C1Tr.text = tr.d063_en_UK_ware.trCO.Ode3C1Tr.text
 
 trCO.Ode3C1T.ode = tr.d063_en_US_dedes.trCO.Ode3C1T.ode
 trCO.Ode3C1T.mode = tr.d063_en_US_dedes.trCO.Ode3C1T.mode
-trCO.Ode3C1T.melody = tr.d063_en_US_dedes.trCO.Ode3C1T.melody
-trCO.Ode3C1T.text = tr.d063_en_US_dedes.trCO.Ode3C1T.text
+trCO.Ode3C1T.melody = tr.d063_en_UK_ware.trCO.Ode3C1T.melody
+trCO.Ode3C1T.text = tr.d063_en_UK_ware.trCO.Ode3C1T.text
 
 trCO.Ode4C1H.ode = tr.d063_en_US_dedes.trCO.Ode4C1H.ode
 trCO.Ode4C1H.mode = tr.d063_en_US_dedes.trCO.Ode4C1H.mode
-trCO.Ode4C1H.melody = tr.d063_en_US_dedes.trCO.Ode4C1H.melody
-trCO.Ode4C1H.text = tr.d063_en_US_dedes.trCO.Ode4C1H.text
+trCO.Ode4C1H.melody = tr.d063_en_UK_ware.trCO.Ode4C1H.melody
+trCO.Ode4C1H.text = tr.d063_en_UK_ware.trCO.Ode4C1H.text
 
 trCO.Ode4C11.ode = tr.d063_en_US_dedes.trCO.Ode4C11.ode
 trCO.Ode4C11.mode = tr.d063_en_US_dedes.trCO.Ode4C11.mode
-trCO.Ode4C11.melody = tr.d063_en_US_dedes.trCO.Ode4C11.melody
-trCO.Ode4C11.text = tr.d063_en_US_dedes.trCO.Ode4C11.text
+trCO.Ode4C11.melody = tr.d063_en_UK_ware.trCO.Ode4C11.melody
+trCO.Ode4C11.text = tr.d063_en_UK_ware.trCO.Ode4C11.text
 
 trCO.Ode4C12.ode = tr.d063_en_US_dedes.trCO.Ode4C12.ode
 trCO.Ode4C12.mode = tr.d063_en_US_dedes.trCO.Ode4C12.mode
-trCO.Ode4C12.melody = tr.d063_en_US_dedes.trCO.Ode4C12.melody
-trCO.Ode4C12.text = tr.d063_en_US_dedes.trCO.Ode4C12.text
+trCO.Ode4C12.melody = tr.d063_en_UK_ware.trCO.Ode4C12.melody
+trCO.Ode4C12.text = tr.d063_en_UK_ware.trCO.Ode4C12.text
 
 trCO.Ode4C13.ode = tr.d063_en_US_dedes.trCO.Ode4C13.ode
 trCO.Ode4C13.mode = tr.d063_en_US_dedes.trCO.Ode4C13.mode
-trCO.Ode4C13.melody = tr.d063_en_US_dedes.trCO.Ode4C13.melody
-trCO.Ode4C13.text = tr.d063_en_US_dedes.trCO.Ode4C13.text
+trCO.Ode4C13.melody = tr.d063_en_UK_ware.trCO.Ode4C13.melody
+trCO.Ode4C13.text = tr.d063_en_UK_ware.trCO.Ode4C13.text
 
 trCO.Ode4C14.ode = tr.d063_en_US_dedes.trCO.Ode4C14.ode
 trCO.Ode4C14.mode = tr.d063_en_US_dedes.trCO.Ode4C14.mode
-trCO.Ode4C14.melody = tr.d063_en_US_dedes.trCO.Ode4C14.melody
-trCO.Ode4C14.text = tr.d063_en_US_dedes.trCO.Ode4C14.text
+trCO.Ode4C14.melody = tr.d063_en_UK_ware.trCO.Ode4C14.melody
+trCO.Ode4C14.text = tr.d063_en_UK_ware.trCO.Ode4C14.text
 
 trCO.Ode4C15.ode = tr.d063_en_US_dedes.trCO.Ode4C15.ode
 trCO.Ode4C15.mode = tr.d063_en_US_dedes.trCO.Ode4C15.mode
-trCO.Ode4C15.melody = tr.d063_en_US_dedes.trCO.Ode4C15.melody
-trCO.Ode4C15.text = tr.d063_en_US_dedes.trCO.Ode4C15.text
+trCO.Ode4C15.melody = tr.d063_en_UK_ware.trCO.Ode4C15.melody
+trCO.Ode4C15.text = tr.d063_en_UK_ware.trCO.Ode4C15.text
 
 trCO.Ode4C16.ode = tr.d063_en_US_dedes.trCO.Ode4C16.ode
 trCO.Ode4C16.mode = tr.d063_en_US_dedes.trCO.Ode4C16.mode
-trCO.Ode4C16.melody = tr.d063_en_US_dedes.trCO.Ode4C16.melody
-trCO.Ode4C16.text = tr.d063_en_US_dedes.trCO.Ode4C16.text
+trCO.Ode4C16.melody = tr.d063_en_UK_ware.trCO.Ode4C16.melody
+trCO.Ode4C16.text = tr.d063_en_UK_ware.trCO.Ode4C16.text
 
 trCO.Ode4C17.ode = tr.d063_en_US_dedes.trCO.Ode4C17.ode
 trCO.Ode4C17.mode = tr.d063_en_US_dedes.trCO.Ode4C17.mode
-trCO.Ode4C17.melody = tr.d063_en_US_dedes.trCO.Ode4C17.melody
-trCO.Ode4C17.text = tr.d063_en_US_dedes.trCO.Ode4C17.text
+trCO.Ode4C17.melody = tr.d063_en_UK_ware.trCO.Ode4C17.melody
+trCO.Ode4C17.text = tr.d063_en_UK_ware.trCO.Ode4C17.text
 
 trCO.Ode4C18.ode = tr.d063_en_US_dedes.trCO.Ode4C18.ode
 trCO.Ode4C18.mode = tr.d063_en_US_dedes.trCO.Ode4C18.mode
-trCO.Ode4C18.melody = tr.d063_en_US_dedes.trCO.Ode4C18.melody
-trCO.Ode4C18.text = tr.d063_en_US_dedes.trCO.Ode4C18.text
+trCO.Ode4C18.melody = tr.d063_en_UK_ware.trCO.Ode4C18.melody
+trCO.Ode4C18.text = tr.d063_en_UK_ware.trCO.Ode4C18.text
 
 trCO.Ode4C19.ode = tr.d063_en_US_dedes.trCO.Ode4C19.ode
 trCO.Ode4C19.mode = tr.d063_en_US_dedes.trCO.Ode4C19.mode
-trCO.Ode4C19.melody = tr.d063_en_US_dedes.trCO.Ode4C19.melody
-trCO.Ode4C19.text = tr.d063_en_US_dedes.trCO.Ode4C19.text
+trCO.Ode4C19.melody = tr.d063_en_UK_ware.trCO.Ode4C19.melody
+trCO.Ode4C19.text = tr.d063_en_UK_ware.trCO.Ode4C19.text
 
 trCO.Ode4C1Tr.ode = tr.d063_en_US_dedes.trCO.Ode4C1Tr.ode
 trCO.Ode4C1Tr.mode = tr.d063_en_US_dedes.trCO.Ode4C1Tr.mode
-trCO.Ode4C1Tr.melody = tr.d063_en_US_dedes.trCO.Ode4C1Tr.melody
-trCO.Ode4C1Tr.text = tr.d063_en_US_dedes.trCO.Ode4C1Tr.text
+trCO.Ode4C1Tr.melody = tr.d063_en_UK_ware.trCO.Ode4C1Tr.melody
+trCO.Ode4C1Tr.text = tr.d063_en_UK_ware.trCO.Ode4C1Tr.text
 
 trCO.Ode4C1T.ode = tr.d063_en_US_dedes.trCO.Ode4C1T.ode
 trCO.Ode4C1T.mode = tr.d063_en_US_dedes.trCO.Ode4C1T.mode
-trCO.Ode4C1T.melody = tr.d063_en_US_dedes.trCO.Ode4C1T.melody
-trCO.Ode4C1T.text = tr.d063_en_US_dedes.trCO.Ode4C1T.text
+trCO.Ode4C1T.melody = tr.d063_en_UK_ware.trCO.Ode4C1T.melody
+trCO.Ode4C1T.text = tr.d063_en_UK_ware.trCO.Ode4C1T.text
 
 trCO.Ode5C1H.ode = tr.d063_en_US_dedes.trCO.Ode5C1H.ode
 trCO.Ode5C1H.mode = tr.d063_en_US_dedes.trCO.Ode5C1H.mode
-trCO.Ode5C1H.melody = tr.d063_en_US_dedes.trCO.Ode5C1H.melody
-trCO.Ode5C1H.text = tr.d063_en_US_dedes.trCO.Ode5C1H.text
+trCO.Ode5C1H.melody = tr.d063_en_UK_ware.trCO.Ode5C1H.melody
+trCO.Ode5C1H.text = tr.d063_en_UK_ware.trCO.Ode5C1H.text
 
 trCO.Ode5C11.ode = tr.d063_en_US_dedes.trCO.Ode5C11.ode
 trCO.Ode5C11.mode = tr.d063_en_US_dedes.trCO.Ode5C11.mode
-trCO.Ode5C11.melody = tr.d063_en_US_dedes.trCO.Ode5C11.melody
-trCO.Ode5C11.text = tr.d063_en_US_dedes.trCO.Ode5C11.text
+trCO.Ode5C11.melody = tr.d063_en_UK_ware.trCO.Ode5C11.melody
+trCO.Ode5C11.text = tr.d063_en_UK_ware.trCO.Ode5C11.text
 
 trCO.Ode5C12.ode = tr.d063_en_US_dedes.trCO.Ode5C12.ode
 trCO.Ode5C12.mode = tr.d063_en_US_dedes.trCO.Ode5C12.mode
-trCO.Ode5C12.melody = tr.d063_en_US_dedes.trCO.Ode5C12.melody
-trCO.Ode5C12.text = tr.d063_en_US_dedes.trCO.Ode5C12.text
+trCO.Ode5C12.melody = tr.d063_en_UK_ware.trCO.Ode5C12.melody
+trCO.Ode5C12.text = tr.d063_en_UK_ware.trCO.Ode5C12.text
 
 trCO.Ode5C13.ode = tr.d063_en_US_dedes.trCO.Ode5C13.ode
 trCO.Ode5C13.mode = tr.d063_en_US_dedes.trCO.Ode5C13.mode
-trCO.Ode5C13.melody = tr.d063_en_US_dedes.trCO.Ode5C13.melody
-trCO.Ode5C13.text = tr.d063_en_US_dedes.trCO.Ode5C13.text
+trCO.Ode5C13.melody = tr.d063_en_UK_ware.trCO.Ode5C13.melody
+trCO.Ode5C13.text = tr.d063_en_UK_ware.trCO.Ode5C13.text
 
 trCO.Ode5C14.ode = tr.d063_en_US_dedes.trCO.Ode5C14.ode
 trCO.Ode5C14.mode = tr.d063_en_US_dedes.trCO.Ode5C14.mode
-trCO.Ode5C14.melody = tr.d063_en_US_dedes.trCO.Ode5C14.melody
-trCO.Ode5C14.text = tr.d063_en_US_dedes.trCO.Ode5C14.text
+trCO.Ode5C14.melody = tr.d063_en_UK_ware.trCO.Ode5C14.melody
+trCO.Ode5C14.text = tr.d063_en_UK_ware.trCO.Ode5C14.text
 
 trCO.Ode5C15.ode = tr.d063_en_US_dedes.trCO.Ode5C15.ode
 trCO.Ode5C15.mode = tr.d063_en_US_dedes.trCO.Ode5C15.mode
-trCO.Ode5C15.melody = tr.d063_en_US_dedes.trCO.Ode5C15.melody
-trCO.Ode5C15.text = tr.d063_en_US_dedes.trCO.Ode5C15.text
+trCO.Ode5C15.melody = tr.d063_en_UK_ware.trCO.Ode5C15.melody
+trCO.Ode5C15.text = tr.d063_en_UK_ware.trCO.Ode5C15.text
 
 trCO.Ode5C16.ode = tr.d063_en_US_dedes.trCO.Ode5C16.ode
 trCO.Ode5C16.mode = tr.d063_en_US_dedes.trCO.Ode5C16.mode
-trCO.Ode5C16.melody = tr.d063_en_US_dedes.trCO.Ode5C16.melody
-trCO.Ode5C16.text = tr.d063_en_US_dedes.trCO.Ode5C16.text
+trCO.Ode5C16.melody = tr.d063_en_UK_ware.trCO.Ode5C16.melody
+trCO.Ode5C16.text = tr.d063_en_UK_ware.trCO.Ode5C16.text
 
 trCO.Ode5C1Tr.ode = tr.d063_en_US_dedes.trCO.Ode5C1Tr.ode
 trCO.Ode5C1Tr.mode = tr.d063_en_US_dedes.trCO.Ode5C1Tr.mode
-trCO.Ode5C1Tr.melody = tr.d063_en_US_dedes.trCO.Ode5C1Tr.melody
-trCO.Ode5C1Tr.text = tr.d063_en_US_dedes.trCO.Ode5C1Tr.text
+trCO.Ode5C1Tr.melody = tr.d063_en_UK_ware.trCO.Ode5C1Tr.melody
+trCO.Ode5C1Tr.text = tr.d063_en_UK_ware.trCO.Ode5C1Tr.text
 
 trCO.Ode5C1T.ode = tr.d063_en_US_dedes.trCO.Ode5C1T.ode
 trCO.Ode5C1T.mode = tr.d063_en_US_dedes.trCO.Ode5C1T.mode
-trCO.Ode5C1T.melody = tr.d063_en_US_dedes.trCO.Ode5C1T.melody
-trCO.Ode5C1T.text = tr.d063_en_US_dedes.trCO.Ode5C1T.text
+trCO.Ode5C1T.melody = tr.d063_en_UK_ware.trCO.Ode5C1T.melody
+trCO.Ode5C1T.text = tr.d063_en_UK_ware.trCO.Ode5C1T.text
 
 trCO.Ode6C1H.ode = tr.d063_en_US_dedes.trCO.Ode6C1H.ode
 trCO.Ode6C1H.mode = tr.d063_en_US_dedes.trCO.Ode6C1H.mode
-trCO.Ode6C1H.melody = tr.d063_en_US_dedes.trCO.Ode6C1H.melody
-trCO.Ode6C1H.text = tr.d063_en_US_dedes.trCO.Ode6C1H.text
+trCO.Ode6C1H.melody = tr.d063_en_UK_ware.trCO.Ode6C1H.melody
+trCO.Ode6C1H.text = tr.d063_en_UK_ware.trCO.Ode6C1H.text
 
 trCO.Ode6C11.ode = tr.d063_en_US_dedes.trCO.Ode6C11.ode
 trCO.Ode6C11.mode = tr.d063_en_US_dedes.trCO.Ode6C11.mode
-trCO.Ode6C11.melody = tr.d063_en_US_dedes.trCO.Ode6C11.melody
-trCO.Ode6C11.text = tr.d063_en_US_dedes.trCO.Ode6C11.text
+trCO.Ode6C11.melody = tr.d063_en_UK_ware.trCO.Ode6C11.melody
+trCO.Ode6C11.text = tr.d063_en_UK_ware.trCO.Ode6C11.text
 
 trCO.Ode6C12.ode = tr.d063_en_US_dedes.trCO.Ode6C12.ode
 trCO.Ode6C12.mode = tr.d063_en_US_dedes.trCO.Ode6C12.mode
-trCO.Ode6C12.melody = tr.d063_en_US_dedes.trCO.Ode6C12.melody
-trCO.Ode6C12.text = tr.d063_en_US_dedes.trCO.Ode6C12.text
+trCO.Ode6C12.melody = tr.d063_en_UK_ware.trCO.Ode6C12.melody
+trCO.Ode6C12.text = tr.d063_en_UK_ware.trCO.Ode6C12.text
 
 trCO.Ode6C13.ode = tr.d063_en_US_dedes.trCO.Ode6C13.ode
 trCO.Ode6C13.mode = tr.d063_en_US_dedes.trCO.Ode6C13.mode
-trCO.Ode6C13.melody = tr.d063_en_US_dedes.trCO.Ode6C13.melody
-trCO.Ode6C13.text = tr.d063_en_US_dedes.trCO.Ode6C13.text
+trCO.Ode6C13.melody = tr.d063_en_UK_ware.trCO.Ode6C13.melody
+trCO.Ode6C13.text = tr.d063_en_UK_ware.trCO.Ode6C13.text
 
 trCO.Ode6C14.ode = tr.d063_en_US_dedes.trCO.Ode6C14.ode
 trCO.Ode6C14.mode = tr.d063_en_US_dedes.trCO.Ode6C14.mode
-trCO.Ode6C14.melody = tr.d063_en_US_dedes.trCO.Ode6C14.melody
-trCO.Ode6C14.text = tr.d063_en_US_dedes.trCO.Ode6C14.text
+trCO.Ode6C14.melody = tr.d063_en_UK_ware.trCO.Ode6C14.melody
+trCO.Ode6C14.text = tr.d063_en_UK_ware.trCO.Ode6C14.text
 
 trCO.Ode6C15.ode = tr.d063_en_US_dedes.trCO.Ode6C15.ode
 trCO.Ode6C15.mode = tr.d063_en_US_dedes.trCO.Ode6C15.mode
-trCO.Ode6C15.melody = tr.d063_en_US_dedes.trCO.Ode6C15.melody
-trCO.Ode6C15.text = tr.d063_en_US_dedes.trCO.Ode6C15.text
+trCO.Ode6C15.melody = tr.d063_en_UK_ware.trCO.Ode6C15.melody
+trCO.Ode6C15.text = tr.d063_en_UK_ware.trCO.Ode6C15.text
 
 trCO.Ode6C16.ode = tr.d063_en_US_dedes.trCO.Ode6C16.ode
 trCO.Ode6C16.mode = tr.d063_en_US_dedes.trCO.Ode6C16.mode
-trCO.Ode6C16.melody = tr.d063_en_US_dedes.trCO.Ode6C16.melody
-trCO.Ode6C16.text = tr.d063_en_US_dedes.trCO.Ode6C16.text
+trCO.Ode6C16.melody = tr.d063_en_UK_ware.trCO.Ode6C16.melody
+trCO.Ode6C16.text = tr.d063_en_UK_ware.trCO.Ode6C16.text
 
 trCO.Ode6C1Tr.ode = tr.d063_en_US_dedes.trCO.Ode6C1Tr.ode
 trCO.Ode6C1Tr.mode = tr.d063_en_US_dedes.trCO.Ode6C1Tr.mode
-trCO.Ode6C1Tr.melody = tr.d063_en_US_dedes.trCO.Ode6C1Tr.melody
-trCO.Ode6C1Tr.text = tr.d063_en_US_dedes.trCO.Ode6C1Tr.text
+trCO.Ode6C1Tr.melody = tr.d063_en_UK_ware.trCO.Ode6C1Tr.melody
+trCO.Ode6C1Tr.text = tr.d063_en_UK_ware.trCO.Ode6C1Tr.text
 
 trCO.Ode6C1T.ode = tr.d063_en_US_dedes.trCO.Ode6C1T.ode
 trCO.Ode6C1T.mode = tr.d063_en_US_dedes.trCO.Ode6C1T.mode
-trCO.Ode6C1T.melody = tr.d063_en_US_dedes.trCO.Ode6C1T.melody
-trCO.Ode6C1T.text = tr.d063_en_US_dedes.trCO.Ode6C1T.text
+trCO.Ode6C1T.melody = tr.d063_en_UK_ware.trCO.Ode6C1T.melody
+trCO.Ode6C1T.text = tr.d063_en_UK_ware.trCO.Ode6C1T.text
 
 trCO.Ode7C1H.ode = tr.d063_en_US_dedes.trCO.Ode7C1H.ode
 trCO.Ode7C1H.mode = tr.d063_en_US_dedes.trCO.Ode7C1H.mode
-trCO.Ode7C1H.melody = tr.d063_en_US_dedes.trCO.Ode7C1H.melody
-trCO.Ode7C1H.text = tr.d063_en_US_dedes.trCO.Ode7C1H.text
+trCO.Ode7C1H.melody = tr.d063_en_UK_ware.trCO.Ode7C1H.melody
+trCO.Ode7C1H.text = tr.d063_en_UK_ware.trCO.Ode7C1H.text
 
 trCO.Ode7C11.ode = tr.d063_en_US_dedes.trCO.Ode7C11.ode
 trCO.Ode7C11.mode = tr.d063_en_US_dedes.trCO.Ode7C11.mode
-trCO.Ode7C11.melody = tr.d063_en_US_dedes.trCO.Ode7C11.melody
-trCO.Ode7C11.text = tr.d063_en_US_dedes.trCO.Ode7C11.text
+trCO.Ode7C11.melody = tr.d063_en_UK_ware.trCO.Ode7C11.melody
+trCO.Ode7C11.text = tr.d063_en_UK_ware.trCO.Ode7C11.text
 
 trCO.Ode7C12.ode = tr.d063_en_US_dedes.trCO.Ode7C12.ode
 trCO.Ode7C12.mode = tr.d063_en_US_dedes.trCO.Ode7C12.mode
-trCO.Ode7C12.melody = tr.d063_en_US_dedes.trCO.Ode7C12.melody
-trCO.Ode7C12.text = tr.d063_en_US_dedes.trCO.Ode7C12.text
+trCO.Ode7C12.melody = tr.d063_en_UK_ware.trCO.Ode7C12.melody
+trCO.Ode7C12.text = tr.d063_en_UK_ware.trCO.Ode7C12.text
 
 trCO.Ode7C13.ode = tr.d063_en_US_dedes.trCO.Ode7C13.ode
 trCO.Ode7C13.mode = tr.d063_en_US_dedes.trCO.Ode7C13.mode
-trCO.Ode7C13.melody = tr.d063_en_US_dedes.trCO.Ode7C13.melody
-trCO.Ode7C13.text = tr.d063_en_US_dedes.trCO.Ode7C13.text
+trCO.Ode7C13.melody = tr.d063_en_UK_ware.trCO.Ode7C13.melody
+trCO.Ode7C13.text = tr.d063_en_UK_ware.trCO.Ode7C13.text
 
 trCO.Ode7C14.ode = tr.d063_en_US_dedes.trCO.Ode7C14.ode
 trCO.Ode7C14.mode = tr.d063_en_US_dedes.trCO.Ode7C14.mode
-trCO.Ode7C14.melody = tr.d063_en_US_dedes.trCO.Ode7C14.melody
-trCO.Ode7C14.text = tr.d063_en_US_dedes.trCO.Ode7C14.text
+trCO.Ode7C14.melody = tr.d063_en_UK_ware.trCO.Ode7C14.melody
+trCO.Ode7C14.text = tr.d063_en_UK_ware.trCO.Ode7C14.text
 
 trCO.Ode7C15.ode = tr.d063_en_US_dedes.trCO.Ode7C15.ode
 trCO.Ode7C15.mode = tr.d063_en_US_dedes.trCO.Ode7C15.mode
-trCO.Ode7C15.melody = tr.d063_en_US_dedes.trCO.Ode7C15.melody
-trCO.Ode7C15.text = tr.d063_en_US_dedes.trCO.Ode7C15.text
+trCO.Ode7C15.melody = tr.d063_en_UK_ware.trCO.Ode7C15.melody
+trCO.Ode7C15.text = tr.d063_en_UK_ware.trCO.Ode7C15.text
 
 trCO.Ode7C16.ode = tr.d063_en_US_dedes.trCO.Ode7C16.ode
 trCO.Ode7C16.mode = tr.d063_en_US_dedes.trCO.Ode7C16.mode
-trCO.Ode7C16.melody = tr.d063_en_US_dedes.trCO.Ode7C16.melody
-trCO.Ode7C16.text = tr.d063_en_US_dedes.trCO.Ode7C16.text
+trCO.Ode7C16.melody = tr.d063_en_UK_ware.trCO.Ode7C16.melody
+trCO.Ode7C16.text = tr.d063_en_UK_ware.trCO.Ode7C16.text
 
 trCO.Ode7C17.ode = tr.d063_en_US_dedes.trCO.Ode7C17.ode
 trCO.Ode7C17.mode = tr.d063_en_US_dedes.trCO.Ode7C17.mode
-trCO.Ode7C17.melody = tr.d063_en_US_dedes.trCO.Ode7C17.melody
-trCO.Ode7C17.text = tr.d063_en_US_dedes.trCO.Ode7C17.text
+trCO.Ode7C17.melody = tr.d063_en_UK_ware.trCO.Ode7C17.melody
+trCO.Ode7C17.text = tr.d063_en_UK_ware.trCO.Ode7C17.text
 
 trCO.Ode7C1Tr.ode = tr.d063_en_US_dedes.trCO.Ode7C1Tr.ode
 trCO.Ode7C1Tr.mode = tr.d063_en_US_dedes.trCO.Ode7C1Tr.mode
-trCO.Ode7C1Tr.melody = tr.d063_en_US_dedes.trCO.Ode7C1Tr.melody
-trCO.Ode7C1Tr.text = tr.d063_en_US_dedes.trCO.Ode7C1Tr.text
+trCO.Ode7C1Tr.melody = tr.d063_en_UK_ware.trCO.Ode7C1Tr.melody
+trCO.Ode7C1Tr.text = tr.d063_en_UK_ware.trCO.Ode7C1Tr.text
 
 trCO.Ode7C1T.ode = tr.d063_en_US_dedes.trCO.Ode7C1T.ode
 trCO.Ode7C1T.mode = tr.d063_en_US_dedes.trCO.Ode7C1T.mode
-trCO.Ode7C1T.melody = tr.d063_en_US_dedes.trCO.Ode7C1T.melody
-trCO.Ode7C1T.text = tr.d063_en_US_dedes.trCO.Ode7C1T.text
+trCO.Ode7C1T.melody = tr.d063_en_UK_ware.trCO.Ode7C1T.melody
+trCO.Ode7C1T.text = tr.d063_en_UK_ware.trCO.Ode7C1T.text
 
 trCO.Ode8C1H.ode = tr.d063_en_US_dedes.trCO.Ode8C1H.ode
 trCO.Ode8C1H.mode = tr.d063_en_US_dedes.trCO.Ode8C1H.mode
-trCO.Ode8C1H.melody = tr.d063_en_US_dedes.trCO.Ode8C1H.melody
-trCO.Ode8C1H.text = tr.d063_en_US_dedes.trCO.Ode8C1H.text
+trCO.Ode8C1H.melody = tr.d063_en_UK_ware.trCO.Ode8C1H.melody
+trCO.Ode8C1H.text = tr.d063_en_UK_ware.trCO.Ode8C1H.text
 
 trCO.Ode8C11.ode = tr.d063_en_US_dedes.trCO.Ode8C11.ode
 trCO.Ode8C11.mode = tr.d063_en_US_dedes.trCO.Ode8C11.mode
-trCO.Ode8C11.melody = tr.d063_en_US_dedes.trCO.Ode8C11.melody
-trCO.Ode8C11.text = tr.d063_en_US_dedes.trCO.Ode8C11.text
+trCO.Ode8C11.melody = tr.d063_en_UK_ware.trCO.Ode8C11.melody
+trCO.Ode8C11.text = tr.d063_en_UK_ware.trCO.Ode8C11.text
 
 trCO.Ode8C12.ode = tr.d063_en_US_dedes.trCO.Ode8C12.ode
 trCO.Ode8C12.mode = tr.d063_en_US_dedes.trCO.Ode8C12.mode
-trCO.Ode8C12.melody = tr.d063_en_US_dedes.trCO.Ode8C12.melody
-trCO.Ode8C12.text = tr.d063_en_US_dedes.trCO.Ode8C12.text
+trCO.Ode8C12.melody = tr.d063_en_UK_ware.trCO.Ode8C12.melody
+trCO.Ode8C12.text = tr.d063_en_UK_ware.trCO.Ode8C12.text
 
 trCO.Ode8C13.ode = tr.d063_en_US_dedes.trCO.Ode8C13.ode
 trCO.Ode8C13.mode = tr.d063_en_US_dedes.trCO.Ode8C13.mode
-trCO.Ode8C13.melody = tr.d063_en_US_dedes.trCO.Ode8C13.melody
-trCO.Ode8C13.text = tr.d063_en_US_dedes.trCO.Ode8C13.text
+trCO.Ode8C13.melody = tr.d063_en_UK_ware.trCO.Ode8C13.melody
+trCO.Ode8C13.text = tr.d063_en_UK_ware.trCO.Ode8C13.text
 
 trCO.Ode8C14.ode = tr.d063_en_US_dedes.trCO.Ode8C14.ode
 trCO.Ode8C14.mode = tr.d063_en_US_dedes.trCO.Ode8C14.mode
-trCO.Ode8C14.melody = tr.d063_en_US_dedes.trCO.Ode8C14.melody
-trCO.Ode8C14.text = tr.d063_en_US_dedes.trCO.Ode8C14.text
+trCO.Ode8C14.melody = tr.d063_en_UK_ware.trCO.Ode8C14.melody
+trCO.Ode8C14.text = tr.d063_en_UK_ware.trCO.Ode8C14.text
 
 trCO.Ode8C15.ode = tr.d063_en_US_dedes.trCO.Ode8C15.ode
 trCO.Ode8C15.mode = tr.d063_en_US_dedes.trCO.Ode8C15.mode
-trCO.Ode8C15.melody = tr.d063_en_US_dedes.trCO.Ode8C15.melody
-trCO.Ode8C15.text = tr.d063_en_US_dedes.trCO.Ode8C15.text
+trCO.Ode8C15.melody = tr.d063_en_UK_ware.trCO.Ode8C15.melody
+trCO.Ode8C15.text = tr.d063_en_UK_ware.trCO.Ode8C15.text
 
 trCO.Ode8C16.ode = tr.d063_en_US_dedes.trCO.Ode8C16.ode
 trCO.Ode8C16.mode = tr.d063_en_US_dedes.trCO.Ode8C16.mode
-trCO.Ode8C16.melody = tr.d063_en_US_dedes.trCO.Ode8C16.melody
-trCO.Ode8C16.text = tr.d063_en_US_dedes.trCO.Ode8C16.text
+trCO.Ode8C16.melody = tr.d063_en_UK_ware.trCO.Ode8C16.melody
+trCO.Ode8C16.text = tr.d063_en_UK_ware.trCO.Ode8C16.text
 
 trCO.Ode8C1Tr.ode = tr.d063_en_US_dedes.trCO.Ode8C1Tr.ode
 trCO.Ode8C1Tr.mode = tr.d063_en_US_dedes.trCO.Ode8C1Tr.mode
-trCO.Ode8C1Tr.melody = tr.d063_en_US_dedes.trCO.Ode8C1Tr.melody
-trCO.Ode8C1Tr.text = tr.d063_en_US_dedes.trCO.Ode8C1Tr.text
+trCO.Ode8C1Tr.melody = tr.d063_en_UK_ware.trCO.Ode8C1Tr.melody
+trCO.Ode8C1Tr.text = tr.d063_en_UK_ware.trCO.Ode8C1Tr.text
 
 trCO.Ode8C1T.ode = tr.d063_en_US_dedes.trCO.Ode8C1T.ode
 trCO.Ode8C1T.mode = tr.d063_en_US_dedes.trCO.Ode8C1T.mode
-trCO.Ode8C1T.melody = tr.d063_en_US_dedes.trCO.Ode8C1T.melody
-trCO.Ode8C1T.text = tr.d063_en_US_dedes.trCO.Ode8C1T.text
+trCO.Ode8C1T.melody = tr.d063_en_UK_ware.trCO.Ode8C1T.melody
+trCO.Ode8C1T.text = tr.d063_en_UK_ware.trCO.Ode8C1T.text
 
 trCO.Ode9C1H.ode = tr.d063_en_US_dedes.trCO.Ode9C1H.ode
 trCO.Ode9C1H.mode = tr.d063_en_US_dedes.trCO.Ode9C1H.mode
-trCO.Ode9C1H.melody = tr.d063_en_US_dedes.trCO.Ode9C1H.melody
-trCO.Ode9C1H.text = tr.d063_en_US_dedes.trCO.Ode9C1H.text
+trCO.Ode9C1H.melody = tr.d063_en_UK_ware.trCO.Ode9C1H.melody
+trCO.Ode9C1H.text = tr.d063_en_UK_ware.trCO.Ode9C1H.text
 
 trCO.Ode9C11.ode = tr.d063_en_US_dedes.trCO.Ode9C11.ode
 trCO.Ode9C11.mode = tr.d063_en_US_dedes.trCO.Ode9C11.mode
-trCO.Ode9C11.melody = tr.d063_en_US_dedes.trCO.Ode9C11.melody
-trCO.Ode9C11.text = tr.d063_en_US_dedes.trCO.Ode9C11.text
+trCO.Ode9C11.melody = tr.d063_en_UK_ware.trCO.Ode9C11.melody
+trCO.Ode9C11.text = tr.d063_en_UK_ware.trCO.Ode9C11.text
 
 trCO.Ode9C12.ode = tr.d063_en_US_dedes.trCO.Ode9C12.ode
 trCO.Ode9C12.mode = tr.d063_en_US_dedes.trCO.Ode9C12.mode
-trCO.Ode9C12.melody = tr.d063_en_US_dedes.trCO.Ode9C12.melody
-trCO.Ode9C12.text = tr.d063_en_US_dedes.trCO.Ode9C12.text
+trCO.Ode9C12.melody = tr.d063_en_UK_ware.trCO.Ode9C12.melody
+trCO.Ode9C12.text = tr.d063_en_UK_ware.trCO.Ode9C12.text
 
 trCO.Ode9C13.ode = tr.d063_en_US_dedes.trCO.Ode9C13.ode
 trCO.Ode9C13.mode = tr.d063_en_US_dedes.trCO.Ode9C13.mode
-trCO.Ode9C13.melody = tr.d063_en_US_dedes.trCO.Ode9C13.melody
-trCO.Ode9C13.text = tr.d063_en_US_dedes.trCO.Ode9C13.text
+trCO.Ode9C13.melody = tr.d063_en_UK_ware.trCO.Ode9C13.melody
+trCO.Ode9C13.text = tr.d063_en_UK_ware.trCO.Ode9C13.text
 
 trCO.Ode9C14.ode = tr.d063_en_US_dedes.trCO.Ode9C14.ode
 trCO.Ode9C14.mode = tr.d063_en_US_dedes.trCO.Ode9C14.mode
-trCO.Ode9C14.melody = tr.d063_en_US_dedes.trCO.Ode9C14.melody
-trCO.Ode9C14.text = tr.d063_en_US_dedes.trCO.Ode9C14.text
+trCO.Ode9C14.melody = tr.d063_en_UK_ware.trCO.Ode9C14.melody
+trCO.Ode9C14.text = tr.d063_en_UK_ware.trCO.Ode9C14.text
 
 trCO.Ode9C15.ode = tr.d063_en_US_dedes.trCO.Ode9C15.ode
 trCO.Ode9C15.mode = tr.d063_en_US_dedes.trCO.Ode9C15.mode
-trCO.Ode9C15.melody = tr.d063_en_US_dedes.trCO.Ode9C15.melody
-trCO.Ode9C15.text = tr.d063_en_US_dedes.trCO.Ode9C15.text
+trCO.Ode9C15.melody = tr.d063_en_UK_ware.trCO.Ode9C15.melody
+trCO.Ode9C15.text = tr.d063_en_UK_ware.trCO.Ode9C15.text
 
 trCO.Ode9C16.ode = tr.d063_en_US_dedes.trCO.Ode9C16.ode
 trCO.Ode9C16.mode = tr.d063_en_US_dedes.trCO.Ode9C16.mode
-trCO.Ode9C16.melody = tr.d063_en_US_dedes.trCO.Ode9C16.melody
-trCO.Ode9C16.text = tr.d063_en_US_dedes.trCO.Ode9C16.text
+trCO.Ode9C16.melody = tr.d063_en_UK_ware.trCO.Ode9C16.melody
+trCO.Ode9C16.text = tr.d063_en_UK_ware.trCO.Ode9C16.text
 
 trCO.Ode9C17.ode = tr.d063_en_US_dedes.trCO.Ode9C17.ode
 trCO.Ode9C17.mode = tr.d063_en_US_dedes.trCO.Ode9C17.mode
-trCO.Ode9C17.melody = tr.d063_en_US_dedes.trCO.Ode9C17.melody
-trCO.Ode9C17.text = tr.d063_en_US_dedes.trCO.Ode9C17.text
+trCO.Ode9C17.melody = tr.d063_en_UK_ware.trCO.Ode9C17.melody
+trCO.Ode9C17.text = tr.d063_en_UK_ware.trCO.Ode9C17.text
 
 trCO.Ode9C1Tr.ode = tr.d063_en_US_dedes.trCO.Ode9C1Tr.ode
 trCO.Ode9C1Tr.mode = tr.d063_en_US_dedes.trCO.Ode9C1Tr.mode
-trCO.Ode9C1Tr.melody = tr.d063_en_US_dedes.trCO.Ode9C1Tr.melody
-trCO.Ode9C1Tr.text = tr.d063_en_US_dedes.trCO.Ode9C1Tr.text
+trCO.Ode9C1Tr.melody = tr.d063_en_UK_ware.trCO.Ode9C1Tr.melody
+trCO.Ode9C1Tr.text = tr.d063_en_UK_ware.trCO.Ode9C1Tr.text
 
 trCO.Ode9C1T.ode = tr.d063_en_US_dedes.trCO.Ode9C1T.ode
 trCO.Ode9C1T.mode = tr.d063_en_US_dedes.trCO.Ode9C1T.mode
-trCO.Ode9C1T.melody = tr.d063_en_US_dedes.trCO.Ode9C1T.melody
-trCO.Ode9C1T.text = tr.d063_en_US_dedes.trCO.Ode9C1T.text
+trCO.Ode9C1T.melody = tr.d063_en_UK_ware.trCO.Ode9C1T.melody
+trCO.Ode9C1T.text = tr.d063_en_UK_ware.trCO.Ode9C1T.text
 
 trMA.Kathisma11.mode = tr.d063_en_US_dedes.trMA.Kathisma11.mode
 trMA.Kathisma11.melody = tr.d063_en_US_dedes.trMA.Kathisma11.melody
