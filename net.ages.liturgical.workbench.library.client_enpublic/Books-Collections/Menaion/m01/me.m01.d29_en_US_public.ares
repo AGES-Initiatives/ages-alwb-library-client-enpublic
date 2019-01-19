@@ -122,12 +122,12 @@ meMA.Ode3Kathisma1.melody = me.m01.d29_en_US_andronache.meMA.Ode3Kathisma1.melod
 meMA.Ode3Kathisma1.text = me.m01.d29_en_US_andronache.meMA.Ode3Kathisma1.text
 
 meMA.Ode3KathismaT.mode = me.m01.d29_en_US_dedes.meMA.Ode3KathismaT.mode
-meMA.Ode3KathismaT.melody = me.m01.d29_en_US_andronache.meMA.Ode3KathismaT.melody
-meMA.Ode3KathismaT.text = me.m01.d29_en_US_andronache.meMA.Ode3KathismaT.text
+meMA.Ode3KathismaT.melody = me.m01.d29_en_US_dedes.meMA.Ode3KathismaT.melody
+meMA.Ode3KathismaT.text = me.m01.d29_en_US_dedes.meMA.Ode3KathismaT.text
 
 meMA.Ode3KathismaSt.mode = me.m01.d29_en_US_dedes.meMA.Ode3KathismaSt.mode
-meMA.Ode3KathismaSt.melody = me.m01.d29_en_US_andronache.meMA.Ode3KathismaSt.melody
-meMA.Ode3KathismaSt.text = me.m01.d29_en_US_andronache.meMA.Ode3KathismaSt.text
+meMA.Ode3KathismaSt.melody = me.m01.d29_en_US_dedes.meMA.Ode3KathismaSt.melody
+meMA.Ode3KathismaSt.text = me.m01.d29_en_US_dedes.meMA.Ode3KathismaSt.text
 
 meMA.Ode4C11.ode = me.m01.d29_en_US_dedes.meMA.Ode4C11.ode
 meMA.Ode4C11.mode = me.m01.d29_en_US_dedes.meMA.Ode4C11.mode

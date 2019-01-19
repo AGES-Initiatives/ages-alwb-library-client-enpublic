@@ -871,6 +871,12 @@ psMA.prophet.prokeimenon.v1.text = liturgical.verses_en_US_saas.psMA.prophet.pro
 psMA.prophet.prokeimenon.v2.info = liturgical.verses_en_US_saas.psMA.prophet.prokeimenon.v2.info
 psMA.prophet.prokeimenon.v2.text = liturgical.verses_en_US_saas.psMA.prophet.prokeimenon.v2.text
 
+psMA.righteous.prokeimenon.title = liturgical.verses_en_US_saas.psMA.righteous.prokeimenon.title
+psMA.righteous.prokeimenon.v1.info = liturgical.verses_en_US_saas.psMA.righteous.prokeimenon.v1.info
+psMA.righteous.prokeimenon.v1.text = liturgical.verses_en_US_saas.psMA.righteous.prokeimenon.v1.text
+psMA.righteous.prokeimenon.v2.info = liturgical.verses_en_US_saas.psMA.righteous.prokeimenon.v2.info
+psMA.righteous.prokeimenon.v2.text = liturgical.verses_en_US_saas.psMA.righteous.prokeimenon.v2.text
+
 psMA.saint1.prokeimenon.title = liturgical.verses_en_US_saas.psMA.saint1.prokeimenon.title
 psMA.saint1.prokeimenon.v1.info = liturgical.verses_en_US_saas.psMA.saint1.prokeimenon.v1.info
 psMA.saint1.prokeimenon.v1.text = liturgical.verses_en_US_saas.psMA.saint1.prokeimenon.v1.text
@@ -2530,12 +2536,6 @@ psHO.ecloge.stanna.v25.info = liturgical.verses_en_US_saas.psHO.ecloge.stanna.v2
 psHO.ecloge.stanna.v25.text = liturgical.verses_en_US_saas.psHO.ecloge.stanna.v25.text
 psHO.ecloge.stanna.v26.info = liturgical.verses_en_US_saas.psHO.ecloge.stanna.v26.info
 psHO.ecloge.stanna.v26.text = liturgical.verses_en_US_saas.psHO.ecloge.stanna.v26.text
-psHO.ecloge.stanna.v27.info = liturgical.verses_en_US_saas.psHO.ecloge.stanna.v27.info
-psHO.ecloge.stanna.v27.text = liturgical.verses_en_US_saas.psHO.ecloge.stanna.v27.text
-psHO.ecloge.stanna.v28.info = liturgical.verses_en_US_saas.psHO.ecloge.stanna.v28.info
-psHO.ecloge.stanna.v28.text = liturgical.verses_en_US_saas.psHO.ecloge.stanna.v28.text
-psHO.ecloge.stanna.v29.info = liturgical.verses_en_US_saas.psHO.ecloge.stanna.v29.info
-psHO.ecloge.stanna.v29.text = liturgical.verses_en_US_saas.psHO.ecloge.stanna.v29.text
 
 psHO.ecloge.theotokos.info = liturgical.verses_en_US_saas.psHO.ecloge.theotokos.info
 psHO.ecloge.theotokos.intro.text = liturgical.verses_en_US_saas.psHO.ecloge.theotokos.intro.text
