@@ -129,10 +129,10 @@ trMA.Ode8C23.mode = tr.d019_en_US_dedes.trMA.Ode8C23.mode
 trMA.Ode8C23.melody = tr.d019_en_UK_ware.trMA.Ode8C23.melody
 trMA.Ode8C23.text = tr.d019_en_UK_ware.trMA.Ode8C23.text
 
-trMA.Ode8C2Tr.ode = tr.d019_en_US_dedes.trMA.Ode8C2Tr.ode
-trMA.Ode8C2Tr.mode = tr.d019_en_US_dedes.trMA.Ode8C2Tr.mode
-trMA.Ode8C2Tr.melody = tr.d019_en_UK_ware.trMA.Ode8C2Tr.melody
-trMA.Ode8C2Tr.text = tr.d019_en_UK_ware.trMA.Ode8C2Tr.text
+trMA.Ode8C24.ode = tr.d019_en_US_dedes.trMA.Ode8C24.ode
+trMA.Ode8C24.mode = tr.d019_en_US_dedes.trMA.Ode8C24.mode
+trMA.Ode8C24.melody = tr.d019_en_UK_ware.trMA.Ode8C24.melody
+trMA.Ode8C24.text = tr.d019_en_UK_ware.trMA.Ode8C24.text
 
 trMA.Ode8C2T.ode = tr.d019_en_US_dedes.trMA.Ode8C2T.ode
 trMA.Ode8C2T.mode = tr.d019_en_US_dedes.trMA.Ode8C2T.mode

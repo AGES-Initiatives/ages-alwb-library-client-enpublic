@@ -482,8 +482,8 @@ ocMA.Aposticha2.melody = oc.m3.d2_en_US_dedes.ocMA.Aposticha2.melody
 ocMA.Aposticha2.text = oc.m3.d2_en_US_dedes.ocMA.Aposticha2.text
 
 ocMA.Aposticha3.mode = oc.m3.d2_en_US_dedes.ocMA.Aposticha3.mode
-ocMA.Aposticha3.melody = oc.m3.d2_en_UK_lash.ocMA.Aposticha3.melody
-ocMA.Aposticha3.text = oc.m3.d2_en_UK_lash.ocMA.Aposticha3.text
+ocMA.Aposticha3.melody = oc.m3.d2_en_US_dedes.ocMA.Aposticha3.melody
+ocMA.Aposticha3.text = oc.m3.d2_en_US_dedes.ocMA.Aposticha3.text
 
 ocMA.AposTheotokion.mode = oc.m3.d2_en_US_dedes.ocMA.AposTheotokion.mode
 ocMA.AposTheotokion.melody = oc.m3.d2_en_UK_lash.ocMA.AposTheotokion.melody
