@@ -539,8 +539,8 @@ octrMA.Kathisma12.melody = oc.m5.d4_en_US_dedes.octrMA.Kathisma12.melody
 octrMA.Kathisma12.text = oc.m5.d4_en_US_dedes.octrMA.Kathisma12.text
 
 octrMA.Kathisma1T.mode = oc.m5.d4_en_US_dedes.octrMA.Kathisma1T.mode
-octrMA.Kathisma1T.melody = oc.m5.d4_en_US_dedes.octrMA.Kathisma1T.melody 
-octrMA.Kathisma1T.text = oc.m5.d4_en_US_dedes.octrMA.Kathisma1T.text
+octrMA.Kathisma1T.melody = oc.m5.d4_en_US_oca.octrMA.Kathisma1T.melody 
+octrMA.Kathisma1T.text = oc.m5.d4_en_US_oca.octrMA.Kathisma1T.text
 
 octrMA.Ode7Martyricon.mode = oc.m5.d4_en_US_dedes.octrMA.Ode7Martyricon.mode
 octrMA.Ode7Martyricon.melody = oc.m5.d4_en_US_dedes.octrMA.Ode7Martyricon.melody 
