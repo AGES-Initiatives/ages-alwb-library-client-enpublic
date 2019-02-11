@@ -616,7 +616,7 @@ meMA.Lauds3.text = me.m09.d08_en_US_dedes.meMA.Lauds3.text
 
 meMA.LaudsGlory.mode = me.m09.d08_en_US_dedes.meMA.LaudsGlory.mode
 meMA.LaudsGlory.melody = me.m09.d08_en_US_dedes.meMA.LaudsGlory.melody
-meMA.LaudsGlory.text = me.m09.d08_en_US_dedes.meMA.LaudsGlory.text
+meMA.LaudsGlory.text = me.m09.d08_en_US_duvall.meMA.LaudsGlory.text
 
 meMA.MM.Lauds1123as5678.text = me.m09.d08_en_US_dedes.meMA.MM.Lauds1123as5678.text
 
@@ -625,8 +625,8 @@ meLI.Antiphon2.text = me.m09.d08_en_US_dedes.meLI.Antiphon2.text
 meLI.MM.EntranceHymn.text = properties_en_US_public.media.key
 
 meLI.Kontakion1.mode = me.m09.d08_en_US_dedes.meLI.Kontakion1.mode
-meLI.Kontakion1.melody = me.m09.d08_en_US_dedes.meLI.Kontakion1.melody
-meLI.Kontakion1.text = me.m09.d08_en_US_dedes.meLI.Kontakion1.text
+meLI.Kontakion1.melody = me.m09.d08_en_US_duvall.meLI.Kontakion1.melody
+meLI.Kontakion1.text = me.m09.d08_en_US_duvall.meLI.Kontakion1.text
 
 meLI.TheotokosHymn.mode = me.m09.d08_en_US_dedes.meLI.TheotokosHymn.mode
 meLI.TheotokosHymn.text = me.m09.d08_en_US_dedes.meLI.TheotokosHymn.text
