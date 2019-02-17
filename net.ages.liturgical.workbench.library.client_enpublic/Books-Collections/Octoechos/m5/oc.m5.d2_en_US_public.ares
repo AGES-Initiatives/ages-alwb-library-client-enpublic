@@ -442,19 +442,19 @@ ocMA.OdeW9C2T.text = oc.m5.d2_en_US_dedes.ocMA.OdeW9C2T.text
 
 ocMA.Aposticha1.mode = oc.m5.d2_en_US_dedes.ocMA.Aposticha1.mode
 ocMA.Aposticha1.melody = oc.m5.d2_en_US_dedes.ocMA.Aposticha1.melody
-ocMA.Aposticha1.text = oc.m5.d2_en_UK_lash.ocMA.Aposticha1.text
+ocMA.Aposticha1.text = oc.m5.d2_en_US_dedes.ocMA.Aposticha1.text
 
 ocMA.Aposticha2.mode = oc.m5.d2_en_US_dedes.ocMA.Aposticha2.mode
 ocMA.Aposticha2.melody = oc.m5.d2_en_US_dedes.ocMA.Aposticha2.melody
-ocMA.Aposticha2.text = oc.m5.d2_en_UK_lash.ocMA.Aposticha2.text
+ocMA.Aposticha2.text = oc.m5.d2_en_US_dedes.ocMA.Aposticha2.text
 
 ocMA.Aposticha3.mode = oc.m5.d2_en_US_dedes.ocMA.Aposticha3.mode
 ocMA.Aposticha3.melody = oc.m5.d2_en_US_dedes.ocMA.Aposticha3.melody
-ocMA.Aposticha3.text = oc.m5.d2_en_US_dedes.ocMA.Aposticha3.text
+ocMA.Aposticha3.text = oc.m5.d2_en_UK_lash.ocMA.Aposticha3.text
 
 ocMA.AposTheotokion.mode = oc.m5.d2_en_US_dedes.ocMA.AposTheotokion.mode
-ocMA.AposTheotokion.melody = oc.m5.d2_en_US_dedes.ocMA.AposTheotokion.melody
-ocMA.AposTheotokion.text = oc.m5.d2_en_US_dedes.ocMA.AposTheotokion.text
+ocMA.AposTheotokion.melody = oc.m5.d2_en_UK_lash.ocMA.AposTheotokion.melody
+ocMA.AposTheotokion.text = oc.m5.d2_en_UK_lash.ocMA.AposTheotokion.text
 
 ocMA.ApolTheotokion.mode = oc.m5.d2_en_US_dedes.ocMA.ApolTheotokion.mode
 ocMA.ApolTheotokion.melody = oc.m5.d2_en_US_dedes.ocMA.ApolTheotokion.melody
