@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.mc.d188_en_US_public
 
 lemcLI.Gospel.title = le.go.mc.d188_en_US_rsv.lemcLI.Gospel.title 
 lemcLI.Gospel.version = le.go.mc.d188_en_US_rsv.lemcLI.Gospel.version 
-lemcLI.Gospel.book = le.go.mc.d188_en_US_rsv.lemcLI.Gospel.book 
+lemcLI.Gospel.book_string = le.go.mc.d188_en_US_rsv.lemcLI.Gospel.book_string
+lemcLI.Gospel.book_abbr = le.go.mc.d188_en_US_rsv.lemcLI.Gospel.book_abbr
 lemcLI.Gospel.chapverse = le.go.mc.d188_en_US_rsv.lemcLI.Gospel.chapverse 
 lemcLI.Gospel.text = le.go.mc.d188_en_US_rsv.lemcLI.Gospel.text 
 lemcLI.Gospel.pagenumber = le.go.mc.d188_en_US_rsv.lemcLI.Gospel.pagenumber 

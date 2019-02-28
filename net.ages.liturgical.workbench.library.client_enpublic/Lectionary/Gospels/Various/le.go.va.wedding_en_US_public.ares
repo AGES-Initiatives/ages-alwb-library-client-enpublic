@@ -2,6 +2,7 @@ A_Resource_Whose_Name = le.go.va.wedding_en_US_public
 
 levaWED.Gospel.title = le.go.va.wedding_en_US_rsv.levaWED.Gospel.title 
 levaWED.Gospel.version = le.go.va.wedding_en_US_rsv.levaWED.Gospel.version 
-levaWED.Gospel.book = le.go.va.wedding_en_US_rsv.levaWED.Gospel.book 
+levaWED.Gospel.book_string = le.go.va.wedding_en_US_rsv.levaWED.Gospel.book_string
+levaWED.Gospel.book_abbr = le.go.va.wedding_en_US_rsv.levaWED.Gospel.book_abbr
 levaWED.Gospel.chapverse = le.go.va.wedding_en_US_rsv.levaWED.Gospel.chapverse 
 levaWED.Gospel.text = le.go.va.wedding_en_US_rsv.levaWED.Gospel.text 

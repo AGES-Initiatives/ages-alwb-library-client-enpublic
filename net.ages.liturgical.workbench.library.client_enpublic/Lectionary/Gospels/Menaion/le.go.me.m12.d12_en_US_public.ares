@@ -2,13 +2,15 @@ A_Resource_Whose_Name = le.go.me.m12.d12_en_US_public
 
 lemeMA.Gospel.title = le.go.me.m12.d12_en_US_rsv.lemeMA.Gospel.title 
 lemeMA.Gospel.version = le.go.me.m12.d12_en_US_rsv.lemeMA.Gospel.version 
-lemeMA.Gospel.book = le.go.me.m12.d12_en_US_rsv.lemeMA.Gospel.book 
+lemeMA.Gospel.book_string = le.go.me.m12.d12_en_US_rsv.lemeMA.Gospel.book_string
+lemeMA.Gospel.book_abbr = le.go.me.m12.d12_en_US_rsv.lemeMA.Gospel.book_abbr
 lemeMA.Gospel.chapverse = le.go.me.m12.d12_en_US_rsv.lemeMA.Gospel.chapverse 
 lemeMA.Gospel.text = le.go.me.m12.d12_en_US_rsv.lemeMA.Gospel.text 
 
 lemeLI.Gospel.title = le.go.me.m12.d12_en_US_rsv.lemeLI.Gospel.title 
 lemeLI.Gospel.version = le.go.me.m12.d12_en_US_rsv.lemeLI.Gospel.version 
-lemeLI.Gospel.book = le.go.me.m12.d12_en_US_rsv.lemeLI.Gospel.book 
+lemeLI.Gospel.book_string = le.go.me.m12.d12_en_US_rsv.lemeLI.Gospel.book_string
+lemeLI.Gospel.book_abbr = le.go.me.m12.d12_en_US_rsv.lemeLI.Gospel.book_abbr
 lemeLI.Gospel.chapverse = le.go.me.m12.d12_en_US_rsv.lemeLI.Gospel.chapverse 
 lemeLI.Gospel.text = le.go.me.m12.d12_en_US_rsv.lemeLI.Gospel.text 
 lemeLI.Gospel.pagenumber = le.go.me.m12.d12_en_US_rsv.lemeLI.Gospel.pagenumber 

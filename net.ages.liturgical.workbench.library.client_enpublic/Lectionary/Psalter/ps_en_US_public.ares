@@ -5758,7 +5758,7 @@ bode.version = ps_en_US_saas.bode.version
 
 bode1.title = ps_en_US_saas.bode1.title
 bode1.version = ps_en_US_saas.bode1.version
-bode1.book = ps_en_US_saas.bode1.book
+bode1.book_abbr = ps_en_US_saas.bode1.book_abbr
 bode1.heading1 = ps_en_US_saas.bode1.heading1
 bode1.chapverse = ps_en_US_saas.bode1.chapverse
 bode1.heading2 = ps_en_US_saas.bode1.heading2
@@ -5806,7 +5806,7 @@ bode1.v20.text = ps_en_US_saas.bode1.v20.text
 
 bode2.title = ps_en_US_saas.bode2.title
 bode2.version = ps_en_US_saas.bode2.version
-bode2.book = ps_en_US_saas.bode2.book
+bode2.book_abbr = ps_en_US_saas.bode2.book_abbr
 bode2.heading1 = ps_en_US_saas.bode2.heading1
 bode2.chapverse = ps_en_US_saas.bode2.chapverse
 bode2.heading2 = ps_en_US_saas.bode2.heading2
@@ -5912,7 +5912,7 @@ bode2.v49.text = ps_en_US_saas.bode2.v49.text
 
 bode3.title = ps_en_US_saas.bode3.title
 bode3.version = ps_en_US_saas.bode3.version
-bode3.book = ps_en_US_saas.bode3.book
+bode3.book_abbr = ps_en_US_saas.bode3.book_abbr
 bode3.heading1 = ps_en_US_saas.bode3.heading1
 bode3.chapverse = ps_en_US_saas.bode3.chapverse
 bode3.heading2 = ps_en_US_saas.bode3.heading2
@@ -5950,7 +5950,7 @@ bode3.v15.text = ps_en_US_saas.bode3.v15.text
 
 bode4.title = ps_en_US_saas.bode4.title
 bode4.version = ps_en_US_saas.bode4.version
-bode4.book = ps_en_US_saas.bode4.book
+bode4.book_abbr = ps_en_US_saas.bode4.book_abbr
 bode4.heading1 = ps_en_US_saas.bode4.heading1
 bode4.chapverse = ps_en_US_saas.bode4.chapverse
 bode4.heading2 = ps_en_US_saas.bode4.heading2
@@ -6008,7 +6008,7 @@ bode4.v25.text = ps_en_US_saas.bode4.v25.text
 
 bode5.title = ps_en_US_saas.bode5.title
 bode5.version = ps_en_US_saas.bode5.version
-bode5.book = ps_en_US_saas.bode5.book
+bode5.book_abbr = ps_en_US_saas.bode5.book_abbr
 bode5.heading1 = ps_en_US_saas.bode5.heading1
 bode5.chapverse = ps_en_US_saas.bode5.chapverse
 bode5.heading2 = ps_en_US_saas.bode5.heading2
@@ -6048,7 +6048,7 @@ bode5.v16.text = ps_en_US_saas.bode5.v16.text
 
 bode6.title = ps_en_US_saas.bode6.title
 bode6.version = ps_en_US_saas.bode6.version
-bode6.book = ps_en_US_saas.bode6.book
+bode6.book_abbr = ps_en_US_saas.bode6.book_abbr
 bode6.heading1 = ps_en_US_saas.bode6.heading1
 bode6.chapverse = ps_en_US_saas.bode6.chapverse
 bode6.heading2 = ps_en_US_saas.bode6.heading2
@@ -6074,7 +6074,7 @@ bode6.v9.text = ps_en_US_saas.bode6.v9.text
 
 bode7.title = ps_en_US_saas.bode7.title
 bode7.version = ps_en_US_saas.bode7.version
-bode7.book = ps_en_US_saas.bode7.book
+bode7.book_abbr = ps_en_US_saas.bode7.book_abbr
 bode7.heading1 = ps_en_US_saas.bode7.heading1
 bode7.chapverse = ps_en_US_saas.bode7.chapverse
 bode7.heading2 = ps_en_US_saas.bode7.heading2
@@ -6138,7 +6138,7 @@ bode7.v28.text = ps_en_US_saas.bode7.v28.text
 
 bode8.title = ps_en_US_saas.bode8.title
 bode8.version = ps_en_US_saas.bode8.version
-bode8.book = ps_en_US_saas.bode8.book
+bode8.book_abbr = ps_en_US_saas.bode8.book_abbr
 bode8.heading1 = ps_en_US_saas.bode8.heading1
 bode8.chapverse = ps_en_US_saas.bode8.chapverse
 bode8.heading2 = ps_en_US_saas.bode8.heading2
@@ -6187,7 +6187,7 @@ bode8.v19.text = ps_en_US_saas.bode8.v19.text
 
 bode9.title = ps_en_US_rsv.bode9.title
 bode9.version = ps_en_US_rsv.bode9.version
-bode9_mag.book = ps_en_US_rsv.bode9_mag.book
+bode9_mag.book_abbr = ps_en_US_rsv.bode9_mag.book_abbr
 bode9_mag.heading1 = ps_en_US_rsv.bode9_mag.heading1
 bode9_mag.chapverse = ps_en_US_rsv.bode9_mag.chapverse
 bode9_mag.heading2 = ps_en_US_rsv.bode9_mag.heading2
@@ -6204,7 +6204,7 @@ bode9_mag.v5.number = ps_en_US_rsv.bode9_mag.v5.number
 bode9_mag.v5.text = ps_en_US_rsv.bode9_mag.v5.text
 bode9_mag.v6.number = ps_en_US_rsv.bode9_mag.v6.number
 bode9_mag.v6.text = ps_en_US_rsv.bode9_mag.v6.text
-bode9.book = ps_en_US_rsv.bode9.book
+bode9.book_abbr = ps_en_US_rsv.bode9.book_abbr
 bode9.heading1 = ps_en_US_rsv.bode9.heading1
 bode9.chapverse = ps_en_US_rsv.bode9.chapverse
 bode9.heading2 = ps_en_US_rsv.bode9.heading2

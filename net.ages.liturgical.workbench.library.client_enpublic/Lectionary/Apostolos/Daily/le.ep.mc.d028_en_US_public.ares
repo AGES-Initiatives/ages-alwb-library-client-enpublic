@@ -2,13 +2,14 @@ A_Resource_Whose_Name = le.ep.mc.d028_en_US_public
 
 lemcLI.Epistle.title = le.ep.mc.d028_en_US_rsv.lemcLI.Epistle.title 
 lemcLI.Epistle.version = le.ep.mc.d028_en_US_rsv.lemcLI.Epistle.version 
-lemcLI.Epistle.book = le.ep.mc.d028_en_US_rsv.lemcLI.Epistle.book 
+lemcLI.Epistle.book_string = le.ep.mc.d028_en_US_rsv.lemcLI.Epistle.book_string
+lemcLI.Epistle.book_abbr = le.ep.mc.d028_en_US_rsv.lemcLI.Epistle.book_abbr
 lemcLI.Epistle.chapverse = le.ep.mc.d028_en_US_rsv.lemcLI.Epistle.chapverse 
 lemcLI.Epistle.text = le.ep.mc.d028_en_US_rsv.lemcLI.Epistle.text 
 lemcLI.Epistle.pagenumber = le.ep.mc.d028_en_US_rsv.lemcLI.Epistle.pagenumber 
 
 // Ἕτερος τοῦ Ἁγίου Θεοδώρου Τύρωνος. ζήτει 26ης Ὀκτωβρίου
-// bible_en_US_public.Timothy2
-// "(2:1-10)"
+// bible_en_US_public.Timothy2.text
+// "2:1-10"
 // "Τέκνον Τιμόθεε, ἐνδυναμοῦ ἐν τῇ χάριτι τῇ ἐν Χριστῷ ᾿Ιησοῦ, καὶ ἃ ἤκουσας παρ᾿ ἐμοῦ διὰ πολλῶν μαρτύρων, ταῦτα παράθου πιστοῖς ἀνθρώποις, οἵτινες ἱκανοὶ ἔσονται καὶ ἑτέρους διδάξαι. Σὺ οὖν κακοπάθησον ὡς καλὸς στρατιώτης ᾿Ιησοῦ Χριστοῦ. Οὐδεὶς στρατευόμενος ἐμπλέκεται ταῖς τοῦ βίου πραγματείαις, ἵνα τῷ στρατολογήσαντι ἀρέσῃ. Ἐὰν δὲ καὶ ἀθλῇ τις, οὐ στεφανοῦται, ἐὰν μὴ νομίμως ἀθλήσῃ. Τὸν κοπιῶντα γεωργὸν δεῖ πρῶτον τῶν καρπῶν μεταλαμβάνειν. Νόει ὃ λέγω· δῴη γάρ σοι ὁ Κύριος σύνεσιν ἐν πᾶσι. Μνημόνευε ᾿Ιησοῦν Χριστὸν ἐγηγερμένον ἐκ νεκρῶν, ἐκ σπέρματος Δαυΐδ, κατὰ τὸ εὐαγγέλιόν μου, ἐν ᾧ κακοπαθῶ μέχρι δεσμῶν ὡς κακοῦργος· ἀλλ᾿ ὁ λόγος τοῦ Θεοῦ οὐ δέδεται. Διὰ τοῦτο πάντα ὑπομένω διὰ τοὺς ἐκλεκτούς, ἵνα καὶ αὐτοὶ σωτηρίας τύχωσι τῆς ἐν Χριστῷ ᾿Ιησοῦ μετὰ δόξης αἰωνίου."
 

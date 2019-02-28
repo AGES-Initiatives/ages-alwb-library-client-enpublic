@@ -2,115 +2,122 @@ A_Resource_Whose_Name = le.go.mc.d069_en_US_public
 
 lemcVE.Gospel.title = le.go.mc.d069_en_US_rsv.lemcVE.Gospel.title 
 lemcVE.Gospel.version = le.go.mc.d069_en_US_rsv.lemcVE.Gospel.version 
-lemcVE.Gospel.book = le.go.mc.d069_en_US_rsv.lemcVE.Gospel.book 
+lemcVE.Gospel.book_string = le.go.mc.d069_en_US_rsv.lemcVE.Gospel.book_string
+lemcVE.Gospel.book_abbr = le.go.mc.d069_en_US_rsv.lemcVE.Gospel.book_abbr
 lemcVE.Gospel.chapverse = le.go.mc.d069_en_US_rsv.lemcVE.Gospel.chapverse 
 lemcVE.Gospel.text = le.go.mc.d069_en_US_rsv.lemcVE.Gospel.text 
 
 lemcHW.NiptirGospel1.title = le.go.mc.d069_en_US_rsv.lemcHW.NiptirGospel1.title
 lemcHW.NiptirGospel1.version = le.go.mc.d069_en_US_rsv.lemcHW.NiptirGospel1.version
-lemcHW.NiptirGospel1.book = le.go.mc.d069_en_US_rsv.lemcHW.NiptirGospel1.book
+lemcHW.NiptirGospel1.book_string = le.go.mc.d069_en_US_rsv.lemcHW.NiptirGospel1.book_string
+lemcHW.NiptirGospel1.book_abbr = le.go.mc.d069_en_US_rsv.lemcHW.NiptirGospel1.book_abbr
 lemcHW.NiptirGospel1.chapverse = le.go.mc.d069_en_US_rsv.lemcHW.NiptirGospel1.chapverse
 lemcHW.NiptirGospel1.text = le.go.mc.d069_en_US_rsv.lemcHW.NiptirGospel1.text
 
 lemcHW.NiptirGospel2.title = le.go.mc.d069_en_US_rsv.lemcHW.NiptirGospel2.title
 lemcHW.NiptirGospel2.version = le.go.mc.d069_en_US_rsv.lemcHW.NiptirGospel2.version
-lemcHW.NiptirGospel2.book = le.go.mc.d069_en_US_rsv.lemcHW.NiptirGospel2.book
+lemcHW.NiptirGospel2.book_string = le.go.mc.d069_en_US_rsv.lemcHW.NiptirGospel2.book_string
+lemcHW.NiptirGospel2.book_abbr = le.go.mc.d069_en_US_rsv.lemcHW.NiptirGospel2.book_abbr
 lemcHW.NiptirGospel2.chapverse = le.go.mc.d069_en_US_rsv.lemcHW.NiptirGospel2.chapverse
 lemcHW.NiptirGospel2.text = le.go.mc.d069_en_US_rsv.lemcHW.NiptirGospel2.text
 
 lemcHW.PassionGospel01.title = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel01.title
 lemcHW.PassionGospel01.version = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel01.version
-lemcHW.PassionGospel01.book = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel01.book
+lemcHW.PassionGospel01.book_string = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel01.book_string
 lemcHW.PassionGospel01.chapverse = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel01.chapverse
 lemcHW.PassionGospel01.text = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel01.text
 
 lemcHW.PassionGospel02.title = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel02.title
 lemcHW.PassionGospel02.version = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel02.version
-lemcHW.PassionGospel02.book = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel02.book
+lemcHW.PassionGospel02.book_string = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel02.book_string
 lemcHW.PassionGospel02.chapverse = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel02.chapverse
 lemcHW.PassionGospel02.text = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel02.text
 
 lemcHW.PassionGospel03.title = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel03.title
 lemcHW.PassionGospel03.version = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel03.version
-lemcHW.PassionGospel03.book = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel03.book
+lemcHW.PassionGospel03.book_string = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel03.book_string
 lemcHW.PassionGospel03.chapverse = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel03.chapverse
 lemcHW.PassionGospel03.text = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel03.text
 
 lemcHW.PassionGospel04.title = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel04.title
 lemcHW.PassionGospel04.version = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel04.version
-lemcHW.PassionGospel04.book = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel04.book
+lemcHW.PassionGospel04.book_string = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel04.book_string
 lemcHW.PassionGospel04.chapverse = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel04.chapverse
 lemcHW.PassionGospel04.text = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel04.text
 
 lemcHW.PassionGospel05.title = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel05.title
 lemcHW.PassionGospel05.version = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel05.version
-lemcHW.PassionGospel05.book = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel05.book
+lemcHW.PassionGospel05.book_string = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel05.book_string
 lemcHW.PassionGospel05.chapverse = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel05.chapverse
 lemcHW.PassionGospel05.text = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel05.text
 
 lemcHW.PassionGospel06.title = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel06.title
 lemcHW.PassionGospel06.version = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel06.version
-lemcHW.PassionGospel06.book = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel06.book
+lemcHW.PassionGospel06.book_string = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel06.book_string
 lemcHW.PassionGospel06.chapverse = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel06.chapverse
 lemcHW.PassionGospel06.text = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel06.text
 
 lemcHW.PassionGospel07.title = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel07.title
 lemcHW.PassionGospel07.version = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel07.version
-lemcHW.PassionGospel07.book = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel07.book
+lemcHW.PassionGospel07.book_string = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel07.book_string
 lemcHW.PassionGospel07.chapverse = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel07.chapverse
 lemcHW.PassionGospel07.text = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel07.text
 
 lemcHW.PassionGospel08.title = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel08.title
 lemcHW.PassionGospel08.version = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel08.version
-lemcHW.PassionGospel08.book = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel08.book
+lemcHW.PassionGospel08.book_string = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel08.book_string
 lemcHW.PassionGospel08.chapverse = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel08.chapverse
 lemcHW.PassionGospel08.text = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel08.text
 
 lemcHW.PassionGospel09.title = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel09.title
 lemcHW.PassionGospel09.version = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel09.version
-lemcHW.PassionGospel09.book = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel09.book
+lemcHW.PassionGospel09.book_string = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel09.book_string
 lemcHW.PassionGospel09.chapverse = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel09.chapverse
 lemcHW.PassionGospel09.text = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel09.text
 
 lemcHW.PassionGospel10.title = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel10.title
 lemcHW.PassionGospel10.version = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel10.version
-lemcHW.PassionGospel10.book = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel10.book
+lemcHW.PassionGospel10.book_string = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel10.book_string
 lemcHW.PassionGospel10.chapverse = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel10.chapverse
 lemcHW.PassionGospel10.text = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel10.text
 
 lemcHW.PassionGospel11.title = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel11.title
 lemcHW.PassionGospel11.version = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel11.version
-lemcHW.PassionGospel11.book = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel11.book
+lemcHW.PassionGospel11.book_string = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel11.book_string
 lemcHW.PassionGospel11.chapverse = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel11.chapverse
 lemcHW.PassionGospel11.text = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel11.text
 
 lemcHW.PassionGospel12.title = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel12.title
 lemcHW.PassionGospel12.version = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel12.version
-lemcHW.PassionGospel12.book = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel12.book
+lemcHW.PassionGospel12.book_string = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel12.book_string
 lemcHW.PassionGospel12.chapverse = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel12.chapverse
 lemcHW.PassionGospel12.text = le.go.mc.d069_en_US_rsv.lemcHW.PassionGospel12.text
 
 lemcH1.Gospel.title = le.go.mc.d069_en_US_rsv.lemcH1.Gospel.title
 lemcH1.Gospel.version = le.go.mc.d069_en_US_rsv.lemcH1.Gospel.version
-lemcH1.Gospel.book = le.go.mc.d069_en_US_rsv.lemcH1.Gospel.book
+lemcH1.Gospel.book_string = le.go.mc.d069_en_US_rsv.lemcH1.Gospel.book_string
+lemcH1.Gospel.book_abbr = le.go.mc.d069_en_US_rsv.lemcH1.Gospel.book_abbr
 lemcH1.Gospel.chapverse = le.go.mc.d069_en_US_rsv.lemcH1.Gospel.chapverse
 lemcH1.Gospel.text = le.go.mc.d069_en_US_rsv.lemcH1.Gospel.text
 
 lemcH3.Gospel.title = le.go.mc.d069_en_US_rsv.lemcH3.Gospel.title
 lemcH3.Gospel.version = le.go.mc.d069_en_US_rsv.lemcH3.Gospel.version
-lemcH3.Gospel.book = le.go.mc.d069_en_US_rsv.lemcH3.Gospel.book
+lemcH3.Gospel.book_string = le.go.mc.d069_en_US_rsv.lemcH3.Gospel.book_string
+lemcH3.Gospel.book_abbr = le.go.mc.d069_en_US_rsv.lemcH3.Gospel.book_abbr
 lemcH3.Gospel.chapverse = le.go.mc.d069_en_US_rsv.lemcH3.Gospel.chapverse
 lemcH3.Gospel.text = le.go.mc.d069_en_US_rsv.lemcH3.Gospel.text
 
 lemcH6.Gospel.title = le.go.mc.d069_en_US_rsv.lemcH6.Gospel.title
 lemcH6.Gospel.version = le.go.mc.d069_en_US_rsv.lemcH6.Gospel.version
-lemcH6.Gospel.book = le.go.mc.d069_en_US_rsv.lemcH6.Gospel.book
+lemcH6.Gospel.book_string = le.go.mc.d069_en_US_rsv.lemcH6.Gospel.book_string
+lemcH6.Gospel.book_abbr = le.go.mc.d069_en_US_rsv.lemcH6.Gospel.book_abbr
 lemcH6.Gospel.chapverse = le.go.mc.d069_en_US_rsv.lemcH6.Gospel.chapverse
 lemcH6.Gospel.text = le.go.mc.d069_en_US_rsv.lemcH6.Gospel.text
 
 lemcH9.Gospel.title = le.go.mc.d069_en_US_rsv.lemcH9.Gospel.title
 lemcH9.Gospel.version = le.go.mc.d069_en_US_rsv.lemcH9.Gospel.version
-lemcH9.Gospel.book = le.go.mc.d069_en_US_rsv.lemcH9.Gospel.book
+lemcH9.Gospel.book_string = le.go.mc.d069_en_US_rsv.lemcH9.Gospel.book_string
+lemcH9.Gospel.book_abbr = le.go.mc.d069_en_US_rsv.lemcH9.Gospel.book_abbr
 lemcH9.Gospel.chapverse = le.go.mc.d069_en_US_rsv.lemcH9.Gospel.chapverse
 lemcH9.Gospel.text = le.go.mc.d069_en_US_rsv.lemcH9.Gospel.text
 

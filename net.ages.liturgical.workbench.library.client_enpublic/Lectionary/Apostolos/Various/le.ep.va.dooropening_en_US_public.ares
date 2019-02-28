@@ -2,6 +2,7 @@ A_Resource_Whose_Name = le.ep.va.dooropening_en_US_public
 
 levaCDO.Epistle.title = le.ep.va.dooropening_en_US_rsv.levaCDO.Epistle.title
 levaCDO.Epistle.version = le.ep.va.dooropening_en_US_rsv.levaCDO.Epistle.version
-levaCDO.Epistle.book = le.ep.va.dooropening_en_US_rsv.levaCDO.Epistle.book
+levaCDO.Epistle.book_string = le.ep.va.dooropening_en_US_rsv.levaCDO.Epistle.book_string
+levaCDO.Epistle.book_abbr = le.ep.va.dooropening_en_US_rsv.levaCDO.Epistle.book_abbr
 levaCDO.Epistle.chapverse = le.ep.va.dooropening_en_US_rsv.levaCDO.Epistle.chapverse
 levaCDO.Epistle.text = le.ep.va.dooropening_en_US_rsv.levaCDO.Epistle.text

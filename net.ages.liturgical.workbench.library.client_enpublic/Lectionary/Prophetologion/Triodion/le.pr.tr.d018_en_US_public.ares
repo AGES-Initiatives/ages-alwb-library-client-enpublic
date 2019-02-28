@@ -2,6 +2,7 @@ A_Resource_Whose_Name = le.pr.tr.d018_en_US_public
 
 lemcTE.reading1.title = le.pr.tr.d018_en_US_saas.lemcTE.reading1.title 
 lemcTE.reading1.version = le.pr.tr.d018_en_US_saas.lemcTE.reading1.version 
-lemcTE.reading1.book = le.pr.tr.d018_en_US_saas.lemcTE.reading1.book 
+lemcTE.reading1.book_string = le.pr.tr.d018_en_US_saas.lemcTE.reading1.book_string
+lemcTE.reading1.book_abbr = le.pr.tr.d018_en_US_saas.lemcTE.reading1.book_abbr
 lemcTE.reading1.chapverse = le.pr.tr.d018_en_US_saas.lemcTE.reading1.chapverse 
 lemcTE.reading1.text = le.pr.tr.d018_en_US_saas.lemcTE.reading1.text 

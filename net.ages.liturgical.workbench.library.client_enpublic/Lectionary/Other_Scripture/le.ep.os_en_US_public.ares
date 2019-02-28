@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.os_en_US_public
 
 leosLI.Jan06_CommunionHymn.title = le.ep.os_en_US_rsv.leosLI.Jan06_CommunionHymn.title
 leosLI.Jan06_CommunionHymn.version = le.ep.os_en_US_rsv.leosLI.Jan06_CommunionHymn.version
-leosLI.Jan06_CommunionHymn.book = le.ep.os_en_US_rsv.leosLI.Jan06_CommunionHymn.book
+leosLI.Jan06_CommunionHymn.book_string = le.ep.os_en_US_rsv.leosLI.Jan06_CommunionHymn.book_string
+leosLI.Jan06_CommunionHymn.book_abbr = le.ep.os_en_US_rsv.leosLI.Jan06_CommunionHymn.book_abbr
 leosLI.Jan06_CommunionHymn.chapverse = le.ep.os_en_US_rsv.leosLI.Jan06_CommunionHymn.chapverse
 leosLI.Jan06_CommunionHymn.text = le.ep.os_en_US_rsv.leosLI.Jan06_CommunionHymn.text
 

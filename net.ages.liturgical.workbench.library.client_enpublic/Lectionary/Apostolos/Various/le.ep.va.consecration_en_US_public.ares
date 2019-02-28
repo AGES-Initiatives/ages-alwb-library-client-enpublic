@@ -2,19 +2,20 @@ A_Resource_Whose_Name = le.ep.va.consecration_en_US_public
 
 levaCON.Epistle1.title = le.ep.va.consecration_en_US_rsv.levaCON.Epistle1.title 
 levaCON.Epistle1.version = le.ep.va.consecration_en_US_rsv.levaCON.Epistle1.version 
-levaCON.Epistle1.book = le.ep.va.consecration_en_US_rsv.levaCON.Epistle1.book 
+levaCON.Epistle1.book_string = le.ep.va.consecration_en_US_rsv.levaCON.Epistle1.book_string
 levaCON.Epistle1.chapverse = le.ep.va.consecration_en_US_rsv.levaCON.Epistle1.chapverse 
 levaCON.Epistle1.text = le.ep.va.consecration_en_US_rsv.levaCON.Epistle1.text 
 
 levaCON.Epistle2.title = le.ep.va.consecration_en_US_rsv.levaCON.Epistle2.title
 levaCON.Epistle2.version = le.ep.va.consecration_en_US_rsv.levaCON.Epistle2.version
-levaCON.Epistle2.book = le.ep.va.consecration_en_US_rsv.levaCON.Epistle2.book
+levaCON.Epistle2.book_string = le.ep.va.consecration_en_US_rsv.levaCON.Epistle2.book_string
 levaCON.Epistle2.chapverse = le.ep.va.consecration_en_US_rsv.levaCON.Epistle2.chapverse
 levaCON.Epistle2.text = le.ep.va.consecration_en_US_rsv.levaCON.Epistle2.text
 
 levaLI.Epistle.title = le.ep.va.consecration_en_US_rsv.levaLI.Epistle.title
 levaLI.Epistle.version = le.ep.va.consecration_en_US_rsv.levaLI.Epistle.version
-levaLI.Epistle.book = le.ep.va.consecration_en_US_rsv.levaLI.Epistle.book
+levaLI.Epistle.book_string = le.ep.va.consecration_en_US_rsv.levaLI.Epistle.book_string
+levaLI.Epistle.book_abbr = le.ep.va.consecration_en_US_rsv.levaLI.Epistle.book_abbr
 levaLI.Epistle.chapverse = le.ep.va.consecration_en_US_rsv.levaLI.Epistle.chapverse
 levaLI.Epistle.text = le.ep.va.consecration_en_US_rsv.levaLI.Epistle.text
 

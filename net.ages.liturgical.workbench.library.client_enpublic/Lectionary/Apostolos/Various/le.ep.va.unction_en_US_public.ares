@@ -2,43 +2,51 @@ A_Resource_Whose_Name = le.ep.va.unction_en_US_public
 
 levaUNC.Epistle1.title = le.ep.va.unction_en_US_rsv.levaUNC.Epistle1.title 
 levaUNC.Epistle1.version = le.ep.va.unction_en_US_rsv.levaUNC.Epistle1.version 
-levaUNC.Epistle1.book = le.ep.va.unction_en_US_rsv.levaUNC.Epistle1.book 
+levaUNC.Epistle1.book_string = le.ep.va.unction_en_US_rsv.levaUNC.Epistle1.book_string
+levaUNC.Epistle1.book_abbr = le.ep.va.unction_en_US_rsv.levaUNC.Epistle1.book_abbr
+levaUNC.Epistle1.book_abbr = le.ep.va.unction_en_US_rsv.levaUNC.Epistle1.book_abbr
 levaUNC.Epistle1.chapverse = le.ep.va.unction_en_US_rsv.levaUNC.Epistle1.chapverse 
 levaUNC.Epistle1.text = le.ep.va.unction_en_US_rsv.levaUNC.Epistle1.text 
 
 levaUNC.Epistle2.title = le.ep.va.unction_en_US_rsv.levaUNC.Epistle2.title
 levaUNC.Epistle2.version = le.ep.va.unction_en_US_rsv.levaUNC.Epistle2.version
-levaUNC.Epistle2.book = le.ep.va.unction_en_US_rsv.levaUNC.Epistle2.book
+levaUNC.Epistle2.book_string = le.ep.va.unction_en_US_rsv.levaUNC.Epistle2.book_string
+levaUNC.Epistle2.book_abbr = le.ep.va.unction_en_US_rsv.levaUNC.Epistle2.book_abbr
 levaUNC.Epistle2.chapverse = le.ep.va.unction_en_US_rsv.levaUNC.Epistle2.chapverse
 levaUNC.Epistle2.text = le.ep.va.unction_en_US_rsv.levaUNC.Epistle2.text
 
 levaUNC.Epistle3.title = le.ep.va.unction_en_US_rsv.levaUNC.Epistle3.title
 levaUNC.Epistle3.version = le.ep.va.unction_en_US_rsv.levaUNC.Epistle3.version
-levaUNC.Epistle3.book = le.ep.va.unction_en_US_rsv.levaUNC.Epistle3.book
+levaUNC.Epistle3.book_string = le.ep.va.unction_en_US_rsv.levaUNC.Epistle3.book_string
+levaUNC.Epistle3.book_abbr = le.ep.va.unction_en_US_rsv.levaUNC.Epistle3.book_abbr
 levaUNC.Epistle3.chapverse = le.ep.va.unction_en_US_rsv.levaUNC.Epistle3.chapverse
 levaUNC.Epistle3.text = le.ep.va.unction_en_US_rsv.levaUNC.Epistle3.text
 
 levaUNC.Epistle4.title = le.ep.va.unction_en_US_rsv.levaUNC.Epistle4.title
 levaUNC.Epistle4.version = le.ep.va.unction_en_US_rsv.levaUNC.Epistle4.version
-levaUNC.Epistle4.book = le.ep.va.unction_en_US_rsv.levaUNC.Epistle4.book
+levaUNC.Epistle4.book_string = le.ep.va.unction_en_US_rsv.levaUNC.Epistle4.book_string
+levaUNC.Epistle4.book_abbr = le.ep.va.unction_en_US_rsv.levaUNC.Epistle4.book_abbr
 levaUNC.Epistle4.chapverse = le.ep.va.unction_en_US_rsv.levaUNC.Epistle4.chapverse
 levaUNC.Epistle4.text = le.ep.va.unction_en_US_rsv.levaUNC.Epistle4.text
 
 levaUNC.Epistle5.title = le.ep.va.unction_en_US_rsv.levaUNC.Epistle5.title
 levaUNC.Epistle5.version = le.ep.va.unction_en_US_rsv.levaUNC.Epistle5.version
-levaUNC.Epistle5.book = le.ep.va.unction_en_US_rsv.levaUNC.Epistle5.book
+levaUNC.Epistle5.book_string = le.ep.va.unction_en_US_rsv.levaUNC.Epistle5.book_string
+levaUNC.Epistle5.book_abbr = le.ep.va.unction_en_US_rsv.levaUNC.Epistle5.book_abbr
 levaUNC.Epistle5.chapverse = le.ep.va.unction_en_US_rsv.levaUNC.Epistle5.chapverse
 levaUNC.Epistle5.text = le.ep.va.unction_en_US_rsv.levaUNC.Epistle5.text
 
 levaUNC.Epistle6.title = le.ep.va.unction_en_US_rsv.levaUNC.Epistle6.title
 levaUNC.Epistle6.version = le.ep.va.unction_en_US_rsv.levaUNC.Epistle6.version
-levaUNC.Epistle6.book = le.ep.va.unction_en_US_rsv.levaUNC.Epistle6.book
+levaUNC.Epistle6.book_string = le.ep.va.unction_en_US_rsv.levaUNC.Epistle6.book_string
+levaUNC.Epistle6.book_abbr = le.ep.va.unction_en_US_rsv.levaUNC.Epistle6.book_abbr
 levaUNC.Epistle6.chapverse = le.ep.va.unction_en_US_rsv.levaUNC.Epistle6.chapverse
 levaUNC.Epistle6.text = le.ep.va.unction_en_US_rsv.levaUNC.Epistle6.text
 
 levaUNC.Epistle7.title = le.ep.va.unction_en_US_rsv.levaUNC.Epistle7.title
 levaUNC.Epistle7.version = le.ep.va.unction_en_US_rsv.levaUNC.Epistle7.version
-levaUNC.Epistle7.book = le.ep.va.unction_en_US_rsv.levaUNC.Epistle7.book
+levaUNC.Epistle7.book_string = le.ep.va.unction_en_US_rsv.levaUNC.Epistle7.book_string
+levaUNC.Epistle7.book_abbr = le.ep.va.unction_en_US_rsv.levaUNC.Epistle7.book_abbr
 levaUNC.Epistle7.chapverse = le.ep.va.unction_en_US_rsv.levaUNC.Epistle7.chapverse
 levaUNC.Epistle7.text = le.ep.va.unction_en_US_rsv.levaUNC.Epistle7.text
 

@@ -2,6 +2,7 @@ A_Resource_Whose_Name = le.go.eo.w05_en_US_public
 
 leeoMA.Gospel.title = le.go.eo.w05_en_US_rsv.leeoMA.Gospel.title 
 leeoMA.Gospel.version = le.go.eo.w05_en_US_rsv.leeoMA.Gospel.version 
-leeoMA.Gospel.book = le.go.eo.w05_en_US_rsv.leeoMA.Gospel.book 
+leeoMA.Gospel.book_string = le.go.eo.w05_en_US_rsv.leeoMA.Gospel.book_string
+leeoMA.Gospel.book_abbr = le.go.eo.w05_en_US_rsv.leeoMA.Gospel.book_abbr
 leeoMA.Gospel.chapverse = le.go.eo.w05_en_US_rsv.leeoMA.Gospel.chapverse 
 leeoMA.Gospel.text = le.go.eo.w05_en_US_rsv.leeoMA.Gospel.text 

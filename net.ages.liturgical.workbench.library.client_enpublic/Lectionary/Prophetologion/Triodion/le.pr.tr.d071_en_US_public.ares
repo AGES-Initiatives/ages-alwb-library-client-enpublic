@@ -2,91 +2,106 @@ A_Resource_Whose_Name = le.pr.tr.d071_en_US_public
 
 lemcVE.reading1.title = le.pr.tr.d071_en_US_saas.lemcVE.reading1.title 
 lemcVE.reading1.version = le.pr.tr.d071_en_US_saas.lemcVE.reading1.version 
-lemcVE.reading1.book = le.pr.tr.d071_en_US_saas.lemcVE.reading1.book 
+lemcVE.reading1.book_string = le.pr.tr.d071_en_US_saas.lemcVE.reading1.book_string
+lemcVE.reading1.book_abbr = le.pr.tr.d071_en_US_saas.lemcVE.reading1.book_abbr
 lemcVE.reading1.chapverse = le.pr.tr.d071_en_US_saas.lemcVE.reading1.chapverse 
 lemcVE.reading1.text = le.pr.tr.d071_en_US_saas.lemcVE.reading1.text 
 
 lemcVE.reading2.title = le.pr.tr.d071_en_US_saas.lemcVE.reading2.title
 lemcVE.reading2.version = le.pr.tr.d071_en_US_saas.lemcVE.reading2.version
-lemcVE.reading2.book = le.pr.tr.d071_en_US_saas.lemcVE.reading2.book
+lemcVE.reading2.book_string = le.pr.tr.d071_en_US_saas.lemcVE.reading2.book_string
+lemcVE.reading2.book_abbr = le.pr.tr.d071_en_US_saas.lemcVE.reading2.book_abbr
 lemcVE.reading2.chapverse = le.pr.tr.d071_en_US_saas.lemcVE.reading2.chapverse
 lemcVE.reading2.text = le.pr.tr.d071_en_US_saas.lemcVE.reading2.text
 
 lemcVE.reading3.title = le.pr.tr.d071_en_US_saas.lemcVE.reading3.title
 lemcVE.reading3.version = le.pr.tr.d071_en_US_saas.lemcVE.reading3.version
-lemcVE.reading3.book = le.pr.tr.d071_en_US_saas.lemcVE.reading3.book
+lemcVE.reading3.book_string = le.pr.tr.d071_en_US_saas.lemcVE.reading3.book_string
+lemcVE.reading3.book_abbr = le.pr.tr.d071_en_US_saas.lemcVE.reading3.book_abbr
 lemcVE.reading3.chapverse = le.pr.tr.d071_en_US_saas.lemcVE.reading3.chapverse
 lemcVE.reading3.text = le.pr.tr.d071_en_US_saas.lemcVE.reading3.text
 
 lemcVE.reading4.title = le.pr.tr.d071_en_US_saas.lemcVE.reading4.title
 lemcVE.reading4.version = le.pr.tr.d071_en_US_saas.lemcVE.reading4.version
-lemcVE.reading4.book = le.pr.tr.d071_en_US_saas.lemcVE.reading4.book
+lemcVE.reading4.book_string = le.pr.tr.d071_en_US_saas.lemcVE.reading4.book_string
+lemcVE.reading4.book_abbr = le.pr.tr.d071_en_US_saas.lemcVE.reading4.book_abbr
 lemcVE.reading4.chapverse = le.pr.tr.d071_en_US_saas.lemcVE.reading4.chapverse
 lemcVE.reading4.text = le.pr.tr.d071_en_US_saas.lemcVE.reading4.text
 
 lemcVE.reading5.title = le.pr.tr.d071_en_US_saas.lemcVE.reading5.title
 lemcVE.reading5.version = le.pr.tr.d071_en_US_saas.lemcVE.reading5.version
-lemcVE.reading5.book = le.pr.tr.d071_en_US_saas.lemcVE.reading5.book
+lemcVE.reading5.book_string = le.pr.tr.d071_en_US_saas.lemcVE.reading5.book_string
+lemcVE.reading5.book_abbr = le.pr.tr.d071_en_US_saas.lemcVE.reading5.book_abbr
 lemcVE.reading5.chapverse = le.pr.tr.d071_en_US_saas.lemcVE.reading5.chapverse
 lemcVE.reading5.text = le.pr.tr.d071_en_US_saas.lemcVE.reading5.text
 
 lemcVE.reading6.title = le.pr.tr.d071_en_US_saas.lemcVE.reading6.title
 lemcVE.reading6.version = le.pr.tr.d071_en_US_saas.lemcVE.reading6.version
-lemcVE.reading6.book = le.pr.tr.d071_en_US_saas.lemcVE.reading6.book
+lemcVE.reading6.book_string = le.pr.tr.d071_en_US_saas.lemcVE.reading6.book_string
+lemcVE.reading6.book_abbr = le.pr.tr.d071_en_US_saas.lemcVE.reading6.book_abbr
 lemcVE.reading6.chapverse = le.pr.tr.d071_en_US_saas.lemcVE.reading6.chapverse
 lemcVE.reading6.text = le.pr.tr.d071_en_US_saas.lemcVE.reading6.text
 
 lemcVE.reading7.title = le.pr.tr.d071_en_US_saas.lemcVE.reading7.title
 lemcVE.reading7.version = le.pr.tr.d071_en_US_saas.lemcVE.reading7.version
-lemcVE.reading7.book = le.pr.tr.d071_en_US_saas.lemcVE.reading7.book
+lemcVE.reading7.book_string = le.pr.tr.d071_en_US_saas.lemcVE.reading7.book_string
+lemcVE.reading7.book_abbr = le.pr.tr.d071_en_US_saas.lemcVE.reading7.book_abbr
 lemcVE.reading7.chapverse = le.pr.tr.d071_en_US_saas.lemcVE.reading7.chapverse
 lemcVE.reading7.text = le.pr.tr.d071_en_US_saas.lemcVE.reading7.text
 
 lemcVE.reading8.title = le.pr.tr.d071_en_US_saas.lemcVE.reading8.title
 lemcVE.reading8.version = le.pr.tr.d071_en_US_saas.lemcVE.reading8.version
-lemcVE.reading8.book = le.pr.tr.d071_en_US_saas.lemcVE.reading8.book
+lemcVE.reading8.book_string = le.pr.tr.d071_en_US_saas.lemcVE.reading8.book_string
+lemcVE.reading8.book_abbr = le.pr.tr.d071_en_US_saas.lemcVE.reading8.book_abbr
 lemcVE.reading8.chapverse = le.pr.tr.d071_en_US_saas.lemcVE.reading8.chapverse
 lemcVE.reading8.text = le.pr.tr.d071_en_US_saas.lemcVE.reading8.text
 
 lemcVE.reading9.title = le.pr.tr.d071_en_US_saas.lemcVE.reading9.title
 lemcVE.reading9.version = le.pr.tr.d071_en_US_saas.lemcVE.reading9.version
-lemcVE.reading9.book = le.pr.tr.d071_en_US_saas.lemcVE.reading9.book
+lemcVE.reading9.book_string = le.pr.tr.d071_en_US_saas.lemcVE.reading9.book_string
+lemcVE.reading9.book_abbr = le.pr.tr.d071_en_US_saas.lemcVE.reading9.book_abbr
 lemcVE.reading9.chapverse = le.pr.tr.d071_en_US_saas.lemcVE.reading9.chapverse
 lemcVE.reading9.text = le.pr.tr.d071_en_US_saas.lemcVE.reading9.text
 
 lemcVE.reading10.title = le.pr.tr.d071_en_US_saas.lemcVE.reading10.title
 lemcVE.reading10.version = le.pr.tr.d071_en_US_saas.lemcVE.reading10.version
-lemcVE.reading10.book = le.pr.tr.d071_en_US_saas.lemcVE.reading10.book
+lemcVE.reading10.book_string = le.pr.tr.d071_en_US_saas.lemcVE.reading10.book_string
+lemcVE.reading10.book_abbr = le.pr.tr.d071_en_US_saas.lemcVE.reading10.book_abbr
 lemcVE.reading10.chapverse = le.pr.tr.d071_en_US_saas.lemcVE.reading10.chapverse
 lemcVE.reading10.text = le.pr.tr.d071_en_US_saas.lemcVE.reading10.text
 
 lemcVE.reading11.title = le.pr.tr.d071_en_US_saas.lemcVE.reading11.title
 lemcVE.reading11.version = le.pr.tr.d071_en_US_saas.lemcVE.reading11.version
-lemcVE.reading11.book = le.pr.tr.d071_en_US_saas.lemcVE.reading11.book
+lemcVE.reading11.book_string = le.pr.tr.d071_en_US_saas.lemcVE.reading11.book_string
+lemcVE.reading11.book_abbr = le.pr.tr.d071_en_US_saas.lemcVE.reading11.book_abbr
 lemcVE.reading11.chapverse = le.pr.tr.d071_en_US_saas.lemcVE.reading11.chapverse
 lemcVE.reading11.text = le.pr.tr.d071_en_US_saas.lemcVE.reading11.text
 
 lemcVE.reading12.title = le.pr.tr.d071_en_US_saas.lemcVE.reading12.title
 lemcVE.reading12.version = le.pr.tr.d071_en_US_saas.lemcVE.reading12.version
-lemcVE.reading12.book = le.pr.tr.d071_en_US_saas.lemcVE.reading12.book
+lemcVE.reading12.book_string = le.pr.tr.d071_en_US_saas.lemcVE.reading12.book_string
+lemcVE.reading12.book_abbr = le.pr.tr.d071_en_US_saas.lemcVE.reading12.book_abbr
 lemcVE.reading12.chapverse = le.pr.tr.d071_en_US_saas.lemcVE.reading12.chapverse
 lemcVE.reading12.text = le.pr.tr.d071_en_US_saas.lemcVE.reading12.text
 
 lemcVE.reading13.title = le.pr.tr.d071_en_US_saas.lemcVE.reading13.title
 lemcVE.reading13.version = le.pr.tr.d071_en_US_saas.lemcVE.reading13.version
-lemcVE.reading13.book = le.pr.tr.d071_en_US_saas.lemcVE.reading13.book
+lemcVE.reading13.book_string = le.pr.tr.d071_en_US_saas.lemcVE.reading13.book_string
+lemcVE.reading13.book_abbr = le.pr.tr.d071_en_US_saas.lemcVE.reading13.book_abbr
 lemcVE.reading13.chapverse = le.pr.tr.d071_en_US_saas.lemcVE.reading13.chapverse
 lemcVE.reading13.text = le.pr.tr.d071_en_US_saas.lemcVE.reading13.text
 
 lemcVE.reading14.title = le.pr.tr.d071_en_US_saas.lemcVE.reading14.title
 lemcVE.reading14.version = le.pr.tr.d071_en_US_saas.lemcVE.reading14.version
-lemcVE.reading14.book = le.pr.tr.d071_en_US_saas.lemcVE.reading14.book
+lemcVE.reading14.book_string = le.pr.tr.d071_en_US_saas.lemcVE.reading14.book_string
+lemcVE.reading14.book_abbr = le.pr.tr.d071_en_US_saas.lemcVE.reading14.book_abbr
 lemcVE.reading14.chapverse = le.pr.tr.d071_en_US_saas.lemcVE.reading14.chapverse
 lemcVE.reading14.text = le.pr.tr.d071_en_US_saas.lemcVE.reading14.text
 
 lemcVE.reading15.title = le.pr.tr.d071_en_US_saas.lemcVE.reading15.title
 lemcVE.reading15.version = le.pr.tr.d071_en_US_saas.lemcVE.reading15.version
-lemcVE.reading15.book = le.pr.tr.d071_en_US_saas.lemcVE.reading15.book
+lemcVE.reading15.book_string = le.pr.tr.d071_en_US_saas.lemcVE.reading15.book_string
+lemcVE.reading15.book_abbr = le.pr.tr.d071_en_US_saas.lemcVE.reading15.book_abbr
 lemcVE.reading15.chapverse = le.pr.tr.d071_en_US_saas.lemcVE.reading15.chapverse
 lemcVE.reading15.text = le.pr.tr.d071_en_US_saas.lemcVE.reading15.text
 

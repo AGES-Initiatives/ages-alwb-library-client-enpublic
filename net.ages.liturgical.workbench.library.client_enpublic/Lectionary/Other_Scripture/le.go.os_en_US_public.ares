@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.os_en_US_public
 
 leosVE.Prayer_NynApolyeis.title = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis.title
 leosVE.Prayer_NynApolyeis.version = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis.version
-leosVE.Prayer_NynApolyeis.book = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis.book
+leosVE.Prayer_NynApolyeis.book_string = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis.book_string
+leosVE.Prayer_NynApolyeis.book_abbr = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis.book_abbr
 leosVE.Prayer_NynApolyeis.chapverse = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis.chapverse
 leosVE.Prayer_NynApolyeis.text = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis.text
 leosVE.Prayer_NynApolyeis1.text = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis1.text
@@ -10,19 +11,22 @@ leosVE.Prayer_NynApolyeis2.text = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis2
 
 leosMA.SixPsalmsIntro1.title = le.go.os_en_US_rsv.leosMA.SixPsalmsIntro1.title
 leosMA.SixPsalmsIntro1.version = le.go.os_en_US_rsv.leosMA.SixPsalmsIntro1.version
-leosMA.SixPsalmsIntro1.book = le.go.os_en_US_rsv.leosMA.SixPsalmsIntro1.book
+leosMA.SixPsalmsIntro1.book_string = le.go.os_en_US_rsv.leosMA.SixPsalmsIntro1.book_string
+leosMA.SixPsalmsIntro1.book_abbr = le.go.os_en_US_rsv.leosMA.SixPsalmsIntro1.book_abbr
 leosMA.SixPsalmsIntro1.chapverse = le.go.os_en_US_rsv.leosMA.SixPsalmsIntro1.chapverse
 leosMA.SixPsalmsIntro1.text = le.go.os_en_US_rsv.leosMA.SixPsalmsIntro1.text
 
 leosLI.pe.d095.CommunionHymn.title = le.go.os_en_US_rsv.leosLI.pe.d095.CommunionHymn.title
 leosLI.pe.d095.CommunionHymn.version = le.go.os_en_US_rsv.leosLI.pe.d095.CommunionHymn.version
-leosLI.pe.d095.CommunionHymn.book = le.go.os_en_US_rsv.leosLI.pe.d095.CommunionHymn.book
+leosLI.pe.d095.CommunionHymn.book_string = le.go.os_en_US_rsv.leosLI.pe.d095.CommunionHymn.book_string
+leosLI.pe.d095.CommunionHymn.book_abbr = le.go.os_en_US_rsv.leosLI.pe.d095.CommunionHymn.book_abbr
 leosLI.pe.d095.CommunionHymn.number = le.go.os_en_US_rsv.leosLI.pe.d095.CommunionHymn.number
 leosLI.pe.d095.CommunionHymn.text = le.go.os_en_US_rsv.leosLI.pe.d095.CommunionHymn.text
 
 leosTY.Beatitudes.title = le.go.os_en_US_rsv.leosTY.Beatitudes.title
 leosTY.Beatitudes.version = le.go.os_en_US_rsv.leosTY.Beatitudes.version
-leosTY.Beatitudes.book = le.go.os_en_US_rsv.leosTY.Beatitudes.book
+leosTY.Beatitudes.book_string = le.go.os_en_US_rsv.leosTY.Beatitudes.book_string
+leosTY.Beatitudes.book_abbr = le.go.os_en_US_rsv.leosTY.Beatitudes.book_abbr
 leosTY.Beatitudes.chapverse = le.go.os_en_US_rsv.leosTY.Beatitudes.chapverse
 leosTY.Beatitudes_Intro.text = le.go.os_en_US_rsv.leosTY.Beatitudes_Intro.text
 leosTY.Beatitudes_v01.text = le.go.os_en_US_rsv.leosTY.Beatitudes_v01.text
