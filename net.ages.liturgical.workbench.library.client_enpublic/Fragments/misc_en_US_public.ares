@@ -14,6 +14,7 @@ greekquotation.left = misc_en_US_dedes.greekquotation.left
 greekquotation.right = misc_en_US_dedes.greekquotation.right
 horizontal_line.dash1 = misc_en_US_dedes.horizontal_line.dash1
 horizontal_line.solid1 = misc_en_US_dedes.horizontal_line.solid1
+punctuation.ellipsis = misc_en_US_dedes.punctuation.ellipsis
 separator.asterisk = misc_en_US_dedes.separator.asterisk
 separator.emdash = misc_en_US_dedes.separator.emdash
 separator.endash = misc_en_US_dedes.separator.endash

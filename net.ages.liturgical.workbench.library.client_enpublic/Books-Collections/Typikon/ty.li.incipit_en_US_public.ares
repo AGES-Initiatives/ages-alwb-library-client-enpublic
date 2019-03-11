@@ -21,7 +21,6 @@ tyLIin.antiphon2.sep14.text = ty.li.incipit_en_US_dedes.tyLIin.antiphon2.sep14.t
 tyLIin.antiphon2.dec25.text = ty.li.incipit_en_US_dedes.tyLIin.antiphon2.dec25.text
 
 tyLIin.antiphon3.title = ty.li.incipit_en_US_dedes.tyLIin.antiphon3.title
-tyLIin.EntranceHymn.title = ty.li.incipit_en_US_dedes.tyLIin.EntranceHymn.title
 
 //Octoechos
 tyOCin.ResApolytikion.title = ty.li.incipit_en_US_dedes.tyOCin.ResApolytikion.title
@@ -34,11 +33,66 @@ tyOCin.ResApolytikion6.text = ty.li.incipit_en_US_dedes.tyOCin.ResApolytikion6.t
 tyOCin.ResApolytikion7.text = ty.li.incipit_en_US_dedes.tyOCin.ResApolytikion7.text
 tyOCin.ResApolytikion8.text = ty.li.incipit_en_US_dedes.tyOCin.ResApolytikion8.text
 
+tyLIin.EntranceHymn.title = ty.li.incipit_en_US_dedes.tyLIin.EntranceHymn.title
+tyLIin.EntranceHymn.text = ty.li.incipit_en_US_dedes.tyLIin.EntranceHymn.text
+tyLIin.EntranceHymn1.text = ty.li.incipit_en_US_dedes.tyLIin.EntranceHymn1.text
+tyLIin.Antiphon21.text = ty.li.incipit_en_US_dedes.tyLIin.Antiphon21.text
+tyLIin.EntranceHymn2s.text = ty.li.incipit_en_US_dedes.tyLIin.EntranceHymn2s.text
+tyLIin.EntranceHymn2w.text = ty.li.incipit_en_US_dedes.tyLIin.EntranceHymn2w.text
+tyLIin.Antiphon22.text = ty.li.incipit_en_US_dedes.tyLIin.Antiphon22.text
+
+//Menaion Verses
+tyLIin.m01.d01.Antiphon2.text = ty.li.incipit_en_US_dedes.tyLIin.m01.d01.Antiphon2.text
+
+tyLIin.m01.d06.entrance.v1.text = ty.li.incipit_en_US_dedes.tyLIin.m01.d06.entrance.v1.text
+tyLIin.m01.d06.Antiphon2.text = ty.li.incipit_en_US_dedes.tyLIin.m01.d06.Antiphon2.text
+
+tyLIin.m02.d02.entrance.v1.text = ty.li.incipit_en_US_dedes.tyLIin.m02.d02.entrance.v1.text
+tyLIin.m02.d02.Antiphon2.text = ty.li.incipit_en_US_dedes.tyLIin.m02.d02.Antiphon2.text
+
+tyLIin.m03.d25.entrance.v1.text = ty.li.incipit_en_US_dedes.tyLIin.m03.d25.entrance.v1.text
+tyLIin.m03.d25.Antiphon2.text = ty.li.incipit_en_US_dedes.tyLIin.m03.d25.Antiphon2.text
+
+tyLIin.m08.d06.entrance1.v1.text = ty.li.incipit_en_US_dedes.tyLIin.m08.d06.entrance1.v1.text
+tyLIin.m08.d06.Antiphon2.text = ty.li.incipit_en_US_dedes.tyLIin.m08.d06.Antiphon2.text
+
+tyLIin.m09.d14.entrance.v1.text = ty.li.incipit_en_US_dedes.tyLIin.m09.d14.entrance.v1.text
+tyLIin.m09.d14.Antiphon2.text = ty.li.incipit_en_US_dedes.tyLIin.m09.d14.Antiphon2.text
+
+tyLIin.m12.d25.entrance.v1.text = ty.li.incipit_en_US_dedes.tyLIin.m12.d25.entrance.v1.text
+tyLIin.m12.d25.Antiphon2.text = ty.li.incipit_en_US_dedes.tyLIin.m12.d25.Antiphon2.text
+
+//Moveable Cycle
+
+tyLIin.d064.entrance.v1.text = ty.li.incipit_en_US_dedes.tyLIin.d064.entrance.v1.text
+tyLIin.d064.Antiphon2.text = ty.li.incipit_en_US_dedes.tyLIin.d064.Antiphon2.text
+
+tyLIin.d071.entrance.v1.text = ty.li.incipit_en_US_dedes.tyLIin.d071.entrance.v1.text
+
+tyLIin.d110.entrance.v1.text = ty.li.incipit_en_US_dedes.tyLIin.d110.entrance.v1.text
+tyLIin.d110.Antiphon2.text = ty.li.incipit_en_US_dedes.tyLIin.d110.Antiphon2.text
+
+tyLIin.d120.entrance.v1.text = ty.li.incipit_en_US_dedes.tyLIin.d120.entrance.v1.text
+tyLIin.d120.Antiphon2.text = ty.li.incipit_en_US_dedes.tyLIin.d120.Antiphon2.text
+
+
 //Menaion
 tyMEin.m01.d01.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m01.d01.Apolytikion1.text
+tyMEin.m01.d01.Apolytikion2.text = ty.li.incipit_en_US_dedes.tyMEin.m01.d01.Apolytikion2.text
+tyMEin.m01.d02.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m01.d02.Apolytikion1.text
+tyMEin.m01.d05.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m01.d05.Apolytikion1.text
 tyMEin.m01.d06.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m01.d06.Apolytikion1.text
+tyMEin.m01.d20.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m01.d20.Apolytikion1.text
+tyMEin.m01.d27.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m01.d27.Apolytikion1.text
+tyMEin.m02.d02.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m02.d02.Apolytikion1.text
+tyMEin.m02.d10.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m02.d10.Apolytikion1.text
+tyMEin.m02.d24.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m02.d24.Apolytikion1.text
+tyMEin.m03.d24.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m03.d24.Apolytikion1.text
+tyMEin.m03.d25.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m03.d25.Apolytikion1.text
+tyMEin.m06.d24.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m06.d24.Apolytikion1.text
+tyMEin.m06.d30.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m06.d30.Apolytikion1.text
 tyMEin.m07.d07.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m07.d07.Apolytikion1.text
-tyMEin.m07.d14.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m07.d14.Apolytikion1.text
+tyMEin.m07.dHF.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m07.dHF.Apolytikion1.text
 tyMEin.m07.d21.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m07.d21.Apolytikion1.text
 tyMEin.m07.d28.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m07.d28.Apolytikion1.text
 tyMEin.m08.d04.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m08.d04.Apolytikion1.text
@@ -48,36 +102,53 @@ tyMEin.m08.d15.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m08.d15.Apol
 tyMEin.m08.d18.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m08.d18.Apolytikion1.text
 tyMEin.m08.d25.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m08.d25.Apolytikion1.text
 tyMEin.m09.d01.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m09.d01.Apolytikion1.text
+tyMEin.m09.d01.Apolytikion2.text = ty.li.incipit_en_US_dedes.tyMEin.m09.d01.Apolytikion2.text
+tyMEin.m09.d01.Apolytikion3.text = ty.li.incipit_en_US_dedes.tyMEin.m09.d01.Apolytikion3.text
 tyMEin.m09.d08.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m09.d08.Apolytikion1.text
 tyMEin.m09.d14.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m09.d14.Apolytikion1.text
 tyMEin.m09.d15.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m09.d15.Apolytikion1.text
 tyMEin.m09.d22.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m09.d22.Apolytikion1.text
 tyMEin.m09.d29.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m09.d29.Apolytikion1.text
 tyMEin.m10.d06.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m10.d06.Apolytikion1.text
-tyMEin.m10.d13.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m10.d13.Apolytikion1.text
+tyMEin.m10.dHF.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m10.dHF.Apolytikion1.text
 tyMEin.m10.d20.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m10.d20.Apolytikion1.text
 tyMEin.m10.d27.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m10.d27.Apolytikion1.text
 tyMEin.m11.d03.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m11.d03.Apolytikion1.text
+tyMEin.m11.d03.Apolytikion2.text = ty.li.incipit_en_US_dedes.tyMEin.m11.d03.Apolytikion2.text
 tyMEin.m11.d10.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m11.d10.Apolytikion1.text
 tyMEin.m11.d17.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m11.d17.Apolytikion1.text
 tyMEin.m11.d21.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m11.d21.Apolytikion1.text
 tyMEin.m11.d24.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m11.d24.Apolytikion1.text
 tyMEin.m12.d01.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m12.d01.Apolytikion1.text
 tyMEin.m12.d08.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m12.d08.Apolytikion1.text
+tyMEin.m12.dFF.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m12.dFF.Apolytikion1.text
 tyMEin.m12.d15.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m12.d15.Apolytikion1.text
-tyMEin.m12.d22.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m12.d22.Apolytikion1.text
+tyMEin.m12.dBC.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m12.dBC.Apolytikion1.text
+tyMEin.m12.d20.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m12.d20.Apolytikion1.text
+tyMEin.m12.d24.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m12.d24.Apolytikion1.text
 tyMEin.m12.d25.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m12.d25.Apolytikion1.text
-tyMEin.m12.d29.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m12.d29.Apolytikion1.text
+tyMEin.m12.dAC.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m12.dAC.Apolytikion1.text
 
 //Moveable
-tyTRin.lazarus.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyTRin.lazarus.Apolytikion1.text
-tyTRin.palm.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyTRin.palm.Apolytikion1.text
+tyTRin.lent1.Apolytikion.text = ty.li.incipit_en_US_dedes.tyTRin.lent1.Apolytikion.text
+tyTRin.lent2.Apolytikion.text = ty.li.incipit_en_US_dedes.tyTRin.lent2.Apolytikion.text
+tyTRin.lent4.Apolytikion.text = ty.li.incipit_en_US_dedes.tyTRin.lent4.Apolytikion.text
+tyTRin.lent5.Apolytikion.text = ty.li.incipit_en_US_dedes.tyTRin.lent5.Apolytikion.text
+tyTRin.lazarus.Apolytikion.text = ty.li.incipit_en_US_dedes.tyTRin.lazarus.Apolytikion.text
+tyTRin.palm.Apolytikion.text = ty.li.incipit_en_US_dedes.tyTRin.palm.Apolytikion.text
 tyTRin.holythursday.hymn.text = ty.li.incipit_en_US_dedes.tyTRin.holythursday.hymn.text
-tyTRin.holysaturday.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyTRin.holysaturday.Apolytikion1.text
-tyPEin.pascha.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyPEin.pascha.Apolytikion1.text
-tyPEin.ascension.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyPEin.ascension.Apolytikion1.text
-tyPEin.souls.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyPEin.souls.Apolytikion1.text
-tyPEin.pentecost.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyPEin.pentecost.Apolytikion1.text
+tyTRin.holysaturday.Apolytikion.text = ty.li.incipit_en_US_dedes.tyTRin.holysaturday.Apolytikion.text
+tyPEin.pascha.Apolytikion.text = ty.li.incipit_en_US_dedes.tyPEin.pascha.Apolytikion.text
+tyPEin.pascha.Hypakoe.text = ty.li.incipit_en_US_dedes.tyPEin.pascha.Hypakoe.text
+tyPEin.thomas.Apolytikion.text = ty.li.incipit_en_US_dedes.tyPEin.thomas.Apolytikion.text
+tyPEin.myrrhbearers.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyPEin.myrrhbearers.Apolytikion1.text
+tyPEin.myrrhbearers.Apolytikion2.text = ty.li.incipit_en_US_dedes.tyPEin.myrrhbearers.Apolytikion2.text
+tyPEin.myrrhbearers.Apolytikion3.text = ty.li.incipit_en_US_dedes.tyPEin.myrrhbearers.Apolytikion3.text
+tyPEin.midpentecost.Apolytikion.text = ty.li.incipit_en_US_dedes.tyPEin.midpentecost.Apolytikion.text
+tyPEin.ascension.Apolytikion.text = ty.li.incipit_en_US_dedes.tyPEin.ascension.Apolytikion.text
+tyPEin.souls.Apolytikion.text = ty.li.incipit_en_US_dedes.tyPEin.souls.Apolytikion.text
+tyPEin.pentecost.Apolytikion.text = ty.li.incipit_en_US_dedes.tyPEin.pentecost.Apolytikion.text
+tyPEin.allsaints.Apolytikion.text = ty.li.incipit_en_US_dedes.tyPEin.allsaints.Apolytikion.text
 
 tyLIin.AfterEntrance.title = ty.li.incipit_en_US_dedes.tyLIin.AfterEntrance.title
 tyLIin.Festal.title = ty.li.incipit_en_US_dedes.tyLIin.Festal.title
@@ -115,20 +186,20 @@ tyKOin.Dec20.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.Dec20.Kontakion.t
 tyKOin.Dec25.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.Dec25.Kontakion.text
 
 //Moveable
-tyKOin.tr001.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.tr001.Kontakion.text
-tyKOin.tr008.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.tr008.Kontakion.text
-tyKOin.tr014.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.tr014.Kontakion.text
-tyKOin.tr015.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.tr015.Kontakion.text
-tyKOin.tr022.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.tr022.Kontakion.text
-tyKOin.tr063.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.tr063.Kontakion.text
-tyKOin.tr064.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.tr064.Kontakion.text
-tyKOin.pe00P.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.pe00P.Kontakion.text
-tyKOin.pe078.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.pe078.Kontakion.text
-tyKOin.pe085.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.pe085.Kontakion.text
-tyKOin.pe095.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.pe095.Kontakion.text
-tyKOin.pe110.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.pe110.Kontakion.text
-tyKOin.pe120.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.pe120.Kontakion.text
-tyKOin.pe127.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.pe127.Kontakion.text
+tyKOin.d001.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.d001.Kontakion.text
+tyKOin.d008.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.d008.Kontakion.text
+tyKOin.d014.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.d014.Kontakion.text
+tyKOin.d015.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.d015.Kontakion.text
+tyKOin.d022.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.d022.Kontakion.text
+tyKOin.d063.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.d063.Kontakion.text
+tyKOin.d064.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.d064.Kontakion.text
+tyKOin.d00P.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.d00P.Kontakion.text
+tyKOin.d078.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.d078.Kontakion.text
+tyKOin.d085.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.d085.Kontakion.text
+tyKOin.d095.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.d095.Kontakion.text
+tyKOin.d110.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.d110.Kontakion.text
+tyKOin.d120.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.d120.Kontakion.text
+tyKOin.d127.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.d127.Kontakion.text
 
 
 tyLIin.trisagios.title = ty.li.incipit_en_US_dedes.tyLIin.trisagios.title
@@ -198,5 +269,4 @@ tyLIin.communionhymn.christmas.text = ty.li.incipit_en_US_dedes.tyLIin.communion
 
 tyLIin.aftercommunion.title = ty.li.incipit_en_US_dedes.tyLIin.aftercommunion.title
 tyLIin.aftercommunion.default = ty.li.incipit_en_US_dedes.tyLIin.aftercommunion.default
-
 
