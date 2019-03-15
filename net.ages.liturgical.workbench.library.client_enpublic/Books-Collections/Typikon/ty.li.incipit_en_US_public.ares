@@ -1,7 +1,19 @@
 A_Resource_Whose_Name = ty.li.incipit_en_US_public
 
+tyDAin.SundayAfterEpiphany.text = ty.li.incipit_en_US_dedes.tyDAin.SundayAfterEpiphany.text
+tyDAin.SundayAfterMeeting.text = ty.li.incipit_en_US_dedes.tyDAin.SundayAfterMeeting.text
+tyDAin.SundayAfterTransfiguration.text = ty.li.incipit_en_US_dedes.tyDAin.SundayAfterTransfiguration.text
+tyDAin.SundayAfterDormition.text = ty.li.incipit_en_US_dedes.tyDAin.SundayAfterDormition.text
+tyDAin.SundayAfterTheotokosBirth.text = ty.li.incipit_en_US_dedes.tyDAin.SundayAfterTheotokosBirth.text
+tyDAin.SundayAfterCross.text = ty.li.incipit_en_US_dedes.tyDAin.SundayAfterCross.text
+tyDAin.SundayAfterEntry.text = ty.li.incipit_en_US_dedes.tyDAin.SundayAfterEntry.text
+tyDAin.SundayAfterChristmas.text = ty.li.incipit_en_US_dedes.tyDAin.SundayAfterChristmas.text
+
 tyMAin.afterdoxology.title = ty.li.incipit_en_US_dedes.tyMAin.afterdoxology.title
 tyMAin.afterdoxology.text = ty.li.incipit_en_US_dedes.tyMAin.afterdoxology.text
+
+tyLIin.Basil.text = ty.li.incipit_en_US_dedes.tyLIin.Basil.text
+tyLIin.Chrysostom.text = ty.li.incipit_en_US_dedes.tyLIin.Chrysostom.text
 
 tyLIin.antiphon1.title = ty.li.incipit_en_US_dedes.tyLIin.antiphon1.title
 tyLIin.antiphon1.text = ty.li.incipit_en_US_dedes.tyLIin.antiphon1.text
@@ -40,6 +52,15 @@ tyLIin.Antiphon21.text = ty.li.incipit_en_US_dedes.tyLIin.Antiphon21.text
 tyLIin.EntranceHymn2s.text = ty.li.incipit_en_US_dedes.tyLIin.EntranceHymn2s.text
 tyLIin.EntranceHymn2w.text = ty.li.incipit_en_US_dedes.tyLIin.EntranceHymn2w.text
 tyLIin.Antiphon22.text = ty.li.incipit_en_US_dedes.tyLIin.Antiphon22.text
+
+tyLIin.ApApostle.title = ty.li.incipit_en_US_dedes.tyLIin.ApApostle.title
+tyLIin.ApApostles.title = ty.li.incipit_en_US_dedes.tyLIin.ApApostles.title
+tyLIin.ApCross.title = ty.li.incipit_en_US_dedes.tyLIin.ApCross.title
+tyLIin.ApFeast.title = ty.li.incipit_en_US_dedes.tyLIin.ApFeast.title
+tyLIin.ApForerunner.title = ty.li.incipit_en_US_dedes.tyLIin.ApForerunner.title
+tyLIin.ApSaintM.title = ty.li.incipit_en_US_dedes.tyLIin.ApSaintM.title
+tyLIin.ApSaintW.title = ty.li.incipit_en_US_dedes.tyLIin.ApSaintW.title
+tyLIin.ApSaints.title = ty.li.incipit_en_US_dedes.tyLIin.ApSaints.title
 
 //Menaion Verses
 tyLIin.m01.d01.Antiphon2.text = ty.li.incipit_en_US_dedes.tyLIin.m01.d01.Antiphon2.text
@@ -101,6 +122,7 @@ tyMEin.m08.d11.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m08.d11.Apol
 tyMEin.m08.d15.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m08.d15.Apolytikion1.text
 tyMEin.m08.d18.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m08.d18.Apolytikion1.text
 tyMEin.m08.d25.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m08.d25.Apolytikion1.text
+tyMEin.m08.d29.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m08.d29.Apolytikion1.text
 tyMEin.m09.d01.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m09.d01.Apolytikion1.text
 tyMEin.m09.d01.Apolytikion2.text = ty.li.incipit_en_US_dedes.tyMEin.m09.d01.Apolytikion2.text
 tyMEin.m09.d01.Apolytikion3.text = ty.li.incipit_en_US_dedes.tyMEin.m09.d01.Apolytikion3.text
@@ -154,6 +176,7 @@ tyLIin.AfterEntrance.title = ty.li.incipit_en_US_dedes.tyLIin.AfterEntrance.titl
 tyLIin.Festal.title = ty.li.incipit_en_US_dedes.tyLIin.Festal.title
 tyLIin.client.Apolytikion.title = ty.li.incipit_en_US_dedes.tyLIin.client.Apolytikion.title
 tyLIin.client.Apolytikion.text = ty.li.incipit_en_US_dedes.tyLIin.client.Apolytikion.text
+tyLIin.client.OmitApolytikion.text = ty.li.incipit_en_US_dedes.tyLIin.client.OmitApolytikion.text
 
 tyKOin.Kontakion.title = ty.li.incipit_en_US_dedes.tyKOin.Kontakion.title
 tyKOin.default.text = ty.li.incipit_en_US_dedes.tyKOin.default.text
@@ -212,6 +235,9 @@ tyLIin.epistle.title = ty.li.incipit_en_US_dedes.tyLIin.epistle.title
 tyLIin.gospel.title = ty.li.incipit_en_US_dedes.tyLIin.gospel.title
 
 tyLIin.theotokoshymn.title = ty.li.incipit_en_US_dedes.tyLIin.theotokoshymn.title
+tyLIin.theotokoshymn.heirmos9.text = ty.li.incipit_en_US_dedes.tyLIin.theotokoshymn.heirmos9.text
+tyLIin.theotokoshymn.heirmos91.text = ty.li.incipit_en_US_dedes.tyLIin.theotokoshymn.heirmos91.text
+tyLIin.theotokoshymn.heirmos92.text = ty.li.incipit_en_US_dedes.tyLIin.theotokoshymn.heirmos92.text
 tyLIin.theotokoshymn.default.text = ty.li.incipit_en_US_dedes.tyLIin.theotokoshymn.default.text
 tyLIin.theotokoshymn.basil.text = ty.li.incipit_en_US_dedes.tyLIin.theotokoshymn.basil.text
 tyLIin.theotokoshymn.epiphany1.text = ty.li.incipit_en_US_dedes.tyLIin.theotokoshymn.epiphany1.text

@@ -691,6 +691,8 @@ TouIerarchou = titles_en_US_dedes.TouIerarchou
 
 TouIeromartyros = titles_en_US_dedes.TouIeromartyros
 
+TouIosif = titles_en_US_dedes.TouIosif
+
 TouLazarou = titles_en_US_dedes.TouLazarou
 
 TouMartyros = titles_en_US_dedes.TouMartyros
@@ -890,3 +892,12 @@ eclog.Transfiguration.title = titles_en_US_dedes.eclog.Transfiguration.title
 eclog.Dormition.title = titles_en_US_dedes.eclog.Dormition.title
 eclog.Theotokos.title = titles_en_US_dedes.eclog.Theotokos.title
 eclog.Meatfare.title = titles_en_US_dedes.eclog.Meatfare.title
+
+forMeeting = titles_en_US_dedes.forMeeting
+forAnnunciation = titles_en_US_dedes.forAnnunciation
+forTransfiguration = titles_en_US_dedes.forTransfiguration
+forDormition = titles_en_US_dedes.forDormition
+forTheotokosBirth = titles_en_US_dedes.forTheotokosBirth
+forCross = titles_en_US_dedes.forCross
+forEntry = titles_en_US_dedes.forEntry
+forChristmas = titles_en_US_dedes.forChristmas
