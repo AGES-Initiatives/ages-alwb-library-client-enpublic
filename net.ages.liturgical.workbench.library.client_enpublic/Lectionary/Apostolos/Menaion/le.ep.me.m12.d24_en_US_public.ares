@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.me.m12.d24_en_US_public 
 
-lemeH1.Epistle.title = le.ep.me.m12.d24_en_US_rsv.lemeH1.Epistle.title 
+lemeH1.Epistle.title = le.ep.me.m12.d24_en_US_rsv.lemeH1.Epistle.title
+lemeH1.Epistle.title_abbr = le.ep.me.m12.d24_en_US_rsv.lemeH1.Epistle.title_abbr
 lemeH1.Epistle.version = le.ep.me.m12.d24_en_US_rsv.lemeH1.Epistle.version 
 lemeH1.Epistle.book_string = le.ep.me.m12.d24_en_US_rsv.lemeH1.Epistle.book_string
 lemeH1.Epistle.book_abbr = le.ep.me.m12.d24_en_US_rsv.lemeH1.Epistle.book_abbr
@@ -8,6 +9,7 @@ lemeH1.Epistle.chapverse = le.ep.me.m12.d24_en_US_rsv.lemeH1.Epistle.chapverse
 lemeH1.Epistle.text = le.ep.me.m12.d24_en_US_rsv.lemeH1.Epistle.text 
 
 lemeH3.Epistle.title = le.ep.me.m12.d24_en_US_rsv.lemeH3.Epistle.title
+lemeH3.Epistle.title_abbr = le.ep.me.m12.d24_en_US_rsv.lemeH3.Epistle.title_abbr
 lemeH3.Epistle.version = le.ep.me.m12.d24_en_US_rsv.lemeH3.Epistle.version
 lemeH3.Epistle.book_string = le.ep.me.m12.d24_en_US_rsv.lemeH3.Epistle.book_string
 lemeH3.Epistle.book_abbr = le.ep.me.m12.d24_en_US_rsv.lemeH3.Epistle.book_abbr
@@ -15,6 +17,7 @@ lemeH3.Epistle.chapverse = le.ep.me.m12.d24_en_US_rsv.lemeH3.Epistle.chapverse
 lemeH3.Epistle.text = le.ep.me.m12.d24_en_US_rsv.lemeH3.Epistle.text
 
 lemeH6.Epistle.title = le.ep.me.m12.d24_en_US_rsv.lemeH6.Epistle.title
+lemeH6.Epistle.title_abbr = le.ep.me.m12.d24_en_US_rsv.lemeH6.Epistle.title_abbr
 lemeH6.Epistle.version = le.ep.me.m12.d24_en_US_rsv.lemeH6.Epistle.version
 lemeH6.Epistle.book_string = le.ep.me.m12.d24_en_US_rsv.lemeH6.Epistle.book_string
 lemeH6.Epistle.book_abbr = le.ep.me.m12.d24_en_US_rsv.lemeH6.Epistle.book_abbr
@@ -22,6 +25,7 @@ lemeH6.Epistle.chapverse = le.ep.me.m12.d24_en_US_rsv.lemeH6.Epistle.chapverse
 lemeH6.Epistle.text = le.ep.me.m12.d24_en_US_rsv.lemeH6.Epistle.text
 
 lemeH9.Epistle.title = le.ep.me.m12.d24_en_US_rsv.lemeH9.Epistle.title
+lemeH9.Epistle.title_abbr = le.ep.me.m12.d24_en_US_rsv.lemeH9.Epistle.title_abbr
 lemeH9.Epistle.version = le.ep.me.m12.d24_en_US_rsv.lemeH9.Epistle.version
 lemeH9.Epistle.book_string = le.ep.me.m12.d24_en_US_rsv.lemeH9.Epistle.book_string
 lemeH9.Epistle.book_abbr = le.ep.me.m12.d24_en_US_rsv.lemeH9.Epistle.book_abbr

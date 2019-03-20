@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.ge.monastic_en_US_public 
 
 legeLI.Epistle.title = le.ep.ge.monastic_en_US_rsv.legeLI.Epistle.title
+legeLI.Epistle.title_abbr = le.ep.ge.monastic_en_US_rsv.legeLI.Epistle.title_abbr
 legeLI.Epistle.version = le.ep.ge.monastic_en_US_rsv.legeLI.Epistle.version
 legeLI.Epistle.book_string = le.ep.ge.monastic_en_US_rsv.legeLI.Epistle.book_string
 legeLI.Epistle.book_abbr = le.ep.ge.monastic_en_US_rsv.legeLI.Epistle.book_abbr

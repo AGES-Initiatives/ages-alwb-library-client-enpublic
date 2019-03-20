@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d070_en_US_public 
 
-lemcVE.Epistle.title = le.ep.mc.d070_en_US_rsv.lemcVE.Epistle.title 
+lemcVE.Epistle.title = le.ep.mc.d070_en_US_rsv.lemcVE.Epistle.title
+lemcVE.Epistle.title_abbr = le.ep.mc.d070_en_US_rsv.lemcVE.Epistle.title_abbr
 lemcVE.Epistle.version = le.ep.mc.d070_en_US_rsv.lemcVE.Epistle.version 
 lemcVE.Epistle.book_string = le.ep.mc.d070_en_US_rsv.lemcVE.Epistle.book_string
 lemcVE.Epistle.book_abbr = le.ep.mc.d070_en_US_rsv.lemcVE.Epistle.book_abbr
@@ -10,6 +11,7 @@ lemcVE.Epistle.pagenumber = le.ep.mc.d070_en_US_rsv.lemcVE.Epistle.pagenumber
 
 // This is at the end of Friday Night service
 lemcLI.Epistle.title = le.ep.mc.d070_en_US_rsv.lemcLI.Epistle.title
+lemcLI.Epistle.title_abbr = le.ep.mc.d070_en_US_rsv.lemcLI.Epistle.title_abbr
 lemcLI.Epistle.version = le.ep.mc.d070_en_US_rsv.lemcLI.Epistle.version
 lemcLI.Epistle.book_string = le.ep.mc.d070_en_US_rsv.lemcLI.Epistle.book_string
 lemcLI.Epistle.book_abbr = le.ep.mc.d070_en_US_rsv.lemcLI.Epistle.book_abbr

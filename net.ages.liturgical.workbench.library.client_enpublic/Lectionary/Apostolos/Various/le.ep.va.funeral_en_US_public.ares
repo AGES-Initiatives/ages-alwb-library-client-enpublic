@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.va.funeral_en_US_public 
 
-levaFUN.Epistle.title = le.ep.va.funeral_en_US_rsv.levaFUN.Epistle.title 
+levaFUN.Epistle.title = le.ep.va.funeral_en_US_rsv.levaFUN.Epistle.title
+levaFUN.Epistle.title_abbr = le.ep.va.funeral_en_US_rsv.levaFUN.Epistle.title_abbr
 levaFUN.Epistle.version = le.ep.va.funeral_en_US_rsv.levaFUN.Epistle.version 
 levaFUN.Epistle.book_string = le.ep.va.funeral_en_US_rsv.levaFUN.Epistle.book_string
 levaFUN.Epistle.book_abbr = le.ep.va.funeral_en_US_rsv.levaFUN.Epistle.book_abbr

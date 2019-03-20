@@ -1,24 +1,28 @@
 A_Resource_Whose_Name = le.ep.me.m10.d23_en_US_public 
 
-lemeVE.Reading1.title = le.ep.me.m10.d23_en_US_rsv.lemeVE.Reading1.title 
+lemeVE.Reading1.title = le.ep.me.m10.d23_en_US_rsv.lemeVE.Reading1.title
+lemeVE.Reading1.title_abbr = le.ep.me.m10.d23_en_US_rsv.lemeVE.Reading1.title_abbr
 lemeVE.Reading1.version = le.ep.me.m10.d23_en_US_rsv.lemeVE.Reading1.version 
 lemeVE.Reading1.book_string = le.ep.me.m10.d23_en_US_rsv.lemeVE.Reading1.book_string 
 lemeVE.Reading1.chapverse = le.ep.me.m10.d23_en_US_rsv.lemeVE.Reading1.chapverse 
 lemeVE.Reading1.text = le.ep.me.m10.d23_en_US_rsv.lemeVE.Reading1.text 
 
 lemeVE.Reading2.title = le.ep.me.m10.d23_en_US_rsv.lemeVE.Reading2.title
+lemeVE.Reading2.title_abbr = le.ep.me.m10.d23_en_US_rsv.lemeVE.Reading2.title_abbr
 lemeVE.Reading2.version = le.ep.me.m10.d23_en_US_rsv.lemeVE.Reading2.version
 lemeVE.Reading2.book_string = le.ep.me.m10.d23_en_US_rsv.lemeVE.Reading2.book_string
 lemeVE.Reading2.chapverse = le.ep.me.m10.d23_en_US_rsv.lemeVE.Reading2.chapverse
 lemeVE.Reading2.text = le.ep.me.m10.d23_en_US_rsv.lemeVE.Reading2.text
 
 lemeVE.Reading3.title = le.ep.me.m10.d23_en_US_rsv.lemeVE.Reading3.title
+lemeVE.Reading3.title_abbr = le.ep.me.m10.d23_en_US_rsv.lemeVE.Reading3.title_abbr
 lemeVE.Reading3.version = le.ep.me.m10.d23_en_US_rsv.lemeVE.Reading3.version
 lemeVE.Reading3.book_string = le.ep.me.m10.d23_en_US_rsv.lemeVE.Reading3.book_string
 lemeVE.Reading3.chapverse = le.ep.me.m10.d23_en_US_rsv.lemeVE.Reading3.chapverse
 lemeVE.Reading3.text = le.ep.me.m10.d23_en_US_rsv.lemeVE.Reading3.text
 
 lemeLI.Epistle.title = le.ep.me.m10.d23_en_US_rsv.lemeLI.Epistle.title
+lemeLI.Epistle.title_abbr = le.ep.me.m10.d23_en_US_rsv.lemeLI.Epistle.title_abbr
 lemeLI.Epistle.version = le.ep.me.m10.d23_en_US_rsv.lemeLI.Epistle.version
 lemeLI.Epistle.book_string = le.ep.me.m10.d23_en_US_rsv.lemeLI.Epistle.book_string
 lemeLI.Epistle.book_abbr = le.ep.me.m10.d23_en_US_rsv.lemeLI.Epistle.book_abbr

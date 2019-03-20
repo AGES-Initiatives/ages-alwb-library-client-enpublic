@@ -1,7 +1,8 @@
 A_Resource_Whose_Name = le.pr.me.r31_en_US_public 
 
 leprVE.reading.version = le.pr.me.r31_en_US_saas.leprVE.reading.version 
-leprVE.reading.title = le.pr.me.r31_en_US_saas.leprVE.reading.title 
+leprVE.reading.title = le.pr.me.r31_en_US_saas.leprVE.reading.title
+leprVE.reading.title_abbr = le.pr.me.r31_en_US_saas.leprVE.reading.title_abbr
 leprVE.reading.book_string = le.pr.me.r31_en_US_saas.leprVE.reading.book_string
 leprVE.reading.book_abbr = le.pr.me.r31_en_US_saas.leprVE.reading.book_abbr
 leprVE.reading.chapverse = le.pr.me.r31_en_US_saas.leprVE.reading.chapverse 

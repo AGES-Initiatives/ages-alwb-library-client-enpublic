@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.pr.pe.d127_en_US_public
 
 lemcVE.reading1.title = le.pr.pe.d127_en_US_saas.lemcVE.reading1.title
+lemcVE.reading1.title_abbr = le.pr.pe.d127_en_US_saas.lemcVE.reading1.title_abbr
 lemcVE.reading1.version = le.pr.pe.d127_en_US_saas.lemcVE.reading1.version
 lemcVE.reading1.book_string = le.pr.pe.d127_en_US_saas.lemcVE.reading1.book_string
 lemcVE.reading1.book_abbr = le.pr.pe.d127_en_US_saas.lemcVE.reading1.book_abbr
@@ -8,6 +9,7 @@ lemcVE.reading1.chapverse = le.pr.pe.d127_en_US_saas.lemcVE.reading1.chapverse
 lemcVE.reading1.text = le.pr.pe.d127_en_US_saas.lemcVE.reading1.text
 
 lemcVE.reading2.title = le.pr.pe.d127_en_US_saas.lemcVE.reading2.title
+lemcVE.reading2.title_abbr = le.pr.pe.d127_en_US_saas.lemcVE.reading2.title_abbr
 lemcVE.reading2.version = le.pr.pe.d127_en_US_saas.lemcVE.reading2.version
 lemcVE.reading2.book_string = le.pr.pe.d127_en_US_saas.lemcVE.reading2.book_string
 lemcVE.reading2.book_abbr = le.pr.pe.d127_en_US_saas.lemcVE.reading2.book_abbr
@@ -15,6 +17,7 @@ lemcVE.reading2.chapverse = le.pr.pe.d127_en_US_saas.lemcVE.reading2.chapverse
 lemcVE.reading2.text = le.pr.pe.d127_en_US_saas.lemcVE.reading2.text
 
 lemcVE.reading3.title = le.pr.pe.d127_en_US_saas.lemcVE.reading3.title
+lemcVE.reading3.title_abbr = le.pr.pe.d127_en_US_saas.lemcVE.reading3.title_abbr
 lemcVE.reading3.version = le.pr.pe.d127_en_US_saas.lemcVE.reading3.version
 lemcVE.reading3.book_string = le.pr.pe.d127_en_US_saas.lemcVE.reading3.book_string
 lemcVE.reading3.book_abbr = le.pr.pe.d127_en_US_saas.lemcVE.reading3.book_abbr

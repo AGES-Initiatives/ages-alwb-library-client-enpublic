@@ -7,13 +7,23 @@ tyDAin.SundayAfterDormition.text = ty.li.incipit_en_US_dedes.tyDAin.SundayAfterD
 tyDAin.SundayAfterTheotokosBirth.text = ty.li.incipit_en_US_dedes.tyDAin.SundayAfterTheotokosBirth.text
 tyDAin.SundayAfterCross.text = ty.li.incipit_en_US_dedes.tyDAin.SundayAfterCross.text
 tyDAin.SundayAfterEntry.text = ty.li.incipit_en_US_dedes.tyDAin.SundayAfterEntry.text
+tyDAin.SundayOfForefathers.text = ty.li.incipit_en_US_dedes.tyDAin.SundayOfForefathers.text
+tyDAin.SundayBeforeChristmas.text = ty.li.incipit_en_US_dedes.tyDAin.SundayBeforeChristmas.text
 tyDAin.SundayAfterChristmas.text = ty.li.incipit_en_US_dedes.tyDAin.SundayAfterChristmas.text
+tyDAin.SundayOfHolyFathers.text = ty.li.incipit_en_US_dedes.tyDAin.SundayOfHolyFathers.text
+tyDAin.HolyThursday.text = ty.li.incipit_en_US_dedes.tyDAin.HolyThursday.text
+tyDAin.HolySaturday.text = ty.li.incipit_en_US_dedes.tyDAin.HolySaturday.text
+tyDAin.EpiphanyEve.text = ty.li.incipit_en_US_dedes.tyDAin.EpiphanyEve.text
+tyDAin.ChristmasEve.text = ty.li.incipit_en_US_dedes.tyDAin.ChristmasEve.text
 
+tyMAin.nodoxology.title = ty.li.incipit_en_US_dedes.tyMAin.nodoxology.title
 tyMAin.afterdoxology.title = ty.li.incipit_en_US_dedes.tyMAin.afterdoxology.title
 tyMAin.afterdoxology.text = ty.li.incipit_en_US_dedes.tyMAin.afterdoxology.text
+tyMAin.enarxis.title = ty.li.incipit_en_US_dedes.tyMAin.enarxis.title
 
 tyLIin.Basil.text = ty.li.incipit_en_US_dedes.tyLIin.Basil.text
 tyLIin.Chrysostom.text = ty.li.incipit_en_US_dedes.tyLIin.Chrysostom.text
+tyLIin.VesperalLiturgyBasil.text = ty.li.incipit_en_US_dedes.tyLIin.VesperalLiturgyBasil.text
 
 tyLIin.antiphon1.title = ty.li.incipit_en_US_dedes.tyLIin.antiphon1.title
 tyLIin.antiphon1.text = ty.li.incipit_en_US_dedes.tyLIin.antiphon1.text
@@ -96,6 +106,7 @@ tyLIin.d110.Antiphon2.text = ty.li.incipit_en_US_dedes.tyLIin.d110.Antiphon2.tex
 tyLIin.d120.entrance.v1.text = ty.li.incipit_en_US_dedes.tyLIin.d120.entrance.v1.text
 tyLIin.d120.Antiphon2.text = ty.li.incipit_en_US_dedes.tyLIin.d120.Antiphon2.text
 
+tyVEin.VespersEntrance.text = ty.li.incipit_en_US_dedes.tyVEin.VespersEntrance.text
 
 //Menaion
 tyMEin.m01.d01.Apolytikion1.text = ty.li.incipit_en_US_dedes.tyMEin.m01.d01.Apolytikion1.text
@@ -186,26 +197,35 @@ tyKOin.Jan01.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.Jan01.Kontakion.t
 tyKOin.Jan02.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.Jan02.Kontakion.text
 tyKOin.Jan06.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.Jan06.Kontakion.text
 tyKOin.Feb01.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.Feb01.Kontakion.text
+tyKOin.Feb02.Kontakion.title = ty.li.incipit_en_US_dedes.tyKOin.Feb02.Kontakion.title
 tyKOin.Feb02.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.Feb02.Kontakion.text
 tyKOin.Mar24.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.Mar24.Kontakion.text
+tyKOin.Mar25.Kontakion.title = ty.li.incipit_en_US_dedes.tyKOin.Mar25.Kontakion.title
 tyKOin.Mar25.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.Mar25.Kontakion.text
 tyKOin.Jul02.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.Jul02.Kontakion.text
 tyKOin.Jul25.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.Jul25.Kontakion.text
 tyKOin.Aug05.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.Aug05.Kontakion.text
+tyKOin.Aug06.Kontakion.title = ty.li.incipit_en_US_dedes.tyKOin.Aug06.Kontakion.title
 tyKOin.Aug06.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.Aug06.Kontakion.text
 tyKOin.Aug14.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.Aug14.Kontakion.text
+tyKOin.Aug15.Kontakion.title = ty.li.incipit_en_US_dedes.tyKOin.Aug15.Kontakion.title
 tyKOin.Aug15.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.Aug15.Kontakion.text
 tyKOin.Aug31.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.Aug31.Kontakion.text
 tyKOin.Sep01.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.Sep01.Kontakion.text
 tyKOin.Sep07.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.Sep07.Kontakion.text
+tyKOin.Sep08.Kontakion.title = ty.li.incipit_en_US_dedes.tyKOin.Sep08.Kontakion.title
 tyKOin.Sep08.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.Sep08.Kontakion.text
 tyKOin.Sep13.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.Sep13.Kontakion.text
+tyKOin.Sep14.Kontakion.title = ty.li.incipit_en_US_dedes.tyKOin.Sep14.Kontakion.title
 tyKOin.Sep14.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.Sep14.Kontakion.text
 tyKOin.Oct28.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.Oct28.Kontakion.text
 tyKOin.Nov20.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.Nov20.Kontakion.text
+tyKOin.Nov21.Kontakion.title = ty.li.incipit_en_US_dedes.tyKOin.Nov21.Kontakion.title
 tyKOin.Nov21.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.Nov21.Kontakion.text
 tyKOin.Dec09.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.Dec09.Kontakion.text
+tyKOin.Dec20.Kontakion.title = ty.li.incipit_en_US_dedes.tyKOin.Dec20.Kontakion.title
 tyKOin.Dec20.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.Dec20.Kontakion.text
+tyKOin.Dec25.Kontakion.title = ty.li.incipit_en_US_dedes.tyKOin.Dec25.Kontakion.title
 tyKOin.Dec25.Kontakion.text = ty.li.incipit_en_US_dedes.tyKOin.Dec25.Kontakion.text
 
 //Moveable
@@ -234,7 +254,14 @@ tyLIin.trisagios_baptized.text = ty.li.incipit_en_US_dedes.tyLIin.trisagios_bapt
 tyLIin.epistle.title = ty.li.incipit_en_US_dedes.tyLIin.epistle.title
 tyLIin.gospel.title = ty.li.incipit_en_US_dedes.tyLIin.gospel.title
 
+tyLIin.cherubichymn.title = ty.li.incipit_en_US_dedes.tyLIin.cherubichymn.title
+tyLIin.cherubic.default.text = ty.li.incipit_en_US_dedes.tyLIin.cherubic.default.text
+tyLIin.cherubic.holythursday.text = ty.li.incipit_en_US_dedes.tyLIin.cherubic.holythursday.text
+tyLIin.cherubic.holysaturday.text = ty.li.incipit_en_US_dedes.tyLIin.cherubic.holysaturday.text
+
 tyLIin.theotokoshymn.title = ty.li.incipit_en_US_dedes.tyLIin.theotokoshymn.title
+tyLIin.theotokoshymn.basil.title = ty.li.incipit_en_US_dedes.tyLIin.theotokoshymn.basil.title
+tyLIin.theotokoshymn.ode7C23.text = ty.li.incipit_en_US_dedes.tyLIin.theotokoshymn.ode7C23.text
 tyLIin.theotokoshymn.heirmos9.text = ty.li.incipit_en_US_dedes.tyLIin.theotokoshymn.heirmos9.text
 tyLIin.theotokoshymn.heirmos91.text = ty.li.incipit_en_US_dedes.tyLIin.theotokoshymn.heirmos91.text
 tyLIin.theotokoshymn.heirmos92.text = ty.li.incipit_en_US_dedes.tyLIin.theotokoshymn.heirmos92.text
@@ -282,6 +309,8 @@ tyLIin.communionhymn.annunciation.text = ty.li.incipit_en_US_dedes.tyLIin.commun
 tyLIin.communionhymn.akathist.text = ty.li.incipit_en_US_dedes.tyLIin.communionhymn.akathist.text
 tyLIin.communionhymn.lazarus.text = ty.li.incipit_en_US_dedes.tyLIin.communionhymn.lazarus.text
 tyLIin.communionhymn.palm.text = ty.li.incipit_en_US_dedes.tyLIin.communionhymn.palm.text
+tyLIin.communionhymn.holythursday.text = ty.li.incipit_en_US_dedes.tyLIin.communionhymn.holythursday.text
+tyLIin.communionhymn.holysaturday.text = ty.li.incipit_en_US_dedes.tyLIin.communionhymn.holysaturday.text
 tyLIin.communionhymn.pascha.text = ty.li.incipit_en_US_dedes.tyLIin.communionhymn.pascha.text
 tyLIin.communionhymn.thomas.text = ty.li.incipit_en_US_dedes.tyLIin.communionhymn.thomas.text
 tyLIin.communionhymn.midpentecost.text = ty.li.incipit_en_US_dedes.tyLIin.communionhymn.midpentecost.text
@@ -295,4 +324,86 @@ tyLIin.communionhymn.christmas.text = ty.li.incipit_en_US_dedes.tyLIin.communion
 
 tyLIin.aftercommunion.title = ty.li.incipit_en_US_dedes.tyLIin.aftercommunion.title
 tyLIin.aftercommunion.default = ty.li.incipit_en_US_dedes.tyLIin.aftercommunion.default
+tyLIin.aftercommunion.holythursday.text = ty.li.incipit_en_US_dedes.tyLIin.aftercommunion.holythursday.text
+tyLIin.aftercommunion.holysaturday.text = ty.li.incipit_en_US_dedes.tyLIin.aftercommunion.holysaturday.text
 
+tyLIin.dismissal.title = ty.li.incipit_en_US_dedes.tyLIin.dismissal.title
+
+//Vesperal Liturgies
+
+tyVLin.vespershymns.menaion.title = ty.li.incipit_en_US_dedes.tyVLin.vespershymns.menaion.title
+tyVLin.vespershymns.triodion.title = ty.li.incipit_en_US_dedes.tyVLin.vespershymns.triodion.title
+tyVLin.otreading_01.title = ty.li.incipit_en_US_dedes.tyVLin.otreading_01.title
+tyVLin.otreading_02.title = ty.li.incipit_en_US_dedes.tyVLin.otreading_02.title
+tyVLin.otreading_03.title = ty.li.incipit_en_US_dedes.tyVLin.otreading_03.title
+
+tyVLin.holythursday.otreading_01.book = ty.li.incipit_en_US_dedes.tyVLin.holythursday.otreading_01.book
+tyVLin.holythursday.otreading_01.chapverse = ty.li.incipit_en_US_dedes.tyVLin.holythursday.otreading_01.chapverse
+tyVLin.holythursday.otreading_02.book = ty.li.incipit_en_US_dedes.tyVLin.holythursday.otreading_02.book
+tyVLin.holythursday.otreading_02.chapverse = ty.li.incipit_en_US_dedes.tyVLin.holythursday.otreading_02.chapverse
+tyVLin.holythursday.otreading_03.book = ty.li.incipit_en_US_dedes.tyVLin.holythursday.otreading_03.book
+tyVLin.holythursday.otreading_03.chapverse = ty.li.incipit_en_US_dedes.tyVLin.holythursday.otreading_03.chapverse
+
+tyVLin.holysaturday.otreading_01.book = ty.li.incipit_en_US_dedes.tyVLin.holysaturday.otreading_01.book
+tyVLin.holysaturday.otreading_01.chapverse = ty.li.incipit_en_US_dedes.tyVLin.holysaturday.otreading_01.chapverse
+tyVLin.holysaturday.otreading_02.book = ty.li.incipit_en_US_dedes.tyVLin.holysaturday.otreading_02.book
+tyVLin.holysaturday.otreading_02.chapverse = ty.li.incipit_en_US_dedes.tyVLin.holysaturday.otreading_02.chapverse
+tyVLin.holysaturday.otreading_03.book = ty.li.incipit_en_US_dedes.tyVLin.holysaturday.otreading_03.book
+tyVLin.holysaturday.otreading_03.chapverse = ty.li.incipit_en_US_dedes.tyVLin.holysaturday.otreading_03.chapverse
+
+tyVLin.holysaturday.hymnofthreeservants.title = ty.li.incipit_en_US_dedes.tyVLin.holysaturday.hymnofthreeservants.title
+tyVLin.holysaturday.hymnofthreeservants.text = ty.li.incipit_en_US_dedes.tyVLin.holysaturday.hymnofthreeservants.text
+
+tyVLin.holythursday.epistle.book = ty.li.incipit_en_US_dedes.tyVLin.holythursday.epistle.book
+tyVLin.holythursday.epistle.chapverse = ty.li.incipit_en_US_dedes.tyVLin.holythursday.epistle.chapverse
+
+tyVLin.holysaturday.epistle.book = ty.li.incipit_en_US_dedes.tyVLin.holysaturday.epistle.book
+tyVLin.holysaturday.epistle.chapverse = ty.li.incipit_en_US_dedes.tyVLin.holysaturday.epistle.chapverse
+tyVLin.holysaturday.insteadofalleluia.title = ty.li.incipit_en_US_dedes.tyVLin.holysaturday.insteadofalleluia.title
+tyVLin.holysaturday.ariseogod.text = ty.li.incipit_en_US_dedes.tyVLin.holysaturday.ariseogod.text
+
+tyVLin.holythursday.gospel.book = ty.li.incipit_en_US_dedes.tyVLin.holythursday.gospel.book
+tyVLin.holythursday.gospel.chapverse = ty.li.incipit_en_US_dedes.tyVLin.holythursday.gospel.chapverse
+
+tyVLin.holysaturday.gospel.book = ty.li.incipit_en_US_dedes.tyVLin.holysaturday.gospel.book
+tyVLin.holysaturday.gospel.chapverse = ty.li.incipit_en_US_dedes.tyVLin.holysaturday.gospel.chapverse
+
+tyVLin.epiphany.otreading_01.title = ty.li.incipit_en_US_dedes.tyVLin.epiphany.otreading_01.title
+tyVLin.epiphany.otreading_01.book = ty.li.incipit_en_US_dedes.tyVLin.epiphany.otreading_01.book
+tyVLin.epiphany.otreading_01.chapverse = ty.li.incipit_en_US_dedes.tyVLin.epiphany.otreading_01.chapverse
+tyVLin.epiphany.troparion1.title = ty.li.incipit_en_US_dedes.tyVLin.epiphany.troparion1.title
+tyVLin.epiphany.troparion1.text = ty.li.incipit_en_US_dedes.tyVLin.epiphany.troparion1.text
+tyVLin.epiphany.otreading_05.book = ty.li.incipit_en_US_dedes.tyVLin.epiphany.otreading_05.book
+tyVLin.epiphany.otreading_05.book = ty.li.incipit_en_US_dedes.tyVLin.epiphany.otreading_05.book
+tyVLin.epiphany.otreading_05.chapverse = ty.li.incipit_en_US_dedes.tyVLin.epiphany.otreading_05.chapverse
+tyVLin.epiphany.troparion2.title = ty.li.incipit_en_US_dedes.tyVLin.epiphany.troparion2.title
+tyVLin.epiphany.troparion2.text = ty.li.incipit_en_US_dedes.tyVLin.epiphany.troparion2.text
+tyVLin.epiphany.otreading_06.title = ty.li.incipit_en_US_dedes.tyVLin.epiphany.otreading_06.title
+tyVLin.epiphany.otreading_06.book = ty.li.incipit_en_US_dedes.tyVLin.epiphany.otreading_06.book
+tyVLin.epiphany.otreading_06.chapverse = ty.li.incipit_en_US_dedes.tyVLin.epiphany.otreading_06.chapverse
+
+tyVLin.epiphany.epistle.book = ty.li.incipit_en_US_dedes.tyVLin.epiphany.epistle.book
+tyVLin.epiphany.epistle.chapverse = ty.li.incipit_en_US_dedes.tyVLin.epiphany.epistle.chapverse
+
+tyVLin.epiphany.gospel.book = ty.li.incipit_en_US_dedes.tyVLin.epiphany.gospel.book
+tyVLin.epiphany.gospel.chapverse = ty.li.incipit_en_US_dedes.tyVLin.epiphany.gospel.chapverse
+
+tyVLin.christmas.otreading_01.title = ty.li.incipit_en_US_dedes.tyVLin.christmas.otreading_01.title
+tyVLin.christmas.otreading_01.book = ty.li.incipit_en_US_dedes.tyVLin.christmas.otreading_01.book
+tyVLin.christmas.otreading_01.chapverse = ty.li.incipit_en_US_dedes.tyVLin.christmas.otreading_01.chapverse
+tyVLin.christmas.troparion1.title = ty.li.incipit_en_US_dedes.tyVLin.christmas.troparion1.title
+tyVLin.christmas.troparion1.text = ty.li.incipit_en_US_dedes.tyVLin.christmas.troparion1.text
+tyVLin.christmas.otreading_07.title = ty.li.incipit_en_US_dedes.tyVLin.christmas.otreading_07.title
+tyVLin.christmas.otreading_07.book = ty.li.incipit_en_US_dedes.tyVLin.christmas.otreading_07.book
+tyVLin.christmas.otreading_07.chapverse = ty.li.incipit_en_US_dedes.tyVLin.christmas.otreading_07.chapverse
+tyVLin.christmas.troparion2.title = ty.li.incipit_en_US_dedes.tyVLin.christmas.troparion2.title
+tyVLin.christmas.troparion2.text = ty.li.incipit_en_US_dedes.tyVLin.christmas.troparion2.text
+tyVLin.christmas.otreading_08.title = ty.li.incipit_en_US_dedes.tyVLin.christmas.otreading_08.title
+tyVLin.christmas.otreading_08.book = ty.li.incipit_en_US_dedes.tyVLin.christmas.otreading_08.book
+tyVLin.christmas.otreading_08.chapverse = ty.li.incipit_en_US_dedes.tyVLin.christmas.otreading_08.chapverse
+
+tyVLin.christmas.epistle.book = ty.li.incipit_en_US_dedes.tyVLin.christmas.epistle.book
+tyVLin.christmas.epistle.chapverse = ty.li.incipit_en_US_dedes.tyVLin.christmas.epistle.chapverse
+
+tyVLin.christmas.gospel.book = ty.li.incipit_en_US_dedes.tyVLin.christmas.gospel.book
+tyVLin.christmas.gospel.chapverse = ty.li.incipit_en_US_dedes.tyVLin.christmas.gospel.chapverse

@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.va.water_en_US_public 
 
-levaSW.Epistle.title = le.ep.va.water_en_US_rsv.levaSW.Epistle.title 
+levaSW.Epistle.title = le.ep.va.water_en_US_rsv.levaSW.Epistle.title
+levaSW.Epistle.title_abbr = le.ep.va.water_en_US_rsv.levaSW.Epistle.title_abbr
 levaSW.Epistle.version = le.ep.va.water_en_US_rsv.levaSW.Epistle.version 
 levaSW.Epistle.book_string = le.ep.va.water_en_US_rsv.levaSW.Epistle.book_string
 levaSW.Epistle.book_abbr = le.ep.va.water_en_US_rsv.levaSW.Epistle.book_abbr

@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.me.m09.d02_en_US_public 
 
-lemeLI.Gospel.title = le.go.me.m09.d02_en_US_rsv.lemeLI.Gospel.title 
+lemeLI.Gospel.title = le.go.me.m09.d02_en_US_rsv.lemeLI.Gospel.title
+lemeLI.Gospel.title_abbr = le.go.me.m09.d02_en_US_rsv.lemeLI.Gospel.title_abbr
 lemeLI.Gospel.version = le.go.me.m09.d02_en_US_rsv.lemeLI.Gospel.version 
 lemeLI.Gospel.book_string = le.go.me.m09.d02_en_US_rsv.lemeLI.Gospel.book_string
 lemeLI.Gospel.book_abbr = le.go.me.m09.d02_en_US_rsv.lemeLI.Gospel.book_abbr
@@ -9,6 +10,7 @@ lemeLI.Gospel.text = le.go.me.m09.d02_en_US_rsv.lemeLI.Gospel.text
 lemeLI.Gospel.pagenumber = le.go.me.m09.d02_en_US_rsv.lemeLI.Gospel.pagenumber 
 
 lemeLI.Gospel2.title = le.go.me.m09.d02_en_US_rsv.lemeLI.Gospel2.title
+lemeLI.Gospel2.title_abbr = le.go.me.m09.d02_en_US_rsv.lemeLI.Gospel2.title_abbr
 lemeLI.Gospel2.version = le.go.me.m09.d02_en_US_rsv.lemeLI.Gospel2.version
 lemeLI.Gospel2.book_string = le.go.me.m09.d02_en_US_rsv.lemeLI.Gospel2.book_string
 lemeLI.Gospel2.book_abbr = le.go.me.m09.d02_en_US_rsv.lemeLI.Gospel2.book_abbr

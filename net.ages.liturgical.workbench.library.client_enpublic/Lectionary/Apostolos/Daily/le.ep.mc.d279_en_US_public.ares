@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d279_en_US_public 
 
-lemcLI.Epistle.title = le.ep.mc.d279_en_US_rsv.lemcLI.Epistle.title 
+lemcLI.Epistle.title = le.ep.mc.d279_en_US_rsv.lemcLI.Epistle.title
+lemcLI.Epistle.title_abbr = le.ep.mc.d279_en_US_rsv.lemcLI.Epistle.title_abbr
 lemcLI.Epistle.version = le.ep.mc.d279_en_US_rsv.lemcLI.Epistle.version 
 lemcLI.Epistle.book_string = le.ep.mc.d279_en_US_rsv.lemcLI.Epistle.book_string
 lemcLI.Epistle.book_abbr = le.ep.mc.d279_en_US_rsv.lemcLI.Epistle.book_abbr

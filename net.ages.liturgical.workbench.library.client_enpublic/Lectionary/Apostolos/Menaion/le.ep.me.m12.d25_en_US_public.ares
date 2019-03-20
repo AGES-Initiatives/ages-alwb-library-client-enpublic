@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.me.m12.d25_en_US_public 
 
-lemeVE.Epistle.title = le.ep.me.m12.d25_en_US_rsv.lemeVE.Epistle.title 
+lemeVE.Epistle.title = le.ep.me.m12.d25_en_US_rsv.lemeVE.Epistle.title
+lemeVE.Epistle.title_abbr = le.ep.me.m12.d25_en_US_rsv.lemeVE.Epistle.title_abbr
 lemeVE.Epistle.version = le.ep.me.m12.d25_en_US_rsv.lemeVE.Epistle.version 
 lemeVE.Epistle.book_string = le.ep.me.m12.d25_en_US_rsv.lemeVE.Epistle.book_string
 lemeVE.Epistle.book_abbr = le.ep.me.m12.d25_en_US_rsv.lemeVE.Epistle.book_abbr
@@ -8,6 +9,7 @@ lemeVE.Epistle.chapverse = le.ep.me.m12.d25_en_US_rsv.lemeVE.Epistle.chapverse
 lemeVE.Epistle.text = le.ep.me.m12.d25_en_US_rsv.lemeVE.Epistle.text 
 
 lemeLI.Epistle.title = le.ep.me.m12.d25_en_US_rsv.lemeLI.Epistle.title
+lemeLI.Epistle.title_abbr = le.ep.me.m12.d25_en_US_rsv.lemeLI.Epistle.title_abbr
 lemeLI.Epistle.version = le.ep.me.m12.d25_en_US_rsv.lemeLI.Epistle.version
 lemeLI.Epistle.book_string = le.ep.me.m12.d25_en_US_rsv.lemeLI.Epistle.book_string
 lemeLI.Epistle.book_abbr = le.ep.me.m12.d25_en_US_rsv.lemeLI.Epistle.book_abbr

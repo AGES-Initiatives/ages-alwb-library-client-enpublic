@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.pr.os_en_US_public 
 
 leosCO.Key0300.title = le.pr.os_en_US_saas.leosCO.Key0300.title
+leosCO.Key0300.title_abbr = le.pr.os_en_US_saas.leosCO.Key0300.title_abbr
 leosCO.Key0300.version = le.pr.os_en_US_saas.leosCO.Key0300.version
 leosCO.Key0300.book_string = le.pr.os_en_US_saas.leosCO.Key0300.book_string
 leosCO.Key0300.book_abbr = le.pr.os_en_US_saas.leosCO.Key0300.book_abbr
@@ -28,6 +29,7 @@ leosCO.Key0320.text = le.pr.os_en_US_saas.leosCO.Key0320.text
 leosCO.Key0321.text = le.pr.os_en_US_saas.leosCO.Key0321.text
 
 leosMA.LentAlleluia.title = le.pr.os_en_US_saas.leosMA.LentAlleluia.title
+leosMA.LentAlleluia.title_abbr = le.pr.os_en_US_saas.leosMA.LentAlleluia.title_abbr
 leosMA.LentAlleluia.version = le.pr.os_en_US_saas.leosMA.LentAlleluia.version
 leosMA.LentAlleluia.book_string = le.pr.os_en_US_saas.leosMA.LentAlleluia.book_string
 leosMA.LentAlleluia.book_abbr = le.pr.os_en_US_saas.leosMA.LentAlleluia.book_abbr
@@ -38,6 +40,7 @@ leosMA.LentAlleluiaVerse3.text = le.pr.os_en_US_saas.leosMA.LentAlleluiaVerse3.t
 leosMA.LentAlleluiaVerse4.text = le.pr.os_en_US_saas.leosMA.LentAlleluiaVerse4.text
 
 leosMA.GreatDoxology.v09.title = le.pr.os_en_US_saas.leosMA.GreatDoxology.v09.title
+leosMA.GreatDoxology.v09.title_abbr = le.pr.os_en_US_saas.leosMA.GreatDoxology.v09.title_abbr
 leosMA.GreatDoxology.v09.version = le.pr.os_en_US_saas.leosMA.GreatDoxology.v09.version
 leosMA.GreatDoxology.v09.book_string = le.pr.os_en_US_saas.leosMA.GreatDoxology.v09.book_string
 leosMA.GreatDoxology.v09.book_abbr = le.pr.os_en_US_saas.leosMA.GreatDoxology.v09.book_abbr
@@ -45,6 +48,7 @@ leosMA.GreatDoxology.v09.chapverse = le.pr.os_en_US_saas.leosMA.GreatDoxology.v0
 leosMA.GreatDoxology.v09.text = le.pr.os_en_US_saas.leosMA.GreatDoxology.v09.text
 
 leosMA.tr.d036.LaudsSundayVerse1.title = le.pr.os_en_US_saas.leosMA.tr.d036.LaudsSundayVerse1.title
+leosMA.tr.d036.LaudsSundayVerse1.title_abbr = le.pr.os_en_US_saas.leosMA.tr.d036.LaudsSundayVerse1.title_abbr
 leosMA.tr.d036.LaudsSundayVerse1.version = le.pr.os_en_US_saas.leosMA.tr.d036.LaudsSundayVerse1.version
 leosMA.tr.d036.LaudsSundayVerse1.book_string = le.pr.os_en_US_saas.leosMA.tr.d036.LaudsSundayVerse1.book_string
 leosMA.tr.d036.LaudsSundayVerse1.book_abbr = le.pr.os_en_US_saas.leosMA.tr.d036.LaudsSundayVerse1.book_abbr
@@ -52,6 +56,7 @@ leosMA.tr.d036.LaudsSundayVerse1.chapverse = le.pr.os_en_US_saas.leosMA.tr.d036.
 leosMA.tr.d036.LaudsSundayVerse1.text = le.pr.os_en_US_saas.leosMA.tr.d036.LaudsSundayVerse1.text
 
 leosLI.pe.d113.EpistleProkeimenon.title = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.title
+leosLI.pe.d113.EpistleProkeimenon.title_abbr = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.title_abbr
 leosLI.pe.d113.EpistleProkeimenon.version = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.version
 leosLI.pe.d113.EpistleProkeimenon.book_string = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book_string
 leosLI.pe.d113.EpistleProkeimenon.book_abbr = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book_abbr
@@ -60,6 +65,7 @@ leosLI.pe.d113.EpistleProkeimenon.text = le.pr.os_en_US_saas.leosLI.pe.d113.Epis
 leosLI.pe.d113.EpistleProkeimenonVerse.text = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenonVerse.text
 
 leosFUN.Key1202.title = le.pr.os_en_US_saas.leosFUN.Key1202.title
+leosFUN.Key1202.title_abbr = le.pr.os_en_US_saas.leosFUN.Key1202.title_abbr
 leosFUN.Key1202.version = le.pr.os_en_US_saas.leosFUN.Key1202.version
 leosFUN.Key1202.book_string = le.pr.os_en_US_saas.leosFUN.Key1202.book_string
 leosFUN.Key1202.book_abbr = le.pr.os_en_US_saas.leosFUN.Key1202.book_abbr

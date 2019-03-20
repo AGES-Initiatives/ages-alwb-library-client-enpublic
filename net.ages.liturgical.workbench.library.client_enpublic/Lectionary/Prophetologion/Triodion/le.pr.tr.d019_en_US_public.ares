@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.pr.tr.d019_en_US_public 
 
-lemcVE.reading1.title = le.pr.tr.d019_en_US_saas.lemcVE.reading1.title 
+lemcVE.reading1.title = le.pr.tr.d019_en_US_saas.lemcVE.reading1.title
+lemcVE.reading1.title_abbr = le.pr.tr.d019_en_US_saas.lemcVE.reading1.title_abbr
 lemcVE.reading1.version = le.pr.tr.d019_en_US_saas.lemcVE.reading1.version 
 lemcVE.reading1.book_string = le.pr.tr.d019_en_US_saas.lemcVE.reading1.book_string
 lemcVE.reading1.book_abbr = le.pr.tr.d019_en_US_saas.lemcVE.reading1.book_abbr
