@@ -22,7 +22,9 @@ hiPR.Key0305.text = hi.s17_en_US_dedes.hiPR.Key0305.text
 
 hiPR.Key0400.title = hi.s17_en_US_dedes.hiPR.Key0400.title
 hiPR.Key0401.title = hi.s17_en_US_dedes.hiPR.Key0401.title
-hiPR.Key0402.text = hi.s17_en_US_dedes.hiPR.Key0402.text
+hiPR.Key0402a.text = hi.s17_en_US_dedes.hiPR.Key0402a.text
+hiPR.Key0402b.text = hi.s17_en_US_dedes.hiPR.Key0402b.text
+hiPR.Key0402c.text = hi.s17_en_US_dedes.hiPR.Key0402c.text
 
 hiPR.Key0500.title = hi.s17_en_US_dedes.hiPR.Key0500.title
 hiPR.Key0501.title = hi.s17_en_US_dedes.hiPR.Key0501.title
