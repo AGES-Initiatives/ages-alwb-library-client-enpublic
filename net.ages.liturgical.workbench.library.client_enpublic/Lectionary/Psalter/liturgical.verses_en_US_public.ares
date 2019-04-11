@@ -1793,11 +1793,11 @@ psLI.concelebration.kisshymn.v1.text = liturgical.verses_en_US_saas.psLI.concele
 
 psLI.aftercommunion.title = liturgical.verses_en_US_saas.psLI.aftercommunion.title
 psLI.aftercommunion.v1.info = liturgical.verses_en_US_saas.psLI.aftercommunion.v1.info
-psLI.aftercommunion.v1.text = liturgical.verses_en_US_saas.psLI.aftercommunion.v1.text
-psLI.aftercommunion.v1a.info = liturgical.verses_en_US_saas.psLI.aftercommunion.v1a.info
-psLI.aftercommunion.v1a.text = liturgical.verses_en_US_saas.psLI.aftercommunion.v1a.text
-psLI.aftercommunion.v1b.info = liturgical.verses_en_US_saas.psLI.aftercommunion.v1b.info
-psLI.aftercommunion.v1b.text = liturgical.verses_en_US_saas.psLI.aftercommunion.v1b.text
+psLI.aftercommunion.v1.text = liturgical.verses_en_US_goa.psLI.aftercommunion.v1.text
+psLI.aftercommunion.v1a.info = liturgical.verses_en_US_goa.psLI.aftercommunion.v1a.info
+psLI.aftercommunion.v1a.text = liturgical.verses_en_US_goa.psLI.aftercommunion.v1a.text
+psLI.aftercommunion.v1b.info = liturgical.verses_en_US_goa.psLI.aftercommunion.v1b.info
+psLI.aftercommunion.v1b.text = liturgical.verses_en_US_goa.psLI.aftercommunion.v1b.text
 
 psPL.incense.v1.info = liturgical.verses_en_US_saas.psPL.incense.v1.info
 psPL.incense.v1.text = liturgical.verses_en_US_saas.psPL.incense.v1.text
