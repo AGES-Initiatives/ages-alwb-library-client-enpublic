@@ -326,6 +326,8 @@ pePA.SticGlory.text = pe.d00P_en_US_dedes.pePA.SticGlory.text
 pePA.Homily.title = pe.d00P_en_US_dedes.pePA.Homily.title
 pePA.Homily.text = pe.d00P_en_US_dedes.pePA.Homily.text
 
+pePA.Hours.title = pe.d00P_en_US_dedes.pePA.Hours.title
+pePA.Hours.R01 = pe.d00P_en_US_dedes.pePA.Hours.R01
 pePA.Hours1.text = pe.d00P_en_US_goa.pePA.Hours1.text
 pePA.Hours2.text = pe.d00P_en_US_dedes.pePA.Hours2.text
 pePA.Hours3.text = pe.d00P_en_US_dedes.pePA.Hours3.text
@@ -333,6 +335,9 @@ pePA.Hours4.text = pe.d00P_en_US_dedes.pePA.Hours4.text
 pePA.Hours5.text = pe.d00P_en_US_dedes.pePA.Hours5.text
 pePA.Hours6.text = pe.d00P_en_US_dedes.pePA.Hours6.text
 pePA.Hours7.text = pe.d00P_en_US_dedes.pePA.Hours7.text
+pePA.Hours.R02 = pe.d00P_en_US_dedes.pePA.Hours.R02
+pePA.Hours.R03 = pe.d00P_en_US_dedes.pePA.Hours.R03
+pePA.Hours.R04 = pe.d00P_en_US_dedes.pePA.Hours.R04
 
 pePA.Antiphon2.text = pe.d00P_en_US_goa.pePA.Antiphon2.text
 

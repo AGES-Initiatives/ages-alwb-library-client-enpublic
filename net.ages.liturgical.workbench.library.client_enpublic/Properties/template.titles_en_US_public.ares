@@ -142,6 +142,10 @@ h1.html.tab = template.titles_en_US_dedes.h1.html.tab
 h1.pdf.header = template.titles_en_US_dedes.h1.pdf.header
 h1.pdf.cover = template.titles_en_US_dedes.h1.pdf.cover
 
+h13.html.tab = template.titles_en_US_dedes.h13.html.tab
+h13.pdf.header = template.titles_en_US_dedes.h13.pdf.header
+h13.pdf.cover = template.titles_en_US_dedes.h13.pdf.cover
+
 h3.html.tab = template.titles_en_US_dedes.h3.html.tab 
 h3.pdf.header = template.titles_en_US_dedes.h3.pdf.header
 h3.pdf.cover = template.titles_en_US_dedes.h3.pdf.cover
