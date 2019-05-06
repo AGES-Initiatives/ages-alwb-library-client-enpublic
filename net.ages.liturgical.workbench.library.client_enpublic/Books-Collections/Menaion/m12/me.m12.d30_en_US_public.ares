@@ -459,8 +459,8 @@ meMA.Exaposteilarion2.melody = me.m12.d30_en_US_dedes.meMA.Exaposteilarion2.melo
 meMA.Exaposteilarion2.text = me.m12.d30_en_US_dedes.meMA.Exaposteilarion2.text
 
 meMA.Exaposteilarion3.mode = me.m12.d30_en_US_dedes.meMA.Exaposteilarion3.mode
-meMA.Exaposteilarion3.melody = me.m12.d30_en_US_oca.meMA.Exaposteilarion3.melody
-meMA.Exaposteilarion3.text = me.m12.d30_en_US_oca.meMA.Exaposteilarion3.text
+meMA.Exaposteilarion3.melody = me.m12.d30_en_US_dedes.meMA.Exaposteilarion3.melody
+meMA.Exaposteilarion3.text = me.m12.d30_en_US_dedes.meMA.Exaposteilarion3.text
 
 meMA.Lauds1.mode = me.m12.d30_en_US_dedes.meMA.Lauds1.mode
 meMA.Lauds1.melody = me.m12.d30_en_US_oca.meMA.Lauds1.melody
