@@ -34,6 +34,13 @@ hoCA.Ode1H.mode = other.vimatarissaparaklesis_en_US_dedes.hoCA.Ode1H.mode
 hoCA.Ode1H.melody = other.vimatarissaparaklesis_en_US_dedes.hoCA.Ode1H.melody
 hoCA.Ode1H.text = other.vimatarissaparaklesis_en_US_dedes.hoCA.Ode1H.text
 
+R06 = other.vimatarissaparaklesis_en_US_dedes.R06
+
+hoCA.Ode10.ode = other.vimatarissaparaklesis_en_US_dedes.hoCA.Ode10.ode
+hoCA.Ode10.mode = other.vimatarissaparaklesis_en_US_dedes.hoCA.Ode10.mode
+hoCA.Ode10.melody = other.vimatarissaparaklesis_en_US_dedes.hoCA.Ode10.melody
+hoCA.Ode10.text = other.vimatarissaparaklesis_en_US_dedes.hoCA.Ode10.text
+
 hoCA.Ode11.ode = other.vimatarissaparaklesis_en_US_dedes.hoCA.Ode11.ode
 hoCA.Ode11.mode = other.vimatarissaparaklesis_en_US_dedes.hoCA.Ode11.mode
 hoCA.Ode11.melody = other.vimatarissaparaklesis_en_US_dedes.hoCA.Ode11.melody
@@ -87,7 +94,6 @@ hoCA.Troparion32.mode = other.vimatarissaparaklesis_en_US_dedes.hoCA.Troparion32
 hoCA.Troparion32.melody  = other.vimatarissaparaklesis_en_US_dedes.hoCA.Troparion32.melody 
 hoCA.Troparion32.text = other.vimatarissaparaklesis_en_US_dedes.hoCA.Troparion32.text
 
-//R06
 //R07
 
 hoCA.Kathisma11.mode = other.vimatarissaparaklesis_en_US_dedes.hoCA.Kathisma11.mode
