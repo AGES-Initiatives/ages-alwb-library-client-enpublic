@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m06.d08_en_US_public
 meDate.text = me.m06.d08_en_US_dedes.meDate.text // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = me.m06.d08_en_US_dedes.meCommemoration.text // full title of day
 meShortCommemoration1.text = me.m06.d08_en_US_dedes.meShortCommemoration1.text
+meCom1.title = me.m06.d08_en_US_dedes.meCom1.title
+meCom2.title = me.m06.d08_en_US_dedes.meCom2.title
 meInsert1 = me.m06.d08_en_US_dedes.meInsert1 // for use in petitions and dismissal
 meInsert2 = me.m06.d08_en_US_dedes.meInsert2 // for use in petitions and dismissal
 meNote.text = me.m06.d08_en_US_dedes.meNote.text
@@ -16,16 +18,16 @@ meHO.note2 = me.m06.d08_en_US_dedes.meHO.note2
 meDismissal = me.m06.d08_en_US_dedes.meDismissal
 
 meVE.Stichera01.mode = me.m06.d08_en_US_dedes.meVE.Stichera01.mode
-meVE.Stichera01.melody = me.m06.d08_en_US_dedes.meVE.Stichera01.melody
-meVE.Stichera01.text = me.m06.d08_en_US_dedes.meVE.Stichera01.text
+meVE.Stichera01.melody = me.m06.d08_en_US_oca.meVE.Stichera01.melody
+meVE.Stichera01.text = me.m06.d08_en_US_oca.meVE.Stichera01.text
 
 meVE.Stichera02.mode = me.m06.d08_en_US_dedes.meVE.Stichera02.mode
-meVE.Stichera02.melody = me.m06.d08_en_US_dedes.meVE.Stichera02.melody
-meVE.Stichera02.text = me.m06.d08_en_US_dedes.meVE.Stichera02.text
+meVE.Stichera02.melody = me.m06.d08_en_US_oca.meVE.Stichera02.melody
+meVE.Stichera02.text = me.m06.d08_en_US_oca.meVE.Stichera02.text
 
 meVE.Stichera03.mode = me.m06.d08_en_US_dedes.meVE.Stichera03.mode
-meVE.Stichera03.melody = me.m06.d08_en_US_dedes.meVE.Stichera03.melody
-meVE.Stichera03.text = me.m06.d08_en_US_dedes.meVE.Stichera03.text
+meVE.Stichera03.melody = me.m06.d08_en_US_oca.meVE.Stichera03.melody
+meVE.Stichera03.text = me.m06.d08_en_US_oca.meVE.Stichera03.text
 
 meVE.SticGlory.mode = me.m06.d08_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m06.d08_en_US_dedes.meVE.SticGlory.melody
@@ -48,8 +50,8 @@ meVE.Aposticha3.melody = me.m06.d08_en_US_dedes.meVE.Aposticha3.melody
 meVE.Aposticha3.text = me.m06.d08_en_US_dedes.meVE.Aposticha3.text
 
 meVE.AposGlory.mode = me.m06.d08_en_US_dedes.meVE.AposGlory.mode
-meVE.AposGlory.melody = me.m06.d08_en_US_dedes.meVE.AposGlory.melody
-meVE.AposGlory.text = me.m06.d08_en_US_dedes.meVE.AposGlory.text
+meVE.AposGlory.melody = me.m06.d08_en_US_oca.meVE.AposGlory.melody
+meVE.AposGlory.text = me.m06.d08_en_US_oca.meVE.AposGlory.text
 
 meVE.AposTheotokion.mode = me.m06.d08_en_US_dedes.meVE.AposTheotokion.mode
 meVE.AposTheotokion.melody = me.m06.d08_en_US_dedes.meVE.AposTheotokion.melody
@@ -184,8 +186,8 @@ meMA.Ode6H.melody = me.m06.d08_en_US_dedes.meMA.Ode6H.melody
 meMA.Ode6H.text = me.m06.d08_en_US_dedes.meMA.Ode6H.text
 
 meMA.Kontakion1.mode = me.m06.d08_en_US_dedes.meMA.Kontakion1.mode
-meMA.Kontakion1.melody = me.m06.d08_en_US_dedes.meMA.Kontakion1.melody
-meMA.Kontakion1.text = me.m06.d08_en_US_dedes.meMA.Kontakion1.text
+meMA.Kontakion1.melody = me.m06.d08_en_US_oca.meMA.Kontakion1.melody
+meMA.Kontakion1.text = me.m06.d08_en_US_oca.meMA.Kontakion1.text
 
 meMA.Oikos1.text = me.m06.d08_en_US_dedes.meMA.Oikos1.text
 
@@ -260,8 +262,8 @@ meMA.Ode9H.melody = me.m06.d08_en_US_dedes.meMA.Ode9H.melody
 meMA.Ode9H.text = me.m06.d08_en_US_dedes.meMA.Ode9H.text
 
 meMA.Exaposteilarion1.mode = me.m06.d08_en_US_dedes.meMA.Exaposteilarion1.mode
-meMA.Exaposteilarion1.melody = me.m06.d08_en_US_dedes.meMA.Exaposteilarion1.melody
-meMA.Exaposteilarion1.text = me.m06.d08_en_US_dedes.meMA.Exaposteilarion1.text
+meMA.Exaposteilarion1.melody = me.m06.d08_en_US_oca.meMA.Exaposteilarion1.melody
+meMA.Exaposteilarion1.text = me.m06.d08_en_US_oca.meMA.Exaposteilarion1.text
 
 meMA.ExapTheotokion.mode = me.m06.d08_en_US_dedes.meMA.ExapTheotokion.mode
 meMA.ExapTheotokion.melody = me.m06.d08_en_US_dedes.meMA.ExapTheotokion.melody
