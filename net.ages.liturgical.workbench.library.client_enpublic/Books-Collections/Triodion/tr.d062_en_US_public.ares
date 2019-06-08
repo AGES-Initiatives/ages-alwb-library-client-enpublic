@@ -33,8 +33,8 @@ trVE.AposMartyric.melody = tr.d062_en_UK_ware.trVE.AposMartyric.melody
 trVE.AposMartyric.text = tr.d062_en_UK_ware.trVE.AposMartyric.text
 
 trVE.AposTheotokion.mode = tr.d062_en_US_dedes.trVE.AposTheotokion.mode
-trVE.AposTheotokion.melody = tr.d062_en_UK_ware.trVE.AposTheotokion.melody
-trVE.AposTheotokion.text = tr.d062_en_UK_ware.trVE.AposTheotokion.text
+trVE.AposTheotokion.melody = tr.d062_en_US_dedes.trVE.AposTheotokion.melody
+trVE.AposTheotokion.text = tr.d062_en_US_dedes.trVE.AposTheotokion.text
 
 trMA.Kathisma21.mode = tr.d062_en_US_dedes.trMA.Kathisma21.mode
 trMA.Kathisma21.melody = tr.d062_en_UK_ware.trMA.Kathisma21.melody
