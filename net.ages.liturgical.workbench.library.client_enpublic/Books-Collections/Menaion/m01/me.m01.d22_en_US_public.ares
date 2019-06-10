@@ -257,8 +257,8 @@ meMA.Ode6H.melody = me.m01.d22_en_US_andronache.meMA.Ode6H.melody
 meMA.Ode6H.text = me.m01.d22_en_US_andronache.meMA.Ode6H.text
 
 meMA.Kontakion1.mode = me.m01.d22_en_US_dedes.meMA.Kontakion1.mode
-meMA.Kontakion1.melody = me.m01.d22_en_US_dedes.meMA.Kontakion1.melody
-meMA.Kontakion1.text = me.m01.d22_en_US_dedes.meMA.Kontakion1.text
+meMA.Kontakion1.melody = me.m01.d22_en_US_oca.meMA.Kontakion1.melody
+meMA.Kontakion1.text = me.m01.d22_en_US_oca.meMA.Kontakion1.text
 
 meMA.Oikos1.text = me.m01.d22_en_US_dedes.meMA.Oikos1.text
 
@@ -380,7 +380,7 @@ meMA.Aposticha4.text = me.m01.d22_en_US_dedes.meMA.Aposticha4.text
 meMA.AposGlory.poet = me.m01.d22_en_US_dedes.meMA.AposGlory.poet
 meMA.AposGlory.mode = me.m01.d22_en_US_dedes.meMA.AposGlory.mode
 meMA.AposGlory.melody = me.m01.d22_en_US_dedes.meMA.AposGlory.melody
-meMA.AposGlory.text = me.m01.d22_en_US_dedes.meMA.AposGlory.text
+meMA.AposGlory.text = me.m01.d22_en_US_oca.meMA.AposGlory.text
 
 meMA.AposTheotokion.mode = me.m01.d22_en_US_dedes.meMA.AposTheotokion.mode
 meMA.AposTheotokion.melody = me.m01.d22_en_US_dedes.meMA.AposTheotokion.melody
