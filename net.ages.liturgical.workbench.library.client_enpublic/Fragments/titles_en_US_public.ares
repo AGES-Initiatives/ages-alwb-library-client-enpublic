@@ -318,6 +318,8 @@ KanonTouIeromartyros = titles_en_US_dedes.KanonTouIeromartyros
 
 KanonTouMartyros = titles_en_US_dedes.KanonTouMartyros
 
+KanonTouMegalomartyros = titles_en_US_dedes.KanonTouMegalomartyros
+
 KanonTouOsiou = titles_en_US_dedes.KanonTouOsiou
 
 KanonATouOsiou = titles_en_US_dedes.KanonATouOsiou
@@ -700,6 +702,8 @@ TouIosif = titles_en_US_dedes.TouIosif
 TouLazarou = titles_en_US_dedes.TouLazarou
 
 TouMartyros = titles_en_US_dedes.TouMartyros
+
+TouMegalomartyros = titles_en_US_dedes.TouMegalomartyros
 
 TouMinaiou = titles_en_US_dedes.TouMinaiou
 

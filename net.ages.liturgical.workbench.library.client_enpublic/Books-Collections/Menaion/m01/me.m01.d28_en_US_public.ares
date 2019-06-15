@@ -51,8 +51,8 @@ meVE.AposTheotokion.melody = me.m01.d28_en_UK_lash.meVE.AposTheotokion.melody
 meVE.AposTheotokion.text = me.m01.d28_en_UK_lash.meVE.AposTheotokion.text
 
 meVE.AposStavrotheotokion.mode = me.m01.d28_en_US_dedes.meVE.AposStavrotheotokion.mode
-meVE.AposStavrotheotokion.melody = me.m01.d28_en_UK_lash.meVE.AposStavrotheotokion.melody
-meVE.AposStavrotheotokion.text = me.m01.d28_en_UK_lash.meVE.AposStavrotheotokion.text
+meVE.AposStavrotheotokion.melody = me.m01.d28_en_US_dedes.meVE.AposStavrotheotokion.melody
+meVE.AposStavrotheotokion.text = me.m01.d28_en_US_dedes.meVE.AposStavrotheotokion.text
 
 meVE.Apolytikion1.mode = me.m01.d28_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m01.d28_en_US_dedes.meVE.Apolytikion1.melody

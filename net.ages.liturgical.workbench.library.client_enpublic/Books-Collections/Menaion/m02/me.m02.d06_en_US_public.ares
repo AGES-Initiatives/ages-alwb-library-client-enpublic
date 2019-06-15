@@ -78,12 +78,12 @@ meVE.Apolytikion3.melody = me.m02.d06_en_US_dedes.meVE.Apolytikion3.melody
 meVE.Apolytikion3.text = me.m02.d06_en_US_dedes.meVE.Apolytikion3.text
 
 meMA.Kathisma11.mode = me.m02.d06_en_US_dedes.meMA.Kathisma11.mode
-meMA.Kathisma11.melody = me.m02.d06_en_US_dedes.meMA.Kathisma11.melody
-meMA.Kathisma11.text = me.m02.d06_en_US_dedes.meMA.Kathisma11.text
+meMA.Kathisma11.melody = me.m02.d06_en_US_oca.meMA.Kathisma11.melody
+meMA.Kathisma11.text = me.m02.d06_en_US_oca.meMA.Kathisma11.text
 
 meMA.Kathisma21.mode = me.m02.d06_en_US_dedes.meMA.Kathisma21.mode
-meMA.Kathisma21.melody = me.m02.d06_en_US_dedes.meMA.Kathisma21.melody
-meMA.Kathisma21.text = me.m02.d06_en_US_dedes.meMA.Kathisma21.text
+meMA.Kathisma21.melody = me.m02.d06_en_US_oca.meMA.Kathisma21.melody
+meMA.Kathisma21.text = me.m02.d06_en_US_oca.meMA.Kathisma21.text
 
 meMA.C1Acrostic.text = me.m02.d06_en_US_dedes.meMA.C1Acrostic.text
 

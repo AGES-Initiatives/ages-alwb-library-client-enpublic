@@ -39,7 +39,7 @@ meVE.SticStavrotheotokion.text = me.m02.d13_en_US_dedes.meVE.SticStavrotheotokio
 meVE.SticGlory.poet = me.m02.d13_en_US_dedes.meVE.SticGlory.poet
 meVE.SticGlory.mode = me.m02.d13_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m02.d13_en_US_dedes.meVE.SticGlory.melody
-meVE.SticGlory.text = me.m02.d13_en_US_dedes.meVE.SticGlory.text
+meVE.SticGlory.text = me.m02.d13_en_US_oca.meVE.SticGlory.text
 
 meVE.SticTheotokion2.mode = me.m02.d13_en_US_dedes.meVE.SticTheotokion2.mode
 meVE.SticTheotokion2.melody = me.m02.d13_en_US_dedes.meVE.SticTheotokion2.melody
@@ -63,8 +63,8 @@ meVE.AposStavrotheotokion.melody = me.m02.d13_en_US_dedes.meVE.AposStavrotheotok
 meVE.AposStavrotheotokion.text = me.m02.d13_en_US_dedes.meVE.AposStavrotheotokion.text
 
 meVE.Apolytikion1.mode = me.m02.d13_en_US_dedes.meVE.Apolytikion1.mode
-meVE.Apolytikion1.melody = me.m02.d13_en_US_dedes.meVE.Apolytikion1.melody
-meVE.Apolytikion1.text = me.m02.d13_en_US_dedes.meVE.Apolytikion1.text
+meVE.Apolytikion1.melody = me.m02.d13_en_US_oca.meVE.Apolytikion1.melody
+meVE.Apolytikion1.text = me.m02.d13_en_US_oca.meVE.Apolytikion1.text
 
 meMA.C1Poet = me.m02.d13_en_US_dedes.meMA.C1Poet
 meMA.C1Acrostic.text = me.m02.d13_en_US_dedes.meMA.C1Acrostic.text
@@ -215,8 +215,8 @@ meMA.Ode6C1T.melody = me.m02.d13_en_US_dedes.meMA.Ode6C1T.melody
 meMA.Ode6C1T.text = me.m02.d13_en_US_dedes.meMA.Ode6C1T.text
 
 meMA.Kontakion1.mode = me.m02.d13_en_US_dedes.meMA.Kontakion1.mode
-meMA.Kontakion1.melody = me.m02.d13_en_US_dedes.meMA.Kontakion1.melody
-meMA.Kontakion1.text = me.m02.d13_en_US_dedes.meMA.Kontakion1.text
+meMA.Kontakion1.melody = me.m02.d13_en_US_oca.meMA.Kontakion1.melody
+meMA.Kontakion1.text = me.m02.d13_en_US_oca.meMA.Kontakion1.text
 
 meMA.Oikos1.text = me.m02.d13_en_US_dedes.meMA.Oikos1.text
 
