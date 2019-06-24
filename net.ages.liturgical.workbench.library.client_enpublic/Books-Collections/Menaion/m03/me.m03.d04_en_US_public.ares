@@ -33,8 +33,8 @@ meVE.SticTheotokion.melody = me.m03.d04_en_US_dedes.meVE.SticTheotokion.melody
 meVE.SticTheotokion.text = me.m03.d04_en_US_dedes.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = me.m03.d04_en_US_dedes.meVE.SticStavrotheotokion.mode
-meVE.SticStavrotheotokion.melody = me.m03.d04_en_US_dedes.meVE.SticStavrotheotokion.melody
-meVE.SticStavrotheotokion.text = me.m03.d04_en_US_dedes.meVE.SticStavrotheotokion.text
+meVE.SticStavrotheotokion.melody = me.m03.d04_en_US_barrett.meVE.SticStavrotheotokion.melody
+meVE.SticStavrotheotokion.text = me.m03.d04_en_US_barrett.meVE.SticStavrotheotokion.text
 
 meVE.Apolytikion1.poet = me.m03.d04_en_US_dedes.meVE.Apolytikion1.poet
 meVE.Apolytikion1.mode = me.m03.d04_en_US_dedes.meVE.Apolytikion1.mode
