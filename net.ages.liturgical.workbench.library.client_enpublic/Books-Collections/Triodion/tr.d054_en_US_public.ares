@@ -751,8 +751,8 @@ trMA.C2Poet = tr.d054_en_US_dedes.trMA.C2Poet
 
 trMA.Ode4C2H.ode = tr.d054_en_US_dedes.trMA.Ode4C2H.ode
 trMA.Ode4C2H.mode = tr.d054_en_US_dedes.trMA.Ode4C2H.mode
-trMA.Ode4C2H.melody = tr.d054_en_UK_ware.trMA.Ode4C2H.melody
-trMA.Ode4C2H.text = tr.d054_en_UK_ware.trMA.Ode4C2H.text
+trMA.Ode4C2H.melody = tr.d054_en_US_dedes.trMA.Ode4C2H.melody
+trMA.Ode4C2H.text = tr.d054_en_US_dedes.trMA.Ode4C2H.text
 
 trMA.Ode4C21.ode = tr.d054_en_US_dedes.trMA.Ode4C21.ode
 trMA.Ode4C21.mode = tr.d054_en_US_dedes.trMA.Ode4C21.mode
