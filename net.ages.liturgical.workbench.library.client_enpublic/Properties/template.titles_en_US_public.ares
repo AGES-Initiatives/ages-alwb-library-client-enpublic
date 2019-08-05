@@ -110,9 +110,9 @@ co4.html.tab = template.titles_en_US_dedes.co4.html.tab
 co4.pdf.header = template.titles_en_US_dedes.co4.pdf.header
 co4.pdf.cover = template.titles_en_US_dedes.co4.pdf.cover
 
-co5.html.tab = template.titles_en_US_dedes.co5.html.tab 
-co5.pdf.header = template.titles_en_US_dedes.co5.pdf.header
-co5.pdf.cover = template.titles_en_US_dedes.co5.pdf.cover
+co6.html.tab = template.titles_en_US_dedes.co6.html.tab 
+co6.pdf.header = template.titles_en_US_dedes.co6.pdf.header
+co6.pdf.cover = template.titles_en_US_dedes.co6.pdf.cover
 
 dr.html.tab = template.titles_en_US_dedes.dr.html.tab 
 dr.pdf.header = template.titles_en_US_dedes.dr.html.tab 
@@ -161,6 +161,10 @@ h36.pdf.cover = template.titles_en_US_dedes.h36.pdf.cover
 h9.html.tab = template.titles_en_US_dedes.h9.html.tab 
 h9.pdf.header = template.titles_en_US_dedes.h9.pdf.header
 h9.pdf.cover = template.titles_en_US_dedes.h9.pdf.cover
+
+h91.html.tab = template.titles_en_US_dedes.h91.html.tab 
+h91.pdf.header = template.titles_en_US_dedes.h91.pdf.header
+h91.pdf.cover = template.titles_en_US_dedes.h91.pdf.cover
 
 h92.html.tab = template.titles_en_US_dedes.h92.html.tab 
 h92.pdf.header = template.titles_en_US_dedes.h92.pdf.header
