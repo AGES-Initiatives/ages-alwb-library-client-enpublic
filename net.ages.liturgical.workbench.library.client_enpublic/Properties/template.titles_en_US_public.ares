@@ -216,6 +216,10 @@ mo.html.tab = template.titles_en_US_dedes.mo.html.tab
 mo.pdf.header = template.titles_en_US_dedes.mo.pdf.header
 mo.pdf.cover = template.titles_en_US_dedes.mo.pdf.cover
 
+mo6.html.tab = template.titles_en_US_dedes.mo6.html.tab 
+mo6.pdf.header = template.titles_en_US_dedes.mo6.pdf.header
+mo6.pdf.cover = template.titles_en_US_dedes.mo6.pdf.cover
+
 pl.html.tab = template.titles_en_US_dedes.pl.html.tab 
 pl.pdf.header = template.titles_en_US_dedes.pl.pdf.header
 pl.pdf.cover = template.titles_en_US_dedes.pl.pdf.cover
