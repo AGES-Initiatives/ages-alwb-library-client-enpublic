@@ -27,11 +27,11 @@ peVE.Stichera03.text = pe.d086_en_US_dedes.peVE.Stichera03.text
 
 peVE.SticGlory.mode = pe.d086_en_US_dedes.peVE.SticGlory.mode
 peVE.SticGlory.melody = pe.d086_en_US_dedes.peVE.SticGlory.melody
-peVE.SticGlory.text = pe.d086_en_US_dedes.peVE.SticGlory.text
+peVE.SticGlory.text = pe.d086_en_UK_lash.peVE.SticGlory.text
 
 peVE.Aposticha1.mode = pe.d086_en_US_dedes.peVE.Aposticha1.mode
 peVE.Aposticha1.melody = pe.d086_en_US_dedes.peVE.Aposticha1.melody
-peVE.Aposticha1.text = pe.d086_en_US_dedes.peVE.Aposticha1.text
+peVE.Aposticha1.text = pe.d086_en_US_holycross.peVE.Aposticha1.text
 
 peVE.Aposticha2.mode = pe.d086_en_US_dedes.peVE.Aposticha2.mode
 peVE.Aposticha2.melody = pe.d086_en_US_dedes.peVE.Aposticha2.melody
@@ -50,12 +50,12 @@ peMA.Kathisma11.melody = pe.d086_en_US_dedes.peMA.Kathisma11.melody
 peMA.Kathisma11.text = pe.d086_en_US_dedes.peMA.Kathisma11.text
 
 peMA.Kathisma12.mode = pe.d086_en_US_dedes.peMA.Kathisma12.mode
-peMA.Kathisma12.melody = pe.d086_en_US_dedes.peMA.Kathisma12.melody
-peMA.Kathisma12.text = pe.d086_en_US_dedes.peMA.Kathisma12.text
+peMA.Kathisma12.melody = pe.d086_en_UK_lash.peMA.Kathisma12.melody
+peMA.Kathisma12.text = pe.d086_en_UK_lash.peMA.Kathisma12.text
 
 peMA.Kathisma13.mode = pe.d086_en_US_dedes.peMA.Kathisma13.mode
-peMA.Kathisma13.melody = pe.d086_en_US_dedes.peMA.Kathisma13.melody
-peMA.Kathisma13.text = pe.d086_en_US_dedes.peMA.Kathisma13.text
+peMA.Kathisma13.melody = pe.d086_en_UK_lash.peMA.Kathisma13.melody
+peMA.Kathisma13.text = pe.d086_en_UK_lash.peMA.Kathisma13.text
 
 peMA.Kathisma1T.mode = pe.d086_en_US_dedes.peMA.Kathisma1T.mode
 peMA.Kathisma1T.melody = pe.d086_en_US_dedes.peMA.Kathisma1T.melody

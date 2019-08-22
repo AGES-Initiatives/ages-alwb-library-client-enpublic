@@ -31,7 +31,7 @@ peVE.SticGlory.text = pe.d087_en_US_dedes.peVE.SticGlory.text
 
 peVE.Aposticha1.mode = pe.d087_en_US_dedes.peVE.Aposticha1.mode
 peVE.Aposticha1.melody = pe.d087_en_US_dedes.peVE.Aposticha1.melody
-peVE.Aposticha1.text = pe.d087_en_US_dedes.peVE.Aposticha1.text
+peVE.Aposticha1.text = pe.d087_en_US_holycross.peVE.Aposticha1.text
 
 peVE.Aposticha2.mode = pe.d087_en_US_dedes.peVE.Aposticha2.mode
 peVE.Aposticha2.melody = pe.d087_en_US_dedes.peVE.Aposticha2.melody
@@ -51,7 +51,7 @@ peMA.Kathisma11.text = pe.d087_en_US_dedes.peMA.Kathisma11.text
 
 peMA.Kathisma12.mode = pe.d087_en_US_dedes.peMA.Kathisma12.mode
 peMA.Kathisma12.melody = pe.d087_en_US_dedes.peMA.Kathisma12.melody
-peMA.Kathisma12.text = pe.d087_en_US_dedes.peMA.Kathisma12.text
+peMA.Kathisma12.text = pe.d087_en_UK_lash.peMA.Kathisma12.text
 
 peMA.Kathisma13.mode = pe.d087_en_US_dedes.peMA.Kathisma13.mode
 peMA.Kathisma13.melody = pe.d087_en_US_dedes.peMA.Kathisma13.melody
@@ -74,8 +74,8 @@ peMA.Lauds2.melody = pe.d087_en_US_dedes.peMA.Lauds2.melody
 peMA.Lauds2.text = pe.d087_en_US_dedes.peMA.Lauds2.text
 
 peMA.Lauds3.mode = pe.d087_en_US_dedes.peMA.Lauds3.mode
-peMA.Lauds3.melody = pe.d087_en_US_dedes.peMA.Lauds3.melody
-peMA.Lauds3.text = pe.d087_en_US_dedes.peMA.Lauds3.text
+peMA.Lauds3.melody = pe.d087_en_UK_lash.peMA.Lauds3.melody
+peMA.Lauds3.text = pe.d087_en_UK_lash.peMA.Lauds3.text
 
 peMA.LaudsGlory.mode = pe.d087_en_US_dedes.peMA.LaudsGlory.mode
 peMA.LaudsGlory.melody = pe.d087_en_US_dedes.peMA.LaudsGlory.melody
