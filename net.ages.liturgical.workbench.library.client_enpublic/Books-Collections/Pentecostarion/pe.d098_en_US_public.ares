@@ -47,7 +47,7 @@ peVE.Aposticha3.text = pe.d098_en_US_holycross.peVE.Aposticha3.text
 
 peVE.Aposticha4.mode = pe.d098_en_US_dedes.peVE.Aposticha4.mode
 peVE.Aposticha4.melody = pe.d098_en_US_dedes.peVE.Aposticha4.melody
-peVE.Aposticha4.text = pe.d098_en_US_dedes.peVE.Aposticha4.text
+peVE.Aposticha4.text = pe.d098_en_US_holycross.peVE.Aposticha4.text
 
 peVE.AposGlory.mode = pe.d098_en_US_dedes.peVE.AposGlory.mode
 peVE.AposGlory.melody = pe.d098_en_US_dedes.peVE.AposGlory.melody
