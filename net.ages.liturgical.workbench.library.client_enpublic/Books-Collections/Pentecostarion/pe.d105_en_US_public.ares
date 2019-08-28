@@ -15,19 +15,19 @@ peDismissal = pe.d105_en_US_dedes.peDismissal
 
 peVE.Stichera01.mode = pe.d105_en_US_dedes.peVE.Stichera01.mode
 peVE.Stichera01.melody = pe.d105_en_US_dedes.peVE.Stichera01.melody
-peVE.Stichera01.text = pe.d105_en_US_dedes.peVE.Stichera01.text
+peVE.Stichera01.text = pe.d105_en_UK_lash.peVE.Stichera01.text
 
 peVE.Stichera02.mode = pe.d105_en_US_dedes.peVE.Stichera02.mode
 peVE.Stichera02.melody = pe.d105_en_US_dedes.peVE.Stichera02.melody
-peVE.Stichera02.text = pe.d105_en_US_dedes.peVE.Stichera02.text
+peVE.Stichera02.text = pe.d105_en_UK_lash.peVE.Stichera02.text
 
 peVE.Stichera03.mode = pe.d105_en_US_dedes.peVE.Stichera03.mode
 peVE.Stichera03.melody = pe.d105_en_US_dedes.peVE.Stichera03.melody
-peVE.Stichera03.text = pe.d105_en_US_dedes.peVE.Stichera03.text
+peVE.Stichera03.text = pe.d105_en_UK_lash.peVE.Stichera03.text
 
 peVE.SticGlory.mode = pe.d105_en_US_dedes.peVE.SticGlory.mode
 peVE.SticGlory.melody = pe.d105_en_US_dedes.peVE.SticGlory.melody
-peVE.SticGlory.text = pe.d105_en_US_dedes.peVE.SticGlory.text
+peVE.SticGlory.text = pe.d105_en_UK_lash.peVE.SticGlory.text
 
 peVE.SticBoth.mode = pe.d105_en_US_dedes.peVE.SticBoth.mode
 peVE.SticBoth.melody = pe.d105_en_US_dedes.peVE.SticBoth.melody
