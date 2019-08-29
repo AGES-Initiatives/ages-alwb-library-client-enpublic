@@ -469,9 +469,9 @@ meMA.LaudsTheotokion.mode = me.m08.d25_en_US_dedes.meMA.LaudsTheotokion.mode
 meMA.LaudsTheotokion.melody = me.m08.d25_en_US_dedes.meMA.LaudsTheotokion.melody
 meMA.LaudsTheotokion.text = me.m08.d25_en_US_dedes.meMA.LaudsTheotokion.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
+meMA.MM.Lauds1234as5678.text = me.m08.d25_en_US_dedes.meMA.MM.Lauds1234as5678.text
 
-meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
+meLI.MM.CommunionHymn.text = me.m08.d25_en_US_dedes.meLI.MM.CommunionHymn.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
