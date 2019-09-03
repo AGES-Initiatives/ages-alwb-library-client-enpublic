@@ -66,29 +66,20 @@ hoLI.TonStavronSou4.text = ho.s07_en_US_goa.hoLI.TonStavronSou4.text
 hoLI.MM.TonStavronSouBimatos.text = ho.s07_en_US_goa.hoLI.MM.TonStavronSouBimatos.text
 hoLI.TonStavronSouDynamis.text = ho.s07_en_US_goa.hoLI.TonStavronSouDynamis.text
 
-hoLI.GospelAlleluia.title = ho.s07_en_US_goa.hoLI.GospelAlleluia.title
-hoLI.GospelAlleluia.text = ho.s07_en_US_goa.hoLI.GospelAlleluia.text
+hoLI.MM.GospelAlleluia.text = ho.s07_en_US_goa.hoLI.MM.GospelAlleluia.text
 
-hoLI.GospelAlleluia1.title = titles_en_US_goa.Allilouia
-hoLI.GospelAlleluia1.text = prayers_en_US_goa.Allilouia3.text 
+hoLI.MM.GospelAlleluiaMode1.text = ho.s07_en_US_goa.hoLI.MM.GospelAlleluiaMode1.text
 
-hoLI.GospelAlleluia2.title = titles_en_US_goa.Allilouia
-hoLI.GospelAlleluia2.text = prayers_en_US_goa.Allilouia3.text 
+hoLI.MM.GospelAlleluiaMode2.text = ho.s07_en_US_goa.hoLI.MM.GospelAlleluiaMode2.text
 
-hoLI.GospelAlleluia3.title = titles_en_US_goa.Allilouia
-hoLI.GospelAlleluia3.text = prayers_en_US_goa.Allilouia3.text 
+hoLI.MM.GospelAlleluiaMode3.text = ho.s07_en_US_goa.hoLI.MM.GospelAlleluiaMode3.text
 
-hoLI.GospelAlleluia4.title = titles_en_US_goa.Allilouia
-hoLI.GospelAlleluia4.text = prayers_en_US_goa.Allilouia3.text 
+hoLI.MM.GospelAlleluiaMode4.text = ho.s07_en_US_goa.hoLI.MM.GospelAlleluiaMode4.text
 
-hoLI.GospelAlleluia5.title = titles_en_US_goa.Allilouia
-hoLI.GospelAlleluia5.text = prayers_en_US_goa.Allilouia3.text 
+hoLI.MM.GospelAlleluiaMode5.text = ho.s07_en_US_goa.hoLI.MM.GospelAlleluiaMode5.text
 
-hoLI.GospelAlleluia6.title = titles_en_US_goa.Allilouia
-hoLI.GospelAlleluia6.text = prayers_en_US_goa.Allilouia3.text 
+hoLI.MM.GospelAlleluiaMode6.text = ho.s07_en_US_goa.hoLI.MM.GospelAlleluiaMode6.text
 
-hoLI.GospelAlleluia7.title = titles_en_US_goa.Allilouia
-hoLI.GospelAlleluia7.text = prayers_en_US_goa.Allilouia3.text 
+hoLI.MM.GospelAlleluiaMode7.text = ho.s07_en_US_goa.hoLI.MM.GospelAlleluiaMode7.text
 
-hoLI.GospelAlleluia8.title = titles_en_US_goa.Allilouia
-hoLI.GospelAlleluia8.text = prayers_en_US_goa.Allilouia3.text 
+hoLI.MM.GospelAlleluiaMode8.text = ho.s07_en_US_goa.hoLI.MM.GospelAlleluiaMode8.text

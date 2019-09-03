@@ -1069,13 +1069,13 @@ psVE.tr.d070.prokeimenon3.v1.info = movable.verses_en_US_saas.psVE.tr.d070.proke
 psVE.tr.d070.prokeimenon3.v1.text = movable.verses_en_US_saas.psVE.tr.d070.prokeimenon3.v1.text
 psVE.tr.d070.prokeimenon3.v2.info = movable.verses_en_US_saas.psVE.tr.d070.prokeimenon3.v2.info
 psVE.tr.d070.prokeimenon3.v2.text = movable.verses_en_US_saas.psVE.tr.d070.prokeimenon3.v2.text
-psVE.tr.d069.alleluia.title = movable.verses_en_US_saas.psVE.tr.d069.alleluia.title
-psVE.tr.d069.alleluia.v1.info = movable.verses_en_US_saas.psVE.tr.d069.alleluia.v1.info
-psVE.tr.d069.alleluia.v1.text = movable.verses_en_US_saas.psVE.tr.d069.alleluia.v1.text
-psVE.tr.d069.alleluia.v2.info = movable.verses_en_US_saas.psVE.tr.d069.alleluia.v2.info
-psVE.tr.d069.alleluia.v2.text = movable.verses_en_US_saas.psVE.tr.d069.alleluia.v2.text
-psVE.tr.d069.alleluia.v3.info = movable.verses_en_US_saas.psVE.tr.d069.alleluia.v3.info
-psVE.tr.d069.alleluia.v3.text = movable.verses_en_US_saas.psVE.tr.d069.alleluia.v3.text
+psVE.tr.d070.alleluia.title = movable.verses_en_US_saas.psVE.tr.d070.alleluia.title
+psVE.tr.d070.alleluia.v1.info = movable.verses_en_US_saas.psVE.tr.d070.alleluia.v1.info
+psVE.tr.d070.alleluia.v1.text = movable.verses_en_US_saas.psVE.tr.d070.alleluia.v1.text
+psVE.tr.d070.alleluia.v2.info = movable.verses_en_US_saas.psVE.tr.d070.alleluia.v2.info
+psVE.tr.d070.alleluia.v2.text = movable.verses_en_US_saas.psVE.tr.d070.alleluia.v2.text
+psVE.tr.d070.alleluia.v3.info = movable.verses_en_US_saas.psVE.tr.d070.alleluia.v3.info
+psVE.tr.d070.alleluia.v3.text = movable.verses_en_US_saas.psVE.tr.d070.alleluia.v3.text
 
 psMA.tr.d070.prokeimenon.title = movable.verses_en_US_saas.psMA.tr.d070.prokeimenon.title
 psMA.tr.d070.prokeimenon.v1.info = movable.verses_en_US_saas.psMA.tr.d070.prokeimenon.v1.info
@@ -1250,6 +1250,12 @@ psLI.pe.d095.prokeimenon.v1.info = movable.verses_en_US_saas.psLI.pe.d095.prokei
 psLI.pe.d095.prokeimenon.v1.text = movable.verses_en_US_saas.psLI.pe.d095.prokeimenon.v1.text
 psLI.pe.d095.prokeimenon.v2.info = movable.verses_en_US_saas.psLI.pe.d095.prokeimenon.v2.info
 psLI.pe.d095.prokeimenon.v2.text = movable.verses_en_US_saas.psLI.pe.d095.prokeimenon.v2.text
+//Alleluia verses according to Church of Greece
+psLI.pe.d095.alleluia.title = movable.verses_en_US_saas.psLI.pe.d095.alleluia.title
+psLI.pe.d095.alleluia.v1.info = movable.verses_en_US_saas.psLI.pe.d095.alleluia.v1.info
+psLI.pe.d095.alleluia.v1.text = movable.verses_en_US_saas.psLI.pe.d095.alleluia.v1.text
+psLI.pe.d095.alleluia.v2.info = movable.verses_en_US_saas.psLI.pe.d095.alleluia.v2.info
+psLI.pe.d095.alleluia.v2.text = movable.verses_en_US_saas.psLI.pe.d095.alleluia.v2.text
 
 psLI.pe.d110.antiphon1.title = movable.verses_en_US_saas.psLI.pe.d110.antiphon1.title
 psLI.pe.d110.antiphon1.v1.info = movable.verses_en_US_saas.psLI.pe.d110.antiphon1.v1.info
