@@ -43,6 +43,22 @@ cl.Kontakion1.text = "(Kontakion for the parish church)"
 
 cl.consecration.name = "(name of the church being consecrated);"
 
+cl.localpatronsaint2.supplication = "(of the chapel);"
+cl.localpatronsaint2.dismissal = "(of the chapel);"
+cl.localpatronsaint2.greatcompline = "(of the chapel), intercede for us sinners."
+
+cl.Apolytikion2.title = "Apolytikion of the Parish Chapel."
+cl.Apolytikion2.mode = ""
+cl.Apolytikion2.melody = ""
+cl.Apolytikion2.text = "(Apolytikion of the Parish Chapel.)"
+
+cl.Kontakion2.title = "Of the Parish Chapel."
+cl.Kontakion2.mode = ""
+cl.Kontakion2.melody = ""
+cl.Kontakion2.text = "(Kontakion of the Parish Chapel.)"
+
+cl.consecration2.name = "(name of the Chapel),"
+
 cl.relics.saint1 = ""
 cl.relics.saint1.Apolytikion.title = ""
 cl.relics.saint1.Apolytikion.mode = ""
