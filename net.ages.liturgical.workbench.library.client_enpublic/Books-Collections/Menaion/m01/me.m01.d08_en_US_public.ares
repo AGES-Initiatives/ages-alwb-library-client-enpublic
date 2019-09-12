@@ -47,16 +47,16 @@ meVE.SticGlory.melody = me.m01.d08_en_US_dedes.meVE.SticGlory.melody
 meVE.SticGlory.text = me.m01.d08_en_US_dedes.meVE.SticGlory.text
 
 meVE.Aposticha1.mode = me.m01.d08_en_US_dedes.meVE.Aposticha1.mode
-meVE.Aposticha1.melody = me.m01.d08_en_US_dedes.meVE.Aposticha1.melody
-meVE.Aposticha1.text = me.m01.d08_en_US_dedes.meVE.Aposticha1.text
+meVE.Aposticha1.melody = me.m01.d08_en_US_oca.meVE.Aposticha1.melody
+meVE.Aposticha1.text = me.m01.d08_en_US_oca.meVE.Aposticha1.text
 
 meVE.Aposticha2.mode = me.m01.d08_en_US_dedes.meVE.Aposticha2.mode
-meVE.Aposticha2.melody = me.m01.d08_en_US_dedes.meVE.Aposticha2.melody
-meVE.Aposticha2.text = me.m01.d08_en_US_dedes.meVE.Aposticha2.text
+meVE.Aposticha2.melody = me.m01.d08_en_US_oca.meVE.Aposticha2.melody
+meVE.Aposticha2.text = me.m01.d08_en_US_oca.meVE.Aposticha2.text
 
 meVE.Aposticha3.mode = me.m01.d08_en_US_dedes.meVE.Aposticha3.mode
-meVE.Aposticha3.melody = me.m01.d08_en_US_dedes.meVE.Aposticha3.melody
-meVE.Aposticha3.text = me.m01.d08_en_US_dedes.meVE.Aposticha3.text
+meVE.Aposticha3.melody = me.m01.d08_en_US_oca.meVE.Aposticha3.melody
+meVE.Aposticha3.text = me.m01.d08_en_US_oca.meVE.Aposticha3.text
 
 meVE.AposGlory.poet = me.m01.d08_en_US_dedes.meVE.AposGlory.poet
 meVE.AposGlory.mode = me.m01.d08_en_US_dedes.meVE.AposGlory.mode
@@ -72,8 +72,8 @@ meMA.Kathisma11.melody = me.m01.d08_en_US_dedes.meMA.Kathisma11.melody
 meMA.Kathisma11.text = me.m01.d08_en_US_dedes.meMA.Kathisma11.text
 
 meMA.Kathisma21.mode = me.m01.d08_en_US_dedes.meMA.Kathisma21.mode
-meMA.Kathisma21.melody = me.m01.d08_en_US_dedes.meMA.Kathisma21.melody
-meMA.Kathisma21.text = me.m01.d08_en_US_dedes.meMA.Kathisma21.text
+meMA.Kathisma21.melody = me.m01.d08_en_US_oca.meMA.Kathisma21.melody
+meMA.Kathisma21.text = me.m01.d08_en_US_oca.meMA.Kathisma21.text
 
 meMA.C2Acrostic.text = me.m01.d08_en_US_dedes.meMA.C2Acrostic.text
 
@@ -459,8 +459,8 @@ meMA.Aposticha3.melody = me.m01.d08_en_US_dedes.meMA.Aposticha3.melody
 meMA.Aposticha3.text = me.m01.d08_en_US_dedes.meMA.Aposticha3.text
 
 meMA.AposGlory.mode = me.m01.d08_en_US_dedes.meMA.AposGlory.mode
-meMA.AposGlory.melody = me.m01.d08_en_US_oca.meMA.AposGlory.melody
-meMA.AposGlory.text = me.m01.d08_en_US_oca.meMA.AposGlory.text
+meMA.AposGlory.melody = me.m01.d08_en_US_dedes.meMA.AposGlory.melody
+meMA.AposGlory.text = me.m01.d08_en_US_dedes.meMA.AposGlory.text
 
 meLI.Antiphon2.text = me.m01.d08_en_US_dedes.meLI.Antiphon2.text
 
