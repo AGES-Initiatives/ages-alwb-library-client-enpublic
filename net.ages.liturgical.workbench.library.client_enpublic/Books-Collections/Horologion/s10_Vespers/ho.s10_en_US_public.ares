@@ -4,8 +4,9 @@ hoVE.title = ho.s10_en_US_dedes.hoVE.title
 
 R01 = ho.s10_en_US_dedes.R01
 R02 = ho.s10_en_US_dedes.R02
-hoVE.Ps103.text = "" //for media (text)
-
+hoVE.Ps103.text = ho.s10_en_US_dedes.hoVE.Ps103.text
+hoVE.MM.Anoixantaria.text = ho.s10_en_US_dedes.hoVE.MM.Anoixantaria.text
+hoVE.MM.Kathisma11.text = ho.s10_en_US_dedes.hoVE.MM.Kathisma11.text
 R03 = ho.s10_en_US_dedes.R03
 R04 = ho.s10_en_US_dedes.R04
 R05 = ho.s10_en_US_dedes.R05
