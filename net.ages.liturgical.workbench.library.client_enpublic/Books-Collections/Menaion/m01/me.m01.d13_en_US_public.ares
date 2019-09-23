@@ -489,16 +489,16 @@ meMA.Exaposteilarion2.text = me.m01.d13_en_US_dedes.meMA.Exaposteilarion2.text
 meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
 meMA.Aposticha1.mode = me.m01.d13_en_US_dedes.meMA.Aposticha1.mode
-meMA.Aposticha1.melody = me.m01.d13_en_US_dedes.meMA.Aposticha1.melody
-meMA.Aposticha1.text = me.m01.d13_en_US_dedes.meMA.Aposticha1.text
+meMA.Aposticha1.melody = me.m01.d13_en_US_oca.meMA.Aposticha1.melody
+meMA.Aposticha1.text = me.m01.d13_en_US_oca.meMA.Aposticha1.text
 
 meMA.Aposticha2.mode = me.m01.d13_en_US_dedes.meMA.Aposticha2.mode
-meMA.Aposticha2.melody = me.m01.d13_en_US_dedes.meMA.Aposticha2.melody
-meMA.Aposticha2.text = me.m01.d13_en_US_dedes.meMA.Aposticha2.text
+meMA.Aposticha2.melody = me.m01.d13_en_US_oca.meMA.Aposticha2.melody
+meMA.Aposticha2.text = me.m01.d13_en_US_oca.meMA.Aposticha2.text
 
 meMA.Aposticha3.mode = me.m01.d13_en_US_dedes.meMA.Aposticha3.mode
-meMA.Aposticha3.melody = me.m01.d13_en_US_dedes.meMA.Aposticha3.melody
-meMA.Aposticha3.text = me.m01.d13_en_US_dedes.meMA.Aposticha3.text
+meMA.Aposticha3.melody = me.m01.d13_en_US_oca.meMA.Aposticha3.melody
+meMA.Aposticha3.text = me.m01.d13_en_US_oca.meMA.Aposticha3.text
 
 meMA.AposGlory.poet = me.m01.d13_en_US_dedes.meMA.AposGlory.poet
 meMA.AposGlory.mode = me.m01.d13_en_US_dedes.meMA.AposGlory.mode
@@ -508,7 +508,7 @@ meMA.AposGlory.text = me.m01.d13_en_US_dedes.meMA.AposGlory.text
 meMA.AposBoth.poet = me.m01.d13_en_US_dedes.meMA.AposBoth.poet
 meMA.AposBoth.mode = me.m01.d13_en_US_dedes.meMA.AposBoth.mode
 meMA.AposBoth.melody = me.m01.d13_en_US_dedes.meMA.AposBoth.melody
-meMA.AposBoth.text = me.m01.d13_en_US_dedes.meMA.AposBoth.text
+meMA.AposBoth.text = me.m01.d13_en_US_oca.meMA.AposBoth.text
 
 meLI.Antiphon2.text = me.m01.d13_en_US_dedes.meLI.Antiphon2.text
 
