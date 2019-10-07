@@ -70,6 +70,8 @@ meVE.AposStavrotheotokion.mode = me.m02.d11_en_US_dedes.meVE.AposStavrotheotokio
 meVE.AposStavrotheotokion.melody = me.m02.d11_en_US_dedes.meVE.AposStavrotheotokion.melody
 meVE.AposStavrotheotokion.text = me.m02.d11_en_US_dedes.meVE.AposStavrotheotokion.text
 
+meVE.MM.GeneralApolytikion1.text = me.m02.d11_en_US_dedes.meVE.MM.GeneralApolytikion1.text
+
 meVE.Apolytikion1.poet = me.m02.d11_en_US_dedes.meVE.Apolytikion1.poet
 meVE.Apolytikion1.mode = me.m02.d11_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m02.d11_en_US_dedes.meVE.Apolytikion1.melody
