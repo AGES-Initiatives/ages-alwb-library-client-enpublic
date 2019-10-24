@@ -50,8 +50,8 @@ peMA.Kathisma11.melody = pe.d111_en_US_dedes.peMA.Kathisma11.melody
 peMA.Kathisma11.text = pe.d111_en_US_dedes.peMA.Kathisma11.text
 
 peMA.Kathisma21.mode = pe.d111_en_US_dedes.peMA.Kathisma21.mode
-peMA.Kathisma21.melody = pe.d111_en_US_dedes.peMA.Kathisma21.melody
-peMA.Kathisma21.text = pe.d111_en_US_dedes.peMA.Kathisma21.text
+peMA.Kathisma21.melody = pe.d111_en_UK_lash.peMA.Kathisma21.melody
+peMA.Kathisma21.text = pe.d111_en_UK_lash.peMA.Kathisma21.text
 
 peMA.Aposticha1.mode = pe.d111_en_US_dedes.peMA.Aposticha1.mode
 peMA.Aposticha1.melody = pe.d111_en_US_dedes.peMA.Aposticha1.melody
