@@ -152,8 +152,8 @@ peMA.Ode3Kathisma1.melody = pe.d127_en_UK_lash.peMA.Ode3Kathisma1.melody
 peMA.Ode3Kathisma1.text = pe.d127_en_UK_lash.peMA.Ode3Kathisma1.text
 
 peMA.Ode3Kathisma2.mode = pe.d127_en_US_dedes.peMA.Ode3Kathisma2.mode
-peMA.Ode3Kathisma2.melody = pe.d127_en_UK_lash.peMA.Ode3Kathisma2.melody
-peMA.Ode3Kathisma2.text = pe.d127_en_UK_lash.peMA.Ode3Kathisma2.text
+peMA.Ode3Kathisma2.melody = pe.d127_en_US_dedes.peMA.Ode3Kathisma2.melody
+peMA.Ode3Kathisma2.text = pe.d127_en_US_dedes.peMA.Ode3Kathisma2.text
 
 peMA.Ode4C11.ode = pe.d127_en_US_dedes.peMA.Ode4C11.ode
 peMA.Ode4C11.mode = pe.d127_en_US_dedes.peMA.Ode4C11.mode
