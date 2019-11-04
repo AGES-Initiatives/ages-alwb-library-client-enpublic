@@ -211,8 +211,8 @@ trMA.AposMartyric.melody = tr.d025_en_US_oca.trMA.AposMartyric.melody
 trMA.AposMartyric.text = tr.d025_en_US_oca.trMA.AposMartyric.text
 
 trMA.AposTheotokion.mode = tr.d025_en_US_dedes.trMA.AposTheotokion.mode
-trMA.AposTheotokion.melody = tr.d025_en_US_oca.trMA.AposTheotokion.melody
-trMA.AposTheotokion.text = tr.d025_en_US_oca.trMA.AposTheotokion.text
+trMA.AposTheotokion.melody = tr.d025_en_US_dedes.trMA.AposTheotokion.melody
+trMA.AposTheotokion.text = tr.d025_en_US_dedes.trMA.AposTheotokion.text
 
 trTE.Troparion.mode = tr.d025_en_US_dedes.trTE.Troparion.mode
 trTE.Troparion.melody = tr.d025_en_US_dedes.trTE.Troparion.melody
