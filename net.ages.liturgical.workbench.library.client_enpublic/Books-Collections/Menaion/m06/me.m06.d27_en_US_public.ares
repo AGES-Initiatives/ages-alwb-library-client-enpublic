@@ -18,16 +18,16 @@ meHO.note2 = me.m06.d27_en_US_dedes.meHO.note2
 meDismissal = me.m06.d27_en_US_dedes.meDismissal
 
 meVE.Stichera01.mode = me.m06.d27_en_US_dedes.meVE.Stichera01.mode
-meVE.Stichera01.melody = me.m06.d27_en_US_dedes.meVE.Stichera01.melody
-meVE.Stichera01.text = me.m06.d27_en_US_dedes.meVE.Stichera01.text
+meVE.Stichera01.melody = me.m06.d27_en_US_oca.meVE.Stichera01.melody
+meVE.Stichera01.text = me.m06.d27_en_US_oca.meVE.Stichera01.text
 
 meVE.Stichera02.mode = me.m06.d27_en_US_dedes.meVE.Stichera02.mode
-meVE.Stichera02.melody = me.m06.d27_en_US_dedes.meVE.Stichera02.melody
-meVE.Stichera02.text = me.m06.d27_en_US_dedes.meVE.Stichera02.text
+meVE.Stichera02.melody = me.m06.d27_en_US_oca.meVE.Stichera02.melody
+meVE.Stichera02.text = me.m06.d27_en_US_oca.meVE.Stichera02.text
 
 meVE.Stichera03.mode = me.m06.d27_en_US_dedes.meVE.Stichera03.mode
-meVE.Stichera03.melody = me.m06.d27_en_US_dedes.meVE.Stichera03.melody
-meVE.Stichera03.text = me.m06.d27_en_US_dedes.meVE.Stichera03.text
+meVE.Stichera03.melody = me.m06.d27_en_US_oca.meVE.Stichera03.melody
+meVE.Stichera03.text = me.m06.d27_en_US_oca.meVE.Stichera03.text
 
 meVE.SticTheotokion.mode = me.m06.d27_en_US_dedes.meVE.SticTheotokion.mode
 meVE.SticTheotokion.melody = me.m06.d27_en_US_dedes.meVE.SticTheotokion.melody
@@ -37,14 +37,17 @@ meVE.SticStavrotheotokion.mode = me.m06.d27_en_US_dedes.meVE.SticStavrotheotokio
 meVE.SticStavrotheotokion.melody = me.m06.d27_en_US_dedes.meVE.SticStavrotheotokion.melody
 meVE.SticStavrotheotokion.text = me.m06.d27_en_US_dedes.meVE.SticStavrotheotokion.text
 
-meVE.Apolytikion1.poet = me.m06.d27_en_US_dedes.meVE.Apolytikion1.poet
 meVE.Apolytikion1.mode = me.m06.d27_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m06.d27_en_US_dedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.text = me.m06.d27_en_US_dedes.meVE.Apolytikion1.text
 
+meVE.Apolytikion2.poet = me.m06.d27_en_US_dedes.meVE.Apolytikion2.poet
+meVE.Apolytikion2.mode = me.m06.d27_en_US_dedes.meVE.Apolytikion2.mode
+meVE.Apolytikion2.melody = me.m06.d27_en_US_dedes.meVE.Apolytikion2.melody
+meVE.Apolytikion2.text = me.m06.d27_en_US_dedes.meVE.Apolytikion2.text
+
 meMA.C1Acrostic.text = me.m06.d27_en_US_dedes.meMA.C1Acrostic.text
 
-//Corrected mode to 2, not Plagal 2 as PDF has
 meMA.C1.title = me.m06.d27_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m06.d27_en_US_dedes.meMA.C1.verse
 
