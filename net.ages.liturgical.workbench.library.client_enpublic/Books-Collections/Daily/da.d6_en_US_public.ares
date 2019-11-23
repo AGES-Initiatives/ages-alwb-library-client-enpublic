@@ -27,16 +27,16 @@ daMA.Photagogic2Beginning.text = da.d6_en_US_dedes.daMA.Photagogic2Beginning.tex
 daMA.Photagogic3Beginning.text = da.d6_en_US_dedes.daMA.Photagogic3Beginning.text
 
 daMA.Exaposteilarion1.mode = da.d6_en_US_dedes.daMA.Exaposteilarion1.mode
-daMA.Exaposteilarion1.melody = da.d6_en_UK_lash.daMA.Exaposteilarion1.melody
-daMA.Exaposteilarion1.text = da.d6_en_UK_lash.daMA.Exaposteilarion1.text
+daMA.Exaposteilarion1.melody = da.d6_en_US_dedes.daMA.Exaposteilarion1.melody
+daMA.Exaposteilarion1.text = da.d6_en_US_dedes.daMA.Exaposteilarion1.text
 
 daMA.Exaposteilarion2.mode = da.d6_en_US_dedes.daMA.Exaposteilarion2.mode
-daMA.Exaposteilarion2.melody = da.d6_en_US_dedes.daMA.Exaposteilarion2.melody
-daMA.Exaposteilarion2.text = da.d6_en_US_dedes.daMA.Exaposteilarion2.text
+daMA.Exaposteilarion2.melody = da.d6_en_UK_lash.daMA.Exaposteilarion2.melody
+daMA.Exaposteilarion2.text = da.d6_en_UK_lash.daMA.Exaposteilarion2.text
 
-daMA.ExapTheotokion.mode = da.d6_en_US_dedes.daMA.ExapTheotokion.mode
-daMA.ExapTheotokion.melody = da.d6_en_US_dedes.daMA.ExapTheotokion.melody
-daMA.ExapTheotokion.text = da.d6_en_US_dedes.daMA.ExapTheotokion.text
+daMA.ExapTheotokion2.mode = da.d6_en_US_dedes.daMA.ExapTheotokion2.mode
+daMA.ExapTheotokion2.melody = da.d6_en_US_dedes.daMA.ExapTheotokion2.melody
+daMA.ExapTheotokion2.text = da.d6_en_US_dedes.daMA.ExapTheotokion2.text
 
 daLI.CommunionHymn.text = da.d6_en_US_dedes.daLI.CommunionHymn.text
 
