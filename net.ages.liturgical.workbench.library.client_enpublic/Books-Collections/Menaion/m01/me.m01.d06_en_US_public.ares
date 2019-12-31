@@ -50,11 +50,6 @@ meVE.ProphecyTroparion2.mode = me.m01.d06_en_US_dedes.meVE.ProphecyTroparion2.mo
 meVE.ProphecyTroparion2.text = me.m01.d06_en_US_dedes.meVE.ProphecyTroparion2.text
 meVE.ProphecyTroparion2Refrain.text = me.m01.d06_en_US_dedes.meVE.ProphecyTroparion2Refrain.text
 
-meVE.TheotokosHymn.mode = me.m01.d06_en_US_dedes.meVE.TheotokosHymn.mode
-meVE.TheotokosHymn.text = me.m01.d06_en_US_dedes.meVE.TheotokosHymn.text
-
-meVE.MM.CommunionHymn.text = properties_en_US_public.media.key
-
 //Great Water Blessing for Jan 6 Epiphany
 meGW.title = me.m01.d06_en_UK_lash.meGW.title
 meGW.translator = me.m01.d06_en_UK_lash.meGW.translator
@@ -145,12 +140,14 @@ meVE.Lity5.text = me.m01.d06_en_US_oca.meVE.Lity5.text
 meVE.LityGlory.poet = me.m01.d06_en_US_dedes.meVE.LityGlory.poet
 meVE.LityGlory.mode = me.m01.d06_en_US_dedes.meVE.LityGlory.mode
 meVE.LityGlory.melody = me.m01.d06_en_US_dedes.meVE.LityGlory.melody
-meVE.LityGlory.text = me.m01.d06_en_US_oca.meVE.LityGlory.text
+meVE.LityGlory.text = me.m01.d06_en_US_dedes.meVE.LityGlory.text
 
 meVE.LityBoth.poet = me.m01.d06_en_US_dedes.meVE.LityBoth.poet
 meVE.LityBoth.mode = me.m01.d06_en_US_dedes.meVE.LityBoth.mode
 meVE.LityBoth.melody = me.m01.d06_en_US_dedes.meVE.LityBoth.melody
-meVE.LityBoth.text = me.m01.d06_en_US_oca.meVE.LityBoth.text
+meVE.LityBoth.text = me.m01.d06_en_US_dedes.meVE.LityBoth.text
+
+meVE.MM.LityBothasGloryBoth.text = properties_en_US_dedes.media.key
 
 meVE.Aposticha1.poet = me.m01.d06_en_US_dedes.meVE.Aposticha1.poet
 meVE.Aposticha1.mode = me.m01.d06_en_US_dedes.meVE.Aposticha1.mode
