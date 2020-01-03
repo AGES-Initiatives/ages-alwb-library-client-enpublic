@@ -222,15 +222,15 @@ psVE.breadhymn.v1.text = liturgical.verses_en_US_saas.psVE.breadhymn.v1.text
 
 //verses for aposticha and lauds
 
-psVE.angels.aposverses.v1.info = liturgical.verses_en_US_saas.psVE.angels.aposverses.v1.info
-psVE.angels.aposverses.v1.text = liturgical.verses_en_US_saas.psVE.angels.aposverses.v1.text
-psVE.angels.aposverses.v2.info = liturgical.verses_en_US_saas.psVE.angels.aposverses.v2.info
-psVE.angels.aposverses.v2.text = liturgical.verses_en_US_saas.psVE.angels.aposverses.v2.text
+psVE.angels.aposverse.v1.info = liturgical.verses_en_US_saas.psVE.angels.aposverse.v1.info
+psVE.angels.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.angels.aposverse.v1.text
+psVE.angels.aposverse.v2.info = liturgical.verses_en_US_saas.psVE.angels.aposverse.v2.info
+psVE.angels.aposverse.v2.text = liturgical.verses_en_US_saas.psVE.angels.aposverse.v2.text
 
-psVE.annunciation.aposverses.v1.info = liturgical.verses_en_US_saas.psVE.annunciation.aposverses.v1.info
-psVE.annunciation.aposverses.v1.text = liturgical.verses_en_US_saas.psVE.annunciation.aposverses.v1.text
-psVE.annunciation.aposverses.v2.info = liturgical.verses_en_US_saas.psVE.annunciation.aposverses.v2.info
-psVE.annunciation.aposverses.v2.text = liturgical.verses_en_US_saas.psVE.annunciation.aposverses.v2.text
+psVE.annunciation.aposverse.v1.info = liturgical.verses_en_US_saas.psVE.annunciation.aposverse.v1.info
+psVE.annunciation.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.annunciation.aposverse.v1.text
+psVE.annunciation.aposverse.v2.info = liturgical.verses_en_US_saas.psVE.annunciation.aposverse.v2.info
+psVE.annunciation.aposverse.v2.text = liturgical.verses_en_US_saas.psVE.annunciation.aposverse.v2.text
 
 psVE.apostle.aposverse.v1.info = liturgical.verses_en_US_saas.psVE.apostle.aposverse.v1.info
 psVE.apostle.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.apostle.aposverse.v1.text
