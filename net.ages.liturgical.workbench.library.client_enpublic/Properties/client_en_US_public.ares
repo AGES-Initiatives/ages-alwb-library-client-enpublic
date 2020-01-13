@@ -115,6 +115,7 @@ cl.ho.s10.R003 = "The appointed Psalms are offered here on separate pages for th
 
 cl.ho.s23.R001 = "In many monasteries and churches, the Canon of the Paraklesis is chanted without the Heirmoi (except perhaps in Ode ix of Small Paraklesis, in order to make an even number of troparia and thus to avoid repeating one.)"
 cl.ho.s23.R002 = "(The Heirmos may be omitted.)"
+cl.ho.s23.R003 = "(The Antiphon may be omitted, in which case we immediately sing the Prokeimenon.)"
 
 cl.hw.synaxarion.rubric = ""
 
