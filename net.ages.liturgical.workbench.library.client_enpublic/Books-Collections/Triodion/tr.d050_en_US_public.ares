@@ -35,10 +35,6 @@ trVE.AposGlory.mode = tr.d050_en_US_dedes.trVE.AposGlory.mode
 trVE.AposGlory.melody = tr.d050_en_US_dedes.trVE.AposGlory.melody
 trVE.AposGlory.text = tr.d050_en_US_dedes.trVE.AposGlory.text
 
-trVE.AposTheotokion.mode = tr.d050_en_US_dedes.trVE.AposTheotokion.mode
-trVE.AposTheotokion.melody = tr.d050_en_US_dedes.trVE.AposTheotokion.melody
-trVE.AposTheotokion.text = tr.d050_en_US_dedes.trVE.AposTheotokion.text
-
 trVE.Apolytikion1.mode = tr.d050_en_US_dedes.trVE.Apolytikion1.mode
 trVE.Apolytikion1.melody = tr.d050_en_US_dedes.trVE.Apolytikion1.melody
 trVE.GeneralApolytikion1.name = tr.d050_en_US_dedes.trVE.GeneralApolytikion1.name
