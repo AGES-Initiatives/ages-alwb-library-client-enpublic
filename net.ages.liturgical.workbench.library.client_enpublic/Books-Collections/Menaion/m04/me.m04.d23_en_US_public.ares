@@ -149,6 +149,7 @@ meMA.Kathisma31.melody = me.m04.d23_en_US_dedes.meMA.Kathisma31.melody
 meMA.Kathisma31.text = me.m04.d23_en_US_dedes.meMA.Kathisma31.text
 
 meMA.MM.Prokeimenon.text = properties_en_US_public.media.key
+
 meMA.PostGospelGlory.mode = me.m04.d23_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m04.d23_en_US_dedes.meMA.PostGospelGlory.melody
 meMA.PostGospelGlory.text = me.m04.d23_en_US_dedes.meMA.PostGospelGlory.text
@@ -160,6 +161,8 @@ meMA.PostGospelBoth.text = me.m04.d23_en_US_dedes.meMA.PostGospelBoth.text
 meMA.PostGospelIdiomelon.mode = me.m04.d23_en_US_dedes.meMA.PostGospelIdiomelon.mode
 meMA.PostGospelIdiomelon.melody = me.m04.d23_en_US_dedes.meMA.PostGospelIdiomelon.melody
 meMA.PostGospelIdiomelon.text = me.m04.d23_en_US_dedes.meMA.PostGospelIdiomelon.text
+
+meMA.MM.PostGospelIdiomelon.text = me.m04.d23_en_US_dedes.meMA.MM.PostGospelIdiomelon.text
 
 meMA.C1Acrostic.text = me.m04.d23_en_US_dedes.meMA.C1Acrostic.text
 
