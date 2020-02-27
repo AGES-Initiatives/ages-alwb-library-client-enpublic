@@ -336,6 +336,8 @@ peMA.Lauds8.mode = pe.d076_en_US_dedes.peMA.Lauds8.mode
 peMA.Lauds8.melody = pe.d076_en_US_dedes.peMA.Lauds8.melody
 peMA.Lauds8.text = pe.d076_en_US_dedes.peMA.Lauds8.text
 
-peMA.Lauds12.text = pe.d076_en_US_dedes.peMA.Lauds12.text // for media with saint
+peMA.MM.Lauds12as12.text = pe.d076_en_US_dedes.peMA.MM.Lauds12as12.text
+peMA.MM.Lauds1234as1234.text = pe.d076_en_US_dedes.peMA.MM.Lauds1234as1234.text
+peMA.MM.Lauds5678as5678.text = pe.d076_en_US_dedes.peMA.MM.Lauds5678as5678.text
 
 peMegalynarion.text = pe.d076_en_US_dedes.peMegalynarion.text
