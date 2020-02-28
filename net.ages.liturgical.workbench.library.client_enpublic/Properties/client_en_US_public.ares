@@ -166,14 +166,15 @@ cl.sb.vo.sun.R008 = "(Return to booklet: Dismissal)"
 cl.se.R001 = "Use the verses in the text if they differ from those in the scores."
 
 //Lent Soul Saturday
-cl.tr.d014.R001 = "The Patriarchal Typikon indicates, as usual, that the entire canon be sung. Typically in parishes only the Katavasias are chanted. This day does not present normal Katavasias, and the Heirmoi/Katavasias of the canon are so obscure that most of them do not appear in the published Heirmologia. Therefore, rather than present the texts of those Heirmoi, which thematically have nothing to do with the Saturday of the Souls, I have chosen instead to present Ode ix in its entirety, edited for the enrichment and edification of both chanters and listeners. Since Saturday of the Souls is not a great feast, Ode ix is, as usual, preceded by the Magnificat."
+cl.tr.d014.R001 = "The Patriarchal Typikon indicates, as usual, that the entire canon be sung. Typically in parishes only the Katavasias are chanted. This day does not present normal Katavasias, and the Heirmoi/Katavasias of the canon are so obscure that most of them do not appear in the published Heirmologia. Therefore, rather than present the texts of those Heirmoi, which thematically are unrelated to the Saturday of the Souls, I have chosen to present Ode ix in its entirety, for the enrichment and edification of both chanters and listeners. Since Saturday of the Souls is not a great feast, Ode ix is, as usual, preceded by the Magnificat."
 cl.tr.d014.R002 = "Each of the next five troparia may be preceded by the verse: \"Glory to You, our God, glory to You.\""
 
 //Lent Cheese Saturday
-cl.tr.d021.R001 = "The Patriarchal Typikon indicates, as usual, that the entire canon be sung. Typically in parishes only the Katavasias are chanted. This day does not present normal Katavasias, but rather Heirmoi chanted again at the end of each ode as Katavasias. These Heirmoi thematically have nothing to do with today's commemoration of the Ascetic Fathers, so I have chosen instead to present Ode ix in its entirety, for the enrichment and edification of both chanters and listeners. Since this Saturday of Cheesefare week is not a great feast, Ode ix is, as usual, preceded by the Magnificat."
+cl.tr.d021.R001 = "The Patriarchal Typikon indicates, as usual, that the entire canon be sung. Typically in parishes only the Katavasias are chanted. This day does not present normal Katavasias, but rather Heirmoi chanted again at the end of each ode as Katavasias. These somewhat obscure Heirmoi thematically are unrelated to today's commemoration of the Ascetic Fathers, so I have chosen to present Ode ix in its entirety, for the enrichment and edification of both chanters and listeners. Since this Saturday of Cheesefare week is not a great feast, Ode ix is, as usual, preceded by the Magnificat."
 
 //Forgiveness Vespers
 cl.tr.d023.R001 = "The mode and first four stichera from the Octoechos, as well as the last three stichera and Theotokion from the Menaion, depend on the date, and therefore they change from year to year."
+cl.tr.d023.R002 = "As the following Theotokion is being sung by the left choir, all the faithful in attendance file past the priest (or hierarch if present) to kiss his hand and receive forgiveness."
 
 //Sat of Akathist
 cl.tr.d056.R001 = "The priest, vested in epitrachilion and phelonion, stands before the Icon of the Theotokos, and he intones the Oikos."
