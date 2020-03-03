@@ -16,6 +16,12 @@ hoD08.Kontakion2.text = ho.s15.m05_en_US_dedes.hoD08.Kontakion2.text
 
 hoD11.GeneralApolytikion1.name = ho.s15.m05_en_US_dedes.hoD11.GeneralApolytikion1.name
 
+hoD12.Apolytikion2.title = ho.s15.m05_en_US_dedes.hoD12.Apolytikion2.title
+hoD12.Apolytikion2.poet = ho.s15.m05_en_US_dedes.hoD12.Apolytikion2.poet
+hoD12.Apolytikion2.mode = ho.s15.m05_en_US_dedes.hoD12.Apolytikion2.mode
+hoD12.Apolytikion2.melody = ho.s15.m05_en_US_dedes.hoD12.Apolytikion2.melody
+hoD12.Apolytikion2.text = ho.s15.m05_en_US_dedes.hoD12.Apolytikion2.text
+
 hoD15.GeneralApolytikion1.name = ho.s15.m05_en_US_dedes.hoD15.GeneralApolytikion1.name
 hoD15.GeneralApolytikion3.name = ho.s15.m05_en_US_dedes.hoD15.GeneralApolytikion3.name
 
