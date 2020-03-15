@@ -150,13 +150,17 @@ h3.html.tab = template.titles_en_US_dedes.h3.html.tab
 h3.pdf.header = template.titles_en_US_dedes.h3.pdf.header
 h3.pdf.cover = template.titles_en_US_dedes.h3.pdf.cover
 
+h36.html.tab = template.titles_en_US_dedes.h36.html.tab 
+h36.pdf.header = template.titles_en_US_dedes.h36.pdf.header
+h36.pdf.cover = template.titles_en_US_dedes.h36.pdf.cover
+
 h6.html.tab = template.titles_en_US_dedes.h6.html.tab 
 h6.pdf.header = template.titles_en_US_dedes.h6.pdf.header
 h6.pdf.cover = template.titles_en_US_dedes.h6.pdf.cover
 
-h36.html.tab = template.titles_en_US_dedes.h36.html.tab 
-h36.pdf.header = template.titles_en_US_dedes.h36.pdf.header
-h36.pdf.cover = template.titles_en_US_dedes.h36.pdf.cover
+h61.html.tab = template.titles_en_US_dedes.h61.html.tab 
+h61.pdf.header = template.titles_en_US_dedes.h61.pdf.header
+h61.pdf.cover = template.titles_en_US_dedes.h61.pdf.cover
 
 h9.html.tab = template.titles_en_US_dedes.h9.html.tab 
 h9.pdf.header = template.titles_en_US_dedes.h9.pdf.header
