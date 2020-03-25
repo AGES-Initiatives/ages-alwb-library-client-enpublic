@@ -57,8 +57,8 @@ ocMA.Kathisma12.melody = oc.m5.d6_en_US_dedes.ocMA.Kathisma12.melody
 ocMA.Kathisma12.text = oc.m5.d6_en_US_dedes.ocMA.Kathisma12.text
 
 ocMA.Kathisma13.mode = oc.m5.d6_en_US_dedes.ocMA.Kathisma13.mode
-ocMA.Kathisma13.melody = oc.m5.d6_en_US_dedes.ocMA.Kathisma13.melody
-ocMA.Kathisma13.text = oc.m5.d6_en_US_dedes.ocMA.Kathisma13.text
+ocMA.Kathisma13.melody = oc.m5.d6_en_US_oca.ocMA.Kathisma13.melody
+ocMA.Kathisma13.text = oc.m5.d6_en_US_oca.ocMA.Kathisma13.text
 
 ocMA.Kathisma21.mode = oc.m5.d6_en_US_dedes.ocMA.Kathisma21.mode
 ocMA.Kathisma21.melody = oc.m5.d6_en_US_dedes.ocMA.Kathisma21.melody
@@ -69,8 +69,8 @@ ocMA.Kathisma22.melody = oc.m5.d6_en_US_dedes.ocMA.Kathisma22.melody
 ocMA.Kathisma22.text = oc.m5.d6_en_US_dedes.ocMA.Kathisma22.text
 
 ocMA.Kathisma23.mode = oc.m5.d6_en_US_dedes.ocMA.Kathisma23.mode
-ocMA.Kathisma23.melody = oc.m5.d6_en_US_dedes.ocMA.Kathisma23.melody
-ocMA.Kathisma23.text = oc.m5.d6_en_US_dedes.ocMA.Kathisma23.text
+ocMA.Kathisma23.melody = oc.m5.d6_en_US_oca.ocMA.Kathisma23.melody
+ocMA.Kathisma23.text = oc.m5.d6_en_US_oca.ocMA.Kathisma23.text
 
 ocMA.Kathisma31.mode = oc.m5.d6_en_US_dedes.ocMA.Kathisma31.mode
 ocMA.Kathisma31.melody = oc.m5.d6_en_US_dedes.ocMA.Kathisma31.melody
@@ -489,12 +489,12 @@ ocMA.OdeW9C24.melody = oc.m5.d6_en_US_dedes.ocMA.OdeW9C24.melody
 ocMA.OdeW9C24.text = oc.m5.d6_en_US_dedes.ocMA.OdeW9C24.text
 
 ocMA.Aposticha1.mode = oc.m5.d6_en_US_dedes.ocMA.Aposticha1.mode
-ocMA.Aposticha1.melody = oc.m5.d6_en_US_dedes.ocMA.Aposticha1.melody
-ocMA.Aposticha1.text = oc.m5.d6_en_US_dedes.ocMA.Aposticha1.text
+ocMA.Aposticha1.melody = oc.m5.d6_en_US_oca.ocMA.Aposticha1.melody
+ocMA.Aposticha1.text = oc.m5.d6_en_US_oca.ocMA.Aposticha1.text
 
 ocMA.Aposticha2.mode = oc.m5.d6_en_US_dedes.ocMA.Aposticha2.mode
-ocMA.Aposticha2.melody = oc.m5.d6_en_US_dedes.ocMA.Aposticha2.melody
-ocMA.Aposticha2.text = oc.m5.d6_en_US_dedes.ocMA.Aposticha2.text
+ocMA.Aposticha2.melody = oc.m5.d6_en_US_oca.ocMA.Aposticha2.melody
+ocMA.Aposticha2.text = oc.m5.d6_en_US_oca.ocMA.Aposticha2.text
 
 ocMA.Aposticha3.mode = oc.m5.d6_en_US_dedes.ocMA.Aposticha3.mode
 ocMA.Aposticha3.melody = oc.m5.d6_en_US_dedes.ocMA.Aposticha3.melody
