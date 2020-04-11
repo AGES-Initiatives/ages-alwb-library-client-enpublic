@@ -319,8 +319,8 @@ meMA.Lauds4.text = me.m07.d08_en_US_dedes.meMA.Lauds4.text
 
 meMA.LaudsGlory.poet = me.m07.d08_en_US_dedes.meMA.LaudsGlory.poet
 meMA.LaudsGlory.mode = me.m07.d08_en_US_dedes.meMA.LaudsGlory.mode
-meMA.LaudsGlory.melody = me.m07.d08_en_US_oca.meMA.LaudsGlory.melody
-meMA.LaudsGlory.text = me.m07.d08_en_US_oca.meMA.LaudsGlory.text
+meMA.LaudsGlory.melody = me.m07.d08_en_US_dedes.meMA.LaudsGlory.melody
+meMA.LaudsGlory.text = me.m07.d08_en_US_dedes.meMA.LaudsGlory.text
 
 meMA.LaudsTheotokion.mode = me.m07.d08_en_US_dedes.meMA.LaudsTheotokion.mode
 meMA.LaudsTheotokion.melody = me.m07.d08_en_US_dedes.meMA.LaudsTheotokion.melody
