@@ -29,16 +29,16 @@ meVE.Stichera03.melody = me.m08.d17_en_US_dedes.meVE.Stichera03.melody
 meVE.Stichera03.text = me.m08.d17_en_US_dedes.meVE.Stichera03.text
 
 meVE.Stichera04.mode = me.m08.d17_en_US_dedes.meVE.Stichera04.mode
-meVE.Stichera04.melody = me.m08.d17_en_US_dedes.meVE.Stichera04.melody
-meVE.Stichera04.text = me.m08.d17_en_US_dedes.meVE.Stichera04.text
+meVE.Stichera04.melody = me.m08.d17_en_US_oca.meVE.Stichera04.melody
+meVE.Stichera04.text = me.m08.d17_en_US_oca.meVE.Stichera04.text
 
 meVE.Stichera05.mode = me.m08.d17_en_US_dedes.meVE.Stichera05.mode
-meVE.Stichera05.melody = me.m08.d17_en_US_dedes.meVE.Stichera05.melody
-meVE.Stichera05.text = me.m08.d17_en_US_dedes.meVE.Stichera05.text
+meVE.Stichera05.melody = me.m08.d17_en_US_oca.meVE.Stichera05.melody
+meVE.Stichera05.text = me.m08.d17_en_US_oca.meVE.Stichera05.text
 
 meVE.Stichera06.mode = me.m08.d17_en_US_dedes.meVE.Stichera06.mode
-meVE.Stichera06.melody = me.m08.d17_en_US_dedes.meVE.Stichera06.melody
-meVE.Stichera06.text = me.m08.d17_en_US_dedes.meVE.Stichera06.text
+meVE.Stichera06.melody = me.m08.d17_en_US_oca.meVE.Stichera06.melody
+meVE.Stichera06.text = me.m08.d17_en_US_oca.meVE.Stichera06.text
 
 meVE.SticGlory.mode = me.m08.d17_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m08.d17_en_US_dedes.meVE.SticGlory.melody
@@ -300,7 +300,7 @@ meMA.Aposticha3.text = me.m08.d17_en_US_dedes.meMA.Aposticha3.text
 meMA.AposGlory.poet = me.m08.d17_en_US_dedes.meMA.AposGlory.poet
 meMA.AposGlory.mode = me.m08.d17_en_US_dedes.meMA.AposGlory.mode
 meMA.AposGlory.melody = me.m08.d17_en_US_dedes.meMA.AposGlory.melody
-meMA.AposGlory.text = me.m08.d17_en_US_dedes.meMA.AposGlory.text
+meMA.AposGlory.text = me.m08.d17_en_US_oca.meMA.AposGlory.text
 
 meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 

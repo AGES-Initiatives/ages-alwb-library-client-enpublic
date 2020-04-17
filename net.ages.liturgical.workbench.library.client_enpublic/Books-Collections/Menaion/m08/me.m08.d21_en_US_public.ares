@@ -17,16 +17,16 @@ meHO.note1 = me.m08.d21_en_US_dedes.meHO.note1
 meHO.note2 = me.m08.d21_en_US_dedes.meHO.note2
 
 meVE.Stichera01.mode = me.m08.d21_en_US_dedes.meVE.Stichera01.mode
-meVE.Stichera01.melody = me.m08.d21_en_US_dedes.meVE.Stichera01.melody
-meVE.Stichera01.text = me.m08.d21_en_US_dedes.meVE.Stichera01.text
+meVE.Stichera01.melody = me.m08.d21_en_US_oca.meVE.Stichera01.melody
+meVE.Stichera01.text = me.m08.d21_en_US_oca.meVE.Stichera01.text
 
 meVE.Stichera02.mode = me.m08.d21_en_US_dedes.meVE.Stichera02.mode
-meVE.Stichera02.melody = me.m08.d21_en_US_dedes.meVE.Stichera02.melody
-meVE.Stichera02.text = me.m08.d21_en_US_dedes.meVE.Stichera02.text
+meVE.Stichera02.melody = me.m08.d21_en_US_oca.meVE.Stichera02.melody
+meVE.Stichera02.text = me.m08.d21_en_US_oca.meVE.Stichera02.text
 
 meVE.Stichera03.mode = me.m08.d21_en_US_dedes.meVE.Stichera03.mode
-meVE.Stichera03.melody = me.m08.d21_en_US_dedes.meVE.Stichera03.melody
-meVE.Stichera03.text = me.m08.d21_en_US_dedes.meVE.Stichera03.text
+meVE.Stichera03.melody = me.m08.d21_en_US_oca.meVE.Stichera03.melody
+meVE.Stichera03.text = me.m08.d21_en_US_oca.meVE.Stichera03.text
 
 meVE.Stichera04.mode = me.m08.d21_en_US_dedes.meVE.Stichera04.mode
 meVE.Stichera04.melody = me.m08.d21_en_US_dedes.meVE.Stichera04.melody
@@ -71,12 +71,12 @@ meVE.Apolytikion2.melody = me.m08.d21_en_US_dedes.meVE.Apolytikion2.melody
 meVE.Apolytikion2.text = me.m08.d21_en_US_dedes.meVE.Apolytikion2.text
 
 meMA.Kathisma11.mode = me.m08.d21_en_US_dedes.meMA.Kathisma11.mode
-meMA.Kathisma11.melody = me.m08.d21_en_US_dedes.meMA.Kathisma11.melody
-meMA.Kathisma11.text = me.m08.d21_en_US_dedes.meMA.Kathisma11.text
+meMA.Kathisma11.melody = me.m08.d21_en_US_oca.meMA.Kathisma11.melody
+meMA.Kathisma11.text = me.m08.d21_en_US_oca.meMA.Kathisma11.text
 
 meMA.Kathisma21.mode = me.m08.d21_en_US_dedes.meMA.Kathisma21.mode
-meMA.Kathisma21.melody = me.m08.d21_en_US_dedes.meMA.Kathisma21.melody
-meMA.Kathisma21.text = me.m08.d21_en_US_dedes.meMA.Kathisma21.text
+meMA.Kathisma21.melody = me.m08.d21_en_US_oca.meMA.Kathisma21.melody
+meMA.Kathisma21.text = me.m08.d21_en_US_oca.meMA.Kathisma21.text
 
 meMA.C1Acrostic.text = me.m08.d21_en_US_dedes.meMA.C1Acrostic.text
 
@@ -462,8 +462,8 @@ meMA.Ode9H.melody = me.m08.d21_en_US_dedes.meMA.Ode9H.melody
 meMA.Ode9H.text = me.m08.d21_en_US_dedes.meMA.Ode9H.text
 
 meMA.Exaposteilarion1.mode = me.m08.d21_en_US_dedes.meMA.Exaposteilarion1.mode
-meMA.Exaposteilarion1.melody = me.m08.d21_en_US_dedes.meMA.Exaposteilarion1.melody
-meMA.Exaposteilarion1.text = me.m08.d21_en_US_dedes.meMA.Exaposteilarion1.text
+meMA.Exaposteilarion1.melody = me.m08.d21_en_US_oca.meMA.Exaposteilarion1.melody
+meMA.Exaposteilarion1.text = me.m08.d21_en_US_oca.meMA.Exaposteilarion1.text
 
 meMA.Exaposteilarion2.mode = me.m08.d21_en_US_dedes.meMA.Exaposteilarion2.mode
 meMA.Exaposteilarion2.melody = me.m08.d21_en_US_dedes.meMA.Exaposteilarion2.melody
