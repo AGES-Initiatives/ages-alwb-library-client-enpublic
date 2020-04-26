@@ -31,7 +31,7 @@ meVE.Stichera03.text = me.m05.d02_en_US_repass.meVE.Stichera03.text
 meVE.SticGlory.poet = me.m05.d02_en_US_dedes.meVE.SticGlory.poet
 meVE.SticGlory.mode = me.m05.d02_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m05.d02_en_US_dedes.meVE.SticGlory.melody
-meVE.SticGlory.text = me.m05.d02_en_US_repass.meVE.SticGlory.text
+meVE.SticGlory.text = me.m05.d02_en_US_dedes.meVE.SticGlory.text
 
 meVE.LityGlory.poet = me.m05.d02_en_US_dedes.meVE.LityGlory.poet
 meVE.LityGlory.mode = me.m05.d02_en_US_dedes.meVE.LityGlory.mode
@@ -53,7 +53,7 @@ meVE.Aposticha3.text = me.m05.d02_en_US_repass.meVE.Aposticha3.text
 meVE.AposGlory.poet = me.m05.d02_en_US_dedes.meVE.AposGlory.poet
 meVE.AposGlory.mode = me.m05.d02_en_US_dedes.meVE.AposGlory.mode
 meVE.AposGlory.melody = me.m05.d02_en_US_dedes.meVE.AposGlory.melody
-meVE.AposGlory.text = me.m05.d02_en_US_repass.meVE.AposGlory.text
+meVE.AposGlory.text = me.m05.d02_en_US_dedes.meVE.AposGlory.text
 
 meVE.Apolytikion1.mode = me.m05.d02_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m05.d02_en_US_dedes.meVE.Apolytikion1.melody
