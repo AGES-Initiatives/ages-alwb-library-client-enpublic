@@ -21,10 +21,6 @@ peVE.Stichera02.mode = pe.d094_en_US_dedes.peVE.Stichera02.mode
 peVE.Stichera02.melody = pe.d094_en_US_dedes.peVE.Stichera02.melody
 peVE.Stichera02.text = pe.d094_en_US_dedes.peVE.Stichera02.text
 
-peVE.Stichera03.mode = pe.d094_en_US_dedes.peVE.Stichera03.mode
-peVE.Stichera03.melody = pe.d094_en_US_dedes.peVE.Stichera03.melody
-peVE.Stichera03.text = pe.d094_en_US_dedes.peVE.Stichera03.text
-
 peVE.SticGlory.mode = pe.d094_en_US_dedes.peVE.SticGlory.mode
 peVE.SticGlory.melody = pe.d094_en_US_dedes.peVE.SticGlory.melody
 peVE.SticGlory.text = pe.d094_en_US_dedes.peVE.SticGlory.text

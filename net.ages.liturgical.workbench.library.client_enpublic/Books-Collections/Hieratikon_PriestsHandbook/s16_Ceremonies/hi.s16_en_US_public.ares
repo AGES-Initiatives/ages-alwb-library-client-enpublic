@@ -2,21 +2,21 @@ A_Resource_Whose_Name = hi.s16_en_US_public
 
 hiCE.Key_0000.title = hi.s16_en_US_goa.hiCE.Key_0000.title
 
-hiCE.Key_0100.title = hi.s16_en_US_constantinides.hiCE.Key_0100.title
-hiCE.Key_0101.title = hi.s16_en_US_constantinides.hiCE.Key_0101.title
-hiCE.Key_0102.text = hi.s16_en_US_constantinides.hiCE.Key_0102.text
-hiCE.Key_0103.title = hi.s16_en_US_constantinides.hiCE.Key_0103.title
-hiCE.Key_0103.poet = hi.s16_en_US_constantinides.hiCE.Key_0103.poet
-hiCE.Key_0103.text = hi.s16_en_US_constantinides.hiCE.Key_0103.text
+hiCE.Key_0100.title = hi.s16_en_US_goa.hiCE.Key_0100.title
+hiCE.Key_0101.title = hi.s16_en_US_goa.hiCE.Key_0101.title
+hiCE.Key_0102.text = hi.s16_en_US_goa.hiCE.Key_0102.text
+hiCE.Key_0103.title = hi.s16_en_US_goa.hiCE.Key_0103.title
+hiCE.Key_0103.poet = hi.s16_en_US_goa.hiCE.Key_0103.poet
+hiCE.Key_0103.text = hi.s16_en_US_goa.hiCE.Key_0103.text
 
 hiCE.Key_0200.title = hi.s16_en_US_goa.hiCE.Key_0200.title
 hiCE.Key_0201.title = hi.s16_en_US_goa.hiCE.Key_0201.title
 hiCE.Key_0202.title = hi.s16_en_US_goa.hiCE.Key_0202.title
 hiCE.Key_0203.rubric = hi.s16_en_US_goa.hiCE.Key_0203.rubric
-hiCE.Key_0204.text = hi.s16_en_US_constantinides.hiCE.Key_0204.text
-hiCE.Key_0205.text = hi.s16_en_US_constantinides.hiCE.Key_0205.text
-hiCE.Key_0206.rubric = hi.s16_en_US_constantinides.hiCE.Key_0206.rubric
-hiCE.Key_0207.text = hi.s16_en_US_constantinides.hiCE.Key_0207.text
+hiCE.Key_0204.text = hi.s16_en_US_goa.hiCE.Key_0204.text
+hiCE.Key_0205.text = hi.s16_en_US_goa.hiCE.Key_0205.text
+hiCE.Key_0206.rubric = hi.s16_en_US_goa.hiCE.Key_0206.rubric
+hiCE.Key_0207.text = hi.s16_en_US_goa.hiCE.Key_0207.text
 
 hiCE.Key_0300.title = hi.s16_en_US_goa.hiCE.Key_0300.title
 hiCE.Key_0301.title = hi.s16_en_US_goa.hiCE.Key_0301.title
@@ -37,12 +37,12 @@ hiCE.Key_0315.title = hi.s16_en_US_goa.hiCE.Key_0315.title
 hiCE.Key_0316.text = hi.s16_en_US_goa.hiCE.Key_0316.text
 hiCE.Key_0317.rubric = hi.s16_en_US_goa.hiCE.Key_0317.rubric
 
-hiCE.Key_0400.title = hi.s16_en_US_constantinides.hiCE.Key_0400.title
-hiCE.Key_0401.title = hi.s16_en_US_constantinides.hiCE.Key_0401.title
-hiCE.Key_0402.title = hi.s16_en_US_constantinides.hiCE.Key_0402.title
-hiCE.Key_0402.text = hi.s16_en_US_constantinides.hiCE.Key_0402.text
-hiCE.Key_0403.rubric = hi.s16_en_US_constantinides.hiCE.Key_0403.rubric
-hiCE.Key_0404.text = hi.s16_en_US_constantinides.hiCE.Key_0404.text
-hiCE.Key_0405.text = hi.s16_en_US_constantinides.hiCE.Key_0405.text
-hiCE.Key_0406.rubric = hi.s16_en_US_constantinides.hiCE.Key_0406.rubric
-hiCE.Key_0407.text = hi.s16_en_US_constantinides.hiCE.Key_0407.text
+hiCE.Key_0400.title = hi.s16_en_US_goa.hiCE.Key_0400.title
+hiCE.Key_0401.title = hi.s16_en_US_goa.hiCE.Key_0401.title
+hiCE.Key_0402.title = hi.s16_en_US_goa.hiCE.Key_0402.title
+hiCE.Key_0402.text = hi.s16_en_US_goa.hiCE.Key_0402.text
+hiCE.Key_0403.rubric = hi.s16_en_US_goa.hiCE.Key_0403.rubric
+hiCE.Key_0404.text = hi.s16_en_US_goa.hiCE.Key_0404.text
+hiCE.Key_0405.text = hi.s16_en_US_goa.hiCE.Key_0405.text
+hiCE.Key_0406.rubric = hi.s16_en_US_goa.hiCE.Key_0406.rubric
+hiCE.Key_0407.text = hi.s16_en_US_goa.hiCE.Key_0407.text
