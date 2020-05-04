@@ -29,6 +29,11 @@ peVE.SticGlory.mode = pe.d095_en_US_public.peVE.SticGlory.mode
 peVE.SticGlory.melody = pe.d095_en_US_public.peVE.SticGlory.melody
 peVE.SticGlory.text = pe.d095_en_US_public.peVE.SticGlory.text
 
+peVE.MM.Stichera11as56.text = pe.d095_en_US_dedes.peVE.MM.Stichera11as56.text
+peVE.MM.Stichera1123as3456.text = pe.d095_en_US_dedes.peVE.MM.Stichera1123as3456.text
+peVE.MM.Stichera22as78.text = pe.d095_en_US_dedes.peVE.MM.Stichera22as78.text
+peVE.MM.Stichera33as910.text = pe.d095_en_US_dedes.peVE.MM.Stichera33as910.text
+
 peVE.Aposticha1.poet = pe.d095_en_US_public.peVE.Aposticha1.poet
 peVE.Aposticha1.mode = pe.d095_en_US_public.peVE.Aposticha1.mode
 peVE.Aposticha1.melody = pe.d095_en_US_public.peVE.Aposticha1.melody
