@@ -27,27 +27,27 @@ peVE.Stichera07.text = pe.d099_en_US_dedes.peVE.Stichera07.text
 
 peVE.Stichera08.mode = pe.d099_en_US_dedes.peVE.Stichera08.mode
 peVE.Stichera08.melody = pe.d099_en_US_dedes.peVE.Stichera08.melody
-peVE.Stichera08.text = pe.d099_en_UK_lash.peVE.Stichera08.text
+peVE.Stichera08.text = pe.d099_en_US_dedes.peVE.Stichera08.text
 
 peVE.Stichera09.mode = pe.d099_en_US_dedes.peVE.Stichera09.mode
 peVE.Stichera09.melody = pe.d099_en_US_dedes.peVE.Stichera09.melody
-peVE.Stichera09.text = pe.d099_en_UK_lash.peVE.Stichera09.text
+peVE.Stichera09.text = pe.d099_en_US_dedes.peVE.Stichera09.text
 
 peVE.Stichera10.mode = pe.d099_en_US_dedes.peVE.Stichera10.mode
 peVE.Stichera10.melody = pe.d099_en_US_dedes.peVE.Stichera10.melody
-peVE.Stichera10.text = pe.d099_en_UK_lash.peVE.Stichera10.text
+peVE.Stichera10.text = pe.d099_en_US_dedes.peVE.Stichera10.text
 
 peVE.SticGlory.mode = pe.d099_en_US_dedes.peVE.SticGlory.mode
 peVE.SticGlory.melody = pe.d099_en_US_dedes.peVE.SticGlory.melody
-peVE.SticGlory.text = pe.d099_en_UK_lash.peVE.SticGlory.text
+peVE.SticGlory.text = pe.d099_en_US_dedes.peVE.SticGlory.text
 
 peVE.LityGlory.mode = pe.d099_en_US_dedes.peVE.LityGlory.mode
 peVE.LityGlory.melody = pe.d099_en_US_dedes.peVE.LityGlory.melody
-peVE.LityGlory.text = pe.d099_en_UK_lash.peVE.LityGlory.text
+peVE.LityGlory.text = pe.d099_en_US_dedes.peVE.LityGlory.text
 
 peVE.AposGlory.mode = pe.d099_en_US_dedes.peVE.AposGlory.mode
 peVE.AposGlory.melody = pe.d099_en_US_dedes.peVE.AposGlory.melody
-peVE.AposGlory.text = pe.d099_en_UK_lash.peVE.AposGlory.text
+peVE.AposGlory.text = pe.d099_en_US_dedes.peVE.AposGlory.text
 
 peVE.Apolytikion1.mode = pe.d099_en_US_dedes.peVE.Apolytikion1.mode
 peVE.Apolytikion1.melody = pe.d099_en_US_dedes.peVE.Apolytikion1.melody
@@ -425,13 +425,9 @@ peMA.Lauds4.mode = pe.d099_en_US_dedes.peMA.Lauds4.mode
 peMA.Lauds4.melody = pe.d099_en_US_dedes.peMA.Lauds4.melody
 peMA.Lauds4.text = pe.d099_en_US_dedes.peMA.Lauds4.text
 
-peMA.LaudsVerse7.text = pe.d099_en_US_dedes.peMA.LaudsVerse7.text
-
 peMA.Lauds7.mode = pe.d099_en_US_dedes.peMA.Lauds7.mode
 peMA.Lauds7.melody = pe.d099_en_US_dedes.peMA.Lauds7.melody
 peMA.Lauds7.text = pe.d099_en_US_dedes.peMA.Lauds7.text
-
-peMA.LaudsVerse8.text = pe.d099_en_US_dedes.peMA.LaudsVerse8.text
 
 peMA.Lauds8.mode = pe.d099_en_US_dedes.peMA.Lauds8.mode
 peMA.Lauds8.melody = pe.d099_en_US_dedes.peMA.Lauds8.melody
