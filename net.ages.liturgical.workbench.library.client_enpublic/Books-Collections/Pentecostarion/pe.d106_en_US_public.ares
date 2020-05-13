@@ -37,8 +37,8 @@ peVE.SticGlory.mode = pe.d106_en_US_dedes.peVE.SticGlory.mode
 peVE.SticGlory.melody = pe.d106_en_US_dedes.peVE.SticGlory.melody
 peVE.SticGlory.text = pe.d106_en_US_dedes.peVE.SticGlory.text
 
-peVE.LityGlory.mode = pe.d106_en_UK_lash.peVE.LityGlory.mode
-peVE.LityGlory.melody = pe.d106_en_UK_lash.peVE.LityGlory.melody
+peVE.LityGlory.mode = pe.d106_en_US_dedes.peVE.LityGlory.mode
+peVE.LityGlory.melody = pe.d106_en_US_dedes.peVE.LityGlory.melody
 peVE.LityGlory.text = pe.d106_en_UK_lash.peVE.LityGlory.text
 
 peVE.LityBoth.mode = oc.m4.d1_en_US_holycross.ocVE.AposTheotokion.mode
@@ -413,11 +413,9 @@ peMA.Lauds4.mode = pe.d106_en_US_dedes.peMA.Lauds4.mode
 peMA.Lauds4.melody = pe.d106_en_US_dedes.peMA.Lauds4.melody
 peMA.Lauds4.text = pe.d106_en_US_dedes.peMA.Lauds4.text
 
-peMA.LaudsVerse8.text = pe.d106_en_US_dedes.peMA.LaudsVerse8.text
-
 peMA.Lauds8.mode = pe.d106_en_US_dedes.peMA.Lauds8.mode
 peMA.Lauds8.melody = pe.d106_en_US_dedes.peMA.Lauds8.melody
-peMA.Lauds8.text = pe.d106_en_US_dedes.peMA.Lauds8.text
+peMA.Lauds8.text = pe.d106_en_UK_lash.peMA.Lauds8.text
 
 peMA.LaudsGlory.mode = pe.d106_en_US_dedes.peMA.LaudsGlory.mode
 peMA.LaudsGlory.melody = pe.d106_en_US_dedes.peMA.LaudsGlory.melody
