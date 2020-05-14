@@ -43,13 +43,7 @@ meVE.Apolytikion1.text = me.m03.d17_en_US_dedes.meVE.Apolytikion1.text
 //this is not the same canon as in cog, but a general canon
 
 meMA.C1.notice = rubrical_en_US_public.DifferentMenaionCanonInEnglish
-meMA.C1Acrostic.text = me.m03.d17_en_US_dedes.meMA.C1Acrostic.text
-
-meMA.Ode1C1H.ode = me.m03.d17_en_US_dedes.meMA.Ode1C1H.ode
-meMA.Ode1C1H.mode = me.m03.d17_en_US_dedes.meMA.Ode1C1H.mode
-meMA.Ode1C1H.melody = me.m03.d17_en_US_dedes.meMA.Ode1C1H.melody
-meMA.Ode1C1H.text = me.m03.d17_en_US_dedes.meMA.Ode1C1H.text
-
+//meMA.C1Acrostic.text = me.m03.d17_en_US_dedes.meMA.C1Acrostic.text
 meMA.C1Acrostic.text = gm.foranascetic_en_UK_lash.meMA.C1Acrostic.text
 
 meMA.Ode1C1H.ode = gm.foranascetic_en_UK_lash.meMA.Ode1C1H.ode

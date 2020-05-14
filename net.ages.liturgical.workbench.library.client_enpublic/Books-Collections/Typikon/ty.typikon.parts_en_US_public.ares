@@ -49,7 +49,7 @@ tyPart.Doxology = ty.typikon.parts_en_US_dedes.tyPart.Doxology
 
 tyPart.AtLiturgy = ty.typikon.parts_en_US_dedes.tyPart.AtLiturgy
 tyPart.Antiphons = ty.typikon.parts_en_US_dedes.tyPart.Antiphons
-tyPart.Entrance = ty.typikon.parts_en_US_dedes.tyPart.Entrance
+//tyPart.Entrance = ty.typikon.parts_en_US_dedes.tyPart.Entrance
 tyPart.EntranceHymn = ty.typikon.parts_en_US_dedes.tyPart.EntranceHymn
 tyPart.AfterEntrance = ty.typikon.parts_en_US_dedes.tyPart.AfterEntrance
 tyPart.Kontakion = ty.typikon.parts_en_US_dedes.tyPart.Kontakion

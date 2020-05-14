@@ -267,11 +267,6 @@ trMA.Ode6C1T.mode = tr.d046_en_US_dedes.trMA.Ode6C1T.mode
 trMA.Ode6C1T.melody = tr.d046_en_UK_ware.trMA.Ode6C1T.melody
 trMA.Ode6C1T.text = tr.d046_en_UK_ware.trMA.Ode6C1T.text
 
-trMA.Ode6C1H.ode = tr.d046_en_US_dedes.trMA.Ode6C1H.ode
-trMA.Ode6C1H.mode = tr.d046_en_US_dedes.trMA.Ode6C1H.mode
-trMA.Ode6C1H.melody = tr.d046_en_UK_ware.trMA.Ode6C1H.melody
-trMA.Ode6C1H.text = tr.d046_en_UK_ware.trMA.Ode6C1H.text
-
 trMA.Kontakion1.mode = tr.d046_en_US_dedes.trMA.Kontakion1.mode
 trMA.Kontakion1.melody = tr.d046_en_US_dedes.trMA.Kontakion1.melody
 trMA.Kontakion1.text = tr.d046_en_US_dedes.trMA.Kontakion1.text
