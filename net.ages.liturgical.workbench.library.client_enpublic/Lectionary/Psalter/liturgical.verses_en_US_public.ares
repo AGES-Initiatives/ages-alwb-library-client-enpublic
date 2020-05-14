@@ -191,11 +191,6 @@ psVE.angels.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.angels.aposver
 psVE.angels.aposverse.v2.info = liturgical.verses_en_US_saas.psVE.angels.aposverse.v2.info
 psVE.angels.aposverse.v2.text = liturgical.verses_en_US_saas.psVE.angels.aposverse.v2.text
 
-//psVE.annunciation.aposverse.v1.info = liturgical.verses_en_US_saas.psVE.annunciation.aposverse.v1.info
-//psVE.annunciation.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.annunciation.aposverse.v1.text
-//psVE.annunciation.aposverse.v2.info = liturgical.verses_en_US_saas.psVE.annunciation.aposverse.v2.info
-//psVE.annunciation.aposverse.v2.text = liturgical.verses_en_US_saas.psVE.annunciation.aposverse.v2.text
-//
 psVE.apostle.aposverse.v1.info = liturgical.verses_en_US_saas.psVE.apostle.aposverse.v1.info
 psVE.apostle.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.apostle.aposverse.v1.text
 psVE.apostle.aposverse.v2.info = liturgical.verses_en_US_saas.psVE.apostle.aposverse.v2.info
@@ -206,21 +201,6 @@ psVE.apostles.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.apostles.apo
 psVE.apostles.aposverse.v2.info = liturgical.verses_en_US_saas.psVE.apostles.aposverse.v2.info
 psVE.apostles.aposverse.v2.text = liturgical.verses_en_US_saas.psVE.apostles.aposverse.v2.text
 
-//psVE.christmas.aposverse.v1.info = liturgical.verses_en_US_saas.psVE.christmas.aposverse.v1.info
-//psVE.christmas.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.christmas.aposverse.v1.text
-//psVE.christmas.aposverse.v2.info = liturgical.verses_en_US_saas.psVE.christmas.aposverse.v2.info
-//psVE.christmas.aposverse.v2.text = liturgical.verses_en_US_saas.psVE.christmas.aposverse.v2.text
-//
-//psVE.conceptionofanne.aposverse.v1.info = liturgical.verses_en_US_saas.psVE.conceptionofanne.aposverse.v1.info
-//psVE.conceptionofanne.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.conceptionofanne.aposverse.v1.text
-//psVE.conceptionofanne.aposverse.v2.info = liturgical.verses_en_US_saas.psVE.conceptionofanne.aposverse.v2.info
-//psVE.conceptionofanne.aposverse.v2.text = liturgical.verses_en_US_saas.psVE.conceptionofanne.aposverse.v2.text
-//
-//psVE.consecration.aposverse.v1.info = liturgical.verses_en_US_saas.psVE.consecration.aposverse.v1.info
-//psVE.consecration.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.consecration.aposverse.v1.text
-//psVE.consecration.aposverse.v2.info = liturgical.verses_en_US_saas.psVE.consecration.aposverse.v2.info
-//psVE.consecration.aposverse.v2.text = liturgical.verses_en_US_saas.psVE.consecration.aposverse.v2.text
-//
 psVE.cross.aposverse.v1.info = liturgical.verses_en_US_saas.psVE.cross.aposverse.v1.info
 psVE.cross.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.cross.aposverse.v1.text
 psVE.cross.aposverse.v2.info = liturgical.verses_en_US_saas.psVE.cross.aposverse.v2.info
@@ -242,40 +222,6 @@ psVE.devoutmen.aposverse.v3.text = liturgical.verses_en_US_saas.psVE.devoutmen.a
 psVE.devoutmen.aposverse.v4.info = liturgical.verses_en_US_saas.psVE.devoutmen.aposverse.v4.info
 psVE.devoutmen.aposverse.v4.text = liturgical.verses_en_US_saas.psVE.devoutmen.aposverse.v4.text
 
-//psVE.dormition.aposverse.v1.info = liturgical.verses_en_US_saas.psVE.dormition.aposverse.v1.info
-//psVE.dormition.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.dormition.aposverse.v1.text
-//psVE.dormition.aposverse.v2.info = liturgical.verses_en_US_saas.psVE.dormition.aposverse.v2.info
-//psVE.dormition.aposverse.v2.text = liturgical.verses_en_US_saas.psVE.dormition.aposverse.v2.text
-//
-//psVE.earthquake.aposverse.v1.info = liturgical.verses_en_US_saas.psVE.earthquake.aposverse.v1.info
-//psVE.earthquake.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.earthquake.aposverse.v1.text
-//psVE.earthquake.aposverse.v2.info = liturgical.verses_en_US_saas.psVE.earthquake.aposverse.v2.info
-//psVE.earthquake.aposverse.v2.text = liturgical.verses_en_US_saas.psVE.earthquake.aposverse.v2.text
-//
-//psVE.entry.aposverse.v1.info = liturgical.verses_en_US_saas.psVE.entry.aposverse.v1.info
-//psVE.entry.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.entry.aposverse.v1.text
-//psVE.entry.aposverse.v2.info = liturgical.verses_en_US_saas.psVE.entry.aposverse.v2.info
-//psVE.entry.aposverse.v2.text = liturgical.verses_en_US_saas.psVE.entry.aposverse.v2.text
-//
-//psVE.epiphany.aposverse.v1.info = liturgical.verses_en_US_saas.psVE.epiphany.aposverse.v1.info
-//psVE.epiphany.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.epiphany.aposverse.v1.text
-//psVE.epiphany.aposverse.v2.info = liturgical.verses_en_US_saas.psVE.epiphany.aposverse.v2.info
-//psVE.epiphany.aposverse.v2.text = liturgical.verses_en_US_saas.psVE.epiphany.aposverse.v2.text
-//psVE.epiphany.aposverse.v3.info = liturgical.verses_en_US_saas.psVE.epiphany.aposverse.v3.info
-//psVE.epiphany.aposverse.v3.text = liturgical.verses_en_US_saas.psVE.epiphany.aposverse.v3.text
-//psVE.epiphany.aposverse.v4.info = liturgical.verses_en_US_saas.psVE.epiphany.aposverse.v4.info
-//psVE.epiphany.aposverse.v4.text = liturgical.verses_en_US_saas.psVE.epiphany.aposverse.v4.text
-//
-//psVE.equaltoapostles.aposverse.v1.info = liturgical.verses_en_US_saas.psVE.equaltoapostles.aposverse.v1.info
-//psVE.equaltoapostles.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.equaltoapostles.aposverse.v1.text
-//psVE.equaltoapostles.aposverse.v2.info = liturgical.verses_en_US_saas.psVE.equaltoapostles.aposverse.v2.info
-//psVE.equaltoapostles.aposverse.v2.text = liturgical.verses_en_US_saas.psVE.equaltoapostles.aposverse.v2.text
-//
-//psVE.forefathers.aposverse.v1.info = liturgical.verses_en_US_saas.psVE.forefathers.aposverse.v1.info
-//psVE.forefathers.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.forefathers.aposverse.v1.text
-//psVE.forefathers.aposverse.v2.info = liturgical.verses_en_US_saas.psVE.forefathers.aposverse.v2.info
-//psVE.forefathers.aposverse.v2.text = liturgical.verses_en_US_saas.psVE.forefathers.aposverse.v2.text
-//
 psVE.forerunner.aposverse.v1.info = liturgical.verses_en_US_saas.psVE.forerunner.aposverse.v1.info
 psVE.forerunner.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.forerunner.aposverse.v1.text
 psVE.forerunner.aposverse.v2.info = liturgical.verses_en_US_saas.psVE.forerunner.aposverse.v2.info
@@ -311,13 +257,6 @@ psVE.hierarchs.aposverse.v5.text = liturgical.verses_en_US_saas.psVE.hierarchs.a
 psVE.hierarchs.aposverse.v6.info = liturgical.verses_en_US_saas.psVE.hierarchs.aposverse.v6.info
 psVE.hierarchs.aposverse.v6.text = liturgical.verses_en_US_saas.psVE.hierarchs.aposverse.v6.text
 
-//psVE.indiction.aposverse.v1.info = liturgical.verses_en_US_saas.psVE.indiction.aposverse.v1.info
-//psVE.indiction.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.indiction.aposverse.v1.text
-//psVE.indiction.aposverse.v2.info = liturgical.verses_en_US_saas.psVE.indiction.aposverse.v2.info
-//psVE.indiction.aposverse.v2.text = liturgical.verses_en_US_saas.psVE.indiction.aposverse.v2.text
-//psVE.indiction.aposverse.v3.info = liturgical.verses_en_US_saas.psVE.indiction.aposverse.v3.info
-//psVE.indiction.aposverse.v3.text = liturgical.verses_en_US_saas.psVE.indiction.aposverse.v3.text
-//
 psVE.martyrs.aposverse.v1.info = liturgical.verses_en_US_saas.psVE.martyrs.aposverse.v1.info
 psVE.martyrs.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.martyrs.aposverse.v1.text
 psVE.martyrs.aposverse.v2.info = liturgical.verses_en_US_saas.psVE.martyrs.aposverse.v2.info
@@ -325,11 +264,6 @@ psVE.martyrs.aposverse.v2.text = liturgical.verses_en_US_saas.psVE.martyrs.aposv
 psVE.martyrs.aposverse.v3.info = liturgical.verses_en_US_saas.psVE.martyrs.aposverse.v3.info
 psVE.martyrs.aposverse.v3.text = liturgical.verses_en_US_saas.psVE.martyrs.aposverse.v3.text
 
-//psVE.meeting.aposverse.v1.info = liturgical.verses_en_US_nkjv.psVE.meeting.aposverse.v1.info
-//psVE.meeting.aposverse.v1.text = liturgical.verses_en_US_nkjv.psVE.meeting.aposverse.v1.text
-//psVE.meeting.aposverse.v2.info = liturgical.verses_en_US_nkjv.psVE.meeting.aposverse.v2.info
-//psVE.meeting.aposverse.v2.text = liturgical.verses_en_US_nkjv.psVE.meeting.aposverse.v2.text
-//
 psVE.oneapostle.aposverse.v1.info = liturgical.verses_en_US_saas.psVE.oneapostle.aposverse.v1.info
 psVE.oneapostle.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.oneapostle.aposverse.v1.text
 psVE.oneapostle.aposverse.v2.info = liturgical.verses_en_US_saas.psVE.oneapostle.aposverse.v2.info
@@ -337,16 +271,6 @@ psVE.oneapostle.aposverse.v2.text = liturgical.verses_en_US_saas.psVE.oneapostle
 psVE.oneapostle.aposverse.v3.info = liturgical.verses_en_US_saas.psVE.oneapostle.aposverse.v3.info
 psVE.oneapostle.aposverse.v3.text = liturgical.verses_en_US_saas.psVE.oneapostle.aposverse.v3.text
 
-//psVE.prechristmas.aposverse.v1.info = liturgical.verses_en_US_saas.psVE.prechristmas.aposverse.v1.info
-//psVE.prechristmas.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.prechristmas.aposverse.v1.text
-//psVE.prechristmas.aposverse.v2.info = liturgical.verses_en_US_saas.psVE.prechristmas.aposverse.v2.info
-//psVE.prechristmas.aposverse.v2.text = liturgical.verses_en_US_saas.psVE.prechristmas.aposverse.v2.text
-//
-//psVE.preepiphany.aposverse.v1.info = liturgical.verses_en_US_saas.psVE.preepiphany.aposverse.v1.info
-//psVE.preepiphany.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.preepiphany.aposverse.v1.text
-//psVE.preepiphany.aposverse.v2.info = liturgical.verses_en_US_saas.psVE.preepiphany.aposverse.v2.info
-//psVE.preepiphany.aposverse.v2.text = liturgical.verses_en_US_saas.psVE.preepiphany.aposverse.v2.text
-//
 psVE.prophets.aposverse.v1.info = liturgical.verses_en_US_saas.psVE.prophets.aposverse.v1.info
 psVE.prophets.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.prophets.aposverse.v1.text
 psVE.prophets.aposverse.v2.info = liturgical.verses_en_US_saas.psVE.prophets.aposverse.v2.info
@@ -377,15 +301,6 @@ psVE.theotokosrobe.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.theotok
 psVE.theotokosrobe.aposverse.v2.info = liturgical.verses_en_US_saas.psVE.theotokosrobe.aposverse.v2.info
 psVE.theotokosrobe.aposverse.v2.text = liturgical.verses_en_US_saas.psVE.theotokosrobe.aposverse.v2.text
 
-//psVE.transfiguration.aposverse.v1.info = liturgical.verses_en_US_saas.psVE.transfiguration.aposverse.v1.info
-//psVE.transfiguration.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.transfiguration.aposverse.v1.text
-//psVE.transfiguration.aposverse.v2.info = liturgical.verses_en_US_saas.psVE.transfiguration.aposverse.v2.info
-//psVE.transfiguration.aposverse.v2.text = liturgical.verses_en_US_saas.psVE.transfiguration.aposverse.v2.text
-//psVE.transfiguration.aposverse.v3.info = liturgical.verses_en_US_saas.psVE.transfiguration.aposverse.v3.info
-//psVE.transfiguration.aposverse.v3.text = liturgical.verses_en_US_saas.psVE.transfiguration.aposverse.v3.text
-//psVE.transfiguration.aposverse.v4.info = liturgical.verses_en_US_saas.psVE.transfiguration.aposverse.v4.info
-//psVE.transfiguration.aposverse.v4.text = liturgical.verses_en_US_saas.psVE.transfiguration.aposverse.v4.text
-//
 psVE.unmercenaries.aposverse.v1.info = liturgical.verses_en_US_saas.psVE.unmercenaries.aposverse.v1.info
 psVE.unmercenaries.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.unmercenaries.aposverse.v1.text
 psVE.unmercenaries.aposverse.v2.info = liturgical.verses_en_US_saas.psVE.unmercenaries.aposverse.v2.info
@@ -637,12 +552,6 @@ psMA.angels.prokeimenon.v1.text = liturgical.verses_en_US_saas.psMA.angels.proke
 psMA.angels.prokeimenon.v2.info = liturgical.verses_en_US_saas.psMA.angels.prokeimenon.v2.info
 psMA.angels.prokeimenon.v2.text = liturgical.verses_en_US_saas.psMA.angels.prokeimenon.v2.text
 
-//psMA.annunciation.prokeimenon.title = liturgical.verses_en_US_saas.psMA.annunciation.prokeimenon.title
-//psMA.annunciation.prokeimenon.v1.info = liturgical.verses_en_US_saas.psMA.annunciation.prokeimenon.v1.info
-//psMA.annunciation.prokeimenon.v1.text = liturgical.verses_en_US_saas.psMA.annunciation.prokeimenon.v1.text
-//psMA.annunciation.prokeimenon.v2.info = liturgical.verses_en_US_saas.psMA.annunciation.prokeimenon.v2.info
-//psMA.annunciation.prokeimenon.v2.text = liturgical.verses_en_US_saas.psMA.annunciation.prokeimenon.v2.text
-//
 psMA.apostle.prokeimenon.title = liturgical.verses_en_US_saas.psMA.apostle.prokeimenon.title
 psMA.apostle.prokeimenon.v1.info = liturgical.verses_en_US_saas.psMA.apostle.prokeimenon.v1.info
 psMA.apostle.prokeimenon.v1.text = liturgical.verses_en_US_saas.psMA.apostle.prokeimenon.v1.text
@@ -655,48 +564,12 @@ psMA.apostles.prokeimenon.v1.text = liturgical.verses_en_US_saas.psMA.apostles.p
 psMA.apostles.prokeimenon.v2.info = liturgical.verses_en_US_saas.psMA.apostles.prokeimenon.v2.info
 psMA.apostles.prokeimenon.v2.text = liturgical.verses_en_US_saas.psMA.apostles.prokeimenon.v2.text
 
-//psMA.christmas.prokeimenon.title = liturgical.verses_en_US_saas.psMA.christmas.prokeimenon.title
-//psMA.christmas.prokeimenon.v1.info = liturgical.verses_en_US_saas.psMA.christmas.prokeimenon.v1.info
-//psMA.christmas.prokeimenon.v1.text = liturgical.verses_en_US_saas.psMA.christmas.prokeimenon.v1.text
-//psMA.christmas.prokeimenon.v2.info = liturgical.verses_en_US_saas.psMA.christmas.prokeimenon.v2.info
-//psMA.christmas.prokeimenon.v2.text = liturgical.verses_en_US_saas.psMA.christmas.prokeimenon.v2.text
-//
 psMA.cross.prokeimenon.title = liturgical.verses_en_US_saas.psMA.cross.prokeimenon.title
 psMA.cross.prokeimenon.v1.info = liturgical.verses_en_US_saas.psMA.cross.prokeimenon.v1.info
 psMA.cross.prokeimenon.v1.text = liturgical.verses_en_US_saas.psMA.cross.prokeimenon.v1.text
 psMA.cross.prokeimenon.v2.info = liturgical.verses_en_US_saas.psMA.cross.prokeimenon.v2.info
 psMA.cross.prokeimenon.v2.text = liturgical.verses_en_US_saas.psMA.cross.prokeimenon.v2.text
 
-//psMA.dormition.prokeimenon.title = liturgical.verses_en_US_saas.psMA.dormition.prokeimenon.title
-//psMA.dormition.prokeimenon.v1.info = liturgical.verses_en_US_saas.psMA.dormition.prokeimenon.v1.info
-//psMA.dormition.prokeimenon.v1.text = liturgical.verses_en_US_saas.psMA.dormition.prokeimenon.v1.text
-//psMA.dormition.prokeimenon.v2.info = liturgical.verses_en_US_saas.psMA.dormition.prokeimenon.v2.info
-//psMA.dormition.prokeimenon.v2.text = liturgical.verses_en_US_saas.psMA.dormition.prokeimenon.v2.text
-//
-//psMA.entry.prokeimenon.title = liturgical.verses_en_US_saas.psMA.entry.prokeimenon.title
-//psMA.entry.prokeimenon.v1.info = liturgical.verses_en_US_saas.psMA.entry.prokeimenon.v1.info
-//psMA.entry.prokeimenon.v1.text = liturgical.verses_en_US_saas.psMA.entry.prokeimenon.v1.text
-//psMA.entry.prokeimenon.v2.info = liturgical.verses_en_US_saas.psMA.entry.prokeimenon.v2.info
-//psMA.entry.prokeimenon.v2.text = liturgical.verses_en_US_saas.psMA.entry.prokeimenon.v2.text
-//
-//psMA.epiphany.prokeimenon.title = liturgical.verses_en_US_saas.psMA.epiphany.prokeimenon.title
-//psMA.epiphany.prokeimenon.v1.info = liturgical.verses_en_US_saas.psMA.epiphany.prokeimenon.v1.info
-//psMA.epiphany.prokeimenon.v1.text = liturgical.verses_en_US_saas.psMA.epiphany.prokeimenon.v1.text
-//psMA.epiphany.prokeimenon.v2.info = liturgical.verses_en_US_saas.psMA.epiphany.prokeimenon.v2.info
-//psMA.epiphany.prokeimenon.v2.text = liturgical.verses_en_US_saas.psMA.epiphany.prokeimenon.v2.text
-//
-//psMA.equaltoapostles.prokeimenon.title = liturgical.verses_en_US_saas.psMA.equaltoapostles.prokeimenon.title
-//psMA.equaltoapostles.prokeimenon.v1.info = liturgical.verses_en_US_saas.psMA.equaltoapostles.prokeimenon.v1.info
-//psMA.equaltoapostles.prokeimenon.v1.text = liturgical.verses_en_US_saas.psMA.equaltoapostles.prokeimenon.v1.text
-//psMA.equaltoapostles.prokeimenon.v2.info = liturgical.verses_en_US_saas.psMA.equaltoapostles.prokeimenon.v2.info
-//psMA.equaltoapostles.prokeimenon.v2.text = liturgical.verses_en_US_saas.psMA.equaltoapostles.prokeimenon.v2.text
-//
-//psMA.forerunnerbirth.prokeimenon.title = liturgical.verses_en_US_rsv.psMA.forerunnerbirth.prokeimenon.title
-//psMA.forerunnerbirth.prokeimenon.v1.info = liturgical.verses_en_US_rsv.psMA.forerunnerbirth.prokeimenon.v1.info
-//psMA.forerunnerbirth.prokeimenon.v1.text = liturgical.verses_en_US_rsv.psMA.forerunnerbirth.prokeimenon.v1.text
-//psMA.forerunnerbirth.prokeimenon.v2.info = liturgical.verses_en_US_rsv.psMA.forerunnerbirth.prokeimenon.v2.info
-//psMA.forerunnerbirth.prokeimenon.v2.text = liturgical.verses_en_US_rsv.psMA.forerunnerbirth.prokeimenon.v2.text
-//
 psMA.forerunnerhead.prokeimenon.title = liturgical.verses_en_US_saas.psMA.forerunnerhead.prokeimenon.title
 psMA.forerunnerhead.prokeimenon.v1.info = liturgical.verses_en_US_saas.psMA.forerunnerhead.prokeimenon.v1.info
 psMA.forerunnerhead.prokeimenon.v1.text = liturgical.verses_en_US_saas.psMA.forerunnerhead.prokeimenon.v1.text
@@ -727,12 +600,6 @@ psMA.holyprotection.prokeimenon.v1.text = liturgical.verses_en_US_saas.psMA.holy
 psMA.holyprotection.prokeimenon.v2.info = liturgical.verses_en_US_saas.psMA.holyprotection.prokeimenon.v2.info
 psMA.holyprotection.prokeimenon.v2.text = liturgical.verses_en_US_saas.psMA.holyprotection.prokeimenon.v2.text
 
-//psMA.indiction.prokeimenon.title = liturgical.verses_en_US_saas.psMA.indiction.prokeimenon.title
-//psMA.indiction.prokeimenon.v1.info = liturgical.verses_en_US_saas.psMA.indiction.prokeimenon.v1.info
-//psMA.indiction.prokeimenon.v1.text = liturgical.verses_en_US_saas.psMA.indiction.prokeimenon.v1.text
-//psMA.indiction.prokeimenon.v2.info = liturgical.verses_en_US_saas.psMA.indiction.prokeimenon.v2.info
-//psMA.indiction.prokeimenon.v2.text = liturgical.verses_en_US_saas.psMA.indiction.prokeimenon.v2.text
-//
 psMA.martyr1.prokeimenon.title = liturgical.verses_en_US_saas.psMA.martyr1.prokeimenon.title
 psMA.martyr1.prokeimenon.v1.info = liturgical.verses_en_US_saas.psMA.martyr1.prokeimenon.v1.info
 psMA.martyr1.prokeimenon.v1.text = liturgical.verses_en_US_saas.psMA.martyr1.prokeimenon.v1.text
@@ -787,12 +654,6 @@ psMA.theotokos1.prokeimenon.v1.text = liturgical.verses_en_US_saas.psMA.theotoko
 psMA.theotokos1.prokeimenon.v2.info = liturgical.verses_en_US_saas.psMA.theotokos1.prokeimenon.v2.info
 psMA.theotokos1.prokeimenon.v2.text = liturgical.verses_en_US_saas.psMA.theotokos1.prokeimenon.v2.text
 
-//psMA.trasfiguration.prokeimenon.title = liturgical.verses_en_US_saas.psMA.trasfiguration.prokeimenon.title
-//psMA.trasfiguration.prokeimenon.v1.info = liturgical.verses_en_US_saas.psMA.trasfiguration.prokeimenon.v1.info
-//psMA.trasfiguration.prokeimenon.v1.text = liturgical.verses_en_US_saas.psMA.trasfiguration.prokeimenon.v1.text
-//psMA.trasfiguration.prokeimenon.v2.info = liturgical.verses_en_US_saas.psMA.trasfiguration.prokeimenon.v2.info
-//psMA.trasfiguration.prokeimenon.v2.text = liturgical.verses_en_US_saas.psMA.trasfiguration.prokeimenon.v2.text
-//
 psMA.woman1.prokeimenon.title = liturgical.verses_en_US_saas.psMA.woman1.prokeimenon.title
 psMA.woman1.prokeimenon.v1.info = liturgical.verses_en_US_saas.psMA.woman1.prokeimenon.v1.info
 psMA.woman1.prokeimenon.v1.text = liturgical.verses_en_US_saas.psMA.woman1.prokeimenon.v1.text
