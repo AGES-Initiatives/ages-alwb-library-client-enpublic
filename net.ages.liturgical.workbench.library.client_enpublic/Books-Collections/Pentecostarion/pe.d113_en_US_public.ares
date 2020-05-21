@@ -35,11 +35,11 @@ peVE.SticGlory.text = pe.d113_en_US_dedes.peVE.SticGlory.text
 
 peVE.LityGlory.mode = pe.d113_en_US_dedes.peVE.LityGlory.mode
 peVE.LityGlory.melody = pe.d113_en_US_dedes.peVE.LityGlory.melody
-peVE.LityGlory.text = pe.d113_en_UK_lash.peVE.LityGlory.text
+peVE.LityGlory.text = pe.d113_en_US_dedes.peVE.LityGlory.text
 
 peVE.LityBoth.mode = pe.d113_en_US_dedes.peVE.LityBoth.mode
 peVE.LityBoth.melody = pe.d113_en_US_dedes.peVE.LityBoth.melody
-peVE.LityBoth.text = pe.d113_en_UK_lash.peVE.LityBoth.text
+peVE.LityBoth.text = pe.d113_en_US_dedes.peVE.LityBoth.text
 
 peVE.AposGlory.mode = pe.d113_en_US_dedes.peVE.AposGlory.mode
 peVE.AposGlory.melody = pe.d113_en_US_dedes.peVE.AposGlory.melody
@@ -47,7 +47,7 @@ peVE.AposGlory.text = pe.d113_en_UK_lash.peVE.AposGlory.text
 
 peVE.AposBoth.mode = pe.d113_en_US_dedes.peVE.AposBoth.mode
 peVE.AposBoth.melody = pe.d113_en_US_dedes.peVE.AposBoth.melody
-peVE.AposBoth.text = pe.d113_en_UK_lash.peVE.AposBoth.text
+peVE.AposBoth.text = pe.d113_en_US_dedes.peVE.AposBoth.text
 
 peVE.Apolytikion1.mode = pe.d113_en_US_dedes.peVE.Apolytikion1.mode
 peVE.Apolytikion1.melody = pe.d113_en_US_dedes.peVE.Apolytikion1.melody
