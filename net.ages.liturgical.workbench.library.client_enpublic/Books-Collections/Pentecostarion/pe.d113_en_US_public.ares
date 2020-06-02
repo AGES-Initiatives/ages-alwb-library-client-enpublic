@@ -13,6 +13,18 @@ peHO.note1 = pe.d113_en_US_dedes.peHO.note1
 peHO.note2 = pe.d113_en_US_dedes.peHO.note2
 peDismissal = pe.d113_en_US_dedes.peDismissal
 
+peVE.Stichera04.mode = pe.d113_en_US_dedes.peVE.Stichera04.mode
+peVE.Stichera04.melody = pe.d113_en_US_dedes.peVE.Stichera04.melody
+peVE.Stichera04.text = pe.d113_en_US_dedes.peVE.Stichera04.text
+
+peVE.Stichera05.mode = pe.d113_en_US_dedes.peVE.Stichera05.mode
+peVE.Stichera05.melody = pe.d113_en_US_dedes.peVE.Stichera05.melody
+peVE.Stichera05.text = pe.d113_en_US_dedes.peVE.Stichera05.text
+
+peVE.Stichera06.mode = pe.d113_en_US_dedes.peVE.Stichera06.mode
+peVE.Stichera06.melody = pe.d113_en_US_dedes.peVE.Stichera06.melody
+peVE.Stichera06.text = pe.d113_en_US_dedes.peVE.Stichera06.text
+
 peVE.Stichera07.mode = pe.d113_en_US_dedes.peVE.Stichera07.mode
 peVE.Stichera07.melody = pe.d113_en_UK_lash.peVE.Stichera07.melody
 peVE.Stichera07.text = pe.d113_en_UK_lash.peVE.Stichera07.text
@@ -43,7 +55,7 @@ peVE.LityBoth.text = pe.d113_en_US_dedes.peVE.LityBoth.text
 
 peVE.AposGlory.mode = pe.d113_en_US_dedes.peVE.AposGlory.mode
 peVE.AposGlory.melody = pe.d113_en_US_dedes.peVE.AposGlory.melody
-peVE.AposGlory.text = pe.d113_en_UK_lash.peVE.AposGlory.text
+peVE.AposGlory.text = pe.d113_en_US_dedes.peVE.AposGlory.text
 
 peVE.AposBoth.mode = pe.d113_en_US_dedes.peVE.AposBoth.mode
 peVE.AposBoth.melody = pe.d113_en_US_dedes.peVE.AposBoth.melody
