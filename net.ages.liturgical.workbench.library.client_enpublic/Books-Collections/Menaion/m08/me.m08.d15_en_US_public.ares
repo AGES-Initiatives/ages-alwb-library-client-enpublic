@@ -159,9 +159,6 @@ meMA.Kathisma31.mode = me.m08.d15_en_US_dedes.meMA.Kathisma31.mode
 meMA.Kathisma31.melody = me.m08.d15_en_US_dedes.meMA.Kathisma31.melody
 meMA.Kathisma31.text = me.m08.d15_en_US_dedes.meMA.Kathisma31.text
 
-meMA.MM.Prokeimenon.text = properties_en_US_public.media.key
-//from goarch: http://goarch.org/chapel/lectionary_view?type=MGandcode=370andlanguage=elanddate=8/15/2013
-
 meMA.PostGospelGlory.mode = me.m08.d15_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m08.d15_en_US_dedes.meMA.PostGospelGlory.melody
 meMA.PostGospelGlory.text = me.m08.d15_en_US_dedes.meMA.PostGospelGlory.text
