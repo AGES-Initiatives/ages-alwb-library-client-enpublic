@@ -4,6 +4,7 @@ A_Resource_Whose_Name = ho.s23_en_US_public
 hoCA.title = ho.s23_en_US_dedes.hoCA.title
 hoCA.title2 = ho.s23_en_US_dedes.hoCA.title2
 hoCA.poet = ho.s23_en_US_dedes.hoCA.poet
+hoCA.translator = ho.s23_en_US_dedes.hoCA.translator
 
 hoCA.media.text = ho.s23_en_US_dedes.hoCA.media.text //for complete music
 
