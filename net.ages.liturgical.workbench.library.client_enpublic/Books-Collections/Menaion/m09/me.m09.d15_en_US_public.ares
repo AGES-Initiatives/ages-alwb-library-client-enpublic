@@ -45,6 +45,10 @@ meVE.SticGlory.mode = me.m09.d15_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m09.d15_en_US_dedes.meVE.SticGlory.melody
 meVE.SticGlory.text = me.m09.d15_en_US_dedes.meVE.SticGlory.text
 
+meVE.SticBoth.mode = me.m09.d15_en_US_dedes.meVE.SticBoth.mode
+meVE.SticBoth.melody = me.m09.d15_en_US_dedes.meVE.SticBoth.melody
+meVE.SticBoth.text = me.m09.d15_en_US_dedes.meVE.SticBoth.text
+
 meVE.Aposticha1.mode = me.m09.d15_en_US_dedes.meVE.Aposticha1.mode
 meVE.Aposticha1.melody = me.m09.d15_en_US_dedes.meVE.Aposticha1.melody
 meVE.Aposticha1.text = me.m09.d15_en_US_dedes.meVE.Aposticha1.text
