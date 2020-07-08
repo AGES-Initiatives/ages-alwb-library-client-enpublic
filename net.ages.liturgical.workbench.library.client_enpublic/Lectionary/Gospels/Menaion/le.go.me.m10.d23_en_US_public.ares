@@ -1,5 +1,13 @@
 A_Resource_Whose_Name = le.go.me.m10.d23_en_US_public 
 
+lemeMA.Gospel.title = le.go.me.m10.d23_en_US_rsv.lemeMA.Gospel.title
+lemeMA.Gospel.title_abbr = le.go.me.m10.d23_en_US_rsv.lemeMA.Gospel.title_abbr
+lemeMA.Gospel.version = le.go.me.m10.d23_en_US_rsv.lemeMA.Gospel.version
+lemeMA.Gospel.book_string = le.go.me.m10.d23_en_US_rsv.lemeMA.Gospel.book_string
+lemeMA.Gospel.book_abbr = le.go.me.m10.d23_en_US_rsv.lemeMA.Gospel.book_abbr
+lemeMA.Gospel.chapverse = le.go.me.m10.d23_en_US_rsv.lemeMA.Gospel.chapverse
+lemeMA.Gospel.text = le.go.me.m10.d23_en_US_rsv.lemeMA.Gospel.text
+
 lemeLI.Gospel.title = le.go.me.m10.d23_en_US_rsv.lemeLI.Gospel.title
 lemeLI.Gospel.title_abbr = le.go.me.m10.d23_en_US_rsv.lemeLI.Gospel.title_abbr
 lemeLI.Gospel.version = le.go.me.m10.d23_en_US_rsv.lemeLI.Gospel.version 
