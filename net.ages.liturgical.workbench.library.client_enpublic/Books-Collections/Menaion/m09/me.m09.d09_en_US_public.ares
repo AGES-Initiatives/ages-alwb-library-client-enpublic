@@ -43,7 +43,7 @@ meVE.Stichera06.text = me.m09.d09_en_US_dedes.meVE.Stichera06.text
 meVE.SticGlory.poet = me.m09.d09_en_US_dedes.meVE.SticGlory.poet
 meVE.SticGlory.mode = me.m09.d09_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m09.d09_en_US_dedes.meVE.SticGlory.melody
-meVE.SticGlory.text = me.m09.d09_en_US_oca.meVE.SticGlory.text
+meVE.SticGlory.text = me.m09.d09_en_US_dedes.meVE.SticGlory.text
 
 meVE.Aposticha1.mode = me.m09.d09_en_US_dedes.meVE.Aposticha1.mode
 meVE.Aposticha1.melody = me.m09.d09_en_US_oca.meVE.Aposticha1.melody
@@ -59,7 +59,7 @@ meVE.Aposticha3.text = me.m09.d09_en_US_oca.meVE.Aposticha3.text
 
 meVE.AposGlory.mode = me.m09.d09_en_US_dedes.meVE.AposGlory.mode
 meVE.AposGlory.melody = me.m09.d09_en_US_dedes.meVE.AposGlory.melody
-meVE.AposGlory.text = me.m09.d09_en_US_oca.meVE.AposGlory.text
+meVE.AposGlory.text = me.m09.d09_en_US_dedes.meVE.AposGlory.text
 
 meVE.Apolytikion1.mode = me.m09.d09_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m09.d09_en_US_dedes.meVE.Apolytikion1.melody
@@ -483,7 +483,7 @@ meMA.Aposticha3.text = me.m09.d09_en_US_dedes.meMA.Aposticha3.text
 
 meMA.AposGlory.mode = me.m09.d09_en_US_dedes.meMA.AposGlory.mode
 meMA.AposGlory.melody = me.m09.d09_en_US_dedes.meMA.AposGlory.melody
-meMA.AposGlory.text = me.m09.d09_en_US_dedes.meMA.AposGlory.text
+meMA.AposGlory.text = me.m09.d09_en_US_oca.meMA.AposGlory.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
