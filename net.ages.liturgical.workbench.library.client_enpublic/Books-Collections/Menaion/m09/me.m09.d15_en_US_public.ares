@@ -295,8 +295,8 @@ meMA.Aposticha2.melody = me.m09.d15_en_US_oca.meMA.Aposticha2.melody
 meMA.Aposticha2.text = me.m09.d15_en_US_oca.meMA.Aposticha2.text
 
 meMA.Aposticha3.mode = me.m09.d15_en_US_dedes.meMA.Aposticha3.mode
-meMA.Aposticha3.melody = me.m09.d15_en_US_oca.meMA.Aposticha3.melody
-meMA.Aposticha3.text = me.m09.d15_en_US_oca.meMA.Aposticha3.text
+meMA.Aposticha3.melody = me.m09.d15_en_US_dedes.meMA.Aposticha3.melody
+meMA.Aposticha3.text = me.m09.d15_en_US_dedes.meMA.Aposticha3.text
 
 meMA.AposGlory.mode = me.m09.d15_en_US_dedes.meMA.AposGlory.mode
 meMA.AposGlory.melody = me.m09.d15_en_US_dedes.meMA.AposGlory.melody
