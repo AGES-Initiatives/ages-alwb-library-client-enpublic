@@ -29,8 +29,8 @@ meVE.Stichera03.melody = me.m03.d28_en_US_oca.meVE.Stichera03.melody
 meVE.Stichera03.text = me.m03.d28_en_US_oca.meVE.Stichera03.text
 
 meVE.SticTheotokion.mode = me.m03.d28_en_US_dedes.meVE.SticTheotokion.mode
-meVE.SticTheotokion.melody = me.m03.d28_en_UK_lash.meVE.SticTheotokion.melody
-meVE.SticTheotokion.text = me.m03.d28_en_UK_lash.meVE.SticTheotokion.text
+meVE.SticTheotokion.melody = me.m03.d28_en_US_dedes.meVE.SticTheotokion.melody
+meVE.SticTheotokion.text = me.m03.d28_en_US_dedes.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = me.m03.d28_en_US_dedes.meVE.SticStavrotheotokion.mode
 meVE.SticStavrotheotokion.melody = me.m03.d28_en_US_dedes.meVE.SticStavrotheotokion.melody
