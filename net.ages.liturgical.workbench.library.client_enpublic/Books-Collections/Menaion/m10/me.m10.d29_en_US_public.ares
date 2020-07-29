@@ -300,8 +300,8 @@ meMA.Ode6H.melody = me.m10.d29_en_US_dedes.meMA.Ode6H.melody
 meMA.Ode6H.text = me.m10.d29_en_US_dedes.meMA.Ode6H.text
 
 meMA.Kontakion1.mode = me.m10.d29_en_US_andronache.meMA.Kontakion1.mode
-meMA.Kontakion1.melody = me.m10.d29_en_US_andronache.meMA.Kontakion1.melody
-meMA.Kontakion1.text = me.m10.d29_en_US_andronache.meMA.Kontakion1.text
+meMA.Kontakion1.melody = me.m10.d29_en_US_dedes.meMA.Kontakion1.melody
+meMA.Kontakion1.text = me.m10.d29_en_US_dedes.meMA.Kontakion1.text
 
 meMA.Kontakion2.mode = me.m10.d29_en_US_dedes.meMA.Kontakion2.mode
 meMA.Kontakion2.melody = me.m10.d29_en_US_dedes.meMA.Kontakion2.melody
