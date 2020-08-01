@@ -57,7 +57,7 @@ meSV.AposBoth.melody = me.m11.d13_en_US_dedes.meSV.AposBoth.melody
 meSV.AposBoth.text = me.m11.d13_en_US_dedes.meSV.AposBoth.text
 
 meVE.Stichera01.mode = me.m11.d13_en_US_dedes.meVE.Stichera01.mode
-meVE.Stichera01.melody = me.m11.d13_en_US_dedes.meVE.Stichera01.melody
+meVE.Stichera01.melody = me.m11.d13_en_UK_lash.meVE.Stichera01.melody
 meVE.Stichera01.text = me.m11.d13_en_UK_lash.meVE.Stichera01.text
 
 meVE.Stichera02.mode = me.m11.d13_en_US_dedes.meVE.Stichera02.mode
@@ -69,8 +69,8 @@ meVE.Stichera03.melody = me.m11.d13_en_UK_lash.meVE.Stichera03.melody
 meVE.Stichera03.text = me.m11.d13_en_UK_lash.meVE.Stichera03.text
 
 meVE.SticGlory.mode = me.m11.d13_en_US_dedes.meVE.SticGlory.mode
-meVE.SticGlory.melody = me.m11.d13_en_UK_lash.meVE.SticGlory.melody
-meVE.SticGlory.text = me.m11.d13_en_UK_lash.meVE.SticGlory.text
+meVE.SticGlory.melody = me.m11.d13_en_US_dedes.meVE.SticGlory.melody
+meVE.SticGlory.text = me.m11.d13_en_US_dedes.meVE.SticGlory.text
 
 meVE.SticTheotokion.mode = me.m11.d13_en_US_dedes.meVE.SticTheotokion.mode
 meVE.SticTheotokion.melody = me.m11.d13_en_US_dedes.meVE.SticTheotokion.melody
@@ -113,15 +113,15 @@ meVE.LityBoth.melody = me.m11.d13_en_US_oca.meVE.LityBoth.melody
 meVE.LityBoth.text = me.m11.d13_en_US_oca.meVE.LityBoth.text
 
 meVE.Aposticha1.mode = me.m11.d13_en_US_dedes.meVE.Aposticha1.mode
-meVE.Aposticha1.melody = me.m11.d13_en_US_dedes.meVE.Aposticha1.melody
+meVE.Aposticha1.melody = me.m11.d13_en_UK_lash.meVE.Aposticha1.melody
 meVE.Aposticha1.text = me.m11.d13_en_UK_lash.meVE.Aposticha1.text
 
 meVE.Aposticha2.mode = me.m11.d13_en_US_dedes.meVE.Aposticha2.mode
-meVE.Aposticha2.melody = me.m11.d13_en_US_dedes.meVE.Aposticha2.melody
+meVE.Aposticha2.melody = me.m11.d13_en_UK_lash.meVE.Aposticha2.melody
 meVE.Aposticha2.text = me.m11.d13_en_UK_lash.meVE.Aposticha2.text
 
 meVE.Aposticha3.mode = me.m11.d13_en_US_dedes.meVE.Aposticha3.mode
-meVE.Aposticha3.melody = me.m11.d13_en_US_dedes.meVE.Aposticha3.melody
+meVE.Aposticha3.melody = me.m11.d13_en_UK_lash.meVE.Aposticha3.melody
 meVE.Aposticha3.text = me.m11.d13_en_UK_lash.meVE.Aposticha3.text
 
 meVE.AposGlory.mode = me.m11.d13_en_US_dedes.meVE.AposGlory.mode
