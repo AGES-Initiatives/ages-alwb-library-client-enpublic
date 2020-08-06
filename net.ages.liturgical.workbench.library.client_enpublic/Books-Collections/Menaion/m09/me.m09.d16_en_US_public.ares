@@ -336,7 +336,7 @@ meMA.LaudsGlory.text = me.m09.d16_en_US_dedes.meMA.LaudsGlory.text
 
 meMA.LaudsBoth.mode = me.m09.d16_en_US_dedes.meMA.LaudsBoth.mode
 meMA.LaudsBoth.melody = me.m09.d16_en_US_dedes.meMA.LaudsBoth.melody
-meMA.LaudsBoth.text = me.m09.d16_en_US_dedes.meMA.LaudsBoth.text
+meMA.LaudsBoth.text = me.m09.d16_en_US_oca.meMA.LaudsBoth.text
 
 meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
