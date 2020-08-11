@@ -47,7 +47,7 @@ meVE.Stichera06.text = me.m09.d01_en_UK_lash.meVE.Stichera06.text
 
 meVE.Stichera07.mode = me.m09.d01_en_US_dedes.meVE.Stichera07.mode
 meVE.Stichera07.melody = me.m09.d01_en_US_dedes.meVE.Stichera07.melody
-meVE.Stichera07.text = me.m09.d01_en_UK_lash.meVE.Stichera07.text
+meVE.Stichera07.text = me.m09.d01_en_US_dedes.meVE.Stichera07.text
 
 meVE.Stichera08.mode = me.m09.d01_en_US_dedes.meVE.Stichera08.mode
 meVE.Stichera08.melody = me.m09.d01_en_US_dedes.meVE.Stichera08.melody
@@ -76,7 +76,7 @@ meVE.SticBoth.text = me.m09.d01_en_UK_lash.meVE.SticBoth.text
 meVE.Aposticha1.poet = me.m09.d01_en_US_dedes.meVE.Aposticha1.poet
 meVE.Aposticha1.mode = me.m09.d01_en_US_dedes.meVE.Aposticha1.mode
 meVE.Aposticha1.melody = me.m09.d01_en_US_dedes.meVE.Aposticha1.melody
-meVE.Aposticha1.text = me.m09.d01_en_UK_lash.meVE.Aposticha1.text
+meVE.Aposticha1.text = me.m09.d01_en_US_dedes.meVE.Aposticha1.text
 
 meVE.Aposticha2.mode = me.m09.d01_en_US_dedes.meVE.Aposticha2.mode
 meVE.Aposticha2.melody = me.m09.d01_en_US_dedes.meVE.Aposticha2.melody
