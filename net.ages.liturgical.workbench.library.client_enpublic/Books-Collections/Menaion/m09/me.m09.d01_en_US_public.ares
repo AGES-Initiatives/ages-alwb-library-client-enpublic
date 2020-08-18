@@ -34,16 +34,19 @@ meVE.Stichera03.text = me.m09.d01_en_US_dedes.meVE.Stichera03.text
 meVE.MM.Stichera123as567.text = me.m09.d01_en_US_dedes.meVE.MM.Stichera123as567.text
 
 meVE.Stichera04.mode = me.m09.d01_en_US_dedes.meVE.Stichera04.mode
-meVE.Stichera04.melody = me.m09.d01_en_US_dedes.meVE.Stichera04.melody
+meVE.Stichera04.melody = me.m09.d01_en_UK_lash.meVE.Stichera04.melody
 meVE.Stichera04.text = me.m09.d01_en_UK_lash.meVE.Stichera04.text
 
 meVE.Stichera05.mode = me.m09.d01_en_US_dedes.meVE.Stichera05.mode
-meVE.Stichera05.melody = me.m09.d01_en_US_dedes.meVE.Stichera05.melody
+meVE.Stichera05.melody = me.m09.d01_en_UK_lash.meVE.Stichera05.melody
 meVE.Stichera05.text = me.m09.d01_en_UK_lash.meVE.Stichera05.text
 
 meVE.Stichera06.mode = me.m09.d01_en_US_dedes.meVE.Stichera06.mode
-meVE.Stichera06.melody = me.m09.d01_en_US_dedes.meVE.Stichera06.melody
+meVE.Stichera06.melody = me.m09.d01_en_UK_lash.meVE.Stichera06.melody
 meVE.Stichera06.text = me.m09.d01_en_UK_lash.meVE.Stichera06.text
+
+meVE.MM.Stichera456as456.text = me.m09.d01_en_UK_lash.meVE.MM.Stichera456as456.text
+meVE.MM.Stichera456as8910.text = me.m09.d01_en_UK_lash.meVE.MM.Stichera456as8910.text
 
 meVE.Stichera07.mode = me.m09.d01_en_US_dedes.meVE.Stichera07.mode
 meVE.Stichera07.melody = me.m09.d01_en_US_dedes.meVE.Stichera07.melody
