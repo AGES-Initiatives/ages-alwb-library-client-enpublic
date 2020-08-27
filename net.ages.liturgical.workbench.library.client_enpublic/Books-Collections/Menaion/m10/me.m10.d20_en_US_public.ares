@@ -30,8 +30,8 @@ meVE.Stichera03.text = me.m10.d20_en_US_dedes.meVE.Stichera03.text
 
 meVE.SticGlory.poet = me.m10.d20_en_US_dedes.meVE.SticGlory.poet
 meVE.SticGlory.mode = me.m10.d20_en_US_dedes.meVE.SticGlory.mode
-meVE.SticGlory.melody = me.m10.d20_en_US_oca.meVE.SticGlory.melody
-meVE.SticGlory.text = me.m10.d20_en_US_oca.meVE.SticGlory.text
+meVE.SticGlory.melody = me.m10.d20_en_US_dedes.meVE.SticGlory.melody
+meVE.SticGlory.text = me.m10.d20_en_US_dedes.meVE.SticGlory.text
 
 meVE.SticTheotokion.mode = me.m10.d20_en_US_dedes.meVE.SticTheotokion.mode
 meVE.SticTheotokion.melody = me.m10.d20_en_US_dedes.meVE.SticTheotokion.melody
