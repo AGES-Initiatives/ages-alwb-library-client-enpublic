@@ -350,8 +350,6 @@ meMA.LaudsGlory.mode = me.m05.d21_en_US_dedes.meMA.LaudsGlory.mode
 meMA.LaudsGlory.melody = me.m05.d21_en_US_dedes.meMA.LaudsGlory.melody
 meMA.LaudsGlory.text = me.m05.d21_en_US_dedes.meMA.LaudsGlory.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
-
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text

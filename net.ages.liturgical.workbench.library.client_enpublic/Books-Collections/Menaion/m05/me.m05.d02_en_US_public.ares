@@ -247,8 +247,6 @@ meMA.Lauds3.melody = me.m05.d02_en_US_dedes.meMA.Lauds3.melody
 meMA.Lauds3.text = me.m05.d02_en_US_dedes.meMA.Lauds3.text
 
 meMA.MM.Lauds123as456.text = properties_en_US_public.media.key
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
-
 meMA.LaudsGlory.mode = me.m05.d02_en_US_dedes.meMA.LaudsGlory.mode
 meMA.LaudsGlory.melody = me.m05.d02_en_US_dedes.meMA.LaudsGlory.melody
 meMA.LaudsGlory.text = me.m05.d02_en_US_dedes.meMA.LaudsGlory.text

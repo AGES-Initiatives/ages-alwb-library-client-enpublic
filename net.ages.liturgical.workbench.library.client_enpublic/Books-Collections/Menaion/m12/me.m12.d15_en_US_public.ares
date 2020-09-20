@@ -28,6 +28,8 @@ meVE.Stichera03.mode = me.m12.d15_en_US_dedes.meVE.Stichera03.mode
 meVE.Stichera03.melody = me.m12.d15_en_US_dedes.meVE.Stichera03.melody
 meVE.Stichera03.text = me.m12.d15_en_US_dedes.meVE.Stichera03.text
 
+meVE.MM.Stichera123as8910.text = me.m12.d15_en_US_dedes.meVE.MM.Stichera123as8910.text
+
 meVE.SticGlory.mode = me.m12.d15_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m12.d15_en_US_dedes.meVE.SticGlory.melody
 meVE.SticGlory.text = me.m12.d15_en_US_dedes.meVE.SticGlory.text
@@ -472,6 +474,8 @@ meMA.Lauds3.mode = me.m12.d15_en_US_dedes.meMA.Lauds3.mode
 meMA.Lauds3.melody = me.m12.d15_en_US_dedes.meMA.Lauds3.melody
 meMA.Lauds3.text = me.m12.d15_en_US_dedes.meMA.Lauds3.text
 
+meMA.MM.Lauds123as678.text = properties_en_US_public.media.key
+
 meMA.LaudsGlory.mode = me.m12.d15_en_US_dedes.meMA.LaudsGlory.mode
 meMA.LaudsGlory.melody = me.m12.d15_en_US_dedes.meMA.LaudsGlory.melody
 meMA.LaudsGlory.text = me.m12.d15_en_US_dedes.meMA.LaudsGlory.text
@@ -479,8 +483,6 @@ meMA.LaudsGlory.text = me.m12.d15_en_US_dedes.meMA.LaudsGlory.text
 meMA.LaudsTheotokion.mode = me.m12.d15_en_US_dedes.meMA.LaudsTheotokion.mode
 meMA.LaudsTheotokion.melody = me.m12.d15_en_US_dedes.meMA.LaudsTheotokion.melody
 meMA.LaudsTheotokion.text = me.m12.d15_en_US_dedes.meMA.LaudsTheotokion.text
-
-meMA.MM.Lauds123as678.text = properties_en_US_public.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

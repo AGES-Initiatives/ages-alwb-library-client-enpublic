@@ -796,8 +796,6 @@ meMA.LaudsBoth.mode = me.m01.d04_en_US_dedes.meMA.LaudsBoth.mode
 meMA.LaudsBoth.melody = me.m01.d04_en_UK_lash.meMA.LaudsBoth.melody
 meMA.LaudsBoth.text = me.m01.d04_en_UK_lash.meMA.LaudsBoth.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
-
 meMA.Aposticha1.mode = me.m01.d04_en_US_dedes.meMA.Aposticha1.mode
 meMA.Aposticha1.melody = me.m01.d04_en_UK_lash.meMA.Aposticha1.melody
 meMA.Aposticha1.text = me.m01.d04_en_UK_lash.meMA.Aposticha1.text

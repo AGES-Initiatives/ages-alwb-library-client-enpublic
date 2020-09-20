@@ -313,8 +313,6 @@ meMA.LaudsTheotokion.mode = me.m08.d02_en_US_dedes.meMA.LaudsTheotokion.mode
 meMA.LaudsTheotokion.melody = me.m08.d02_en_US_dedes.meMA.LaudsTheotokion.melody
 meMA.LaudsTheotokion.text = me.m08.d02_en_US_dedes.meMA.LaudsTheotokion.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
-
 meMA.AposGlory.mode = me.m08.d02_en_US_dedes.meMA.AposGlory.mode
 meMA.AposGlory.melody = me.m08.d02_en_US_dedes.meMA.AposGlory.melody
 meMA.AposGlory.text = me.m08.d02_en_US_oca.meMA.AposGlory.text

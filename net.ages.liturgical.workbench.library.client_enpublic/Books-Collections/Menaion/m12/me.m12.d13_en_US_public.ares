@@ -409,8 +409,6 @@ meMA.LaudsStavrotheotokion.mode = me.m12.d13_en_US_dedes.meMA.LaudsStavrotheotok
 meMA.LaudsStavrotheotokion.melody = me.m12.d13_en_US_dedes.meMA.LaudsStavrotheotokion.melody
 meMA.LaudsStavrotheotokion.text = me.m12.d13_en_US_dedes.meMA.LaudsStavrotheotokion.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
-
 meMA.AposGlory.poet = me.m12.d13_en_US_dedes.meMA.AposGlory.poet
 meMA.AposGlory.mode = me.m12.d13_en_US_dedes.meMA.AposGlory.mode
 meMA.AposGlory.melody = me.m12.d13_en_US_dedes.meMA.AposGlory.melody

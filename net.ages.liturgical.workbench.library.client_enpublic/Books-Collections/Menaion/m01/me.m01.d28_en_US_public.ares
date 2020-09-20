@@ -265,8 +265,6 @@ meMA.ExapTheotokion.mode = me.m01.d28_en_US_dedes.meMA.ExapTheotokion.mode
 meMA.ExapTheotokion.melody = me.m01.d28_en_US_dedes.meMA.ExapTheotokion.melody
 meMA.ExapTheotokion.text = me.m01.d28_en_US_dedes.meMA.ExapTheotokion.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
-
 meMA.AposGlory.poet = me.m01.d28_en_US_dedes.meMA.AposGlory.poet
 meMA.AposGlory.mode = me.m01.d28_en_US_dedes.meMA.AposGlory.mode
 meMA.AposGlory.melody = me.m01.d28_en_UK_lash.meMA.AposGlory.melody

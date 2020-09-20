@@ -321,8 +321,6 @@ meMA.LaudsBoth.mode = me.m01.d07_en_US_dedes.meMA.LaudsBoth.mode
 meMA.LaudsBoth.melody = me.m01.d07_en_US_dedes.meMA.LaudsBoth.melody
 meMA.LaudsBoth.text = me.m01.d07_en_US_dedes.meMA.LaudsBoth.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
-
 meLI.Antiphon2.text = me.m01.d07_en_US_dedes.meLI.Antiphon2.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode

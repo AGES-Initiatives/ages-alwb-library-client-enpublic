@@ -270,8 +270,6 @@ meMA.Exaposteilarion2.mode = me.m01.d12_en_US_dedes.meMA.Exaposteilarion2.mode
 meMA.Exaposteilarion2.melody = me.m01.d12_en_US_dedes.meMA.Exaposteilarion2.melody
 meMA.Exaposteilarion2.text = me.m01.d12_en_US_dedes.meMA.Exaposteilarion2.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
-
 meMA.Aposticha1.mode = me.m01.d12_en_US_dedes.meMA.Aposticha1.mode
 meMA.Aposticha1.melody = me.m01.d12_en_US_dedes.meMA.Aposticha1.melody
 meMA.Aposticha1.text = me.m01.d12_en_US_dedes.meMA.Aposticha1.text

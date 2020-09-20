@@ -46,8 +46,8 @@ meVE.SticGlory.text = me.m12.d22_en_US_dedes.meVE.SticGlory.text
 
 meVE.SticBoth.poet = me.m12.d22_en_US_dedes.meVE.SticBoth.poet
 meVE.SticBoth.mode = me.m12.d22_en_US_dedes.meVE.SticBoth.mode
-meVE.SticBoth.melody = me.m12.d22_en_UK_lash.meVE.SticBoth.melody
-meVE.SticBoth.text = me.m12.d22_en_UK_lash.meVE.SticBoth.text
+meVE.SticBoth.melody = me.m12.d22_en_US_dedes.meVE.SticBoth.melody
+meVE.SticBoth.text = me.m12.d22_en_US_dedes.meVE.SticBoth.text
 
 meVE.Aposticha1.mode = me.m12.d22_en_US_dedes.meVE.Aposticha1.mode
 meVE.Aposticha1.melody = me.m12.d22_en_UK_lash.meVE.Aposticha1.melody
@@ -67,8 +67,8 @@ meVE.AposGlory.melody = me.m12.d22_en_US_dedes.meVE.AposGlory.melody
 meVE.AposGlory.text = me.m12.d22_en_US_dedes.meVE.AposGlory.text
 
 meVE.AposBoth.mode = me.m12.d22_en_US_dedes.meVE.AposBoth.mode
-meVE.AposBoth.melody = me.m12.d22_en_UK_lash.meVE.AposBoth.melody
-meVE.AposBoth.text = me.m12.d22_en_UK_lash.meVE.AposBoth.text
+meVE.AposBoth.melody = me.m12.d22_en_US_dedes.meVE.AposBoth.melody
+meVE.AposBoth.text = me.m12.d22_en_US_dedes.meVE.AposBoth.text
 
 meVE.Apolytikion1.mode = me.m12.d22_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m12.d22_en_US_dedes.meVE.Apolytikion1.melody
@@ -699,8 +699,6 @@ meMA.LaudsBoth.mode = me.m12.d22_en_US_dedes.meMA.LaudsBoth.mode
 meMA.LaudsBoth.melody = me.m12.d22_en_UK_lash.meMA.LaudsBoth.melody
 meMA.LaudsBoth.text = me.m12.d22_en_UK_lash.meMA.LaudsBoth.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
-
 meMA.Aposticha1.mode = me.m12.d22_en_US_dedes.meMA.Aposticha1.mode
 meMA.Aposticha1.melody = me.m12.d22_en_UK_lash.meMA.Aposticha1.melody
 meMA.Aposticha1.text = me.m12.d22_en_UK_lash.meMA.Aposticha1.text
@@ -719,8 +717,8 @@ meMA.AposGlory.melody = me.m12.d22_en_UK_lash.meMA.AposGlory.melody
 meMA.AposGlory.text = me.m12.d22_en_UK_lash.meMA.AposGlory.text
 
 meMA.AposBoth.mode = me.m12.d22_en_US_dedes.meMA.AposBoth.mode
-meMA.AposBoth.melody = me.m12.d22_en_UK_lash.meMA.AposBoth.melody
-meMA.AposBoth.text = me.m12.d22_en_UK_lash.meMA.AposBoth.text
+meMA.AposBoth.melody = me.m12.d22_en_US_dedes.meMA.AposBoth.melody
+meMA.AposBoth.text = me.m12.d22_en_US_dedes.meMA.AposBoth.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

@@ -317,8 +317,6 @@ meMA.Exaposteilarion1.mode = me.m02.d03_en_US_dedes.meMA.Exaposteilarion1.mode
 meMA.Exaposteilarion1.melody = me.m02.d03_en_US_dedes.meMA.Exaposteilarion1.melody
 meMA.Exaposteilarion1.text = me.m02.d03_en_US_dedes.meMA.Exaposteilarion1.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
-
 meMA.Aposticha1.mode = me.m02.d03_en_US_dedes.meMA.Aposticha1.mode
 meMA.Aposticha1.melody = me.m02.d03_en_US_oca.meMA.Aposticha1.melody
 meMA.Aposticha1.text = me.m02.d03_en_US_oca.meMA.Aposticha1.text

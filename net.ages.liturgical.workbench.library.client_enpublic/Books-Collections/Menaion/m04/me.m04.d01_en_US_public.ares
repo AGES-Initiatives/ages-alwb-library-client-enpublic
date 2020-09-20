@@ -309,8 +309,6 @@ meMA.Ode9C1T.mode = me.m04.d01_en_US_dedes.meMA.Ode9C1T.mode
 meMA.Ode9C1T.melody = me.m04.d01_en_US_barrett.meMA.Ode9C1T.melody
 meMA.Ode9C1T.text = me.m04.d01_en_US_barrett.meMA.Ode9C1T.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
-
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text

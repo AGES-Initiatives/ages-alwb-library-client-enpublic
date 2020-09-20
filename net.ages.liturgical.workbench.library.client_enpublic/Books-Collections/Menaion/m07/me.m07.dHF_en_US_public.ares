@@ -28,6 +28,8 @@ meVE.Stichera03.mode = me.m07.dHF_en_US_dedes.meVE.Stichera03.mode
 meVE.Stichera03.melody = me.m07.dHF_en_US_boyer.meVE.Stichera03.melody
 meVE.Stichera03.text = me.m07.dHF_en_US_boyer.meVE.Stichera03.text
 
+meVE.MM.Stichera123as567.text = me.m07.dHF_en_US_boyer.meVE.MM.Stichera123as567.text
+
 meVE.Stichera04.mode = me.m07.dHF_en_US_dedes.meVE.Stichera04.mode
 meVE.Stichera04.melody = me.m07.dHF_en_US_boyer.meVE.Stichera04.melody
 meVE.Stichera04.text = me.m07.dHF_en_US_boyer.meVE.Stichera04.text
@@ -429,7 +431,7 @@ meMA.Lauds3.mode = me.m07.dHF_en_US_dedes.meMA.Lauds3.mode
 meMA.Lauds3.melody = me.m07.dHF_en_US_dedes.meMA.Lauds3.melody
 meMA.Lauds3.text = me.m07.dHF_en_US_dedes.meMA.Lauds3.text
 
-meMA.Lauds345.text = me.m07.dHF_en_US_dedes.meMA.Lauds345.text // for media
+meMA.MM.Lauds123as345.text = me.m07.dHF_en_US_dedes.meMA.MM.Lauds123as345.text
 
 meMA.LaudsGlory.mode = me.m07.dHF_en_US_dedes.meMA.LaudsGlory.mode
 meMA.LaudsGlory.melody = me.m07.dHF_en_US_dedes.meMA.LaudsGlory.melody
@@ -439,5 +441,4 @@ meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
-meMegalynarion.text = me.m07.dHF_en_UK_lash.meMegalynarion.text
-
+meMegalynarion.text = me.m07.dHF_en_US_dedes.meMegalynarion.text

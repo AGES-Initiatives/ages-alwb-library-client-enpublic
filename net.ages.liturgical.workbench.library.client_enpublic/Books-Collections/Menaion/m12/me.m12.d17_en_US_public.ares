@@ -66,8 +66,8 @@ meVE.AposGlory.melody = me.m12.d17_en_US_dedes.meVE.AposGlory.melody
 meVE.AposGlory.text = me.m12.d17_en_US_dedes.meVE.AposGlory.text
 
 meVE.AposBoth.mode = me.m12.d17_en_US_dedes.meVE.AposBoth.mode
-meVE.AposBoth.melody = me.m12.d17_en_US_oca.meVE.AposBoth.melody
-meVE.AposBoth.text = me.m12.d17_en_US_oca.meVE.AposBoth.text
+meVE.AposBoth.melody = me.m12.d17_en_US_dedes.meVE.AposBoth.melody
+meVE.AposBoth.text = me.m12.d17_en_US_dedes.meVE.AposBoth.text
 
 meVE.Apolytikion1.mode = me.m12.d17_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m12.d17_en_US_dedes.meVE.Apolytikion1.melody
@@ -426,8 +426,6 @@ meMA.Exaposteilarion1.text = me.m12.d17_en_US_oca.meMA.Exaposteilarion1.text
 meMA.ExapTheotokion.mode = me.m12.d17_en_US_dedes.meMA.ExapTheotokion.mode
 meMA.ExapTheotokion.melody = me.m12.d17_en_US_dedes.meMA.ExapTheotokion.melody
 meMA.ExapTheotokion.text = me.m12.d17_en_US_dedes.meMA.ExapTheotokion.text
-
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
 meMA.Aposticha1.mode = me.m12.d17_en_US_dedes.meMA.Aposticha1.mode
 meMA.Aposticha1.melody = me.m12.d17_en_US_oca.meMA.Aposticha1.melody

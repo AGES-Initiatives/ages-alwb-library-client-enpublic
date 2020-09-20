@@ -52,8 +52,8 @@ meVE.SticGlory.melody = me.m12.d20_en_UK_lash.meVE.SticGlory.melody
 meVE.SticGlory.text = me.m12.d20_en_UK_lash.meVE.SticGlory.text
 
 meVE.SticBoth.mode = me.m12.d20_en_US_dedes.meVE.SticBoth.mode
-meVE.SticBoth.melody = me.m12.d20_en_UK_lash.meVE.SticBoth.melody
-meVE.SticBoth.text = me.m12.d20_en_UK_lash.meVE.SticBoth.text
+meVE.SticBoth.melody = me.m12.d20_en_US_dedes.meVE.SticBoth.melody
+meVE.SticBoth.text = me.m12.d20_en_US_dedes.meVE.SticBoth.text
 
 meVE.Aposticha1.poet = me.m12.d20_en_US_dedes.meVE.Aposticha1.poet
 meVE.Aposticha1.mode = me.m12.d20_en_US_dedes.meVE.Aposticha1.mode
@@ -77,8 +77,8 @@ meVE.AposGlory.text = me.m12.d20_en_UK_lash.meVE.AposGlory.text
 
 meVE.AposBoth.poet = me.m12.d20_en_US_dedes.meVE.AposBoth.poet
 meVE.AposBoth.mode = me.m12.d20_en_US_dedes.meVE.AposBoth.mode
-meVE.AposBoth.melody = me.m12.d20_en_UK_lash.meVE.AposBoth.melody
-meVE.AposBoth.text = me.m12.d20_en_UK_lash.meVE.AposBoth.text
+meVE.AposBoth.melody = me.m12.d20_en_US_dedes.meVE.AposBoth.melody
+meVE.AposBoth.text = me.m12.d20_en_US_dedes.meVE.AposBoth.text
 
 meVE.Apolytikion1.mode = me.m12.d20_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m12.d20_en_US_dedes.meVE.Apolytikion1.melody
@@ -671,8 +671,6 @@ meMA.LaudsBoth.poet = me.m12.d20_en_US_dedes.meMA.LaudsBoth.poet
 meMA.LaudsBoth.mode = me.m12.d20_en_US_dedes.meMA.LaudsBoth.mode
 meMA.LaudsBoth.melody = me.m12.d20_en_UK_lash.meMA.LaudsBoth.melody
 meMA.LaudsBoth.text = me.m12.d20_en_UK_lash.meMA.LaudsBoth.text
-
-meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
 
 meMA.Aposticha1.mode = me.m12.d20_en_US_dedes.meMA.Aposticha1.mode
 meMA.Aposticha1.melody = me.m12.d20_en_UK_lash.meMA.Aposticha1.melody
