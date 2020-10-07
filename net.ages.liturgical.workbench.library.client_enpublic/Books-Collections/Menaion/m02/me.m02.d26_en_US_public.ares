@@ -185,8 +185,8 @@ meMA.Ode6C1T.melody = gm.forabishop_en_UK_lash.meMA.Ode6C1T.melody
 meMA.Ode6C1T.text = gm.forabishop_en_UK_lash.meMA.Ode6C1T.text
 
 meMA.Kontakion1.mode = me.m02.d26_en_US_dedes.meMA.Kontakion1.mode
-meMA.Kontakion1.melody = me.m02.d26_en_US_dedes.meMA.Kontakion1.melody
-meMA.Kontakion1.text = me.m02.d26_en_US_dedes.meMA.Kontakion1.text
+meMA.Kontakion1.melody = me.m02.d26_en_US_oca.meMA.Kontakion1.melody
+meMA.Kontakion1.text = me.m02.d26_en_US_oca.meMA.Kontakion1.text
 
 meMA.Oikos1.text = me.m02.d26_en_US_dedes.meMA.Oikos1.text
 
@@ -274,6 +274,8 @@ meMA.Ode9C1T.ode = gm.forabishop_en_UK_lash.meMA.Ode9C1T.ode
 meMA.Ode9C1T.mode = gm.forabishop_en_UK_lash.meMA.Ode9C1T.mode
 meMA.Ode9C1T.melody = gm.forabishop_en_UK_lash.meMA.Ode9C1T.melody
 meMA.Ode9C1T.text = gm.forabishop_en_UK_lash.meMA.Ode9C1T.text
+
+meMA.Ode9C1.notice = rubrical_en_US_public.DifferentMenaionOde9InEnglish
 
 meMA.Exaposteilarion1.mode = me.m02.d26_en_US_dedes.meMA.Exaposteilarion1.mode
 meMA.Exaposteilarion1.melody = me.m02.d26_en_US_dedes.meMA.Exaposteilarion1.melody

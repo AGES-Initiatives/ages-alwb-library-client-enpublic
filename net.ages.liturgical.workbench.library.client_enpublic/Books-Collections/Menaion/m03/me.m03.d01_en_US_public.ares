@@ -39,7 +39,6 @@ meVE.SticStavrotheotokion.mode = me.m03.d01_en_US_dedes.meVE.SticStavrotheotokio
 meVE.SticStavrotheotokion.melody = me.m03.d01_en_US_dedes.meVE.SticStavrotheotokion.melody
 meVE.SticStavrotheotokion.text = me.m03.d01_en_US_dedes.meVE.SticStavrotheotokion.text
 
-//added poet:
 meVE.SticGlory.poet = me.m03.d01_en_US_dedes.meVE.SticGlory.poet
 meVE.SticGlory.mode = me.m03.d01_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m03.d01_en_US_dedes.meVE.SticGlory.melody
@@ -258,6 +257,8 @@ meMA.Ode9C1T.ode = gm.forawomanmartyr_en_UK_lash.meMA.Ode9C1T.ode
 meMA.Ode9C1T.mode = gm.forawomanmartyr_en_UK_lash.meMA.Ode9C1T.mode
 meMA.Ode9C1T.melody = gm.forawomanmartyr_en_UK_lash.meMA.Ode9C1T.melody
 meMA.Ode9C1T.text = gm.forawomanmartyr_en_UK_lash.meMA.Ode9C1T.text
+
+meMA.Ode9C1.notice = rubrical_en_US_public.DifferentMenaionOde9InEnglish
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
