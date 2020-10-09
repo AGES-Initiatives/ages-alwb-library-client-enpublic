@@ -276,6 +276,8 @@ meMA.Ode9C1T.mode = gm.foranascetic_en_UK_lash.meMA.Ode9C1T.mode
 meMA.Ode9C1T.melody = gm.foranascetic_en_UK_lash.meMA.Ode9C1T.melody
 meMA.Ode9C1T.text = gm.foranascetic_en_UK_lash.meMA.Ode9C1T.text
 
+meMA.Ode9C1.notice = rubrical_en_US_public.DifferentMenaionOde9InEnglish
+
 meMA.Exaposteilarion1.mode = me.m03.d17_en_US_dedes.meMA.Exaposteilarion1.mode
 meMA.Exaposteilarion1.melody = me.m03.d17_en_US_dedes.meMA.Exaposteilarion1.melody
 meMA.Exaposteilarion1.text = me.m03.d17_en_US_dedes.meMA.Exaposteilarion1.text

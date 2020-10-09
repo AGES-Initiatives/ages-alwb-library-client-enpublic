@@ -188,14 +188,14 @@ meMA.Kontakion1.mode = me.m03.d04_en_US_dedes.meMA.Kontakion1.mode
 meMA.Kontakion1.melody = me.m03.d04_en_US_dedes.meMA.Kontakion1.melody
 meMA.Kontakion1.text = me.m03.d04_en_US_dedes.meMA.Kontakion1.text
 
-//meMA.Oikos1.text = me.m03.d04_en_US_dedes.meMA.Oikos1.text
-//meMA.Oikos12.text = me.m03.d04_en_US_dedes.meMA.Oikos12.text
-//meMA.Oikos13.text = me.m03.d04_en_US_dedes.meMA.Oikos13.text
-//meMA.Oikos14.text = me.m03.d04_en_US_dedes.meMA.Oikos14.text
-//meMA.Oikos15.text = me.m03.d04_en_US_dedes.meMA.Oikos15.text
-//meMA.Oikos16.text = me.m03.d04_en_US_dedes.meMA.Oikos16.text
-//meMA.Oikos17.text = me.m03.d04_en_US_dedes.meMA.Oikos17.text
-//meMA.Oikos18.text = me.m03.d04_en_US_dedes.meMA.Oikos18.text
+meMA.Oikos1.text = me.m03.d04_en_US_dedes.meMA.Oikos1.text
+meMA.Oikos12.text = me.m03.d04_en_US_dedes.meMA.Oikos12.text
+meMA.Oikos13.text = me.m03.d04_en_US_dedes.meMA.Oikos13.text
+meMA.Oikos14.text = me.m03.d04_en_US_dedes.meMA.Oikos14.text
+meMA.Oikos15.text = me.m03.d04_en_US_dedes.meMA.Oikos15.text
+meMA.Oikos16.text = me.m03.d04_en_US_dedes.meMA.Oikos16.text
+meMA.Oikos17.text = me.m03.d04_en_US_dedes.meMA.Oikos17.text
+meMA.Oikos18.text = me.m03.d04_en_US_dedes.meMA.Oikos18.text
 
 meMA.Ode7C1H.ode = me.m03.d04_en_US_dedes.meMA.Ode7C1H.ode
 meMA.Ode7C1H.mode = me.m03.d04_en_US_dedes.meMA.Ode7C1H.mode
