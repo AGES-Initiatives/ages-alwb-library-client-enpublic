@@ -625,8 +625,8 @@ octrMA.Lauds3.melody = oc.m8.d7_en_US_dedes.octrMA.Lauds3.melody
 octrMA.Lauds3.text = oc.m8.d7_en_US_dedes.octrMA.Lauds3.text
 
 octrMA.Lauds4.mode = oc.m8.d7_en_US_dedes.octrMA.Lauds4.mode
-octrMA.Lauds4.melody = oc.m8.d7_en_US_dedes.octrMA.Lauds4.melody 
-octrMA.Lauds4.text = oc.m8.d7_en_US_dedes.octrMA.Lauds4.text
+octrMA.Lauds4.melody = oc.m8.d7_en_US_oca.octrMA.Lauds4.melody 
+octrMA.Lauds4.text = oc.m8.d7_en_US_oca.octrMA.Lauds4.text
 
 octrMA.LaudsGlory.mode = oc.m8.d7_en_US_dedes.octrMA.LaudsGlory.mode
 octrMA.LaudsGlory.melody = oc.m8.d7_en_US_dedes.octrMA.LaudsGlory.melody 
@@ -637,12 +637,12 @@ octrMA.LaudsTheotokion.melody = oc.m8.d7_en_US_dedes.octrMA.LaudsTheotokion.melo
 octrMA.LaudsTheotokion.text = oc.m8.d7_en_US_dedes.octrMA.LaudsTheotokion.text
 
 octrMA.Aposticha1.mode = oc.m8.d7_en_US_dedes.octrMA.Aposticha1.mode
-octrMA.Aposticha1.melody = oc.m8.d7_en_US_dedes.octrMA.Aposticha1.melody 
-octrMA.Aposticha1.text = oc.m8.d7_en_US_dedes.octrMA.Aposticha1.text
+octrMA.Aposticha1.melody = oc.m8.d7_en_US_oca.octrMA.Aposticha1.melody 
+octrMA.Aposticha1.text = oc.m8.d7_en_US_oca.octrMA.Aposticha1.text
 
 octrMA.Aposticha2.mode = oc.m8.d7_en_US_dedes.octrMA.Aposticha2.mode
-octrMA.Aposticha2.melody = oc.m8.d7_en_US_dedes.octrMA.Aposticha2.melody 
-octrMA.Aposticha2.text = oc.m8.d7_en_US_dedes.octrMA.Aposticha2.text
+octrMA.Aposticha2.melody = oc.m8.d7_en_US_oca.octrMA.Aposticha2.melody 
+octrMA.Aposticha2.text = oc.m8.d7_en_US_oca.octrMA.Aposticha2.text
 
 octrMA.Aposticha3.mode = oc.m8.d7_en_US_dedes.octrMA.Aposticha3.mode
 octrMA.Aposticha3.melody = oc.m8.d7_en_US_dedes.octrMA.Aposticha3.melody 
@@ -653,5 +653,5 @@ octrMA.AposGlory.melody = oc.m8.d7_en_US_dedes.octrMA.AposGlory.melody
 octrMA.AposGlory.text = oc.m8.d7_en_US_dedes.octrMA.AposGlory.text
 
 octrMA.AposTheotokion.mode = oc.m8.d7_en_US_dedes.octrMA.AposTheotokion.mode
-octrMA.AposTheotokion.melody = oc.m8.d7_en_US_dedes.octrMA.AposTheotokion.melody 
-octrMA.AposTheotokion.text = oc.m8.d7_en_US_dedes.octrMA.AposTheotokion.text
+octrMA.AposTheotokion.melody = oc.m8.d7_en_US_oca.octrMA.AposTheotokion.melody 
+octrMA.AposTheotokion.text = oc.m8.d7_en_US_oca.octrMA.AposTheotokion.text

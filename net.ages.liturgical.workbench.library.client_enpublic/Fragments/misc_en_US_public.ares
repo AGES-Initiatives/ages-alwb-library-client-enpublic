@@ -22,6 +22,7 @@ separator.emdash = misc_en_US_dedes.separator.emdash
 separator.endash = misc_en_US_dedes.separator.endash
 separator.hyphen = misc_en_US_dedes.separator.hyphen
 separator.pipe = misc_en_US_dedes.separator.pipe
+separator.slash = misc_en_US_dedes.separator.slash
 
 vVerse = misc_en_US_dedes.vVerse
 vVerse1 = misc_en_US_dedes.vVerse1

@@ -296,6 +296,8 @@ meMA.Ode9C1T.mode = gm.foranascetic_en_UK_lash.meMA.Ode9C1T.mode
 meMA.Ode9C1T.melody = gm.foranascetic_en_UK_lash.meMA.Ode9C1T.melody
 meMA.Ode9C1T.text = gm.foranascetic_en_UK_lash.meMA.Ode9C1T.text
 
+meMA.Ode9C1.notice = rubrical_en_US_public.DifferentMenaionOde9InEnglish
+
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
