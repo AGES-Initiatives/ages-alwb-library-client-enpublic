@@ -285,16 +285,16 @@ meMA.Exaposteilarion1.melody = me.m04.d30_en_US_dedes.meMA.Exaposteilarion1.melo
 meMA.Exaposteilarion1.text = me.m04.d30_en_US_dedes.meMA.Exaposteilarion1.text
 
 meMA.Lauds1.mode = me.m04.d30_en_US_dedes.meMA.Lauds1.mode
-meMA.Lauds1.melody = me.m04.d30_en_US_oca.meMA.Lauds1.melody
-meMA.Lauds1.text = me.m04.d30_en_US_oca.meMA.Lauds1.text
+meMA.Lauds1.melody = me.m04.d30_en_US_dedes.meMA.Lauds1.melody
+meMA.Lauds1.text = me.m04.d30_en_US_dedes.meMA.Lauds1.text
 
 meMA.Lauds2.mode = me.m04.d30_en_US_dedes.meMA.Lauds2.mode
-meMA.Lauds2.melody = me.m04.d30_en_US_oca.meMA.Lauds2.melody
-meMA.Lauds2.text = me.m04.d30_en_US_oca.meMA.Lauds2.text
+meMA.Lauds2.melody = me.m04.d30_en_US_dedes.meMA.Lauds2.melody
+meMA.Lauds2.text = me.m04.d30_en_US_dedes.meMA.Lauds2.text
 
 meMA.Lauds3.mode = me.m04.d30_en_US_dedes.meMA.Lauds3.mode
-meMA.Lauds3.melody = me.m04.d30_en_US_oca.meMA.Lauds3.melody
-meMA.Lauds3.text = me.m04.d30_en_US_oca.meMA.Lauds3.text
+meMA.Lauds3.melody = me.m04.d30_en_US_dedes.meMA.Lauds3.melody
+meMA.Lauds3.text = me.m04.d30_en_US_dedes.meMA.Lauds3.text
 
 meMA.LaudsGlory.mode = me.m04.d30_en_US_dedes.meMA.LaudsGlory.mode
 meMA.LaudsGlory.melody = me.m04.d30_en_US_dedes.meMA.LaudsGlory.melody
