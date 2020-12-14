@@ -101,9 +101,9 @@ meMA.Ode3Kathisma1.mode = me.m02.d23_en_US_andronache.meMA.Ode3Kathisma1.mode
 meMA.Ode3Kathisma1.melody = me.m02.d23_en_US_andronache.meMA.Ode3Kathisma1.melody
 meMA.Ode3Kathisma1.text = me.m02.d23_en_US_andronache.meMA.Ode3Kathisma1.text
 
-meMA.Ode3KathismaT.mode = me.m02.d23_en_US_andronache.meMA.Ode3KathismaT.mode
-meMA.Ode3KathismaT.melody = me.m02.d23_en_US_andronache.meMA.Ode3KathismaT.melody
-meMA.Ode3KathismaT.text = me.m02.d23_en_US_andronache.meMA.Ode3KathismaT.text
+meMA.Ode3KathismaT.mode = me.m02.d23_en_US_dedes.meMA.Ode3KathismaT.mode
+meMA.Ode3KathismaT.melody = me.m02.d23_en_US_dedes.meMA.Ode3KathismaT.melody
+meMA.Ode3KathismaT.text = me.m02.d23_en_US_dedes.meMA.Ode3KathismaT.text
 
 meMA.Ode3KathismaSt.mode = me.m02.d23_en_US_dedes.meMA.Ode3KathismaSt.mode
 meMA.Ode3KathismaSt.melody = me.m02.d23_en_US_dedes.meMA.Ode3KathismaSt.melody
