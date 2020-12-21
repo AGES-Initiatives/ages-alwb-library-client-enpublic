@@ -999,6 +999,8 @@ alt1.meMA.Ode9C14.melody = me.m08.d16_en_US_dedes.alt1.meMA.Ode9C14.melody
 alt1.meMA.Ode9C14.text = me.m08.d16_en_US_dedes.alt1.meMA.Ode9C14.text
 
 alt1.meMA.Ode9C2M01.text = me.m08.d16_en_US_dedes.alt1.meMA.Ode9C2M01.text
+alt1.meMA.Ode9C2MTr.text = me.m08.d16_en_US_dedes.alt1.meMA.Ode9C2MTr.text
+alt1.meMA.Ode9C2MTh.text = me.m08.d16_en_US_dedes.alt1.meMA.Ode9C2MTh.text
 
 alt1.meMA.Ode9C21.ode = me.m08.d16_en_US_dedes.alt1.meMA.Ode9C21.ode
 alt1.meMA.Ode9C21.mode = me.m08.d16_en_US_dedes.alt1.meMA.Ode9C21.mode
@@ -1062,6 +1064,3 @@ alt1.meMA.LaudsBoth.text = me.m08.d16_en_US_dedes.alt1.meMA.LaudsBoth.text
 
 alt1.meMegalynarion.text = me.m08.d16_en_US_dedes.alt1.meMegalynarion.text
 alt1.meMegalynarion2.text = me.m08.d16_en_US_dedes.alt1.meMegalynarion2.text
-
-alt1.meCoupletv1.text = me.m08.d16_en_US_dedes.alt1.meCoupletv1.text
-alt1.meCoupletv2.text = me.m08.d16_en_US_dedes.alt1.meCoupletv2.text
