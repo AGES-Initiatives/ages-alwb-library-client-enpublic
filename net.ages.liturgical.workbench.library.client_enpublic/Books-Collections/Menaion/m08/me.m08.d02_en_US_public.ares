@@ -286,28 +286,28 @@ meMA.Ode9H.melody = me.m08.d02_en_US_dedes.meMA.Ode9H.melody
 meMA.Ode9H.text = me.m08.d02_en_US_dedes.meMA.Ode9H.text
 
 meMA.Exaposteilarion1.mode = me.m08.d02_en_US_dedes.meMA.Exaposteilarion1.mode
-meMA.Exaposteilarion1.melody = me.m08.d02_en_US_repass.meMA.Exaposteilarion1.melody
-meMA.Exaposteilarion1.text = me.m08.d02_en_US_repass.meMA.Exaposteilarion1.text
+meMA.Exaposteilarion1.melody = me.m08.d02_en_US_dedes.meMA.Exaposteilarion1.melody
+meMA.Exaposteilarion1.text = me.m08.d02_en_US_dedes.meMA.Exaposteilarion1.text
 
 meMA.ExapTheotokion.mode = me.m08.d02_en_US_dedes.meMA.ExapTheotokion.mode
-meMA.ExapTheotokion.melody = me.m08.d02_en_US_repass.meMA.ExapTheotokion.melody
-meMA.ExapTheotokion.text = me.m08.d02_en_US_repass.meMA.ExapTheotokion.text
+meMA.ExapTheotokion.melody = me.m08.d02_en_US_dedes.meMA.ExapTheotokion.melody
+meMA.ExapTheotokion.text = me.m08.d02_en_US_dedes.meMA.ExapTheotokion.text
 
 meMA.Lauds1.mode = me.m08.d02_en_US_dedes.meMA.Lauds1.mode
-meMA.Lauds1.melody = me.m08.d02_en_US_repass.meMA.Lauds1.melody
-meMA.Lauds1.text = me.m08.d02_en_US_repass.meMA.Lauds1.text
+meMA.Lauds1.melody = me.m08.d02_en_US_dedes.meMA.Lauds1.melody
+meMA.Lauds1.text = me.m08.d02_en_US_dedes.meMA.Lauds1.text
 
 meMA.Lauds2.mode = me.m08.d02_en_US_dedes.meMA.Lauds2.mode
-meMA.Lauds2.melody = me.m08.d02_en_US_repass.meMA.Lauds2.melody
-meMA.Lauds2.text = me.m08.d02_en_US_repass.meMA.Lauds2.text
+meMA.Lauds2.melody = me.m08.d02_en_US_dedes.meMA.Lauds2.melody
+meMA.Lauds2.text = me.m08.d02_en_US_dedes.meMA.Lauds2.text
 
 meMA.Lauds3.mode = me.m08.d02_en_US_dedes.meMA.Lauds3.mode
-meMA.Lauds3.melody = me.m08.d02_en_US_repass.meMA.Lauds3.melody
-meMA.Lauds3.text = me.m08.d02_en_US_repass.meMA.Lauds3.text
+meMA.Lauds3.melody = me.m08.d02_en_US_dedes.meMA.Lauds3.melody
+meMA.Lauds3.text = me.m08.d02_en_US_dedes.meMA.Lauds3.text
 
 meMA.LaudsGlory.mode = me.m08.d02_en_US_dedes.meMA.LaudsGlory.mode
 meMA.LaudsGlory.melody = me.m08.d02_en_US_dedes.meMA.LaudsGlory.melody
-meMA.LaudsGlory.text = me.m08.d02_en_US_repass.meMA.LaudsGlory.text
+meMA.LaudsGlory.text = me.m08.d02_en_US_dedes.meMA.LaudsGlory.text
 
 meMA.LaudsTheotokion.mode = me.m08.d02_en_US_dedes.meMA.LaudsTheotokion.mode
 meMA.LaudsTheotokion.melody = me.m08.d02_en_US_dedes.meMA.LaudsTheotokion.melody
@@ -315,7 +315,7 @@ meMA.LaudsTheotokion.text = me.m08.d02_en_US_dedes.meMA.LaudsTheotokion.text
 
 meMA.AposGlory.mode = me.m08.d02_en_US_dedes.meMA.AposGlory.mode
 meMA.AposGlory.melody = me.m08.d02_en_US_dedes.meMA.AposGlory.melody
-meMA.AposGlory.text = me.m08.d02_en_US_oca.meMA.AposGlory.text
+meMA.AposGlory.text = me.m08.d02_en_US_dedes.meMA.AposGlory.text
 
 meMA.AposTheotokion.mode = me.m08.d02_en_US_dedes.meMA.AposTheotokion.mode
 meMA.AposTheotokion.melody = me.m08.d02_en_US_dedes.meMA.AposTheotokion.melody
