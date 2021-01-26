@@ -830,6 +830,7 @@ ForFriday = titles_en_US_dedes.ForFriday
 ForSaturday = titles_en_US_dedes.ForSaturday
 ForWeekday = titles_en_US_dedes.ForWeekday
 Evening = titles_en_US_dedes.Evening
+Evening.uc = titles_en_US_dedes.Evening.uc
 intheEvening = titles_en_US_dedes.intheEvening
 Morning = titles_en_US_dedes.Morning
 beforeMeatFareSunday = titles_en_US_dedes.beforeMeatFareSunday
