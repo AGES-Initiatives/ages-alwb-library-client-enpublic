@@ -1,5 +1,8 @@
 A_Resource_Whose_Name = oc.m1.d1_en_US_public
 
+ocBK.title = oc.m1.d1_en_US_dedes.ocBK.title
+ocBK.mode.title = oc.m1.d1_en_US_dedes.ocBK.mode.title
+
 ocGE.MM.GlorySticheraric.text = properties_en_US_public.media.key
 
 ocGE.MM.BothSticheraric.text = properties_en_US_public.media.key
