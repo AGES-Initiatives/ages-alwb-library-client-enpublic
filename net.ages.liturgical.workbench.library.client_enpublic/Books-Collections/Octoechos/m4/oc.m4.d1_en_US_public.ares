@@ -408,8 +408,8 @@ ocMA.OdeS3C1T.text = oc.m4.d1_en_UK_lash.ocMA.OdeS3C1T.text
 
 ocMA.OdeS3C2H.mode = oc.m4.d1_en_US_dedes.ocMA.OdeS3C2H.mode
 ocMA.OdeS3C2H.ode = oc.m4.d1_en_US_dedes.ocMA.OdeS3C2H.ode
-ocMA.OdeS3C2H.melody = oc.m4.d1_en_US_dedes.ocMA.OdeS3C2H.melody
-ocMA.OdeS3C2H.text = oc.m4.d1_en_US_dedes.ocMA.OdeS3C2H.text
+ocMA.OdeS3C2H.melody = oc.m4.d1_en_UK_lash.ocMA.OdeS3C2H.melody
+ocMA.OdeS3C2H.text = oc.m4.d1_en_UK_lash.ocMA.OdeS3C2H.text
 
 ocMA.OdeS3C21.mode = oc.m4.d1_en_US_dedes.ocMA.OdeS3C21.mode
 ocMA.OdeS3C21.ode = oc.m4.d1_en_US_dedes.ocMA.OdeS3C21.ode

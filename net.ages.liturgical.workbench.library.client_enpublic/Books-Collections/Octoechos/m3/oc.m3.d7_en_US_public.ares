@@ -561,6 +561,14 @@ ocLI.BeatitudesT.text = oc.m3.d7_en_US_dedes.ocLI.BeatitudesT.text
 
 ocLI.MM.Beatitudes1234TrTas78910GB.text = oc.m3.d7_en_US_dedes.ocLI.MM.Beatitudes1234TrTas78910GB.text
 
+ocBK.end.title = oc.m3.d7_en_US_dedes.ocBK.end.title
+ocBK.end.verse1.text = oc.m3.d7_en_UK_lash.ocBK.end.verse1.text
+ocBK.end.verse2.text = oc.m3.d7_en_UK_lash.ocBK.end.verse2.text
+ocBK.end.verse3.text = oc.m3.d7_en_UK_lash.ocBK.end.verse3.text
+ocBK.end.verse4.text = oc.m3.d7_en_UK_lash.ocBK.end.verse4.text
+ocBK.end.verse5.text = oc.m3.d7_en_UK_lash.ocBK.end.verse5.text
+ocBK.end.verse6.text = oc.m3.d7_en_UK_lash.ocBK.end.verse6.text
+
 //Octoechos in Triodion
 
 octrVE.Stichera1.mode = oc.m3.d7_en_US_dedes.octrVE.Stichera1.mode
