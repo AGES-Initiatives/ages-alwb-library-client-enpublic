@@ -43,7 +43,7 @@ trVE.SticGlory.mode = tr.d067_en_US_dedes.trVE.SticGlory.mode
 trVE.SticGlory.melody = tr.d067_en_US_dedes.trVE.SticGlory.melody
 trVE.SticGlory.text = tr.d067_en_US_dedes.trVE.SticGlory.text
 
-trCO.C1.Poet = tr.d067_en_US_dedes.trCO.C1.Poet
+trCO.C1.poet = tr.d067_en_US_dedes.trCO.C1.poet
 
 trCO.Ode3C1H.ode = tr.d067_en_US_dedes.trCO.Ode3C1H.ode
 trCO.Ode3C1H.mode = tr.d067_en_US_dedes.trCO.Ode3C1H.mode
@@ -227,8 +227,8 @@ trMA.Kathisma31.mode = tr.d067_en_US_dedes.trMA.Kathisma31.mode
 trMA.Kathisma31.melody = tr.d067_en_US_dedes.trMA.Kathisma31.melody
 trMA.Kathisma31.text = tr.d067_en_US_dedes.trMA.Kathisma31.text
 
-trMA.C1Poet = tr.d067_en_US_dedes.trMA.C1Poet
-trMA.C1Acrostic.text = tr.d067_en_US_dedes.trMA.C1Acrostic.text
+trMA.C1.poet = tr.d067_en_US_dedes.trMA.C1.poet
+trMA.C1.acrostic = tr.d067_en_US_dedes.trMA.C1.acrostic
 
 trMA.Ode3C1H.ode = tr.d067_en_US_dedes.trMA.Ode3C1H.ode
 trMA.Ode3C1H.mode = tr.d067_en_US_dedes.trMA.Ode3C1H.mode

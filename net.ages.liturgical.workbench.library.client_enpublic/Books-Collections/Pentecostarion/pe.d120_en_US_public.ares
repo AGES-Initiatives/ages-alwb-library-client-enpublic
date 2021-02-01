@@ -114,16 +114,16 @@ peMA.PostGospelIdiomelon.mode = pe.d120_en_US_dedes.peMA.PostGospelIdiomelon.mod
 peMA.PostGospelIdiomelon.melody = pe.d120_en_US_dedes.peMA.PostGospelIdiomelon.melody
 peMA.PostGospelIdiomelon.text = pe.d120_en_US_dedes.peMA.PostGospelIdiomelon.text
 
-peMA.C1Poet = pe.d120_en_US_dedes.peMA.C1Poet
-peMA.C1Acrostic.text = pe.d120_en_US_dedes.peMA.C1Acrostic.text
+peMA.C1.poet = pe.d120_en_US_dedes.peMA.C1.poet
+peMA.C1.acrostic = pe.d120_en_US_dedes.peMA.C1.acrostic
 
-peMA.C2Poet = pe.d120_en_US_dedes.peMA.C2Poet
-peMA.C2Acrostic.text = pe.d120_en_US_dedes.peMA.C2Acrostic.text
-peMA.C2Acrostic1.text = pe.d120_en_US_dedes.peMA.C2Acrostic1.text
-peMA.C2Acrostic2.text = pe.d120_en_US_dedes.peMA.C2Acrostic2.text
-peMA.C2Acrostic3.text = pe.d120_en_US_dedes.peMA.C2Acrostic3.text
-peMA.C2Acrostic4.text = pe.d120_en_US_dedes.peMA.C2Acrostic4.text
-peMA.C2Acrostic5.text = pe.d120_en_US_dedes.peMA.C2Acrostic5.text
+peMA.C2.poet = pe.d120_en_US_dedes.peMA.C2.poet
+peMA.C2.acrostic = pe.d120_en_US_dedes.peMA.C2.acrostic
+peMA.C2.Acrostic1.acrostic = pe.d120_en_US_dedes.peMA.C2.Acrostic1.acrostic
+peMA.C2.Acrostic2.acrostic = pe.d120_en_US_dedes.peMA.C2.Acrostic2.acrostic
+peMA.C2.Acrostic3.acrostic = pe.d120_en_US_dedes.peMA.C2.Acrostic3.acrostic
+peMA.C2.Acrostic4.acrostic = pe.d120_en_US_dedes.peMA.C2.Acrostic4.acrostic
+peMA.C2.Acrostic5.acrostic = pe.d120_en_US_dedes.peMA.C2.Acrostic5.acrostic
 
 peMA.Ode1C1H.ode = pe.d120_en_US_dedes.peMA.Ode1C1H.ode
 peMA.Ode1C1H.mode = pe.d120_en_US_dedes.peMA.Ode1C1H.mode

@@ -73,8 +73,8 @@ peMA.Kathisma23.mode = pe.d106_en_US_dedes.peMA.Kathisma23.mode
 peMA.Kathisma23.melody = pe.d106_en_US_dedes.peMA.Kathisma23.melody
 peMA.Kathisma23.text = pe.d106_en_US_dedes.peMA.Kathisma23.text
 
-peMA.C1Poet = pe.d106_en_US_dedes.peMA.C1Poet
-peMA.C1Acrostic.text = pe.d106_en_US_dedes.peMA.C1Acrostic.text
+peMA.C1.poet = pe.d106_en_US_dedes.peMA.C1.poet
+peMA.C1.acrostic = pe.d106_en_US_dedes.peMA.C1.acrostic
 
 peMA.Ode1C1H.ode = pe.d106_en_US_dedes.peMA.Ode1C1H.ode
 peMA.Ode1C1H.mode = pe.d106_en_US_dedes.peMA.Ode1C1H.mode

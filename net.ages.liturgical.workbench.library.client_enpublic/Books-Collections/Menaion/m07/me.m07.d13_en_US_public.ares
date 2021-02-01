@@ -73,10 +73,10 @@ meVE.Apolytikion2.mode = me.m07.d13_en_US_dedes.meVE.Apolytikion2.mode
 meVE.Apolytikion2.melody = me.m07.d13_en_US_dedes.meVE.Apolytikion2.melody
 meVE.Apolytikion2.text = me.m07.d13_en_US_dedes.meVE.Apolytikion2.text
 
-meMA.C1Acrostic.text = me.m07.d13_en_US_dedes.meMA.C1Acrostic.text
+meMA.C1.acrostic = me.m07.d13_en_US_dedes.meMA.C1.acrostic
 
-meMA.C2Poet = me.m07.d13_en_US_dedes.meMA.C2Poet
-meMA.C2Acrostic.text = me.m07.d13_en_US_dedes.meMA.C2Acrostic.text
+meMA.C2.poet = me.m07.d13_en_US_dedes.meMA.C2.poet
+meMA.C2.acrostic = me.m07.d13_en_US_dedes.meMA.C2.acrostic
 
 meMA.C1.title = me.m07.d13_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m07.d13_en_US_dedes.meMA.C1.verse
@@ -515,7 +515,7 @@ alt1.meVE.Stichera03.mode = me.m07.d13_en_US_dedes.alt1.meVE.Stichera03.mode
 alt1.meVE.Stichera03.melody = me.m07.d13_en_US_dedes.alt1.meVE.Stichera03.melody
 alt1.meVE.Stichera03.text = me.m07.d13_en_US_dedes.alt1.meVE.Stichera03.text
 
-alt1.meMA.C1Acrostic.text = me.m07.d13_en_US_dedes.alt1.meMA.C1Acrostic.text
+alt1.meMA.C1.acrostic = me.m07.d13_en_US_dedes.alt1.meMA.C1.acrostic
 
 alt1.meMA.Ode1C11.ode = me.m07.d13_en_US_dedes.alt1.meMA.Ode1C11.ode
 alt1.meMA.Ode1C11.mode = me.m07.d13_en_US_dedes.alt1.meMA.Ode1C11.mode

@@ -96,8 +96,8 @@ ocVE.ApolTheotokionVM.mode = oc.m8.d1_en_US_dedes.ocVE.ApolTheotokionVM.mode
 ocVE.ApolTheotokionVM.melody = ""
 ocVE.ApolTheotokionVM.text = oc.m8.d1_en_US_dedes.ocVE.ApolTheotokionVM.text
 
-ocMO.Poet = oc.m8.d1_en_US_dedes.ocMO.Poet
-ocMO.Acrostic.text = oc.m8.d1_en_US_dedes.ocMO.Acrostic.text
+ocMO.poet = oc.m8.d1_en_US_dedes.ocMO.poet
+ocMO.acrostic = oc.m8.d1_en_US_dedes.ocMO.acrostic
 
 ocMO.Ode11.mode = oc.m8.d1_en_US_dedes.ocMO.Ode11.mode
 ocMO.Ode11.ode = oc.m8.d1_en_US_dedes.ocMO.Ode11.ode
@@ -347,7 +347,7 @@ ocMA.Antiphon43.text = oc.m8.d1_en_US_dedes.ocMA.Antiphon43.text
 
 ocMA.MM.Prokeimenon.text = properties_en_US_public.media.key
 
-ocMA.C3Acrostic.text = oc.m8.d1_en_US_dedes.ocMA.C3Acrostic.text
+ocMA.C3.acrostic = oc.m8.d1_en_US_dedes.ocMA.C3.acrostic
 
 ocMA.OdeS1C1H.mode = oc.m8.d1_en_US_dedes.ocMA.OdeS1C1H.mode
 ocMA.OdeS1C1H.ode = oc.m8.d1_en_US_dedes.ocMA.OdeS1C1H.ode

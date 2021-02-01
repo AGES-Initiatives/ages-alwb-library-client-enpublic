@@ -43,8 +43,8 @@ meVE.Apolytikion1.text = me.m03.d03_en_US_dedes.meVE.Apolytikion1.text
 
 meMA.C1.notice = rubrical_en_US_public.DifferentMenaionCanonInEnglish
 
-meMA.C1Poet = ""
-meMA.C1Acrostic.text = gm.fortwoormoremartyrs_en_UK_lash.meMA.C1Acrostic.text
+meMA.C1.poet = ""
+meMA.C1.acrostic = gm.fortwoormoremartyrs_en_UK_lash.meMA.C1.acrostic
 
 meMA.Ode1C1H.ode = gm.fortwoormoremartyrs_en_UK_lash.meMA.Ode1C1H.ode
 meMA.Ode1C1H.mode = gm.fortwoormoremartyrs_en_UK_lash.meMA.Ode1C1H.mode
@@ -186,7 +186,7 @@ meMA.Ode6C1T.mode = gm.fortwoormoremartyrs_en_UK_lash.meMA.Ode6C1T.mode
 meMA.Ode6C1T.melody = gm.fortwoormoremartyrs_en_UK_lash.meMA.Ode6C1T.melody
 meMA.Ode6C1T.text = gm.fortwoormoremartyrs_en_UK_lash.meMA.Ode6C1T.text
 
-meMA.Kontakion1.poet =me.m03.d03_en_US_dedes.meMA.Kontakion1.poet
+meMA.Kontakion1.poet = me.m03.d03_en_US_dedes.meMA.Kontakion1.poet
 meMA.Kontakion1.mode = me.m03.d03_en_US_dedes.meMA.Kontakion1.mode
 meMA.Kontakion1.melody = me.m03.d03_en_US_dedes.meMA.Kontakion1.melody
 meMA.Kontakion1.text = me.m03.d03_en_US_dedes.meMA.Kontakion1.text

@@ -56,7 +56,7 @@ trVE.Apolytikion1.mode = tr.d063_en_US_dedes.trVE.Apolytikion1.mode
 trVE.Apolytikion1.melody = tr.d063_en_US_dedes.trVE.Apolytikion1.melody
 trVE.Apolytikion1.text = tr.d063_en_US_dedes.trVE.Apolytikion1.text
 
-trCO.C1Poet = tr.d063_en_US_dedes.trCO.C1Poet
+trCO.C1.poet = tr.d063_en_US_dedes.trCO.C1.poet
 trCO.C1.title = tr.d063_en_US_dedes.trCO.C1.title
 trCO.C1.verse = tr.d063_en_US_dedes.trCO.C1.verse
 
@@ -498,9 +498,9 @@ trMA.Kathisma21.mode = tr.d063_en_US_dedes.trMA.Kathisma21.mode
 trMA.Kathisma21.melody = tr.d063_en_US_dedes.trMA.Kathisma21.melody
 trMA.Kathisma21.text = tr.d063_en_US_dedes.trMA.Kathisma21.text
 
-trMA.C1Poet = tr.d063_en_US_dedes.trMA.C1Poet
+trMA.C1.poet = tr.d063_en_US_dedes.trMA.C1.poet
 
-trMA.C2Poet = tr.d063_en_US_dedes.trMA.C2Poet
+trMA.C2.poet = tr.d063_en_US_dedes.trMA.C2.poet
 
 trMA.Ode1C1H.ode = tr.d063_en_US_dedes.trMA.Ode1C1H.ode
 trMA.Ode1C1H.mode = tr.d063_en_US_dedes.trMA.Ode1C1H.mode
@@ -711,9 +711,9 @@ trMA.Ode5K.mode = tr.d063_en_US_dedes.trMA.Ode5K.mode
 trMA.Ode5K.melody = tr.d063_en_US_dedes.trMA.Ode5K.melody
 trMA.Ode5K.text = tr.d063_en_US_dedes.trMA.Ode5K.text
 
-trMA.C3Poet = tr.d063_en_US_dedes.trMA.C3Poet
+trMA.C3.poet = tr.d063_en_US_dedes.trMA.C3.poet
 
-trMA.C4Poet = tr.d063_en_US_dedes.trMA.C4Poet
+trMA.C4.poet = tr.d063_en_US_dedes.trMA.C4.poet
 
 trMA.Ode6C1H.ode = tr.d063_en_US_dedes.trMA.Ode6C1H.ode
 trMA.Ode6C1H.mode = tr.d063_en_US_dedes.trMA.Ode6C1H.mode

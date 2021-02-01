@@ -82,7 +82,7 @@ meVE.Apolytikion2.text = me.m12.d22_en_US_dedes.meVE.Apolytikion2.text
 meCO.C1.title = me.m12.d22_en_US_dedes.meCO.C1.title
 meCO.C1.verse = me.m12.d22_en_US_dedes.meCO.C1.verse
 
-meCO.C1Acrostic.text = me.m12.d22_en_UK_lash.meCO.C1Acrostic.text
+meCO.C1.acrostic = me.m12.d22_en_UK_lash.meCO.C1.acrostic
 
 meCO.Ode3C1H.ode = me.m12.d22_en_US_dedes.meCO.Ode3C1H.ode
 meCO.Ode3C1H.mode = me.m12.d22_en_US_dedes.meCO.Ode3C1H.mode
@@ -147,12 +147,12 @@ meMA.Kathisma21.mode = me.m12.d22_en_US_dedes.meMA.Kathisma21.mode
 meMA.Kathisma21.melody = me.m12.d22_en_UK_lash.meMA.Kathisma21.melody
 meMA.Kathisma21.text = me.m12.d22_en_UK_lash.meMA.Kathisma21.text
 
-meMA.C1Acrostic.text = me.m12.d22_en_US_dedes.meMA.C1Acrostic.text
+meMA.C1.acrostic = me.m12.d22_en_US_dedes.meMA.C1.acrostic
 
-meMA.C2Poet = me.m12.d22_en_US_dedes.meMA.C2Poet
+meMA.C2.poet = me.m12.d22_en_US_dedes.meMA.C2.poet
 //Acrostic text (although not in the COG): οὗ ἡ Ἀκροστιχίς, ἐλλιπὴς ὅμως τινῶν Τροπαρίων· Τοὺς εὐκλεεῖς σου, Μάρτυς, αἰνέσω πόνους ἐγὼ. Ὁ Ἰωσήφ.
 
-meMA.C3Acrostic.text = me.m12.d22_en_US_dedes.meMA.C3Acrostic.text
+meMA.C3.acrostic = me.m12.d22_en_US_dedes.meMA.C3.acrostic
 
 meMA.Ode1C1H.ode = me.m12.d22_en_US_dedes.meMA.Ode1C1H.ode
 meMA.Ode1C1H.mode = me.m12.d22_en_US_dedes.meMA.Ode1C1H.mode

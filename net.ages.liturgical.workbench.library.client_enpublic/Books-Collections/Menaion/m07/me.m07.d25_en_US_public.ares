@@ -93,7 +93,7 @@ meMA.Kathisma21.mode = me.m07.d25_en_US_dedes.meMA.Kathisma21.mode
 meMA.Kathisma21.melody = me.m07.d25_en_US_dedes.meMA.Kathisma21.melody
 meMA.Kathisma21.text = me.m07.d25_en_US_dedes.meMA.Kathisma21.text
 
-meMA.C1Acrostic.text = me.m07.d25_en_US_dedes.meMA.C1Acrostic.text
+meMA.C1.acrostic = me.m07.d25_en_US_dedes.meMA.C1.acrostic
 
 meMA.C1.title = me.m07.d25_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m07.d25_en_US_dedes.meMA.C1.verse
@@ -325,11 +325,11 @@ alt1.meMA.PostGospelIdiomelon.mode = me.m07.d25_en_US_dedes.alt1.meMA.PostGospel
 alt1.meMA.PostGospelIdiomelon.melody = me.m07.d25_en_US_dedes.alt1.meMA.PostGospelIdiomelon.melody
 alt1.meMA.PostGospelIdiomelon.text = me.m07.d25_en_US_dedes.alt1.meMA.PostGospelIdiomelon.text
 
-alt1.meMA.C1Poet = me.m07.d25_en_US_dedes.alt1.meMA.C1Poet
-alt1.meMA.C1Acrostic.text = me.m07.d25_en_US_dedes.alt1.meMA.C1Acrostic.text
+alt1.meMA.C1.poet = me.m07.d25_en_US_dedes.alt1.meMA.C1.poet
+alt1.meMA.C1.acrostic = me.m07.d25_en_US_dedes.alt1.meMA.C1.acrostic
 
-alt1.meMA.C2Poet = me.m07.d25_en_US_dedes.alt1.meMA.C2Poet
-alt1.meMA.C2Acrostic.text = me.m07.d25_en_US_dedes.alt1.meMA.C2Acrostic.text
+alt1.meMA.C2.poet = me.m07.d25_en_US_dedes.alt1.meMA.C2.poet
+alt1.meMA.C2.acrostic = me.m07.d25_en_US_dedes.alt1.meMA.C2.acrostic
 
 alt1.meMA.C1.title = me.m07.d25_en_US_dedes.alt1.meMA.C1.title
 alt1.meMA.C1.verse = me.m07.d25_en_US_dedes.alt1.meMA.C1.verse

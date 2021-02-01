@@ -493,8 +493,8 @@ trMA.Kathisma13.mode = tr.d070_en_US_dedes.trMA.Kathisma13.mode
 trMA.Kathisma13.melody = tr.d070_en_US_dedes.trMA.Kathisma13.melody
 trMA.Kathisma13.text = tr.d070_en_US_dedes.trMA.Kathisma13.text
 
-trMA.C1Poet = tr.d070_en_US_dedes.trMA.C1Poet
-trMA.C1Acrostic.text = tr.d070_en_US_dedes.trMA.C1Acrostic.text
+trMA.C1.poet = tr.d070_en_US_dedes.trMA.C1.poet
+trMA.C1.acrostic = tr.d070_en_US_dedes.trMA.C1.acrostic
 
 trMA.Ode1C1H.ode = tr.d070_en_US_dedes.trMA.Ode1C1H.ode
 trMA.Ode1C1H.mode = tr.d070_en_US_dedes.trMA.Ode1C1H.mode

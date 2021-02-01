@@ -36,7 +36,7 @@ meVE.SticStavrotheotokion.mode = me.m05.d20_en_US_dedes.meVE.SticStavrotheotokio
 meVE.SticStavrotheotokion.melody = me.m05.d20_en_US_dedes.meVE.SticStavrotheotokion.melody
 meVE.SticStavrotheotokion.text = me.m05.d20_en_US_dedes.meVE.SticStavrotheotokion.text
 
-meMA.C1Acrostic.text = me.m05.d20_en_US_dedes.meMA.C1Acrostic.text
+meMA.C1.acrostic = me.m05.d20_en_US_dedes.meMA.C1.acrostic
 
 meMA.C1.title = me.m05.d20_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m05.d20_en_US_dedes.meMA.C1.verse

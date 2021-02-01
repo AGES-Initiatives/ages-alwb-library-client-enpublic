@@ -84,12 +84,12 @@ ocMA.Kathisma33.mode = oc.m2.d2_en_US_dedes.ocMA.Kathisma33.mode
 ocMA.Kathisma33.melody = oc.m2.d2_en_US_dedes.ocMA.Kathisma33.melody
 ocMA.Kathisma33.text = oc.m2.d2_en_UK_lash.ocMA.Kathisma33.text
 
-ocMA.C1Poet = oc.m2.d2_en_US_dedes.ocMA.C1Poet
-ocMA.C1Acrostic.text = oc.m2.d2_en_US_dedes.ocMA.C1Acrostic.text
+ocMA.C1.poet = oc.m2.d2_en_US_dedes.ocMA.C1.poet
+ocMA.C1.acrostic = oc.m2.d2_en_US_dedes.ocMA.C1.acrostic
 
-ocMA.C2Acrostic.text = oc.m2.d2_en_US_dedes.ocMA.C2Acrostic.text
+ocMA.C2.acrostic = oc.m2.d2_en_US_dedes.ocMA.C2.acrostic
 
-ocMA.Canon.notice = ""
+ocMA.CA.notice = ""
 
 ocMA.OdeW1C1H.mode = oc.m2.d2_en_US_dedes.ocMA.OdeW1C1H.mode
 ocMA.OdeW1C1H.ode = oc.m2.d2_en_US_dedes.ocMA.OdeW1C1H.ode

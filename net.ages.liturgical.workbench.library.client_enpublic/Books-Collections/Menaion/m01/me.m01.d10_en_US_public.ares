@@ -85,7 +85,7 @@ meMA.Kathisma21.mode = me.m01.d10_en_US_dedes.meMA.Kathisma21.mode
 meMA.Kathisma21.melody = me.m01.d10_en_US_oca.meMA.Kathisma21.melody
 meMA.Kathisma21.text = me.m01.d10_en_US_oca.meMA.Kathisma21.text
 
-meMA.C1Poet = me.m01.d10_en_US_dedes.meMA.C1Poet
+meMA.C1.poet = me.m01.d10_en_US_dedes.meMA.C1.poet
 
 meMA.C1.title = me.m01.d10_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m01.d10_en_US_dedes.meMA.C1.verse
@@ -306,7 +306,7 @@ meMA.Ode6H.melody = me.m01.d10_en_US_dedes.meMA.Ode6H.melody
 meMA.Ode6H.text = me.m01.d10_en_US_dedes.meMA.Ode6H.text
 
 meMA.Kontakion1.mode = me.m01.d10_en_US_dedes.meMA.Kontakion1.mode
-meMA.Kontakion1.melody =misc_en_US_public.NotMetered
+meMA.Kontakion1.melody = misc_en_US_public.NotMetered
 meMA.Kontakion1.text = me.m01.d10_en_US_oca.meMA.Kontakion1.text
 
 meMA.Oikos1.text = me.m01.d10_en_US_dedes.meMA.Oikos1.text

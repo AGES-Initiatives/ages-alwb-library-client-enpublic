@@ -62,7 +62,7 @@ meVE.Apolytikion1.text = me.m11.d27_en_US_dedes.meVE.Apolytikion1.text
 
 //this is not the same canon as in cog, but a general canon
 meMA.C1.notice = rubrical_en_US_public.DifferentMenaionCanonInEnglish
-meMA.C1Acrostic.text = me.m11.d27_en_US_dedes.meMA.C1Acrostic.text
+meMA.C1.acrostic = me.m11.d27_en_US_dedes.meMA.C1.acrostic
 
 meMA.C1.title = gm.foramartyr_en_UK_lash.meMA.C1.title
 meMA.C1.verse = me.m11.d27_en_US_dedes.meMA.C1.verse

@@ -97,7 +97,7 @@ trMA.PostGospelIdiomelon.mode = tr.d043_en_US_dedes.trMA.PostGospelIdiomelon.mod
 trMA.PostGospelIdiomelon.melody = tr.d043_en_US_dedes.trMA.PostGospelIdiomelon.melody
 trMA.PostGospelIdiomelon.text = tr.d043_en_US_dedes.trMA.PostGospelIdiomelon.text
 
-trMA.C1Poet = tr.d043_en_US_dedes.trMA.C1Poet
+trMA.C1.poet = tr.d043_en_US_dedes.trMA.C1.poet
 
 trMA.C1.title = tr.d043_en_US_dedes.trMA.C1.title
 trMA.C1.verse = tr.d043_en_US_dedes.trMA.C1.verse

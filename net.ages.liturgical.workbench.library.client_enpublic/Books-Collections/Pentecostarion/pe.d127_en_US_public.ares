@@ -97,7 +97,7 @@ peMA.Kathisma23.mode = pe.d127_en_US_dedes.peMA.Kathisma23.mode
 peMA.Kathisma23.melody = pe.d127_en_US_dedes.peMA.Kathisma23.melody
 peMA.Kathisma23.text = pe.d127_en_US_dedes.peMA.Kathisma23.text
 
-peMA.C1Acrostic.text = pe.d127_en_UK_lash.peMA.C1Acrostic.text
+peMA.C1.acrostic = pe.d127_en_UK_lash.peMA.C1.acrostic
 
 peMA.C1.title = pe.d127_en_US_dedes.peMA.C1.title
 peMA.C1.verse = pe.d127_en_US_dedes.peMA.C1.verse

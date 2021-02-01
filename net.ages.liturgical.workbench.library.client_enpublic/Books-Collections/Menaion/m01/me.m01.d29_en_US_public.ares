@@ -64,7 +64,7 @@ meVE.Apolytikion1.melody = me.m01.d29_en_US_dedes.meVE.Apolytikion1.melody
 meVE.GeneralApolytikion1.name = me.m01.d29_en_US_dedes.meVE.GeneralApolytikion1.name // name of saint for General Apolytikia
 meVE.MM.GeneralApolytikion1.text = me.m01.d29_en_US_dedes.meVE.MM.GeneralApolytikion1.text
 
-meMA.C1Acrostic.text = me.m01.d29_en_US_andronache.meMA.C1Acrostic.text
+meMA.C1.acrostic = me.m01.d29_en_US_andronache.meMA.C1.acrostic
 
 meMA.C1.title = me.m01.d29_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m01.d29_en_US_dedes.meMA.C1.verse

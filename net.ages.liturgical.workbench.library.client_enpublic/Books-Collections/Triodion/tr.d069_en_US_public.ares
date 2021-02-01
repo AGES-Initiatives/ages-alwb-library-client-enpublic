@@ -330,8 +330,8 @@ trHW.BeatitudesT.mode = tr.d069_en_US_dedes.trHW.BeatitudesT.mode
 trHW.BeatutidesT.melody = tr.d069_en_US_dedes.trHW.BeatutidesT.melody
 trHW.BeatitudesT.text = tr.d069_en_US_dedes.trHW.BeatitudesT.text
 
-trMA.C1Poet = tr.d069_en_US_dedes.trMA.C1Poet
-trMA.C1Acrostic.text = tr.d069_en_US_dedes.trMA.C1Acrostic.text
+trMA.C1.poet = tr.d069_en_US_dedes.trMA.C1.poet
+trMA.C1.acrostic = tr.d069_en_US_dedes.trMA.C1.acrostic
 
 trMA.Ode5C1H.ode = tr.d069_en_US_dedes.trMA.Ode5C1H.ode
 trMA.Ode5C1H.mode = tr.d069_en_US_dedes.trMA.Ode5C1H.mode
@@ -495,8 +495,8 @@ trMA.AposBoth.text = tr.d069_en_US_dedes.trMA.AposBoth.text
 trHW.Apolytikion1.mode = tr.d069_en_US_dedes.trHW.Apolytikion1.mode
 trHW.Apolytikion1.text = tr.d069_en_US_dedes.trHW.Apolytikion1.text
 
-trH.Hours.title = tr.d069_en_US_dedes.trH.Hours.title
-trH.Hours.Poet = tr.d069_en_US_dedes.trH.Hours.Poet
+trHR.title = tr.d069_en_US_dedes.trHR.title
+trHR.poet = tr.d069_en_US_dedes.trHR.poet
 
 trH1.title = tr.d069_en_US_dedes.trH1.title
 

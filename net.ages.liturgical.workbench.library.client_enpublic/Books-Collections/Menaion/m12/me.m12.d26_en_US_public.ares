@@ -126,8 +126,8 @@ alt1.meHO.note1 = me.m12.d26_en_US_dedes.alt1.meHO.note1
 alt1.meHO.note2 = me.m12.d26_en_US_dedes.alt1.meHO.note2
 alt1.meDismissal = me.m12.d26_en_US_dedes.alt1.meDismissal
 
-alt1.meMA.C1Poet = me.m12.d26_en_US_dedes.alt1.meMA.C1Poet
-alt1.meMA.C1Acrostic.text = me.m12.d26_en_US_dedes.alt1.meMA.C1Acrostic.text
+alt1.meMA.C1.poet = me.m12.d26_en_US_dedes.alt1.meMA.C1.poet
+alt1.meMA.C1.acrostic = me.m12.d26_en_US_dedes.alt1.meMA.C1.acrostic
 
 alt1.meMA.Ode1C11.ode = me.m12.d26_en_US_dedes.alt1.meMA.Ode1C11.ode
 alt1.meMA.Ode1C11.mode = me.m12.d26_en_US_dedes.alt1.meMA.Ode1C11.mode

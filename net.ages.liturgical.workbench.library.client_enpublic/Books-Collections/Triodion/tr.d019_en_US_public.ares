@@ -32,7 +32,7 @@ trMA.Kathisma22.mode = tr.d019_en_US_dedes.trMA.Kathisma22.mode
 trMA.Kathisma22.melody = tr.d019_en_UK_ware.trMA.Kathisma22.melody
 trMA.Kathisma22.text = tr.d019_en_UK_ware.trMA.Kathisma22.text
 
-trMA.C1Poet = tr.d019_en_US_dedes.trMA.C1Poet
+trMA.C1.poet = tr.d019_en_US_dedes.trMA.C1.poet
 
 trMA.Ode4C11.ode = tr.d019_en_US_dedes.trMA.Ode4C11.ode
 trMA.Ode4C11.mode = tr.d019_en_US_dedes.trMA.Ode4C11.mode

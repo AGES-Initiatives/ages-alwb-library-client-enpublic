@@ -191,13 +191,13 @@ meMA.PostGospelIdiomelon.mode = me.m01.d30_en_US_dedes.meMA.PostGospelIdiomelon.
 meMA.PostGospelIdiomelon.melody = me.m01.d30_en_US_dedes.meMA.PostGospelIdiomelon.melody
 meMA.PostGospelIdiomelon.text = me.m01.d30_en_US_dedes.meMA.PostGospelIdiomelon.text
 
-meMA.C1Poet = me.m01.d30_en_US_dedes.meMA.C1Poet
-meMA.C1Acrostic.text = me.m01.d30_en_US_dedes.meMA.C1Acrostic.text
+meMA.C1.poet = me.m01.d30_en_US_dedes.meMA.C1.poet
+meMA.C1.acrostic = me.m01.d30_en_US_dedes.meMA.C1.acrostic
 
-meMA.C2Poet = me.m01.d30_en_US_dedes.meMA.C2Poet
-meMA.C2Acrostic.text = me.m01.d30_en_US_dedes.meMA.C2Acrostic.text
+meMA.C2.poet = me.m01.d30_en_US_dedes.meMA.C2.poet
+meMA.C2.acrostic = me.m01.d30_en_US_dedes.meMA.C2.acrostic
 
-meMA.C3Poet = me.m01.d30_en_US_dedes.meMA.C3Poet
+meMA.C3.poet = me.m01.d30_en_US_dedes.meMA.C3.poet
 
 meMA.Ode1C1H.ode = me.m01.d30_en_US_dedes.meMA.Ode1C1H.ode
 meMA.Ode1C1H.mode = me.m01.d30_en_US_dedes.meMA.Ode1C1H.mode
@@ -808,7 +808,7 @@ alt1.meHO.commemorations = ""
 alt1.meHO.note1 = me.m01.d30_en_US_dedes.alt1.meHO.note1
 alt1.meHO.note2 = me.m01.d30_en_US_dedes.alt1.meHO.note2
 
-alt1.meMA.C1Poet = me.m01.d30_en_US_dedes.alt1.meMA.C1Poet
+alt1.meMA.C1.poet = me.m01.d30_en_US_dedes.alt1.meMA.C1.poet
 
 alt1.meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
 alt1.meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text

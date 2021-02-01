@@ -48,8 +48,8 @@ meVE.Apolytikion2.text = me.m04.d03_en_US_dedes.meVE.Apolytikion2.text
 
 meMA.C1.notice = rubrical_en_US_public.DifferentMenaionCanonInEnglish
 
-meMA.C1Poet = me.m04.d03_en_US_dedes.meMA.C1Poet
-meMA.C1Acrostic.text = me.m04.d03_en_US_dedes.meMA.C1Acrostic.text
+meMA.C1.poet = me.m04.d03_en_US_dedes.meMA.C1.poet
+meMA.C1.acrostic = me.m04.d03_en_US_dedes.meMA.C1.acrostic
 
 meMA.Ode1C1H.ode = gm.foranascetic_en_UK_lash.meMA.Ode1C1H.ode
 meMA.Ode1C1H.mode = gm.foranascetic_en_UK_lash.meMA.Ode1C1H.mode

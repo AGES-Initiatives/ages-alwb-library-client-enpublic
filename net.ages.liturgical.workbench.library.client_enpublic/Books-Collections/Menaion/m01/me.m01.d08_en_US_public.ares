@@ -75,7 +75,7 @@ meMA.Kathisma21.mode = me.m01.d08_en_US_dedes.meMA.Kathisma21.mode
 meMA.Kathisma21.melody = me.m01.d08_en_US_oca.meMA.Kathisma21.melody
 meMA.Kathisma21.text = me.m01.d08_en_US_oca.meMA.Kathisma21.text
 
-meMA.C2Acrostic.text = me.m01.d08_en_US_dedes.meMA.C2Acrostic.text
+meMA.C2.acrostic = me.m01.d08_en_US_dedes.meMA.C2.acrostic
 
 meMA.C1.title = me.m01.d08_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m01.d08_en_US_dedes.meMA.C1.verse

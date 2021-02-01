@@ -37,10 +37,10 @@ pePA.PaschaVerse3.text = pe.d00P_en_US_dedes.pePA.PaschaVerse3.text
 
 pePA.PaschaVerse4.text = pe.d00P_en_US_dedes.pePA.PaschaVerse4.text
 
-pePA.Canon.Poet = pe.d00P_en_US_dedes.pePA.Canon.Poet
-pePA.Canon.text = pe.d00P_en_US_dedes.pePA.Canon.text // for media of entire canon
+pePA.C1.poet = pe.d00P_en_US_dedes.pePA.C1.poet
+pePA.C1.text = pe.d00P_en_US_dedes.pePA.C1.text // for media of entire canon
 
-pePA.CanonT.Acrostic = pe.d00P_en_US_dedes.pePA.CanonT.Acrostic
+pePA.CTh.acrostic = pe.d00P_en_US_dedes.pePA.CTh.acrostic
 
 pePA.Ode1H.ode = pe.d00P_en_US_dedes.pePA.Ode1H.ode
 pePA.Ode1H.mode = pe.d00P_en_US_dedes.pePA.Ode1H.mode

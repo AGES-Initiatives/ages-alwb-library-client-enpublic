@@ -77,7 +77,7 @@ meMA.Kathisma2T.mode = me.m09.d23_en_US_dedes.meMA.Kathisma2T.mode
 meMA.Kathisma2T.melody = me.m09.d23_en_UK_lash.meMA.Kathisma2T.melody
 meMA.Kathisma2T.text = me.m09.d23_en_UK_lash.meMA.Kathisma2T.text
 
-meMA.C1Poet = me.m09.d23_en_US_dedes.meMA.C1Poet
+meMA.C1.poet = me.m09.d23_en_US_dedes.meMA.C1.poet
 
 meMA.C1.title = me.m09.d23_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m09.d23_en_US_dedes.meMA.C1.verse

@@ -122,8 +122,8 @@ trAK.Oikos120.text = tr.d056_en_US_dedes.trAK.Oikos120.text
 trAK.Oikos121.text = tr.d056_en_US_dedes.trAK.Oikos121.text
 
 trMA.C1.title = tr.d056_en_US_dedes.trMA.C1.title
-trMA.C1Poet = tr.d056_en_US_dedes.trMA.C1Poet
-trMA.C1Acrostic.text = tr.d056_en_US_dedes.trMA.C1Acrostic.text
+trMA.C1.poet = tr.d056_en_US_dedes.trMA.C1.poet
+trMA.C1.acrostic = tr.d056_en_US_dedes.trMA.C1.acrostic
 
 trMA.Ode1C1H.ode = tr.d056_en_US_dedes.trMA.Ode1C1H.ode
 trMA.Ode1C1H.mode = tr.d056_en_US_dedes.trMA.Ode1C1H.mode
@@ -332,8 +332,8 @@ trMA.Ode6C14.mode = tr.d056_en_US_dedes.trMA.Ode6C14.mode
 trMA.Ode6C14.melody = tr.d056_en_US_dedes.trMA.Ode6C14.melody
 trMA.Ode6C14.text = tr.d056_en_US_dedes.trMA.Ode6C14.text
 
-trMA.C2Poet = tr.d056_en_US_dedes.trMA.C2Poet
-trMA.C2Acrostic.text = tr.d056_en_US_dedes.trMA.C2Acrostic.text
+trMA.C2.poet = tr.d056_en_US_dedes.trMA.C2.poet
+trMA.C2.acrostic = tr.d056_en_US_dedes.trMA.C2.acrostic
 trMA.C2.title = tr.d056_en_US_dedes.trMA.C2.title
 trMA.C2.verse = tr.d056_en_US_dedes.trMA.C2.verse
 
@@ -357,7 +357,7 @@ trMA.Ode6C2T.mode = tr.d056_en_US_dedes.trMA.Ode6C2T.mode
 trMA.Ode6C2T.melody = tr.d056_en_US_unknown.trMA.Ode6C2T.melody
 trMA.Ode6C2T.text = tr.d056_en_US_unknown.trMA.Ode6C2T.text
 
-trMA.C3Poet = tr.d056_en_US_dedes.trMA.C3Poet
+trMA.C3.poet = tr.d056_en_US_dedes.trMA.C3.poet
 trMA.C3.title = tr.d056_en_US_dedes.trMA.C3.title
 trMA.C3.verse = tr.d056_en_US_dedes.trMA.C3.verse
 

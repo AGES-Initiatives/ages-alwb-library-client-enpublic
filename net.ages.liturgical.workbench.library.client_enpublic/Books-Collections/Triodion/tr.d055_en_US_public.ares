@@ -49,9 +49,9 @@ trMA.Kathisma32.mode = tr.d055_en_US_dedes.trMA.Kathisma32.mode
 trMA.Kathisma32.melody = tr.d055_en_UK_ware.trMA.Kathisma32.melody
 trMA.Kathisma32.text = tr.d055_en_UK_ware.trMA.Kathisma32.text
 
-trMA.C1Poet = tr.d055_en_US_dedes.trMA.C1Poet
+trMA.C1.poet = tr.d055_en_US_dedes.trMA.C1.poet
 
-trMA.C2Poet = tr.d055_en_US_dedes.trMA.C2Poet
+trMA.C2.poet = tr.d055_en_US_dedes.trMA.C2.poet
 
 trMA.Ode5C11.ode = tr.d055_en_US_dedes.trMA.Ode5C11.ode
 trMA.Ode5C11.mode = tr.d055_en_US_dedes.trMA.Ode5C11.mode // cog has wrong mode

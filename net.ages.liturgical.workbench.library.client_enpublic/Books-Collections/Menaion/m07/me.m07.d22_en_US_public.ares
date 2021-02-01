@@ -70,7 +70,7 @@ meVE.Apolytikion1.mode = me.m07.d22_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m07.d22_en_US_dedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.text = me.m07.d22_en_US_dedes.meVE.Apolytikion1.text
 
-meMA.C1Acrostic.text = me.m07.d22_en_UK_lash.meMA.C1Acrostic.text
+meMA.C1.acrostic = me.m07.d22_en_UK_lash.meMA.C1.acrostic
 
 meMA.C1.title = me.m07.d22_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m07.d22_en_US_dedes.meMA.C1.verse
@@ -375,7 +375,7 @@ alt1.meMA.PostGospelIdiomelon.mode = me.m07.d22_en_US_dedes.alt1.meMA.PostGospel
 alt1.meMA.PostGospelIdiomelon.melody = me.m07.d22_en_US_dedes.alt1.meMA.PostGospelIdiomelon.melody
 alt1.meMA.PostGospelIdiomelon.text = me.m07.d22_en_US_dedes.alt1.meMA.PostGospelIdiomelon.text
 
-alt1.meMA.C1Poet = me.m07.d22_en_US_dedes.alt1.meMA.C1Poet
+alt1.meMA.C1.poet = me.m07.d22_en_US_dedes.alt1.meMA.C1.poet
 
 alt1.meMA.C1.title = me.m07.d22_en_US_dedes.alt1.meMA.C1.title
 alt1.meMA.C1.verse = me.m07.d22_en_US_dedes.alt1.meMA.C1.verse

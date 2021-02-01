@@ -67,12 +67,12 @@ meVE.Apolytikion1.melody = me.m01.d03_en_US_dedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.text = me.m01.d03_en_US_dedes.meVE.Apolytikion1.text
 
 meCO.C1Poet = me.m01.d03_en_US_dedes.meCO.C1Poet
-meCO.C1Acrostic.text = me.m01.d03_en_US_dedes.meCO.C1Acrostic.text
+meCO.C1.acrostic = me.m01.d03_en_US_dedes.meCO.C1.acrostic
 meCO.C1.title = me.m01.d03_en_US_dedes.meCO.C1.title
 meCO.C1.verse = me.m01.d03_en_US_dedes.meCO.C1.verse
 
 meCO.C2Poet = me.m01.d03_en_US_dedes.meCO.C2Poet
-meCO.C2Acrostic.text = me.m01.d03_en_US_dedes.meCO.C2Acrostic.text
+meCO.C2.acrostic = me.m01.d03_en_US_dedes.meCO.C2.acrostic
 meCO.C2.title = me.m01.d03_en_US_dedes.meCO.C2.title
 meCO.C2.verse = me.m01.d03_en_US_dedes.meCO.C2.verse
 
@@ -212,11 +212,11 @@ meMA.Kathisma22.mode = me.m01.d03_en_US_dedes.meMA.Kathisma22.mode
 meMA.Kathisma22.melody = me.m01.d03_en_UK_lash.meMA.Kathisma22.melody
 meMA.Kathisma22.text = me.m01.d03_en_UK_lash.meMA.Kathisma22.text
 
-meMA.C1Acrostic.text = me.m01.d03_en_US_dedes.meMA.C1Acrostic.text
+meMA.C1.acrostic = me.m01.d03_en_US_dedes.meMA.C1.acrostic
 
-meMA.C2Acrostic.text = me.m01.d03_en_US_dedes.meMA.C2Acrostic.text
+meMA.C2.acrostic = me.m01.d03_en_US_dedes.meMA.C2.acrostic
 
-meMA.C3Acrostic.text = me.m01.d03_en_US_dedes.meMA.C3Acrostic.text
+meMA.C3.acrostic = me.m01.d03_en_US_dedes.meMA.C3.acrostic
 
 meMA.Ode1C1H.ode = me.m01.d03_en_US_dedes.meMA.Ode1C1H.ode
 meMA.Ode1C1H.mode = me.m01.d03_en_US_dedes.meMA.Ode1C1H.mode

@@ -77,9 +77,9 @@ meVE.Apolytikion2.text = me.m09.d03_en_US_dedes.meVE.Apolytikion2.text
 meVE.MM.GeneralApolytikion1.text = me.m09.d03_en_US_dedes.meVE.MM.GeneralApolytikion1.text
 meVE.MM.GeneralApolytikion3.text = me.m09.d03_en_US_dedes.meVE.MM.GeneralApolytikion3.text
 
-meMA.C1Acrostic.text = me.m09.d03_en_US_dedes.meMA.C1Acrostic.text
+meMA.C1.acrostic = me.m09.d03_en_US_dedes.meMA.C1.acrostic
 
-meMA.C2Acrostic.text = me.m09.d03_en_US_andronache.meMA.C2Acrostic.text
+meMA.C2.acrostic = me.m09.d03_en_US_andronache.meMA.C2.acrostic
 
 meMA.C1.title = me.m09.d03_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m09.d03_en_US_dedes.meMA.C1.verse
@@ -651,7 +651,7 @@ alt1.meMA.PostGospelIdiomelon.mode = me.m09.d03_en_US_dedes.alt1.meMA.PostGospel
 alt1.meMA.PostGospelIdiomelon.melody = me.m09.d03_en_US_dedes.alt1.meMA.PostGospelIdiomelon.melody
 alt1.meMA.PostGospelIdiomelon.text = me.m09.d03_en_US_dedes.alt1.meMA.PostGospelIdiomelon.text
 
-alt1.meMA.C1Acrostic.text = me.m09.d03_en_US_dedes.alt1.meMA.C1Acrostic.text
+alt1.meMA.C1.acrostic = me.m09.d03_en_US_dedes.alt1.meMA.C1.acrostic
 
 alt1.meMA.Ode1C11.ode = me.m09.d03_en_US_dedes.alt1.meMA.Ode1C11.ode
 alt1.meMA.Ode1C11.mode = me.m09.d03_en_US_dedes.alt1.meMA.Ode1C11.mode

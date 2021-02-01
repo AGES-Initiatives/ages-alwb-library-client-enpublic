@@ -60,8 +60,8 @@ meVE.Apolytikion2.mode = me.m04.d01_en_US_dedes.meVE.Apolytikion2.mode
 meVE.Apolytikion2.melody = me.m04.d01_en_US_dedes.meVE.Apolytikion2.melody
 meVE.Apolytikion2.text = me.m04.d01_en_US_dedes.meVE.Apolytikion2.text
 
-meMA.C1Poet = me.m04.d01_en_US_dedes.meMA.C1Poet
-meMA.C1Acrostic.text = me.m04.d01_en_US_dedes.meMA.C1Acrostic.text
+meMA.C1.poet = me.m04.d01_en_US_dedes.meMA.C1.poet
+meMA.C1.acrostic = me.m04.d01_en_US_dedes.meMA.C1.acrostic
 
 meMA.Ode1C1H.ode = me.m04.d01_en_US_dedes.meMA.Ode1C1H.ode
 meMA.Ode1C1H.mode = me.m04.d01_en_US_dedes.meMA.Ode1C1H.mode

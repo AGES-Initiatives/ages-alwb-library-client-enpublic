@@ -94,8 +94,8 @@ meMA.PostGospelIdiomelon.mode = me.m09.d16_en_US_dedes.meMA.PostGospelIdiomelon.
 meMA.PostGospelIdiomelon.melody = me.m09.d16_en_US_dedes.meMA.PostGospelIdiomelon.melody
 meMA.PostGospelIdiomelon.text = me.m09.d16_en_US_dedes.meMA.PostGospelIdiomelon.text
 
-meMA.C1Poet = me.m09.d16_en_US_dedes.meMA.C1Poet
-meMA.C1Acrostic.text = me.m09.d16_en_US_dedes.meMA.C1Acrostic.text
+meMA.C1.poet = me.m09.d16_en_US_dedes.meMA.C1.poet
+meMA.C1.acrostic = me.m09.d16_en_US_dedes.meMA.C1.acrostic
 
 meMA.C1.title = me.m09.d16_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m09.d16_en_US_dedes.meMA.C1.verse

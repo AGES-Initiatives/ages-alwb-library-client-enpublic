@@ -42,10 +42,10 @@ trMA.Kathisma22.mode = tr.d049_en_US_dedes.trMA.Kathisma22.mode
 trMA.Kathisma22.melody = tr.d049_en_US_dedes.trMA.Kathisma22.melody
 trMA.Kathisma22.text = tr.d049_en_US_dedes.trMA.Kathisma22.text
 
-trMA.C1Poet = tr.d049_en_US_dedes.trMA.C1Poet
-trMA.C1Acrostic.text = tr.d049_en_US_dedes.trMA.C1Acrostic.text
+trMA.C1.poet = tr.d049_en_US_dedes.trMA.C1.poet
+trMA.C1.acrostic = tr.d049_en_US_dedes.trMA.C1.acrostic
 
-trMA.C2Poet = tr.d049_en_US_dedes.trMA.C2Poet
+trMA.C2.poet = tr.d049_en_US_dedes.trMA.C2.poet
 
 trMA.Ode6C11.ode = tr.d049_en_US_dedes.trMA.Ode6C11.ode
 trMA.Ode6C11.mode = tr.d049_en_US_dedes.trMA.Ode6C11.mode

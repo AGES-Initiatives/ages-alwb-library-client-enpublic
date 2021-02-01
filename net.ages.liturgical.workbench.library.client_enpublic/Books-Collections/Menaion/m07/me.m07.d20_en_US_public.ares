@@ -112,10 +112,10 @@ meMA.Kathisma2T.text = me.m07.d20_en_US_dedes.meMA.Kathisma2T.text
 
 meR01 = me.m07.d20_en_US_dedes.meR01
 
-meMA.C1Poet = me.m07.d20_en_US_dedes.meMA.C1Poet
-meMA.C1Acrostic.text = me.m07.d20_en_UK_lash.meMA.C1Acrostic.text
+meMA.C1.poet = me.m07.d20_en_US_dedes.meMA.C1.poet
+meMA.C1.acrostic = me.m07.d20_en_UK_lash.meMA.C1.acrostic
 
-meMA.C2Acrostic.text = me.m07.d20_en_UK_lash.meMA.C2Acrostic.text
+meMA.C2.acrostic = me.m07.d20_en_UK_lash.meMA.C2.acrostic
 
 meMA.C1.title = me.m07.d20_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m07.d20_en_US_dedes.meMA.C1.verse

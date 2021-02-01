@@ -66,7 +66,7 @@ meVE.Apolytikion1.mode = me.m01.d04_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m01.d04_en_US_dedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.text = me.m01.d04_en_US_dedes.meVE.Apolytikion1.text
 
-meCO.C1Acrostic.text = me.m01.d04_en_UK_lash.meCO.C1Acrostic.text
+meCO.C1.acrostic = me.m01.d04_en_UK_lash.meCO.C1.acrostic
 
 meCO.Ode1C1H.ode = me.m01.d04_en_US_dedes.meCO.Ode1C1H.ode
 meCO.Ode1C1H.mode = me.m01.d04_en_US_dedes.meCO.Ode1C1H.mode
@@ -225,12 +225,12 @@ meMA.Kathisma21.mode = me.m01.d04_en_US_dedes.meMA.Kathisma21.mode
 meMA.Kathisma21.melody = me.m01.d04_en_UK_lash.meMA.Kathisma21.melody
 meMA.Kathisma21.text = me.m01.d04_en_UK_lash.meMA.Kathisma21.text
 
-meMA.C1Poet = me.m01.d04_en_US_dedes.meMA.C1Poet
-meMA.C1Acrostic.text = me.m01.d04_en_US_dedes.meMA.C1Acrostic.text
+meMA.C1.poet = me.m01.d04_en_US_dedes.meMA.C1.poet
+meMA.C1.acrostic = me.m01.d04_en_US_dedes.meMA.C1.acrostic
 
-meMA.C2Acrostic.text = me.m01.d04_en_US_dedes.meMA.C2Acrostic.text
+meMA.C2.acrostic = me.m01.d04_en_US_dedes.meMA.C2.acrostic
 
-meMA.C3Poet = me.m01.d04_en_US_dedes.meMA.C3Poet
+meMA.C3.poet = me.m01.d04_en_US_dedes.meMA.C3.poet
 
 meMA.Ode1C1H.ode = me.m01.d04_en_US_dedes.meMA.Ode1C1H.ode
 meMA.Ode1C1H.mode = me.m01.d04_en_US_dedes.meMA.Ode1C1H.mode

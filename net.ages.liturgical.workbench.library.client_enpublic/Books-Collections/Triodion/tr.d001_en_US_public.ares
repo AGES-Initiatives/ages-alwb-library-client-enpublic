@@ -48,8 +48,8 @@ trMA.PostGospelIdiomelon.mode = tr.d001_en_US_dedes.trMA.PostGospelIdiomelon.mod
 trMA.PostGospelIdiomelon.melody = tr.d001_en_US_dedes.trMA.PostGospelIdiomelon.melody
 trMA.PostGospelIdiomelon.text = tr.d001_en_US_dedes.trMA.PostGospelIdiomelon.text
 
-trMA.C1Poet = tr.d001_en_US_dedes.trMA.C1Poet
-trMA.C1Acrostic.text = tr.d001_en_US_dedes.trMA.C1Acrostic.text
+trMA.C1.poet = tr.d001_en_US_dedes.trMA.C1.poet
+trMA.C1.acrostic = tr.d001_en_US_dedes.trMA.C1.acrostic
 
 trMA.C1.title = tr.d001_en_US_dedes.trMA.C1.title
 trMA.C1.verse = tr.d001_en_US_dedes.trMA.C1.verse

@@ -93,11 +93,11 @@ meMA.Kathisma31.mode = me.m12.d09_en_US_dedes.meMA.Kathisma31.mode
 meMA.Kathisma31.melody = me.m12.d09_en_US_dedes.meMA.Kathisma31.melody
 meMA.Kathisma31.text = me.m12.d09_en_US_dedes.meMA.Kathisma31.text
 
-meMA.C1Poet = me.m12.d09_en_US_dedes.meMA.C1Poet
+meMA.C1.poet = me.m12.d09_en_US_dedes.meMA.C1.poet
 
-meMA.C2Poet = me.m12.d09_en_US_dedes.meMA.C2Poet
+meMA.C2.poet = me.m12.d09_en_US_dedes.meMA.C2.poet
 
-meMA.C3Acrostic.text = me.m12.d09_en_US_dedes.meMA.C3Acrostic.text
+meMA.C3.acrostic = me.m12.d09_en_US_dedes.meMA.C3.acrostic
 
 meMA.C1.title = me.m12.d09_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m12.d09_en_US_dedes.meMA.C1.verse

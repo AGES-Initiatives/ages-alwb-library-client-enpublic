@@ -48,7 +48,7 @@ trMA.PostGospelIdiomelon.mode = tr.d008_en_US_dedes.trMA.PostGospelIdiomelon.mod
 trMA.PostGospelIdiomelon.melody = tr.d008_en_US_dedes.trMA.PostGospelIdiomelon.melody
 trMA.PostGospelIdiomelon.text = tr.d008_en_US_dedes.trMA.PostGospelIdiomelon.text
 
-trMA.C1Poet = tr.d008_en_US_dedes.trMA.C1Poet
+trMA.C1.poet = tr.d008_en_US_dedes.trMA.C1.poet
 
 trMA.C1.title = tr.d008_en_US_dedes.trMA.C1.title
 trMA.C1.verse = tr.d008_en_US_dedes.trMA.C1.verse
@@ -227,7 +227,7 @@ trMA.Ode8C1T.mode = tr.d008_en_US_dedes.trMA.Ode8C1T.mode
 trMA.Ode8C1T.melody = tr.d008_en_UK_lash.trMA.Ode8C1T.melody
 trMA.Ode8C1T.text = tr.d008_en_UK_lash.trMA.Ode8C1T.text
 
-trMA.C1Acrostic.text = tr.d008_en_UK_lash.trMA.C1Acrostic.text // Acrostic for Ode 9
+trMA.C1.acrostic = tr.d008_en_UK_lash.trMA.C1.acrostic // Acrostic for Ode 9
 trMA.Ode9C11.ode = tr.d008_en_US_dedes.trMA.Ode9C11.ode
 trMA.Ode9C11.mode = tr.d008_en_US_dedes.trMA.Ode9C11.mode
 trMA.Ode9C11.melody = tr.d008_en_UK_lash.trMA.Ode9C11.melody

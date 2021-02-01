@@ -47,7 +47,7 @@ meVE.Apolytikion2.melody = me.m03.d16_en_US_dedes.meVE.Apolytikion2.melody
 meVE.Apolytikion2.text = me.m03.d16_en_US_dedes.meVE.Apolytikion2.text
 
 meMA.C1.notice = rubrical_en_US_public.DifferentMenaionCanonInEnglish
-meMA.C1Acrostic.text = gm.foramartyr_en_UK_lash.meMA.C1Acrostic.text
+meMA.C1.acrostic = gm.foramartyr_en_UK_lash.meMA.C1.acrostic
 
 meMA.Ode1C1H.ode = gm.foramartyr_en_UK_lash.meMA.Ode1C1H.ode
 meMA.Ode1C1H.mode = gm.foramartyr_en_UK_lash.meMA.Ode1C1H.mode

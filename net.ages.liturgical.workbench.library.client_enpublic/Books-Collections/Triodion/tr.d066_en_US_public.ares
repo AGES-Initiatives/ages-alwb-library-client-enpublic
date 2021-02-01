@@ -251,8 +251,8 @@ trMA.Synaxarion.narration2.p06.text = tr.d066_en_US_dedes.trMA.Synaxarion.narrat
 trMA.Synaxarion.narration2.p07.text = tr.d066_en_US_dedes.trMA.Synaxarion.narration2.p07.text
 trMA.Synaxarion.lastline.text = tr.d066_en_US_dedes.trMA.Synaxarion.lastline.text
 
-trMA.C1Poet = tr.d066_en_US_dedes.trMA.C1Poet
-trMA.C1Acrostic.text = tr.d066_en_US_dedes.trMA.C1Acrostic.text
+trMA.C1.poet = tr.d066_en_US_dedes.trMA.C1.poet
+trMA.C1.acrostic = tr.d066_en_US_dedes.trMA.C1.acrostic
 
 trMA.Ode8C1H.ode = tr.d066_en_US_dedes.trMA.Ode8C1H.ode
 trMA.Ode8C1H.mode = tr.d066_en_US_dedes.trMA.Ode8C1H.mode

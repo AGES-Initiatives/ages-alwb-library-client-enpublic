@@ -164,10 +164,10 @@ meMA.PostGospelIdiomelon.text = me.m04.d23_en_US_dedes.meMA.PostGospelIdiomelon.
 
 meMA.MM.PostGospelIdiomelon.text = me.m04.d23_en_US_dedes.meMA.MM.PostGospelIdiomelon.text
 
-meMA.C1Acrostic.text = me.m04.d23_en_US_dedes.meMA.C1Acrostic.text
+meMA.C1.acrostic = me.m04.d23_en_US_dedes.meMA.C1.acrostic
 
-meMA.C2Poet = me.m04.d23_en_US_dedes.meMA.C2Poet
-meMA.C2Acrostic.text = me.m04.d23_en_US_dedes.meMA.C2Acrostic.text
+meMA.C2.poet = me.m04.d23_en_US_dedes.meMA.C2.poet
+meMA.C2.acrostic = me.m04.d23_en_US_dedes.meMA.C2.acrostic
 
 meMA.C1.title = me.m04.d23_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m04.d23_en_US_dedes.meMA.C1.verse

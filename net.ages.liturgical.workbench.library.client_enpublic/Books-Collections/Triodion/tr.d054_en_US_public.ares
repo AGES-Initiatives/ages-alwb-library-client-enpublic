@@ -35,8 +35,8 @@ trVE.Stichera03.mode = tr.d054_en_US_dedes.trVE.Stichera03.mode
 trVE.Stichera03.melody = tr.d054_en_US_dedes.trVE.Stichera03.melody
 trVE.Stichera03.text = tr.d054_en_US_dedes.trVE.Stichera03.text
 
-trGC.SticheraPoet = tr.d054_en_US_oca.trGC.SticheraPoet
-trGC.SticheraAcrostic.text = tr.d054_en_US_oca.trGC.SticheraAcrostic.text
+trGC.Stichera.poet = tr.d054_en_US_oca.trGC.Stichera.poet
+trGC.Stichera.acrostic = tr.d054_en_US_oca.trGC.Stichera.acrostic
 
 trGC.Stichera01.mode = tr.d054_en_US_dedes.trGC.Stichera01.mode
 trGC.Stichera01.melody = tr.d054_en_US_houpos.trGC.Stichera01.melody
@@ -140,7 +140,7 @@ trGC.SticheraT.text = tr.d054_en_US_houpos.trGC.SticheraT.text
 
 //Matins
 trGC.title = tr.d054_en_US_dedes.trGC.title
-trGC.C1Poet = tr.d054_en_US_dedes.trGC.C1Poet
+trGC.C1.poet = tr.d054_en_US_dedes.trGC.C1.poet
 trGC.Verse1 = tr.d054_en_US_dedes.trGC.Verse1
 trGC.Verse2 = tr.d054_en_US_dedes.trGC.Verse2
 trGC.Verse3 = tr.d054_en_US_dedes.trGC.Verse3
@@ -268,7 +268,7 @@ trGC.Ode1C123.mode = tr.d054_en_US_unknown.trGC.Ode1C123.mode
 trGC.Ode1C123.melody = tr.d054_en_US_unknown.trGC.Ode1C123.melody
 trGC.Ode1C123.text = tr.d054_en_US_unknown.trGC.Ode1C123.text
 
-trGC.C2Acrostic.text = tr.d054_en_US_unknown.trGC.C2Acrostic.text
+trGC.C2.acrostic = tr.d054_en_US_unknown.trGC.C2.acrostic
 
 trGC.Ode1C201.ode = tr.d054_en_US_unknown.trGC.Ode1C201.ode
 trGC.Ode1C201.mode = tr.d054_en_US_unknown.trGC.Ode1C201.mode
@@ -721,7 +721,7 @@ trMA.Ode3Kathisma3.text = tr.d054_en_UK_ware.trMA.Ode3Kathisma3.text
 
 // Ode 4 Triodion
 
-trMA.C1Poet = tr.d054_en_US_dedes.trMA.C1Poet
+trMA.C1.poet = tr.d054_en_US_dedes.trMA.C1.poet
 
 trMA.Ode4C1H.ode = tr.d054_en_US_dedes.trMA.Ode4C1H.ode
 trMA.Ode4C1H.mode = tr.d054_en_US_dedes.trMA.Ode4C1H.mode
@@ -748,7 +748,7 @@ trMA.Ode4C1T.mode = tr.d054_en_US_dedes.trMA.Ode4C1T.mode
 trMA.Ode4C1T.melody = tr.d054_en_UK_ware.trMA.Ode4C1T.melody
 trMA.Ode4C1T.text = tr.d054_en_UK_ware.trMA.Ode4C1T.text
 
-trMA.C2Poet = tr.d054_en_US_dedes.trMA.C2Poet
+trMA.C2.poet = tr.d054_en_US_dedes.trMA.C2.poet
 
 trMA.Ode4C2H.ode = tr.d054_en_US_dedes.trMA.Ode4C2H.ode
 trMA.Ode4C2H.mode = tr.d054_en_US_dedes.trMA.Ode4C2H.mode

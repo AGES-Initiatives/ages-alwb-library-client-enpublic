@@ -133,7 +133,7 @@ peMA.PostGospelIdiomelon.mode = pe.d078_en_US_dedes.peMA.PostGospelIdiomelon.mod
 peMA.PostGospelIdiomelon.melody = pe.d078_en_US_dedes.peMA.PostGospelIdiomelon.melody
 peMA.PostGospelIdiomelon.text = pe.d078_en_US_dedes.peMA.PostGospelIdiomelon.text
 
-peMA.C1Poet = pe.d078_en_US_dedes.peMA.C1Poet
+peMA.C1.poet = pe.d078_en_US_dedes.peMA.C1.poet
 
 peMA.Ode1C1H.ode = pe.d078_en_US_dedes.peMA.Ode1C1H.ode
 peMA.Ode1C1H.mode = pe.d078_en_US_dedes.peMA.Ode1C1H.mode

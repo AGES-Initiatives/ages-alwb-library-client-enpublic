@@ -112,7 +112,7 @@ alt1.meMA.PostGospelIdiomelon.mode = me.m10.d23_en_US_dedes.alt1.meMA.PostGospel
 alt1.meMA.PostGospelIdiomelon.melody = me.m10.d23_en_US_dedes.alt1.meMA.PostGospelIdiomelon.melody
 alt1.meMA.PostGospelIdiomelon.text = me.m10.d23_en_US_dedes.alt1.meMA.PostGospelIdiomelon.text
 
-meMA.C1Poet = me.m10.d23_en_US_dedes.meMA.C1Poet
+meMA.C1.poet = me.m10.d23_en_US_dedes.meMA.C1.poet
 
 meMA.C1.title = me.m10.d23_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m10.d23_en_US_dedes.meMA.C1.verse

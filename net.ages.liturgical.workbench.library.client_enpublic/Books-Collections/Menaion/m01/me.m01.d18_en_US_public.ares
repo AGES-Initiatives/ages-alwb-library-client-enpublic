@@ -142,10 +142,10 @@ meMA.PostGospelIdiomelon.mode = me.m01.d18_en_US_dedes.meMA.PostGospelIdiomelon.
 meMA.PostGospelIdiomelon.melody = me.m01.d18_en_US_dedes.meMA.PostGospelIdiomelon.melody
 meMA.PostGospelIdiomelon.text = me.m01.d18_en_US_dedes.meMA.PostGospelIdiomelon.text
 
-meMA.C1Acrostic.text = me.m01.d18_en_US_dedes.meMA.C1Acrostic.text
+meMA.C1.acrostic = me.m01.d18_en_US_dedes.meMA.C1.acrostic
 
-meMA.C2Poet = me.m01.d18_en_US_dedes.meMA.C2Poet
-meMA.C2Acrostic.text = me.m01.d18_en_US_dedes.meMA.C2Acrostic.text
+meMA.C2.poet = me.m01.d18_en_US_dedes.meMA.C2.poet
+meMA.C2.acrostic = me.m01.d18_en_US_dedes.meMA.C2.acrostic
 
 meMA.C1.title = me.m01.d18_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m01.d18_en_US_dedes.meMA.C1.verse

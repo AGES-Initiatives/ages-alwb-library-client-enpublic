@@ -78,11 +78,11 @@ ocMA.Kathisma23.mode = oc.m7.d7_en_US_dedes.ocMA.Kathisma23.mode
 ocMA.Kathisma23.melody = oc.m7.d7_en_US_dedes.ocMA.Kathisma23.melody
 ocMA.Kathisma23.text = oc.m7.d7_en_US_dedes.ocMA.Kathisma23.text
 
-ocMA.C1Acrostic.text = oc.m7.d7_en_US_dedes.ocMA.C1Acrostic.text
+ocMA.C1.acrostic = oc.m7.d7_en_US_dedes.ocMA.C1.acrostic
 
-ocMA.C2Acrostic.text = oc.m7.d7_en_US_dedes.ocMA.C2Acrostic.text
+ocMA.C2.acrostic = oc.m7.d7_en_US_dedes.ocMA.C2.acrostic
 
-ocMA.Canon.notice = ""
+ocMA.CA.notice = ""
 
 ocMA.OdeW1C1H.mode = oc.m7.d7_en_US_dedes.ocMA.OdeW1C1H.mode
 ocMA.OdeW1C1H.ode = oc.m7.d7_en_US_dedes.ocMA.OdeW1C1H.ode

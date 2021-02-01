@@ -139,13 +139,13 @@ meMA.PostGospelIdiomelon.mode = me.m10.d26_en_US_dedes.meMA.PostGospelIdiomelon.
 meMA.PostGospelIdiomelon.melody = me.m10.d26_en_US_dedes.meMA.PostGospelIdiomelon.melody
 meMA.PostGospelIdiomelon.text = me.m10.d26_en_US_dedes.meMA.PostGospelIdiomelon.text
 
-meMA.C1Acrostic.text = me.m10.d26_en_US_dedes.meMA.C1Acrostic.text
+meMA.C1.acrostic = me.m10.d26_en_US_dedes.meMA.C1.acrostic
 
-meMA.C2Poet = me.m10.d26_en_US_dedes.meMA.C2Poet
-meMA.C2Acrostic.text = me.m10.d26_en_US_dedes.meMA.C2Acrostic.text
+meMA.C2.poet = me.m10.d26_en_US_dedes.meMA.C2.poet
+meMA.C2.acrostic = me.m10.d26_en_US_dedes.meMA.C2.acrostic
 
-meMA.C3Poet = me.m10.d26_en_US_dedes.meMA.C3Poet
-meMA.C3Acrostic.text = me.m10.d26_en_US_dedes.meMA.C3Acrostic.text
+meMA.C3.poet = me.m10.d26_en_US_dedes.meMA.C3.poet
+meMA.C3.acrostic = me.m10.d26_en_US_dedes.meMA.C3.acrostic
 
 //This is just a first draft of the translation of the first canon.
 meMA.Ode1C1H.ode = me.m10.d26_en_US_dedes.meMA.Ode1C1H.ode
