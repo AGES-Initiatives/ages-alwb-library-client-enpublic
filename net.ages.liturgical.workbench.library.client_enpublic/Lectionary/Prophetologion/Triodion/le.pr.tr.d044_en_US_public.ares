@@ -1,10 +1,11 @@
-A_Resource_Whose_Name = le.pr.tr.d044_en_US_public 
+A_Resource_Whose_Name = le.pr.tr.d044_en_US_public
 
 lemcTE.reading1.title = le.pr.tr.d044_en_US_saas.lemcTE.reading1.title
 lemcTE.reading1.title_abbr = le.pr.tr.d044_en_US_saas.lemcTE.reading1.title_abbr
-lemcTE.reading1.version = le.pr.tr.d044_en_US_saas.lemcTE.reading1.version 
+lemcTE.reading1.version = le.pr.tr.d044_en_US_saas.lemcTE.reading1.version
 lemcTE.reading1.book_string = le.pr.tr.d044_en_US_saas.lemcTE.reading1.book_string
 lemcTE.reading1.book_abbr = le.pr.tr.d044_en_US_saas.lemcTE.reading1.book_abbr
-lemcTE.reading1.chapverse = le.pr.tr.d044_en_US_saas.lemcTE.reading1.chapverse 
-lemcTE.reading1.text = le.pr.tr.d044_en_US_saas.lemcTE.reading1.text 
+lemcTE.reading1.chapverse = le.pr.tr.d044_en_US_saas.lemcTE.reading1.chapverse
+lemcTE.reading1.incipit = le.pr.tr.d044_en_US_saas.lemcTE.reading1.incipit
+lemcTE.reading1.text = le.pr.tr.d044_en_US_saas.lemcTE.reading1.text
 

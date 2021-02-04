@@ -1,9 +1,12 @@
 A_Resource_Whose_Name = pe.d111_en_US_public
 
+peCommemoration.incipit = pe.d111_en_US_dedes.peCommemoration.incipit
 peCommemoration.text = pe.d111_en_US_dedes.peCommemoration.text
+peShortCommemoration1.incipit = pe.d111_en_US_dedes.peShortCommemoration1.incipit
 peShortCommemoration1.text = pe.d111_en_US_dedes.peShortCommemoration1.text
 peInsert1 = pe.d111_en_US_dedes.peInsert1
 peInsert2 = pe.d111_en_US_dedes.peInsert2
+peNote.incipit = pe.d111_en_US_dedes.peNote.incipit
 peNote.text = pe.d111_en_US_dedes.peNote.text
 peHO.daytitle = pe.d111_en_US_dedes.peHO.daytitle
 peHO.commemorations = pe.d111_en_US_dedes.peHO.commemorations
@@ -15,56 +18,70 @@ peDismissal = pe.d111_en_US_dedes.peDismissal
 
 peVE.Stichera01.mode = pe.d111_en_US_dedes.peVE.Stichera01.mode
 peVE.Stichera01.melody = pe.d111_en_US_dedes.peVE.Stichera01.melody
+peVE.Stichera01.incipit = pe.d111_en_UK_lash.peVE.Stichera01.incipit
 peVE.Stichera01.text = pe.d111_en_UK_lash.peVE.Stichera01.text
 
 peVE.Stichera02.mode = pe.d111_en_US_dedes.peVE.Stichera02.mode
 peVE.Stichera02.melody = pe.d111_en_US_dedes.peVE.Stichera02.melody
+peVE.Stichera02.incipit = pe.d111_en_UK_lash.peVE.Stichera02.incipit
 peVE.Stichera02.text = pe.d111_en_UK_lash.peVE.Stichera02.text
 
 peVE.Stichera03.mode = pe.d111_en_US_dedes.peVE.Stichera03.mode
 peVE.Stichera03.melody = pe.d111_en_US_dedes.peVE.Stichera03.melody
+peVE.Stichera03.incipit = pe.d111_en_UK_lash.peVE.Stichera03.incipit
 peVE.Stichera03.text = pe.d111_en_UK_lash.peVE.Stichera03.text
 
 peVE.SticGlory.mode = pe.d111_en_US_dedes.peVE.SticGlory.mode
 peVE.SticGlory.melody = pe.d111_en_US_dedes.peVE.SticGlory.melody
+peVE.SticGlory.incipit = pe.d111_en_US_dedes.peVE.SticGlory.incipit
 peVE.SticGlory.text = pe.d111_en_US_dedes.peVE.SticGlory.text
 
 peVE.Aposticha1.mode = pe.d111_en_US_dedes.peVE.Aposticha1.mode
 peVE.Aposticha1.melody = pe.d111_en_US_dedes.peVE.Aposticha1.melody
+peVE.Aposticha1.incipit = pe.d111_en_US_dedes.peVE.Aposticha1.incipit
 peVE.Aposticha1.text = pe.d111_en_US_dedes.peVE.Aposticha1.text
 
 peVE.Aposticha2.mode = pe.d111_en_US_dedes.peVE.Aposticha2.mode
 peVE.Aposticha2.melody = pe.d111_en_US_dedes.peVE.Aposticha2.melody
+peVE.Aposticha2.incipit = pe.d111_en_US_dedes.peVE.Aposticha2.incipit
 peVE.Aposticha2.text = pe.d111_en_US_dedes.peVE.Aposticha2.text
 
 peVE.Aposticha3.mode = pe.d111_en_US_dedes.peVE.Aposticha3.mode
 peVE.Aposticha3.melody = pe.d111_en_US_dedes.peVE.Aposticha3.melody
+peVE.Aposticha3.incipit = pe.d111_en_US_dedes.peVE.Aposticha3.incipit
 peVE.Aposticha3.text = pe.d111_en_US_dedes.peVE.Aposticha3.text
 
 peVE.AposGlory.mode = pe.d111_en_US_dedes.peVE.AposGlory.mode
 peVE.AposGlory.melody = pe.d111_en_US_dedes.peVE.AposGlory.melody
+peVE.AposGlory.incipit = pe.d111_en_US_dedes.peVE.AposGlory.incipit
 peVE.AposGlory.text = pe.d111_en_US_dedes.peVE.AposGlory.text
 
 peMA.Kathisma11.mode = pe.d111_en_US_dedes.peMA.Kathisma11.mode
 peMA.Kathisma11.melody = pe.d111_en_US_dedes.peMA.Kathisma11.melody
+peMA.Kathisma11.incipit = pe.d111_en_US_dedes.peMA.Kathisma11.incipit
 peMA.Kathisma11.text = pe.d111_en_US_dedes.peMA.Kathisma11.text
 
 peMA.Kathisma21.mode = pe.d111_en_US_dedes.peMA.Kathisma21.mode
 peMA.Kathisma21.melody = pe.d111_en_UK_lash.peMA.Kathisma21.melody
+peMA.Kathisma21.incipit = pe.d111_en_UK_lash.peMA.Kathisma21.incipit
 peMA.Kathisma21.text = pe.d111_en_UK_lash.peMA.Kathisma21.text
 
 peMA.Aposticha1.mode = pe.d111_en_US_dedes.peMA.Aposticha1.mode
 peMA.Aposticha1.melody = pe.d111_en_US_dedes.peMA.Aposticha1.melody
+peMA.Aposticha1.incipit = pe.d111_en_US_dedes.peMA.Aposticha1.incipit
 peMA.Aposticha1.text = pe.d111_en_US_dedes.peMA.Aposticha1.text
 
 peMA.Aposticha2.mode = pe.d111_en_US_dedes.peMA.Aposticha2.mode
 peMA.Aposticha2.melody = pe.d111_en_US_dedes.peMA.Aposticha2.melody
+peMA.Aposticha2.incipit = pe.d111_en_US_dedes.peMA.Aposticha2.incipit
 peMA.Aposticha2.text = pe.d111_en_US_dedes.peMA.Aposticha2.text
 
 peMA.Aposticha3.mode = pe.d111_en_US_dedes.peMA.Aposticha3.mode
 peMA.Aposticha3.melody = pe.d111_en_US_dedes.peMA.Aposticha3.melody
+peMA.Aposticha3.incipit = pe.d111_en_US_dedes.peMA.Aposticha3.incipit
 peMA.Aposticha3.text = pe.d111_en_US_dedes.peMA.Aposticha3.text
 
 peMA.AposGlory.mode = pe.d111_en_US_dedes.peMA.AposGlory.mode
 peMA.AposGlory.melody = pe.d111_en_US_dedes.peMA.AposGlory.melody
+peMA.AposGlory.incipit = pe.d111_en_US_dedes.peMA.AposGlory.incipit
 peMA.AposGlory.text = pe.d111_en_US_dedes.peMA.AposGlory.text

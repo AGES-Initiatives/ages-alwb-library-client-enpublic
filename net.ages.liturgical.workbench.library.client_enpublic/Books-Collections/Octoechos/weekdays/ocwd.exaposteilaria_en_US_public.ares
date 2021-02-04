@@ -6,57 +6,70 @@ ocwdMA.Exaposteilaria.title2 = ocwd.exaposteilaria_en_US_dedes.ocwdMA.Exaposteil
 ocwdMA.ExapMonTitle = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapMonTitle
 ocwdMA.ExapMon1.mode = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapMon1.mode
 ocwdMA.ExapMon1.melody = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapMon1.melody
+ocwdMA.ExapMon1.incipit = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapMon1.incipit
 ocwdMA.ExapMon1.text = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapMon1.text
 
 ocwdMA.ExapMonTh.mode = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapMonTh.mode
 ocwdMA.ExapMonTh.melody = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapMonTh.melody
+ocwdMA.ExapMonTh.incipit = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapMonTh.incipit
 ocwdMA.ExapMonTh.text = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapMonTh.text
 
 ocwdMA.ExapTueTitle = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapTueTitle
 ocwdMA.ExapTue1.mode = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapTue1.mode
 ocwdMA.ExapTue1.melody = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapTue1.melody
+ocwdMA.ExapTue1.incipit = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapTue1.incipit
 ocwdMA.ExapTue1.text = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapTue1.text
 
 ocwdMA.ExapTueTh.mode = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapTueTh.mode
 ocwdMA.ExapTueTh.melody = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapTueTh.melody
+ocwdMA.ExapTueTh.incipit = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapTueTh.incipit
 ocwdMA.ExapTueTh.text = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapTueTh.text
 
 ocwdMA.ExapWedTitle = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapWedTitle
 ocwdMA.ExapWed1.mode = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapWed1.mode
 ocwdMA.ExapWed1.melody = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapWed1.melody
+ocwdMA.ExapWed1.incipit = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapWed1.incipit
 ocwdMA.ExapWed1.text = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapWed1.text
 
 ocwdMA.ExapWedTh.mode = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapWedTh.mode
 ocwdMA.ExapWedTh.melody = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapWedTh.melody
+ocwdMA.ExapWedTh.incipit = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapWedTh.incipit
 ocwdMA.ExapWedTh.text = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapWedTh.text
 
 ocwdMA.ExapThuTitle = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapThuTitle
 ocwdMA.ExapThu1.mode = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapThu1.mode
 ocwdMA.ExapThu1.melody = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapThu1.melody
+ocwdMA.ExapThu1.incipit = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapThu1.incipit
 ocwdMA.ExapThu1.text = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapThu1.text
 
 ocwdMA.ExapThuTh.mode = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapThuTh.mode
 ocwdMA.ExapThuTh.melody = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapThuTh.melody
+ocwdMA.ExapThuTh.incipit = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapThuTh.incipit
 ocwdMA.ExapThuTh.text = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapThuTh.text
 
 ocwdMA.ExapFriTitle = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapFriTitle
 ocwdMA.ExapFri1.mode = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapFri1.mode
 ocwdMA.ExapFri1.melody = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapFri1.melody
+ocwdMA.ExapFri1.incipit = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapFri1.incipit
 ocwdMA.ExapFri1.text = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapFri1.text
 
 ocwdMA.ExapFriTh.mode = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapFriTh.mode
 ocwdMA.ExapFriTh.melody = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapFriTh.melody
+ocwdMA.ExapFriTh.incipit = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapFriTh.incipit
 ocwdMA.ExapFriTh.text = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapFriTh.text
 
 ocwdMA.ExapSatTitle = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapSatTitle
 ocwdMA.ExapSat1.mode = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapSat1.mode
 ocwdMA.ExapSat1.melody = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapSat1.melody
+ocwdMA.ExapSat1.incipit = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapSat1.incipit
 ocwdMA.ExapSat1.text = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapSat1.text
 
 ocwdMA.ExapSat2.mode = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapSat2.mode
 ocwdMA.ExapSat2.melody = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapSat2.melody
+ocwdMA.ExapSat2.incipit = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapSat2.incipit
 ocwdMA.ExapSat2.text = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapSat2.text
 
 ocwdMA.ExapSatTh.mode = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapSatTh.mode
 ocwdMA.ExapSatTh.melody = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapSatTh.melody
+ocwdMA.ExapSatTh.incipit = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapSatTh.incipit
 ocwdMA.ExapSatTh.text = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapSatTh.text

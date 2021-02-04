@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = other.stdemetriosparaklesis_en_US_public 
+A_Resource_Whose_Name = other.stdemetriosparaklesis_en_US_public
 
 hoCA.title = other.stdemetriosparaklesis_en_US_dedes.hoCA.title
 hoCA.title2 = other.stdemetriosparaklesis_en_US_dedes.hoCA.title2
@@ -6,243 +6,414 @@ hoCA.poet = other.stdemetriosparaklesis_en_US_dedes.hoCA.poet
 hoCA.translator = other.stdemetriosparaklesis_en_US_dedes.hoCA.translator
 hoCA.Insert1 = other.stdemetriosparaklesis_en_US_dedes.hoCA.Insert1
 
+hoCA.media.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.media.incipit
+hoCA.media.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.media.incipit
+hoCA.media.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.media.incipit
 hoCA.media.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.media.text
 
 hoCA.Apolytikion1.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Apolytikion1.mode
 hoCA.Apolytikion1.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Apolytikion1.melody
+hoCA.Apolytikion1.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Apolytikion1.incipit
+hoCA.Apolytikion1.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Apolytikion1.incipit
+hoCA.Apolytikion1.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Apolytikion1.incipit
 hoCA.Apolytikion1.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Apolytikion1.text
 
 hoCA.Apolytikion2.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Apolytikion2.mode
 hoCA.Apolytikion2.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Apolytikion2.melody
+hoCA.Apolytikion2.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Apolytikion2.incipit
+hoCA.Apolytikion2.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Apolytikion2.incipit
+hoCA.Apolytikion2.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Apolytikion2.incipit
 hoCA.Apolytikion2.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Apolytikion2.text
 
 hoCA.Ode11.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode11.ode
 hoCA.Ode11.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode11.mode
 hoCA.Ode11.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode11.melody
+hoCA.Ode11.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode11.incipit
+hoCA.Ode11.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode11.incipit
+hoCA.Ode11.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode11.incipit
 hoCA.Ode11.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode11.text
 
 hoCA.Ode12.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode12.ode
 hoCA.Ode12.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode12.mode
 hoCA.Ode12.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode12.melody
+hoCA.Ode12.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode12.incipit
+hoCA.Ode12.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode12.incipit
+hoCA.Ode12.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode12.incipit
 hoCA.Ode12.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode12.text
 
 hoCA.Ode13.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode13.ode
 hoCA.Ode13.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode13.mode
 hoCA.Ode13.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode13.melody
+hoCA.Ode13.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode13.incipit
+hoCA.Ode13.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode13.incipit
+hoCA.Ode13.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode13.incipit
 hoCA.Ode13.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode13.text
 
 hoCA.Ode1T.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode1T.ode
 hoCA.Ode1T.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode1T.mode
 hoCA.Ode1T.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode1T.melody
+hoCA.Ode1T.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode1T.incipit
+hoCA.Ode1T.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode1T.incipit
+hoCA.Ode1T.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode1T.incipit
 hoCA.Ode1T.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode1T.text
 
 hoCA.Ode31.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode31.ode
 hoCA.Ode31.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode31.mode
 hoCA.Ode31.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode31.melody
+hoCA.Ode31.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode31.incipit
+hoCA.Ode31.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode31.incipit
+hoCA.Ode31.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode31.incipit
 hoCA.Ode31.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode31.text
 
 hoCA.Ode32.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode32.ode
 hoCA.Ode32.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode32.mode
 hoCA.Ode32.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode32.melody
+hoCA.Ode32.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode32.incipit
+hoCA.Ode32.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode32.incipit
+hoCA.Ode32.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode32.incipit
 hoCA.Ode32.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode32.text
 
 hoCA.Ode33.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode33.ode
 hoCA.Ode33.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode33.mode
 hoCA.Ode33.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode33.melody
+hoCA.Ode33.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode33.incipit
+hoCA.Ode33.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode33.incipit
+hoCA.Ode33.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode33.incipit
 hoCA.Ode33.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode33.text
 
 hoCA.Ode3T.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode3T.ode
 hoCA.Ode3T.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode3T.mode
 hoCA.Ode3T.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode3T.melody
+hoCA.Ode3T.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode3T.incipit
+hoCA.Ode3T.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode3T.incipit
+hoCA.Ode3T.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode3T.incipit
 hoCA.Ode3T.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode3T.text
 
 hoCA.Troparion31.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion31.mode
-hoCA.Troparion31.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion31.melody 
+hoCA.Troparion31.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion31.melody
+hoCA.Troparion31.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion31.incipit
+hoCA.Troparion31.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion31.incipit
+hoCA.Troparion31.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion31.incipit
 hoCA.Troparion31.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion31.text
 
 hoCA.Troparion32.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion32.mode
-hoCA.Troparion32.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion32.melody 
+hoCA.Troparion32.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion32.melody
+hoCA.Troparion32.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion32.incipit
+hoCA.Troparion32.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion32.incipit
+hoCA.Troparion32.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion32.incipit
 hoCA.Troparion32.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion32.text
 
 hoCA.Kathisma11.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Kathisma11.mode
 hoCA.Kathisma11.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Kathisma11.melody
+hoCA.Kathisma11.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Kathisma11.incipit
+hoCA.Kathisma11.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Kathisma11.incipit
+hoCA.Kathisma11.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Kathisma11.incipit
 hoCA.Kathisma11.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Kathisma11.text
 
 hoCA.Ode41.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode41.ode
 hoCA.Ode41.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode41.mode
 hoCA.Ode41.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode41.melody
+hoCA.Ode41.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode41.incipit
+hoCA.Ode41.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode41.incipit
+hoCA.Ode41.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode41.incipit
 hoCA.Ode41.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode41.text
 
 hoCA.Ode42.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode42.ode
 hoCA.Ode42.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode42.mode
 hoCA.Ode42.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode42.melody
+hoCA.Ode42.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode42.incipit
+hoCA.Ode42.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode42.incipit
+hoCA.Ode42.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode42.incipit
 hoCA.Ode42.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode42.text
 
 hoCA.Ode43.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode43.ode
 hoCA.Ode43.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode43.mode
 hoCA.Ode43.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode43.melody
+hoCA.Ode43.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode43.incipit
+hoCA.Ode43.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode43.incipit
+hoCA.Ode43.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode43.incipit
 hoCA.Ode43.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode43.text
 
 hoCA.Ode4T.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode4T.ode
 hoCA.Ode4T.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode4T.mode
 hoCA.Ode4T.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode4T.melody
+hoCA.Ode4T.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode4T.incipit
+hoCA.Ode4T.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode4T.incipit
+hoCA.Ode4T.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode4T.incipit
 hoCA.Ode4T.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode4T.text
 
 hoCA.Ode51.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode51.ode
 hoCA.Ode51.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode51.mode
 hoCA.Ode51.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode51.melody
+hoCA.Ode51.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode51.incipit
+hoCA.Ode51.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode51.incipit
+hoCA.Ode51.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode51.incipit
 hoCA.Ode51.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode51.text
 
 hoCA.Ode52.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode52.ode
 hoCA.Ode52.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode52.mode
 hoCA.Ode52.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode52.melody
+hoCA.Ode52.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode52.incipit
+hoCA.Ode52.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode52.incipit
+hoCA.Ode52.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode52.incipit
 hoCA.Ode52.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode52.text
 
 hoCA.Ode53.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode53.ode
 hoCA.Ode53.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode53.mode
 hoCA.Ode53.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode53.melody
+hoCA.Ode53.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode53.incipit
+hoCA.Ode53.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode53.incipit
+hoCA.Ode53.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode53.incipit
 hoCA.Ode53.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode53.text
 
 hoCA.Ode5T.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode5T.ode
 hoCA.Ode5T.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode5T.mode
 hoCA.Ode5T.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode5T.melody
+hoCA.Ode5T.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode5T.incipit
+hoCA.Ode5T.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode5T.incipit
+hoCA.Ode5T.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode5T.incipit
 hoCA.Ode5T.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode5T.text
 
 hoCA.Ode61.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode61.ode
 hoCA.Ode61.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode61.mode
 hoCA.Ode61.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode61.melody
+hoCA.Ode61.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode61.incipit
+hoCA.Ode61.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode61.incipit
+hoCA.Ode61.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode61.incipit
 hoCA.Ode61.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode61.text
 
 hoCA.Ode62.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode62.ode
 hoCA.Ode62.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode62.mode
 hoCA.Ode62.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode62.melody
+hoCA.Ode62.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode62.incipit
+hoCA.Ode62.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode62.incipit
+hoCA.Ode62.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode62.incipit
 hoCA.Ode62.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode62.text
 
 hoCA.Ode63.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode63.ode
 hoCA.Ode63.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode63.mode
 hoCA.Ode63.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode63.melody
+hoCA.Ode63.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode63.incipit
+hoCA.Ode63.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode63.incipit
+hoCA.Ode63.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode63.incipit
 hoCA.Ode63.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode63.text
 
 hoCA.Ode6T.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode6T.ode
 hoCA.Ode6T.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode6T.mode
 hoCA.Ode6T.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode6T.melody
+hoCA.Ode6T.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode6T.incipit
+hoCA.Ode6T.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode6T.incipit
+hoCA.Ode6T.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode6T.incipit
 hoCA.Ode6T.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode6T.text
 
 hoCA.Troparion61.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion61.mode
-hoCA.Troparion61.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion61.melody 
+hoCA.Troparion61.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion61.melody
+hoCA.Troparion61.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion61.incipit
+hoCA.Troparion61.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion61.incipit
+hoCA.Troparion61.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion61.incipit
 hoCA.Troparion61.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion61.text
 
 hoCA.Troparion62.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion62.mode
-hoCA.Troparion62.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion62.melody 
+hoCA.Troparion62.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion62.melody
+hoCA.Troparion62.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion62.incipit
+hoCA.Troparion62.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion62.incipit
+hoCA.Troparion62.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion62.incipit
 hoCA.Troparion62.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion62.text
 
 hoCA.Kontakion.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Kontakion.mode
-hoCA.Kontakion.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Kontakion.melody 
+hoCA.Kontakion.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Kontakion.melody
+hoCA.Kontakion.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Kontakion.incipit
+hoCA.Kontakion.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Kontakion.incipit
+hoCA.Kontakion.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Kontakion.incipit
 hoCA.Kontakion.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Kontakion.text
 
 hoCA.PostGospelGlory.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.PostGospelGlory.mode
-hoCA.PostGospelGlory.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.PostGospelGlory.melody 
+hoCA.PostGospelGlory.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.PostGospelGlory.melody
+hoCA.PostGospelGlory.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.PostGospelGlory.incipit
+hoCA.PostGospelGlory.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.PostGospelGlory.incipit
+hoCA.PostGospelGlory.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.PostGospelGlory.incipit
 hoCA.PostGospelGlory.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.PostGospelGlory.text
 
 hoCA.PostGospelBoth.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.PostGospelBoth.mode
-hoCA.PostGospelBoth.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.PostGospelBoth.melody 
+hoCA.PostGospelBoth.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.PostGospelBoth.melody
+hoCA.PostGospelBoth.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.PostGospelBoth.incipit
+hoCA.PostGospelBoth.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.PostGospelBoth.incipit
+hoCA.PostGospelBoth.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.PostGospelBoth.incipit
 hoCA.PostGospelBoth.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.PostGospelBoth.text
 
 hoCA.PostGospelHymn1.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.PostGospelHymn1.mode
 hoCA.PostGospelHymn1.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.PostGospelHymn1.melody
+hoCA.PostGospelHymn1.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.PostGospelHymn1.incipit
+hoCA.PostGospelHymn1.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.PostGospelHymn1.incipit
+hoCA.PostGospelHymn1.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.PostGospelHymn1.incipit
 hoCA.PostGospelHymn1.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.PostGospelHymn1.text
 
 hoCA.Ode71.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode71.ode
 hoCA.Ode71.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode71.mode
 hoCA.Ode71.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode71.melody
+hoCA.Ode71.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode71.incipit
+hoCA.Ode71.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode71.incipit
+hoCA.Ode71.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode71.incipit
 hoCA.Ode71.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode71.text
 
 hoCA.Ode72.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode72.ode
 hoCA.Ode72.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode72.mode
 hoCA.Ode72.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode72.melody
+hoCA.Ode72.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode72.incipit
+hoCA.Ode72.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode72.incipit
+hoCA.Ode72.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode72.incipit
 hoCA.Ode72.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode72.text
 
 hoCA.Ode73.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode73.ode
 hoCA.Ode73.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode73.mode
 hoCA.Ode73.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode73.melody
+hoCA.Ode73.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode73.incipit
+hoCA.Ode73.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode73.incipit
+hoCA.Ode73.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode73.incipit
 hoCA.Ode73.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode73.text
 
 hoCA.Ode7T.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode7T.ode
 hoCA.Ode7T.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode7T.mode
 hoCA.Ode7T.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode7T.melody
+hoCA.Ode7T.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode7T.incipit
+hoCA.Ode7T.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode7T.incipit
+hoCA.Ode7T.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode7T.incipit
 hoCA.Ode7T.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode7T.text
 
 hoCA.Ode81.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode81.ode
 hoCA.Ode81.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode81.mode
 hoCA.Ode81.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode81.melody
+hoCA.Ode81.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode81.incipit
+hoCA.Ode81.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode81.incipit
+hoCA.Ode81.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode81.incipit
 hoCA.Ode81.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode81.text
 
 hoCA.Ode82.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode82.ode
 hoCA.Ode82.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode82.mode
 hoCA.Ode82.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode82.melody
+hoCA.Ode82.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode82.incipit
+hoCA.Ode82.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode82.incipit
+hoCA.Ode82.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode82.incipit
 hoCA.Ode82.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode82.text
 
 hoCA.Ode83.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode83.ode
 hoCA.Ode83.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode83.mode
 hoCA.Ode83.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode83.melody
+hoCA.Ode83.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode83.incipit
+hoCA.Ode83.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode83.incipit
+hoCA.Ode83.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode83.incipit
 hoCA.Ode83.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode83.text
 
 hoCA.Ode8T.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode8T.ode
 hoCA.Ode8T.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode8T.mode
 hoCA.Ode8T.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode8T.melody
+hoCA.Ode8T.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode8T.incipit
+hoCA.Ode8T.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode8T.incipit
+hoCA.Ode8T.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode8T.incipit
 hoCA.Ode8T.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode8T.text
 
 hoCA.Ode91.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode91.ode
 hoCA.Ode91.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode91.mode
 hoCA.Ode91.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode91.melody
+hoCA.Ode91.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode91.incipit
+hoCA.Ode91.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode91.incipit
+hoCA.Ode91.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode91.incipit
 hoCA.Ode91.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode91.text
 
 hoCA.Ode92.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode92.ode
 hoCA.Ode92.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode92.mode
 hoCA.Ode92.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode92.melody
+hoCA.Ode92.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode92.incipit
+hoCA.Ode92.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode92.incipit
+hoCA.Ode92.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode92.incipit
 hoCA.Ode92.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode92.text
 
 hoCA.Ode93.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode93.ode
 hoCA.Ode93.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode93.mode
 hoCA.Ode93.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode93.melody
+hoCA.Ode93.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode93.incipit
+hoCA.Ode93.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode93.incipit
+hoCA.Ode93.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode93.incipit
 hoCA.Ode93.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode93.text
 
 hoCA.Ode9T.ode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode9T.ode
 hoCA.Ode9T.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode9T.mode
 hoCA.Ode9T.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode9T.melody
+hoCA.Ode9T.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode9T.incipit
+hoCA.Ode9T.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode9T.incipit
+hoCA.Ode9T.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode9T.incipit
 hoCA.Ode9T.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode9T.text
 
+hoCA.Meg00.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg00.incipit
+hoCA.Meg00.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg00.incipit
+hoCA.Meg00.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg00.incipit
 hoCA.Meg00.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg00.text
 hoCA.Meg01.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg01.melody
+hoCA.Meg01.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg01.incipit
+hoCA.Meg01.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg01.incipit
+hoCA.Meg01.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg01.incipit
 hoCA.Meg01.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg01.text
 hoCA.Meg02.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg02.melody
+hoCA.Meg02.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg02.incipit
+hoCA.Meg02.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg02.incipit
+hoCA.Meg02.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg02.incipit
 hoCA.Meg02.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg02.text
 hoCA.Meg03.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg03.melody
+hoCA.Meg03.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg03.incipit
+hoCA.Meg03.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg03.incipit
+hoCA.Meg03.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg03.incipit
 hoCA.Meg03.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg03.text
 hoCA.Meg04.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg04.melody
+hoCA.Meg04.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg04.incipit
+hoCA.Meg04.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg04.incipit
+hoCA.Meg04.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg04.incipit
 hoCA.Meg04.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg04.text
 hoCA.Meg05.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg05.melody
+hoCA.Meg05.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg05.incipit
+hoCA.Meg05.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg05.incipit
+hoCA.Meg05.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg05.incipit
 hoCA.Meg05.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg05.text
 hoCA.Meg06.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg06.melody
+hoCA.Meg06.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg06.incipit
+hoCA.Meg06.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg06.incipit
+hoCA.Meg06.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg06.incipit
 hoCA.Meg06.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg06.text
 hoCA.Meg07.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg07.melody
+hoCA.Meg07.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg07.incipit
+hoCA.Meg07.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg07.incipit
+hoCA.Meg07.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg07.incipit
 hoCA.Meg07.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg07.text
 
 hoCA.Meg0F.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg0F.melody
+hoCA.Meg0F.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg0F.incipit
+hoCA.Meg0F.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg0F.incipit
+hoCA.Meg0F.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg0F.incipit
 hoCA.Meg0F.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg0F.text
 
 hoCA.Troparion1.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion1.mode
 hoCA.Troparion1.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion1.melody
+hoCA.Troparion1.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion1.incipit
+hoCA.Troparion1.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion1.incipit
+hoCA.Troparion1.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion1.incipit
 hoCA.Troparion1.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion1.text
 
 hoCA.Troparion4.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion4.mode
 hoCA.Troparion4.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion4.melody
+hoCA.Troparion4.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion4.incipit
+hoCA.Troparion4.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion4.incipit
+hoCA.Troparion4.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion4.incipit
 hoCA.Troparion4.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion4.text
 
 hoCA.Troparion6.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion6.mode
-hoCA.Troparion6.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion6.melody 
+hoCA.Troparion6.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion6.melody
+hoCA.Troparion6.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion6.incipit
+hoCA.Troparion6.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion6.incipit
+hoCA.Troparion6.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion6.incipit
 hoCA.Troparion6.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion6.text
 
 hoCA.Troparion7.mode = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion7.mode
-hoCA.Troparion7.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion7.melody 
+hoCA.Troparion7.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion7.melody
+hoCA.Troparion7.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion7.incipit
+hoCA.Troparion7.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion7.incipit
+hoCA.Troparion7.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion7.incipit
 hoCA.Troparion7.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Troparion7.text

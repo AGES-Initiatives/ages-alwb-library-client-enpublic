@@ -10,4 +10,5 @@ hoSA.R01 = ho.s22_en_US_dedes.hoSA.R01
 
 hoSA.LastHymn.mode = ho.s22_en_US_dedes.hoSA.LastHymn.mode
 hoSA.LastHymn.melody = ho.s22_en_US_dedes.hoSA.LastHymn.melody
+hoSA.LastHymn.incipit = ho.s22_en_US_dedes.hoSA.LastHymn.incipit
 hoSA.LastHymn.text = ho.s22_en_US_dedes.hoSA.LastHymn.text

@@ -6,51 +6,79 @@ euWED.translator2 = eu.wedding_en_US_dedes.euWED.translator2
 
 euWED.Key0100.title = eu.wedding_en_US_holycross.euWED.Key0100.title
 
+euWED.Key0101.incipit = eu.wedding_en_US_holycross.euWED.Key0101.incipit
 euWED.Key0101.text = eu.wedding_en_US_holycross.euWED.Key0101.text
+euWED.Key0102.incipit = eu.wedding_en_US_holycross.euWED.Key0102.incipit
 euWED.Key0102.text = eu.wedding_en_US_holycross.euWED.Key0102.text
+euWED.Key0103.incipit = eu.wedding_en_US_holycross.euWED.Key0103.incipit
 euWED.Key0103.text = eu.wedding_en_US_holycross.euWED.Key0103.text
+euWED.Key0104.incipit = eu.wedding_en_US_holycross.euWED.Key0104.incipit
 euWED.Key0104.text = eu.wedding_en_US_holycross.euWED.Key0104.text
+euWED.Key0105.incipit = eu.wedding_en_US_holycross.euWED.Key0105.incipit
 euWED.Key0105.text = eu.wedding_en_US_holycross.euWED.Key0105.text
+euWED.Key0106.incipit = eu.wedding_en_US_holycross.euWED.Key0106.incipit
 euWED.Key0106.text = eu.wedding_en_US_holycross.euWED.Key0106.text
+euWED.Key0107.incipit = eu.wedding_en_US_holycross.euWED.Key0107.incipit
 euWED.Key0107.text = eu.wedding_en_US_holycross.euWED.Key0107.text
+euWED.Key0108.incipit = eu.wedding_en_US_holycross.euWED.Key0108.incipit
 euWED.Key0108.text = eu.wedding_en_US_holycross.euWED.Key0108.text
 
 euWED.Key0200.title = eu.wedding_en_US_holycross.euWED.Key0200.title
 euWED.Key0200.text = eu.wedding_en_US_dedes.euWED.Key0200.text //for media for verses
 
+euWED.Key0210.incipit = eu.wedding_en_US_holycross.euWED.Key0210.incipit
 euWED.Key0210.text = eu.wedding_en_US_holycross.euWED.Key0210.text
+euWED.Key0211.incipit = eu.wedding_en_US_holycross.euWED.Key0211.incipit
 euWED.Key0211.text = eu.wedding_en_US_holycross.euWED.Key0211.text
+euWED.Key0212.incipit = eu.wedding_en_US_holycross.euWED.Key0212.incipit
 euWED.Key0212.text = eu.wedding_en_US_holycross.euWED.Key0212.text
+euWED.Key0213.incipit = eu.wedding_en_US_holycross.euWED.Key0213.incipit
 euWED.Key0213.text = eu.wedding_en_US_holycross.euWED.Key0213.text
+euWED.Key0214.incipit = eu.wedding_en_US_holycross.euWED.Key0214.incipit
 euWED.Key0214.text = eu.wedding_en_US_holycross.euWED.Key0214.text
+euWED.Key0215.incipit = eu.wedding_en_US_holycross.euWED.Key0215.incipit
 euWED.Key0215.text = eu.wedding_en_US_holycross.euWED.Key0215.text
+euWED.Key0216.incipit = eu.wedding_en_US_holycross.euWED.Key0216.incipit
 euWED.Key0216.text = eu.wedding_en_US_holycross.euWED.Key0216.text
+euWED.Key0217.incipit = eu.wedding_en_US_dedes.euWED.Key0217.incipit
 euWED.Key0217.text = eu.wedding_en_US_dedes.euWED.Key0217.text
 
+euWED.Key0301.incipit = eu.wedding_en_US_holycross.euWED.Key0301.incipit
 euWED.Key0301.text = eu.wedding_en_US_holycross.euWED.Key0301.text
+euWED.Key0302.incipit = eu.wedding_en_US_holycross.euWED.Key0302.incipit
 euWED.Key0302.text = eu.wedding_en_US_holycross.euWED.Key0302.text
 euWED.Key0303.title = eu.wedding_en_US_holycross.euWED.Key0303.title
+euWED.Key0303.incipit = eu.wedding_en_US_holycross.euWED.Key0303.incipit
 euWED.Key0303.text = eu.wedding_en_US_holycross.euWED.Key0303.text
+euWED.Key0304.incipit = eu.wedding_en_US_holycross.euWED.Key0304.incipit
 euWED.Key0304.text = eu.wedding_en_US_holycross.euWED.Key0304.text
 
 euWED.Key0306.title = eu.wedding_en_US_holycross.euWED.Key0306.title
 euWED.Key0306.mode = eu.wedding_en_US_dedes.euWED.Key0306.mode
+euWED.Key0306.incipit = eu.wedding_en_US_dedes.euWED.Key0306.incipit
 euWED.Key0306.text = eu.wedding_en_US_dedes.euWED.Key0306.text
 
 euWED.Key0307.mode = eu.wedding_en_US_dedes.euWED.Key0307.mode
+euWED.Key0307.incipit = eu.wedding_en_US_dedes.euWED.Key0307.incipit
 euWED.Key0307.text = eu.wedding_en_US_dedes.euWED.Key0307.text
 
 euWED.Key0308.mode = eu.wedding_en_US_dedes.euWED.Key0308.mode
+euWED.Key0308.incipit = eu.wedding_en_US_dedes.euWED.Key0308.incipit
 euWED.Key0308.text = eu.wedding_en_US_dedes.euWED.Key0308.text
 
+euWED.Key0309.incipit = eu.wedding_en_US_holycross.euWED.Key0309.incipit
 euWED.Key0309.text = eu.wedding_en_US_holycross.euWED.Key0309.text
+euWED.Key0310.incipit = eu.wedding_en_US_holycross.euWED.Key0310.incipit
 euWED.Key0310.text = eu.wedding_en_US_holycross.euWED.Key0310.text
 
 euWED.Key0311.title = eu.wedding_en_US_holycross.euWED.Key0311.title
+euWED.Key0311.incipit = eu.wedding_en_US_holycross.euWED.Key0311.incipit
 euWED.Key0311.text = eu.wedding_en_US_holycross.euWED.Key0311.text
 
 euWED.Key0312.title = eu.wedding_en_US_holycross.euWED.Key0312.title
+euWED.Key0312.incipit = eu.wedding_en_US_holycross.euWED.Key0312.incipit
 euWED.Key0312.text = eu.wedding_en_US_holycross.euWED.Key0312.text
 
 euWED.Key0313.title = eu.wedding_en_US_holycross.euWED.Key0313.title
+euWED.Key0313.incipit = eu.wedding_en_US_holycross.euWED.Key0313.incipit
 euWED.Key0313.text = eu.wedding_en_US_holycross.euWED.Key0313.text

@@ -1,9 +1,10 @@
-A_Resource_Whose_Name = le.go.va.schoolyear_en_US_public 
+A_Resource_Whose_Name = le.go.va.schoolyear_en_US_public
 
 levaLI.Gospel.title = le.go.va.schoolyear_en_US_rsv.levaLI.Gospel.title
 levaLI.Gospel.title_abbr = le.go.va.schoolyear_en_US_rsv.levaLI.Gospel.title_abbr
-levaLI.Gospel.version = le.go.va.schoolyear_en_US_rsv.levaLI.Gospel.version 
+levaLI.Gospel.version = le.go.va.schoolyear_en_US_rsv.levaLI.Gospel.version
 levaLI.Gospel.book_string = le.go.va.schoolyear_en_US_rsv.levaLI.Gospel.book_string
 levaLI.Gospel.book_abbr = le.go.va.schoolyear_en_US_rsv.levaLI.Gospel.book_abbr
-levaLI.Gospel.chapverse = le.go.va.schoolyear_en_US_rsv.levaLI.Gospel.chapverse 
-levaLI.Gospel.text = le.go.va.schoolyear_en_US_rsv.levaLI.Gospel.text 
+levaLI.Gospel.chapverse = le.go.va.schoolyear_en_US_rsv.levaLI.Gospel.chapverse
+levaLI.Gospel.incipit = le.go.va.schoolyear_en_US_rsv.levaLI.Gospel.incipit
+levaLI.Gospel.text = le.go.va.schoolyear_en_US_rsv.levaLI.Gospel.text

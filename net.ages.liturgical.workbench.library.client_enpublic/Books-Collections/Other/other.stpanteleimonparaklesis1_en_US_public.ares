@@ -6,14 +6,17 @@ hoCA.poet = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.poet
 hoCA.translator = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.translator
 hoCA.Insert1 = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Insert1
 
+hoCA.media.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.media.incipit
 hoCA.media.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.media.text
 
 hoCA.Apolytikion1.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Apolytikion1.mode
 hoCA.Apolytikion1.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Apolytikion1.melody
+hoCA.Apolytikion1.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Apolytikion1.incipit
 hoCA.Apolytikion1.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Apolytikion1.text
 
 hoCA.Apolytikion2.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Apolytikion2.mode
 hoCA.Apolytikion2.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Apolytikion2.melody
+hoCA.Apolytikion2.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Apolytikion2.incipit
 hoCA.Apolytikion2.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Apolytikion2.text
 
 hoCA.acrostic = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.acrostic
@@ -22,232 +25,286 @@ hoCA.verse = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.verse
 hoCA.Ode11.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode11.ode
 hoCA.Ode11.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode11.mode
 hoCA.Ode11.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode11.melody
+hoCA.Ode11.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode11.incipit
 hoCA.Ode11.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode11.text
 
 hoCA.Ode12.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode12.ode
 hoCA.Ode12.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode12.mode
 hoCA.Ode12.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode12.melody
+hoCA.Ode12.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode12.incipit
 hoCA.Ode12.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode12.text
 
 hoCA.Ode13.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode13.ode
 hoCA.Ode13.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode13.mode
 hoCA.Ode13.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode13.melody
+hoCA.Ode13.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode13.incipit
 hoCA.Ode13.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode13.text
 
 hoCA.Ode1T.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode1T.ode
 hoCA.Ode1T.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode1T.mode
 hoCA.Ode1T.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode1T.melody
+hoCA.Ode1T.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode1T.incipit
 hoCA.Ode1T.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode1T.text
 
 hoCA.Ode31.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode31.ode
 hoCA.Ode31.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode31.mode
 hoCA.Ode31.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode31.melody
+hoCA.Ode31.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode31.incipit
 hoCA.Ode31.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode31.text
 
 hoCA.Ode32.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode32.ode
 hoCA.Ode32.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode32.mode
 hoCA.Ode32.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode32.melody
+hoCA.Ode32.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode32.incipit
 hoCA.Ode32.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode32.text
 
 hoCA.Ode33.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode33.ode
 hoCA.Ode33.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode33.mode
 hoCA.Ode33.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode33.melody
+hoCA.Ode33.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode33.incipit
 hoCA.Ode33.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode33.text
 
 hoCA.Ode3T.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode3T.ode
 hoCA.Ode3T.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode3T.mode
 hoCA.Ode3T.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode3T.melody
+hoCA.Ode3T.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode3T.incipit
 hoCA.Ode3T.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode3T.text
 
 hoCA.Troparion31.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion31.mode
 hoCA.Troparion31.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion31.melody
+hoCA.Troparion31.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion31.incipit
 hoCA.Troparion31.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion31.text
 
 hoCA.Troparion32.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion32.mode
 hoCA.Troparion32.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion32.melody
+hoCA.Troparion32.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion32.incipit
 hoCA.Troparion32.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion32.text
 
 hoCA.Kathisma11.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Kathisma11.mode
 hoCA.Kathisma11.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Kathisma11.melody
+hoCA.Kathisma11.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Kathisma11.incipit
 hoCA.Kathisma11.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Kathisma11.text
 
 hoCA.Ode41.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode41.ode
 hoCA.Ode41.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode41.mode
 hoCA.Ode41.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode41.melody
+hoCA.Ode41.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode41.incipit
 hoCA.Ode41.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode41.text
 
 hoCA.Ode42.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode42.ode
 hoCA.Ode42.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode42.mode
 hoCA.Ode42.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode42.melody
+hoCA.Ode42.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode42.incipit
 hoCA.Ode42.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode42.text
 
 hoCA.Ode43.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode43.ode
 hoCA.Ode43.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode43.mode
 hoCA.Ode43.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode43.melody
+hoCA.Ode43.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode43.incipit
 hoCA.Ode43.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode43.text
 
 hoCA.Ode4T.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode4T.ode
 hoCA.Ode4T.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode4T.mode
 hoCA.Ode4T.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode4T.melody
+hoCA.Ode4T.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode4T.incipit
 hoCA.Ode4T.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode4T.text
 
 hoCA.Ode51.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode51.ode
 hoCA.Ode51.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode51.mode
 hoCA.Ode51.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode51.melody
+hoCA.Ode51.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode51.incipit
 hoCA.Ode51.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode51.text
 
 hoCA.Ode52.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode52.ode
 hoCA.Ode52.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode52.mode
 hoCA.Ode52.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode52.melody
+hoCA.Ode52.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode52.incipit
 hoCA.Ode52.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode52.text
 
 hoCA.Ode53.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode53.ode
 hoCA.Ode53.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode53.mode
 hoCA.Ode53.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode53.melody
+hoCA.Ode53.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode53.incipit
 hoCA.Ode53.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode53.text
 
 hoCA.Ode5T.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode5T.ode
 hoCA.Ode5T.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode5T.mode
 hoCA.Ode5T.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode5T.melody
+hoCA.Ode5T.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode5T.incipit
 hoCA.Ode5T.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode5T.text
 
 hoCA.Ode61.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode61.ode
 hoCA.Ode61.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode61.mode
 hoCA.Ode61.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode61.melody
+hoCA.Ode61.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode61.incipit
 hoCA.Ode61.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode61.text
 
 hoCA.Ode62.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode62.ode
 hoCA.Ode62.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode62.mode
 hoCA.Ode62.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode62.melody
+hoCA.Ode62.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode62.incipit
 hoCA.Ode62.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode62.text
 
 hoCA.Ode63.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode63.ode
 hoCA.Ode63.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode63.mode
 hoCA.Ode63.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode63.melody
+hoCA.Ode63.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode63.incipit
 hoCA.Ode63.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode63.text
 
 hoCA.Ode6T.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode6T.ode
 hoCA.Ode6T.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode6T.mode
 hoCA.Ode6T.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode6T.melody
+hoCA.Ode6T.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode6T.incipit
 hoCA.Ode6T.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode6T.text
 
 hoCA.Troparion61.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion61.mode
 hoCA.Troparion61.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion61.melody
+hoCA.Troparion61.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion61.incipit
 hoCA.Troparion61.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion61.text
 
 hoCA.Troparion62.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion62.mode
 hoCA.Troparion62.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion62.melody
+hoCA.Troparion62.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion62.incipit
 hoCA.Troparion62.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion62.text
 
 hoCA.Kontakion.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Kontakion.mode
 hoCA.Kontakion.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Kontakion.melody
+hoCA.Kontakion.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Kontakion.incipit
 hoCA.Kontakion.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Kontakion.text
 
 hoCA.PostGospelGlory.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.PostGospelGlory.mode
 hoCA.PostGospelGlory.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.PostGospelGlory.melody
+hoCA.PostGospelGlory.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.PostGospelGlory.incipit
 hoCA.PostGospelGlory.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.PostGospelGlory.text
 
 hoCA.PostGospelBoth.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.PostGospelBoth.mode
 hoCA.PostGospelBoth.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.PostGospelBoth.melody
+hoCA.PostGospelBoth.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.PostGospelBoth.incipit
 hoCA.PostGospelBoth.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.PostGospelBoth.text
 
 hoCA.PostGospelHymn1.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.PostGospelHymn1.mode
 hoCA.PostGospelHymn1.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.PostGospelHymn1.melody
+hoCA.PostGospelHymn1.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.PostGospelHymn1.incipit
 hoCA.PostGospelHymn1.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.PostGospelHymn1.text
 
 hoCA.Ode71.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode71.ode
 hoCA.Ode71.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode71.mode
 hoCA.Ode71.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode71.melody
+hoCA.Ode71.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode71.incipit
 hoCA.Ode71.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode71.text
 
 hoCA.Ode72.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode72.ode
 hoCA.Ode72.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode72.mode
 hoCA.Ode72.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode72.melody
+hoCA.Ode72.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode72.incipit
 hoCA.Ode72.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode72.text
 
 hoCA.Ode73.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode73.ode
 hoCA.Ode73.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode73.mode
 hoCA.Ode73.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode73.melody
+hoCA.Ode73.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode73.incipit
 hoCA.Ode73.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode73.text
 
 hoCA.Ode7T.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode7T.ode
 hoCA.Ode7T.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode7T.mode
 hoCA.Ode7T.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode7T.melody
+hoCA.Ode7T.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode7T.incipit
 hoCA.Ode7T.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode7T.text
 
 hoCA.Ode81.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode81.ode
 hoCA.Ode81.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode81.mode
 hoCA.Ode81.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode81.melody
+hoCA.Ode81.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode81.incipit
 hoCA.Ode81.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode81.text
 
 hoCA.Ode82.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode82.ode
 hoCA.Ode82.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode82.mode
 hoCA.Ode82.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode82.melody
+hoCA.Ode82.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode82.incipit
 hoCA.Ode82.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode82.text
 
 hoCA.Ode83.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode83.ode
 hoCA.Ode83.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode83.mode
 hoCA.Ode83.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode83.melody
+hoCA.Ode83.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode83.incipit
 hoCA.Ode83.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode83.text
 
 hoCA.Ode8T.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode8T.ode
 hoCA.Ode8T.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode8T.mode
 hoCA.Ode8T.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode8T.melody
+hoCA.Ode8T.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode8T.incipit
 hoCA.Ode8T.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode8T.text
 
 hoCA.Ode91.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode91.ode
 hoCA.Ode91.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode91.mode
 hoCA.Ode91.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode91.melody
+hoCA.Ode91.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode91.incipit
 hoCA.Ode91.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode91.text
 
 hoCA.Ode92.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode92.ode
 hoCA.Ode92.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode92.mode
 hoCA.Ode92.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode92.melody
+hoCA.Ode92.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode92.incipit
 hoCA.Ode92.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode92.text
 
 hoCA.Ode93.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode93.ode
 hoCA.Ode93.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode93.mode
 hoCA.Ode93.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode93.melody
+hoCA.Ode93.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode93.incipit
 hoCA.Ode93.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode93.text
 
 hoCA.Ode9T.ode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode9T.ode
 hoCA.Ode9T.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode9T.mode
 hoCA.Ode9T.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode9T.melody
+hoCA.Ode9T.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode9T.incipit
 hoCA.Ode9T.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Ode9T.text
 
+hoCA.Meg00.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Meg00.incipit
 hoCA.Meg00.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Meg00.text
 hoCA.Meg01.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Meg01.melody
+hoCA.Meg01.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Meg01.incipit
 hoCA.Meg01.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Meg01.text
 hoCA.Meg02.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Meg02.melody
+hoCA.Meg02.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Meg02.incipit
 hoCA.Meg02.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Meg02.text
 hoCA.Meg03.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Meg03.melody
+hoCA.Meg03.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Meg03.incipit
 hoCA.Meg03.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Meg03.text
 hoCA.Meg04.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Meg04.melody
+hoCA.Meg04.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Meg04.incipit
 hoCA.Meg04.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Meg04.text
 hoCA.Meg05.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Meg05.melody
+hoCA.Meg05.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Meg05.incipit
 hoCA.Meg05.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Meg05.text
 hoCA.Meg06.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Meg06.melody
+hoCA.Meg06.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Meg06.incipit
 hoCA.Meg06.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Meg06.text
 hoCA.Meg0F.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Meg0F.melody
+hoCA.Meg0F.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Meg0F.incipit
 hoCA.Meg0F.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Meg0F.text
 
 hoCA.Apolytikion3.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Apolytikion3.mode
 hoCA.Apolytikion3.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Apolytikion3.melody
+hoCA.Apolytikion3.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Apolytikion3.incipit
 hoCA.Apolytikion3.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Apolytikion3.text
 
 hoCA.Apolytikion4.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Apolytikion4.mode
 hoCA.Apolytikion4.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Apolytikion4.melody
+hoCA.Apolytikion4.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Apolytikion4.incipit
 hoCA.Apolytikion4.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Apolytikion4.text
 
 hoCA.Troparion1.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion1.mode
 hoCA.Troparion1.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion1.melody
+hoCA.Troparion1.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion1.incipit
 hoCA.Troparion1.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion1.text
 
 hoCA.Troparion2.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion2.mode
 hoCA.Troparion2.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion2.melody
+hoCA.Troparion2.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion2.incipit
 hoCA.Troparion2.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion2.text
 
 hoCA.Troparion3.mode = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion3.mode
 hoCA.Troparion3.melody = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion3.melody
+hoCA.Troparion3.incipit = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion3.incipit
 hoCA.Troparion3.text = other.stpanteleimonparaklesis1_en_US_houpos.hoCA.Troparion3.text
 

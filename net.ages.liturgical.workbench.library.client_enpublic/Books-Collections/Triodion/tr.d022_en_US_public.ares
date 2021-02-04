@@ -1,9 +1,11 @@
 A_Resource_Whose_Name = tr.d022_en_US_public
 
 trCommemoration.text = tr.d022_en_US_dedes.trCommemoration.text // full title of day
+trShortCommemoration1.incipit = tr.d022_en_US_dedes.trShortCommemoration1.incipit
 trShortCommemoration1.text = tr.d022_en_US_dedes.trShortCommemoration1.text
 trInsert1 = tr.d022_en_US_dedes.trInsert1 // for use in petitions and dismissal
 trInsert2 = tr.d022_en_US_dedes.trInsert2 // for use in petitions and dismissal
+trNote.incipit = tr.d022_en_US_dedes.trNote.incipit
 trNote.text = tr.d022_en_US_dedes.trNote.text
 trHO.daytitle = tr.d022_en_US_dedes.trHO.daytitle
 trHO.commemorations = tr.d022_en_US_dedes.trHO.commemorations
@@ -15,52 +17,64 @@ trDismissal = tr.d022_en_US_dedes.trDismissal
 
 trVE.Stichera01.mode = tr.d022_en_US_dedes.trVE.Stichera01.mode
 trVE.Stichera01.melody = tr.d022_en_US_dedes.trVE.Stichera01.melody
+trVE.Stichera01.incipit = tr.d022_en_US_dedes.trVE.Stichera01.incipit
 trVE.Stichera01.text = tr.d022_en_US_dedes.trVE.Stichera01.text
 
 trVE.Stichera02.mode = tr.d022_en_US_dedes.trVE.Stichera02.mode
 trVE.Stichera02.melody = tr.d022_en_US_dedes.trVE.Stichera02.melody
+trVE.Stichera02.incipit = tr.d022_en_US_dedes.trVE.Stichera02.incipit
 trVE.Stichera02.text = tr.d022_en_US_dedes.trVE.Stichera02.text
 
 trVE.Stichera03.mode = tr.d022_en_US_dedes.trVE.Stichera03.mode
 trVE.Stichera03.melody = tr.d022_en_US_dedes.trVE.Stichera03.melody
+trVE.Stichera03.incipit = tr.d022_en_US_dedes.trVE.Stichera03.incipit
 trVE.Stichera03.text = tr.d022_en_US_dedes.trVE.Stichera03.text
 
 trVE.Stichera04.mode = tr.d022_en_US_dedes.trVE.Stichera04.mode
 trVE.Stichera04.melody = tr.d022_en_US_dedes.trVE.Stichera04.melody
+trVE.Stichera04.incipit = tr.d022_en_US_dedes.trVE.Stichera04.incipit
 trVE.Stichera04.text = tr.d022_en_US_dedes.trVE.Stichera04.text
 
 trVE.MM.Stichera123as567.text = properties_en_US_public.media.key
 
 trVE.SticGlory.mode = tr.d022_en_US_dedes.trVE.SticGlory.mode
 trVE.SticGlory.melody = tr.d022_en_US_dedes.trVE.SticGlory.melody
+trVE.SticGlory.incipit = tr.d022_en_UK_lash.trVE.SticGlory.incipit
 trVE.SticGlory.text = tr.d022_en_UK_lash.trVE.SticGlory.text
 
 trVE.LityGlory.mode = tr.d022_en_US_dedes.trVE.LityGlory.mode
 trVE.LityGlory.melody = tr.d022_en_US_dedes.trVE.LityGlory.melody
+trVE.LityGlory.incipit = tr.d022_en_US_dedes.trVE.LityGlory.incipit
 trVE.LityGlory.text = tr.d022_en_US_dedes.trVE.LityGlory.text
 
 trVE.LityBoth.mode = tr.d022_en_US_dedes.trVE.LityBoth.mode
 trVE.LityBoth.melody = tr.d022_en_US_dedes.trVE.LityBoth.melody
+trVE.LityBoth.incipit = tr.d022_en_US_dedes.trVE.LityBoth.incipit
 trVE.LityBoth.text = tr.d022_en_US_dedes.trVE.LityBoth.text
 
 trVE.AposGlory.mode = tr.d022_en_US_dedes.trVE.AposGlory.mode
 trVE.AposGlory.melody = tr.d022_en_US_dedes.trVE.AposGlory.melody
+trVE.AposGlory.incipit = tr.d022_en_UK_lash.trVE.AposGlory.incipit
 trVE.AposGlory.text = tr.d022_en_UK_lash.trVE.AposGlory.text
 
 trVE.AposTheotokion.mode = oc.m6.d1_en_US_public.ocVE.AposTheotokion.mode
 trVE.AposTheotokion.melody = oc.m6.d1_en_US_public.ocVE.AposTheotokion.melody
+trVE.AposTheotokion.incipit = oc.m6.d1_en_US_public.ocVE.AposTheotokion.incipit
 trVE.AposTheotokion.text = oc.m6.d1_en_US_public.ocVE.AposTheotokion.text
 
 trMA.PostGospelGlory.mode = tr.d022_en_US_dedes.trMA.PostGospelGlory.mode
 trMA.PostGospelGlory.melody = tr.d022_en_US_dedes.trMA.PostGospelGlory.melody
+trMA.PostGospelGlory.incipit = tr.d022_en_US_dedes.trMA.PostGospelGlory.incipit
 trMA.PostGospelGlory.text = tr.d022_en_US_dedes.trMA.PostGospelGlory.text
 
 trMA.PostGospelBoth.mode = tr.d022_en_US_dedes.trMA.PostGospelBoth.mode
 trMA.PostGospelBoth.melody = tr.d022_en_US_dedes.trMA.PostGospelBoth.melody
+trMA.PostGospelBoth.incipit = tr.d022_en_US_dedes.trMA.PostGospelBoth.incipit
 trMA.PostGospelBoth.text = tr.d022_en_US_dedes.trMA.PostGospelBoth.text
 
 trMA.PostGospelIdiomelon.mode = tr.d022_en_US_dedes.trMA.PostGospelIdiomelon.mode
 trMA.PostGospelIdiomelon.melody = tr.d022_en_US_dedes.trMA.PostGospelIdiomelon.melody
+trMA.PostGospelIdiomelon.incipit = tr.d022_en_US_dedes.trMA.PostGospelIdiomelon.incipit
 trMA.PostGospelIdiomelon.text = tr.d022_en_US_dedes.trMA.PostGospelIdiomelon.text
 
 trMA.C1.poet = tr.d022_en_US_dedes.trMA.C1.poet
@@ -71,249 +85,317 @@ trMA.C1.verse = tr.d022_en_US_dedes.trMA.C1.verse
 trMA.Ode1C11.ode = tr.d022_en_US_dedes.trMA.Ode1C11.ode
 trMA.Ode1C11.mode = tr.d022_en_US_dedes.trMA.Ode1C11.mode
 trMA.Ode1C11.melody = tr.d022_en_US_oca.trMA.Ode1C11.melody
+trMA.Ode1C11.incipit = tr.d022_en_US_oca.trMA.Ode1C11.incipit
 trMA.Ode1C11.text = tr.d022_en_US_oca.trMA.Ode1C11.text
 
 trMA.Ode1C12.ode = tr.d022_en_US_dedes.trMA.Ode1C12.ode
 trMA.Ode1C12.mode = tr.d022_en_US_dedes.trMA.Ode1C12.mode
 trMA.Ode1C12.melody = tr.d022_en_US_oca.trMA.Ode1C12.melody
+trMA.Ode1C12.incipit = tr.d022_en_US_oca.trMA.Ode1C12.incipit
 trMA.Ode1C12.text = tr.d022_en_US_oca.trMA.Ode1C12.text
 
 trMA.Ode1C13.ode = tr.d022_en_US_dedes.trMA.Ode1C13.ode
 trMA.Ode1C13.mode = tr.d022_en_US_dedes.trMA.Ode1C13.mode
 trMA.Ode1C13.melody = tr.d022_en_US_oca.trMA.Ode1C13.melody
+trMA.Ode1C13.incipit = tr.d022_en_US_oca.trMA.Ode1C13.incipit
 trMA.Ode1C13.text = tr.d022_en_US_oca.trMA.Ode1C13.text
 
 trMA.Ode1C14.ode = tr.d022_en_US_dedes.trMA.Ode1C14.ode
 trMA.Ode1C14.mode = tr.d022_en_US_dedes.trMA.Ode1C14.mode
 trMA.Ode1C14.melody = tr.d022_en_US_oca.trMA.Ode1C14.melody
+trMA.Ode1C14.incipit = tr.d022_en_US_oca.trMA.Ode1C14.incipit
 trMA.Ode1C14.text = tr.d022_en_US_oca.trMA.Ode1C14.text
 
 trMA.Ode1C1T.ode = tr.d022_en_US_dedes.trMA.Ode1C1T.ode
 trMA.Ode1C1T.mode = tr.d022_en_US_dedes.trMA.Ode1C1T.mode
 trMA.Ode1C1T.melody = tr.d022_en_US_oca.trMA.Ode1C1T.melody
+trMA.Ode1C1T.incipit = tr.d022_en_US_oca.trMA.Ode1C1T.incipit
 trMA.Ode1C1T.text = tr.d022_en_US_oca.trMA.Ode1C1T.text
 
 trMA.Ode3C11.ode = tr.d022_en_US_dedes.trMA.Ode3C11.ode
 trMA.Ode3C11.mode = tr.d022_en_US_dedes.trMA.Ode3C11.mode
 trMA.Ode3C11.melody = tr.d022_en_US_oca.trMA.Ode3C11.melody
+trMA.Ode3C11.incipit = tr.d022_en_US_oca.trMA.Ode3C11.incipit
 trMA.Ode3C11.text = tr.d022_en_US_oca.trMA.Ode3C11.text
 
 trMA.Ode3C12.ode = tr.d022_en_US_dedes.trMA.Ode3C12.ode
 trMA.Ode3C12.mode = tr.d022_en_US_dedes.trMA.Ode3C12.mode
 trMA.Ode3C12.melody = tr.d022_en_US_oca.trMA.Ode3C12.melody
+trMA.Ode3C12.incipit = tr.d022_en_US_oca.trMA.Ode3C12.incipit
 trMA.Ode3C12.text = tr.d022_en_US_oca.trMA.Ode3C12.text
 
 trMA.Ode3C13.ode = tr.d022_en_US_dedes.trMA.Ode3C13.ode
 trMA.Ode3C13.mode = tr.d022_en_US_dedes.trMA.Ode3C13.mode
 trMA.Ode3C13.melody = tr.d022_en_US_oca.trMA.Ode3C13.melody
+trMA.Ode3C13.incipit = tr.d022_en_US_oca.trMA.Ode3C13.incipit
 trMA.Ode3C13.text = tr.d022_en_US_oca.trMA.Ode3C13.text
 
 trMA.Ode3C1T.ode = tr.d022_en_US_dedes.trMA.Ode3C1T.ode
 trMA.Ode3C1T.mode = tr.d022_en_US_dedes.trMA.Ode3C1T.mode
 trMA.Ode3C1T.melody = tr.d022_en_US_oca.trMA.Ode3C1T.melody
+trMA.Ode3C1T.incipit = tr.d022_en_US_oca.trMA.Ode3C1T.incipit
 trMA.Ode3C1T.text = tr.d022_en_US_oca.trMA.Ode3C1T.text
 
 trMA.Ode3Kathisma1.mode = tr.d022_en_US_dedes.trMA.Ode3Kathisma1.mode
 trMA.Ode3Kathisma1.melody = tr.d022_en_US_oca.trMA.Ode3Kathisma1.melody
+trMA.Ode3Kathisma1.incipit = tr.d022_en_US_oca.trMA.Ode3Kathisma1.incipit
 trMA.Ode3Kathisma1.text = tr.d022_en_US_oca.trMA.Ode3Kathisma1.text
 
 trMA.Ode3Kathisma2.mode = tr.d022_en_US_dedes.trMA.Ode3Kathisma2.mode
 trMA.Ode3Kathisma2.melody = tr.d022_en_US_oca.trMA.Ode3Kathisma2.melody
+trMA.Ode3Kathisma2.incipit = tr.d022_en_US_oca.trMA.Ode3Kathisma2.incipit
 trMA.Ode3Kathisma2.text = tr.d022_en_US_oca.trMA.Ode3Kathisma2.text
 
 trMA.Ode3Kathisma3.mode = tr.d022_en_US_dedes.trMA.Ode3Kathisma3.mode
 trMA.Ode3Kathisma3.melody = tr.d022_en_US_dedes.trMA.Ode3Kathisma3.melody
+trMA.Ode3Kathisma3.incipit = tr.d022_en_US_dedes.trMA.Ode3Kathisma3.incipit
 trMA.Ode3Kathisma3.text = tr.d022_en_US_dedes.trMA.Ode3Kathisma3.text
 
 trMA.Ode4C11.ode = tr.d022_en_US_dedes.trMA.Ode4C11.ode
 trMA.Ode4C11.mode = tr.d022_en_US_dedes.trMA.Ode4C11.mode
 trMA.Ode4C11.melody = tr.d022_en_US_oca.trMA.Ode4C11.melody
+trMA.Ode4C11.incipit = tr.d022_en_US_oca.trMA.Ode4C11.incipit
 trMA.Ode4C11.text = tr.d022_en_US_oca.trMA.Ode4C11.text
 
 trMA.Ode4C12.ode = tr.d022_en_US_dedes.trMA.Ode4C12.ode
 trMA.Ode4C12.mode = tr.d022_en_US_dedes.trMA.Ode4C12.mode
 trMA.Ode4C12.melody = tr.d022_en_US_oca.trMA.Ode4C12.melody
+trMA.Ode4C12.incipit = tr.d022_en_US_oca.trMA.Ode4C12.incipit
 trMA.Ode4C12.text = tr.d022_en_US_oca.trMA.Ode4C12.text
 
 trMA.Ode4C13.ode = tr.d022_en_US_dedes.trMA.Ode4C13.ode
 trMA.Ode4C13.mode = tr.d022_en_US_dedes.trMA.Ode4C13.mode
 trMA.Ode4C13.melody = tr.d022_en_US_oca.trMA.Ode4C13.melody
+trMA.Ode4C13.incipit = tr.d022_en_US_oca.trMA.Ode4C13.incipit
 trMA.Ode4C13.text = tr.d022_en_US_oca.trMA.Ode4C13.text
 
 trMA.Ode4C14.ode = tr.d022_en_US_dedes.trMA.Ode4C14.ode
 trMA.Ode4C14.mode = tr.d022_en_US_dedes.trMA.Ode4C14.mode
 trMA.Ode4C14.melody = tr.d022_en_US_oca.trMA.Ode4C14.melody
+trMA.Ode4C14.incipit = tr.d022_en_US_oca.trMA.Ode4C14.incipit
 trMA.Ode4C14.text = tr.d022_en_US_oca.trMA.Ode4C14.text
 
 trMA.Ode4C1T.ode = tr.d022_en_US_dedes.trMA.Ode4C1T.ode
 trMA.Ode4C1T.mode = tr.d022_en_US_dedes.trMA.Ode4C1T.mode
 trMA.Ode4C1T.melody = tr.d022_en_US_oca.trMA.Ode4C1T.melody
+trMA.Ode4C1T.incipit = tr.d022_en_US_oca.trMA.Ode4C1T.incipit
 trMA.Ode4C1T.text = tr.d022_en_US_oca.trMA.Ode4C1T.text
 
 trMA.Ode5C11.ode = tr.d022_en_US_dedes.trMA.Ode5C11.ode
 trMA.Ode5C11.mode = tr.d022_en_US_dedes.trMA.Ode5C11.mode
 trMA.Ode5C11.melody = tr.d022_en_US_oca.trMA.Ode5C11.melody
+trMA.Ode5C11.incipit = tr.d022_en_US_oca.trMA.Ode5C11.incipit
 trMA.Ode5C11.text = tr.d022_en_US_oca.trMA.Ode5C11.text
 
 trMA.Ode5C12.ode = tr.d022_en_US_dedes.trMA.Ode5C12.ode
 trMA.Ode5C12.mode = tr.d022_en_US_dedes.trMA.Ode5C12.mode
 trMA.Ode5C12.melody = tr.d022_en_US_oca.trMA.Ode5C12.melody
+trMA.Ode5C12.incipit = tr.d022_en_US_oca.trMA.Ode5C12.incipit
 trMA.Ode5C12.text = tr.d022_en_US_oca.trMA.Ode5C12.text
 
 trMA.Ode5C13.ode = tr.d022_en_US_dedes.trMA.Ode5C13.ode
 trMA.Ode5C13.mode = tr.d022_en_US_dedes.trMA.Ode5C13.mode
 trMA.Ode5C13.melody = tr.d022_en_US_oca.trMA.Ode5C13.melody
+trMA.Ode5C13.incipit = tr.d022_en_US_oca.trMA.Ode5C13.incipit
 trMA.Ode5C13.text = tr.d022_en_US_oca.trMA.Ode5C13.text
 
 trMA.Ode5C1T.ode = tr.d022_en_US_dedes.trMA.Ode5C1T.ode
 trMA.Ode5C1T.mode = tr.d022_en_US_dedes.trMA.Ode5C1T.mode
 trMA.Ode5C1T.melody = tr.d022_en_US_oca.trMA.Ode5C1T.melody
+trMA.Ode5C1T.incipit = tr.d022_en_US_oca.trMA.Ode5C1T.incipit
 trMA.Ode5C1T.text = tr.d022_en_US_oca.trMA.Ode5C1T.text
 
 trMA.Ode6C11.ode = tr.d022_en_US_dedes.trMA.Ode6C11.ode
 trMA.Ode6C11.mode = tr.d022_en_US_dedes.trMA.Ode6C11.mode
 trMA.Ode6C11.melody = tr.d022_en_US_oca.trMA.Ode6C11.melody
+trMA.Ode6C11.incipit = tr.d022_en_US_oca.trMA.Ode6C11.incipit
 trMA.Ode6C11.text = tr.d022_en_US_oca.trMA.Ode6C11.text
 
 trMA.Ode6C12.ode = tr.d022_en_US_dedes.trMA.Ode6C12.ode
 trMA.Ode6C12.mode = tr.d022_en_US_dedes.trMA.Ode6C12.mode
 trMA.Ode6C12.melody = tr.d022_en_US_oca.trMA.Ode6C12.melody
+trMA.Ode6C12.incipit = tr.d022_en_US_oca.trMA.Ode6C12.incipit
 trMA.Ode6C12.text = tr.d022_en_US_oca.trMA.Ode6C12.text
 
 trMA.Ode6C13.ode = tr.d022_en_US_dedes.trMA.Ode6C13.ode
 trMA.Ode6C13.mode = tr.d022_en_US_dedes.trMA.Ode6C13.mode
 trMA.Ode6C13.melody = tr.d022_en_US_oca.trMA.Ode6C13.melody
+trMA.Ode6C13.incipit = tr.d022_en_US_oca.trMA.Ode6C13.incipit
 trMA.Ode6C13.text = tr.d022_en_US_oca.trMA.Ode6C13.text
 
 trMA.Ode6C1T.ode = tr.d022_en_US_dedes.trMA.Ode6C1T.ode
 trMA.Ode6C1T.mode = tr.d022_en_US_dedes.trMA.Ode6C1T.mode
 trMA.Ode6C1T.melody = tr.d022_en_US_oca.trMA.Ode6C1T.melody
+trMA.Ode6C1T.incipit = tr.d022_en_US_oca.trMA.Ode6C1T.incipit
 trMA.Ode6C1T.text = tr.d022_en_US_oca.trMA.Ode6C1T.text
 
 trMA.Kontakion1.mode = tr.d022_en_US_dedes.trMA.Kontakion1.mode
 trMA.Kontakion1.melody = tr.d022_en_US_duvall.trMA.Kontakion1.melody
+trMA.Kontakion1.incipit = tr.d022_en_US_duvall.trMA.Kontakion1.incipit
 trMA.Kontakion1.text = tr.d022_en_US_duvall.trMA.Kontakion1.text
 
+trMA.Oikos1.incipit = tr.d022_en_US_duvall.trMA.Oikos1.incipit
 trMA.Oikos1.text = tr.d022_en_US_duvall.trMA.Oikos1.text
+trMA.Oikos12.incipit = tr.d022_en_US_duvall.trMA.Oikos12.incipit
 trMA.Oikos12.text = tr.d022_en_US_duvall.trMA.Oikos12.text
+trMA.Oikos13.incipit = tr.d022_en_US_duvall.trMA.Oikos13.incipit
 trMA.Oikos13.text = tr.d022_en_US_duvall.trMA.Oikos13.text
+trMA.Oikos14.incipit = tr.d022_en_US_duvall.trMA.Oikos14.incipit
 trMA.Oikos14.text = tr.d022_en_US_duvall.trMA.Oikos14.text
 
+trMA.Synaxarion.commemoration.incipit = tr.d022_en_US_dedes.trMA.Synaxarion.commemoration.incipit
 trMA.Synaxarion.commemoration.text = tr.d022_en_US_dedes.trMA.Synaxarion.commemoration.text
 trMA.Synaxarion.couplet1.title = tr.d022_en_US_dedes.trMA.Synaxarion.couplet1.title
 trMA.Synaxarion.couplet1.verse1 = tr.d022_en_US_dedes.trMA.Synaxarion.couplet1.verse1
 trMA.Synaxarion.couplet1.verse2 = tr.d022_en_US_dedes.trMA.Synaxarion.couplet1.verse2
+trMA.Synaxarion.narration1.p01.incipit = tr.d022_en_US_dedes.trMA.Synaxarion.narration1.p01.incipit
 trMA.Synaxarion.narration1.p01.text = tr.d022_en_US_dedes.trMA.Synaxarion.narration1.p01.text
+trMA.Synaxarion.narration1.p02.incipit = tr.d022_en_US_dedes.trMA.Synaxarion.narration1.p02.incipit
 trMA.Synaxarion.narration1.p02.text = tr.d022_en_US_dedes.trMA.Synaxarion.narration1.p02.text
+trMA.Synaxarion.narration1.p03.incipit = tr.d022_en_US_dedes.trMA.Synaxarion.narration1.p03.incipit
 trMA.Synaxarion.narration1.p03.text = tr.d022_en_US_dedes.trMA.Synaxarion.narration1.p03.text
+trMA.Synaxarion.narration1.p04.incipit = tr.d022_en_US_dedes.trMA.Synaxarion.narration1.p04.incipit
 trMA.Synaxarion.narration1.p04.text = tr.d022_en_US_dedes.trMA.Synaxarion.narration1.p04.text
+trMA.Synaxarion.narration1.p05.incipit = tr.d022_en_US_dedes.trMA.Synaxarion.narration1.p05.incipit
 trMA.Synaxarion.narration1.p05.text = tr.d022_en_US_dedes.trMA.Synaxarion.narration1.p05.text
+trMA.Synaxarion.narration1.p06.incipit = tr.d022_en_US_dedes.trMA.Synaxarion.narration1.p06.incipit
 trMA.Synaxarion.narration1.p06.text = tr.d022_en_US_dedes.trMA.Synaxarion.narration1.p06.text
+trMA.Synaxarion.narration1.p07.incipit = tr.d022_en_US_dedes.trMA.Synaxarion.narration1.p07.incipit
 trMA.Synaxarion.narration1.p07.text = tr.d022_en_US_dedes.trMA.Synaxarion.narration1.p07.text
+trMA.Synaxarion.narration2.p01.incipit = tr.d022_en_US_dedes.trMA.Synaxarion.narration2.p01.incipit
 trMA.Synaxarion.narration2.p01.text = tr.d022_en_US_dedes.trMA.Synaxarion.narration2.p01.text
+trMA.Synaxarion.narration2.p02.incipit = tr.d022_en_US_dedes.trMA.Synaxarion.narration2.p02.incipit
 trMA.Synaxarion.narration2.p02.text = tr.d022_en_US_dedes.trMA.Synaxarion.narration2.p02.text
+trMA.Synaxarion.narration2.p03.incipit = tr.d022_en_US_dedes.trMA.Synaxarion.narration2.p03.incipit
 trMA.Synaxarion.narration2.p03.text = tr.d022_en_US_dedes.trMA.Synaxarion.narration2.p03.text
+trMA.Synaxarion.narration2.p04.incipit = tr.d022_en_US_dedes.trMA.Synaxarion.narration2.p04.incipit
 trMA.Synaxarion.narration2.p04.text = tr.d022_en_US_dedes.trMA.Synaxarion.narration2.p04.text
+trMA.Synaxarion.narration2.p05.incipit = tr.d022_en_US_dedes.trMA.Synaxarion.narration2.p05.incipit
 trMA.Synaxarion.narration2.p05.text = tr.d022_en_US_dedes.trMA.Synaxarion.narration2.p05.text
+trMA.Synaxarion.narration2.p06.incipit = tr.d022_en_US_dedes.trMA.Synaxarion.narration2.p06.incipit
 trMA.Synaxarion.narration2.p06.text = tr.d022_en_US_dedes.trMA.Synaxarion.narration2.p06.text
+trMA.Synaxarion.narration2.p07.incipit = tr.d022_en_US_dedes.trMA.Synaxarion.narration2.p07.incipit
 trMA.Synaxarion.narration2.p07.text = tr.d022_en_US_dedes.trMA.Synaxarion.narration2.p07.text
+trMA.Synaxarion.lastline.incipit = tr.d022_en_US_dedes.trMA.Synaxarion.lastline.incipit
 trMA.Synaxarion.lastline.text = tr.d022_en_US_dedes.trMA.Synaxarion.lastline.text
 
 trMA.Ode7C11.ode = tr.d022_en_US_dedes.trMA.Ode7C11.ode
 trMA.Ode7C11.mode = tr.d022_en_US_dedes.trMA.Ode7C11.mode
 trMA.Ode7C11.melody = tr.d022_en_US_oca.trMA.Ode7C11.melody
+trMA.Ode7C11.incipit = tr.d022_en_US_oca.trMA.Ode7C11.incipit
 trMA.Ode7C11.text = tr.d022_en_US_oca.trMA.Ode7C11.text
 
 trMA.Ode7C12.ode = tr.d022_en_US_dedes.trMA.Ode7C12.ode
 trMA.Ode7C12.mode = tr.d022_en_US_dedes.trMA.Ode7C12.mode
 trMA.Ode7C12.melody = tr.d022_en_US_oca.trMA.Ode7C12.melody
+trMA.Ode7C12.incipit = tr.d022_en_US_oca.trMA.Ode7C12.incipit
 trMA.Ode7C12.text = tr.d022_en_US_oca.trMA.Ode7C12.text
 
 trMA.Ode7C13.ode = tr.d022_en_US_dedes.trMA.Ode7C13.ode
 trMA.Ode7C13.mode = tr.d022_en_US_dedes.trMA.Ode7C13.mode
 trMA.Ode7C13.melody = tr.d022_en_US_oca.trMA.Ode7C13.melody
+trMA.Ode7C13.incipit = tr.d022_en_US_oca.trMA.Ode7C13.incipit
 trMA.Ode7C13.text = tr.d022_en_US_oca.trMA.Ode7C13.text
 
 trMA.Ode7C1T.ode = tr.d022_en_US_dedes.trMA.Ode7C1T.ode
 trMA.Ode7C1T.mode = tr.d022_en_US_dedes.trMA.Ode7C1T.mode
 trMA.Ode7C1T.melody = tr.d022_en_US_oca.trMA.Ode7C1T.melody
+trMA.Ode7C1T.incipit = tr.d022_en_US_oca.trMA.Ode7C1T.incipit
 trMA.Ode7C1T.text = tr.d022_en_US_oca.trMA.Ode7C1T.text
 
 trMA.Ode8C11.ode = tr.d022_en_US_dedes.trMA.Ode8C11.ode
 trMA.Ode8C11.mode = tr.d022_en_US_dedes.trMA.Ode8C11.mode
 trMA.Ode8C11.melody = tr.d022_en_US_oca.trMA.Ode8C11.melody
+trMA.Ode8C11.incipit = tr.d022_en_US_oca.trMA.Ode8C11.incipit
 trMA.Ode8C11.text = tr.d022_en_US_oca.trMA.Ode8C11.text
 
 trMA.Ode8C12.ode = tr.d022_en_US_dedes.trMA.Ode8C12.ode
 trMA.Ode8C12.mode = tr.d022_en_US_dedes.trMA.Ode8C12.mode
 trMA.Ode8C12.melody = tr.d022_en_US_oca.trMA.Ode8C12.melody
+trMA.Ode8C12.incipit = tr.d022_en_US_oca.trMA.Ode8C12.incipit
 trMA.Ode8C12.text = tr.d022_en_US_oca.trMA.Ode8C12.text
 
 trMA.Ode8C13.ode = tr.d022_en_US_dedes.trMA.Ode8C13.ode
 trMA.Ode8C13.mode = tr.d022_en_US_dedes.trMA.Ode8C13.mode
 trMA.Ode8C13.melody = tr.d022_en_US_oca.trMA.Ode8C13.melody
+trMA.Ode8C13.incipit = tr.d022_en_US_oca.trMA.Ode8C13.incipit
 trMA.Ode8C13.text = tr.d022_en_US_oca.trMA.Ode8C13.text
 
 trMA.Ode8C1T.ode = tr.d022_en_US_dedes.trMA.Ode8C1T.ode
 trMA.Ode8C1T.mode = tr.d022_en_US_dedes.trMA.Ode8C1T.mode
 trMA.Ode8C1T.melody = tr.d022_en_US_oca.trMA.Ode8C1T.melody
+trMA.Ode8C1T.incipit = tr.d022_en_US_oca.trMA.Ode8C1T.incipit
 trMA.Ode8C1T.text = tr.d022_en_US_oca.trMA.Ode8C1T.text
 
 trMA.Ode9C11.ode = tr.d022_en_US_dedes.trMA.Ode9C11.ode
 trMA.Ode9C11.mode = tr.d022_en_US_dedes.trMA.Ode9C11.mode
 trMA.Ode9C11.melody = tr.d022_en_US_oca.trMA.Ode9C11.melody
+trMA.Ode9C11.incipit = tr.d022_en_US_oca.trMA.Ode9C11.incipit
 trMA.Ode9C11.text = tr.d022_en_US_oca.trMA.Ode9C11.text
 
 trMA.Ode9C12.ode = tr.d022_en_US_dedes.trMA.Ode9C12.ode
 trMA.Ode9C12.mode = tr.d022_en_US_dedes.trMA.Ode9C12.mode
 trMA.Ode9C12.melody = tr.d022_en_US_oca.trMA.Ode9C12.melody
+trMA.Ode9C12.incipit = tr.d022_en_US_oca.trMA.Ode9C12.incipit
 trMA.Ode9C12.text = tr.d022_en_US_oca.trMA.Ode9C12.text
 
 trMA.Ode9C13.ode = tr.d022_en_US_dedes.trMA.Ode9C13.ode
 trMA.Ode9C13.mode = tr.d022_en_US_dedes.trMA.Ode9C13.mode
 trMA.Ode9C13.melody = tr.d022_en_US_oca.trMA.Ode9C13.melody
+trMA.Ode9C13.incipit = tr.d022_en_US_oca.trMA.Ode9C13.incipit
 trMA.Ode9C13.text = tr.d022_en_US_oca.trMA.Ode9C13.text
 
 trMA.Ode9C14.ode = tr.d022_en_US_dedes.trMA.Ode9C14.ode
 trMA.Ode9C14.mode = tr.d022_en_US_dedes.trMA.Ode9C14.mode
 trMA.Ode9C14.melody = tr.d022_en_US_oca.trMA.Ode9C14.melody
+trMA.Ode9C14.incipit = tr.d022_en_US_oca.trMA.Ode9C14.incipit
 trMA.Ode9C14.text = tr.d022_en_US_oca.trMA.Ode9C14.text
 
 trMA.Ode9C1T.ode = tr.d022_en_US_dedes.trMA.Ode9C1T.ode
 trMA.Ode9C1T.mode = tr.d022_en_US_dedes.trMA.Ode9C1T.mode
 trMA.Ode9C1T.melody = tr.d022_en_US_oca.trMA.Ode9C1T.melody
+trMA.Ode9C1T.incipit = tr.d022_en_US_oca.trMA.Ode9C1T.incipit
 trMA.Ode9C1T.text = tr.d022_en_US_oca.trMA.Ode9C1T.text
 
 trMA.Exaposteilarion1.mode = tr.d022_en_US_dedes.trMA.Exaposteilarion1.mode
 trMA.Exaposteilarion1.melody = tr.d022_en_US_dedes.trMA.Exaposteilarion1.melody
+trMA.Exaposteilarion1.incipit = tr.d022_en_US_dedes.trMA.Exaposteilarion1.incipit
 trMA.Exaposteilarion1.text = tr.d022_en_US_dedes.trMA.Exaposteilarion1.text
 
 trMA.Exaposteilarion2.mode = tr.d022_en_US_dedes.trMA.Exaposteilarion2.mode
 trMA.Exaposteilarion2.melody = tr.d022_en_US_dedes.trMA.Exaposteilarion2.melody
+trMA.Exaposteilarion2.incipit = tr.d022_en_US_dedes.trMA.Exaposteilarion2.incipit
 trMA.Exaposteilarion2.text = tr.d022_en_US_dedes.trMA.Exaposteilarion2.text
 
 trMA.Lauds1.mode = tr.d022_en_US_dedes.trMA.Lauds1.mode
 trMA.Lauds1.melody = tr.d022_en_US_dedes.trMA.Lauds1.melody
+trMA.Lauds1.incipit = tr.d022_en_US_duvall.trMA.Lauds1.incipit
 trMA.Lauds1.text = tr.d022_en_US_duvall.trMA.Lauds1.text
 
 trMA.Lauds2.mode = tr.d022_en_US_dedes.trMA.Lauds2.mode
 trMA.Lauds2.melody = tr.d022_en_US_dedes.trMA.Lauds2.melody
+trMA.Lauds2.incipit = tr.d022_en_US_duvall.trMA.Lauds2.incipit
 trMA.Lauds2.text = tr.d022_en_US_duvall.trMA.Lauds2.text
 
 trMA.Lauds3.mode = tr.d022_en_US_dedes.trMA.Lauds3.mode
 trMA.Lauds3.melody = tr.d022_en_US_dedes.trMA.Lauds3.melody
+trMA.Lauds3.incipit = tr.d022_en_US_duvall.trMA.Lauds3.incipit
 trMA.Lauds3.text = tr.d022_en_US_duvall.trMA.Lauds3.text
 
 trMA.LaudsGlory.mode = tr.d022_en_US_dedes.trMA.LaudsGlory.mode
 trMA.LaudsGlory.melody = tr.d022_en_US_dedes.trMA.LaudsGlory.melody
+trMA.LaudsGlory.incipit = tr.d022_en_US_duvall.trMA.LaudsGlory.incipit
 trMA.LaudsGlory.text = tr.d022_en_US_duvall.trMA.LaudsGlory.text
 
 trMA.LaudsTheotokion.mode = tr.d022_en_US_dedes.trMA.LaudsTheotokion.mode
 trMA.LaudsTheotokion.melody = tr.d022_en_US_dedes.trMA.LaudsTheotokion.melody
+trMA.LaudsTheotokion.incipit = tr.d022_en_US_dedes.trMA.LaudsTheotokion.incipit
 trMA.LaudsTheotokion.text = tr.d022_en_US_dedes.trMA.LaudsTheotokion.text
 
 trLI.Kontakion1.mode = tr.d022_en_US_dedes.trLI.Kontakion1.mode
 trLI.Kontakion1.melody = tr.d022_en_US_duvall.trLI.Kontakion1.melody
+trLI.Kontakion1.incipit = tr.d022_en_US_duvall.trLI.Kontakion1.incipit
 trLI.Kontakion1.text = tr.d022_en_US_duvall.trLI.Kontakion1.text
 
+trMegalynarion.incipit = tr.d022_en_US_dedes.trMegalynarion.incipit
 trMegalynarion.text = tr.d022_en_US_dedes.trMegalynarion.text

@@ -6,12 +6,14 @@ hoD08.Apolytikion3.title = ho.s15.m05_en_US_dedes.hoD08.Apolytikion3.title
 hoD08.Apolytikion3.poet = ho.s15.m05_en_US_dedes.hoD08.Apolytikion3.poet
 hoD08.Apolytikion3.mode = ho.s15.m05_en_US_dedes.hoD08.Apolytikion3.mode
 hoD08.Apolytikion3.melody = ho.s15.m05_en_US_dedes.hoD08.Apolytikion3.melody
+hoD08.Apolytikion3.incipit = ho.s15.m05_en_US_dedes.hoD08.Apolytikion3.incipit
 hoD08.Apolytikion3.text = ho.s15.m05_en_US_dedes.hoD08.Apolytikion3.text
 
 hoD08.Kontakion2.title = ho.s15.m05_en_US_dedes.hoD08.Kontakion2.title
 hoD08.Kontakion2.poet = ho.s15.m05_en_US_dedes.hoD08.Kontakion2.poet
 hoD08.Kontakion2.mode = ho.s15.m05_en_US_dedes.hoD08.Kontakion2.mode
 hoD08.Kontakion2.melody = ho.s15.m05_en_US_dedes.hoD08.Kontakion2.melody
+hoD08.Kontakion2.incipit = ho.s15.m05_en_US_dedes.hoD08.Kontakion2.incipit
 hoD08.Kontakion2.text = ho.s15.m05_en_US_dedes.hoD08.Kontakion2.text
 
 hoD11.GeneralApolytikion1.name = ho.s15.m05_en_US_dedes.hoD11.GeneralApolytikion1.name
@@ -20,6 +22,7 @@ hoD12.Apolytikion2.title = ho.s15.m05_en_US_dedes.hoD12.Apolytikion2.title
 hoD12.Apolytikion2.poet = ho.s15.m05_en_US_dedes.hoD12.Apolytikion2.poet
 hoD12.Apolytikion2.mode = ho.s15.m05_en_US_dedes.hoD12.Apolytikion2.mode
 hoD12.Apolytikion2.melody = ho.s15.m05_en_US_dedes.hoD12.Apolytikion2.melody
+hoD12.Apolytikion2.incipit = ho.s15.m05_en_US_dedes.hoD12.Apolytikion2.incipit
 hoD12.Apolytikion2.text = ho.s15.m05_en_US_dedes.hoD12.Apolytikion2.text
 
 hoD15.GeneralApolytikion1.name = ho.s15.m05_en_US_dedes.hoD15.GeneralApolytikion1.name
@@ -29,6 +32,7 @@ hoD21.Apolytikion2.title = ho.s15.m05_en_US_dedes.hoD21.Apolytikion2.title
 hoD21.Apolytikion2.poet = ho.s15.m05_en_US_dedes.hoD21.Apolytikion2.poet
 hoD21.Apolytikion2.mode = ho.s15.m05_en_US_dedes.hoD21.Apolytikion2.mode
 hoD21.Apolytikion2.melody = ho.s15.m05_en_US_dedes.hoD21.Apolytikion2.melody
+hoD21.Apolytikion2.incipit = ho.s15.m05_en_US_dedes.hoD21.Apolytikion2.incipit
 hoD21.Apolytikion2.text = ho.s15.m05_en_US_dedes.hoD21.Apolytikion2.text
 
 hoD24.GeneralApolytikion1.name = ho.s15.m05_en_US_dedes.hoD24.GeneralApolytikion1.name

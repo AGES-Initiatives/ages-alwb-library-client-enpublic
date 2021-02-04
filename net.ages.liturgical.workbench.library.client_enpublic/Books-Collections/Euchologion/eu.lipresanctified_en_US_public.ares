@@ -1,84 +1,125 @@
-A_Resource_Whose_Name = eu.lipresanctified_en_US_public 
+A_Resource_Whose_Name = eu.lipresanctified_en_US_public
 
 euPL.title = eu.lipresanctified_en_US_holycross.euPL.title
 
 euPL.Key0100.title = eu.lipresanctified_en_US_holycross.euPL.Key0100.title
+euPL.Key0101.incipit = eu.lipresanctified_en_US_holycross.euPL.Key0101.incipit
 euPL.Key0101.text = eu.lipresanctified_en_US_holycross.euPL.Key0101.text
+euPL.Key0102.incipit = eu.lipresanctified_en_US_holycross.euPL.Key0102.incipit
 euPL.Key0102.text = eu.lipresanctified_en_US_holycross.euPL.Key0102.text
+euPL.Key0103.incipit = eu.lipresanctified_en_US_holycross.euPL.Key0103.incipit
 euPL.Key0103.text = eu.lipresanctified_en_US_holycross.euPL.Key0103.text
 euPL.Key0104.title = eu.lipresanctified_en_US_holycross.euPL.Key0104.title
+euPL.Key0105.incipit = eu.lipresanctified_en_US_holycross.euPL.Key0105.incipit
 euPL.Key0105.text = eu.lipresanctified_en_US_holycross.euPL.Key0105.text
+euPL.Key0106.incipit = eu.lipresanctified_en_US_holycross.euPL.Key0106.incipit
 euPL.Key0106.text = eu.lipresanctified_en_US_holycross.euPL.Key0106.text
+euPL.Key0107.incipit = eu.lipresanctified_en_US_holycross.euPL.Key0107.incipit
 euPL.Key0107.text = eu.lipresanctified_en_US_holycross.euPL.Key0107.text
+euPL.Key0108.incipit = eu.lipresanctified_en_US_holycross.euPL.Key0108.incipit
 euPL.Key0108.text = eu.lipresanctified_en_US_holycross.euPL.Key0108.text
 
 euPL.Key0200.title = eu.lipresanctified_en_US_holycross.euPL.Key0200.title
+euPL.Key0201.incipit = eu.lipresanctified_en_US_holycross.euPL.Key0201.incipit
 euPL.Key0201.text = eu.lipresanctified_en_US_holycross.euPL.Key0201.text
 euPL.Key0203.title = eu.lipresanctified_en_US_holycross.euPL.Key0203.title
+euPL.Key0203.incipit = eu.lipresanctified_en_US_holycross.euPL.Key0203.incipit
 euPL.Key0203.text = eu.lipresanctified_en_US_holycross.euPL.Key0203.text
+euPL.Key0204.incipit = eu.lipresanctified_en_US_holycross.euPL.Key0204.incipit
 euPL.Key0204.text = eu.lipresanctified_en_US_holycross.euPL.Key0204.text
 
 euPL.Key0300.title = eu.lipresanctified_en_US_holycross.euPL.Key0300.title
 euPL.Key0306.title = eu.lipresanctified_en_US_holycross.euPL.Key0306.title
+euPL.Key0306.incipit = eu.lipresanctified_en_US_holycross.euPL.Key0306.incipit
 euPL.Key0306.text = eu.lipresanctified_en_US_holycross.euPL.Key0306.text
+euPL.Key0307.incipit = eu.lipresanctified_en_US_holycross.euPL.Key0307.incipit
 euPL.Key0307.text = eu.lipresanctified_en_US_holycross.euPL.Key0307.text
 
 euPL.Key0400.title = eu.lipresanctified_en_US_holycross.euPL.Key0400.title
 euPL.Key0406.title = eu.lipresanctified_en_US_holycross.euPL.Key0406.title
+euPL.Key0406.incipit = eu.lipresanctified_en_US_holycross.euPL.Key0406.incipit
 euPL.Key0406.text = eu.lipresanctified_en_US_holycross.euPL.Key0406.text
+euPL.Key0407.incipit = eu.lipresanctified_en_US_holycross.euPL.Key0407.incipit
 euPL.Key0407.text = eu.lipresanctified_en_US_holycross.euPL.Key0407.text
 
 euPL.Key0500.title = eu.lipresanctified_en_US_holycross.euPL.Key0500.title
 euPL.Key0506.title = eu.lipresanctified_en_US_holycross.euPL.Key0506.title
+euPL.Key0506.incipit = eu.lipresanctified_en_US_holycross.euPL.Key0506.incipit
 euPL.Key0506.text = eu.lipresanctified_en_US_holycross.euPL.Key0506.text
+euPL.Key0507.incipit = eu.lipresanctified_en_US_holycross.euPL.Key0507.incipit
 euPL.Key0507.text = eu.lipresanctified_en_US_holycross.euPL.Key0507.text
 
-euPL.Key0600.title = eu.lipresanctified_en_US_holycross.euPL.Key0600.title 
+euPL.Key0600.title = eu.lipresanctified_en_US_holycross.euPL.Key0600.title
 //Vespers with entrance
 
 euPL.Key0700.title = eu.lipresanctified_en_US_holycross.euPL.Key0700.title
+euPL.Key0701.incipit = eu.lipresanctified_en_US_holycross.euPL.Key0701.incipit
 euPL.Key0701.text = eu.lipresanctified_en_US_holycross.euPL.Key0701.text
+euPL.Key0702.incipit = eu.lipresanctified_en_US_holycross.euPL.Key0702.incipit
 euPL.Key0702.text = eu.lipresanctified_en_US_holycross.euPL.Key0702.text
 
 euPL.Key0800.title = eu.lipresanctified_en_US_holycross.euPL.Key0800.title
+euPL.Key0800.incipit = eu.lipresanctified_en_US_holycross.euPL.Key0800.incipit
 euPL.Key0800.text = eu.lipresanctified_en_US_holycross.euPL.Key0800.text
 
 //euPL.Key0900
 euPL.Key0901.title = eu.lipresanctified_en_US_holycross.euPL.Key0901.title
+euPL.Key0901.incipit = eu.lipresanctified_en_US_holycross.euPL.Key0901.incipit
 euPL.Key0901.text = eu.lipresanctified_en_US_holycross.euPL.Key0901.text
+euPL.Key0902.incipit = eu.lipresanctified_en_US_holycross.euPL.Key0902.incipit
 euPL.Key0902.text = eu.lipresanctified_en_US_holycross.euPL.Key0902.text
 euPL.Key0903.title = eu.lipresanctified_en_US_holycross.euPL.Key0903.title
+euPL.Key0903.incipit = eu.lipresanctified_en_US_holycross.euPL.Key0903.incipit
 euPL.Key0903.text = eu.lipresanctified_en_US_holycross.euPL.Key0903.text
+euPL.Key0904.incipit = eu.lipresanctified_en_US_holycross.euPL.Key0904.incipit
 euPL.Key0904.text = eu.lipresanctified_en_US_holycross.euPL.Key0904.text
 euPL.Key0905.title = eu.lipresanctified_en_US_holycross.euPL.Key0905.title
+euPL.Key0905.incipit = eu.lipresanctified_en_US_holycross.euPL.Key0905.incipit
 euPL.Key0905.text = eu.lipresanctified_en_US_holycross.euPL.Key0905.text
+euPL.Key0906.incipit = eu.lipresanctified_en_US_holycross.euPL.Key0906.incipit
 euPL.Key0906.text = eu.lipresanctified_en_US_holycross.euPL.Key0906.text
 euPL.Key0907.title = eu.lipresanctified_en_US_holycross.euPL.Key0907.title
+euPL.Key0907.incipit = eu.lipresanctified_en_US_holycross.euPL.Key0907.incipit
 euPL.Key0907.text = eu.lipresanctified_en_US_holycross.euPL.Key0907.text
+euPL.Key0908.incipit = eu.lipresanctified_en_US_holycross.euPL.Key0908.incipit
 euPL.Key0908.text = eu.lipresanctified_en_US_holycross.euPL.Key0908.text
 
 euPL.Key1000.title = eu.lipresanctified_en_US_holycross.euPL.Key1000.title
+euPL.Key1001.incipit = eu.lipresanctified_en_US_holycross.euPL.Key1001.incipit
 euPL.Key1001.text = eu.lipresanctified_en_US_holycross.euPL.Key1001.text
+euPL.Key1002.incipit = eu.lipresanctified_en_US_holycross.euPL.Key1002.incipit
 euPL.Key1002.text = eu.lipresanctified_en_US_holycross.euPL.Key1002.text
 
+euPL.Key1101.incipit = eu.lipresanctified_en_US_holycross.euPL.Key1101.incipit
 euPL.Key1101.text = eu.lipresanctified_en_US_holycross.euPL.Key1101.text
 euPL.Key1102.title = eu.lipresanctified_en_US_holycross.euPL.Key1102.title
+euPL.Key1102.incipit = eu.lipresanctified_en_US_holycross.euPL.Key1102.incipit
 euPL.Key1102.text = eu.lipresanctified_en_US_holycross.euPL.Key1102.text
 euPL.Key1103.title = eu.lipresanctified_en_US_holycross.euPL.Key1103.title
+euPL.Key1103.incipit = eu.lipresanctified_en_US_holycross.euPL.Key1103.incipit
 euPL.Key1103.text = eu.lipresanctified_en_US_holycross.euPL.Key1103.text
+euPL.Key1104.incipit = eu.lipresanctified_en_US_holycross.euPL.Key1104.incipit
 euPL.Key1104.text = eu.lipresanctified_en_US_holycross.euPL.Key1104.text
 
 euPL.Key1201.title = eu.lipresanctified_en_US_holycross.euPL.Key1201.title
+euPL.Key1201.incipit = eu.lipresanctified_en_US_holycross.euPL.Key1201.incipit
 euPL.Key1201.text = eu.lipresanctified_en_US_holycross.euPL.Key1201.text
 euPL.Key1202.title = eu.lipresanctified_en_US_holycross.euPL.Key1202.title
+euPL.Key1202.incipit = eu.lipresanctified_en_US_holycross.euPL.Key1202.incipit
 euPL.Key1202.text = eu.lipresanctified_en_US_holycross.euPL.Key1202.text
+euPL.Key1203.incipit = eu.lipresanctified_en_US_holycross.euPL.Key1203.incipit
 euPL.Key1203.text = eu.lipresanctified_en_US_holycross.euPL.Key1203.text
 euPL.Key1204.title = eu.lipresanctified_en_US_holycross.euPL.Key1204.title
+euPL.Key1204.incipit = eu.lipresanctified_en_US_holycross.euPL.Key1204.incipit
 euPL.Key1204.text = eu.lipresanctified_en_US_holycross.euPL.Key1204.text
+euPL.Key1205.incipit = eu.lipresanctified_en_US_holycross.euPL.Key1205.incipit
 euPL.Key1205.text = eu.lipresanctified_en_US_holycross.euPL.Key1205.text
 euPL.Key1206.title = eu.lipresanctified_en_US_holycross.euPL.Key1206.title
+euPL.Key1206.incipit = eu.lipresanctified_en_US_holycross.euPL.Key1206.incipit
 euPL.Key1206.text = eu.lipresanctified_en_US_holycross.euPL.Key1206.text
+euPL.Key1207.incipit = eu.lipresanctified_en_US_holycross.euPL.Key1207.incipit
 euPL.Key1207.text = eu.lipresanctified_en_US_holycross.euPL.Key1207.text
 euPL.Key1208.title = eu.lipresanctified_en_US_holycross.euPL.Key1208.title
+euPL.Key1208.incipit = eu.lipresanctified_en_US_holycross.euPL.Key1208.incipit
 euPL.Key1208.text = eu.lipresanctified_en_US_holycross.euPL.Key1208.text
 

@@ -1,10 +1,11 @@
-A_Resource_Whose_Name = le.go.me.m09.dSatBC_en_US_public 
+A_Resource_Whose_Name = le.go.me.m09.dSatBC_en_US_public
 
 lemeLI.Gospel.title = le.go.me.m09.dSatBC_en_US_rsv.lemeLI.Gospel.title
 lemeLI.Gospel.title_abbr = le.go.me.m09.dSatBC_en_US_rsv.lemeLI.Gospel.title_abbr
-lemeLI.Gospel.version = le.go.me.m09.dSatBC_en_US_rsv.lemeLI.Gospel.version 
+lemeLI.Gospel.version = le.go.me.m09.dSatBC_en_US_rsv.lemeLI.Gospel.version
 lemeLI.Gospel.book_string = le.go.me.m09.dSatBC_en_US_rsv.lemeLI.Gospel.book_string
 lemeLI.Gospel.book_abbr = le.go.me.m09.dSatBC_en_US_rsv.lemeLI.Gospel.book_abbr
-lemeLI.Gospel.chapverse = le.go.me.m09.dSatBC_en_US_rsv.lemeLI.Gospel.chapverse 
-lemeLI.Gospel.text = le.go.me.m09.dSatBC_en_US_rsv.lemeLI.Gospel.text 
-lemeLI.Gospel.pagenumber = le.go.me.m09.dSatBC_en_US_rsv.lemeLI.Gospel.pagenumber 
+lemeLI.Gospel.chapverse = le.go.me.m09.dSatBC_en_US_rsv.lemeLI.Gospel.chapverse
+lemeLI.Gospel.incipit = le.go.me.m09.dSatBC_en_US_rsv.lemeLI.Gospel.incipit
+lemeLI.Gospel.text = le.go.me.m09.dSatBC_en_US_rsv.lemeLI.Gospel.text
+lemeLI.Gospel.pagenumber = le.go.me.m09.dSatBC_en_US_rsv.lemeLI.Gospel.pagenumber

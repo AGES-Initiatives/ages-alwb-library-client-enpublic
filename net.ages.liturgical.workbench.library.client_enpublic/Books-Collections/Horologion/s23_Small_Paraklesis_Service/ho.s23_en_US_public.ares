@@ -14,6 +14,7 @@ R03 = ho.s23_en_US_dedes.R03
 
 hoCA.Apolytikion1.mode = ho.s23_en_US_dedes.hoCA.Apolytikion1.mode
 hoCA.Apolytikion1.melody = ho.s23_en_US_dedes.hoCA.Apolytikion1.melody
+hoCA.Apolytikion1.incipit = ho.s23_en_US_dedes.hoCA.Apolytikion1.incipit
 hoCA.Apolytikion1.text = ho.s23_en_US_dedes.hoCA.Apolytikion1.text
 
 //Glory. Repeat
@@ -22,6 +23,7 @@ hoCA.Apolytikion1.text = ho.s23_en_US_dedes.hoCA.Apolytikion1.text
 
 hoCA.Apolytikion2.mode = ho.s23_en_US_dedes.hoCA.Apolytikion2.mode
 hoCA.Apolytikion2.melody = ho.s23_en_US_dedes.hoCA.Apolytikion2.melody
+hoCA.Apolytikion2.incipit = ho.s23_en_US_dedes.hoCA.Apolytikion2.incipit
 hoCA.Apolytikion2.text = ho.s23_en_US_dedes.hoCA.Apolytikion2.text
 
 //Reader
@@ -33,59 +35,71 @@ hoCA.Apolytikion2.text = ho.s23_en_US_dedes.hoCA.Apolytikion2.text
 hoCA.Ode1H.ode = ho.s23_en_US_dedes.hoCA.Ode1H.ode
 hoCA.Ode1H.mode = ho.s23_en_US_dedes.hoCA.Ode1H.mode
 hoCA.Ode1H.melody = ho.s23_en_US_dedes.hoCA.Ode1H.melody
+hoCA.Ode1H.incipit = ho.s23_en_US_dedes.hoCA.Ode1H.incipit
 hoCA.Ode1H.text = ho.s23_en_US_dedes.hoCA.Ode1H.text
 
 hoCA.Ode11.ode = ho.s23_en_US_dedes.hoCA.Ode11.ode
 hoCA.Ode11.mode = ho.s23_en_US_dedes.hoCA.Ode11.mode
 hoCA.Ode11.melody = ho.s23_en_US_dedes.hoCA.Ode11.melody
+hoCA.Ode11.incipit = ho.s23_en_US_dedes.hoCA.Ode11.incipit
 hoCA.Ode11.text = ho.s23_en_US_dedes.hoCA.Ode11.text
 
 hoCA.Ode12.ode = ho.s23_en_US_dedes.hoCA.Ode12.ode
 hoCA.Ode12.mode = ho.s23_en_US_dedes.hoCA.Ode12.mode
 hoCA.Ode12.melody = ho.s23_en_US_dedes.hoCA.Ode12.melody
+hoCA.Ode12.incipit = ho.s23_en_US_dedes.hoCA.Ode12.incipit
 hoCA.Ode12.text = ho.s23_en_US_dedes.hoCA.Ode12.text
 
 hoCA.Ode13.ode = ho.s23_en_US_dedes.hoCA.Ode13.ode
 hoCA.Ode13.mode = ho.s23_en_US_dedes.hoCA.Ode13.mode
 hoCA.Ode13.melody = ho.s23_en_US_dedes.hoCA.Ode13.melody
+hoCA.Ode13.incipit = ho.s23_en_US_dedes.hoCA.Ode13.incipit
 hoCA.Ode13.text = ho.s23_en_US_dedes.hoCA.Ode13.text
 
 hoCA.Ode14.ode = ho.s23_en_US_dedes.hoCA.Ode14.ode
 hoCA.Ode14.mode = ho.s23_en_US_dedes.hoCA.Ode14.mode
 hoCA.Ode14.melody = ho.s23_en_US_dedes.hoCA.Ode14.melody
+hoCA.Ode14.incipit = ho.s23_en_US_dedes.hoCA.Ode14.incipit
 hoCA.Ode14.text = ho.s23_en_US_dedes.hoCA.Ode14.text
 
 hoCA.Ode3H.ode = ho.s23_en_US_dedes.hoCA.Ode3H.ode
 hoCA.Ode3H.mode = ho.s23_en_US_dedes.hoCA.Ode3H.mode
 hoCA.Ode3H.melody = ho.s23_en_US_dedes.hoCA.Ode3H.melody
+hoCA.Ode3H.incipit = ho.s23_en_US_dedes.hoCA.Ode3H.incipit
 hoCA.Ode3H.text = ho.s23_en_US_dedes.hoCA.Ode3H.text
 
 hoCA.Ode31.ode = ho.s23_en_US_dedes.hoCA.Ode31.ode
 hoCA.Ode31.mode = ho.s23_en_US_dedes.hoCA.Ode31.mode
 hoCA.Ode31.melody = ho.s23_en_US_dedes.hoCA.Ode31.melody
+hoCA.Ode31.incipit = ho.s23_en_US_dedes.hoCA.Ode31.incipit
 hoCA.Ode31.text = ho.s23_en_US_dedes.hoCA.Ode31.text
 
 hoCA.Ode32.ode = ho.s23_en_US_dedes.hoCA.Ode32.ode
 hoCA.Ode32.mode = ho.s23_en_US_dedes.hoCA.Ode32.mode
 hoCA.Ode32.melody = ho.s23_en_US_dedes.hoCA.Ode32.melody
+hoCA.Ode32.incipit = ho.s23_en_US_dedes.hoCA.Ode32.incipit
 hoCA.Ode32.text = ho.s23_en_US_dedes.hoCA.Ode32.text
 
 hoCA.Ode33.ode = ho.s23_en_US_dedes.hoCA.Ode33.ode
 hoCA.Ode33.mode = ho.s23_en_US_dedes.hoCA.Ode33.mode
 hoCA.Ode33.melody = ho.s23_en_US_dedes.hoCA.Ode33.melody
+hoCA.Ode33.incipit = ho.s23_en_US_dedes.hoCA.Ode33.incipit
 hoCA.Ode33.text = ho.s23_en_US_dedes.hoCA.Ode33.text
 
 hoCA.Ode34.ode = ho.s23_en_US_dedes.hoCA.Ode34.ode
 hoCA.Ode34.mode = ho.s23_en_US_dedes.hoCA.Ode34.mode
 hoCA.Ode34.melody = ho.s23_en_US_dedes.hoCA.Ode34.melody
+hoCA.Ode34.incipit = ho.s23_en_US_dedes.hoCA.Ode34.incipit
 hoCA.Ode34.text = ho.s23_en_US_dedes.hoCA.Ode34.text
 
 hoCA.Troparion31.mode = ho.s23_en_US_dedes.hoCA.Troparion31.mode
 hoCA.Troparion31.melody = ho.s23_en_US_dedes.hoCA.Troparion31.melody
+hoCA.Troparion31.incipit = ho.s23_en_US_dedes.hoCA.Troparion31.incipit
 hoCA.Troparion31.text = ho.s23_en_US_dedes.hoCA.Troparion31.text
 
 hoCA.Troparion32.mode = ho.s23_en_US_dedes.hoCA.Troparion32.mode
 hoCA.Troparion32.melody = ho.s23_en_US_dedes.hoCA.Troparion32.melody
+hoCA.Troparion32.incipit = ho.s23_en_US_dedes.hoCA.Troparion32.incipit
 hoCA.Troparion32.text = ho.s23_en_US_dedes.hoCA.Troparion32.text
 
 //R06
@@ -93,89 +107,107 @@ hoCA.Troparion32.text = ho.s23_en_US_dedes.hoCA.Troparion32.text
 
 hoCA.Kathisma11.mode = ho.s23_en_US_dedes.hoCA.Kathisma11.mode
 hoCA.Kathisma11.melody = ho.s23_en_US_dedes.hoCA.Kathisma11.melody
+hoCA.Kathisma11.incipit = ho.s23_en_US_dedes.hoCA.Kathisma11.incipit
 hoCA.Kathisma11.text = ho.s23_en_US_dedes.hoCA.Kathisma11.text
 
 hoCA.Ode4H.ode = ho.s23_en_US_dedes.hoCA.Ode4H.ode
 hoCA.Ode4H.mode = ho.s23_en_US_dedes.hoCA.Ode4H.mode
 hoCA.Ode4H.melody = ho.s23_en_US_dedes.hoCA.Ode4H.melody
+hoCA.Ode4H.incipit = ho.s23_en_US_dedes.hoCA.Ode4H.incipit
 hoCA.Ode4H.text = ho.s23_en_US_dedes.hoCA.Ode4H.text
 
 hoCA.Ode41.ode = ho.s23_en_US_dedes.hoCA.Ode41.ode
 hoCA.Ode41.mode = ho.s23_en_US_dedes.hoCA.Ode41.mode
 hoCA.Ode41.melody = ho.s23_en_US_dedes.hoCA.Ode41.melody
+hoCA.Ode41.incipit = ho.s23_en_US_dedes.hoCA.Ode41.incipit
 hoCA.Ode41.text = ho.s23_en_US_dedes.hoCA.Ode41.text
 
 hoCA.Ode42.ode = ho.s23_en_US_dedes.hoCA.Ode42.ode
 hoCA.Ode42.mode = ho.s23_en_US_dedes.hoCA.Ode42.mode
 hoCA.Ode42.melody = ho.s23_en_US_dedes.hoCA.Ode42.melody
+hoCA.Ode42.incipit = ho.s23_en_US_dedes.hoCA.Ode42.incipit
 hoCA.Ode42.text = ho.s23_en_US_dedes.hoCA.Ode42.text
 
 hoCA.Ode43.ode = ho.s23_en_US_dedes.hoCA.Ode43.ode
 hoCA.Ode43.mode = ho.s23_en_US_dedes.hoCA.Ode43.mode
 hoCA.Ode43.melody = ho.s23_en_US_dedes.hoCA.Ode43.melody
+hoCA.Ode43.incipit = ho.s23_en_US_dedes.hoCA.Ode43.incipit
 hoCA.Ode43.text = ho.s23_en_US_dedes.hoCA.Ode43.text
 
 hoCA.Ode44.ode = ho.s23_en_US_dedes.hoCA.Ode44.ode
 hoCA.Ode44.mode = ho.s23_en_US_dedes.hoCA.Ode44.mode
 hoCA.Ode44.melody = ho.s23_en_US_dedes.hoCA.Ode44.melody
+hoCA.Ode44.incipit = ho.s23_en_US_dedes.hoCA.Ode44.incipit
 hoCA.Ode44.text = ho.s23_en_US_dedes.hoCA.Ode44.text
 
 hoCA.Ode5H.ode = ho.s23_en_US_dedes.hoCA.Ode5H.ode
 hoCA.Ode5H.mode = ho.s23_en_US_dedes.hoCA.Ode5H.mode
 hoCA.Ode5H.melody = ho.s23_en_US_dedes.hoCA.Ode5H.melody
+hoCA.Ode5H.incipit = ho.s23_en_US_dedes.hoCA.Ode5H.incipit
 hoCA.Ode5H.text = ho.s23_en_US_dedes.hoCA.Ode5H.text
 
 hoCA.Ode51.ode = ho.s23_en_US_dedes.hoCA.Ode51.ode
 hoCA.Ode51.mode = ho.s23_en_US_dedes.hoCA.Ode51.mode
 hoCA.Ode51.melody = ho.s23_en_US_dedes.hoCA.Ode51.melody
+hoCA.Ode51.incipit = ho.s23_en_US_dedes.hoCA.Ode51.incipit
 hoCA.Ode51.text = ho.s23_en_US_dedes.hoCA.Ode51.text
 
 hoCA.Ode52.ode = ho.s23_en_US_dedes.hoCA.Ode52.ode
 hoCA.Ode52.mode = ho.s23_en_US_dedes.hoCA.Ode52.mode
 hoCA.Ode52.melody = ho.s23_en_US_dedes.hoCA.Ode52.melody
+hoCA.Ode52.incipit = ho.s23_en_US_dedes.hoCA.Ode52.incipit
 hoCA.Ode52.text = ho.s23_en_US_dedes.hoCA.Ode52.text
 
 hoCA.Ode53.ode = ho.s23_en_US_dedes.hoCA.Ode53.ode
 hoCA.Ode53.mode = ho.s23_en_US_dedes.hoCA.Ode53.mode
 hoCA.Ode53.melody = ho.s23_en_US_dedes.hoCA.Ode53.melody
+hoCA.Ode53.incipit = ho.s23_en_US_dedes.hoCA.Ode53.incipit
 hoCA.Ode53.text = ho.s23_en_US_dedes.hoCA.Ode53.text
 
 hoCA.Ode54.ode = ho.s23_en_US_dedes.hoCA.Ode54.ode
 hoCA.Ode54.mode = ho.s23_en_US_dedes.hoCA.Ode54.mode
 hoCA.Ode54.melody = ho.s23_en_US_dedes.hoCA.Ode54.melody
+hoCA.Ode54.incipit = ho.s23_en_US_dedes.hoCA.Ode54.incipit
 hoCA.Ode54.text = ho.s23_en_US_dedes.hoCA.Ode54.text
 
 hoCA.Ode6H.ode = ho.s23_en_US_dedes.hoCA.Ode6H.ode
 hoCA.Ode6H.mode = ho.s23_en_US_dedes.hoCA.Ode6H.mode
 hoCA.Ode6H.melody = ho.s23_en_US_dedes.hoCA.Ode6H.melody
+hoCA.Ode6H.incipit = ho.s23_en_US_dedes.hoCA.Ode6H.incipit
 hoCA.Ode6H.text = ho.s23_en_US_dedes.hoCA.Ode6H.text
 
 hoCA.Ode61.ode = ho.s23_en_US_dedes.hoCA.Ode61.ode
 hoCA.Ode61.mode = ho.s23_en_US_dedes.hoCA.Ode61.mode
 hoCA.Ode61.melody = ho.s23_en_US_dedes.hoCA.Ode61.melody
+hoCA.Ode61.incipit = ho.s23_en_US_dedes.hoCA.Ode61.incipit
 hoCA.Ode61.text = ho.s23_en_US_dedes.hoCA.Ode61.text
 
 hoCA.Ode62.ode = ho.s23_en_US_dedes.hoCA.Ode62.ode
 hoCA.Ode62.mode = ho.s23_en_US_dedes.hoCA.Ode62.mode
 hoCA.Ode62.melody = ho.s23_en_US_dedes.hoCA.Ode62.melody
+hoCA.Ode62.incipit = ho.s23_en_US_dedes.hoCA.Ode62.incipit
 hoCA.Ode62.text = ho.s23_en_US_dedes.hoCA.Ode62.text
 
 hoCA.Ode63.ode = ho.s23_en_US_dedes.hoCA.Ode63.ode
 hoCA.Ode63.mode = ho.s23_en_US_dedes.hoCA.Ode63.mode
 hoCA.Ode63.melody = ho.s23_en_US_dedes.hoCA.Ode63.melody
+hoCA.Ode63.incipit = ho.s23_en_US_dedes.hoCA.Ode63.incipit
 hoCA.Ode63.text = ho.s23_en_US_dedes.hoCA.Ode63.text
 
 hoCA.Ode64.ode = ho.s23_en_US_dedes.hoCA.Ode64.ode
 hoCA.Ode64.mode = ho.s23_en_US_dedes.hoCA.Ode64.mode
 hoCA.Ode64.melody = ho.s23_en_US_dedes.hoCA.Ode64.melody
+hoCA.Ode64.incipit = ho.s23_en_US_dedes.hoCA.Ode64.incipit
 hoCA.Ode64.text = ho.s23_en_US_dedes.hoCA.Ode64.text
 
 hoCA.Troparion61.mode = ho.s23_en_US_dedes.hoCA.Troparion61.mode
 hoCA.Troparion61.melody = ho.s23_en_US_dedes.hoCA.Troparion61.melody
+hoCA.Troparion61.incipit = ho.s23_en_US_dedes.hoCA.Troparion61.incipit
 hoCA.Troparion61.text = ho.s23_en_US_dedes.hoCA.Troparion61.text
 
 hoCA.Troparion62.mode = ho.s23_en_US_dedes.hoCA.Troparion62.mode
 hoCA.Troparion62.melody = ho.s23_en_US_dedes.hoCA.Troparion62.melody
+hoCA.Troparion62.incipit = ho.s23_en_US_dedes.hoCA.Troparion62.incipit
 hoCA.Troparion62.text = ho.s23_en_US_dedes.hoCA.Troparion62.text
 
 //R08
@@ -183,43 +215,52 @@ hoCA.Troparion62.text = ho.s23_en_US_dedes.hoCA.Troparion62.text
 
 hoCA.Kontakion.mode = ho.s23_en_US_dedes.hoCA.Kontakion.mode
 hoCA.Kontakion.melody = ho.s23_en_US_dedes.hoCA.Kontakion.melody
+hoCA.Kontakion.incipit = ho.s23_en_US_dedes.hoCA.Kontakion.incipit
 hoCA.Kontakion.text = ho.s23_en_US_dedes.hoCA.Kontakion.text
 
 //R10
 //First Antiphon Mode 4
 
 //R11
+hoCA.Prokeimenon.incipit = ho.s23_en_US_dedes.hoCA.Prokeimenon.incipit
 hoCA.Prokeimenon.text = ho.s23_en_US_dedes.hoCA.Prokeimenon.text
 
+hoCA.ProkVerse.incipit = ho.s23_en_US_dedes.hoCA.ProkVerse.incipit
 hoCA.ProkVerse.text = ho.s23_en_US_dedes.hoCA.ProkVerse.text
 
 //Gospel
 
 hoCA.Gospel.name = ho.s23_en_US_dedes.hoCA.Gospel.name
 hoCA.Gospel.chapverse = ho.s23_en_US_dedes.hoCA.Gospel.chapverse
+hoCA.Gospel.incipit = ho.s23_en_US_dedes.hoCA.Gospel.incipit
 hoCA.Gospel.text = ho.s23_en_US_dedes.hoCA.Gospel.text
 
 //R12 ""
 hoCA.PostGospelGlory.mode = ho.s23_en_US_dedes.hoCA.PostGospelGlory.mode
 hoCA.PostGospelGlory.melody = ho.s23_en_US_dedes.hoCA.PostGospelGlory.melody
+hoCA.PostGospelGlory.incipit = ho.s23_en_US_dedes.hoCA.PostGospelGlory.incipit
 hoCA.PostGospelGlory.text = ho.s23_en_US_dedes.hoCA.PostGospelGlory.text
 
 hoCA.PostGospelBoth.mode = ho.s23_en_US_dedes.hoCA.PostGospelBoth.mode
 hoCA.PostGospelBoth.melody = ho.s23_en_US_dedes.hoCA.PostGospelBoth.melody
 hoCA.PostGospelBoth.text = ho.s23_en_US_dedes.hoCA.PostGospelBoth.text // need to link to first instance, e.g. Sunday Matins
 
+hoCA.PostGospelVerse.incipit = ho.s23_en_US_dedes.hoCA.PostGospelVerse.incipit
 hoCA.PostGospelVerse.text = ho.s23_en_US_dedes.hoCA.PostGospelVerse.text
 
 hoCA.PostGospelHymn1.mode = ho.s23_en_US_dedes.hoCA.PostGospelHymn1.mode
 hoCA.PostGospelHymn1.melody = ho.s23_en_US_dedes.hoCA.PostGospelHymn1.melody
+hoCA.PostGospelHymn1.incipit = ho.s23_en_US_dedes.hoCA.PostGospelHymn1.incipit
 hoCA.PostGospelHymn1.text = ho.s23_en_US_dedes.hoCA.PostGospelHymn1.text
 
 hoCA.PostGospelHymn2.mode = ho.s23_en_US_dedes.hoCA.PostGospelHymn2.mode
 hoCA.PostGospelHymn2.melody = ho.s23_en_US_dedes.hoCA.PostGospelHymn2.melody
+hoCA.PostGospelHymn2.incipit = ho.s23_en_US_dedes.hoCA.PostGospelHymn2.incipit
 hoCA.PostGospelHymn2.text = ho.s23_en_US_dedes.hoCA.PostGospelHymn2.text
 
 hoCA.PostGospelHymn3.mode = ho.s23_en_US_dedes.hoCA.PostGospelHymn3.mode
 hoCA.PostGospelHymn3.melody = ho.s23_en_US_dedes.hoCA.PostGospelHymn3.melody
+hoCA.PostGospelHymn3.incipit = ho.s23_en_US_dedes.hoCA.PostGospelHymn3.incipit
 hoCA.PostGospelHymn3.text = ho.s23_en_US_dedes.hoCA.PostGospelHymn3.text
 
 //Priest
@@ -230,98 +271,121 @@ hoCA.PostGospelHymn3.text = ho.s23_en_US_dedes.hoCA.PostGospelHymn3.text
 hoCA.Ode7H.ode = ho.s23_en_US_dedes.hoCA.Ode7H.ode
 hoCA.Ode7H.mode = ho.s23_en_US_dedes.hoCA.Ode7H.mode
 hoCA.Ode7H.melody = ho.s23_en_US_dedes.hoCA.Ode7H.melody
+hoCA.Ode7H.incipit = ho.s23_en_US_dedes.hoCA.Ode7H.incipit
 hoCA.Ode7H.text = ho.s23_en_US_dedes.hoCA.Ode7H.text
 
 hoCA.Ode71.ode = ho.s23_en_US_dedes.hoCA.Ode71.ode
 hoCA.Ode71.mode = ho.s23_en_US_dedes.hoCA.Ode71.mode
 hoCA.Ode71.melody = ho.s23_en_US_dedes.hoCA.Ode71.melody
+hoCA.Ode71.incipit = ho.s23_en_US_dedes.hoCA.Ode71.incipit
 hoCA.Ode71.text = ho.s23_en_US_dedes.hoCA.Ode71.text
 
 hoCA.Ode72.ode = ho.s23_en_US_dedes.hoCA.Ode72.ode
 hoCA.Ode72.mode = ho.s23_en_US_dedes.hoCA.Ode72.mode
 hoCA.Ode72.melody = ho.s23_en_US_dedes.hoCA.Ode72.melody
+hoCA.Ode72.incipit = ho.s23_en_US_dedes.hoCA.Ode72.incipit
 hoCA.Ode72.text = ho.s23_en_US_dedes.hoCA.Ode72.text
 
 hoCA.Ode73.ode = ho.s23_en_US_dedes.hoCA.Ode73.ode
 hoCA.Ode73.mode = ho.s23_en_US_dedes.hoCA.Ode73.mode
 hoCA.Ode73.melody = ho.s23_en_US_dedes.hoCA.Ode73.melody
+hoCA.Ode73.incipit = ho.s23_en_US_dedes.hoCA.Ode73.incipit
 hoCA.Ode73.text = ho.s23_en_US_dedes.hoCA.Ode73.text
 
 hoCA.Ode74.ode = ho.s23_en_US_dedes.hoCA.Ode74.ode
 hoCA.Ode74.mode = ho.s23_en_US_dedes.hoCA.Ode74.mode
 hoCA.Ode74.melody = ho.s23_en_US_dedes.hoCA.Ode74.melody
+hoCA.Ode74.incipit = ho.s23_en_US_dedes.hoCA.Ode74.incipit
 hoCA.Ode74.text = ho.s23_en_US_dedes.hoCA.Ode74.text
 
 hoCA.Ode8H.ode = ho.s23_en_US_dedes.hoCA.Ode8H.ode
 hoCA.Ode8H.mode = ho.s23_en_US_dedes.hoCA.Ode8H.mode
 hoCA.Ode8H.melody = ho.s23_en_US_dedes.hoCA.Ode8H.melody
+hoCA.Ode8H.incipit = ho.s23_en_US_dedes.hoCA.Ode8H.incipit
 hoCA.Ode8H.text = ho.s23_en_US_dedes.hoCA.Ode8H.text
 
 hoCA.Ode81.ode = ho.s23_en_US_dedes.hoCA.Ode81.ode
 hoCA.Ode81.mode = ho.s23_en_US_dedes.hoCA.Ode81.mode
 hoCA.Ode81.melody = ho.s23_en_US_dedes.hoCA.Ode81.melody
+hoCA.Ode81.incipit = ho.s23_en_US_dedes.hoCA.Ode81.incipit
 hoCA.Ode81.text = ho.s23_en_US_dedes.hoCA.Ode81.text
 
 hoCA.Ode82.ode = ho.s23_en_US_dedes.hoCA.Ode82.ode
 hoCA.Ode82.mode = ho.s23_en_US_dedes.hoCA.Ode82.mode
 hoCA.Ode82.melody = ho.s23_en_US_dedes.hoCA.Ode82.melody
+hoCA.Ode82.incipit = ho.s23_en_US_dedes.hoCA.Ode82.incipit
 hoCA.Ode82.text = ho.s23_en_US_dedes.hoCA.Ode82.text
 
 hoCA.Ode83.ode = ho.s23_en_US_dedes.hoCA.Ode83.ode
 hoCA.Ode83.mode = ho.s23_en_US_dedes.hoCA.Ode83.mode
 hoCA.Ode83.melody = ho.s23_en_US_dedes.hoCA.Ode83.melody
+hoCA.Ode83.incipit = ho.s23_en_US_dedes.hoCA.Ode83.incipit
 hoCA.Ode83.text = ho.s23_en_US_dedes.hoCA.Ode83.text
 
 hoCA.Ode84.ode = ho.s23_en_US_dedes.hoCA.Ode84.ode
 hoCA.Ode84.mode = ho.s23_en_US_dedes.hoCA.Ode84.mode
 hoCA.Ode84.melody = ho.s23_en_US_dedes.hoCA.Ode84.melody
+hoCA.Ode84.incipit = ho.s23_en_US_dedes.hoCA.Ode84.incipit
 hoCA.Ode84.text = ho.s23_en_US_dedes.hoCA.Ode84.text
 
 hoCA.Ode9H.ode = ho.s23_en_US_dedes.hoCA.Ode9H.ode
 hoCA.Ode9H.mode = ho.s23_en_US_dedes.hoCA.Ode9H.mode
 hoCA.Ode9H.melody = ho.s23_en_US_dedes.hoCA.Ode9H.melody
+hoCA.Ode9H.incipit = ho.s23_en_US_dedes.hoCA.Ode9H.incipit
 hoCA.Ode9H.text = ho.s23_en_US_dedes.hoCA.Ode9H.text
 
 hoCA.Ode91.ode = ho.s23_en_US_dedes.hoCA.Ode91.ode
 hoCA.Ode91.mode = ho.s23_en_US_dedes.hoCA.Ode91.mode
 hoCA.Ode91.melody = ho.s23_en_US_dedes.hoCA.Ode91.melody
+hoCA.Ode91.incipit = ho.s23_en_US_dedes.hoCA.Ode91.incipit
 hoCA.Ode91.text = ho.s23_en_US_dedes.hoCA.Ode91.text
 
 hoCA.Ode92.ode = ho.s23_en_US_dedes.hoCA.Ode92.ode
 hoCA.Ode92.mode = ho.s23_en_US_dedes.hoCA.Ode92.mode
 hoCA.Ode92.melody = ho.s23_en_US_dedes.hoCA.Ode92.melody
+hoCA.Ode92.incipit = ho.s23_en_US_dedes.hoCA.Ode92.incipit
 hoCA.Ode92.text = ho.s23_en_US_dedes.hoCA.Ode92.text
 
 hoCA.Ode93.ode = ho.s23_en_US_dedes.hoCA.Ode93.ode
 hoCA.Ode93.mode = ho.s23_en_US_dedes.hoCA.Ode93.mode
 hoCA.Ode93.melody = ho.s23_en_US_dedes.hoCA.Ode93.melody
+hoCA.Ode93.incipit = ho.s23_en_US_dedes.hoCA.Ode93.incipit
 hoCA.Ode93.text = ho.s23_en_US_dedes.hoCA.Ode93.text
 
 hoCA.Ode94.ode = ho.s23_en_US_dedes.hoCA.Ode94.ode
 hoCA.Ode94.mode = ho.s23_en_US_dedes.hoCA.Ode94.mode
 hoCA.Ode94.melody = ho.s23_en_US_dedes.hoCA.Ode94.melody
+hoCA.Ode94.incipit = ho.s23_en_US_dedes.hoCA.Ode94.incipit
 hoCA.Ode94.text = ho.s23_en_US_dedes.hoCA.Ode94.text
 
 hoCA.Ode95.ode = ho.s23_en_US_dedes.hoCA.Ode95.ode
 hoCA.Ode95.mode = ho.s23_en_US_dedes.hoCA.Ode95.mode
 hoCA.Ode95.melody = ho.s23_en_US_dedes.hoCA.Ode95.melody
+hoCA.Ode95.incipit = ho.s23_en_US_dedes.hoCA.Ode95.incipit
 hoCA.Ode95.text = ho.s23_en_US_dedes.hoCA.Ode95.text
 
 //R14
 
+hoCA.Meg00.incipit = ho.s23_en_US_dedes.hoCA.Meg00.incipit
 hoCA.Meg00.text = ho.s23_en_US_dedes.hoCA.Meg00.text
 hoCA.Meg01.melody = ho.s23_en_US_dedes.hoCA.Meg01.melody
+hoCA.Meg01.incipit = ho.s23_en_US_dedes.hoCA.Meg01.incipit
 hoCA.Meg01.text = ho.s23_en_US_dedes.hoCA.Meg01.text
 //R15
 hoCA.Meg02.melody = ho.s23_en_US_dedes.hoCA.Meg02.melody
+hoCA.Meg02.incipit = ho.s23_en_US_dedes.hoCA.Meg02.incipit
 hoCA.Meg02.text = ho.s23_en_US_dedes.hoCA.Meg02.text
 hoCA.Meg03.melody = ho.s23_en_US_dedes.hoCA.Meg03.melody
+hoCA.Meg03.incipit = ho.s23_en_US_dedes.hoCA.Meg03.incipit
 hoCA.Meg03.text = ho.s23_en_US_dedes.hoCA.Meg03.text
 hoCA.Meg04.melody = ho.s23_en_US_dedes.hoCA.Meg04.melody
+hoCA.Meg04.incipit = ho.s23_en_US_dedes.hoCA.Meg04.incipit
 hoCA.Meg04.text = ho.s23_en_US_dedes.hoCA.Meg04.text
 hoCA.Meg05.melody = ho.s23_en_US_dedes.hoCA.Meg05.melody
+hoCA.Meg05.incipit = ho.s23_en_US_dedes.hoCA.Meg05.incipit
 hoCA.Meg05.text = ho.s23_en_US_dedes.hoCA.Meg05.text
 hoCA.Meg06.melody = ho.s23_en_US_dedes.hoCA.Meg06.melody
+hoCA.Meg06.incipit = ho.s23_en_US_dedes.hoCA.Meg06.incipit
 hoCA.Meg06.text = ho.s23_en_US_dedes.hoCA.Meg06.text
 //R16
 R17 = ho.s23_en_US_dedes.R17
@@ -329,54 +393,66 @@ hoCA.MegTrans1.melody = ho.s23_en_US_dedes.hoCA.MegTrans1.melody
 hoCA.MegTrans1.text = ho.s23_en_US_dedes.hoCA.MegTrans1.text // Could be linked to Menaion
 R18 = ho.s23_en_US_dedes.R18
 hoCA.Meg0F.melody = ho.s23_en_US_dedes.hoCA.Meg0F.melody
+hoCA.Meg0F.incipit = ho.s23_en_US_dedes.hoCA.Meg0F.incipit
 hoCA.Meg0F.text = ho.s23_en_US_dedes.hoCA.Meg0F.text
 //Reader
 //Trisagion Prayers with exclamation
 
 hoCA.Troparion1.mode = ho.s23_en_US_dedes.hoCA.Troparion1.mode
 hoCA.Troparion1.melody = ho.s23_en_US_dedes.hoCA.Troparion1.melody
+hoCA.Troparion1.incipit = ho.s23_en_US_dedes.hoCA.Troparion1.incipit
 hoCA.Troparion1.text = ho.s23_en_US_dedes.hoCA.Troparion1.text
 
 hoCA.Troparion2.mode = ho.s23_en_US_dedes.hoCA.Troparion2.mode
 hoCA.Troparion2.melody = ho.s23_en_US_dedes.hoCA.Troparion2.melody
+hoCA.Troparion2.incipit = ho.s23_en_US_dedes.hoCA.Troparion2.incipit
 hoCA.Troparion2.text = ho.s23_en_US_dedes.hoCA.Troparion2.text
 
 hoCA.Troparion3.mode = ho.s23_en_US_dedes.hoCA.Troparion3.mode
 hoCA.Troparion3.melody = ho.s23_en_US_dedes.hoCA.Troparion3.melody
+hoCA.Troparion3.incipit = ho.s23_en_US_dedes.hoCA.Troparion3.incipit
 hoCA.Troparion3.text = ho.s23_en_US_dedes.hoCA.Troparion3.text
 
 hoCA.Troparion4.mode = ho.s23_en_US_dedes.hoCA.Troparion4.mode
 hoCA.Troparion4.melody = ho.s23_en_US_dedes.hoCA.Troparion4.melody
+hoCA.Troparion4.incipit = ho.s23_en_US_dedes.hoCA.Troparion4.incipit
 hoCA.Troparion4.text = ho.s23_en_US_dedes.hoCA.Troparion4.text
 
 hoCA.Troparion5.mode = ho.s23_en_US_dedes.hoCA.Troparion5.mode
 hoCA.Troparion5.melody = ho.s23_en_US_dedes.hoCA.Troparion5.melody
+hoCA.Troparion5.incipit = ho.s23_en_US_dedes.hoCA.Troparion5.incipit
 hoCA.Troparion5.text = ho.s23_en_US_dedes.hoCA.Troparion5.text
 
 hoCA.Troparion6.mode = ho.s23_en_US_dedes.hoCA.Troparion6.mode
 hoCA.Troparion6.melody = ho.s23_en_US_dedes.hoCA.Troparion6.melody
+hoCA.Troparion6.incipit = ho.s23_en_US_dedes.hoCA.Troparion6.incipit
 hoCA.Troparion6.text = ho.s23_en_US_dedes.hoCA.Troparion6.text
 
 hoCA.Troparion7.mode = ho.s23_en_US_dedes.hoCA.Troparion7.mode
 hoCA.Troparion7.melody = ho.s23_en_US_dedes.hoCA.Troparion7.melody
+hoCA.Troparion7.incipit = ho.s23_en_US_dedes.hoCA.Troparion7.incipit
 hoCA.Troparion7.text = ho.s23_en_US_dedes.hoCA.Troparion7.text
 
 R24 = ho.s23_en_US_dedes.R24
 
 hoCA.Exaposteilarion1.mode = ho.s23_en_US_dedes.hoCA.Exaposteilarion1.mode
 hoCA.Exaposteilarion1.melody = ho.s23_en_US_dedes.hoCA.Exaposteilarion1.melody
+hoCA.Exaposteilarion1.incipit = ho.s23_en_US_dedes.hoCA.Exaposteilarion1.incipit
 hoCA.Exaposteilarion1.text = ho.s23_en_US_dedes.hoCA.Exaposteilarion1.text
 
 hoCA.Exaposteilarion2.mode = ho.s23_en_US_dedes.hoCA.Exaposteilarion2.mode
 hoCA.Exaposteilarion2.melody = ho.s23_en_US_dedes.hoCA.Exaposteilarion2.melody
+hoCA.Exaposteilarion2.incipit = ho.s23_en_US_dedes.hoCA.Exaposteilarion2.incipit
 hoCA.Exaposteilarion2.text = ho.s23_en_US_dedes.hoCA.Exaposteilarion2.text
 
 hoCA.Exaposteilarion3.mode = ho.s23_en_US_dedes.hoCA.Exaposteilarion3.mode
 hoCA.Exaposteilarion3.melody = ho.s23_en_US_dedes.hoCA.Exaposteilarion3.melody
+hoCA.Exaposteilarion3.incipit = ho.s23_en_US_dedes.hoCA.Exaposteilarion3.incipit
 hoCA.Exaposteilarion3.text = ho.s23_en_US_dedes.hoCA.Exaposteilarion3.text
 
 hoCA.Exaposteilarion4.mode = ho.s23_en_US_dedes.hoCA.Exaposteilarion4.mode
 hoCA.Exaposteilarion4.melody = ho.s23_en_US_dedes.hoCA.Exaposteilarion4.melody
+hoCA.Exaposteilarion4.incipit = ho.s23_en_US_dedes.hoCA.Exaposteilarion4.incipit
 hoCA.Exaposteilarion4.text = ho.s23_en_US_dedes.hoCA.Exaposteilarion4.text
 
 //Priest

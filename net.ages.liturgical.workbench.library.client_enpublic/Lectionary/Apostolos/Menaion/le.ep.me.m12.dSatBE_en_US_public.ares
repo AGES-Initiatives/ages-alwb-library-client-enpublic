@@ -1,11 +1,12 @@
-A_Resource_Whose_Name = le.ep.me.m12.dSatBE_en_US_public 
+A_Resource_Whose_Name = le.ep.me.m12.dSatBE_en_US_public
 
 lemeLI.Epistle.title = le.ep.me.m12.dSatBE_en_US_rsv.lemeLI.Epistle.title
 lemeLI.Epistle.title_abbr = le.ep.me.m12.dSatBE_en_US_rsv.lemeLI.Epistle.title_abbr
-lemeLI.Epistle.rubric = le.ep.me.m12.dSatBE_en_US_rsv.lemeLI.Epistle.rubric 
-lemeLI.Epistle.version = le.ep.me.m12.dSatBE_en_US_rsv.lemeLI.Epistle.version 
+lemeLI.Epistle.rubric = le.ep.me.m12.dSatBE_en_US_rsv.lemeLI.Epistle.rubric
+lemeLI.Epistle.version = le.ep.me.m12.dSatBE_en_US_rsv.lemeLI.Epistle.version
 lemeLI.Epistle.book_string = le.ep.me.m12.dSatBE_en_US_rsv.lemeLI.Epistle.book_string
 lemeLI.Epistle.book_abbr = le.ep.me.m12.dSatBE_en_US_rsv.lemeLI.Epistle.book_abbr
-lemeLI.Epistle.chapverse = le.ep.me.m12.dSatBE_en_US_rsv.lemeLI.Epistle.chapverse 
-lemeLI.Epistle.text = le.ep.me.m12.dSatBE_en_US_rsv.lemeLI.Epistle.text 
+lemeLI.Epistle.chapverse = le.ep.me.m12.dSatBE_en_US_rsv.lemeLI.Epistle.chapverse
+lemeLI.Epistle.incipit = le.ep.me.m12.dSatBE_en_US_rsv.lemeLI.Epistle.incipit
+lemeLI.Epistle.text = le.ep.me.m12.dSatBE_en_US_rsv.lemeLI.Epistle.text
 lemeLI.Epistle.pagenumber = 
