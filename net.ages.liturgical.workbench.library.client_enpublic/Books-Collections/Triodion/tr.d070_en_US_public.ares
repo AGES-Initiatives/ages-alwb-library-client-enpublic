@@ -1,11 +1,9 @@
 A_Resource_Whose_Name = tr.d070_en_US_public
 
 trCommemoration.text = tr.d070_en_US_dedes.trCommemoration.text // full title of day
-trShortCommemoration1.incipit = tr.d070_en_US_dedes.trShortCommemoration1.incipit
 trShortCommemoration1.text = tr.d070_en_US_dedes.trShortCommemoration1.text
 trInsert1 = tr.d070_en_US_dedes.trInsert1 // for use in petitions and dismissal
 trInsert2 = tr.d070_en_US_dedes.trInsert2 // for use in petitions and dismissal
-trNote.incipit = tr.d070_en_US_dedes.trNote.incipit
 trNote.text = tr.d070_en_US_dedes.trNote.text
 trHO.daytitle = tr.d070_en_US_dedes.trHO.daytitle
 trHO.commemorations = tr.d070_en_US_dedes.trHO.commemorations
@@ -53,7 +51,6 @@ trVE.SticBoth.melody = tr.d070_en_US_dedes.trVE.SticBoth.melody
 trVE.SticBoth.incipit = tr.d070_en_US_dedes.trVE.SticBoth.incipit
 trVE.SticBoth.text = tr.d070_en_US_dedes.trVE.SticBoth.text
 
-trVE.Prokeimenon.incipit = tr.d070_en_US_dedes.trVE.Prokeimenon.incipit
 trVE.Prokeimenon.text = tr.d070_en_US_dedes.trVE.Prokeimenon.text
 
 trVE.Aposticha1.mode = tr.d070_en_US_dedes.trVE.Aposticha1.mode
@@ -103,578 +100,389 @@ trHW.Encomia.title = tr.d070_en_US_dedes.trHW.Encomia.title
 trHW.Encomia100.title = tr.d070_en_US_dedes.trHW.Encomia100.title
 trHW.Encomia100.mode = tr.d070_en_US_dedes.trHW.Encomia100.mode
 
-trHW.Encomia101.incipit = tr.d070_en_UK_lash.trHW.Encomia101.incipit
 trHW.Encomia101.text = tr.d070_en_UK_lash.trHW.Encomia101.text
 
-trHW.Encomia102.incipit = tr.d070_en_UK_lash.trHW.Encomia102.incipit
 trHW.Encomia102.text = tr.d070_en_UK_lash.trHW.Encomia102.text
 
-trHW.Encomia103.incipit = tr.d070_en_UK_lash.trHW.Encomia103.incipit
 trHW.Encomia103.text = tr.d070_en_UK_lash.trHW.Encomia103.text
 
-trHW.Encomia104.incipit = tr.d070_en_UK_lash.trHW.Encomia104.incipit
 trHW.Encomia104.text = tr.d070_en_UK_lash.trHW.Encomia104.text
 
-trHW.Encomia105.incipit = tr.d070_en_UK_lash.trHW.Encomia105.incipit
 trHW.Encomia105.text = tr.d070_en_UK_lash.trHW.Encomia105.text
 
-trHW.Encomia106.incipit = tr.d070_en_UK_lash.trHW.Encomia106.incipit
 trHW.Encomia106.text = tr.d070_en_UK_lash.trHW.Encomia106.text
 
-trHW.Encomia107.incipit = tr.d070_en_UK_lash.trHW.Encomia107.incipit
 trHW.Encomia107.text = tr.d070_en_UK_lash.trHW.Encomia107.text
 
-trHW.Encomia108.incipit = tr.d070_en_UK_lash.trHW.Encomia108.incipit
 trHW.Encomia108.text = tr.d070_en_UK_lash.trHW.Encomia108.text
 
-trHW.Encomia109.incipit = tr.d070_en_UK_lash.trHW.Encomia109.incipit
 trHW.Encomia109.text = tr.d070_en_UK_lash.trHW.Encomia109.text
 
-trHW.Encomia110.incipit = tr.d070_en_UK_lash.trHW.Encomia110.incipit
 trHW.Encomia110.text = tr.d070_en_UK_lash.trHW.Encomia110.text
 
-trHW.Encomia111.incipit = tr.d070_en_UK_lash.trHW.Encomia111.incipit
 trHW.Encomia111.text = tr.d070_en_UK_lash.trHW.Encomia111.text
 
-trHW.Encomia112.incipit = tr.d070_en_UK_lash.trHW.Encomia112.incipit
 trHW.Encomia112.text = tr.d070_en_UK_lash.trHW.Encomia112.text
 
-trHW.Encomia113.incipit = tr.d070_en_UK_lash.trHW.Encomia113.incipit
 trHW.Encomia113.text = tr.d070_en_UK_lash.trHW.Encomia113.text
 
-trHW.Encomia114.incipit = tr.d070_en_UK_lash.trHW.Encomia114.incipit
 trHW.Encomia114.text = tr.d070_en_UK_lash.trHW.Encomia114.text
 
-trHW.Encomia115.incipit = tr.d070_en_UK_lash.trHW.Encomia115.incipit
 trHW.Encomia115.text = tr.d070_en_UK_lash.trHW.Encomia115.text
 
-trHW.Encomia116.incipit = tr.d070_en_UK_lash.trHW.Encomia116.incipit
 trHW.Encomia116.text = tr.d070_en_UK_lash.trHW.Encomia116.text
 
-trHW.Encomia117.incipit = tr.d070_en_UK_lash.trHW.Encomia117.incipit
 trHW.Encomia117.text = tr.d070_en_UK_lash.trHW.Encomia117.text
 
-trHW.Encomia118.incipit = tr.d070_en_UK_lash.trHW.Encomia118.incipit
 trHW.Encomia118.text = tr.d070_en_UK_lash.trHW.Encomia118.text
 
-trHW.Encomia119.incipit = tr.d070_en_UK_lash.trHW.Encomia119.incipit
 trHW.Encomia119.text = tr.d070_en_UK_lash.trHW.Encomia119.text
 
-trHW.Encomia120.incipit = tr.d070_en_UK_lash.trHW.Encomia120.incipit
 trHW.Encomia120.text = tr.d070_en_UK_lash.trHW.Encomia120.text
 
-trHW.Encomia121.incipit = tr.d070_en_UK_lash.trHW.Encomia121.incipit
 trHW.Encomia121.text = tr.d070_en_UK_lash.trHW.Encomia121.text
 
-trHW.Encomia122.incipit = tr.d070_en_UK_lash.trHW.Encomia122.incipit
 trHW.Encomia122.text = tr.d070_en_UK_lash.trHW.Encomia122.text
 
-trHW.Encomia123.incipit = tr.d070_en_UK_lash.trHW.Encomia123.incipit
 trHW.Encomia123.text = tr.d070_en_UK_lash.trHW.Encomia123.text
 
-trHW.Encomia124.incipit = tr.d070_en_UK_lash.trHW.Encomia124.incipit
 trHW.Encomia124.text = tr.d070_en_UK_lash.trHW.Encomia124.text
 
-trHW.Encomia125.incipit = tr.d070_en_UK_lash.trHW.Encomia125.incipit
 trHW.Encomia125.text = tr.d070_en_UK_lash.trHW.Encomia125.text
 
-trHW.Encomia126.incipit = tr.d070_en_UK_lash.trHW.Encomia126.incipit
 trHW.Encomia126.text = tr.d070_en_UK_lash.trHW.Encomia126.text
 
-trHW.Encomia127.incipit = tr.d070_en_UK_lash.trHW.Encomia127.incipit
 trHW.Encomia127.text = tr.d070_en_UK_lash.trHW.Encomia127.text
 
-trHW.Encomia128.incipit = tr.d070_en_UK_lash.trHW.Encomia128.incipit
 trHW.Encomia128.text = tr.d070_en_UK_lash.trHW.Encomia128.text
 
-trHW.Encomia129.incipit = tr.d070_en_UK_lash.trHW.Encomia129.incipit
 trHW.Encomia129.text = tr.d070_en_UK_lash.trHW.Encomia129.text
 
-trHW.Encomia130.incipit = tr.d070_en_UK_lash.trHW.Encomia130.incipit
 trHW.Encomia130.text = tr.d070_en_UK_lash.trHW.Encomia130.text
 
-trHW.Encomia131.incipit = tr.d070_en_UK_lash.trHW.Encomia131.incipit
 trHW.Encomia131.text = tr.d070_en_UK_lash.trHW.Encomia131.text
 
-trHW.Encomia132.incipit = tr.d070_en_UK_lash.trHW.Encomia132.incipit
 trHW.Encomia132.text = tr.d070_en_UK_lash.trHW.Encomia132.text
 
-trHW.Encomia133.incipit = tr.d070_en_UK_lash.trHW.Encomia133.incipit
 trHW.Encomia133.text = tr.d070_en_UK_lash.trHW.Encomia133.text
 
-trHW.Encomia134.incipit = tr.d070_en_UK_lash.trHW.Encomia134.incipit
 trHW.Encomia134.text = tr.d070_en_UK_lash.trHW.Encomia134.text
 
-trHW.Encomia135.incipit = tr.d070_en_UK_lash.trHW.Encomia135.incipit
 trHW.Encomia135.text = tr.d070_en_UK_lash.trHW.Encomia135.text
 
-trHW.Encomia136.incipit = tr.d070_en_UK_lash.trHW.Encomia136.incipit
 trHW.Encomia136.text = tr.d070_en_UK_lash.trHW.Encomia136.text
 
-trHW.Encomia137.incipit = tr.d070_en_UK_lash.trHW.Encomia137.incipit
 trHW.Encomia137.text = tr.d070_en_UK_lash.trHW.Encomia137.text
 
-trHW.Encomia138.incipit = tr.d070_en_UK_lash.trHW.Encomia138.incipit
 trHW.Encomia138.text = tr.d070_en_UK_lash.trHW.Encomia138.text
 
-trHW.Encomia139.incipit = tr.d070_en_UK_lash.trHW.Encomia139.incipit
 trHW.Encomia139.text = tr.d070_en_UK_lash.trHW.Encomia139.text
 
-trHW.Encomia140.incipit = tr.d070_en_UK_lash.trHW.Encomia140.incipit
 trHW.Encomia140.text = tr.d070_en_UK_lash.trHW.Encomia140.text
 
-trHW.Encomia141.incipit = tr.d070_en_UK_lash.trHW.Encomia141.incipit
 trHW.Encomia141.text = tr.d070_en_UK_lash.trHW.Encomia141.text
 
-trHW.Encomia142.incipit = tr.d070_en_UK_lash.trHW.Encomia142.incipit
 trHW.Encomia142.text = tr.d070_en_UK_lash.trHW.Encomia142.text
 
-trHW.Encomia143.incipit = tr.d070_en_UK_lash.trHW.Encomia143.incipit
 trHW.Encomia143.text = tr.d070_en_UK_lash.trHW.Encomia143.text
 
-trHW.Encomia144.incipit = tr.d070_en_UK_lash.trHW.Encomia144.incipit
 trHW.Encomia144.text = tr.d070_en_UK_lash.trHW.Encomia144.text
 
-trHW.Encomia145.incipit = tr.d070_en_UK_lash.trHW.Encomia145.incipit
 trHW.Encomia145.text = tr.d070_en_UK_lash.trHW.Encomia145.text
 
-trHW.Encomia146.incipit = tr.d070_en_UK_lash.trHW.Encomia146.incipit
 trHW.Encomia146.text = tr.d070_en_UK_lash.trHW.Encomia146.text
 
-trHW.Encomia147.incipit = tr.d070_en_UK_lash.trHW.Encomia147.incipit
 trHW.Encomia147.text = tr.d070_en_UK_lash.trHW.Encomia147.text
 
-trHW.Encomia148.incipit = tr.d070_en_UK_lash.trHW.Encomia148.incipit
 trHW.Encomia148.text = tr.d070_en_UK_lash.trHW.Encomia148.text
 
-trHW.Encomia149.incipit = tr.d070_en_UK_lash.trHW.Encomia149.incipit
 trHW.Encomia149.text = tr.d070_en_UK_lash.trHW.Encomia149.text
 
-trHW.Encomia150.incipit = tr.d070_en_UK_lash.trHW.Encomia150.incipit
 trHW.Encomia150.text = tr.d070_en_UK_lash.trHW.Encomia150.text
 
-trHW.Encomia151.incipit = tr.d070_en_UK_lash.trHW.Encomia151.incipit
 trHW.Encomia151.text = tr.d070_en_UK_lash.trHW.Encomia151.text
 
-trHW.Encomia152.incipit = tr.d070_en_UK_lash.trHW.Encomia152.incipit
 trHW.Encomia152.text = tr.d070_en_UK_lash.trHW.Encomia152.text
 
-trHW.Encomia153.incipit = tr.d070_en_UK_lash.trHW.Encomia153.incipit
 trHW.Encomia153.text = tr.d070_en_UK_lash.trHW.Encomia153.text
 
-trHW.Encomia154.incipit = tr.d070_en_UK_lash.trHW.Encomia154.incipit
 trHW.Encomia154.text = tr.d070_en_UK_lash.trHW.Encomia154.text
 
-trHW.Encomia155.incipit = tr.d070_en_UK_lash.trHW.Encomia155.incipit
 trHW.Encomia155.text = tr.d070_en_UK_lash.trHW.Encomia155.text
 
-trHW.Encomia156.incipit = tr.d070_en_UK_lash.trHW.Encomia156.incipit
 trHW.Encomia156.text = tr.d070_en_UK_lash.trHW.Encomia156.text
 
-trHW.Encomia157.incipit = tr.d070_en_UK_lash.trHW.Encomia157.incipit
 trHW.Encomia157.text = tr.d070_en_UK_lash.trHW.Encomia157.text
 
-trHW.Encomia158.incipit = tr.d070_en_UK_lash.trHW.Encomia158.incipit
 trHW.Encomia158.text = tr.d070_en_UK_lash.trHW.Encomia158.text
 
-trHW.Encomia159.incipit = tr.d070_en_UK_lash.trHW.Encomia159.incipit
 trHW.Encomia159.text = tr.d070_en_UK_lash.trHW.Encomia159.text
 
-trHW.Encomia160.incipit = tr.d070_en_UK_lash.trHW.Encomia160.incipit
 trHW.Encomia160.text = tr.d070_en_UK_lash.trHW.Encomia160.text
 
-trHW.Encomia161.incipit = tr.d070_en_UK_lash.trHW.Encomia161.incipit
 trHW.Encomia161.text = tr.d070_en_UK_lash.trHW.Encomia161.text
 
-trHW.Encomia162.incipit = tr.d070_en_UK_lash.trHW.Encomia162.incipit
 trHW.Encomia162.text = tr.d070_en_UK_lash.trHW.Encomia162.text
 
-trHW.Encomia163.incipit = tr.d070_en_UK_lash.trHW.Encomia163.incipit
 trHW.Encomia163.text = tr.d070_en_UK_lash.trHW.Encomia163.text
 
-trHW.Encomia164.incipit = tr.d070_en_UK_lash.trHW.Encomia164.incipit
 trHW.Encomia164.text = tr.d070_en_UK_lash.trHW.Encomia164.text
 
-trHW.Encomia165.incipit = tr.d070_en_UK_lash.trHW.Encomia165.incipit
 trHW.Encomia165.text = tr.d070_en_UK_lash.trHW.Encomia165.text
 
-trHW.Encomia166.incipit = tr.d070_en_UK_lash.trHW.Encomia166.incipit
 trHW.Encomia166.text = tr.d070_en_UK_lash.trHW.Encomia166.text
 
-trHW.Encomia167.incipit = tr.d070_en_UK_lash.trHW.Encomia167.incipit
 trHW.Encomia167.text = tr.d070_en_UK_lash.trHW.Encomia167.text
 
-trHW.Encomia168.incipit = tr.d070_en_UK_lash.trHW.Encomia168.incipit
 trHW.Encomia168.text = tr.d070_en_UK_lash.trHW.Encomia168.text
 
-trHW.Encomia169.incipit = tr.d070_en_UK_lash.trHW.Encomia169.incipit
 trHW.Encomia169.text = tr.d070_en_UK_lash.trHW.Encomia169.text
 
-trHW.Encomia170.incipit = tr.d070_en_UK_lash.trHW.Encomia170.incipit
 trHW.Encomia170.text = tr.d070_en_UK_lash.trHW.Encomia170.text
 
-trHW.Encomia171.incipit = tr.d070_en_UK_lash.trHW.Encomia171.incipit
 trHW.Encomia171.text = tr.d070_en_UK_lash.trHW.Encomia171.text
 
-trHW.Encomia172.incipit = tr.d070_en_UK_lash.trHW.Encomia172.incipit
 trHW.Encomia172.text = tr.d070_en_UK_lash.trHW.Encomia172.text
 
 //trHW.Encomia1TrVerse.text = tr.d070_en_UK_lash.trHW.Encomia1TrVerse.text
-trHW.Encomia1Tr.incipit = tr.d070_en_UK_lash.trHW.Encomia1Tr.incipit
 trHW.Encomia1Tr.text = tr.d070_en_UK_lash.trHW.Encomia1Tr.text
 
 //trHW.Encomia1TVerse.text = tr.d070_en_UK_lash.trHW.Encomia1TVerse.text
-trHW.Encomia1T.incipit = tr.d070_en_UK_lash.trHW.Encomia1T.incipit
 trHW.Encomia1T.text = tr.d070_en_UK_lash.trHW.Encomia1T.text
 
-trHW.Encomia1F.incipit = tr.d070_en_UK_lash.trHW.Encomia1F.incipit
 trHW.Encomia1F.text = tr.d070_en_UK_lash.trHW.Encomia1F.text
 
 trHW.Encomia200.title = tr.d070_en_US_dedes.trHW.Encomia200.title
 trHW.Encomia200.mode = tr.d070_en_US_dedes.trHW.Encomia200.mode
 
-trHW.Encomia201.incipit = tr.d070_en_UK_lash.trHW.Encomia201.incipit
 trHW.Encomia201.text = tr.d070_en_UK_lash.trHW.Encomia201.text
 
-trHW.Encomia202.incipit = tr.d070_en_UK_lash.trHW.Encomia202.incipit
 trHW.Encomia202.text = tr.d070_en_UK_lash.trHW.Encomia202.text
 
-trHW.Encomia203.incipit = tr.d070_en_UK_lash.trHW.Encomia203.incipit
 trHW.Encomia203.text = tr.d070_en_UK_lash.trHW.Encomia203.text
 
-trHW.Encomia204.incipit = tr.d070_en_UK_lash.trHW.Encomia204.incipit
 trHW.Encomia204.text = tr.d070_en_UK_lash.trHW.Encomia204.text
 
-trHW.Encomia205.incipit = tr.d070_en_UK_lash.trHW.Encomia205.incipit
 trHW.Encomia205.text = tr.d070_en_UK_lash.trHW.Encomia205.text
 
-trHW.Encomia206.incipit = tr.d070_en_UK_lash.trHW.Encomia206.incipit
 trHW.Encomia206.text = tr.d070_en_UK_lash.trHW.Encomia206.text
 
-trHW.Encomia207.incipit = tr.d070_en_UK_lash.trHW.Encomia207.incipit
 trHW.Encomia207.text = tr.d070_en_UK_lash.trHW.Encomia207.text
 
-trHW.Encomia208.incipit = tr.d070_en_UK_lash.trHW.Encomia208.incipit
 trHW.Encomia208.text = tr.d070_en_UK_lash.trHW.Encomia208.text
 
-trHW.Encomia209.incipit = tr.d070_en_UK_lash.trHW.Encomia209.incipit
 trHW.Encomia209.text = tr.d070_en_UK_lash.trHW.Encomia209.text
 
-trHW.Encomia210.incipit = tr.d070_en_UK_lash.trHW.Encomia210.incipit
 trHW.Encomia210.text = tr.d070_en_UK_lash.trHW.Encomia210.text
 
-trHW.Encomia211.incipit = tr.d070_en_UK_lash.trHW.Encomia211.incipit
 trHW.Encomia211.text = tr.d070_en_UK_lash.trHW.Encomia211.text
 
-trHW.Encomia212.incipit = tr.d070_en_UK_lash.trHW.Encomia212.incipit
 trHW.Encomia212.text = tr.d070_en_UK_lash.trHW.Encomia212.text
 
-trHW.Encomia213.incipit = tr.d070_en_UK_lash.trHW.Encomia213.incipit
 trHW.Encomia213.text = tr.d070_en_UK_lash.trHW.Encomia213.text
 
-trHW.Encomia214.incipit = tr.d070_en_UK_lash.trHW.Encomia214.incipit
 trHW.Encomia214.text = tr.d070_en_UK_lash.trHW.Encomia214.text
 
-trHW.Encomia215.incipit = tr.d070_en_UK_lash.trHW.Encomia215.incipit
 trHW.Encomia215.text = tr.d070_en_UK_lash.trHW.Encomia215.text
 
-trHW.Encomia216.incipit = tr.d070_en_UK_lash.trHW.Encomia216.incipit
 trHW.Encomia216.text = tr.d070_en_UK_lash.trHW.Encomia216.text
 
-trHW.Encomia217.incipit = tr.d070_en_UK_lash.trHW.Encomia217.incipit
 trHW.Encomia217.text = tr.d070_en_UK_lash.trHW.Encomia217.text
 
-trHW.Encomia218.incipit = tr.d070_en_UK_lash.trHW.Encomia218.incipit
 trHW.Encomia218.text = tr.d070_en_UK_lash.trHW.Encomia218.text
 
-trHW.Encomia219.incipit = tr.d070_en_UK_lash.trHW.Encomia219.incipit
 trHW.Encomia219.text = tr.d070_en_UK_lash.trHW.Encomia219.text
 
-trHW.Encomia220.incipit = tr.d070_en_UK_lash.trHW.Encomia220.incipit
 trHW.Encomia220.text = tr.d070_en_UK_lash.trHW.Encomia220.text
 
-trHW.Encomia221.incipit = tr.d070_en_UK_lash.trHW.Encomia221.incipit
 trHW.Encomia221.text = tr.d070_en_UK_lash.trHW.Encomia221.text
 
-trHW.Encomia222.incipit = tr.d070_en_UK_lash.trHW.Encomia222.incipit
 trHW.Encomia222.text = tr.d070_en_UK_lash.trHW.Encomia222.text
 
-trHW.Encomia223.incipit = tr.d070_en_UK_lash.trHW.Encomia223.incipit
 trHW.Encomia223.text = tr.d070_en_UK_lash.trHW.Encomia223.text
 
-trHW.Encomia224.incipit = tr.d070_en_UK_lash.trHW.Encomia224.incipit
 trHW.Encomia224.text = tr.d070_en_UK_lash.trHW.Encomia224.text
 
-trHW.Encomia225.incipit = tr.d070_en_UK_lash.trHW.Encomia225.incipit
 trHW.Encomia225.text = tr.d070_en_UK_lash.trHW.Encomia225.text
 
-trHW.Encomia226.incipit = tr.d070_en_UK_lash.trHW.Encomia226.incipit
 trHW.Encomia226.text = tr.d070_en_UK_lash.trHW.Encomia226.text
 
-trHW.Encomia227.incipit = tr.d070_en_UK_lash.trHW.Encomia227.incipit
 trHW.Encomia227.text = tr.d070_en_UK_lash.trHW.Encomia227.text
 
-trHW.Encomia228.incipit = tr.d070_en_UK_lash.trHW.Encomia228.incipit
 trHW.Encomia228.text = tr.d070_en_UK_lash.trHW.Encomia228.text
 
-trHW.Encomia229.incipit = tr.d070_en_UK_lash.trHW.Encomia229.incipit
 trHW.Encomia229.text = tr.d070_en_UK_lash.trHW.Encomia229.text
 
-trHW.Encomia230.incipit = tr.d070_en_UK_lash.trHW.Encomia230.incipit
 trHW.Encomia230.text = tr.d070_en_UK_lash.trHW.Encomia230.text
 
-trHW.Encomia231.incipit = tr.d070_en_UK_lash.trHW.Encomia231.incipit
 trHW.Encomia231.text = tr.d070_en_UK_lash.trHW.Encomia231.text
 
-trHW.Encomia232.incipit = tr.d070_en_UK_lash.trHW.Encomia232.incipit
 trHW.Encomia232.text = tr.d070_en_UK_lash.trHW.Encomia232.text
 
-trHW.Encomia233.incipit = tr.d070_en_UK_lash.trHW.Encomia233.incipit
 trHW.Encomia233.text = tr.d070_en_UK_lash.trHW.Encomia233.text
 
-trHW.Encomia234.incipit = tr.d070_en_UK_lash.trHW.Encomia234.incipit
 trHW.Encomia234.text = tr.d070_en_UK_lash.trHW.Encomia234.text
 
-trHW.Encomia235.incipit = tr.d070_en_UK_lash.trHW.Encomia235.incipit
 trHW.Encomia235.text = tr.d070_en_UK_lash.trHW.Encomia235.text
 
-trHW.Encomia236.incipit = tr.d070_en_UK_lash.trHW.Encomia236.incipit
 trHW.Encomia236.text = tr.d070_en_UK_lash.trHW.Encomia236.text
 
-trHW.Encomia237.incipit = tr.d070_en_UK_lash.trHW.Encomia237.incipit
 trHW.Encomia237.text = tr.d070_en_UK_lash.trHW.Encomia237.text
 
-trHW.Encomia238.incipit = tr.d070_en_UK_lash.trHW.Encomia238.incipit
 trHW.Encomia238.text = tr.d070_en_UK_lash.trHW.Encomia238.text
 
-trHW.Encomia239.incipit = tr.d070_en_UK_lash.trHW.Encomia239.incipit
 trHW.Encomia239.text = tr.d070_en_UK_lash.trHW.Encomia239.text
 
-trHW.Encomia240.incipit = tr.d070_en_UK_lash.trHW.Encomia240.incipit
 trHW.Encomia240.text = tr.d070_en_UK_lash.trHW.Encomia240.text
 
-trHW.Encomia241.incipit = tr.d070_en_UK_lash.trHW.Encomia241.incipit
 trHW.Encomia241.text = tr.d070_en_UK_lash.trHW.Encomia241.text
 
-trHW.Encomia242.incipit = tr.d070_en_UK_lash.trHW.Encomia242.incipit
 trHW.Encomia242.text = tr.d070_en_UK_lash.trHW.Encomia242.text
 
-trHW.Encomia243.incipit = tr.d070_en_UK_lash.trHW.Encomia243.incipit
 trHW.Encomia243.text = tr.d070_en_UK_lash.trHW.Encomia243.text
 
-trHW.Encomia244.incipit = tr.d070_en_UK_lash.trHW.Encomia244.incipit
 trHW.Encomia244.text = tr.d070_en_UK_lash.trHW.Encomia244.text
 
-trHW.Encomia245.incipit = tr.d070_en_UK_lash.trHW.Encomia245.incipit
 trHW.Encomia245.text = tr.d070_en_UK_lash.trHW.Encomia245.text
 
-trHW.Encomia246.incipit = tr.d070_en_UK_lash.trHW.Encomia246.incipit
 trHW.Encomia246.text = tr.d070_en_UK_lash.trHW.Encomia246.text
 
-trHW.Encomia247.incipit = tr.d070_en_UK_lash.trHW.Encomia247.incipit
 trHW.Encomia247.text = tr.d070_en_UK_lash.trHW.Encomia247.text
 
-trHW.Encomia248.incipit = tr.d070_en_UK_lash.trHW.Encomia248.incipit
 trHW.Encomia248.text = tr.d070_en_UK_lash.trHW.Encomia248.text
 
-trHW.Encomia249.incipit = tr.d070_en_UK_lash.trHW.Encomia249.incipit
 trHW.Encomia249.text = tr.d070_en_UK_lash.trHW.Encomia249.text
 
-trHW.Encomia250.incipit = tr.d070_en_UK_lash.trHW.Encomia250.incipit
 trHW.Encomia250.text = tr.d070_en_UK_lash.trHW.Encomia250.text
 
-trHW.Encomia251.incipit = tr.d070_en_UK_lash.trHW.Encomia251.incipit
 trHW.Encomia251.text = tr.d070_en_UK_lash.trHW.Encomia251.text
 
-trHW.Encomia252.incipit = tr.d070_en_UK_lash.trHW.Encomia252.incipit
 trHW.Encomia252.text = tr.d070_en_UK_lash.trHW.Encomia252.text
 
-trHW.Encomia253.incipit = tr.d070_en_UK_lash.trHW.Encomia253.incipit
 trHW.Encomia253.text = tr.d070_en_UK_lash.trHW.Encomia253.text
 
-trHW.Encomia254.incipit = tr.d070_en_UK_lash.trHW.Encomia254.incipit
 trHW.Encomia254.text = tr.d070_en_UK_lash.trHW.Encomia254.text
 
-trHW.Encomia255.incipit = tr.d070_en_UK_lash.trHW.Encomia255.incipit
 trHW.Encomia255.text = tr.d070_en_UK_lash.trHW.Encomia255.text
 
-trHW.Encomia256.incipit = tr.d070_en_UK_lash.trHW.Encomia256.incipit
 trHW.Encomia256.text = tr.d070_en_UK_lash.trHW.Encomia256.text
 
-trHW.Encomia257.incipit = tr.d070_en_UK_lash.trHW.Encomia257.incipit
 trHW.Encomia257.text = tr.d070_en_UK_lash.trHW.Encomia257.text
 
-trHW.Encomia258.incipit = tr.d070_en_UK_lash.trHW.Encomia258.incipit
 trHW.Encomia258.text = tr.d070_en_UK_lash.trHW.Encomia258.text
 
-trHW.Encomia259.incipit = tr.d070_en_UK_lash.trHW.Encomia259.incipit
 trHW.Encomia259.text = tr.d070_en_UK_lash.trHW.Encomia259.text
 
-trHW.Encomia260.incipit = tr.d070_en_UK_lash.trHW.Encomia260.incipit
 trHW.Encomia260.text = tr.d070_en_UK_lash.trHW.Encomia260.text
 
 //trHW.Encomia2TrVerse.text = tr.d070_en_UK_lash.trHW.Encomia2TrVerse.text
-trHW.Encomia2Tr.incipit = tr.d070_en_UK_lash.trHW.Encomia2Tr.incipit
 trHW.Encomia2Tr.text = tr.d070_en_UK_lash.trHW.Encomia2Tr.text
 
 //trHW.Encomia2TVerse.text = tr.d070_en_UK_lash.trHW.Encomia2TVerse.text
-trHW.Encomia2T.incipit = tr.d070_en_UK_lash.trHW.Encomia2T.incipit
 trHW.Encomia2T.text = tr.d070_en_UK_lash.trHW.Encomia2T.text
 
-trHW.Encomia2F.incipit = tr.d070_en_UK_lash.trHW.Encomia2F.incipit
 trHW.Encomia2F.text = tr.d070_en_UK_lash.trHW.Encomia2F.text
 
 trHW.Encomia300.title = tr.d070_en_US_dedes.trHW.Encomia300.title
 trHW.Encomia300.mode = tr.d070_en_US_dedes.trHW.Encomia300.mode
 
-trHW.Encomia301.incipit = tr.d070_en_UK_lash.trHW.Encomia301.incipit
 trHW.Encomia301.text = tr.d070_en_UK_lash.trHW.Encomia301.text
 
-trHW.Encomia302.incipit = tr.d070_en_UK_lash.trHW.Encomia302.incipit
 trHW.Encomia302.text = tr.d070_en_UK_lash.trHW.Encomia302.text
 
-trHW.Encomia303.incipit = tr.d070_en_UK_lash.trHW.Encomia303.incipit
 trHW.Encomia303.text = tr.d070_en_UK_lash.trHW.Encomia303.text
 
-trHW.Encomia304.incipit = tr.d070_en_UK_lash.trHW.Encomia304.incipit
 trHW.Encomia304.text = tr.d070_en_UK_lash.trHW.Encomia304.text
 
-trHW.Encomia305.incipit = tr.d070_en_UK_lash.trHW.Encomia305.incipit
 trHW.Encomia305.text = tr.d070_en_UK_lash.trHW.Encomia305.text
 
-trHW.Encomia306.incipit = tr.d070_en_UK_lash.trHW.Encomia306.incipit
 trHW.Encomia306.text = tr.d070_en_UK_lash.trHW.Encomia306.text
 
-trHW.Encomia307.incipit = tr.d070_en_UK_lash.trHW.Encomia307.incipit
 trHW.Encomia307.text = tr.d070_en_UK_lash.trHW.Encomia307.text
 
-trHW.Encomia308.incipit = tr.d070_en_UK_lash.trHW.Encomia308.incipit
 trHW.Encomia308.text = tr.d070_en_UK_lash.trHW.Encomia308.text
 
-trHW.Encomia309.incipit = tr.d070_en_UK_lash.trHW.Encomia309.incipit
 trHW.Encomia309.text = tr.d070_en_UK_lash.trHW.Encomia309.text
 
-trHW.Encomia310.incipit = tr.d070_en_UK_lash.trHW.Encomia310.incipit
 trHW.Encomia310.text = tr.d070_en_UK_lash.trHW.Encomia310.text
 
-trHW.Encomia311.incipit = tr.d070_en_UK_lash.trHW.Encomia311.incipit
 trHW.Encomia311.text = tr.d070_en_UK_lash.trHW.Encomia311.text
 
-trHW.Encomia312.incipit = tr.d070_en_UK_lash.trHW.Encomia312.incipit
 trHW.Encomia312.text = tr.d070_en_UK_lash.trHW.Encomia312.text
 
-trHW.Encomia313.incipit = tr.d070_en_UK_lash.trHW.Encomia313.incipit
 trHW.Encomia313.text = tr.d070_en_UK_lash.trHW.Encomia313.text
 
-trHW.Encomia314.incipit = tr.d070_en_UK_lash.trHW.Encomia314.incipit
 trHW.Encomia314.text = tr.d070_en_UK_lash.trHW.Encomia314.text
 
-trHW.Encomia315.incipit = tr.d070_en_UK_lash.trHW.Encomia315.incipit
 trHW.Encomia315.text = tr.d070_en_UK_lash.trHW.Encomia315.text
 
-trHW.Encomia316.incipit = tr.d070_en_UK_lash.trHW.Encomia316.incipit
 trHW.Encomia316.text = tr.d070_en_UK_lash.trHW.Encomia316.text
 
-trHW.Encomia317.incipit = tr.d070_en_UK_lash.trHW.Encomia317.incipit
 trHW.Encomia317.text = tr.d070_en_UK_lash.trHW.Encomia317.text
 
-trHW.Encomia318.incipit = tr.d070_en_UK_lash.trHW.Encomia318.incipit
 trHW.Encomia318.text = tr.d070_en_UK_lash.trHW.Encomia318.text
 
-trHW.Encomia319.incipit = tr.d070_en_UK_lash.trHW.Encomia319.incipit
 trHW.Encomia319.text = tr.d070_en_UK_lash.trHW.Encomia319.text
 
-trHW.Encomia320.incipit = tr.d070_en_UK_lash.trHW.Encomia320.incipit
 trHW.Encomia320.text = tr.d070_en_UK_lash.trHW.Encomia320.text
 
-trHW.Encomia321.incipit = tr.d070_en_UK_lash.trHW.Encomia321.incipit
 trHW.Encomia321.text = tr.d070_en_UK_lash.trHW.Encomia321.text
 
-trHW.Encomia322.incipit = tr.d070_en_UK_lash.trHW.Encomia322.incipit
 trHW.Encomia322.text = tr.d070_en_UK_lash.trHW.Encomia322.text
 
-trHW.Encomia323.incipit = tr.d070_en_UK_lash.trHW.Encomia323.incipit
 trHW.Encomia323.text = tr.d070_en_UK_lash.trHW.Encomia323.text
 
-trHW.Encomia324.incipit = tr.d070_en_UK_lash.trHW.Encomia324.incipit
 trHW.Encomia324.text = tr.d070_en_UK_lash.trHW.Encomia324.text
 
-trHW.Encomia325.incipit = tr.d070_en_UK_lash.trHW.Encomia325.incipit
 trHW.Encomia325.text = tr.d070_en_UK_lash.trHW.Encomia325.text
 
-trHW.Encomia326.incipit = tr.d070_en_UK_lash.trHW.Encomia326.incipit
 trHW.Encomia326.text = tr.d070_en_UK_lash.trHW.Encomia326.text
 
-trHW.Encomia327.incipit = tr.d070_en_UK_lash.trHW.Encomia327.incipit
 trHW.Encomia327.text = tr.d070_en_UK_lash.trHW.Encomia327.text
 
-trHW.Encomia328.incipit = tr.d070_en_UK_lash.trHW.Encomia328.incipit
 trHW.Encomia328.text = tr.d070_en_UK_lash.trHW.Encomia328.text
 
-trHW.Encomia329.incipit = tr.d070_en_UK_lash.trHW.Encomia329.incipit
 trHW.Encomia329.text = tr.d070_en_UK_lash.trHW.Encomia329.text
 
-trHW.Encomia330.incipit = tr.d070_en_UK_lash.trHW.Encomia330.incipit
 trHW.Encomia330.text = tr.d070_en_UK_lash.trHW.Encomia330.text
 
-trHW.Encomia331.incipit = tr.d070_en_UK_lash.trHW.Encomia331.incipit
 trHW.Encomia331.text = tr.d070_en_UK_lash.trHW.Encomia331.text
 
-trHW.Encomia332.incipit = tr.d070_en_UK_lash.trHW.Encomia332.incipit
 trHW.Encomia332.text = tr.d070_en_UK_lash.trHW.Encomia332.text
 
-trHW.Encomia333.incipit = tr.d070_en_UK_lash.trHW.Encomia333.incipit
 trHW.Encomia333.text = tr.d070_en_UK_lash.trHW.Encomia333.text
 
-trHW.Encomia334.incipit = tr.d070_en_UK_lash.trHW.Encomia334.incipit
 trHW.Encomia334.text = tr.d070_en_UK_lash.trHW.Encomia334.text
 
-trHW.Encomia335.incipit = tr.d070_en_UK_lash.trHW.Encomia335.incipit
 trHW.Encomia335.text = tr.d070_en_UK_lash.trHW.Encomia335.text
 
-trHW.Encomia336.incipit = tr.d070_en_UK_lash.trHW.Encomia336.incipit
 trHW.Encomia336.text = tr.d070_en_UK_lash.trHW.Encomia336.text
 
-trHW.Encomia337.incipit = tr.d070_en_UK_lash.trHW.Encomia337.incipit
 trHW.Encomia337.text = tr.d070_en_UK_lash.trHW.Encomia337.text
 
-trHW.Encomia338.incipit = tr.d070_en_UK_lash.trHW.Encomia338.incipit
 trHW.Encomia338.text = tr.d070_en_UK_lash.trHW.Encomia338.text
 
-trHW.Encomia339.incipit = tr.d070_en_UK_lash.trHW.Encomia339.incipit
 trHW.Encomia339.text = tr.d070_en_UK_lash.trHW.Encomia339.text
 
-trHW.Encomia340.incipit = tr.d070_en_UK_lash.trHW.Encomia340.incipit
 trHW.Encomia340.text = tr.d070_en_UK_lash.trHW.Encomia340.text
 
-trHW.Encomia341.incipit = tr.d070_en_UK_lash.trHW.Encomia341.incipit
 trHW.Encomia341.text = tr.d070_en_UK_lash.trHW.Encomia341.text
 
-trHW.Encomia342.incipit = tr.d070_en_UK_lash.trHW.Encomia342.incipit
 trHW.Encomia342.text = tr.d070_en_UK_lash.trHW.Encomia342.text
 
-trHW.Encomia343.incipit = tr.d070_en_UK_lash.trHW.Encomia343.incipit
 trHW.Encomia343.text = tr.d070_en_UK_lash.trHW.Encomia343.text
 
-trHW.Encomia344.incipit = tr.d070_en_UK_lash.trHW.Encomia344.incipit
 trHW.Encomia344.text = tr.d070_en_UK_lash.trHW.Encomia344.text
 
-trHW.Encomia345.incipit = tr.d070_en_UK_lash.trHW.Encomia345.incipit
 trHW.Encomia345.text = tr.d070_en_UK_lash.trHW.Encomia345.text
 
-trHW.Encomia346.incipit = tr.d070_en_UK_lash.trHW.Encomia346.incipit
 trHW.Encomia346.text = tr.d070_en_UK_lash.trHW.Encomia346.text
 
-//trHW.Encomia3TrVerse.text = tr.d070_en_UK_lash.trHW.Encomia3TrVerse.text
-trHW.Encomia3Tr.incipit = tr.d070_en_UK_lash.trHW.Encomia3Tr.incipit
 trHW.Encomia3Tr.text = tr.d070_en_UK_lash.trHW.Encomia3Tr.text
 
-//trHW.Encomia3TVerse.text = tr.d070_en_UK_lash.trHW.Encomia3TVerse.text
-trHW.Encomia3T.incipit = tr.d070_en_UK_lash.trHW.Encomia3T.incipit
 trHW.Encomia3T.text = tr.d070_en_UK_lash.trHW.Encomia3T.text
 
 // Not in Triodion, but common
-trHW.Encomia3F.incipit = tr.d070_en_UK_lash.trHW.Encomia3F.incipit
 trHW.Encomia3F.text = tr.d070_en_UK_lash.trHW.Encomia3F.text
 
 // Resurrectional Evlogetaria keys for media
@@ -690,7 +498,6 @@ trHW.Evlogetaria5.incipit = tr.d070_en_US_dedes.trHW.Evlogetaria5.incipit
 trHW.Evlogetaria5.text = tr.d070_en_US_dedes.trHW.Evlogetaria5.text
 trHW.Evlogetaria6.incipit = tr.d070_en_US_dedes.trHW.Evlogetaria6.incipit
 trHW.Evlogetaria6.text = tr.d070_en_US_dedes.trHW.Evlogetaria6.text
-trHW.Evlogetaria7.incipit = tr.d070_en_US_dedes.trHW.Evlogetaria7.incipit
 trHW.Evlogetaria7.text = tr.d070_en_US_dedes.trHW.Evlogetaria7.text
 
 trMA.Kathisma11.mode = tr.d070_en_US_dedes.trMA.Kathisma11.mode
@@ -874,46 +681,28 @@ trMA.Kontakion1.melody = tr.d070_en_US_dedes.trMA.Kontakion1.melody
 trMA.Kontakion1.incipit = tr.d070_en_US_duvall.trMA.Kontakion1.incipit
 trMA.Kontakion1.text = tr.d070_en_US_duvall.trMA.Kontakion1.text
 
-trMA.Oikos1.incipit = tr.d070_en_US_duvall.trMA.Oikos1.incipit
 trMA.Oikos1.text = tr.d070_en_US_duvall.trMA.Oikos1.text
 
-trMA.Oikos12.incipit = tr.d070_en_US_dedes.trMA.Oikos12.incipit
 trMA.Oikos12.text = tr.d070_en_US_dedes.trMA.Oikos12.text
 
-trMA.Synaxarion.commemoration.incipit = tr.d070_en_US_dedes.trMA.Synaxarion.commemoration.incipit
 trMA.Synaxarion.commemoration.text = tr.d070_en_US_dedes.trMA.Synaxarion.commemoration.text
 trMA.Synaxarion.couplet1.title = tr.d070_en_US_dedes.trMA.Synaxarion.couplet1.title
 trMA.Synaxarion.couplet1.verse1 = tr.d070_en_US_dedes.trMA.Synaxarion.couplet1.verse1
 trMA.Synaxarion.couplet1.verse2 = tr.d070_en_US_dedes.trMA.Synaxarion.couplet1.verse2
-trMA.Synaxarion.narration1.p01.incipit = tr.d070_en_US_dedes.trMA.Synaxarion.narration1.p01.incipit
 trMA.Synaxarion.narration1.p01.text = tr.d070_en_US_dedes.trMA.Synaxarion.narration1.p01.text
-trMA.Synaxarion.narration1.p02.incipit = tr.d070_en_US_dedes.trMA.Synaxarion.narration1.p02.incipit
 trMA.Synaxarion.narration1.p02.text = tr.d070_en_US_dedes.trMA.Synaxarion.narration1.p02.text
-trMA.Synaxarion.narration1.p03.incipit = tr.d070_en_US_dedes.trMA.Synaxarion.narration1.p03.incipit
 trMA.Synaxarion.narration1.p03.text = tr.d070_en_US_dedes.trMA.Synaxarion.narration1.p03.text
-trMA.Synaxarion.narration1.p04.incipit = tr.d070_en_US_dedes.trMA.Synaxarion.narration1.p04.incipit
 trMA.Synaxarion.narration1.p04.text = tr.d070_en_US_dedes.trMA.Synaxarion.narration1.p04.text
-trMA.Synaxarion.narration1.p05.incipit = tr.d070_en_US_dedes.trMA.Synaxarion.narration1.p05.incipit
 trMA.Synaxarion.narration1.p05.text = tr.d070_en_US_dedes.trMA.Synaxarion.narration1.p05.text
-trMA.Synaxarion.narration1.p06.incipit = tr.d070_en_US_dedes.trMA.Synaxarion.narration1.p06.incipit
 trMA.Synaxarion.narration1.p06.text = tr.d070_en_US_dedes.trMA.Synaxarion.narration1.p06.text
-trMA.Synaxarion.narration1.p07.incipit = tr.d070_en_US_dedes.trMA.Synaxarion.narration1.p07.incipit
 trMA.Synaxarion.narration1.p07.text = tr.d070_en_US_dedes.trMA.Synaxarion.narration1.p07.text
-trMA.Synaxarion.narration2.p01.incipit = tr.d070_en_US_dedes.trMA.Synaxarion.narration2.p01.incipit
 trMA.Synaxarion.narration2.p01.text = tr.d070_en_US_dedes.trMA.Synaxarion.narration2.p01.text
-trMA.Synaxarion.narration2.p02.incipit = tr.d070_en_US_dedes.trMA.Synaxarion.narration2.p02.incipit
 trMA.Synaxarion.narration2.p02.text = tr.d070_en_US_dedes.trMA.Synaxarion.narration2.p02.text
-trMA.Synaxarion.narration2.p03.incipit = tr.d070_en_US_dedes.trMA.Synaxarion.narration2.p03.incipit
 trMA.Synaxarion.narration2.p03.text = tr.d070_en_US_dedes.trMA.Synaxarion.narration2.p03.text
-trMA.Synaxarion.narration2.p04.incipit = tr.d070_en_US_dedes.trMA.Synaxarion.narration2.p04.incipit
 trMA.Synaxarion.narration2.p04.text = tr.d070_en_US_dedes.trMA.Synaxarion.narration2.p04.text
-trMA.Synaxarion.narration2.p05.incipit = tr.d070_en_US_dedes.trMA.Synaxarion.narration2.p05.incipit
 trMA.Synaxarion.narration2.p05.text = tr.d070_en_US_dedes.trMA.Synaxarion.narration2.p05.text
-trMA.Synaxarion.narration2.p06.incipit = tr.d070_en_US_dedes.trMA.Synaxarion.narration2.p06.incipit
 trMA.Synaxarion.narration2.p06.text = tr.d070_en_US_dedes.trMA.Synaxarion.narration2.p06.text
-trMA.Synaxarion.narration2.p07.incipit = tr.d070_en_US_dedes.trMA.Synaxarion.narration2.p07.incipit
 trMA.Synaxarion.narration2.p07.text = tr.d070_en_US_dedes.trMA.Synaxarion.narration2.p07.text
-trMA.Synaxarion.lastline.incipit = tr.d070_en_US_dedes.trMA.Synaxarion.lastline.incipit
 trMA.Synaxarion.lastline.text = tr.d070_en_US_dedes.trMA.Synaxarion.lastline.text
 
 trMA.Ode7C1H.ode = tr.d070_en_US_dedes.trMA.Ode7C1H.ode
@@ -1014,7 +803,6 @@ trMA.Ode9K.text = tr.d070_en_US_dedes.trMA.Ode9K.text
 
 trMA.Exaposteilarion1.mode = tr.d070_en_US_dedes.trMA.Exaposteilarion1.mode
 trMA.Exaposteilarion1.melody = tr.d070_en_US_dedes.trMA.Exaposteilarion1.melody
-trMA.Exaposteilarion1.incipit = tr.d070_en_US_dedes.trMA.Exaposteilarion1.incipit
 trMA.Exaposteilarion1.text = tr.d070_en_US_dedes.trMA.Exaposteilarion1.text
 
 trHW.Lauds01.text = tr.d070_en_US_dedes.trHW.Lauds01.text // for media

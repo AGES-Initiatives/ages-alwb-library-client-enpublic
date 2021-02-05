@@ -1,12 +1,9 @@
 A_Resource_Whose_Name = pe.d108_en_US_public
 
-peCommemoration.incipit = pe.d108_en_US_dedes.peCommemoration.incipit
 peCommemoration.text = pe.d108_en_US_dedes.peCommemoration.text
-peShortCommemoration1.incipit = pe.d108_en_US_dedes.peShortCommemoration1.incipit
 peShortCommemoration1.text = pe.d108_en_US_dedes.peShortCommemoration1.text
 peInsert1 = pe.d108_en_US_dedes.peInsert1
 peInsert2 = pe.d108_en_US_dedes.peInsert2
-peNote.incipit = pe.d108_en_US_dedes.peNote.incipit
 peNote.text = pe.d108_en_US_dedes.peNote.text
 peHO.daytitle = pe.d108_en_US_dedes.peHO.daytitle
 peHO.commemorations = pe.d108_en_US_dedes.peHO.commemorations
@@ -131,9 +128,7 @@ peMA.AposGlory.melody = pe.d108_en_US_dedes.peMA.AposGlory.melody
 peMA.AposGlory.incipit = pe.d108_en_UK_lash.peMA.AposGlory.incipit
 peMA.AposGlory.text = pe.d108_en_UK_lash.peMA.AposGlory.text
 
-alt1.peCommemoration.incipit = pe.d108_en_US_dedes.alt1.peCommemoration.incipit
 alt1.peCommemoration.text = pe.d108_en_US_dedes.alt1.peCommemoration.text
-alt1.peShortCommemoration1.incipit = pe.d108_en_US_dedes.alt1.peShortCommemoration1.incipit
 alt1.peShortCommemoration1.text = pe.d108_en_US_dedes.alt1.peShortCommemoration1.text
 
 alt1.peVE.Stichera01.mode = pe.d108_en_US_dedes.alt1.peVE.Stichera01.mode

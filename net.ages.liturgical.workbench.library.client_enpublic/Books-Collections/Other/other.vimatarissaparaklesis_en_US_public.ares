@@ -6,7 +6,6 @@ hoCA.poet = other.vimatarissaparaklesis_en_US_dedes.hoCA.poet
 hoCA.translator = other.vimatarissaparaklesis_en_US_dedes.hoCA.translator
 hoCA.Insert1 = other.vimatarissaparaklesis_en_US_dedes.hoCA.Insert1
 
-hoCA.media.incipit = other.vimatarissaparaklesis_en_US_dedes.hoCA.media.incipit
 hoCA.media.text = other.vimatarissaparaklesis_en_US_dedes.hoCA.media.text
 
 R01 = other.vimatarissaparaklesis_en_US_dedes.R01
@@ -320,7 +319,7 @@ hoCA.Ode95.melody = other.vimatarissaparaklesis_en_US_dedes.hoCA.Ode95.melody
 hoCA.Ode95.incipit = other.vimatarissaparaklesis_en_US_dedes.hoCA.Ode95.incipit
 hoCA.Ode95.text = other.vimatarissaparaklesis_en_US_dedes.hoCA.Ode95.text
 
-hoCA.Meg00.incipit = other.vimatarissaparaklesis_en_US_dedes.hoCA.Meg00.incipit
+hoCA.Meg00.incipit = ""
 hoCA.Meg00.text = other.vimatarissaparaklesis_en_US_dedes.hoCA.Meg00.text
 hoCA.Meg01.melody = other.vimatarissaparaklesis_en_US_dedes.hoCA.Meg01.melody
 hoCA.Meg01.incipit = other.vimatarissaparaklesis_en_US_dedes.hoCA.Meg01.incipit

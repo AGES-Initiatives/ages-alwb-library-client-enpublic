@@ -5,7 +5,6 @@ lemeVE.Reading1.title_abbr = le.ep.me.m10.d06_en_US_rsv.lemeVE.Reading1.title_ab
 lemeVE.Reading1.version = le.ep.me.m10.d06_en_US_rsv.lemeVE.Reading1.version
 lemeVE.Reading1.book_string = le.ep.me.m10.d06_en_US_rsv.lemeVE.Reading1.book_string
 lemeVE.Reading1.chapverse = le.ep.me.m10.d06_en_US_rsv.lemeVE.Reading1.chapverse
-lemeVE.Reading1.incipit = le.ep.me.m10.d06_en_US_rsv.lemeVE.Reading1.incipit
 lemeVE.Reading1.text = le.ep.me.m10.d06_en_US_rsv.lemeVE.Reading1.text
 
 lemeVE.Reading2.title = le.ep.me.m10.d06_en_US_rsv.lemeVE.Reading2.title
@@ -13,7 +12,6 @@ lemeVE.Reading2.title_abbr = le.ep.me.m10.d06_en_US_rsv.lemeVE.Reading2.title_ab
 lemeVE.Reading2.version = le.pr.me.r41_en_US_saas.leprVE.reading.version
 lemeVE.Reading2.book_string = le.pr.me.r41_en_US_saas.leprVE.reading.book_string
 lemeVE.Reading2.chapverse = le.pr.me.r41_en_US_saas.leprVE.reading.chapverse
-lemeVE.Reading2.incipit = le.pr.me.r41_en_US_saas.leprVE.reading.incipit
 lemeVE.Reading2.text = le.pr.me.r41_en_US_saas.leprVE.reading.text
 
 lemeVE.Reading3.title = le.ep.me.m10.d06_en_US_rsv.lemeVE.Reading3.title
@@ -21,7 +19,6 @@ lemeVE.Reading3.title_abbr = le.ep.me.m10.d06_en_US_rsv.lemeVE.Reading3.title_ab
 lemeVE.Reading3.version = le.ep.me.m10.d06_en_US_rsv.lemeVE.Reading3.version
 lemeVE.Reading3.book_string = le.ep.me.m10.d06_en_US_rsv.lemeVE.Reading3.book_string
 lemeVE.Reading3.chapverse = le.ep.me.m10.d06_en_US_rsv.lemeVE.Reading3.chapverse
-lemeVE.Reading3.incipit = le.ep.me.m10.d06_en_US_rsv.lemeVE.Reading3.incipit
 lemeVE.Reading3.text = le.ep.me.m10.d06_en_US_rsv.lemeVE.Reading3.text
 
 lemeLI.Epistle.title = le.ep.me.m10.d06_en_US_rsv.lemeLI.Epistle.title
@@ -30,6 +27,5 @@ lemeLI.Epistle.version = le.ep.me.m10.d06_en_US_rsv.lemeLI.Epistle.version
 lemeLI.Epistle.book_string = le.ep.me.m10.d06_en_US_rsv.lemeLI.Epistle.book_string
 lemeLI.Epistle.book_abbr = le.ep.me.m10.d06_en_US_rsv.lemeLI.Epistle.book_abbr
 lemeLI.Epistle.chapverse = le.ep.me.m10.d06_en_US_rsv.lemeLI.Epistle.chapverse
-lemeLI.Epistle.incipit = le.ep.me.m10.d06_en_US_rsv.lemeLI.Epistle.incipit
 lemeLI.Epistle.text = le.ep.me.m10.d06_en_US_rsv.lemeLI.Epistle.text
 lemeLI.Epistle.pagenumber = le.ep.me.m10.d06_en_US_rsv.lemeLI.Epistle.pagenumber

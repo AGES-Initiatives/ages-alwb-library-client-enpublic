@@ -222,30 +222,17 @@ hoCA.Kontakion.text = ho.s23_en_US_dedes.hoCA.Kontakion.text
 //First Antiphon Mode 4
 
 //R11
-hoCA.Prokeimenon.incipit = ho.s23_en_US_dedes.hoCA.Prokeimenon.incipit
-hoCA.Prokeimenon.text = ho.s23_en_US_dedes.hoCA.Prokeimenon.text
-
-hoCA.ProkVerse.incipit = ho.s23_en_US_dedes.hoCA.ProkVerse.incipit
-hoCA.ProkVerse.text = ho.s23_en_US_dedes.hoCA.ProkVerse.text
-
-//Gospel
-
-hoCA.Gospel.name = ho.s23_en_US_dedes.hoCA.Gospel.name
-hoCA.Gospel.chapverse = ho.s23_en_US_dedes.hoCA.Gospel.chapverse
-hoCA.Gospel.incipit = ho.s23_en_US_dedes.hoCA.Gospel.incipit
-hoCA.Gospel.text = ho.s23_en_US_dedes.hoCA.Gospel.text
 
 //R12 ""
 hoCA.PostGospelGlory.mode = ho.s23_en_US_dedes.hoCA.PostGospelGlory.mode
 hoCA.PostGospelGlory.melody = ho.s23_en_US_dedes.hoCA.PostGospelGlory.melody
-hoCA.PostGospelGlory.incipit = ho.s23_en_US_dedes.hoCA.PostGospelGlory.incipit
+hoCA.PostGospelGlory.incipit = ""
 hoCA.PostGospelGlory.text = ho.s23_en_US_dedes.hoCA.PostGospelGlory.text
 
 hoCA.PostGospelBoth.mode = ho.s23_en_US_dedes.hoCA.PostGospelBoth.mode
 hoCA.PostGospelBoth.melody = ho.s23_en_US_dedes.hoCA.PostGospelBoth.melody
 hoCA.PostGospelBoth.text = ho.s23_en_US_dedes.hoCA.PostGospelBoth.text // need to link to first instance, e.g. Sunday Matins
 
-hoCA.PostGospelVerse.incipit = ho.s23_en_US_dedes.hoCA.PostGospelVerse.incipit
 hoCA.PostGospelVerse.text = ho.s23_en_US_dedes.hoCA.PostGospelVerse.text
 
 hoCA.PostGospelHymn1.mode = ho.s23_en_US_dedes.hoCA.PostGospelHymn1.mode
@@ -366,7 +353,7 @@ hoCA.Ode95.text = ho.s23_en_US_dedes.hoCA.Ode95.text
 
 //R14
 
-hoCA.Meg00.incipit = ho.s23_en_US_dedes.hoCA.Meg00.incipit
+hoCA.Meg00.incipit = ""
 hoCA.Meg00.text = ho.s23_en_US_dedes.hoCA.Meg00.text
 hoCA.Meg01.melody = ho.s23_en_US_dedes.hoCA.Meg01.melody
 hoCA.Meg01.incipit = ho.s23_en_US_dedes.hoCA.Meg01.incipit

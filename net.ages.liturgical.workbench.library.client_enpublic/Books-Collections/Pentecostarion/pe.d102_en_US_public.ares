@@ -1,12 +1,9 @@
 A_Resource_Whose_Name = pe.d102_en_US_public
 
-peCommemoration.incipit = pe.d102_en_US_dedes.peCommemoration.incipit
 peCommemoration.text = pe.d102_en_US_dedes.peCommemoration.text
-peShortCommemoration1.incipit = pe.d102_en_US_dedes.peShortCommemoration1.incipit
 peShortCommemoration1.text = pe.d102_en_US_dedes.peShortCommemoration1.text
 peInsert1 = pe.d102_en_US_dedes.peInsert1
 peInsert2 = pe.d102_en_US_dedes.peInsert2
-peNote.incipit = pe.d102_en_US_dedes.peNote.incipit
 peNote.text = pe.d102_en_US_dedes.peNote.text
 peHO.daytitle = pe.d102_en_US_dedes.peHO.daytitle
 peHO.commemorations = pe.d102_en_US_dedes.peHO.commemorations
@@ -36,13 +33,9 @@ peVE.SticGlory.melody = pe.d095_en_US_public.peVE.SticGlory.melody
 peVE.SticGlory.incipit = pe.d095_en_US_public.peVE.SticGlory.incipit
 peVE.SticGlory.text = pe.d095_en_US_public.peVE.SticGlory.text
 
-peVE.MM.Stichera11as56.incipit = pe.d095_en_US_dedes.peVE.MM.Stichera11as56.incipit
 peVE.MM.Stichera11as56.text = pe.d095_en_US_dedes.peVE.MM.Stichera11as56.text
-peVE.MM.Stichera1123as3456.incipit = pe.d095_en_US_dedes.peVE.MM.Stichera1123as3456.incipit
 peVE.MM.Stichera1123as3456.text = pe.d095_en_US_dedes.peVE.MM.Stichera1123as3456.text
-peVE.MM.Stichera22as78.incipit = pe.d095_en_US_dedes.peVE.MM.Stichera22as78.incipit
 peVE.MM.Stichera22as78.text = pe.d095_en_US_dedes.peVE.MM.Stichera22as78.text
-peVE.MM.Stichera33as910.incipit = pe.d095_en_US_dedes.peVE.MM.Stichera33as910.incipit
 peVE.MM.Stichera33as910.text = pe.d095_en_US_dedes.peVE.MM.Stichera33as910.text
 
 peVE.Aposticha1.poet = pe.d095_en_US_public.peVE.Aposticha1.poet
@@ -449,7 +442,6 @@ peMA.Kontakion1.melody = pe.d095_en_US_public.peMA.Kontakion1.melody
 peMA.Kontakion1.incipit = pe.d095_en_US_public.peMA.Kontakion1.incipit
 peMA.Kontakion1.text = pe.d095_en_US_public.peMA.Kontakion1.text
 
-peMA.Oikos1.incipit = pe.d095_en_US_public.peMA.Oikos1.incipit
 peMA.Oikos1.text = pe.d095_en_US_public.peMA.Oikos1.text
 
 peMA.Ode7C1H.ode = pe.d095_en_US_public.peMA.Ode7C1H.ode
@@ -749,5 +741,4 @@ peLI.TheotokosHymn.text = pe.d095_en_US_public.peLI.TheotokosHymn.text
 
 peLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
-peMegalynarion.incipit = pe.d095_en_US_public.peMegalynarion.incipit
 peMegalynarion.text = pe.d095_en_US_public.peMegalynarion.text

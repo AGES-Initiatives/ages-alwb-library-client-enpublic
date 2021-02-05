@@ -1,8 +1,6 @@
 A_Resource_Whose_Name = da.d7_en_US_public
 
-daDay.incipit = da.d7_en_US_dedes.daDay.incipit
 daDay.text = da.d7_en_US_dedes.daDay.text
-daCommemoration.incipit = da.d7_en_US_dedes.daCommemoration.incipit
 daCommemoration.text = da.d7_en_US_dedes.daCommemoration.text
 
 daVE.OnTheAfternoonBefore = da.d7_en_US_dedes.daVE.OnTheAfternoonBefore
@@ -23,14 +21,10 @@ daVE.ApolTheotokion.melody = da.d7_en_US_dedes.daVE.ApolTheotokion.melody
 daVE.ApolTheotokion.incipit = da.d7_en_US_dedes.daVE.ApolTheotokion.incipit
 daVE.ApolTheotokion.text = da.d7_en_US_dedes.daVE.ApolTheotokion.text
 
-daMA.Photagogic1Ending.incipit = da.d7_en_US_dedes.daMA.Photagogic1Ending.incipit
 daMA.Photagogic1Ending.text = da.d7_en_US_dedes.daMA.Photagogic1Ending.text
-daMA.Photagogic2Ending.incipit = da.d7_en_US_dedes.daMA.Photagogic2Ending.incipit
 daMA.Photagogic2Ending.text = da.d7_en_US_dedes.daMA.Photagogic2Ending.text
 
-daMA.Photagogic1Beginning.incipit = da.d7_en_US_dedes.daMA.Photagogic1Beginning.incipit
 daMA.Photagogic1Beginning.text = da.d7_en_US_dedes.daMA.Photagogic1Beginning.text
-daMA.Photagogic2Beginning.incipit = da.d7_en_US_dedes.daMA.Photagogic2Beginning.incipit
 daMA.Photagogic2Beginning.text = da.d7_en_US_dedes.daMA.Photagogic2Beginning.text
 
 daMA.Exaposteilarion1.mode = da.d7_en_US_dedes.daMA.Exaposteilarion1.mode
@@ -53,8 +47,6 @@ daMA.ExapTheotokion2.melody = da.d7_en_US_dedes.daMA.ExapTheotokion2.melody
 daMA.ExapTheotokion2.incipit = da.d7_en_US_dedes.daMA.ExapTheotokion2.incipit
 daMA.ExapTheotokion2.text = da.d7_en_US_dedes.daMA.ExapTheotokion2.text
 
-daLI.CommunionHymn.incipit = da.d7_en_US_dedes.daLI.CommunionHymn.incipit
 daLI.CommunionHymn.text = da.d7_en_US_dedes.daLI.CommunionHymn.text
 
-daLI.CommunionHymnAlt.incipit = da.d7_en_US_dedes.daLI.CommunionHymnAlt.incipit
 daLI.CommunionHymnAlt.text = da.d7_en_US_dedes.daLI.CommunionHymnAlt.text

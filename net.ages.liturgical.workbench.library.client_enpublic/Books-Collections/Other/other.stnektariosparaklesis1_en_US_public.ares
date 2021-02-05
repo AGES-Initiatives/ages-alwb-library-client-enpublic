@@ -6,7 +6,6 @@ hoCA.poet = other.stnektariosparaklesis1_en_US_dedes.hoCA.poet
 hoCA.translator = other.stnektariosparaklesis1_en_US_dedes.hoCA.translator
 hoCA.Insert1 = other.stnektariosparaklesis1_en_US_dedes.hoCA.Insert1
 
-hoCA.media.incipit = other.stnektariosparaklesis1_en_US_dedes.hoCA.media.incipit
 hoCA.media.text = other.stnektariosparaklesis1_en_US_dedes.hoCA.media.text
 
 hoCA.Apolytikion1.mode = other.stnektariosparaklesis1_en_US_dedes.hoCA.Apolytikion1.mode
@@ -259,7 +258,7 @@ hoCA.Ode9T.melody = other.stnektariosparaklesis1_en_US_dedes.hoCA.Ode9T.melody
 hoCA.Ode9T.incipit = other.stnektariosparaklesis1_en_US_dedes.hoCA.Ode9T.incipit
 hoCA.Ode9T.text = other.stnektariosparaklesis1_en_US_dedes.hoCA.Ode9T.text
 
-hoCA.Meg00.incipit = other.stnektariosparaklesis1_en_US_dedes.hoCA.Meg00.incipit
+hoCA.Meg00.incipit = ""
 hoCA.Meg00.text = other.stnektariosparaklesis1_en_US_dedes.hoCA.Meg00.text
 hoCA.Meg01.melody = other.stnektariosparaklesis1_en_US_dedes.hoCA.Meg01.melody
 hoCA.Meg01.incipit = other.stnektariosparaklesis1_en_US_dedes.hoCA.Meg01.incipit

@@ -1,12 +1,9 @@
 A_Resource_Whose_Name = tr.d001_en_US_public
 
-trCommemoration.incipit = tr.d001_en_US_dedes.trCommemoration.incipit
 trCommemoration.text = tr.d001_en_US_dedes.trCommemoration.text
-trShortCommemoration1.incipit = tr.d001_en_US_dedes.trShortCommemoration1.incipit
 trShortCommemoration1.text = tr.d001_en_US_dedes.trShortCommemoration1.text
 trInsert1 = tr.d001_en_US_dedes.trInsert1 // for use in petitions and dismissal
 trInsert2 = tr.d001_en_US_dedes.trInsert2 // for use in petitions and dismissal
-trNote.incipit = tr.d001_en_US_dedes.trNote.incipit
 trNote.text = tr.d001_en_US_dedes.trNote.text
 trHO.daytitle = tr.d001_en_US_dedes.trHO.daytitle
 trHO.commemorations = tr.d001_en_US_dedes.trHO.commemorations
@@ -26,9 +23,7 @@ trVE.Stichera02.melody = tr.d001_en_US_dedes.trVE.Stichera02.melody
 trVE.Stichera02.incipit = tr.d001_en_US_duvall.trVE.Stichera02.incipit
 trVE.Stichera02.text = tr.d001_en_US_duvall.trVE.Stichera02.text
 
-trVE.MM.Stichera112as567.incipit = tr.d001_en_US_dedes.trVE.MM.Stichera112as567.incipit
 trVE.MM.Stichera112as567.text = tr.d001_en_US_dedes.trVE.MM.Stichera112as567.text
-trVE.MM.Stichera112as8910.incipit = tr.d001_en_US_dedes.trVE.MM.Stichera112as8910.incipit
 trVE.MM.Stichera112as8910.text = tr.d001_en_US_dedes.trVE.MM.Stichera112as8910.text
 
 trVE.SticGlory.mode = tr.d001_en_US_dedes.trVE.SticGlory.mode
@@ -272,10 +267,8 @@ trMA.Kontakion1.melody = tr.d001_en_US_dedes.trMA.Kontakion1.melody
 trMA.Kontakion1.incipit = tr.d001_en_US_dedes.trMA.Kontakion1.incipit
 trMA.Kontakion1.text = tr.d001_en_US_dedes.trMA.Kontakion1.text
 
-trMA.Oikos1.incipit = tr.d001_en_US_duvall.trMA.Oikos1.incipit
 trMA.Oikos1.text = tr.d001_en_US_duvall.trMA.Oikos1.text
 
-trMA.Synaxarion.commemoration.incipit = tr.d001_en_US_dedes.trMA.Synaxarion.commemoration.incipit
 trMA.Synaxarion.commemoration.text = tr.d001_en_US_dedes.trMA.Synaxarion.commemoration.text
 trMA.Synaxarion.couplet1.title = tr.d001_en_US_dedes.trMA.Synaxarion.couplet1.title
 trMA.Synaxarion.couplet1.verse1 = tr.d001_en_US_dedes.trMA.Synaxarion.couplet1.verse1
@@ -284,35 +277,20 @@ trMA.Synaxarion.couplet2.title = tr.d001_en_US_dedes.trMA.Synaxarion.couplet2.ti
 trMA.Synaxarion.couplet2.verse1 = tr.d001_en_US_dedes.trMA.Synaxarion.couplet2.verse1
 trMA.Synaxarion.couplet2.verse2 = tr.d001_en_US_dedes.trMA.Synaxarion.couplet2.verse2
 trMA.Synaxarion.couplet2.verse3 = tr.d001_en_US_dedes.trMA.Synaxarion.couplet2.verse3
-trMA.Synaxarion.narration1.p01.incipit = tr.d001_en_US_dedes.trMA.Synaxarion.narration1.p01.incipit
 trMA.Synaxarion.narration1.p01.text = tr.d001_en_US_dedes.trMA.Synaxarion.narration1.p01.text
-trMA.Synaxarion.narration1.p02.incipit = tr.d001_en_US_dedes.trMA.Synaxarion.narration1.p02.incipit
 trMA.Synaxarion.narration1.p02.text = tr.d001_en_US_dedes.trMA.Synaxarion.narration1.p02.text
-trMA.Synaxarion.narration1.p03.incipit = tr.d001_en_US_dedes.trMA.Synaxarion.narration1.p03.incipit
 trMA.Synaxarion.narration1.p03.text = tr.d001_en_US_dedes.trMA.Synaxarion.narration1.p03.text
-trMA.Synaxarion.narration1.p04.incipit = tr.d001_en_US_dedes.trMA.Synaxarion.narration1.p04.incipit
 trMA.Synaxarion.narration1.p04.text = tr.d001_en_US_dedes.trMA.Synaxarion.narration1.p04.text
-trMA.Synaxarion.narration1.p05.incipit = tr.d001_en_US_dedes.trMA.Synaxarion.narration1.p05.incipit
 trMA.Synaxarion.narration1.p05.text = tr.d001_en_US_dedes.trMA.Synaxarion.narration1.p05.text
-trMA.Synaxarion.narration1.p06.incipit = tr.d001_en_US_dedes.trMA.Synaxarion.narration1.p06.incipit
 trMA.Synaxarion.narration1.p06.text = tr.d001_en_US_dedes.trMA.Synaxarion.narration1.p06.text
-trMA.Synaxarion.narration1.p07.incipit = tr.d001_en_US_dedes.trMA.Synaxarion.narration1.p07.incipit
 trMA.Synaxarion.narration1.p07.text = tr.d001_en_US_dedes.trMA.Synaxarion.narration1.p07.text
-trMA.Synaxarion.narration2.p01.incipit = tr.d001_en_US_dedes.trMA.Synaxarion.narration2.p01.incipit
 trMA.Synaxarion.narration2.p01.text = tr.d001_en_US_dedes.trMA.Synaxarion.narration2.p01.text
-trMA.Synaxarion.narration2.p02.incipit = tr.d001_en_US_dedes.trMA.Synaxarion.narration2.p02.incipit
 trMA.Synaxarion.narration2.p02.text = tr.d001_en_US_dedes.trMA.Synaxarion.narration2.p02.text
-trMA.Synaxarion.narration2.p03.incipit = tr.d001_en_US_dedes.trMA.Synaxarion.narration2.p03.incipit
 trMA.Synaxarion.narration2.p03.text = tr.d001_en_US_dedes.trMA.Synaxarion.narration2.p03.text
-trMA.Synaxarion.narration2.p04.incipit = tr.d001_en_US_dedes.trMA.Synaxarion.narration2.p04.incipit
 trMA.Synaxarion.narration2.p04.text = tr.d001_en_US_dedes.trMA.Synaxarion.narration2.p04.text
-trMA.Synaxarion.narration2.p05.incipit = tr.d001_en_US_dedes.trMA.Synaxarion.narration2.p05.incipit
 trMA.Synaxarion.narration2.p05.text = tr.d001_en_US_dedes.trMA.Synaxarion.narration2.p05.text
-trMA.Synaxarion.narration2.p06.incipit = tr.d001_en_US_dedes.trMA.Synaxarion.narration2.p06.incipit
 trMA.Synaxarion.narration2.p06.text = tr.d001_en_US_dedes.trMA.Synaxarion.narration2.p06.text
-trMA.Synaxarion.narration2.p07.incipit = tr.d001_en_US_dedes.trMA.Synaxarion.narration2.p07.incipit
 trMA.Synaxarion.narration2.p07.text = tr.d001_en_US_dedes.trMA.Synaxarion.narration2.p07.text
-trMA.Synaxarion.lastline.incipit = tr.d001_en_US_dedes.trMA.Synaxarion.lastline.incipit
 trMA.Synaxarion.lastline.text = tr.d001_en_US_dedes.trMA.Synaxarion.lastline.text
 
 trMA.Ode7C11.ode = tr.d001_en_US_dedes.trMA.Ode7C11.ode
@@ -459,9 +437,7 @@ trMA.Lauds4.melody = tr.d001_en_US_dedes.trMA.Lauds4.melody
 trMA.Lauds4.incipit = tr.d001_en_US_duvall.trMA.Lauds4.incipit
 trMA.Lauds4.text = tr.d001_en_US_duvall.trMA.Lauds4.text
 
-trMA.MM.Lauds12as45.incipit = tr.d001_en_US_duvall.trMA.MM.Lauds12as45.incipit
 trMA.MM.Lauds12as45.text = tr.d001_en_US_duvall.trMA.MM.Lauds12as45.text
-trMA.MM.Lauds123as345.incipit = tr.d001_en_US_duvall.trMA.MM.Lauds123as345.incipit
 trMA.MM.Lauds123as345.text = tr.d001_en_US_duvall.trMA.MM.Lauds123as345.text
 
 trMA.LaudsGlory.mode = tr.d001_en_US_dedes.trMA.LaudsGlory.mode
@@ -481,5 +457,4 @@ trLI.Kontakion1.text = tr.d001_en_US_dedes.trLI.Kontakion1.text
 
 trLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
-trMegalynarion.incipit = tr.d001_en_US_dedes.trMegalynarion.incipit
 trMegalynarion.text = tr.d001_en_US_dedes.trMegalynarion.text

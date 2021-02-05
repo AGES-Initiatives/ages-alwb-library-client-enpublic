@@ -1,11 +1,9 @@
 A_Resource_Whose_Name = pe.d119_en_US_public
 
 peCommemoration.text = pe.d119_en_US_dedes.peCommemoration.text // full title of day
-peShortCommemoration1.incipit = pe.d119_en_US_dedes.peShortCommemoration1.incipit
 peShortCommemoration1.text = pe.d119_en_US_dedes.peShortCommemoration1.text
 peInsert1 = pe.d119_en_US_dedes.peInsert1 // for use in petitions and dismissal
 peInsert2 = pe.d119_en_US_dedes.peInsert2 // for use in petitions and dismissal
-peNote.incipit = pe.d119_en_US_dedes.peNote.incipit
 peNote.text = pe.d119_en_US_dedes.peNote.text
 peHO.daytitle = pe.d119_en_US_dedes.peHO.daytitle
 peHO.commemorations = pe.d119_en_US_dedes.peHO.commemorations
@@ -302,40 +300,23 @@ peMA.Kontakion1.melody = pe.d119_en_US_dedes.peMA.Kontakion1.melody
 peMA.Kontakion1.incipit = pe.d119_en_US_dedes.peMA.Kontakion1.incipit
 peMA.Kontakion1.text = pe.d119_en_US_dedes.peMA.Kontakion1.text
 
-peMA.Oikos1.incipit = pe.d119_en_US_dedes.peMA.Oikos1.incipit
 peMA.Oikos1.text = pe.d119_en_US_dedes.peMA.Oikos1.text
 
-peMA.Synaxarion.commemoration.incipit = pe.d119_en_US_dedes.peMA.Synaxarion.commemoration.incipit
 peMA.Synaxarion.commemoration.text = pe.d119_en_US_dedes.peMA.Synaxarion.commemoration.text
-peMA.Synaxarion.narration1.p01.incipit = pe.d119_en_US_dedes.peMA.Synaxarion.narration1.p01.incipit
 peMA.Synaxarion.narration1.p01.text = pe.d119_en_US_dedes.peMA.Synaxarion.narration1.p01.text
-peMA.Synaxarion.narration1.p02.incipit = pe.d119_en_US_dedes.peMA.Synaxarion.narration1.p02.incipit
 peMA.Synaxarion.narration1.p02.text = pe.d119_en_US_dedes.peMA.Synaxarion.narration1.p02.text
-peMA.Synaxarion.narration1.p03.incipit = pe.d119_en_US_dedes.peMA.Synaxarion.narration1.p03.incipit
 peMA.Synaxarion.narration1.p03.text = pe.d119_en_US_dedes.peMA.Synaxarion.narration1.p03.text
-peMA.Synaxarion.narration1.p04.incipit = pe.d119_en_US_dedes.peMA.Synaxarion.narration1.p04.incipit
 peMA.Synaxarion.narration1.p04.text = pe.d119_en_US_dedes.peMA.Synaxarion.narration1.p04.text
-peMA.Synaxarion.narration1.p05.incipit = pe.d119_en_US_dedes.peMA.Synaxarion.narration1.p05.incipit
 peMA.Synaxarion.narration1.p05.text = pe.d119_en_US_dedes.peMA.Synaxarion.narration1.p05.text
-peMA.Synaxarion.narration1.p06.incipit = pe.d119_en_US_dedes.peMA.Synaxarion.narration1.p06.incipit
 peMA.Synaxarion.narration1.p06.text = pe.d119_en_US_dedes.peMA.Synaxarion.narration1.p06.text
-peMA.Synaxarion.narration1.p07.incipit = pe.d119_en_US_dedes.peMA.Synaxarion.narration1.p07.incipit
 peMA.Synaxarion.narration1.p07.text = pe.d119_en_US_dedes.peMA.Synaxarion.narration1.p07.text
-peMA.Synaxarion.narration2.p01.incipit = pe.d119_en_US_dedes.peMA.Synaxarion.narration2.p01.incipit
 peMA.Synaxarion.narration2.p01.text = pe.d119_en_US_dedes.peMA.Synaxarion.narration2.p01.text
-peMA.Synaxarion.narration2.p02.incipit = pe.d119_en_US_dedes.peMA.Synaxarion.narration2.p02.incipit
 peMA.Synaxarion.narration2.p02.text = pe.d119_en_US_dedes.peMA.Synaxarion.narration2.p02.text
-peMA.Synaxarion.narration2.p03.incipit = pe.d119_en_US_dedes.peMA.Synaxarion.narration2.p03.incipit
 peMA.Synaxarion.narration2.p03.text = pe.d119_en_US_dedes.peMA.Synaxarion.narration2.p03.text
-peMA.Synaxarion.narration2.p04.incipit = pe.d119_en_US_dedes.peMA.Synaxarion.narration2.p04.incipit
 peMA.Synaxarion.narration2.p04.text = pe.d119_en_US_dedes.peMA.Synaxarion.narration2.p04.text
-peMA.Synaxarion.narration2.p05.incipit = pe.d119_en_US_dedes.peMA.Synaxarion.narration2.p05.incipit
 peMA.Synaxarion.narration2.p05.text = pe.d119_en_US_dedes.peMA.Synaxarion.narration2.p05.text
-peMA.Synaxarion.narration2.p06.incipit = pe.d119_en_US_dedes.peMA.Synaxarion.narration2.p06.incipit
 peMA.Synaxarion.narration2.p06.text = pe.d119_en_US_dedes.peMA.Synaxarion.narration2.p06.text
-peMA.Synaxarion.narration2.p07.incipit = pe.d119_en_US_dedes.peMA.Synaxarion.narration2.p07.incipit
 peMA.Synaxarion.narration2.p07.text = pe.d119_en_US_dedes.peMA.Synaxarion.narration2.p07.text
-peMA.Synaxarion.lastline.incipit = pe.d119_en_US_dedes.peMA.Synaxarion.lastline.incipit
 peMA.Synaxarion.lastline.text = pe.d119_en_US_dedes.peMA.Synaxarion.lastline.text
 
 peMA.Ode7C1H.ode = pe.d119_en_US_dedes.peMA.Ode7C1H.ode
@@ -495,5 +476,4 @@ peMA.AposTheotokion.text = pe.d119_en_US_dedes.peMA.AposTheotokion.text
 
 peLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
-peMegalynarion.incipit = pe.d119_en_US_dedes.peMegalynarion.incipit
 peMegalynarion.text = pe.d119_en_US_dedes.peMegalynarion.text

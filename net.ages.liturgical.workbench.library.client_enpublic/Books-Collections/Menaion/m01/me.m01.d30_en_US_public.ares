@@ -2,13 +2,11 @@ A_Resource_Whose_Name = me.m01.d30_en_US_public
 
 meDate.text = me.m01.d30_en_US_dedes.meDate.text // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = me.m01.d30_en_US_dedes.meCommemoration.text // full title of day
-meShortCommemoration1.incipit = me.m01.d30_en_US_dedes.meShortCommemoration1.incipit
 meShortCommemoration1.text = me.m01.d30_en_US_dedes.meShortCommemoration1.text
 meCom1.title = me.m01.d30_en_US_dedes.meCom1.title
 meCom2.title = me.m01.d30_en_US_dedes.meCom2.title
 meInsert1 = me.m01.d30_en_US_dedes.meInsert1 // for use in petitions and dismissal
 meInsert2 = me.m01.d30_en_US_dedes.meInsert2 // for use in petitions and dismissal
-meNote.incipit = me.m01.d30_en_US_dedes.meNote.incipit
 meNote.text = me.m01.d30_en_US_dedes.meNote.text
 meLE.commemoration1 = me.m01.d30_en_US_dedes.meLE.commemoration1
 meLE.commemoration2 = me.m01.d30_en_US_dedes.meLE.commemoration2
@@ -656,7 +654,6 @@ meMA.Kontakion1.melody = me.m01.d30_en_US_dedes.meMA.Kontakion1.melody
 meMA.Kontakion1.incipit = me.m01.d30_en_US_dedes.meMA.Kontakion1.incipit
 meMA.Kontakion1.text = me.m01.d30_en_US_dedes.meMA.Kontakion1.text
 
-meMA.Oikos1.incipit = me.m01.d30_en_US_dedes.meMA.Oikos1.incipit
 meMA.Oikos1.text = me.m01.d30_en_US_dedes.meMA.Oikos1.text
 
 meMA.Ode7C1H.ode = me.m01.d30_en_US_dedes.meMA.Ode7C1H.ode
@@ -810,21 +807,29 @@ meMA.Ode8C3T.incipit = me.m01.d30_en_US_oca.meMA.Ode8C3T.incipit
 meMA.Ode8C3T.text = me.m01.d30_en_US_oca.meMA.Ode8C3T.text
 
 meMA.Ode9C2M01.incipit = me.m01.d30_en_US_dedes.meMA.Ode9C2M01.incipit
+meMA.Ode9C2M01.incipit = ""
 meMA.Ode9C2M01.text = me.m01.d30_en_US_dedes.meMA.Ode9C2M01.text
 meMA.Ode9C2M02.incipit = me.m01.d30_en_US_dedes.meMA.Ode9C2M02.incipit
+meMA.Ode9C2M02.incipit = ""
 meMA.Ode9C2M02.text = me.m01.d30_en_US_dedes.meMA.Ode9C2M02.text
 meMA.Ode9C2M03.incipit = me.m01.d30_en_US_dedes.meMA.Ode9C2M03.incipit
+meMA.Ode9C2M03.incipit = ""
 meMA.Ode9C2M03.text = me.m01.d30_en_US_dedes.meMA.Ode9C2M03.text
 meMA.Ode9C2MTh.incipit = me.m01.d30_en_US_dedes.meMA.Ode9C2MTh.incipit
+meMA.Ode9C2MTh.incipit = ""
 meMA.Ode9C2MTh.text = me.m01.d30_en_US_dedes.meMA.Ode9C2MTh.text
 
 meMA.Ode9C3M01.incipit = me.m01.d30_en_US_dedes.meMA.Ode9C3M01.incipit
+meMA.Ode9C3M01.incipit = ""
 meMA.Ode9C3M01.text = me.m01.d30_en_US_dedes.meMA.Ode9C3M01.text
 meMA.Ode9C3M02.incipit = me.m01.d30_en_US_dedes.meMA.Ode9C3M02.incipit
+meMA.Ode9C3M02.incipit = ""
 meMA.Ode9C3M02.text = me.m01.d30_en_US_dedes.meMA.Ode9C3M02.text
 meMA.Ode9C3MTr.incipit = me.m01.d30_en_US_dedes.meMA.Ode9C3MTr.incipit
+meMA.Ode9C3MTr.incipit = ""
 meMA.Ode9C3MTr.text = me.m01.d30_en_US_dedes.meMA.Ode9C3MTr.text
 meMA.Ode9C3MTh.incipit = me.m01.d30_en_US_dedes.meMA.Ode9C3MTh.incipit
+meMA.Ode9C3MTh.incipit = ""
 meMA.Ode9C3MTh.text = me.m01.d30_en_US_dedes.meMA.Ode9C3MTh.text
 
 meMA.Ode9C1H.ode = me.m01.d30_en_US_dedes.meMA.Ode9C1H.ode
@@ -950,7 +955,6 @@ meMA.LaudsBoth.melody = me.m01.d30_en_US_dedes.meMA.LaudsBoth.melody
 meMA.LaudsBoth.incipit = me.m01.d30_en_US_dedes.meMA.LaudsBoth.incipit
 meMA.LaudsBoth.text = me.m01.d30_en_US_dedes.meMA.LaudsBoth.text
 
-meMA.MM.Lauds1234as5678.incipit = me.m01.d30_en_US_dedes.meMA.MM.Lauds1234as5678.incipit
 meMA.MM.Lauds1234as5678.text = me.m01.d30_en_US_dedes.meMA.MM.Lauds1234as5678.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
@@ -960,18 +964,15 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
-meMegalynarion.incipit = me.m01.d30_en_US_dedes.meMegalynarion.incipit
 meMegalynarion.text = me.m01.d30_en_US_dedes.meMegalynarion.text
 
 alt1.meDate.text = me.m01.d30_en_US_dedes.alt1.meDate.text // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt1.meCommemoration.text = me.m01.d30_en_US_dedes.alt1.meCommemoration.text // full title of day
-alt1.meShortCommemoration1.incipit = me.m01.d30_en_US_dedes.alt1.meShortCommemoration1.incipit
 alt1.meShortCommemoration1.text = me.m01.d30_en_US_dedes.alt1.meShortCommemoration1.text
 alt1.meCom1.title = ""
 alt1.meCom2.title = ""
 alt1.meInsert1 = me.m01.d30_en_US_dedes.alt1.meInsert1 // for use in petitions and dismissal
 alt1.meInsert2 = me.m01.d30_en_US_dedes.alt1.meInsert2 // for use in petitions and dismissal
-alt1.meNote.incipit = me.m01.d30_en_US_dedes.alt1.meNote.incipit
 alt1.meNote.text = me.m01.d30_en_US_dedes.alt1.meNote.text
 alt1.meLE.commemoration1 = ""
 alt1.meLE.commemoration2 = ""

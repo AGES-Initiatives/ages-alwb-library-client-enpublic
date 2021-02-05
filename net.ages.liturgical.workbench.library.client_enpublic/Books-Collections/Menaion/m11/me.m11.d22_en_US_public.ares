@@ -1,15 +1,12 @@
 A_Resource_Whose_Name = me.m11.d22_en_US_public
 
-meDate.incipit = me.m11.d22_en_US_dedes.meDate.incipit
 meDate.text = me.m11.d22_en_US_dedes.meDate.text
 meCommemoration.text = me.m11.d22_en_US_dedes.meCommemoration.text // full title of day
-meShortCommemoration1.incipit = me.m11.d22_en_US_dedes.meShortCommemoration1.incipit
 meShortCommemoration1.text = me.m11.d22_en_US_dedes.meShortCommemoration1.text
 meCom1.title = me.m11.d22_en_US_dedes.meCom1.title
 meCom2.title = me.m11.d22_en_US_dedes.meCom2.title
 meInsert1 = me.m11.d22_en_US_dedes.meInsert1 // for use in petitions and dismissal
 meInsert2 = me.m11.d22_en_US_dedes.meInsert2 // for use in petitions and dismissal
-meNote.incipit = me.m11.d22_en_US_dedes.meNote.incipit
 meNote.text = me.m11.d22_en_US_dedes.meNote.text
 meLE.commemoration1 = me.m11.d22_en_US_dedes.meLE.commemoration1
 meLE.commemoration2 = me.m11.d22_en_US_dedes.meLE.commemoration2
@@ -395,7 +392,6 @@ meMA.Kontakion1.melody = me.m11.d22_en_US_dedes.meMA.Kontakion1.melody
 meMA.Kontakion1.incipit = me.m11.d22_en_US_dedes.meMA.Kontakion1.incipit
 meMA.Kontakion1.text = me.m11.d22_en_US_dedes.meMA.Kontakion1.text
 
-meMA.Oikos1.incipit = me.m11.d22_en_US_dedes.meMA.Oikos1.incipit
 meMA.Oikos1.text = me.m11.d22_en_US_dedes.meMA.Oikos1.text
 
 meMA.Ode7C11.ode = me.m11.d22_en_US_dedes.meMA.Ode7C11.ode
@@ -627,23 +623,17 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
-meMegalynarion.incipit = me.m11.d22_en_US_dedes.meMegalynarion.incipit
 meMegalynarion.text = me.m11.d22_en_US_dedes.meMegalynarion.text
-
 
 //__________________
 
-alt1.meDate.incipit = me.m11.d22_en_US_dedes.alt1.meDate.incipit
 alt1.meDate.text = me.m11.d22_en_US_dedes.alt1.meDate.text
-alt1.meCommemoration.incipit = me.m11.d22_en_US_dedes.alt1.meCommemoration.incipit
 alt1.meCommemoration.text = me.m11.d22_en_US_dedes.alt1.meCommemoration.text
-alt1.meShortCommemoration1.incipit = me.m11.d22_en_US_dedes.alt1.meShortCommemoration1.incipit
 alt1.meShortCommemoration1.text = me.m11.d22_en_US_dedes.alt1.meShortCommemoration1.text
 alt1.meCom1.title = ""
 alt1.meCom2.title = ""
 alt1.meInsert1 = me.m11.d22_en_US_dedes.alt1.meInsert1
 alt1.meInsert2 = me.m11.d22_en_US_dedes.alt1.meInsert2
-alt1.meNote.incipit = me.m11.d22_en_US_dedes.alt1.meNote.incipit
 alt1.meNote.text = me.m11.d22_en_US_dedes.alt1.meNote.text
 alt1.meLE.commemoration1 = me.m11.d22_en_US_dedes.alt1.meLE.commemoration1
 alt1.meLE.commemoration2 = me.m11.d22_en_US_dedes.alt1.meLE.commemoration2
@@ -850,7 +840,6 @@ alt1.meMA.Kathisma32.melody = me.m11.d22_en_US_dedes.alt1.meMA.Kathisma32.melody
 alt1.meMA.Kathisma32.incipit = me.m11.d22_en_US_dedes.alt1.meMA.Kathisma32.incipit
 alt1.meMA.Kathisma32.text = me.m11.d22_en_US_dedes.alt1.meMA.Kathisma32.text
 
-alt1.meMA.MM.Prokeimenon.incipit = me.m11.d22_en_US_dedes.alt1.meMA.MM.Prokeimenon.incipit
 alt1.meMA.MM.Prokeimenon.text = me.m11.d22_en_US_dedes.alt1.meMA.MM.Prokeimenon.text
 
 alt1.meMA.PostGospelGlory.mode = me.m11.d22_en_US_dedes.alt1.meMA.PostGospelGlory.mode
@@ -1135,7 +1124,6 @@ alt1.meMA.Kontakion1.melody = me.m11.d22_en_US_dedes.alt1.meMA.Kontakion1.melody
 alt1.meMA.Kontakion1.incipit = me.m11.d22_en_US_dedes.alt1.meMA.Kontakion1.incipit
 alt1.meMA.Kontakion1.text = me.m11.d22_en_US_dedes.alt1.meMA.Kontakion1.text
 
-alt1.meMA.Oikos1.incipit = me.m11.d22_en_US_dedes.alt1.meMA.Oikos1.incipit
 alt1.meMA.Oikos1.text = me.m11.d22_en_US_dedes.alt1.meMA.Oikos1.text
 
 alt1.meMA.Ode7C11.ode = me.m11.d22_en_US_dedes.alt1.meMA.Ode7C11.ode
@@ -1327,50 +1315,27 @@ alt1.meLI.Kontakion1.melody = me.m11.d22_en_US_dedes.alt1.meLI.Kontakion1.melody
 alt1.meLI.Kontakion1.incipit = me.m11.d22_en_US_dedes.alt1.meLI.Kontakion1.incipit
 alt1.meLI.Kontakion1.text = me.m11.d22_en_US_dedes.alt1.meLI.Kontakion1.text
 
-alt1.meMegalynarion.incipit = me.m11.d22_en_US_dedes.alt1.meMegalynarion.incipit
 alt1.meMegalynarion.text = me.m11.d22_en_US_dedes.alt1.meMegalynarion.text
 
-alt1.meSV.publication.stichera.incipit = me.m11.d22_en_US_dedes.alt1.meSV.publication.stichera.incipit
 alt1.meSV.publication.stichera.text = me.m11.d22_en_US_dedes.alt1.meSV.publication.stichera.text
-alt1.meSV.publication.aposticha.incipit = me.m11.d22_en_US_dedes.alt1.meSV.publication.aposticha.incipit
 alt1.meSV.publication.aposticha.text = me.m11.d22_en_US_dedes.alt1.meSV.publication.aposticha.text
-alt1.meVE.publication.introduction.incipit = me.m11.d22_en_US_dedes.alt1.meVE.publication.introduction.incipit
 alt1.meVE.publication.introduction.text = me.m11.d22_en_US_dedes.alt1.meVE.publication.introduction.text
-alt1.meVE.publication.stichera.incipit = me.m11.d22_en_US_dedes.alt1.meVE.publication.stichera.incipit
 alt1.meVE.publication.stichera.text = me.m11.d22_en_US_dedes.alt1.meVE.publication.stichera.text
-alt1.meVE.publication.middle1.incipit = me.m11.d22_en_US_dedes.alt1.meVE.publication.middle1.incipit
 alt1.meVE.publication.middle1.text = me.m11.d22_en_US_dedes.alt1.meVE.publication.middle1.text
-alt1.meVE.publication.lity.incipit = me.m11.d22_en_US_dedes.alt1.meVE.publication.lity.incipit
 alt1.meVE.publication.lity.text = me.m11.d22_en_US_dedes.alt1.meVE.publication.lity.text
-alt1.meVE.publication.aposticha.incipit = me.m11.d22_en_US_dedes.alt1.meVE.publication.aposticha.incipit
 alt1.meVE.publication.aposticha.text = me.m11.d22_en_US_dedes.alt1.meVE.publication.aposticha.text
-alt1.meVE.publication.symeon.incipit = me.m11.d22_en_US_dedes.alt1.meVE.publication.symeon.incipit
 alt1.meVE.publication.symeon.text = me.m11.d22_en_US_dedes.alt1.meVE.publication.symeon.text
-alt1.meVE.publication.apolytikion3.incipit = me.m11.d22_en_US_dedes.alt1.meVE.publication.apolytikion3.incipit
 alt1.meVE.publication.apolytikion3.text = me.m11.d22_en_US_dedes.alt1.meVE.publication.apolytikion3.text
-alt1.meMA.publication.kathisma1.incipit = me.m11.d22_en_US_dedes.alt1.meMA.publication.kathisma1.incipit
 alt1.meMA.publication.kathisma1.text = me.m11.d22_en_US_dedes.alt1.meMA.publication.kathisma1.text
-alt1.meMA.publication.kathisma2.incipit = me.m11.d22_en_US_dedes.alt1.meMA.publication.kathisma2.incipit
 alt1.meMA.publication.kathisma2.text = me.m11.d22_en_US_dedes.alt1.meMA.publication.kathisma2.text
-alt1.meMA.publication.polyeleos.incipit = me.m11.d22_en_US_dedes.alt1.meMA.publication.polyeleos.incipit
 alt1.meMA.publication.polyeleos.text = me.m11.d22_en_US_dedes.alt1.meMA.publication.polyeleos.text
-alt1.meMA.publication.antiphon.incipit = me.m11.d22_en_US_dedes.alt1.meMA.publication.antiphon.incipit
 alt1.meMA.publication.antiphon.text = me.m11.d22_en_US_dedes.alt1.meMA.publication.antiphon.text
-alt1.meMA.publication.gospel.incipit = me.m11.d22_en_US_dedes.alt1.meMA.publication.gospel.incipit
 alt1.meMA.publication.gospel.text = me.m11.d22_en_US_dedes.alt1.meMA.publication.gospel.text
-alt1.meMA.publication.gospel_1.incipit = me.m11.d22_en_US_dedes.alt1.meMA.publication.gospel_1.incipit
 alt1.meMA.publication.gospel_1.text = me.m11.d22_en_US_dedes.alt1.meMA.publication.gospel_1.text
-alt1.meMA.publication.gospel_2.incipit = me.m11.d22_en_US_dedes.alt1.meMA.publication.gospel_2.incipit
 alt1.meMA.publication.gospel_2.text = me.m11.d22_en_US_dedes.alt1.meMA.publication.gospel_2.text
-alt1.meMA.publication.gospel_3.incipit = me.m11.d22_en_US_dedes.alt1.meMA.publication.gospel_3.incipit
 alt1.meMA.publication.gospel_3.text = me.m11.d22_en_US_dedes.alt1.meMA.publication.gospel_3.text
-alt1.meMA.publication.canons.incipit = me.m11.d22_en_US_dedes.alt1.meMA.publication.canons.incipit
 alt1.meMA.publication.canons.text = me.m11.d22_en_US_dedes.alt1.meMA.publication.canons.text
-alt1.meMA.publication.lauds.incipit = me.m11.d22_en_US_dedes.alt1.meMA.publication.lauds.incipit
 alt1.meMA.publication.lauds.text = me.m11.d22_en_US_dedes.alt1.meMA.publication.lauds.text
-alt1.meMA.publication.doxology.incipit = me.m11.d22_en_US_dedes.alt1.meMA.publication.doxology.incipit
 alt1.meMA.publication.doxology.text = me.m11.d22_en_US_dedes.alt1.meMA.publication.doxology.text
-alt1.meLI.publication.typika.incipit = me.m11.d22_en_US_dedes.alt1.meLI.publication.typika.incipit
 alt1.meLI.publication.typika.text = me.m11.d22_en_US_dedes.alt1.meLI.publication.typika.text
-alt1.meLI.publication.bible.incipit = me.m11.d22_en_US_dedes.alt1.meLI.publication.bible.incipit
 alt1.meLI.publication.bible.text = me.m11.d22_en_US_dedes.alt1.meLI.publication.bible.text

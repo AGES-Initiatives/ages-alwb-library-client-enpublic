@@ -263,18 +263,6 @@ hoCA.Kontakion.text = ho.s24_en_US_dedes.hoCA.Kontakion.text
 //First Antiphon Mode 4
 
 //R11
-hoCA.Prokeimenon.incipit = ho.s24_en_US_dedes.hoCA.Prokeimenon.incipit
-hoCA.Prokeimenon.text = ho.s24_en_US_dedes.hoCA.Prokeimenon.text
-
-hoCA.ProkVerse.incipit = ho.s24_en_US_dedes.hoCA.ProkVerse.incipit
-hoCA.ProkVerse.text = ho.s24_en_US_dedes.hoCA.ProkVerse.text
-
-//Gospel
-
-hoCA.Gospel.name = ho.s24_en_US_dedes.hoCA.Gospel.name
-hoCA.Gospel.chapverse = ho.s24_en_US_dedes.hoCA.Gospel.chapverse
-hoCA.Gospel.incipit = ho.s24_en_US_dedes.hoCA.Gospel.incipit
-hoCA.Gospel.text = ho.s24_en_US_dedes.hoCA.Gospel.text
 
 //R12 ""
 hoCA.PostGospelGlory.mode = ho.s24_en_US_dedes.hoCA.PostGospelGlory.mode
@@ -287,7 +275,6 @@ hoCA.PostGospelBoth.melody = ho.s24_en_US_dedes.hoCA.PostGospelBoth.melody
 hoCA.PostGospelBoth.incipit = ho.s24_en_US_dedes.hoCA.PostGospelBoth.incipit
 hoCA.PostGospelBoth.text = ho.s24_en_US_dedes.hoCA.PostGospelBoth.text
 
-hoCA.PostGospelVerse.incipit = ho.s24_en_US_dedes.hoCA.PostGospelVerse.incipit
 hoCA.PostGospelVerse.text = ho.s24_en_US_dedes.hoCA.PostGospelVerse.text
 
 hoCA.PostGospelHymn1.mode = ho.s24_en_US_dedes.hoCA.PostGospelHymn1.mode
@@ -432,7 +419,7 @@ hoCA.Troparion92.text = ho.s24_en_US_dedes.hoCA.Troparion92.text
 
 //R14
 
-hoCA.Meg00.incipit = ho.s24_en_US_dedes.hoCA.Meg00.incipit
+hoCA.Meg00.incipit = ""
 hoCA.Meg00.text = ho.s24_en_US_dedes.hoCA.Meg00.text
 hoCA.Meg01.melody = ho.s24_en_US_dedes.hoCA.Meg01.melody
 hoCA.Meg01.incipit = ho.s24_en_US_dedes.hoCA.Meg01.incipit

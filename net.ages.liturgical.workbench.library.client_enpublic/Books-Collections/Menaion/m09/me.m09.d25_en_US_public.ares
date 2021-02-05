@@ -1,15 +1,12 @@
 A_Resource_Whose_Name = me.m09.d25_en_US_public
 
-meDate.incipit = me.m09.d25_en_US_dedes.meDate.incipit
 meDate.text = me.m09.d25_en_US_dedes.meDate.text
 meCommemoration.text = me.m09.d25_en_US_dedes.meCommemoration.text // full title of day
-meShortCommemoration1.incipit = me.m09.d25_en_US_dedes.meShortCommemoration1.incipit
 meShortCommemoration1.text = me.m09.d25_en_US_dedes.meShortCommemoration1.text
 meCom1.title = me.m09.d25_en_US_dedes.meCom1.title
 meCom2.title = me.m09.d25_en_US_dedes.meCom2.title
 meInsert1 = me.m09.d25_en_US_dedes.meInsert1 // for use in petitions and dismissal
 meInsert2 = me.m09.d25_en_US_dedes.meInsert2 // for use in petitions and dismissal
-meNote.incipit = me.m09.d25_en_US_dedes.meNote.incipit
 meNote.text = me.m09.d25_en_US_dedes.meNote.text
 meLE.commemoration1 = me.m09.d25_en_US_dedes.meLE.commemoration1
 meLE.commemoration2 = me.m09.d25_en_US_dedes.meLE.commemoration2
@@ -34,7 +31,6 @@ meVE.Stichera03.melody = me.m09.d25_en_US_dedes.meVE.Stichera03.melody
 meVE.Stichera03.incipit = me.m09.d25_en_US_dedes.meVE.Stichera03.incipit
 meVE.Stichera03.text = me.m09.d25_en_US_dedes.meVE.Stichera03.text
 
-meVE.MM.Stichera1123as78910.incipit = me.m09.d25_en_US_dedes.meVE.MM.Stichera1123as78910.incipit
 meVE.MM.Stichera1123as78910.text = me.m09.d25_en_US_dedes.meVE.MM.Stichera1123as78910.text
 
 meVE.SticGlory.poet = me.m09.d25_en_US_dedes.meVE.SticGlory.poet
@@ -54,7 +50,6 @@ meVE.SticStavrotheotokion.incipit = me.m09.d25_en_US_dedes.meVE.SticStavrotheoto
 meVE.SticStavrotheotokion.text = me.m09.d25_en_US_dedes.meVE.SticStavrotheotokion.text
 
 meVE.GeneralApolytikion1.name = me.m09.d25_en_US_dedes.meVE.GeneralApolytikion1.name
-meVE.MM.GeneralApolytikion1.incipit = me.m09.d25_en_US_dedes.meVE.MM.GeneralApolytikion1.incipit
 meVE.MM.GeneralApolytikion1.text = me.m09.d25_en_US_dedes.meVE.MM.GeneralApolytikion1.text
 
 meVE.Apolytikion1.poet = me.m09.d25_en_US_dedes.meVE.Apolytikion1.poet
@@ -345,7 +340,6 @@ meMA.Kontakion1.melody = me.m09.d25_en_US_dedes.meMA.Kontakion1.melody
 meMA.Kontakion1.incipit = me.m09.d25_en_US_dedes.meMA.Kontakion1.incipit
 meMA.Kontakion1.text = me.m09.d25_en_US_dedes.meMA.Kontakion1.text
 
-meMA.Oikos1.incipit = me.m09.d25_en_US_dedes.meMA.Oikos1.incipit
 meMA.Oikos1.text = me.m09.d25_en_US_dedes.meMA.Oikos1.text
 
 meMA.Ode7C11.ode = me.m09.d25_en_US_dedes.meMA.Ode7C11.ode
@@ -525,5 +519,4 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
-meMegalynarion.incipit = me.m09.d25_en_US_dedes.meMegalynarion.incipit
 meMegalynarion.text = me.m09.d25_en_US_dedes.meMegalynarion.text

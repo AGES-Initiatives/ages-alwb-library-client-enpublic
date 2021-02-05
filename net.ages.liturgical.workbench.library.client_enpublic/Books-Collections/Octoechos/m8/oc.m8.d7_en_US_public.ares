@@ -589,7 +589,6 @@ ocMA.OdeW9C2T.melody = oc.m8.d7_en_US_dedes.ocMA.OdeW9C2T.melody
 ocMA.OdeW9C2T.incipit = oc.m8.d7_en_US_dedes.ocMA.OdeW9C2T.incipit
 ocMA.OdeW9C2T.text = oc.m8.d7_en_US_dedes.ocMA.OdeW9C2T.text
 
-ocMA.LaudsRubric1.incipit = oc.m8.d7_en_US_dedes.ocMA.LaudsRubric1.incipit
 ocMA.LaudsRubric1.text = oc.m8.d7_en_US_dedes.ocMA.LaudsRubric1.text
 
 ocMA.Lauds1.mode = oc.m8.d7_en_US_dedes.ocMA.Lauds1.mode
@@ -682,21 +681,14 @@ ocLI.BeatitudesT.melody = oc.m8.d7_en_US_dedes.ocLI.BeatitudesT.melody
 ocLI.BeatitudesT.incipit = oc.m8.d7_en_US_dedes.ocLI.BeatitudesT.incipit
 ocLI.BeatitudesT.text = oc.m8.d7_en_US_dedes.ocLI.BeatitudesT.text
 
-ocLI.MM.Beatitudes1234TrTas78910GB.incipit = oc.m8.d7_en_US_dedes.ocLI.MM.Beatitudes1234TrTas78910GB.incipit
 ocLI.MM.Beatitudes1234TrTas78910GB.text = oc.m8.d7_en_US_dedes.ocLI.MM.Beatitudes1234TrTas78910GB.text
 
 ocBK.end.title = oc.m8.d7_en_US_dedes.ocBK.end.title
-ocBK.end.verse1.incipit = oc.m8.d7_en_UK_lash.ocBK.end.verse1.incipit
 ocBK.end.verse1.text = oc.m8.d7_en_UK_lash.ocBK.end.verse1.text
-ocBK.end.verse2.incipit = oc.m8.d7_en_UK_lash.ocBK.end.verse2.incipit
 ocBK.end.verse2.text = oc.m8.d7_en_UK_lash.ocBK.end.verse2.text
-ocBK.end.verse3.incipit = oc.m8.d7_en_UK_lash.ocBK.end.verse3.incipit
 ocBK.end.verse3.text = oc.m8.d7_en_UK_lash.ocBK.end.verse3.text
-ocBK.end.verse4.incipit = oc.m8.d7_en_UK_lash.ocBK.end.verse4.incipit
 ocBK.end.verse4.text = oc.m8.d7_en_UK_lash.ocBK.end.verse4.text
-ocBK.end.verse5.incipit = oc.m8.d7_en_UK_lash.ocBK.end.verse5.incipit
 ocBK.end.verse5.text = oc.m8.d7_en_UK_lash.ocBK.end.verse5.text
-ocBK.end.verse6.incipit = oc.m8.d7_en_UK_lash.ocBK.end.verse6.incipit
 ocBK.end.verse6.text = oc.m8.d7_en_UK_lash.ocBK.end.verse6.text
 
 //Octoechos in Triodion

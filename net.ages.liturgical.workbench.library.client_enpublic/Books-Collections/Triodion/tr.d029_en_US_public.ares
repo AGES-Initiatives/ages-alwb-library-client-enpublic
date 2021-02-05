@@ -1,11 +1,9 @@
 A_Resource_Whose_Name = tr.d029_en_US_public
 
 trCommemoration.text = tr.d029_en_US_dedes.trCommemoration.text // full title of day
-trShortCommemoration1.incipit = tr.d029_en_US_dedes.trShortCommemoration1.incipit
 trShortCommemoration1.text = tr.d029_en_US_dedes.trShortCommemoration1.text
 trInsert1 = tr.d029_en_US_dedes.trInsert1 // for use in petitions and dismissal
 trInsert2 = tr.d029_en_US_dedes.trInsert2 // for use in petitions and dismissal
-trNote.incipit = tr.d029_en_US_dedes.trNote.incipit
 trNote.text = tr.d029_en_US_dedes.trNote.text
 trHO.daytitle = tr.d029_en_US_dedes.trHO.daytitle
 trHO.commemorations = tr.d029_en_US_dedes.trHO.commemorations
@@ -302,43 +300,26 @@ trMA.Kontakion1.melody = tr.d029_en_US_duvall.trMA.Kontakion1.melody
 trMA.Kontakion1.incipit = tr.d029_en_US_duvall.trMA.Kontakion1.incipit
 trMA.Kontakion1.text = tr.d029_en_US_duvall.trMA.Kontakion1.text
 
-trMA.Oikos1.incipit = tr.d029_en_US_duvall.trMA.Oikos1.incipit
 trMA.Oikos1.text = tr.d029_en_US_duvall.trMA.Oikos1.text
 
-trMA.Synaxarion.commemoration.incipit = tr.d029_en_US_dedes.trMA.Synaxarion.commemoration.incipit
 trMA.Synaxarion.commemoration.text = tr.d029_en_US_dedes.trMA.Synaxarion.commemoration.text
 trMA.Synaxarion.couplet1.title = tr.d029_en_US_dedes.trMA.Synaxarion.couplet1.title
 trMA.Synaxarion.couplet1.verse1 = tr.d029_en_US_dedes.trMA.Synaxarion.couplet1.verse1
 trMA.Synaxarion.couplet1.verse2 = tr.d029_en_US_dedes.trMA.Synaxarion.couplet1.verse2
-trMA.Synaxarion.narration1.p01.incipit = tr.d029_en_US_dedes.trMA.Synaxarion.narration1.p01.incipit
 trMA.Synaxarion.narration1.p01.text = tr.d029_en_US_dedes.trMA.Synaxarion.narration1.p01.text
-trMA.Synaxarion.narration1.p02.incipit = tr.d029_en_US_dedes.trMA.Synaxarion.narration1.p02.incipit
 trMA.Synaxarion.narration1.p02.text = tr.d029_en_US_dedes.trMA.Synaxarion.narration1.p02.text
-trMA.Synaxarion.narration1.p03.incipit = tr.d029_en_US_dedes.trMA.Synaxarion.narration1.p03.incipit
 trMA.Synaxarion.narration1.p03.text = tr.d029_en_US_dedes.trMA.Synaxarion.narration1.p03.text
-trMA.Synaxarion.narration1.p04.incipit = tr.d029_en_US_dedes.trMA.Synaxarion.narration1.p04.incipit
 trMA.Synaxarion.narration1.p04.text = tr.d029_en_US_dedes.trMA.Synaxarion.narration1.p04.text
-trMA.Synaxarion.narration1.p05.incipit = tr.d029_en_US_dedes.trMA.Synaxarion.narration1.p05.incipit
 trMA.Synaxarion.narration1.p05.text = tr.d029_en_US_dedes.trMA.Synaxarion.narration1.p05.text
-trMA.Synaxarion.narration1.p06.incipit = tr.d029_en_US_dedes.trMA.Synaxarion.narration1.p06.incipit
 trMA.Synaxarion.narration1.p06.text = tr.d029_en_US_dedes.trMA.Synaxarion.narration1.p06.text
-trMA.Synaxarion.narration1.p07.incipit = tr.d029_en_US_dedes.trMA.Synaxarion.narration1.p07.incipit
 trMA.Synaxarion.narration1.p07.text = tr.d029_en_US_dedes.trMA.Synaxarion.narration1.p07.text
-trMA.Synaxarion.narration2.p01.incipit = tr.d029_en_US_dedes.trMA.Synaxarion.narration2.p01.incipit
 trMA.Synaxarion.narration2.p01.text = tr.d029_en_US_dedes.trMA.Synaxarion.narration2.p01.text
-trMA.Synaxarion.narration2.p02.incipit = tr.d029_en_US_dedes.trMA.Synaxarion.narration2.p02.incipit
 trMA.Synaxarion.narration2.p02.text = tr.d029_en_US_dedes.trMA.Synaxarion.narration2.p02.text
-trMA.Synaxarion.narration2.p03.incipit = tr.d029_en_US_dedes.trMA.Synaxarion.narration2.p03.incipit
 trMA.Synaxarion.narration2.p03.text = tr.d029_en_US_dedes.trMA.Synaxarion.narration2.p03.text
-trMA.Synaxarion.narration2.p04.incipit = tr.d029_en_US_dedes.trMA.Synaxarion.narration2.p04.incipit
 trMA.Synaxarion.narration2.p04.text = tr.d029_en_US_dedes.trMA.Synaxarion.narration2.p04.text
-trMA.Synaxarion.narration2.p05.incipit = tr.d029_en_US_dedes.trMA.Synaxarion.narration2.p05.incipit
 trMA.Synaxarion.narration2.p05.text = tr.d029_en_US_dedes.trMA.Synaxarion.narration2.p05.text
-trMA.Synaxarion.narration2.p06.incipit = tr.d029_en_US_dedes.trMA.Synaxarion.narration2.p06.incipit
 trMA.Synaxarion.narration2.p06.text = tr.d029_en_US_dedes.trMA.Synaxarion.narration2.p06.text
-trMA.Synaxarion.narration2.p07.incipit = tr.d029_en_US_dedes.trMA.Synaxarion.narration2.p07.incipit
 trMA.Synaxarion.narration2.p07.text = tr.d029_en_US_dedes.trMA.Synaxarion.narration2.p07.text
-trMA.Synaxarion.lastline.incipit = tr.d029_en_US_dedes.trMA.Synaxarion.lastline.incipit
 trMA.Synaxarion.lastline.text = tr.d029_en_US_dedes.trMA.Synaxarion.lastline.text
 
 trMA.Ode7C11.ode = tr.d029_en_US_dedes.trMA.Ode7C11.ode
@@ -448,7 +429,6 @@ trMA.LaudsTheotokion.melody = tr.d029_en_US_dedes.trMA.LaudsTheotokion.melody
 trMA.LaudsTheotokion.incipit = tr.d029_en_US_dedes.trMA.LaudsTheotokion.incipit
 trMA.LaudsTheotokion.text = tr.d029_en_US_dedes.trMA.LaudsTheotokion.text
 
-trLI.Antiphon2.incipit = tr.d029_en_US_dedes.trLI.Antiphon2.incipit
 trLI.Antiphon2.text = tr.d029_en_US_dedes.trLI.Antiphon2.text
 
 trLI.MM.EntranceHymn.text = properties_en_US_public.media.key
@@ -462,7 +442,6 @@ trLI.TheotokosHymn.mode = tr.d029_en_US_dedes.trLI.TheotokosHymn.mode
 trLI.TheotokosHymn.incipit = tr.d029_en_US_dedes.trLI.TheotokosHymn.incipit
 trLI.TheotokosHymn.text = tr.d029_en_US_dedes.trLI.TheotokosHymn.text
 
-trMegalynarion.incipit = tr.d029_en_US_dedes.trMegalynarion.incipit
 trMegalynarion.text = tr.d029_en_US_dedes.trMegalynarion.text
 
 //Canon for procession
@@ -907,16 +886,10 @@ trCA.Troparion2.text = tr.d029_en_US_dedes.trCA.Troparion2.text
 
 tr.IconsProcession.title = tr.d029_en_US_dedes.tr.IconsProcession.title
 tr.Synodikon.title = tr.d029_en_US_dedes.tr.Synodikon.title
-tr.Synodikon1.incipit = tr.d029_en_US_dedes.tr.Synodikon1.incipit
 tr.Synodikon1.text = tr.d029_en_US_dedes.tr.Synodikon1.text
-tr.Synodikon2.incipit = tr.d029_en_US_dedes.tr.Synodikon2.incipit
 tr.Synodikon2.text = tr.d029_en_US_dedes.tr.Synodikon2.text
-tr.Synodikon3.incipit = tr.d029_en_US_dedes.tr.Synodikon3.incipit
 tr.Synodikon3.text = tr.d029_en_US_dedes.tr.Synodikon3.text
-tr.Synodikon4.incipit = tr.d029_en_US_dedes.tr.Synodikon4.incipit
 tr.Synodikon4.text = tr.d029_en_US_dedes.tr.Synodikon4.text
-tr.Synodikon5.incipit = tr.d029_en_US_dedes.tr.Synodikon5.incipit
 tr.Synodikon5.text = tr.d029_en_US_dedes.tr.Synodikon5.text
-tr.Synodikon6.incipit = tr.d029_en_US_dedes.tr.Synodikon6.incipit
 tr.Synodikon6.text = tr.d029_en_US_dedes.tr.Synodikon6.text
 

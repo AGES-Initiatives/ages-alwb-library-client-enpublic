@@ -2,13 +2,11 @@ A_Resource_Whose_Name = me.m02.d06_en_US_public
 
 meDate.text = me.m02.d06_en_US_dedes.meDate.text // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = me.m02.d06_en_US_dedes.meCommemoration.text // full title of day
-meShortCommemoration1.incipit = me.m02.d06_en_US_dedes.meShortCommemoration1.incipit
 meShortCommemoration1.text = me.m02.d06_en_US_dedes.meShortCommemoration1.text
 meCom1.title = me.m02.d06_en_US_dedes.meCom1.title
 meCom2.title = me.m02.d06_en_US_dedes.meCom2.title
 meInsert1 = me.m02.d06_en_US_dedes.meInsert1 // for use in petitions and dismissal
 meInsert2 = me.m02.d06_en_US_dedes.meInsert2 // for use in petitions and dismissal
-meNote.incipit = me.m02.d06_en_US_dedes.meNote.incipit
 meNote.text = me.m02.d06_en_US_dedes.meNote.text
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
@@ -397,7 +395,6 @@ meMA.AposGlory.melody = me.m02.d06_en_US_dedes.meMA.AposGlory.melody
 meMA.AposGlory.incipit = me.m02.d06_en_US_dedes.meMA.AposGlory.incipit
 meMA.AposGlory.text = me.m02.d06_en_US_dedes.meMA.AposGlory.text
 
-meLI.Antiphon2.incipit = me.m02.d06_en_US_dedes.meLI.Antiphon2.incipit
 meLI.Antiphon2.text = me.m02.d06_en_US_dedes.meLI.Antiphon2.text
 
 meLI.Kontakion1.mode = ""
@@ -405,7 +402,6 @@ meLI.Kontakion1.melody = ""
 meLI.Kontakion1.incipit = ""
 meLI.Kontakion1.text = ""
 
-meMegalynarion.incipit = me.m02.d06_en_US_dedes.meMegalynarion.incipit
 meMegalynarion.text = me.m02.d06_en_US_dedes.meMegalynarion.text
 
 //These extra hymns are found in the back of the Feb. Menaion
@@ -430,16 +426,13 @@ meMA.Ode3KathismaSt.melody = me.m02.d06_en_US_dedes.meMA.Ode3KathismaSt.melody
 meMA.Ode3KathismaSt.incipit = me.m02.d06_en_US_dedes.meMA.Ode3KathismaSt.incipit
 meMA.Ode3KathismaSt.text = me.m02.d06_en_US_dedes.meMA.Ode3KathismaSt.text
 
-
 alt1.meDate.text = me.m02.d06_en_US_dedes.alt1.meDate.text // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt1.meCommemoration.text = me.m02.d06_en_US_dedes.alt1.meCommemoration.text // full title of day
-alt1.meShortCommemoration1.incipit = me.m02.d06_en_US_dedes.alt1.meShortCommemoration1.incipit
 alt1.meShortCommemoration1.text = me.m02.d06_en_US_dedes.alt1.meShortCommemoration1.text
 alt1.meCom1.title = ""
 alt1.meCom2.title = ""
 alt1.meInsert1 = me.m02.d06_en_US_dedes.alt1.meInsert1 // for use in petitions and dismissal
 alt1.meInsert2 = me.m02.d06_en_US_dedes.alt1.meInsert2 // for use in petitions and dismissal
-alt1.meNote.incipit = me.m02.d06_en_US_dedes.alt1.meNote.incipit
 alt1.meNote.text = me.m02.d06_en_US_dedes.alt1.meNote.text
 alt1.meLE.commemoration1 = me.m02.d06_en_US_dedes.alt1.meLE.commemoration1
 alt1.meLE.commemoration2 = me.m02.d06_en_US_dedes.alt1.meLE.commemoration2
@@ -800,21 +793,13 @@ alt1.meMA.Kontakion1.melody = me.m02.d06_en_US_dedes.alt1.meMA.Kontakion1.melody
 alt1.meMA.Kontakion1.incipit = me.m02.d06_en_US_dedes.alt1.meMA.Kontakion1.incipit
 alt1.meMA.Kontakion1.text = me.m02.d06_en_US_dedes.alt1.meMA.Kontakion1.text
 
-alt1.meMA.Oikos1.incipit = me.m02.d06_en_US_dedes.alt1.meMA.Oikos1.incipit
 alt1.meMA.Oikos1.text = me.m02.d06_en_US_dedes.alt1.meMA.Oikos1.text
-alt1.meMA.Oikos12.incipit = me.m02.d06_en_US_dedes.alt1.meMA.Oikos12.incipit
 alt1.meMA.Oikos12.text = me.m02.d06_en_US_dedes.alt1.meMA.Oikos12.text
-alt1.meMA.Oikos13.incipit = me.m02.d06_en_US_dedes.alt1.meMA.Oikos13.incipit
 alt1.meMA.Oikos13.text = me.m02.d06_en_US_dedes.alt1.meMA.Oikos13.text
-alt1.meMA.Oikos14.incipit = me.m02.d06_en_US_dedes.alt1.meMA.Oikos14.incipit
 alt1.meMA.Oikos14.text = me.m02.d06_en_US_dedes.alt1.meMA.Oikos14.text
-alt1.meMA.Oikos15.incipit = me.m02.d06_en_US_dedes.alt1.meMA.Oikos15.incipit
 alt1.meMA.Oikos15.text = me.m02.d06_en_US_dedes.alt1.meMA.Oikos15.text
-alt1.meMA.Oikos16.incipit = me.m02.d06_en_US_dedes.alt1.meMA.Oikos16.incipit
 alt1.meMA.Oikos16.text = me.m02.d06_en_US_dedes.alt1.meMA.Oikos16.text
-alt1.meMA.Oikos17.incipit = me.m02.d06_en_US_dedes.alt1.meMA.Oikos17.incipit
 alt1.meMA.Oikos17.text = me.m02.d06_en_US_dedes.alt1.meMA.Oikos17.text
-alt1.meMA.Oikos18.incipit = me.m02.d06_en_US_dedes.alt1.meMA.Oikos18.incipit
 alt1.meMA.Oikos18.text = me.m02.d06_en_US_dedes.alt1.meMA.Oikos18.text
 
 alt1.meMA.Ode7C11.ode = me.m02.d06_en_US_dedes.alt1.meMA.Ode7C11.ode
@@ -939,12 +924,9 @@ alt1.meMA.LaudsBoth.melody = me.m02.d06_en_US_dedes.alt1.meMA.LaudsBoth.melody
 alt1.meMA.LaudsBoth.incipit = me.m02.d06_en_US_dedes.alt1.meMA.LaudsBoth.incipit
 alt1.meMA.LaudsBoth.text = me.m02.d06_en_US_dedes.alt1.meMA.LaudsBoth.text
 
-alt1.meMA.MM.Lauds1234as5678.incipit = me.m02.d06_en_US_dedes.alt1.meMA.MM.Lauds1234as5678.incipit
 alt1.meMA.MM.Lauds1234as5678.text = me.m02.d06_en_US_dedes.alt1.meMA.MM.Lauds1234as5678.text
-alt1.meMA.MM.Lauds123as123.incipit = me.m02.d06_en_US_dedes.alt1.meMA.MM.Lauds123as123.incipit
 alt1.meMA.MM.Lauds123as123.text = me.m02.d06_en_US_dedes.alt1.meMA.MM.Lauds123as123.text
 
-alt1.meLI.Antiphon2.incipit = me.m02.d06_en_US_dedes.alt1.meLI.Antiphon2.incipit
 alt1.meLI.Antiphon2.text = me.m02.d06_en_US_dedes.alt1.meLI.Antiphon2.text
 
 alt1.meLI.MM.EntranceHymn.text = properties_en_US_public.media.key
@@ -956,21 +938,15 @@ alt1.meLI.Kontakion1.text = alt1.meMA.Kontakion1.text
 
 alt1.meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
-alt1.meMegalynarion.incipit = me.m02.d06_en_US_dedes.alt1.meMegalynarion.incipit
 alt1.meMegalynarion.text = me.m02.d06_en_US_dedes.alt1.meMegalynarion.text
 
-
-alt2.meDate.incipit = me.m02.d06_en_US_dedes.alt2.meDate.incipit
 alt2.meDate.text = me.m02.d06_en_US_dedes.alt2.meDate.text
-alt2.meCommemoration.incipit = me.m02.d06_en_US_dedes.alt2.meCommemoration.incipit
 alt2.meCommemoration.text = me.m02.d06_en_US_dedes.alt2.meCommemoration.text
-alt2.meShortCommemoration1.incipit = me.m02.d06_en_US_dedes.alt2.meShortCommemoration1.incipit
 alt2.meShortCommemoration1.text = me.m02.d06_en_US_dedes.alt2.meShortCommemoration1.text
 alt2.meCom1.title = ""
 alt2.meCom2.title = ""
 alt2.meInsert1 = me.m02.d06_en_US_dedes.alt2.meInsert1
 alt2.meInsert2 = me.m02.d06_en_US_dedes.alt2.meInsert2
-alt2.meNote.incipit = me.m02.d06_en_US_dedes.alt2.meNote.incipit
 alt2.meNote.text = me.m02.d06_en_US_dedes.alt2.meNote.text
 alt2.meLE.commemoration1 = me.m02.d06_en_US_dedes.alt2.meLE.commemoration1
 alt2.meLE.commemoration2 = me.m02.d06_en_US_dedes.alt2.meLE.commemoration2
@@ -1166,7 +1142,6 @@ alt2.meMA.Kathisma32.melody = me.m02.d06_en_US_dedes.alt2.meMA.Kathisma32.melody
 alt2.meMA.Kathisma32.incipit = me.m02.d06_en_US_dedes.alt2.meMA.Kathisma32.incipit
 alt2.meMA.Kathisma32.text = me.m02.d06_en_US_dedes.alt2.meMA.Kathisma32.text
 
-alt2.meMA.MM.Prokeimenon.incipit = me.m02.d06_en_US_dedes.alt2.meMA.MM.Prokeimenon.incipit
 alt2.meMA.MM.Prokeimenon.text = me.m02.d06_en_US_dedes.alt2.meMA.MM.Prokeimenon.text
 
 alt2.meMA.PostGospelGlory.mode = me.m02.d06_en_US_dedes.alt2.meMA.PostGospelGlory.mode
@@ -1327,8 +1302,7 @@ alt2.meMA.Kontakion1.melody = me.m02.d06_en_US_dedes.alt2.meMA.Kontakion1.melody
 alt2.meMA.Kontakion1.incipit = me.m02.d06_en_US_dedes.alt2.meMA.Kontakion1.incipit
 alt2.meMA.Kontakion1.text = me.m02.d06_en_US_dedes.alt2.meMA.Kontakion1.text
 
-alt2.meMA.Oikos1.incipit = me.m02.d06_en_US_dedes.alt2.meMA.Oikos1.incipit
-alt2.meMA.Oikos1.text = me.m02.d06_en_US_dedes.alt2.meMA.Oikos1.text
+alt2.alt2.meMA.Oikos1.text = me.m02.d06_en_US_dedes.alt2.meMA.Oikos1.text
 
 alt2.meMA.Ode7C11.ode = me.m02.d06_en_US_dedes.alt2.meMA.Ode7C11.ode
 alt2.meMA.Ode7C11.mode = me.m02.d06_en_US_dedes.alt2.meMA.Ode7C11.mode
@@ -1443,13 +1417,10 @@ alt2.meMA.LaudsGlory.melody = me.m02.d06_en_US_dedes.alt2.meMA.LaudsGlory.melody
 alt2.meMA.LaudsGlory.incipit = me.m02.d06_en_US_dedes.alt2.meMA.LaudsGlory.incipit
 alt2.meMA.LaudsGlory.text = me.m02.d06_en_US_dedes.alt2.meMA.LaudsGlory.text
 
-alt2.meMA.MM.LaudsSunday.incipit = me.m02.d06_en_US_dedes.alt2.meMA.MM.LaudsSunday.incipit
 alt2.meMA.MM.LaudsSunday.text = me.m02.d06_en_US_dedes.alt2.meMA.MM.LaudsSunday.text
 
-alt2.meLI.Antiphon2.incipit = me.m02.d06_en_US_dedes.alt2.meLI.Antiphon2.incipit
 alt2.meLI.Antiphon2.text = me.m02.d06_en_US_dedes.alt2.meLI.Antiphon2.text
 
-alt2.meLI.MM.EntranceHymn.incipit = me.m02.d06_en_US_dedes.alt2.meLI.MM.EntranceHymn.incipit
 alt2.meLI.MM.EntranceHymn.text = me.m02.d06_en_US_dedes.alt2.meLI.MM.EntranceHymn.text
 
 alt2.meLI.Kontakion1.mode = me.m02.d06_en_US_dedes.alt2.meLI.Kontakion1.mode
@@ -1457,13 +1428,9 @@ alt2.meLI.Kontakion1.melody = me.m02.d06_en_US_dedes.alt2.meLI.Kontakion1.melody
 alt2.meLI.Kontakion1.incipit = me.m02.d06_en_US_dedes.alt2.meLI.Kontakion1.incipit
 alt2.meLI.Kontakion1.text = me.m02.d06_en_US_dedes.alt2.meLI.Kontakion1.text
 
-alt2.meLI.MM.CommunionHymn.incipit = me.m02.d06_en_US_dedes.alt2.meLI.MM.CommunionHymn.incipit
 alt2.meLI.MM.CommunionHymn.text = me.m02.d06_en_US_dedes.alt2.meLI.MM.CommunionHymn.text
 
-alt2.meMegalynarion.incipit = me.m02.d06_en_US_dedes.alt2.meMegalynarion.incipit
 alt2.meMegalynarion.text = me.m02.d06_en_US_dedes.alt2.meMegalynarion.text
 
-alt2.meCoupletv1.incipit = me.m02.d06_en_US_dedes.alt2.meCoupletv1.incipit
 alt2.meCoupletv1.text = me.m02.d06_en_US_dedes.alt2.meCoupletv1.text
-alt2.meCoupletv2.incipit = me.m02.d06_en_US_dedes.alt2.meCoupletv2.incipit
 alt2.meCoupletv2.text = me.m02.d06_en_US_dedes.alt2.meCoupletv2.text

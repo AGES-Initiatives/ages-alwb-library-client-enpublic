@@ -2,15 +2,12 @@ A_Resource_Whose_Name = me.m02.d09_en_US_public
 
 meDate.text = me.m02.d09_en_US_dedes.meDate.text // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = me.m02.d09_en_US_dedes.meCommemoration.text // full title of day
-meShortCommemoration1.incipit = me.m02.d09_en_US_dedes.meShortCommemoration1.incipit
 meShortCommemoration1.text = me.m02.d09_en_US_dedes.meShortCommemoration1.text
-meShortCommemoration2.incipit = me.m02.d09_en_US_dedes.meShortCommemoration2.incipit
 meShortCommemoration2.text = me.m02.d09_en_US_dedes.meShortCommemoration2.text
 meCom1.title = me.m02.d09_en_US_dedes.meCom1.title
 meCom2.title = me.m02.d09_en_US_dedes.meCom2.title
 meInsert1 = me.m02.d09_en_US_dedes.meInsert1 // for use in petitions and dismissal
 meInsert2 = me.m02.d09_en_US_dedes.meInsert2 // for use in petitions and dismissal
-meNote.incipit = me.m02.d09_en_US_dedes.meNote.incipit
 meNote.text = me.m02.d09_en_US_dedes.meNote.text
 meLE.commemoration1 = me.m02.d09_en_US_dedes.meLE.commemoration1
 meLE.commemoration2 = me.m02.d09_en_US_dedes.meLE.commemoration2
@@ -267,7 +264,6 @@ meMA.Kontakion1.melody = me.m02.d09_en_US_dedes.meMA.Kontakion1.melody
 meMA.Kontakion1.incipit = me.m02.d09_en_US_dedes.meMA.Kontakion1.incipit
 meMA.Kontakion1.text = me.m02.d09_en_US_dedes.meMA.Kontakion1.text
 
-meMA.Oikos1.incipit = me.m02.d09_en_US_dedes.meMA.Oikos1.incipit
 meMA.Oikos1.text = me.m02.d09_en_US_dedes.meMA.Oikos1.text
 
 meMA.Ode7C1H.ode = me.m02.d09_en_US_dedes.meMA.Ode7C1H.ode
@@ -388,7 +384,6 @@ meMA.ExapTheotokion.melody = me.m02.d09_en_US_dedes.meMA.ExapTheotokion.melody
 meMA.ExapTheotokion.incipit = me.m02.d09_en_US_dedes.meMA.ExapTheotokion.incipit
 meMA.ExapTheotokion.text = me.m02.d09_en_US_dedes.meMA.ExapTheotokion.text
 
-meLI.Antiphon2.incipit = me.m02.d09_en_US_dedes.meLI.Antiphon2.incipit
 meLI.Antiphon2.text = me.m02.d09_en_US_dedes.meLI.Antiphon2.text
 
 meLI.MM.EntranceHymn.text = properties_en_US_public.media.key

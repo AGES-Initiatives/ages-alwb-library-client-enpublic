@@ -1,12 +1,9 @@
 A_Resource_Whose_Name = tr.d048_en_US_public
 
-trCommemoration.incipit = tr.d048_en_US_dedes.trCommemoration.incipit
 trCommemoration.text = tr.d048_en_US_dedes.trCommemoration.text
-trShortCommemoration1.incipit = tr.d048_en_US_dedes.trShortCommemoration1.incipit
 trShortCommemoration1.text = tr.d048_en_US_dedes.trShortCommemoration1.text
 trInsert1 = tr.d048_en_US_dedes.trInsert1
 trInsert2 = tr.d048_en_US_dedes.trInsert2
-trNote.incipit = tr.d048_en_US_dedes.trNote.incipit
 trNote.text = tr.d048_en_US_dedes.trNote.text
 trHO.daytitle = tr.d048_en_US_dedes.trHO.daytitle
 trHO.commemorations = tr.d048_en_US_dedes.trHO.commemorations

@@ -6,7 +6,6 @@ lemcVE.reading1.version = le.pr.tr.d062_en_US_saas.lemcVE.reading1.version
 lemcVE.reading1.book_string = le.pr.tr.d062_en_US_saas.lemcVE.reading1.book_string
 lemcVE.reading1.book_abbr = le.pr.tr.d062_en_US_saas.lemcVE.reading1.book_abbr
 lemcVE.reading1.chapverse = le.pr.tr.d062_en_US_saas.lemcVE.reading1.chapverse
-lemcVE.reading1.incipit = le.pr.tr.d062_en_US_saas.lemcVE.reading1.incipit
 lemcVE.reading1.text = le.pr.tr.d062_en_US_saas.lemcVE.reading1.text
 
 lemcVE.reading2.title = le.pr.tr.d062_en_US_saas.lemcVE.reading2.title
@@ -15,7 +14,6 @@ lemcVE.reading2.version = le.pr.tr.d062_en_US_saas.lemcVE.reading2.version
 lemcVE.reading2.book_string = le.pr.tr.d062_en_US_saas.lemcVE.reading2.book_string
 lemcVE.reading2.book_abbr = le.pr.tr.d062_en_US_saas.lemcVE.reading2.book_abbr
 lemcVE.reading2.chapverse = le.pr.tr.d062_en_US_saas.lemcVE.reading2.chapverse
-lemcVE.reading2.incipit = le.pr.tr.d062_en_US_saas.lemcVE.reading2.incipit
 lemcVE.reading2.text = le.pr.tr.d062_en_US_saas.lemcVE.reading2.text
 
 lemcTE.reading1.title = le.pr.tr.d062_en_US_saas.lemcTE.reading1.title
@@ -24,6 +22,5 @@ lemcTE.reading1.version = le.pr.tr.d062_en_US_saas.lemcTE.reading1.version
 lemcTE.reading1.book_string = le.pr.tr.d062_en_US_saas.lemcTE.reading1.book_string
 lemcTE.reading1.book_abbr = le.pr.tr.d062_en_US_saas.lemcTE.reading1.book_abbr
 lemcTE.reading1.chapverse = le.pr.tr.d062_en_US_saas.lemcTE.reading1.chapverse
-lemcTE.reading1.incipit = le.pr.tr.d062_en_US_saas.lemcTE.reading1.incipit
 lemcTE.reading1.text = le.pr.tr.d062_en_US_saas.lemcTE.reading1.text
 

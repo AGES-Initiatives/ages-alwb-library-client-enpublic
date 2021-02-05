@@ -1,11 +1,9 @@
 A_Resource_Whose_Name = pe.d075_en_US_public
 
 peCommemoration.text = pe.d075_en_US_dedes.peCommemoration.text // full title of day
-peShortCommemoration1.incipit = pe.d075_en_US_dedes.peShortCommemoration1.incipit
 peShortCommemoration1.text = pe.d075_en_US_dedes.peShortCommemoration1.text
 peInsert1 = pe.d075_en_US_dedes.peInsert1 // for use in petitions and dismissal
 peInsert2 = pe.d075_en_US_dedes.peInsert2 // for use in petitions and dismissal
-peNote.incipit = pe.d075_en_US_dedes.peNote.incipit
 peNote.text = pe.d075_en_US_dedes.peNote.text
 peHO.daytitle = pe.d075_en_US_dedes.peHO.daytitle
 peHO.commemorations = pe.d075_en_US_dedes.peHO.commemorations
@@ -14,7 +12,6 @@ peHO.description2 = pe.d075_en_US_dedes.peHO.description2
 peHO.note1 = pe.d075_en_US_dedes.peHO.note1
 peHO.note2 = pe.d075_en_US_dedes.peHO.note2
 peDismissal = pe.d075_en_US_dedes.peDismissal
-
 
 peVE.Stichera01.mode = pe.d075_en_US_dedes.peVE.Stichera01.mode
 peVE.Stichera01.melody = pe.d075_en_US_dedes.peVE.Stichera01.melody
@@ -46,7 +43,6 @@ peVE.Stichera06.melody = pe.d075_en_US_dedes.peVE.Stichera06.melody
 peVE.Stichera06.incipit = pe.d075_en_US_holycross.peVE.Stichera06.incipit
 peVE.Stichera06.text = pe.d075_en_US_holycross.peVE.Stichera06.text
 
-peVE.MM.Stichera1234as3456.incipit = pe.d075_en_US_dedes.peVE.MM.Stichera1234as3456.incipit
 peVE.MM.Stichera1234as3456.text = pe.d075_en_US_dedes.peVE.MM.Stichera1234as3456.text
 
 peVE.SticGlory.mode = pe.d075_en_US_dedes.peVE.SticGlory.mode
@@ -86,5 +82,4 @@ peMA.Lauds4.melody = pe.d075_en_US_dedes.peMA.Lauds4.melody
 peMA.Lauds4.incipit = pe.d075_en_US_dedes.peMA.Lauds4.incipit
 peMA.Lauds4.text = pe.d075_en_US_dedes.peMA.Lauds4.text
 
-peMA.MM.Lauds1234as1234.incipit = pe.d075_en_US_dedes.peMA.MM.Lauds1234as1234.incipit
 peMA.MM.Lauds1234as1234.text = pe.d075_en_US_dedes.peMA.MM.Lauds1234as1234.text

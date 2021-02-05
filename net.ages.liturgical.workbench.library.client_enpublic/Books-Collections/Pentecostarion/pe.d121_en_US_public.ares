@@ -1,11 +1,9 @@
 A_Resource_Whose_Name = pe.d121_en_US_public
 
 peCommemoration.text = pe.d121_en_US_dedes.peCommemoration.text // full title of day
-peShortCommemoration1.incipit = pe.d121_en_US_dedes.peShortCommemoration1.incipit
 peShortCommemoration1.text = pe.d121_en_US_dedes.peShortCommemoration1.text
 peInsert1 = pe.d121_en_US_dedes.peInsert1 // for use in petitions and dismissal
 peInsert2 = pe.d121_en_US_dedes.peInsert2 // for use in petitions and dismissal
-peNote.incipit = pe.d121_en_US_dedes.peNote.incipit
 peNote.text = pe.d121_en_US_dedes.peNote.text
 peHO.daytitle = pe.d121_en_US_dedes.peHO.daytitle
 peHO.commemorations = pe.d121_en_US_dedes.peHO.commemorations
@@ -30,7 +28,6 @@ peVE.Stichera03.melody = pe.d121_en_US_dedes.peVE.Stichera03.melody
 peVE.Stichera03.incipit = pe.d121_en_US_dedes.peVE.Stichera03.incipit
 peVE.Stichera03.text = pe.d121_en_US_dedes.peVE.Stichera03.text
 
-peVE.MM.Stichera123as567.incipit = pe.d121_en_US_dedes.peVE.MM.Stichera123as567.incipit
 peVE.MM.Stichera123as567.text = pe.d121_en_US_dedes.peVE.MM.Stichera123as567.text
 
 peVE.SticGlory.mode = pe.d121_en_US_dedes.peVE.SticGlory.mode
@@ -40,65 +37,44 @@ peVE.SticGlory.text = pe.d121_en_US_dedes.peVE.SticGlory.text
 
 pePE.Prayer1.rubric = pe.d121_en_US_goa.pePE.Prayer1.rubric
 pePE.Prayer1.title = pe.d121_en_US_goa.pePE.Prayer1.title
-pePE.Prayer11.incipit = pe.d121_en_US_goa.pePE.Prayer11.incipit
 pePE.Prayer11.text = pe.d121_en_US_goa.pePE.Prayer11.text
-pePE.Prayer12.incipit = pe.d121_en_US_goa.pePE.Prayer12.incipit
 pePE.Prayer12.text = pe.d121_en_US_goa.pePE.Prayer12.text
-pePE.Prayer13.incipit = pe.d121_en_US_goa.pePE.Prayer13.incipit
 pePE.Prayer13.text = pe.d121_en_US_goa.pePE.Prayer13.text
-pePE.Prayer14.incipit = pe.d121_en_US_goa.pePE.Prayer14.incipit
 pePE.Prayer14.text = pe.d121_en_US_goa.pePE.Prayer14.text
 
 pePE.Prayer2.rubric = pe.d121_en_US_goa.pePE.Prayer2.rubric
 pePE.Prayer2.title = pe.d121_en_US_goa.pePE.Prayer2.title
-pePE.Prayer21.incipit = pe.d121_en_US_goa.pePE.Prayer21.incipit
 pePE.Prayer21.text = pe.d121_en_US_goa.pePE.Prayer21.text
-pePE.Prayer22.incipit = pe.d121_en_US_goa.pePE.Prayer22.incipit
 pePE.Prayer22.text = pe.d121_en_US_goa.pePE.Prayer22.text
 
 pePE.Prayer3.rubric = pe.d121_en_US_goa.pePE.Prayer3.rubric
 pePE.Prayer3.title = pe.d121_en_US_goa.pePE.Prayer3.title
-pePE.Prayer31.incipit = pe.d121_en_US_goa.pePE.Prayer31.incipit
 pePE.Prayer31.text = pe.d121_en_US_goa.pePE.Prayer31.text
-pePE.Prayer32.incipit = pe.d121_en_US_goa.pePE.Prayer32.incipit
 pePE.Prayer32.text = pe.d121_en_US_goa.pePE.Prayer32.text
-pePE.Prayer33.incipit = pe.d121_en_US_goa.pePE.Prayer33.incipit
 pePE.Prayer33.text = pe.d121_en_US_goa.pePE.Prayer33.text
-pePE.Prayer34.incipit = pe.d121_en_US_goa.pePE.Prayer34.incipit
 pePE.Prayer34.text = pe.d121_en_US_goa.pePE.Prayer34.text
 
 pePE.Prayer4.rubric = pe.d121_en_US_goa.pePE.Prayer4.rubric
 pePE.Prayer4.title = pe.d121_en_US_goa.pePE.Prayer4.title
-pePE.Prayer41.incipit = pe.d121_en_US_goa.pePE.Prayer41.incipit
 pePE.Prayer41.text = pe.d121_en_US_goa.pePE.Prayer41.text
 
 pePE.Prayer5.rubric = pe.d121_en_US_goa.pePE.Prayer5.rubric
 pePE.Prayer5.title = pe.d121_en_US_goa.pePE.Prayer5.title
-pePE.Prayer51.incipit = pe.d121_en_US_goa.pePE.Prayer51.incipit
 pePE.Prayer51.text = pe.d121_en_US_goa.pePE.Prayer51.text
-pePE.Prayer52.incipit = pe.d121_en_US_goa.pePE.Prayer52.incipit
 pePE.Prayer52.text = pe.d121_en_US_goa.pePE.Prayer52.text
-pePE.Prayer53.incipit = pe.d121_en_US_goa.pePE.Prayer53.incipit
 pePE.Prayer53.text = pe.d121_en_US_goa.pePE.Prayer53.text
-pePE.Prayer54.incipit = pe.d121_en_US_goa.pePE.Prayer54.incipit
 pePE.Prayer54.text = pe.d121_en_US_goa.pePE.Prayer54.text
 
 pePE.Prayer6.rubric = pe.d121_en_US_goa.pePE.Prayer6.rubric
 pePE.Prayer6.title = pe.d121_en_US_goa.pePE.Prayer6.title
-pePE.Prayer61.incipit = pe.d121_en_US_goa.pePE.Prayer61.incipit
 pePE.Prayer61.text = pe.d121_en_US_goa.pePE.Prayer61.text
-pePE.Prayer62.incipit = pe.d121_en_US_goa.pePE.Prayer62.incipit
 pePE.Prayer62.text = pe.d121_en_US_goa.pePE.Prayer62.text
-pePE.Prayer63.incipit = pe.d121_en_US_goa.pePE.Prayer63.incipit
 pePE.Prayer63.text = pe.d121_en_US_goa.pePE.Prayer63.text
-pePE.Prayer64.incipit = pe.d121_en_US_goa.pePE.Prayer64.incipit
 pePE.Prayer64.text = pe.d121_en_US_goa.pePE.Prayer64.text
-pePE.Prayer65.incipit = pe.d121_en_US_goa.pePE.Prayer65.incipit
 pePE.Prayer65.text = pe.d121_en_US_goa.pePE.Prayer65.text
 
 pePE.Prayer7.rubric = pe.d121_en_US_goa.pePE.Prayer7.rubric
 pePE.Prayer7.title = pe.d121_en_US_goa.pePE.Prayer7.title
-pePE.Prayer71.incipit = pe.d121_en_US_goa.pePE.Prayer71.incipit
 pePE.Prayer71.text = pe.d121_en_US_goa.pePE.Prayer71.text
 
 peVE.Aposticha1.mode = pe.d121_en_US_dedes.peVE.Aposticha1.mode
@@ -141,44 +117,27 @@ peMA.Kontakion1.melody = pe.d121_en_US_dedes.peMA.Kontakion1.melody
 peMA.Kontakion1.incipit = pe.d121_en_US_dedes.peMA.Kontakion1.incipit
 peMA.Kontakion1.text = pe.d121_en_US_dedes.peMA.Kontakion1.text
 
-peMA.Oikos1.incipit = pe.d121_en_US_duvall.peMA.Oikos1.incipit
 peMA.Oikos1.text = pe.d121_en_US_duvall.peMA.Oikos1.text
 
-peMA.Synaxarion.commemoration.incipit = pe.d121_en_US_dedes.peMA.Synaxarion.commemoration.incipit
 peMA.Synaxarion.commemoration.text = pe.d121_en_US_dedes.peMA.Synaxarion.commemoration.text
 peMA.Synaxarion.couplet1.title = pe.d121_en_US_dedes.peMA.Synaxarion.couplet1.title
 peMA.Synaxarion.couplet1.verse1 = pe.d121_en_US_dedes.peMA.Synaxarion.couplet1.verse1
 peMA.Synaxarion.couplet1.verse2 = pe.d121_en_US_dedes.peMA.Synaxarion.couplet1.verse2
 
-peMA.Synaxarion.narration1.p01.incipit = pe.d121_en_US_dedes.peMA.Synaxarion.narration1.p01.incipit
 peMA.Synaxarion.narration1.p01.text = pe.d121_en_US_dedes.peMA.Synaxarion.narration1.p01.text
-peMA.Synaxarion.narration1.p02.incipit = pe.d121_en_US_dedes.peMA.Synaxarion.narration1.p02.incipit
 peMA.Synaxarion.narration1.p02.text = pe.d121_en_US_dedes.peMA.Synaxarion.narration1.p02.text
-peMA.Synaxarion.narration1.p03.incipit = pe.d121_en_US_dedes.peMA.Synaxarion.narration1.p03.incipit
 peMA.Synaxarion.narration1.p03.text = pe.d121_en_US_dedes.peMA.Synaxarion.narration1.p03.text
-peMA.Synaxarion.narration1.p04.incipit = pe.d121_en_US_dedes.peMA.Synaxarion.narration1.p04.incipit
 peMA.Synaxarion.narration1.p04.text = pe.d121_en_US_dedes.peMA.Synaxarion.narration1.p04.text
-peMA.Synaxarion.narration1.p05.incipit = pe.d121_en_US_dedes.peMA.Synaxarion.narration1.p05.incipit
 peMA.Synaxarion.narration1.p05.text = pe.d121_en_US_dedes.peMA.Synaxarion.narration1.p05.text
-peMA.Synaxarion.narration1.p06.incipit = pe.d121_en_US_dedes.peMA.Synaxarion.narration1.p06.incipit
 peMA.Synaxarion.narration1.p06.text = pe.d121_en_US_dedes.peMA.Synaxarion.narration1.p06.text
-peMA.Synaxarion.narration1.p07.incipit = pe.d121_en_US_dedes.peMA.Synaxarion.narration1.p07.incipit
 peMA.Synaxarion.narration1.p07.text = pe.d121_en_US_dedes.peMA.Synaxarion.narration1.p07.text
-peMA.Synaxarion.narration2.p01.incipit = pe.d121_en_US_dedes.peMA.Synaxarion.narration2.p01.incipit
 peMA.Synaxarion.narration2.p01.text = pe.d121_en_US_dedes.peMA.Synaxarion.narration2.p01.text
-peMA.Synaxarion.narration2.p02.incipit = pe.d121_en_US_dedes.peMA.Synaxarion.narration2.p02.incipit
 peMA.Synaxarion.narration2.p02.text = pe.d121_en_US_dedes.peMA.Synaxarion.narration2.p02.text
-peMA.Synaxarion.narration2.p03.incipit = pe.d121_en_US_dedes.peMA.Synaxarion.narration2.p03.incipit
 peMA.Synaxarion.narration2.p03.text = pe.d121_en_US_dedes.peMA.Synaxarion.narration2.p03.text
-peMA.Synaxarion.narration2.p04.incipit = pe.d121_en_US_dedes.peMA.Synaxarion.narration2.p04.incipit
 peMA.Synaxarion.narration2.p04.text = pe.d121_en_US_dedes.peMA.Synaxarion.narration2.p04.text
-peMA.Synaxarion.narration2.p05.incipit = pe.d121_en_US_dedes.peMA.Synaxarion.narration2.p05.incipit
 peMA.Synaxarion.narration2.p05.text = pe.d121_en_US_dedes.peMA.Synaxarion.narration2.p05.text
-peMA.Synaxarion.narration2.p06.incipit = pe.d121_en_US_dedes.peMA.Synaxarion.narration2.p06.incipit
 peMA.Synaxarion.narration2.p06.text = pe.d121_en_US_dedes.peMA.Synaxarion.narration2.p06.text
-peMA.Synaxarion.narration2.p07.incipit = pe.d121_en_US_dedes.peMA.Synaxarion.narration2.p07.incipit
 peMA.Synaxarion.narration2.p07.text = pe.d121_en_US_dedes.peMA.Synaxarion.narration2.p07.text
-peMA.Synaxarion.lastline.incipit = pe.d121_en_US_dedes.peMA.Synaxarion.lastline.incipit
 peMA.Synaxarion.lastline.text = pe.d121_en_US_dedes.peMA.Synaxarion.lastline.text
 
 peMA.Exaposteilarion1.mode = pe.d121_en_US_dedes.peMA.Exaposteilarion1.mode
@@ -206,7 +165,6 @@ peMA.Lauds3.melody = pe.d121_en_US_dedes.peMA.Lauds3.melody
 peMA.Lauds3.incipit = pe.d121_en_US_dedes.peMA.Lauds3.incipit
 peMA.Lauds3.text = pe.d121_en_US_dedes.peMA.Lauds3.text
 
-peMA.MM.Lauds123as123.incipit = pe.d121_en_US_dedes.peMA.MM.Lauds123as123.incipit
 peMA.MM.Lauds123as123.text = pe.d121_en_US_dedes.peMA.MM.Lauds123as123.text
 
 peMA.LaudsGlory.mode = pe.d121_en_US_dedes.peMA.LaudsGlory.mode
@@ -214,7 +172,6 @@ peMA.LaudsGlory.melody = pe.d121_en_US_dedes.peMA.LaudsGlory.melody
 peMA.LaudsGlory.incipit = pe.d121_en_US_dedes.peMA.LaudsGlory.incipit
 peMA.LaudsGlory.text = pe.d121_en_US_dedes.peMA.LaudsGlory.text
 
-peLI.Antiphon2.incipit = pe.d121_en_US_dedes.peLI.Antiphon2.incipit
 peLI.Antiphon2.text = pe.d121_en_US_dedes.peLI.Antiphon2.text
 
 peLI.MM.EntranceHymn.text = properties_en_US_public.media.key
@@ -223,6 +180,5 @@ peLI.TheotokosHymn.mode = pe.d121_en_US_dedes.peLI.TheotokosHymn.mode
 peLI.TheotokosHymn.incipit = pe.d121_en_US_dedes.peLI.TheotokosHymn.incipit
 peLI.TheotokosHymn.text = pe.d121_en_US_dedes.peLI.TheotokosHymn.text
 
-peLI.CommunionHymn.incipit = pe.d121_en_US_dedes.peLI.CommunionHymn.incipit
 peLI.CommunionHymn.text = pe.d121_en_US_dedes.peLI.CommunionHymn.text
 

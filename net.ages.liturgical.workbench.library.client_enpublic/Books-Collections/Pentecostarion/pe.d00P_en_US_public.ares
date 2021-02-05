@@ -1,11 +1,9 @@
 A_Resource_Whose_Name = pe.d00P_en_US_public
 
 peCommemoration.text = pe.d00P_en_US_dedes.peCommemoration.text // full title of day
-peShortCommemoration1.incipit = pe.d00P_en_US_dedes.peShortCommemoration1.incipit
 peShortCommemoration1.text = pe.d00P_en_US_dedes.peShortCommemoration1.text
 peInsert1 = pe.d00P_en_US_dedes.peInsert1 // for use in petitions and dismissal
 peInsert2 = pe.d00P_en_US_dedes.peInsert2 // for use in petitions and dismissal
-peNote.incipit = pe.d00P_en_US_dedes.peNote.incipit
 peNote.text = pe.d00P_en_US_dedes.peNote.text
 peHO.daytitle = pe.d00P_en_US_dedes.peHO.daytitle
 peHO.commemorations = pe.d00P_en_US_dedes.peHO.commemorations
@@ -30,25 +28,12 @@ pePA.ChristIsRisen.incipit = pe.d00P_en_US_goa.pePA.ChristIsRisen.incipit
 pePA.ChristIsRisen.text = pe.d00P_en_US_goa.pePA.ChristIsRisen.text
 pePA.ChristIsRisen1a.incipit = pe.d00P_en_US_goa.pePA.ChristIsRisen1a.incipit
 pePA.ChristIsRisen1a.text = pe.d00P_en_US_goa.pePA.ChristIsRisen1a.text
-pePA.ChristIsRisen1b.incipit = pe.d00P_en_US_goa.pePA.ChristIsRisen1b.incipit
 pePA.ChristIsRisen1b.text = pe.d00P_en_US_goa.pePA.ChristIsRisen1b.text
 pePA.ChristIsRisen2a.incipit = pe.d00P_en_US_goa.pePA.ChristIsRisen2a.incipit
 pePA.ChristIsRisen2a.text = pe.d00P_en_US_goa.pePA.ChristIsRisen2a.text
 pePA.ChristIsRisen2b.incipit = pe.d00P_en_US_goa.pePA.ChristIsRisen2b.incipit
 pePA.ChristIsRisen2b.text = pe.d00P_en_US_goa.pePA.ChristIsRisen2b.text
 pePA.ChristIsRisenShort.text = pe.d00P_en_US_goa.pePA.ChristIsRisenShort.text // for media
-
-pePA.PaschaVerse1.incipit = pe.d00P_en_US_dedes.pePA.PaschaVerse1.incipit
-pePA.PaschaVerse1.text = pe.d00P_en_US_dedes.pePA.PaschaVerse1.text
-
-pePA.PaschaVerse2.incipit = pe.d00P_en_US_dedes.pePA.PaschaVerse2.incipit
-pePA.PaschaVerse2.text = pe.d00P_en_US_dedes.pePA.PaschaVerse2.text
-
-pePA.PaschaVerse3.incipit = pe.d00P_en_US_dedes.pePA.PaschaVerse3.incipit
-pePA.PaschaVerse3.text = pe.d00P_en_US_dedes.pePA.PaschaVerse3.text
-
-pePA.PaschaVerse4.incipit = pe.d00P_en_US_dedes.pePA.PaschaVerse4.incipit
-pePA.PaschaVerse4.text = pe.d00P_en_US_dedes.pePA.PaschaVerse4.text
 
 pePA.C1.poet = pe.d00P_en_US_dedes.pePA.C1.poet
 pePA.C1.text = pe.d00P_en_US_dedes.pePA.C1.text // for media of entire canon
@@ -223,7 +208,6 @@ pePA.Kontakion.melody = pe.d00P_en_US_dedes.pePA.Kontakion.melody
 pePA.Kontakion.incipit = pe.d00P_en_US_dedes.pePA.Kontakion.incipit
 pePA.Kontakion.text = pe.d00P_en_US_dedes.pePA.Kontakion.text
 
-pePA.Oikos.incipit = pe.d00P_en_US_dedes.pePA.Oikos.incipit
 pePA.Oikos.text = pe.d00P_en_US_dedes.pePA.Oikos.text
 
 pePA.Ode7H.ode = pe.d00P_en_US_dedes.pePA.Ode7H.ode
@@ -331,7 +315,6 @@ pePA.Ode9MTr.text = pe.d00P_en_US_dedes.pePA.Ode9MTr.text
 pePA.Ode9MTh.incipit = pe.d00P_en_US_dedes.pePA.Ode9MTh.incipit
 pePA.Ode9MTh.text = pe.d00P_en_US_dedes.pePA.Ode9MTh.text
 
-pePA.Ode9MKa.incipit = pe.d00P_en_US_dedes.pePA.Ode9MKa.incipit
 pePA.Ode9MKa.text = pe.d00P_en_US_dedes.pePA.Ode9MKa.text
 
 pePA.Ode9H.ode = pe.d00P_en_US_dedes.pePA.Ode9H.ode
@@ -364,15 +347,10 @@ pePA.Ode9T2.melody = pe.d00P_en_US_dedes.pePA.Ode9T2.melody
 pePA.Ode9T2.incipit = pe.d00P_en_US_dedes.pePA.Ode9T2.incipit
 pePA.Ode9T2.text = pe.d00P_en_US_dedes.pePA.Ode9T2.text
 
-pePA.MM.Ode9HH1122asM1M2M3M4GMtrBMth.incipit = pe.d00P_en_US_dedes.pePA.MM.Ode9HH1122asM1M2M3M4GMtrBMth.incipit
 pePA.MM.Ode9HH1122asM1M2M3M4GMtrBMth.text = pe.d00P_en_US_dedes.pePA.MM.Ode9HH1122asM1M2M3M4GMtrBMth.text
-pePA.MM.Ode9HH12asM1M2M3M4.incipit = pe.d00P_en_US_dedes.pePA.MM.Ode9HH12asM1M2M3M4.incipit
 pePA.MM.Ode9HH12asM1M2M3M4.text = pe.d00P_en_US_dedes.pePA.MM.Ode9HH12asM1M2M3M4.text
-pePA.MM.Ode9T1T2asThTh.incipit = pe.d00P_en_US_dedes.pePA.MM.Ode9T1T2asThTh.incipit
 pePA.MM.Ode9T1T2asThTh.text = pe.d00P_en_US_dedes.pePA.MM.Ode9T1T2asThTh.text
-pePA.MM.Ode9T1T2asGB.incipit = pe.d00P_en_US_dedes.pePA.MM.Ode9T1T2asGB.incipit
 pePA.MM.Ode9T1T2asGB.text = pe.d00P_en_US_dedes.pePA.MM.Ode9T1T2asGB.text
-pePA.MM.Ode9T1T2asGMtrBMth.incipit = pe.d00P_en_US_dedes.pePA.MM.Ode9T1T2asGMtrBMth.incipit
 pePA.MM.Ode9T1T2asGMtrBMth.text = pe.d00P_en_US_dedes.pePA.MM.Ode9T1T2asGMtrBMth.text
 
 pePA.Ode9K.ode = pe.d00P_en_US_dedes.pePA.Ode9K.ode
@@ -407,7 +385,6 @@ pePA.SticGlory.incipit = pe.d00P_en_US_dedes.pePA.SticGlory.incipit
 pePA.SticGlory.text = pe.d00P_en_US_dedes.pePA.SticGlory.text
 
 pePA.Homily.title = pe.d00P_en_US_dedes.pePA.Homily.title
-pePA.Homily.incipit = pe.d00P_en_US_dedes.pePA.Homily.incipit
 pePA.Homily.text = pe.d00P_en_US_dedes.pePA.Homily.text
 
 pePA.Hours.title = pe.d00P_en_US_dedes.pePA.Hours.title
@@ -430,14 +407,11 @@ pePA.Hours.R02 = pe.d00P_en_US_dedes.pePA.Hours.R02
 pePA.Hours.R03 = pe.d00P_en_US_dedes.pePA.Hours.R03
 pePA.Hours.R04 = pe.d00P_en_US_dedes.pePA.Hours.R04
 
-pePA.Antiphon2.incipit = pe.d00P_en_US_goa.pePA.Antiphon2.incipit
 pePA.Antiphon2.text = pe.d00P_en_US_goa.pePA.Antiphon2.text
 
-pePA.EntranceHymn.incipit = pe.d00P_en_US_dedes.pePA.EntranceHymn.incipit
 pePA.EntranceHymn.text = pe.d00P_en_US_dedes.pePA.EntranceHymn.text
 
 pePA.TheotokosHymn.mode = pe.d00P_en_US_dedes.pePA.TheotokosHymn.mode
-pePA.TheotokosHymnVerse.incipit = pe.d00P_en_US_dedes.pePA.TheotokosHymnVerse.incipit
 pePA.TheotokosHymnVerse.text = pe.d00P_en_US_dedes.pePA.TheotokosHymnVerse.text
 pePA.TheotokosHymn.incipit = pe.d00P_en_US_dedes.pePA.TheotokosHymn.incipit
 pePA.TheotokosHymn.text = pe.d00P_en_US_dedes.pePA.TheotokosHymn.text

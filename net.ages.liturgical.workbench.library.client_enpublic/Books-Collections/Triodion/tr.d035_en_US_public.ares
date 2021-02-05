@@ -1,11 +1,9 @@
 A_Resource_Whose_Name = tr.d035_en_US_public
 
 trCommemoration.text = tr.d035_en_US_dedes.trCommemoration.text // full title of day
-trShortCommemoration1.incipit = tr.d035_en_US_dedes.trShortCommemoration1.incipit
 trShortCommemoration1.text = tr.d035_en_US_dedes.trShortCommemoration1.text
 trInsert1 = tr.d035_en_US_dedes.trInsert1 // for use in petitions and dismissal
 trInsert2 = tr.d035_en_US_dedes.trInsert2 // for use in petitions and dismissal
-trNote.incipit = tr.d035_en_US_dedes.trNote.incipit
 trNote.text = tr.d035_en_US_dedes.trNote.text
 trHO.daytitle = tr.d035_en_US_dedes.trHO.daytitle
 trHO.commemorations = tr.d035_en_US_dedes.trHO.commemorations
@@ -324,16 +322,6 @@ trMA.Exaposteilarion1.mode = tr.d035_en_US_dedes.trMA.Exaposteilarion1.mode
 trMA.Exaposteilarion1.melody = tr.d035_en_US_dedes.trMA.Exaposteilarion1.melody
 trMA.Exaposteilarion1.incipit = tr.d035_en_US_dedes.trMA.Exaposteilarion1.incipit
 trMA.Exaposteilarion1.text = tr.d035_en_US_dedes.trMA.Exaposteilarion1.text
-
-trLI.Epistle.book = tr.d035_en_US_dedes.trLI.Epistle.book
-trLI.Epistle.chapverse = tr.d035_en_US_dedes.trLI.Epistle.chapverse
-trLI.Epistle.incipit = tr.d035_en_US_dedes.trLI.Epistle.incipit
-trLI.Epistle.text = tr.d035_en_US_dedes.trLI.Epistle.text
-
-trLI.Gospel.book = tr.d035_en_US_dedes.trLI.Gospel.book
-trLI.Gospel.chapverse = tr.d035_en_US_dedes.trLI.Gospel.chapverse
-trLI.Gospel.incipit = tr.d035_en_US_dedes.trLI.Gospel.incipit
-trLI.Gospel.text = tr.d035_en_US_dedes.trLI.Gospel.text
 
 trLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 

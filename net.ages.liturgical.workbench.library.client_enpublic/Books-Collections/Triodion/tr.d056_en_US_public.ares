@@ -1,11 +1,9 @@
 A_Resource_Whose_Name = tr.d056_en_US_public
 
 trCommemoration.text = tr.d056_en_US_dedes.trCommemoration.text // full title of day
-trShortCommemoration1.incipit = tr.d056_en_US_dedes.trShortCommemoration1.incipit
 trShortCommemoration1.text = tr.d056_en_US_dedes.trShortCommemoration1.text
 trInsert1 = tr.d056_en_US_dedes.trInsert1 // for use in petitions and dismissal
 trInsert2 = tr.d056_en_US_dedes.trInsert2 // for use in petitions and dismissal
-trNote.incipit = tr.d056_en_US_dedes.trNote.incipit
 trNote.text = tr.d056_en_US_dedes.trNote.text
 trHO.daytitle = tr.d056_en_US_dedes.trHO.daytitle
 trHO.commemorations = tr.d056_en_US_dedes.trHO.commemorations
@@ -52,145 +50,82 @@ trVE.Apolytikion1.melody = tr.d056_en_US_dedes.trVE.Apolytikion1.melody
 trVE.Apolytikion1.incipit = tr.d056_en_US_dedes.trVE.Apolytikion1.incipit
 trVE.Apolytikion1.text = tr.d056_en_US_dedes.trVE.Apolytikion1.text
 
-trAK.Refrain1.incipit = tr.d056_en_US_dedes.trAK.Refrain1.incipit
 trAK.Refrain1.text = tr.d056_en_US_dedes.trAK.Refrain1.text
-trAK.Refrain2.incipit = tr.d056_en_US_dedes.trAK.Refrain2.incipit
 trAK.Refrain2.text = tr.d056_en_US_dedes.trAK.Refrain2.text
 
-trAK.Oikos010a.incipit = tr.d056_en_US_dedes.trAK.Oikos010a.incipit
 trAK.Oikos010a.text = tr.d056_en_US_dedes.trAK.Oikos010a.text
-trAK.Oikos010b.incipit = tr.d056_en_US_dedes.trAK.Oikos010b.incipit
 trAK.Oikos010b.text = tr.d056_en_US_dedes.trAK.Oikos010b.text
-trAK.Oikos011.incipit = tr.d056_en_US_dedes.trAK.Oikos011.incipit
 trAK.Oikos011.text = tr.d056_en_US_dedes.trAK.Oikos011.text
-trAK.Oikos012.incipit = tr.d056_en_US_dedes.trAK.Oikos012.incipit
 trAK.Oikos012.text = tr.d056_en_US_dedes.trAK.Oikos012.text
-trAK.Oikos013.incipit = tr.d056_en_US_dedes.trAK.Oikos013.incipit
 trAK.Oikos013.text = tr.d056_en_US_dedes.trAK.Oikos013.text
-trAK.Oikos014.incipit = tr.d056_en_US_dedes.trAK.Oikos014.incipit
 trAK.Oikos014.text = tr.d056_en_US_dedes.trAK.Oikos014.text
-trAK.Oikos015.incipit = tr.d056_en_US_dedes.trAK.Oikos015.incipit
 trAK.Oikos015.text = tr.d056_en_US_dedes.trAK.Oikos015.text
-trAK.Oikos016.incipit = tr.d056_en_US_dedes.trAK.Oikos016.incipit
 trAK.Oikos016.text = tr.d056_en_US_dedes.trAK.Oikos016.text
-trAK.Oikos017.incipit = tr.d056_en_US_dedes.trAK.Oikos017.incipit
 trAK.Oikos017.text = tr.d056_en_US_dedes.trAK.Oikos017.text
 
-trAK.Oikos020.incipit = tr.d056_en_US_dedes.trAK.Oikos020.incipit
 trAK.Oikos020.text = tr.d056_en_US_dedes.trAK.Oikos020.text
-trAK.Oikos021.incipit = tr.d056_en_US_dedes.trAK.Oikos021.incipit
 trAK.Oikos021.text = tr.d056_en_US_dedes.trAK.Oikos021.text
 
-trAK.Oikos030.incipit = tr.d056_en_US_dedes.trAK.Oikos030.incipit
 trAK.Oikos030.text = tr.d056_en_US_dedes.trAK.Oikos030.text
-trAK.Oikos031.incipit = tr.d056_en_US_dedes.trAK.Oikos031.incipit
 trAK.Oikos031.text = tr.d056_en_US_dedes.trAK.Oikos031.text
-trAK.Oikos032.incipit = tr.d056_en_US_dedes.trAK.Oikos032.incipit
 trAK.Oikos032.text = tr.d056_en_US_dedes.trAK.Oikos032.text
-trAK.Oikos033.incipit = tr.d056_en_US_dedes.trAK.Oikos033.incipit
 trAK.Oikos033.text = tr.d056_en_US_dedes.trAK.Oikos033.text
-trAK.Oikos034.incipit = tr.d056_en_US_dedes.trAK.Oikos034.incipit
 trAK.Oikos034.text = tr.d056_en_US_dedes.trAK.Oikos034.text
-trAK.Oikos035.incipit = tr.d056_en_US_dedes.trAK.Oikos035.incipit
 trAK.Oikos035.text = tr.d056_en_US_dedes.trAK.Oikos035.text
-trAK.Oikos036.incipit = tr.d056_en_US_dedes.trAK.Oikos036.incipit
 trAK.Oikos036.text = tr.d056_en_US_dedes.trAK.Oikos036.text
-trAK.Oikos037.incipit = tr.d056_en_US_dedes.trAK.Oikos037.incipit
 trAK.Oikos037.text = tr.d056_en_US_dedes.trAK.Oikos037.text
 
-trAK.Oikos040.incipit = tr.d056_en_US_dedes.trAK.Oikos040.incipit
 trAK.Oikos040.text = tr.d056_en_US_dedes.trAK.Oikos040.text
-trAK.Oikos041.incipit = tr.d056_en_US_dedes.trAK.Oikos041.incipit
 trAK.Oikos041.text = tr.d056_en_US_dedes.trAK.Oikos041.text
 
-trAK.Oikos050.incipit = tr.d056_en_US_dedes.trAK.Oikos050.incipit
 trAK.Oikos050.text = tr.d056_en_US_dedes.trAK.Oikos050.text
-trAK.Oikos051.incipit = tr.d056_en_US_dedes.trAK.Oikos051.incipit
 trAK.Oikos051.text = tr.d056_en_US_dedes.trAK.Oikos051.text
-trAK.Oikos052.incipit = tr.d056_en_US_dedes.trAK.Oikos052.incipit
 trAK.Oikos052.text = tr.d056_en_US_dedes.trAK.Oikos052.text
-trAK.Oikos053.incipit = tr.d056_en_US_dedes.trAK.Oikos053.incipit
 trAK.Oikos053.text = tr.d056_en_US_dedes.trAK.Oikos053.text
-trAK.Oikos054.incipit = tr.d056_en_US_dedes.trAK.Oikos054.incipit
 trAK.Oikos054.text = tr.d056_en_US_dedes.trAK.Oikos054.text
-trAK.Oikos055.incipit = tr.d056_en_US_dedes.trAK.Oikos055.incipit
 trAK.Oikos055.text = tr.d056_en_US_dedes.trAK.Oikos055.text
-trAK.Oikos056.incipit = tr.d056_en_US_dedes.trAK.Oikos056.incipit
 trAK.Oikos056.text = tr.d056_en_US_dedes.trAK.Oikos056.text
-trAK.Oikos057.incipit = tr.d056_en_US_dedes.trAK.Oikos057.incipit
 trAK.Oikos057.text = tr.d056_en_US_dedes.trAK.Oikos057.text
 
-trAK.Oikos060.incipit = tr.d056_en_US_dedes.trAK.Oikos060.incipit
 trAK.Oikos060.text = tr.d056_en_US_dedes.trAK.Oikos060.text
-trAK.Oikos061.incipit = tr.d056_en_US_dedes.trAK.Oikos061.incipit
 trAK.Oikos061.text = tr.d056_en_US_dedes.trAK.Oikos061.text
 
 trAK.R001 = tr.d056_en_US_dedes.trAK.R001
 
-trAK.Oikos070.incipit = tr.d056_en_US_dedes.trAK.Oikos070.incipit
 trAK.Oikos070.text = tr.d056_en_US_dedes.trAK.Oikos070.text
-trAK.Oikos071.incipit = tr.d056_en_US_dedes.trAK.Oikos071.incipit
 trAK.Oikos071.text = tr.d056_en_US_dedes.trAK.Oikos071.text
-trAK.Oikos072.incipit = tr.d056_en_US_dedes.trAK.Oikos072.incipit
 trAK.Oikos072.text = tr.d056_en_US_dedes.trAK.Oikos072.text
-trAK.Oikos073.incipit = tr.d056_en_US_dedes.trAK.Oikos073.incipit
 trAK.Oikos073.text = tr.d056_en_US_dedes.trAK.Oikos073.text
-trAK.Oikos074.incipit = tr.d056_en_US_dedes.trAK.Oikos074.incipit
 trAK.Oikos074.text = tr.d056_en_US_dedes.trAK.Oikos074.text
-trAK.Oikos075.incipit = tr.d056_en_US_dedes.trAK.Oikos075.incipit
 trAK.Oikos075.text = tr.d056_en_US_dedes.trAK.Oikos075.text
-trAK.Oikos076.incipit = tr.d056_en_US_dedes.trAK.Oikos076.incipit
 trAK.Oikos076.text = tr.d056_en_US_dedes.trAK.Oikos076.text
-trAK.Oikos077.incipit = tr.d056_en_US_dedes.trAK.Oikos077.incipit
 trAK.Oikos077.text = tr.d056_en_US_dedes.trAK.Oikos077.text
 
-trAK.Oikos080.incipit = tr.d056_en_US_dedes.trAK.Oikos080.incipit
 trAK.Oikos080.text = tr.d056_en_US_dedes.trAK.Oikos080.text
-trAK.Oikos081.incipit = tr.d056_en_US_dedes.trAK.Oikos081.incipit
 trAK.Oikos081.text = tr.d056_en_US_dedes.trAK.Oikos081.text
 
-trAK.Oikos090.incipit = tr.d056_en_US_dedes.trAK.Oikos090.incipit
 trAK.Oikos090.text = tr.d056_en_US_dedes.trAK.Oikos090.text
-trAK.Oikos091.incipit = tr.d056_en_US_dedes.trAK.Oikos091.incipit
 trAK.Oikos091.text = tr.d056_en_US_dedes.trAK.Oikos091.text
-trAK.Oikos092.incipit = tr.d056_en_US_dedes.trAK.Oikos092.incipit
 trAK.Oikos092.text = tr.d056_en_US_dedes.trAK.Oikos092.text
-trAK.Oikos093.incipit = tr.d056_en_US_dedes.trAK.Oikos093.incipit
 trAK.Oikos093.text = tr.d056_en_US_dedes.trAK.Oikos093.text
-trAK.Oikos094.incipit = tr.d056_en_US_dedes.trAK.Oikos094.incipit
 trAK.Oikos094.text = tr.d056_en_US_dedes.trAK.Oikos094.text
-trAK.Oikos095.incipit = tr.d056_en_US_dedes.trAK.Oikos095.incipit
 trAK.Oikos095.text = tr.d056_en_US_dedes.trAK.Oikos095.text
-trAK.Oikos096.incipit = tr.d056_en_US_dedes.trAK.Oikos096.incipit
 trAK.Oikos096.text = tr.d056_en_US_dedes.trAK.Oikos096.text
-trAK.Oikos097.incipit = tr.d056_en_US_dedes.trAK.Oikos097.incipit
 trAK.Oikos097.text = tr.d056_en_US_dedes.trAK.Oikos097.text
 
-trAK.Oikos100.incipit = tr.d056_en_US_dedes.trAK.Oikos100.incipit
 trAK.Oikos100.text = tr.d056_en_US_dedes.trAK.Oikos100.text
-trAK.Oikos101.incipit = tr.d056_en_US_dedes.trAK.Oikos101.incipit
 trAK.Oikos101.text = tr.d056_en_US_dedes.trAK.Oikos101.text
 
-trAK.Oikos110.incipit = tr.d056_en_US_dedes.trAK.Oikos110.incipit
 trAK.Oikos110.text = tr.d056_en_US_dedes.trAK.Oikos110.text
-trAK.Oikos111.incipit = tr.d056_en_US_dedes.trAK.Oikos111.incipit
 trAK.Oikos111.text = tr.d056_en_US_dedes.trAK.Oikos111.text
-trAK.Oikos112.incipit = tr.d056_en_US_dedes.trAK.Oikos112.incipit
 trAK.Oikos112.text = tr.d056_en_US_dedes.trAK.Oikos112.text
-trAK.Oikos113.incipit = tr.d056_en_US_dedes.trAK.Oikos113.incipit
 trAK.Oikos113.text = tr.d056_en_US_dedes.trAK.Oikos113.text
-trAK.Oikos114.incipit = tr.d056_en_US_dedes.trAK.Oikos114.incipit
 trAK.Oikos114.text = tr.d056_en_US_dedes.trAK.Oikos114.text
-trAK.Oikos115.incipit = tr.d056_en_US_dedes.trAK.Oikos115.incipit
 trAK.Oikos115.text = tr.d056_en_US_dedes.trAK.Oikos115.text
-trAK.Oikos116.incipit = tr.d056_en_US_dedes.trAK.Oikos116.incipit
 trAK.Oikos116.text = tr.d056_en_US_dedes.trAK.Oikos116.text
-trAK.Oikos117.incipit = tr.d056_en_US_dedes.trAK.Oikos117.incipit
 trAK.Oikos117.text = tr.d056_en_US_dedes.trAK.Oikos117.text
 
-trAK.Oikos120.incipit = tr.d056_en_US_dedes.trAK.Oikos120.incipit
 trAK.Oikos120.text = tr.d056_en_US_dedes.trAK.Oikos120.text
-trAK.Oikos121.incipit = tr.d056_en_US_dedes.trAK.Oikos121.incipit
 trAK.Oikos121.text = tr.d056_en_US_dedes.trAK.Oikos121.text
 
 trMA.C1.title = tr.d056_en_US_dedes.trMA.C1.title
@@ -278,70 +213,40 @@ trMA.Ode3K.melody = tr.d056_en_US_dedes.trMA.Ode3K.melody
 trMA.Ode3K.incipit = tr.d056_en_US_dedes.trMA.Ode3K.incipit
 trMA.Ode3K.text = tr.d056_en_US_dedes.trMA.Ode3K.text
 
-trAK.Oikos130.incipit = tr.d056_en_US_dedes.trAK.Oikos130.incipit
 trAK.Oikos130.text = tr.d056_en_US_dedes.trAK.Oikos130.text
-trAK.Oikos131.incipit = tr.d056_en_US_dedes.trAK.Oikos131.incipit
 trAK.Oikos131.text = tr.d056_en_US_dedes.trAK.Oikos131.text
-trAK.Oikos132.incipit = tr.d056_en_US_dedes.trAK.Oikos132.incipit
 trAK.Oikos132.text = tr.d056_en_US_dedes.trAK.Oikos132.text
-trAK.Oikos133.incipit = tr.d056_en_US_dedes.trAK.Oikos133.incipit
 trAK.Oikos133.text = tr.d056_en_US_dedes.trAK.Oikos133.text
-trAK.Oikos134.incipit = tr.d056_en_US_dedes.trAK.Oikos134.incipit
 trAK.Oikos134.text = tr.d056_en_US_dedes.trAK.Oikos134.text
-trAK.Oikos135.incipit = tr.d056_en_US_dedes.trAK.Oikos135.incipit
 trAK.Oikos135.text = tr.d056_en_US_dedes.trAK.Oikos135.text
-trAK.Oikos136.incipit = tr.d056_en_US_dedes.trAK.Oikos136.incipit
 trAK.Oikos136.text = tr.d056_en_US_dedes.trAK.Oikos136.text
-trAK.Oikos137.incipit = tr.d056_en_US_dedes.trAK.Oikos137.incipit
 trAK.Oikos137.text = tr.d056_en_US_dedes.trAK.Oikos137.text
 
-trAK.Oikos140.incipit = tr.d056_en_US_dedes.trAK.Oikos140.incipit
 trAK.Oikos140.text = tr.d056_en_US_dedes.trAK.Oikos140.text
-trAK.Oikos141.incipit = tr.d056_en_US_dedes.trAK.Oikos141.incipit
 trAK.Oikos141.text = tr.d056_en_US_dedes.trAK.Oikos141.text
 
-trAK.Oikos150.incipit = tr.d056_en_US_dedes.trAK.Oikos150.incipit
 trAK.Oikos150.text = tr.d056_en_US_dedes.trAK.Oikos150.text
-trAK.Oikos151.incipit = tr.d056_en_US_dedes.trAK.Oikos151.incipit
 trAK.Oikos151.text = tr.d056_en_US_dedes.trAK.Oikos151.text
-trAK.Oikos152.incipit = tr.d056_en_US_dedes.trAK.Oikos152.incipit
 trAK.Oikos152.text = tr.d056_en_US_dedes.trAK.Oikos152.text
-trAK.Oikos153.incipit = tr.d056_en_US_dedes.trAK.Oikos153.incipit
 trAK.Oikos153.text = tr.d056_en_US_dedes.trAK.Oikos153.text
-trAK.Oikos154.incipit = tr.d056_en_US_dedes.trAK.Oikos154.incipit
 trAK.Oikos154.text = tr.d056_en_US_dedes.trAK.Oikos154.text
-trAK.Oikos155.incipit = tr.d056_en_US_dedes.trAK.Oikos155.incipit
 trAK.Oikos155.text = tr.d056_en_US_dedes.trAK.Oikos155.text
-trAK.Oikos156.incipit = tr.d056_en_US_dedes.trAK.Oikos156.incipit
 trAK.Oikos156.text = tr.d056_en_US_dedes.trAK.Oikos156.text
-trAK.Oikos157.incipit = tr.d056_en_US_dedes.trAK.Oikos157.incipit
 trAK.Oikos157.text = tr.d056_en_US_dedes.trAK.Oikos157.text
 
-trAK.Oikos160.incipit = tr.d056_en_US_dedes.trAK.Oikos160.incipit
 trAK.Oikos160.text = tr.d056_en_US_dedes.trAK.Oikos160.text
-trAK.Oikos161.incipit = tr.d056_en_US_dedes.trAK.Oikos161.incipit
 trAK.Oikos161.text = tr.d056_en_US_dedes.trAK.Oikos161.text
 
-trAK.Oikos170.incipit = tr.d056_en_US_dedes.trAK.Oikos170.incipit
 trAK.Oikos170.text = tr.d056_en_US_dedes.trAK.Oikos170.text
-trAK.Oikos171.incipit = tr.d056_en_US_dedes.trAK.Oikos171.incipit
 trAK.Oikos171.text = tr.d056_en_US_dedes.trAK.Oikos171.text
-trAK.Oikos172.incipit = tr.d056_en_US_dedes.trAK.Oikos172.incipit
 trAK.Oikos172.text = tr.d056_en_US_dedes.trAK.Oikos172.text
-trAK.Oikos173.incipit = tr.d056_en_US_dedes.trAK.Oikos173.incipit
 trAK.Oikos173.text = tr.d056_en_US_dedes.trAK.Oikos173.text
-trAK.Oikos174.incipit = tr.d056_en_US_dedes.trAK.Oikos174.incipit
 trAK.Oikos174.text = tr.d056_en_US_dedes.trAK.Oikos174.text
-trAK.Oikos175.incipit = tr.d056_en_US_dedes.trAK.Oikos175.incipit
 trAK.Oikos175.text = tr.d056_en_US_dedes.trAK.Oikos175.text
-trAK.Oikos176.incipit = tr.d056_en_US_dedes.trAK.Oikos176.incipit
 trAK.Oikos176.text = tr.d056_en_US_dedes.trAK.Oikos176.text
-trAK.Oikos177.incipit = tr.d056_en_US_dedes.trAK.Oikos177.incipit
 trAK.Oikos177.text = tr.d056_en_US_dedes.trAK.Oikos177.text
 
-trAK.Oikos180.incipit = tr.d056_en_US_dedes.trAK.Oikos180.incipit
 trAK.Oikos180.text = tr.d056_en_US_dedes.trAK.Oikos180.text
-trAK.Oikos181.incipit = tr.d056_en_US_dedes.trAK.Oikos181.incipit
 trAK.Oikos181.text = tr.d056_en_US_dedes.trAK.Oikos181.text
 
 trMA.Ode3Kathisma1.mode = tr.d056_en_US_dedes.trMA.Ode3Kathisma1.mode
@@ -543,72 +448,41 @@ trMA.Ode6C3H.melody = tr.d056_en_US_dedes.trMA.Ode6C3H.melody
 trMA.Ode6C3H.incipit = tr.d056_en_US_dedes.trMA.Ode6C3H.incipit
 trMA.Ode6C3H.text = tr.d056_en_US_dedes.trMA.Ode6C3H.text
 
-trAK.Oikos190.incipit = tr.d056_en_US_dedes.trAK.Oikos190.incipit
 trAK.Oikos190.text = tr.d056_en_US_dedes.trAK.Oikos190.text
-trAK.Oikos191.incipit = tr.d056_en_US_dedes.trAK.Oikos191.incipit
 trAK.Oikos191.text = tr.d056_en_US_dedes.trAK.Oikos191.text
-trAK.Oikos192.incipit = tr.d056_en_US_dedes.trAK.Oikos192.incipit
 trAK.Oikos192.text = tr.d056_en_US_dedes.trAK.Oikos192.text
-trAK.Oikos193.incipit = tr.d056_en_US_dedes.trAK.Oikos193.incipit
 trAK.Oikos193.text = tr.d056_en_US_dedes.trAK.Oikos193.text
-trAK.Oikos194.incipit = tr.d056_en_US_dedes.trAK.Oikos194.incipit
 trAK.Oikos194.text = tr.d056_en_US_dedes.trAK.Oikos194.text
-trAK.Oikos195.incipit = tr.d056_en_US_dedes.trAK.Oikos195.incipit
 trAK.Oikos195.text = tr.d056_en_US_dedes.trAK.Oikos195.text
-trAK.Oikos196.incipit = tr.d056_en_US_dedes.trAK.Oikos196.incipit
 trAK.Oikos196.text = tr.d056_en_US_dedes.trAK.Oikos196.text
-trAK.Oikos197.incipit = tr.d056_en_US_dedes.trAK.Oikos197.incipit
 trAK.Oikos197.text = tr.d056_en_US_dedes.trAK.Oikos197.text
 
-trAK.Oikos200.incipit = tr.d056_en_US_dedes.trAK.Oikos200.incipit
 trAK.Oikos200.text = tr.d056_en_US_dedes.trAK.Oikos200.text
-trAK.Oikos201.incipit = tr.d056_en_US_dedes.trAK.Oikos201.incipit
 trAK.Oikos201.text = tr.d056_en_US_dedes.trAK.Oikos201.text
 
-trAK.Oikos210.incipit = tr.d056_en_US_dedes.trAK.Oikos210.incipit
 trAK.Oikos210.text = tr.d056_en_US_dedes.trAK.Oikos210.text
-trAK.Oikos211.incipit = tr.d056_en_US_dedes.trAK.Oikos211.incipit
 trAK.Oikos211.text = tr.d056_en_US_dedes.trAK.Oikos211.text
-trAK.Oikos212.incipit = tr.d056_en_US_dedes.trAK.Oikos212.incipit
 trAK.Oikos212.text = tr.d056_en_US_dedes.trAK.Oikos212.text
-trAK.Oikos213.incipit = tr.d056_en_US_dedes.trAK.Oikos213.incipit
 trAK.Oikos213.text = tr.d056_en_US_dedes.trAK.Oikos213.text
-trAK.Oikos214.incipit = tr.d056_en_US_dedes.trAK.Oikos214.incipit
 trAK.Oikos214.text = tr.d056_en_US_dedes.trAK.Oikos214.text
-trAK.Oikos215.incipit = tr.d056_en_US_dedes.trAK.Oikos215.incipit
 trAK.Oikos215.text = tr.d056_en_US_dedes.trAK.Oikos215.text
-trAK.Oikos216.incipit = tr.d056_en_US_dedes.trAK.Oikos216.incipit
 trAK.Oikos216.text = tr.d056_en_US_dedes.trAK.Oikos216.text
-trAK.Oikos217.incipit = tr.d056_en_US_dedes.trAK.Oikos217.incipit
 trAK.Oikos217.text = tr.d056_en_US_dedes.trAK.Oikos217.text
 
-trAK.Oikos220.incipit = tr.d056_en_US_dedes.trAK.Oikos220.incipit
 trAK.Oikos220.text = tr.d056_en_US_dedes.trAK.Oikos220.text
-trAK.Oikos221.incipit = tr.d056_en_US_dedes.trAK.Oikos221.incipit
 trAK.Oikos221.text = tr.d056_en_US_dedes.trAK.Oikos221.text
 
-trAK.Oikos230.incipit = tr.d056_en_US_dedes.trAK.Oikos230.incipit
 trAK.Oikos230.text = tr.d056_en_US_dedes.trAK.Oikos230.text
-trAK.Oikos231.incipit = tr.d056_en_US_dedes.trAK.Oikos231.incipit
 trAK.Oikos231.text = tr.d056_en_US_dedes.trAK.Oikos231.text
-trAK.Oikos232.incipit = tr.d056_en_US_dedes.trAK.Oikos232.incipit
 trAK.Oikos232.text = tr.d056_en_US_dedes.trAK.Oikos232.text
-trAK.Oikos233.incipit = tr.d056_en_US_dedes.trAK.Oikos233.incipit
 trAK.Oikos233.text = tr.d056_en_US_dedes.trAK.Oikos233.text
-trAK.Oikos234.incipit = tr.d056_en_US_dedes.trAK.Oikos234.incipit
 trAK.Oikos234.text = tr.d056_en_US_dedes.trAK.Oikos234.text
-trAK.Oikos235.incipit = tr.d056_en_US_dedes.trAK.Oikos235.incipit
 trAK.Oikos235.text = tr.d056_en_US_dedes.trAK.Oikos235.text
-trAK.Oikos236.incipit = tr.d056_en_US_dedes.trAK.Oikos236.incipit
 trAK.Oikos236.text = tr.d056_en_US_dedes.trAK.Oikos236.text
-trAK.Oikos237.incipit = tr.d056_en_US_dedes.trAK.Oikos237.incipit
 trAK.Oikos237.text = tr.d056_en_US_dedes.trAK.Oikos237.text
 
-trAK.Oikos240a.incipit = tr.d056_en_US_dedes.trAK.Oikos240a.incipit
 trAK.Oikos240a.text = tr.d056_en_US_dedes.trAK.Oikos240a.text
-trAK.Oikos240b.incipit = tr.d056_en_US_dedes.trAK.Oikos240b.incipit
 trAK.Oikos240b.text = tr.d056_en_US_dedes.trAK.Oikos240b.text
-trAK.Oikos241.incipit = tr.d056_en_US_dedes.trAK.Oikos241.incipit
 trAK.Oikos241.text = tr.d056_en_US_dedes.trAK.Oikos241.text
 
 trMA.Kontakion1.mode = tr.d056_en_US_dedes.trMA.Kontakion1.mode
@@ -628,40 +502,24 @@ trAK.Kontakion5.text = tr.d056_en_US_dedes.trAK.Kontakion5.text
 trAK.Kontakion6.incipit = tr.d056_en_US_dedes.trAK.Kontakion6.incipit
 trAK.Kontakion6.text = tr.d056_en_US_dedes.trAK.Kontakion6.text
 
-trMA.Synaxarion.commemoration.incipit = tr.d056_en_US_dedes.trMA.Synaxarion.commemoration.incipit
 trMA.Synaxarion.commemoration.text = tr.d056_en_US_dedes.trMA.Synaxarion.commemoration.text
 trMA.Synaxarion.couplet1.title = tr.d056_en_US_dedes.trMA.Synaxarion.couplet1.title
 trMA.Synaxarion.couplet1.verse1 = tr.d056_en_US_dedes.trMA.Synaxarion.couplet1.verse1
 trMA.Synaxarion.couplet1.verse2 = tr.d056_en_US_dedes.trMA.Synaxarion.couplet1.verse2
-trMA.Synaxarion.narration1.p01.incipit = tr.d056_en_US_dedes.trMA.Synaxarion.narration1.p01.incipit
 trMA.Synaxarion.narration1.p01.text = tr.d056_en_US_dedes.trMA.Synaxarion.narration1.p01.text
-trMA.Synaxarion.narration1.p02.incipit = tr.d056_en_US_dedes.trMA.Synaxarion.narration1.p02.incipit
 trMA.Synaxarion.narration1.p02.text = tr.d056_en_US_dedes.trMA.Synaxarion.narration1.p02.text
-trMA.Synaxarion.narration1.p03.incipit = tr.d056_en_US_dedes.trMA.Synaxarion.narration1.p03.incipit
 trMA.Synaxarion.narration1.p03.text = tr.d056_en_US_dedes.trMA.Synaxarion.narration1.p03.text
-trMA.Synaxarion.narration1.p04.incipit = tr.d056_en_US_dedes.trMA.Synaxarion.narration1.p04.incipit
 trMA.Synaxarion.narration1.p04.text = tr.d056_en_US_dedes.trMA.Synaxarion.narration1.p04.text
-trMA.Synaxarion.narration1.p05.incipit = tr.d056_en_US_dedes.trMA.Synaxarion.narration1.p05.incipit
 trMA.Synaxarion.narration1.p05.text = tr.d056_en_US_dedes.trMA.Synaxarion.narration1.p05.text
-trMA.Synaxarion.narration1.p06.incipit = tr.d056_en_US_dedes.trMA.Synaxarion.narration1.p06.incipit
 trMA.Synaxarion.narration1.p06.text = tr.d056_en_US_dedes.trMA.Synaxarion.narration1.p06.text
-trMA.Synaxarion.narration1.p07.incipit = tr.d056_en_US_dedes.trMA.Synaxarion.narration1.p07.incipit
 trMA.Synaxarion.narration1.p07.text = tr.d056_en_US_dedes.trMA.Synaxarion.narration1.p07.text
-trMA.Synaxarion.narration2.p01.incipit = tr.d056_en_US_dedes.trMA.Synaxarion.narration2.p01.incipit
 trMA.Synaxarion.narration2.p01.text = tr.d056_en_US_dedes.trMA.Synaxarion.narration2.p01.text
-trMA.Synaxarion.narration2.p02.incipit = tr.d056_en_US_dedes.trMA.Synaxarion.narration2.p02.incipit
 trMA.Synaxarion.narration2.p02.text = tr.d056_en_US_dedes.trMA.Synaxarion.narration2.p02.text
-trMA.Synaxarion.narration2.p03.incipit = tr.d056_en_US_dedes.trMA.Synaxarion.narration2.p03.incipit
 trMA.Synaxarion.narration2.p03.text = tr.d056_en_US_dedes.trMA.Synaxarion.narration2.p03.text
-trMA.Synaxarion.narration2.p04.incipit = tr.d056_en_US_dedes.trMA.Synaxarion.narration2.p04.incipit
 trMA.Synaxarion.narration2.p04.text = tr.d056_en_US_dedes.trMA.Synaxarion.narration2.p04.text
-trMA.Synaxarion.narration2.p05.incipit = tr.d056_en_US_dedes.trMA.Synaxarion.narration2.p05.incipit
 trMA.Synaxarion.narration2.p05.text = tr.d056_en_US_dedes.trMA.Synaxarion.narration2.p05.text
-trMA.Synaxarion.narration2.p06.incipit = tr.d056_en_US_dedes.trMA.Synaxarion.narration2.p06.incipit
 trMA.Synaxarion.narration2.p06.text = tr.d056_en_US_dedes.trMA.Synaxarion.narration2.p06.text
-trMA.Synaxarion.narration2.p07.incipit = tr.d056_en_US_dedes.trMA.Synaxarion.narration2.p07.incipit
 trMA.Synaxarion.narration2.p07.text = tr.d056_en_US_dedes.trMA.Synaxarion.narration2.p07.text
-trMA.Synaxarion.lastline.incipit = tr.d056_en_US_dedes.trMA.Synaxarion.lastline.incipit
 trMA.Synaxarion.lastline.text = tr.d056_en_US_dedes.trMA.Synaxarion.lastline.text
 
 trMA.Ode7C1H.ode = tr.d056_en_US_dedes.trMA.Ode7C1H.ode
@@ -1004,6 +862,5 @@ trLI.Kontakion1.text = tr.d056_en_US_dedes.trLI.Kontakion1.text
 
 trLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
-trMegalynarion.incipit = tr.d056_en_US_dedes.trMegalynarion.incipit
 trMegalynarion.text = tr.d056_en_US_dedes.trMegalynarion.text
 

@@ -1,11 +1,9 @@
 A_Resource_Whose_Name = tr.d071_en_US_public
 
 trCommemoration.text = tr.d071_en_US_dedes.trCommemoration.text // full title of day
-trShortCommemoration1.incipit = tr.d071_en_US_dedes.trShortCommemoration1.incipit
 trShortCommemoration1.text = tr.d071_en_US_dedes.trShortCommemoration1.text
 trInsert1 = tr.d071_en_US_dedes.trInsert1 // for use in petitions and dismissal
 trInsert2 = tr.d071_en_US_dedes.trInsert2 // for use in petitions and dismissal
-trNote.incipit = tr.d071_en_US_dedes.trNote.incipit
 trNote.text = tr.d071_en_US_dedes.trNote.text
 trHO.daytitle = tr.d071_en_US_dedes.trHO.daytitle
 trHO.commemorations = tr.d071_en_US_dedes.trHO.commemorations
@@ -63,10 +61,8 @@ trVE.SticTheotokion.text = tr.d071_en_US_holycross.trVE.SticTheotokion.text
 // Hymn of the Three Servants
 trHW.SaturdayHymn.title = tr.d071_en_US_dedes.trHW.SaturdayHymn.title
 trHW.SaturdayHymn.mode = tr.d071_en_US_dedes.trHW.SaturdayHymn.mode // or Mode6
-trHW.SaturdayHymn.incipit = tr.d071_en_US_dedes.trHW.SaturdayHymn.incipit
 trHW.SaturdayHymn.text = tr.d071_en_US_dedes.trHW.SaturdayHymn.text
 
-trHW.SaturdayArise.incipit = tr.d071_en_US_dedes.trHW.SaturdayArise.incipit
 trHW.SaturdayArise.text = tr.d071_en_US_dedes.trHW.SaturdayArise.text
 
 trHW.CherubicHymn.title = tr.d071_en_US_dedes.trHW.CherubicHymn.title
@@ -80,7 +76,6 @@ trHW.TheotokosHymn.mode = tr.d071_en_US_dedes.trHW.TheotokosHymn.mode
 trHW.TheotokosHymn.incipit = tr.d071_en_US_dedes.trHW.TheotokosHymn.incipit
 trHW.TheotokosHymn.text = tr.d071_en_US_dedes.trHW.TheotokosHymn.text
 
-trHW.CommunionHymn.incipit = tr.d071_en_US_dedes.trHW.CommunionHymn.incipit
 trHW.CommunionHymn.text = tr.d071_en_US_dedes.trHW.CommunionHymn.text
 
 trHW.AfterCommunion.mode = tr.d071_en_US_dedes.trHW.AfterCommunion.mode

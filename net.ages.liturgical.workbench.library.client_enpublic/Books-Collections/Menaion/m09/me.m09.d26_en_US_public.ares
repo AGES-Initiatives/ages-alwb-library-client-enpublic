@@ -1,15 +1,12 @@
 A_Resource_Whose_Name = me.m09.d26_en_US_public
 
-meDate.incipit = me.m09.d26_en_US_dedes.meDate.incipit
 meDate.text = me.m09.d26_en_US_dedes.meDate.text
 meCommemoration.text = me.m09.d26_en_US_dedes.meCommemoration.text // full title of day
-meShortCommemoration1.incipit = me.m09.d26_en_US_dedes.meShortCommemoration1.incipit
 meShortCommemoration1.text = me.m09.d26_en_US_dedes.meShortCommemoration1.text
 meCom1.title = me.m09.d26_en_US_dedes.meCom1.title
 meCom2.title = me.m09.d26_en_US_dedes.meCom2.title
 meInsert1 = me.m09.d26_en_US_dedes.meInsert1 // for use in petitions and dismissal
 meInsert2 = me.m09.d26_en_US_dedes.meInsert2 // for use in petitions and dismissal
-meNote.incipit = me.m09.d26_en_US_dedes.meNote.incipit
 meNote.text = me.m09.d26_en_US_dedes.meNote.text
 meLE.commemoration1 = me.m09.d26_en_US_dedes.meLE.commemoration1
 meLE.commemoration2 = me.m09.d26_en_US_dedes.meLE.commemoration2
@@ -597,7 +594,6 @@ meMA.Kontakion1.melody = me.m09.d26_en_US_dedes.meMA.Kontakion1.melody
 meMA.Kontakion1.incipit = me.m09.d26_en_US_dedes.meMA.Kontakion1.incipit
 meMA.Kontakion1.text = me.m09.d26_en_US_dedes.meMA.Kontakion1.text
 
-meMA.Oikos1.incipit = me.m09.d26_en_US_dedes.meMA.Oikos1.incipit
 meMA.Oikos1.text = me.m09.d26_en_US_dedes.meMA.Oikos1.text
 
 meMA.Ode7C1H.ode = me.m09.d26_en_US_dedes.meMA.Ode7C1H.ode
@@ -856,7 +852,6 @@ meMA.LaudsTheotokion.melody = me.m09.d26_en_US_dedes.meMA.LaudsTheotokion.melody
 meMA.LaudsTheotokion.incipit = me.m09.d26_en_US_dedes.meMA.LaudsTheotokion.incipit
 meMA.LaudsTheotokion.text = me.m09.d26_en_US_dedes.meMA.LaudsTheotokion.text
 
-meMA.MM.Lauds1234as5678.incipit = me.m09.d26_en_US_dedes.meMA.MM.Lauds1234as5678.incipit
 meMA.MM.Lauds1234as5678.text = me.m09.d26_en_US_dedes.meMA.MM.Lauds1234as5678.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
@@ -866,5 +861,4 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
-meMegalynarion.incipit = me.m09.d26_en_US_dedes.meMegalynarion.incipit
 meMegalynarion.text = me.m09.d26_en_US_dedes.meMegalynarion.text

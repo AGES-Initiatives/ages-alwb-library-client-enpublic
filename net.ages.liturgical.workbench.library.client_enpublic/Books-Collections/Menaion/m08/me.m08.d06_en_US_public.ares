@@ -1,15 +1,12 @@
 A_Resource_Whose_Name = me.m08.d06_en_US_public
 
-meDate.incipit = me.m08.d06_en_US_dedes.meDate.incipit
 meDate.text = me.m08.d06_en_US_dedes.meDate.text
 meCommemoration.text = me.m08.d06_en_US_dedes.meCommemoration.text // full title of day
-meShortCommemoration1.incipit = me.m08.d06_en_US_dedes.meShortCommemoration1.incipit
 meShortCommemoration1.text = me.m08.d06_en_US_dedes.meShortCommemoration1.text
 meCom1.title = me.m08.d06_en_US_dedes.meCom1.title
 meCom2.title = me.m08.d06_en_US_dedes.meCom2.title
 meInsert1 = me.m08.d06_en_US_dedes.meInsert1 // for use in petitions and dismissal
 meInsert2 = me.m08.d06_en_US_dedes.meInsert2 // for use in petitions and dismissal
-meNote.incipit = me.m08.d06_en_US_dedes.meNote.incipit
 meNote.text = me.m08.d06_en_US_dedes.meNote.text
 meLE.commemoration1 = me.m08.d06_en_US_dedes.meLE.commemoration1
 meLE.commemoration2 = me.m08.d06_en_US_dedes.meLE.commemoration2
@@ -81,7 +78,6 @@ meVE.Stichera04.melody = me.m08.d06_en_US_dedes.meVE.Stichera04.melody
 meVE.Stichera04.incipit = me.m08.d06_en_US_dedes.meVE.Stichera04.incipit
 meVE.Stichera04.text = me.m08.d06_en_US_dedes.meVE.Stichera04.text
 
-meVE.MM.Stichera1234as78910.incipit = me.m08.d06_en_US_dedes.meVE.MM.Stichera1234as78910.incipit
 meVE.MM.Stichera1234as78910.text = me.m08.d06_en_US_dedes.meVE.MM.Stichera1234as78910.text
 
 meVE.SticGlory.poet = me.m08.d06_en_US_dedes.meVE.SticGlory.poet
@@ -414,7 +410,6 @@ meMA.Kontakion1.melody = me.m08.d06_en_US_dedes.meMA.Kontakion1.melody
 meMA.Kontakion1.incipit = me.m08.d06_en_US_dedes.meMA.Kontakion1.incipit
 meMA.Kontakion1.text = me.m08.d06_en_US_dedes.meMA.Kontakion1.text
 
-meMA.Oikos1.incipit = me.m08.d06_en_US_dedes.meMA.Oikos1.incipit
 meMA.Oikos1.text = me.m08.d06_en_US_dedes.meMA.Oikos1.text
 
 meMA.Ode7C1H.ode = me.m08.d06_en_US_dedes.meMA.Ode7C1H.ode
@@ -611,19 +606,13 @@ meMA.LaudsGlory.melody = me.m08.d06_en_US_dedes.meMA.LaudsGlory.melody
 meMA.LaudsGlory.incipit = me.m08.d06_en_US_dedes.meMA.LaudsGlory.incipit
 meMA.LaudsGlory.text = me.m08.d06_en_US_dedes.meMA.LaudsGlory.text
 
-meMA.MM.Lauds1123as5678.incipit = me.m08.d06_en_US_dedes.meMA.MM.Lauds1123as5678.incipit
 meMA.MM.Lauds1123as5678.text = me.m08.d06_en_US_dedes.meMA.MM.Lauds1123as5678.text
 
-meLI.Antiphon2.incipit = me.m08.d06_en_US_dedes.meLI.Antiphon2.incipit
 meLI.Antiphon2.text = me.m08.d06_en_US_dedes.meLI.Antiphon2.text
 
-meLI.MM.EntranceHymn.incipit = me.m08.d06_en_US_dedes.meLI.MM.EntranceHymn.incipit
 meLI.MM.EntranceHymn.text = me.m08.d06_en_US_dedes.meLI.MM.EntranceHymn.text
-meLI.MM.EntranceHymn2.incipit = me.m08.d06_en_US_dedes.meLI.MM.EntranceHymn2.incipit
 meLI.MM.EntranceHymn2.text = me.m08.d06_en_US_dedes.meLI.MM.EntranceHymn2.text
-meLI.MM.EntranceHymnSunday.incipit = me.m08.d06_en_US_dedes.meLI.MM.EntranceHymnSunday.incipit
 meLI.MM.EntranceHymnSunday.text = me.m08.d06_en_US_dedes.meLI.MM.EntranceHymnSunday.text
-meLI.MM.EntranceHymn2Sunday.incipit = me.m08.d06_en_US_dedes.meLI.MM.EntranceHymn2Sunday.incipit
 meLI.MM.EntranceHymn2Sunday.text = me.m08.d06_en_US_dedes.meLI.MM.EntranceHymn2Sunday.text
 
 meLI.Kontakion1.mode = me.m08.d06_en_US_dedes.meLI.Kontakion1.mode
@@ -637,6 +626,5 @@ meLI.TheotokosHymn.text = me.m08.d06_en_US_dedes.meLI.TheotokosHymn.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
-meMegalynarion.incipit = me.m08.d06_en_US_dedes.meMegalynarion.incipit
 meMegalynarion.text = me.m08.d06_en_US_dedes.meMegalynarion.text
 

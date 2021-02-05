@@ -1,11 +1,9 @@
 A_Resource_Whose_Name = tr.d045_en_US_public
 
 trCommemoration.text = tr.d045_en_US_dedes.trCommemoration.text // full title of day
-trShortCommemoration1.incipit = tr.d045_en_US_dedes.trShortCommemoration1.incipit
 trShortCommemoration1.text = tr.d045_en_US_dedes.trShortCommemoration1.text
 trInsert1 = tr.d045_en_US_dedes.trInsert1 // for use in petitions and dismissal
 trInsert2 = tr.d045_en_US_dedes.trInsert2 // for use in petitions and dismissal
-trNote.incipit = tr.d045_en_US_dedes.trNote.incipit
 trNote.text = tr.d045_en_US_dedes.trNote.text
 trHO.daytitle = tr.d045_en_US_dedes.trHO.daytitle
 trHO.commemorations = tr.d045_en_US_dedes.trHO.commemorations

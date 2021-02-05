@@ -1,15 +1,12 @@
 A_Resource_Whose_Name = me.m11.d25_en_US_public
 
-meDate.incipit = me.m11.d25_en_US_dedes.meDate.incipit
 meDate.text = me.m11.d25_en_US_dedes.meDate.text
 meCommemoration.text = me.m11.d25_en_US_dedes.meCommemoration.text // full title of day
-meShortCommemoration1.incipit = me.m11.d25_en_US_dedes.meShortCommemoration1.incipit
 meShortCommemoration1.text = me.m11.d25_en_US_dedes.meShortCommemoration1.text
 meCom1.title = me.m11.d25_en_US_dedes.meCom1.title
 meCom2.title = me.m11.d25_en_US_dedes.meCom2.title
 meInsert1 = me.m11.d25_en_US_dedes.meInsert1 // for use in petitions and dismissal
 meInsert2 = me.m11.d25_en_US_dedes.meInsert2 // for use in petitions and dismissal
-meNote.incipit = me.m11.d25_en_US_dedes.meNote.incipit
 meNote.text = me.m11.d25_en_US_dedes.meNote.text
 meLE.commemoration1 = me.m11.d25_en_US_dedes.meLE.commemoration1
 meLE.commemoration2 = me.m11.d25_en_US_dedes.meLE.commemoration2
@@ -436,7 +433,6 @@ meMA.Kontakion1.melody = me.m11.d25_en_US_dedes.meMA.Kontakion1.melody
 meMA.Kontakion1.incipit = me.m11.d25_en_US_dedes.meMA.Kontakion1.incipit
 meMA.Kontakion1.text = me.m11.d25_en_US_dedes.meMA.Kontakion1.text
 
-meMA.Oikos1.incipit = me.m11.d25_en_US_dedes.meMA.Oikos1.incipit
 meMA.Oikos1.text = me.m11.d25_en_US_dedes.meMA.Oikos1.text
 
 meMA.Ode7C11.ode = me.m11.d25_en_US_dedes.meMA.Ode7C11.ode
@@ -664,11 +660,8 @@ meMA.Lauds6.melody = me.m11.d25_en_US_dedes.meMA.Lauds6.melody
 meMA.Lauds6.incipit = me.m11.d25_en_US_dedes.meMA.Lauds6.incipit
 meMA.Lauds6.text = me.m11.d25_en_US_dedes.meMA.Lauds6.text
 
-meMA.MM.Lauds12as45.incipit = me.m11.d25_en_US_dedes.meMA.MM.Lauds12as45.incipit
 meMA.MM.Lauds12as45.text = me.m11.d25_en_US_dedes.meMA.MM.Lauds12as45.text
-meMA.MM.Lauds123as123.incipit = me.m11.d25_en_US_dedes.meMA.MM.Lauds123as123.incipit
 meMA.MM.Lauds123as123.text = me.m11.d25_en_US_dedes.meMA.MM.Lauds123as123.text
-meMA.MM.Lauds456as678.incipit = me.m11.d25_en_US_dedes.meMA.MM.Lauds456as678.incipit
 meMA.MM.Lauds456as678.text = me.m11.d25_en_US_dedes.meMA.MM.Lauds456as678.text
 
 meMA.LaudsGlory.mode = me.m11.d25_en_US_dedes.meMA.LaudsGlory.mode
@@ -694,6 +687,5 @@ meLI.TheotokosHymn.text = me.m11.d25_en_US_dedes.meLI.TheotokosHymn.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
-meMegalynarion.incipit = me.m11.d25_en_US_dedes.meMegalynarion.incipit
 meMegalynarion.text = me.m11.d25_en_US_dedes.meMegalynarion.text
 

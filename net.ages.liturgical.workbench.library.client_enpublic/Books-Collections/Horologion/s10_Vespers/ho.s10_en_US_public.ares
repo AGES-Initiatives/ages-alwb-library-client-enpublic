@@ -4,11 +4,8 @@ hoVE.title = ho.s10_en_US_dedes.hoVE.title
 
 R01 = ho.s10_en_US_dedes.R01
 R02 = ho.s10_en_US_dedes.R02
-hoVE.Ps103.incipit = ho.s10_en_US_dedes.hoVE.Ps103.incipit
 hoVE.Ps103.text = ho.s10_en_US_dedes.hoVE.Ps103.text
-hoVE.MM.Anoixantaria.incipit = ho.s10_en_US_dedes.hoVE.MM.Anoixantaria.incipit
 hoVE.MM.Anoixantaria.text = ho.s10_en_US_dedes.hoVE.MM.Anoixantaria.text
-hoVE.MM.Kathisma11.incipit = ho.s10_en_US_dedes.hoVE.MM.Kathisma11.incipit
 hoVE.MM.Kathisma11.text = ho.s10_en_US_dedes.hoVE.MM.Kathisma11.text
 R03 = ho.s10_en_US_dedes.R03
 R04 = ho.s10_en_US_dedes.R04
@@ -24,59 +21,44 @@ hoVE.FosIlaron.text = ho.s10_en_US_dedes.hoVE.FosIlaron.text
 R11 = ho.s10_en_US_dedes.R11
 
 hoVE.SundayEvening.title = ho.s10_en_US_dedes.hoVE.SundayEvening.title
-hoVE.SundayProkeimenon.incipit = ho.s10_en_US_dedes.hoVE.SundayProkeimenon.incipit
 hoVE.SundayProkeimenon.text = ho.s10_en_US_dedes.hoVE.SundayProkeimenon.text
 
 hoVE.MondayEvening.title = ho.s10_en_US_dedes.hoVE.MondayEvening.title
-hoVE.MondayProkeimenon.incipit = ho.s10_en_US_dedes.hoVE.MondayProkeimenon.incipit
 hoVE.MondayProkeimenon.text = ho.s10_en_US_dedes.hoVE.MondayProkeimenon.text
 
 hoVE.TuesdayEvening.title = ho.s10_en_US_dedes.hoVE.TuesdayEvening.title
-hoVE.TuesdayProkeimenon.incipit = ho.s10_en_US_dedes.hoVE.TuesdayProkeimenon.incipit
 hoVE.TuesdayProkeimenon.text = ho.s10_en_US_dedes.hoVE.TuesdayProkeimenon.text
 
 hoVE.WednesdayEvening.title = ho.s10_en_US_dedes.hoVE.WednesdayEvening.title
-hoVE.WednesdayProkeimenon.incipit = ho.s10_en_US_dedes.hoVE.WednesdayProkeimenon.incipit
 hoVE.WednesdayProkeimenon.text = ho.s10_en_US_dedes.hoVE.WednesdayProkeimenon.text
 
 hoVE.ThursdayEvening.title = ho.s10_en_US_dedes.hoVE.ThursdayEvening.title
-hoVE.ThursdayProkeimenon.incipit = ho.s10_en_US_dedes.hoVE.ThursdayProkeimenon.incipit
 hoVE.ThursdayProkeimenon.text = ho.s10_en_US_dedes.hoVE.ThursdayProkeimenon.text
 
 hoVE.FridayEvening.title = ho.s10_en_US_dedes.hoVE.FridayEvening.title
-hoVE.FridayProkeimenon.incipit = ho.s10_en_US_dedes.hoVE.FridayProkeimenon.incipit
 hoVE.FridayProkeimenon.text = ho.s10_en_US_dedes.hoVE.FridayProkeimenon.text
 
 hoVE.SaturdayEvening.title = ho.s10_en_US_dedes.hoVE.SaturdayEvening.title
-hoVE.SaturdayProkeimenon.incipit = ho.s10_en_US_dedes.hoVE.SaturdayProkeimenon.incipit
 hoVE.SaturdayProkeimenon.text = ho.s10_en_US_dedes.hoVE.SaturdayProkeimenon.text
 
-hoVE.GreatProkeimenonTisTheosMegas.incipit = ho.s10_en_US_dedes.hoVE.GreatProkeimenonTisTheosMegas.incipit
 hoVE.GreatProkeimenonTisTheosMegas.text = ho.s10_en_US_dedes.hoVE.GreatProkeimenonTisTheosMegas.text
-hoVE.GreatProkeimenonOTheosImon.incipit = ho.s10_en_US_dedes.hoVE.GreatProkeimenonOTheosImon.incipit
 hoVE.GreatProkeimenonOTheosImon.text = ho.s10_en_US_dedes.hoVE.GreatProkeimenonOTheosImon.text
-hoVE.GreatProkeimenonLent1.incipit = ho.s10_en_US_dedes.hoVE.GreatProkeimenonLent1.incipit
 hoVE.GreatProkeimenonLent1.text = ho.s10_en_US_dedes.hoVE.GreatProkeimenonLent1.text
-hoVE.GreatProkeimenonLent2.incipit = ho.s10_en_US_dedes.hoVE.GreatProkeimenonLent2.incipit
 hoVE.GreatProkeimenonLent2.text = ho.s10_en_US_dedes.hoVE.GreatProkeimenonLent2.text
 
 R12 = ho.s10_en_US_dedes.R12
 R13 = ho.s10_en_US_dedes.R13
 R14 = ho.s10_en_US_dedes.R14
 hoVE.MondayAlleluia.title = ho.s10_en_US_dedes.hoVE.MondayAlleluia.title
-hoVE.MondayAlleluia.incipit = ho.s10_en_US_dedes.hoVE.MondayAlleluia.incipit
 hoVE.MondayAlleluia.text = ho.s10_en_US_dedes.hoVE.MondayAlleluia.text
 
 hoVE.TuesdayThursdayAlleluia.title = ho.s10_en_US_dedes.hoVE.TuesdayThursdayAlleluia.title
-hoVE.TuesdayThursdayAlleluia.incipit = ho.s10_en_US_dedes.hoVE.TuesdayThursdayAlleluia.incipit
 hoVE.TuesdayThursdayAlleluia.text = ho.s10_en_US_dedes.hoVE.TuesdayThursdayAlleluia.text
 
 hoVE.WednesdayAlleluia.title = ho.s10_en_US_dedes.hoVE.WednesdayAlleluia.title
-hoVE.WednesdayAlleluia.incipit = ho.s10_en_US_dedes.hoVE.WednesdayAlleluia.incipit
 hoVE.WednesdayAlleluia.text = ho.s10_en_US_dedes.hoVE.WednesdayAlleluia.text
 
 hoVE.FridayAlleluia.title = ho.s10_en_US_dedes.hoVE.FridayAlleluia.title
-hoVE.FridayAlleluia.incipit = ho.s10_en_US_dedes.hoVE.FridayAlleluia.incipit
 hoVE.FridayAlleluia.text = ho.s10_en_US_dedes.hoVE.FridayAlleluia.text
 
 R15 = ho.s10_en_US_dedes.R15
@@ -90,7 +72,7 @@ R19 = ho.s10_en_US_dedes.R19
 R20 = ho.s10_en_US_dedes.R20
 R21 = ho.s10_en_US_dedes.R21
 hoVE.LentApolytikion1.mode = ho.s10_en_US_dedes.hoVE.LentApolytikion1.mode
-hoVE.LentApolytikion1.incipit = ho.s10_en_US_dedes.hoVE.LentApolytikion1.incipit
+hoVE.LentApolytikion1.incipit = ""
 hoVE.LentApolytikion1.text = ho.s10_en_US_dedes.hoVE.LentApolytikion1.text
 hoVE.LentApolytikion2.mode = ho.s10_en_US_dedes.hoVE.LentApolytikion2.mode
 hoVE.LentApolytikion2.incipit = ho.s10_en_US_dedes.hoVE.LentApolytikion2.incipit
@@ -106,18 +88,16 @@ R22 = ho.s10_en_US_dedes.R22
 R23 = ho.s10_en_US_dedes.R23
 R24 = ho.s10_en_US_dedes.R24
 R25 = ho.s10_en_US_dedes.R25
+hoVE.Prayer_PanagiaTrias.incipit = ho.s10_en_US_dedes.hoVE.Prayer_PanagiaTrias.incipit // All-holy Trinity, the consubstantial dominion...
 hoVE.Prayer_PanagiaTrias.text = ho.s10_en_US_dedes.hoVE.Prayer_PanagiaTrias.text // All-holy Trinity, the consubstantial dominion...
 hoVE.Prayer_EiiToOnomaKyriou.text = ho.s10_en_US_dedes.hoVE.Prayer_EiiToOnomaKyriou.text // Blessed be the name of the Lord...
 R26 = ho.s10_en_US_dedes.R26
 
 // Not in Orologion
 //Lity
-hoVE.MM.LityKyrieEleison.incipit.text = ho.s10_en_US_dedes.hoVE.MM.LityKyrieEleison.incipit.text
 hoVE.MM.LityKyrieEleison.text.text = ho.s10_en_US_dedes.hoVE.MM.LityKyrieEleison.text.text
 
 // Artoclasia
-hoVE.MM.ArtoklasiaTheotokeParthene.incipit = ho.s10_en_US_dedes.hoVE.MM.ArtoklasiaTheotokeParthene.incipit
 hoVE.MM.ArtoklasiaTheotokeParthene.text = ho.s10_en_US_dedes.hoVE.MM.ArtoklasiaTheotokeParthene.text
-hoVE.MM.ArtoklasiaHymn.incipit = ho.s10_en_US_dedes.hoVE.MM.ArtoklasiaHymn.incipit
 hoVE.MM.ArtoklasiaHymn.text = ho.s10_en_US_dedes.hoVE.MM.ArtoklasiaHymn.text
 
