@@ -1,13 +1,13 @@
 A_Resource_Whose_Name = me.m03.d25_en_US_public
 
-meDate.text = me.m03.d25_en_US_dedes.meDate.text // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = me.m03.d25_en_US_dedes.meCommemoration.text // full title of day
-meShortCommemoration1.text = me.m03.d25_en_US_dedes.meShortCommemoration1.text
-meCom1.title = me.m03.d25_en_US_dedes.meCom1.title
-meCom2.title = me.m03.d25_en_US_dedes.meCom2.title
-meInsert1 = me.m03.d25_en_US_dedes.meInsert1 // for use in petitions and dismissal
-meInsert2 = me.m03.d25_en_US_dedes.meInsert2 // for use in petitions and dismissal
-meNote.text = me.m03.d25_en_US_dedes.meNote.text
+meDA.date = me.m03.d25_en_US_dedes.meDA.date // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = me.m03.d25_en_US_dedes.meDA.commemoration.full // full title of day
+meDA.commemoration.first_short = me.m03.d25_en_US_dedes.meDA.commemoration.first_short
+meDA.commemoration.first_title = me.m03.d25_en_US_dedes.meDA.commemoration.first_title
+meDA.commemoration.second_title = me.m03.d25_en_US_dedes.meDA.commemoration.second_title
+meDA.insert1 = me.m03.d25_en_US_dedes.meDA.insert1 // for use in petitions and dismissal
+meDA.insert2 = me.m03.d25_en_US_dedes.meDA.insert2 // for use in petitions and dismissal
+meDA.note = me.m03.d25_en_US_dedes.meDA.note
 meLE.commemoration1 = me.m03.d25_en_US_dedes.meLE.commemoration1
 meLE.commemoration2 = me.m03.d25_en_US_dedes.meLE.commemoration2
 meHO.number = me.m03.d25_en_US_dedes.meHO.number
@@ -15,7 +15,7 @@ meHO.rank = me.m03.d25_en_US_dedes.meHO.rank
 meHO.commemorations = me.m03.d25_en_US_dedes.meHO.commemorations
 meHO.note1 = me.m03.d25_en_US_dedes.meHO.note1
 meHO.note2 = me.m03.d25_en_US_dedes.meHO.note2
-meDismissal = me.m03.d25_en_US_dedes.meDismissal
+meDA.dismissal = me.m03.d25_en_US_dedes.meDA.dismissal
 
 meSV.Stichera1.mode = me.m03.d25_en_US_dedes.meSV.Stichera1.mode
 meSV.Stichera1.melody = me.m03.d25_en_US_dedes.meSV.Stichera1.melody

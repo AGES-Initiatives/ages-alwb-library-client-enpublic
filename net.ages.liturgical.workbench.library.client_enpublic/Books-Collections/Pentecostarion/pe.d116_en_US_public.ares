@@ -1,17 +1,17 @@
 A_Resource_Whose_Name = pe.d116_en_US_public
 
-peCommemoration.text = pe.d116_en_US_dedes.peCommemoration.text
-peShortCommemoration1.text = pe.d116_en_US_dedes.peShortCommemoration1.text
-peInsert1 = pe.d116_en_US_dedes.peInsert1
-peInsert2 = pe.d116_en_US_dedes.peInsert2
-peNote.text = pe.d116_en_US_dedes.peNote.text
+peDA.commemoration.full = pe.d116_en_US_dedes.peDA.commemoration.full
+peDA.commemoration.short = pe.d116_en_US_dedes.peDA.commemoration.short
+peDA.insert1 = pe.d116_en_US_dedes.peDA.insert1
+peDA.insert2 = pe.d116_en_US_dedes.peDA.insert2
+peDA.note = pe.d116_en_US_dedes.peDA.note
 peHO.daytitle = pe.d116_en_US_dedes.peHO.daytitle
 peHO.commemorations = pe.d116_en_US_dedes.peHO.commemorations
 peHO.description1 = pe.d116_en_US_dedes.peHO.description1
 peHO.description2 = pe.d116_en_US_dedes.peHO.description2
 peHO.note1 = pe.d116_en_US_dedes.peHO.note1
 peHO.note2 = pe.d116_en_US_dedes.peHO.note2
-peDismissal = pe.d116_en_US_dedes.peDismissal
+peDA.dismissal = pe.d116_en_US_dedes.peDA.dismissal
 
 peVE.Stichera01.mode = pe.d116_en_US_dedes.peVE.Stichera01.mode
 peVE.Stichera01.melody = pe.d116_en_US_dedes.peVE.Stichera01.melody

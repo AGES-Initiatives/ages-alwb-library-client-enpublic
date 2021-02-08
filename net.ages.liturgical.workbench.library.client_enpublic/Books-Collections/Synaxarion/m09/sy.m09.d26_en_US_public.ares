@@ -1,38 +1,24 @@
 A_Resource_Whose_Name = sy.m09.d26_en_US_public 
 
-S01.commemoration.text = sy.m09.d26_en_US_dedes.S01.commemoration.text
-S01.narration1.p01.text = sy.m09.d26_en_US_dedes.S01.narration1.p01.text
-S01.narration1.p02.text = sy.m09.d26_en_US_dedes.S01.narration1.p02.text
-S01.narration1.p03.text = sy.m09.d26_en_US_dedes.S01.narration1.p03.text
-S01.narration1.p04.text = sy.m09.d26_en_US_dedes.S01.narration1.p04.text
-S01.narration1.p05.text = sy.m09.d26_en_US_dedes.S01.narration1.p05.text
-S01.narration1.p06.text = sy.m09.d26_en_US_dedes.S01.narration1.p06.text
-S01.narration1.p07.text = sy.m09.d26_en_US_dedes.S01.narration1.p07.text
+syMA.commemoration01.text = sy.m09.d26_en_US_dedes.syMA.commemoration01.text
 
-S02.commemoration.text = sy.m09.d26_en_US_dedes.S02.commemoration.text
-S02.narration1.p01.text = sy.m09.d26_en_US_dedes.S02.narration1.p01.text
-S02.narration1.p02.text = sy.m09.d26_en_US_dedes.S02.narration1.p02.text
-S02.narration1.p03.text = sy.m09.d26_en_US_dedes.S02.narration1.p03.text
-S02.narration1.p04.text = sy.m09.d26_en_US_dedes.S02.narration1.p04.text
-S02.narration1.p05.text = sy.m09.d26_en_US_dedes.S02.narration1.p05.text
-S02.narration1.p06.text = sy.m09.d26_en_US_dedes.S02.narration1.p06.text
-S02.narration1.p07.text = sy.m09.d26_en_US_dedes.S02.narration1.p07.text
+syMA.commemoration02.text = sy.m09.d26_en_US_dedes.syMA.commemoration02.text
 
-S03.commemoration.text = sy.m09.d26_en_US_dedes.S03.commemoration.text
+syMA.commemoration03.text = sy.m09.d26_en_US_dedes.syMA.commemoration03.text
 
-S04.commemoration.text = sy.m09.d26_en_US_dedes.S04.commemoration.text
+syMA.commemoration04.text = sy.m09.d26_en_US_dedes.syMA.commemoration04.text
 
-S05.commemoration.text = sy.m09.d26_en_US_dedes.S05.commemoration.text
+syMA.commemoration05.text = sy.m09.d26_en_US_dedes.syMA.commemoration05.text
 
-S06.commemoration.text = sy.m09.d26_en_US_dedes.S06.commemoration.text
+syMA.commemoration06.text = sy.m09.d26_en_US_dedes.syMA.commemoration06.text
 
-S07.commemoration.text = sy.m09.d26_en_US_dedes.S07.commemoration.text
+syMA.commemoration07.text = sy.m09.d26_en_US_dedes.syMA.commemoration07.text
 
-S08.commemoration.text = sy.m09.d26_en_US_dedes.S08.commemoration.text
+syMA.commemoration08.text = sy.m09.d26_en_US_dedes.syMA.commemoration08.text
 
-S09.commemoration.text = sy.m09.d26_en_US_dedes.S09.commemoration.text
+syMA.commemoration09.text = sy.m09.d26_en_US_dedes.syMA.commemoration09.text
 
-S10.commemoration.text = sy.m09.d26_en_US_dedes.S10.commemoration.text
+syMA.commemoration10.text = sy.m09.d26_en_US_dedes.syMA.commemoration10.text
 
-S99.lastline.text= sy.m09.d26_en_US_dedes.S99.lastline.text
+syMA.lastline = sy.m09.d26_en_US_dedes.syMA.lastline
 

@@ -1,5 +1,9 @@
 A_Resource_Whose_Name = ho.s15.m08_en_US_public
 
+ho.Month = ho.s15.m08_en_US_dedes.ho.Month
+ho.Days = ho.s15.m08_en_US_dedes.ho.Days
+ho.Hours = ho.s15.m08_en_US_dedes.ho.Hours
+
 hoD08.GeneralApolytikion2.name = ho.s15.m08_en_US_dedes.hoD08.GeneralApolytikion2.name
 
 hoD09.GeneralApolytikion1.name = ho.s15.m08_en_US_dedes.hoD09.GeneralApolytikion1.name

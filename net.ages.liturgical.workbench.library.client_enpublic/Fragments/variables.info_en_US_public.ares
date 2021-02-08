@@ -5,11 +5,11 @@ Notice2.text = "This is the text of the Divine Liturgy of St. Basil the Great, a
 
 Antiphon1.title = "The 1st Antiphon"
 Antiphon1.text = "(See Variable Parts.)"
-Antiphon1.pagenumber = "4"
+Antiphon1.pagenumber = ""
 
 Antiphon2.title = "The 2nd Antiphon"
 Antiphon2.text = "(See Variable Parts.)"
-Antiphon2.pagenumber = "5"
+Antiphon2.pagenumber = ""
 
 Antiphon3.title = "The 3rd Antiphon."
 Antiphon3.text = "(See Variable Parts.)"
@@ -17,14 +17,14 @@ Antiphon3.pagenumber = ""
 
 SmallEntrance.title = "The Small Entrance"
 SmallEntrance.text = "(See Variable Parts.)"
-SmallEntrance.pagenumber = "7"
+SmallEntrance.pagenumber = ""
 
 HymnsAfterSmallEntrance.title = "Hymns After Small Entrance"
 HymnsAfterSmallEntrance.text = "(See Variable Parts.)"
 
 Trisagion.title = "Trisagion Hymn"
 Trisagion.text = "(See Variable Parts.)"
-Trisagion.pagenumber = "8"
+Trisagion.pagenumber = ""
 
 EpistleReading.title = "Epistle Reading"
 EpistleReading.text = "(See Variable Parts.)"

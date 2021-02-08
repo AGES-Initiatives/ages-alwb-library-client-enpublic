@@ -1,5 +1,9 @@
 A_Resource_Whose_Name = ho.s15.m02_en_US_public
 
+ho.Month = ho.s15.m02_en_US_dedes.ho.Month
+ho.Days = ho.s15.m02_en_US_dedes.ho.Days
+ho.Hours = ho.s15.m02_en_US_dedes.ho.Hours
+
 hoD01.Apolytikion2.title = ho.s15.m02_en_US_dedes.hoD01.Apolytikion2.title
 hoD01.Apolytikion2.poet = ho.s15.m02_en_US_dedes.hoD01.Apolytikion2.poet
 hoD01.Apolytikion2.mode = ho.s15.m02_en_US_dedes.hoD01.Apolytikion2.mode

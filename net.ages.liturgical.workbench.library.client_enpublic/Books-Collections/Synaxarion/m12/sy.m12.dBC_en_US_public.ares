@@ -1,209 +1,195 @@
 A_Resource_Whose_Name = sy.m12.dBC_en_US_public
 
-S01.commemoration.text = sy.m12.dBC_en_US_dedes.S01.commemoration.text
-S01.narration1.p01.text = sy.m12.dBC_en_US_dedes.S01.narration1.p01.text
-S01.narration1.p02.text = sy.m12.dBC_en_US_dedes.S01.narration1.p02.text
-S01.narration1.p03.text = sy.m12.dBC_en_US_dedes.S01.narration1.p03.text
-S01.narration1.p04.text = sy.m12.dBC_en_US_dedes.S01.narration1.p04.text
-S01.narration1.p05.text = sy.m12.dBC_en_US_dedes.S01.narration1.p05.text
-S01.narration1.p06.text = sy.m12.dBC_en_US_dedes.S01.narration1.p06.text
-S01.narration1.p07.text = sy.m12.dBC_en_US_dedes.S01.narration1.p07.text
+syMA.commemoration01.text = sy.m12.dBC_en_US_dedes.syMA.commemoration01.text
 
-S02.commemoration.text = sy.m12.dBC_en_US_dedes.S02.commemoration.text
-S02.narration1.p01.text = sy.m12.dBC_en_US_dedes.S02.narration1.p01.text
-S02.narration1.p02.text = sy.m12.dBC_en_US_dedes.S02.narration1.p02.text
-S02.narration1.p03.text = sy.m12.dBC_en_US_dedes.S02.narration1.p03.text
-S02.narration1.p04.text = sy.m12.dBC_en_US_dedes.S02.narration1.p04.text
-S02.narration1.p05.text = sy.m12.dBC_en_US_dedes.S02.narration1.p05.text
-S02.narration1.p06.text = sy.m12.dBC_en_US_dedes.S02.narration1.p06.text
-S02.narration1.p07.text = sy.m12.dBC_en_US_dedes.S02.narration1.p07.text
+syMA.commemoration02.text = sy.m12.dBC_en_US_dedes.syMA.commemoration02.text
 
-S03.commemoration.text = sy.m12.dBC_en_US_dedes.S03.commemoration.text
+syMA.commemoration03.text = sy.m12.dBC_en_US_dedes.syMA.commemoration03.text
 
-S04.commemoration.text = sy.m12.dBC_en_US_dedes.S04.commemoration.text
+syMA.commemoration04.text = sy.m12.dBC_en_US_dedes.syMA.commemoration04.text
 
-S05.commemoration.text = sy.m12.dBC_en_US_dedes.S05.commemoration.text
+syMA.commemoration05.text = sy.m12.dBC_en_US_dedes.syMA.commemoration05.text
 
-S06.commemoration.text = sy.m12.dBC_en_US_dedes.S06.commemoration.text
+syMA.commemoration06.text = sy.m12.dBC_en_US_dedes.syMA.commemoration06.text
 
-S07.commemoration.text = sy.m12.dBC_en_US_dedes.S07.commemoration.text
+syMA.commemoration07.text = sy.m12.dBC_en_US_dedes.syMA.commemoration07.text
 
-S08.commemoration.text = sy.m12.dBC_en_US_dedes.S08.commemoration.text
+syMA.commemoration08.text = sy.m12.dBC_en_US_dedes.syMA.commemoration08.text
 
-S09.commemoration.text = sy.m12.dBC_en_US_dedes.S09.commemoration.text
+syMA.commemoration09.text = sy.m12.dBC_en_US_dedes.syMA.commemoration09.text
 
-S10.commemoration.text = sy.m12.dBC_en_US_dedes.S10.commemoration.text
+syMA.commemoration10.text = sy.m12.dBC_en_US_dedes.syMA.commemoration10.text
 
-S11.commemoration.text = sy.m12.dBC_en_US_dedes.S11.commemoration.text
+syMA.commemoration11.text = sy.m12.dBC_en_US_dedes.syMA.commemoration11.text
 
-S12.commemoration.text = sy.m12.dBC_en_US_dedes.S12.commemoration.text
+syMA.commemoration12.text = sy.m12.dBC_en_US_dedes.syMA.commemoration12.text
 
-S13.commemoration.text = sy.m12.dBC_en_US_dedes.S13.commemoration.text
+syMA.commemoration13.text = sy.m12.dBC_en_US_dedes.syMA.commemoration13.text
 
-S14.commemoration.text = sy.m12.dBC_en_US_dedes.S14.commemoration.text
+syMA.commemoration14.text = sy.m12.dBC_en_US_dedes.syMA.commemoration14.text
 
-S15.commemoration.text = sy.m12.dBC_en_US_dedes.S15.commemoration.text
+syMA.commemoration15.text = sy.m12.dBC_en_US_dedes.syMA.commemoration15.text
 
-S16.commemoration.text = sy.m12.dBC_en_US_dedes.S16.commemoration.text
+syMA.commemoration16.text = sy.m12.dBC_en_US_dedes.syMA.commemoration16.text
 
-S17.commemoration.text = sy.m12.dBC_en_US_dedes.S17.commemoration.text
+syMA.commemoration17.text = sy.m12.dBC_en_US_dedes.syMA.commemoration17.text
 
-S18.commemoration.text = sy.m12.dBC_en_US_dedes.S18.commemoration.text
+syMA.commemoration18.text = sy.m12.dBC_en_US_dedes.syMA.commemoration18.text
 
-S19.commemoration.text = sy.m12.dBC_en_US_dedes.S19.commemoration.text
+syMA.commemoration19.text = sy.m12.dBC_en_US_dedes.syMA.commemoration19.text
 
-S20.commemoration.text = sy.m12.dBC_en_US_dedes.S20.commemoration.text
+syMA.commemoration20.text = sy.m12.dBC_en_US_dedes.syMA.commemoration20.text
 
-S21.commemoration.text = sy.m12.dBC_en_US_dedes.S21.commemoration.text
+syMA.commemoration21.text = sy.m12.dBC_en_US_dedes.syMA.commemoration21.text
 
-S22.commemoration.text = sy.m12.dBC_en_US_dedes.S22.commemoration.text
+syMA.commemoration22.text = sy.m12.dBC_en_US_dedes.syMA.commemoration22.text
 
-S23.commemoration.text = sy.m12.dBC_en_US_dedes.S23.commemoration.text
+syMA.commemoration23.text = sy.m12.dBC_en_US_dedes.syMA.commemoration23.text
 
-S24.commemoration.text = sy.m12.dBC_en_US_dedes.S24.commemoration.text
+syMA.commemoration24.text = sy.m12.dBC_en_US_dedes.syMA.commemoration24.text
 
-S25.commemoration.text = sy.m12.dBC_en_US_dedes.S25.commemoration.text
+syMA.commemoration25.text = sy.m12.dBC_en_US_dedes.syMA.commemoration25.text
 
-S26.commemoration.text = sy.m12.dBC_en_US_dedes.S26.commemoration.text
+syMA.commemoration26.text = sy.m12.dBC_en_US_dedes.syMA.commemoration26.text
 
-S27.commemoration.text = sy.m12.dBC_en_US_dedes.S27.commemoration.text
+syMA.commemoration27.text = sy.m12.dBC_en_US_dedes.syMA.commemoration27.text
 
-S28.commemoration.text = sy.m12.dBC_en_US_dedes.S28.commemoration.text
+syMA.commemoration28.text = sy.m12.dBC_en_US_dedes.syMA.commemoration28.text
 
-S29.commemoration.text = sy.m12.dBC_en_US_dedes.S29.commemoration.text
+syMA.commemoration29.text = sy.m12.dBC_en_US_dedes.syMA.commemoration29.text
 
-S30.commemoration.text = sy.m12.dBC_en_US_dedes.S30.commemoration.text
+syMA.commemoration30.text = sy.m12.dBC_en_US_dedes.syMA.commemoration30.text
 
-S31.commemoration.text = sy.m12.dBC_en_US_dedes.S31.commemoration.text
+syMA.commemoration31.text = sy.m12.dBC_en_US_dedes.syMA.commemoration31.text
 
-S32.commemoration.text = sy.m12.dBC_en_US_dedes.S32.commemoration.text
+syMA.commemoration32.text = sy.m12.dBC_en_US_dedes.syMA.commemoration32.text
 
-S33.commemoration.text = sy.m12.dBC_en_US_dedes.S33.commemoration.text
+syMA.commemoration33.text = sy.m12.dBC_en_US_dedes.syMA.commemoration33.text
 
-S34.commemoration.text = sy.m12.dBC_en_US_dedes.S34.commemoration.text
+syMA.commemoration34.text = sy.m12.dBC_en_US_dedes.syMA.commemoration34.text
 
-S35.commemoration.text = sy.m12.dBC_en_US_dedes.S35.commemoration.text
+syMA.commemoration35.text = sy.m12.dBC_en_US_dedes.syMA.commemoration35.text
 
-S36.commemoration.text = sy.m12.dBC_en_US_dedes.S36.commemoration.text
+syMA.commemoration36.text = sy.m12.dBC_en_US_dedes.syMA.commemoration36.text
 
-S37.commemoration.text = sy.m12.dBC_en_US_dedes.S37.commemoration.text
+syMA.commemoration37.text = sy.m12.dBC_en_US_dedes.syMA.commemoration37.text
 
-S38.commemoration.text = sy.m12.dBC_en_US_dedes.S38.commemoration.text
+syMA.commemoration38.text = sy.m12.dBC_en_US_dedes.syMA.commemoration38.text
 
-S39.commemoration.text = sy.m12.dBC_en_US_dedes.S39.commemoration.text
+syMA.commemoration39.text = sy.m12.dBC_en_US_dedes.syMA.commemoration39.text
 
-S40.commemoration.text = sy.m12.dBC_en_US_dedes.S40.commemoration.text
+syMA.commemoration40.text = sy.m12.dBC_en_US_dedes.syMA.commemoration40.text
 
-S41.commemoration.text = sy.m12.dBC_en_US_dedes.S41.commemoration.text
+syMA.commemoration41.text = sy.m12.dBC_en_US_dedes.syMA.commemoration41.text
 
-S42.commemoration.text = sy.m12.dBC_en_US_dedes.S42.commemoration.text
+syMA.commemoration42.text = sy.m12.dBC_en_US_dedes.syMA.commemoration42.text
 
-S43.commemoration.text = sy.m12.dBC_en_US_dedes.S43.commemoration.text
+syMA.commemoration43.text = sy.m12.dBC_en_US_dedes.syMA.commemoration43.text
 
-S44.commemoration.text = sy.m12.dBC_en_US_dedes.S44.commemoration.text
+syMA.commemoration44.text = sy.m12.dBC_en_US_dedes.syMA.commemoration44.text
 
-S45.commemoration.text = sy.m12.dBC_en_US_dedes.S45.commemoration.text
+syMA.commemoration45.text = sy.m12.dBC_en_US_dedes.syMA.commemoration45.text
 
-S46.commemoration.text = sy.m12.dBC_en_US_dedes.S46.commemoration.text
+syMA.commemoration46.text = sy.m12.dBC_en_US_dedes.syMA.commemoration46.text
 
-S47.commemoration.text = sy.m12.dBC_en_US_dedes.S47.commemoration.text
+syMA.commemoration47.text = sy.m12.dBC_en_US_dedes.syMA.commemoration47.text
 
-S48.commemoration.text = sy.m12.dBC_en_US_dedes.S48.commemoration.text
+syMA.commemoration48.text = sy.m12.dBC_en_US_dedes.syMA.commemoration48.text
 
-S49.commemoration.text = sy.m12.dBC_en_US_dedes.S49.commemoration.text
+syMA.commemoration49.text = sy.m12.dBC_en_US_dedes.syMA.commemoration49.text
 
-S50.commemoration.text = sy.m12.dBC_en_US_dedes.S50.commemoration.text
+syMA.commemoration50.text = sy.m12.dBC_en_US_dedes.syMA.commemoration50.text
 
-S51.commemoration.text = sy.m12.dBC_en_US_dedes.S51.commemoration.text
+syMA.commemoration51.text = sy.m12.dBC_en_US_dedes.syMA.commemoration51.text
 
-S52.commemoration.text = sy.m12.dBC_en_US_dedes.S52.commemoration.text
+syMA.commemoration52.text = sy.m12.dBC_en_US_dedes.syMA.commemoration52.text
 
-S53.commemoration.text = sy.m12.dBC_en_US_dedes.S53.commemoration.text
+syMA.commemoration53.text = sy.m12.dBC_en_US_dedes.syMA.commemoration53.text
 
-S54.commemoration.text = sy.m12.dBC_en_US_dedes.S54.commemoration.text
+syMA.commemoration54.text = sy.m12.dBC_en_US_dedes.syMA.commemoration54.text
 
-S55.commemoration.text = sy.m12.dBC_en_US_dedes.S55.commemoration.text
+syMA.commemoration55.text = sy.m12.dBC_en_US_dedes.syMA.commemoration55.text
 
-S56.commemoration.text = sy.m12.dBC_en_US_dedes.S56.commemoration.text
+syMA.commemoration56.text = sy.m12.dBC_en_US_dedes.syMA.commemoration56.text
 
-S57.commemoration.text = sy.m12.dBC_en_US_dedes.S57.commemoration.text
+syMA.commemoration57.text = sy.m12.dBC_en_US_dedes.syMA.commemoration57.text
 
-S58.commemoration.text = sy.m12.dBC_en_US_dedes.S58.commemoration.text
+syMA.commemoration58.text = sy.m12.dBC_en_US_dedes.syMA.commemoration58.text
 
-S59.commemoration.text = sy.m12.dBC_en_US_dedes.S59.commemoration.text
+syMA.commemoration59.text = sy.m12.dBC_en_US_dedes.syMA.commemoration59.text
 
-S60.commemoration.text = sy.m12.dBC_en_US_dedes.S60.commemoration.text
+syMA.commemoration60.text = sy.m12.dBC_en_US_dedes.syMA.commemoration60.text
 
-S61.commemoration.text = sy.m12.dBC_en_US_dedes.S61.commemoration.text
+syMA.commemoration61.text = sy.m12.dBC_en_US_dedes.syMA.commemoration61.text
 
-S62.commemoration.text = sy.m12.dBC_en_US_dedes.S62.commemoration.text
+syMA.commemoration62.text = sy.m12.dBC_en_US_dedes.syMA.commemoration62.text
 
-S63.commemoration.text = sy.m12.dBC_en_US_dedes.S63.commemoration.text
+syMA.commemoration63.text = sy.m12.dBC_en_US_dedes.syMA.commemoration63.text
 
-S64.commemoration.text = sy.m12.dBC_en_US_dedes.S64.commemoration.text
+syMA.commemoration64.text = sy.m12.dBC_en_US_dedes.syMA.commemoration64.text
 
-S65.commemoration.text = sy.m12.dBC_en_US_dedes.S65.commemoration.text
+syMA.commemoration65.text = sy.m12.dBC_en_US_dedes.syMA.commemoration65.text
 
-S66.commemoration.text = sy.m12.dBC_en_US_dedes.S66.commemoration.text
+syMA.commemoration66.text = sy.m12.dBC_en_US_dedes.syMA.commemoration66.text
 
-S67.commemoration.text = sy.m12.dBC_en_US_dedes.S67.commemoration.text
+syMA.commemoration67.text = sy.m12.dBC_en_US_dedes.syMA.commemoration67.text
 
-S68.commemoration.text = sy.m12.dBC_en_US_dedes.S68.commemoration.text
+syMA.commemoration68.text = sy.m12.dBC_en_US_dedes.syMA.commemoration68.text
 
-S69.commemoration.text = sy.m12.dBC_en_US_dedes.S69.commemoration.text
+syMA.commemoration69.text = sy.m12.dBC_en_US_dedes.syMA.commemoration69.text
 
-S70.commemoration.text = sy.m12.dBC_en_US_dedes.S70.commemoration.text
+syMA.commemoration70.text = sy.m12.dBC_en_US_dedes.syMA.commemoration70.text
 
-S71.commemoration.text = sy.m12.dBC_en_US_dedes.S71.commemoration.text
+syMA.commemoration71.text = sy.m12.dBC_en_US_dedes.syMA.commemoration71.text
 
-S72.commemoration.text = sy.m12.dBC_en_US_dedes.S72.commemoration.text
+syMA.commemoration72.text = sy.m12.dBC_en_US_dedes.syMA.commemoration72.text
 
-S73.commemoration.text = sy.m12.dBC_en_US_dedes.S73.commemoration.text
+syMA.commemoration73.text = sy.m12.dBC_en_US_dedes.syMA.commemoration73.text
 
-S74.commemoration.text = sy.m12.dBC_en_US_dedes.S74.commemoration.text
+syMA.commemoration74.text = sy.m12.dBC_en_US_dedes.syMA.commemoration74.text
 
-S75.commemoration.text = sy.m12.dBC_en_US_dedes.S75.commemoration.text
+syMA.commemoration75.text = sy.m12.dBC_en_US_dedes.syMA.commemoration75.text
 
-S76.commemoration.text = sy.m12.dBC_en_US_dedes.S76.commemoration.text
+syMA.commemoration76.text = sy.m12.dBC_en_US_dedes.syMA.commemoration76.text
 
-S77.commemoration.text = sy.m12.dBC_en_US_dedes.S77.commemoration.text
+syMA.commemoration77.text = sy.m12.dBC_en_US_dedes.syMA.commemoration77.text
 
-S78.commemoration.text = sy.m12.dBC_en_US_dedes.S78.commemoration.text
+syMA.commemoration78.text = sy.m12.dBC_en_US_dedes.syMA.commemoration78.text
 
-S79.commemoration.text = sy.m12.dBC_en_US_dedes.S79.commemoration.text
+syMA.commemoration79.text = sy.m12.dBC_en_US_dedes.syMA.commemoration79.text
 
-S80.commemoration.text = sy.m12.dBC_en_US_dedes.S80.commemoration.text
+syMA.commemoration80.text = sy.m12.dBC_en_US_dedes.syMA.commemoration80.text
 
-S81.commemoration.text = sy.m12.dBC_en_US_dedes.S81.commemoration.text
+syMA.commemoration81.text = sy.m12.dBC_en_US_dedes.syMA.commemoration81.text
 
-S82.commemoration.text = sy.m12.dBC_en_US_dedes.S82.commemoration.text
+syMA.commemoration82.text = sy.m12.dBC_en_US_dedes.syMA.commemoration82.text
 
-S83.commemoration.text = sy.m12.dBC_en_US_dedes.S83.commemoration.text
+syMA.commemoration83.text = sy.m12.dBC_en_US_dedes.syMA.commemoration83.text
 
-S84.commemoration.text = sy.m12.dBC_en_US_dedes.S84.commemoration.text
+syMA.commemoration84.text = sy.m12.dBC_en_US_dedes.syMA.commemoration84.text
 
-S85.commemoration.text = sy.m12.dBC_en_US_dedes.S85.commemoration.text
+syMA.commemoration85.text = sy.m12.dBC_en_US_dedes.syMA.commemoration85.text
 
-S86.commemoration.text = sy.m12.dBC_en_US_dedes.S86.commemoration.text
+syMA.commemoration86.text = sy.m12.dBC_en_US_dedes.syMA.commemoration86.text
 
-S87.commemoration.text = sy.m12.dBC_en_US_dedes.S87.commemoration.text
+syMA.commemoration87.text = sy.m12.dBC_en_US_dedes.syMA.commemoration87.text
 
-S88.commemoration.text = sy.m12.dBC_en_US_dedes.S88.commemoration.text
+syMA.commemoration88.text = sy.m12.dBC_en_US_dedes.syMA.commemoration88.text
 
-S89.commemoration.text = sy.m12.dBC_en_US_dedes.S89.commemoration.text
+syMA.commemoration89.text = sy.m12.dBC_en_US_dedes.syMA.commemoration89.text
 
-S90.commemoration.text = sy.m12.dBC_en_US_dedes.S90.commemoration.text
+syMA.commemoration90.text = sy.m12.dBC_en_US_dedes.syMA.commemoration90.text
 
-S91.commemoration.text = sy.m12.dBC_en_US_dedes.S91.commemoration.text
+syMA.commemoration91.text = sy.m12.dBC_en_US_dedes.syMA.commemoration91.text
 
-S92.commemoration.text = sy.m12.dBC_en_US_dedes.S92.commemoration.text
+syMA.commemoration92.text = sy.m12.dBC_en_US_dedes.syMA.commemoration92.text
 
-S93.commemoration.text = sy.m12.dBC_en_US_dedes.S93.commemoration.text
+syMA.commemoration93.text = sy.m12.dBC_en_US_dedes.syMA.commemoration93.text
 
-S94.commemoration.text = sy.m12.dBC_en_US_dedes.S94.commemoration.text
+syMA.commemoration94.text = sy.m12.dBC_en_US_dedes.syMA.commemoration94.text
 
-S95.commemoration.text = sy.m12.dBC_en_US_dedes.S95.commemoration.text
+syMA.commemoration95.text = sy.m12.dBC_en_US_dedes.syMA.commemoration95.text
 
-S96.commemoration.text = sy.m12.dBC_en_US_dedes.S96.commemoration.text
+syMA.commemoration96.text = sy.m12.dBC_en_US_dedes.syMA.commemoration96.text
 
-S99.lastline.text= sy.m12.dBC_en_US_dedes.S99.lastline.text
+syMA.lastline = sy.m12.dBC_en_US_dedes.syMA.lastline

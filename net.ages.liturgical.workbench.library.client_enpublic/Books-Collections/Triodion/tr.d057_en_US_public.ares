@@ -1,17 +1,17 @@
 A_Resource_Whose_Name = tr.d057_en_US_public
 
-trCommemoration.text = tr.d057_en_US_dedes.trCommemoration.text // full title of day
-trShortCommemoration1.text = tr.d057_en_US_dedes.trShortCommemoration1.text
-trInsert1 = tr.d057_en_US_dedes.trInsert1 // for use in petitions and dismissal
-trInsert2 = tr.d057_en_US_dedes.trInsert2 // for use in petitions and dismissal
-trNote.text = tr.d057_en_US_dedes.trNote.text
+trDA.commemoration.full = tr.d057_en_US_dedes.trDA.commemoration.full // full title of day
+trDA.commemoration.short = tr.d057_en_US_dedes.trDA.commemoration.short
+trDA.insert1 = tr.d057_en_US_dedes.trDA.insert1 // for use in petitions and dismissal
+trDA.insert2 = tr.d057_en_US_dedes.trDA.insert2 // for use in petitions and dismissal
+trDA.note = tr.d057_en_US_dedes.trDA.note
 trHO.daytitle = tr.d057_en_US_dedes.trHO.daytitle
 trHO.commemorations = tr.d057_en_US_dedes.trHO.commemorations
 trHO.description1 = tr.d057_en_US_dedes.trHO.description1
 trHO.description2 = tr.d057_en_US_dedes.trHO.description2
 trHO.note1 = tr.d057_en_US_dedes.trHO.note1
 trHO.note2 = tr.d057_en_US_dedes.trHO.note2
-trDismissal = tr.d057_en_US_dedes.trDismissal
+trDA.dismissal = tr.d057_en_US_dedes.trDA.dismissal
 
 trVE.Stichera01.mode = tr.d057_en_US_dedes.trVE.Stichera01.mode
 trVE.Stichera01.melody = tr.d057_en_US_dedes.trVE.Stichera01.melody
@@ -333,25 +333,18 @@ trMA.Kontakion1.text = tr.d057_en_US_dedes.trMA.Kontakion1.text
 
 trMA.Oikos1.text = tr.d057_en_US_dedes.trMA.Oikos1.text
 
-trMA.Synaxarion.commemoration.text = tr.d057_en_US_dedes.trMA.Synaxarion.commemoration.text
-trMA.Synaxarion.couplet1.title = tr.d057_en_US_dedes.trMA.Synaxarion.couplet1.title
-trMA.Synaxarion.couplet1.verse1 = tr.d057_en_US_dedes.trMA.Synaxarion.couplet1.verse1
-trMA.Synaxarion.couplet1.verse2 = tr.d057_en_US_dedes.trMA.Synaxarion.couplet1.verse2
-trMA.Synaxarion.narration1.p01.text = tr.d057_en_US_dedes.trMA.Synaxarion.narration1.p01.text
-trMA.Synaxarion.narration1.p02.text = tr.d057_en_US_dedes.trMA.Synaxarion.narration1.p02.text
-trMA.Synaxarion.narration1.p03.text = tr.d057_en_US_dedes.trMA.Synaxarion.narration1.p03.text
-trMA.Synaxarion.narration1.p04.text = tr.d057_en_US_dedes.trMA.Synaxarion.narration1.p04.text
-trMA.Synaxarion.narration1.p05.text = tr.d057_en_US_dedes.trMA.Synaxarion.narration1.p05.text
-trMA.Synaxarion.narration1.p06.text = tr.d057_en_US_dedes.trMA.Synaxarion.narration1.p06.text
-trMA.Synaxarion.narration1.p07.text = tr.d057_en_US_dedes.trMA.Synaxarion.narration1.p07.text
-trMA.Synaxarion.narration2.p01.text = tr.d057_en_US_dedes.trMA.Synaxarion.narration2.p01.text
-trMA.Synaxarion.narration2.p02.text = tr.d057_en_US_dedes.trMA.Synaxarion.narration2.p02.text
-trMA.Synaxarion.narration2.p03.text = tr.d057_en_US_dedes.trMA.Synaxarion.narration2.p03.text
-trMA.Synaxarion.narration2.p04.text = tr.d057_en_US_dedes.trMA.Synaxarion.narration2.p04.text
-trMA.Synaxarion.narration2.p05.text = tr.d057_en_US_dedes.trMA.Synaxarion.narration2.p05.text
-trMA.Synaxarion.narration2.p06.text = tr.d057_en_US_dedes.trMA.Synaxarion.narration2.p06.text
-trMA.Synaxarion.narration2.p07.text = tr.d057_en_US_dedes.trMA.Synaxarion.narration2.p07.text
-trMA.Synaxarion.lastline.text = tr.d057_en_US_dedes.trMA.Synaxarion.lastline.text
+trSY.commemoration.text = tr.d057_en_US_dedes.trSY.commemoration.text
+trSY.commemoration.couplet1.title = tr.d057_en_US_dedes.trSY.commemoration.couplet1.title
+trSY.commemoration.couplet1.verse1 = tr.d057_en_US_dedes.trSY.commemoration.couplet1.verse1
+trSY.commemoration.couplet1.verse2 = tr.d057_en_US_dedes.trSY.commemoration.couplet1.verse2
+trSY.commemoration.narration.p01 = tr.d057_en_US_dedes.trSY.commemoration.narration.p01
+trSY.commemoration.narration.p02 = tr.d057_en_US_dedes.trSY.commemoration.narration.p02
+trSY.commemoration.narration.p03 = tr.d057_en_US_dedes.trSY.commemoration.narration.p03
+trSY.commemoration.narration.p04 = tr.d057_en_US_dedes.trSY.commemoration.narration.p04
+trSY.commemoration.narration.p05 = tr.d057_en_US_dedes.trSY.commemoration.narration.p05
+trSY.commemoration.narration.p06 = tr.d057_en_US_dedes.trSY.commemoration.narration.p06
+trSY.commemoration.narration.p07 = tr.d057_en_US_dedes.trSY.commemoration.narration.p07
+trSY.lastline = tr.d057_en_US_dedes.trSY.lastline
 
 trMA.Ode7C11.ode = tr.d057_en_US_dedes.trMA.Ode7C11.ode
 trMA.Ode7C11.mode = tr.d057_en_US_dedes.trMA.Ode7C11.mode

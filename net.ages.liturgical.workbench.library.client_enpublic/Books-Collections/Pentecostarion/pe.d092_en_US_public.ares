@@ -1,17 +1,17 @@
 A_Resource_Whose_Name = pe.d092_en_US_public
 
-peCommemoration.text = pe.d092_en_US_dedes.peCommemoration.text // full title of day
-peShortCommemoration1.text = pe.d092_en_US_dedes.peShortCommemoration1.text
-peInsert1 = pe.d092_en_US_dedes.peInsert1 // for use in petitions and dismissal
-peInsert2 = pe.d092_en_US_dedes.peInsert2 // for use in petitions and dismissal
-peNote.text = pe.d092_en_US_dedes.peNote.text
+peDA.commemoration.full = pe.d092_en_US_dedes.peDA.commemoration.full // full title of day
+peDA.commemoration.short = pe.d092_en_US_dedes.peDA.commemoration.short
+peDA.insert1 = pe.d092_en_US_dedes.peDA.insert1 // for use in petitions and dismissal
+peDA.insert2 = pe.d092_en_US_dedes.peDA.insert2 // for use in petitions and dismissal
+peDA.note = pe.d092_en_US_dedes.peDA.note
 peHO.daytitle = pe.d092_en_US_dedes.peHO.daytitle
 peHO.commemorations = pe.d092_en_US_dedes.peHO.commemorations
 peHO.description1 = pe.d092_en_US_dedes.peHO.description1
 peHO.description2 = pe.d092_en_US_dedes.peHO.description2
 peHO.note1 = pe.d092_en_US_dedes.peHO.note1
 peHO.note2 = pe.d092_en_US_dedes.peHO.note2
-peDismissal = pe.d092_en_US_dedes.peDismissal
+peDA.dismissal = pe.d092_en_US_dedes.peDA.dismissal
 
 peSV.Aposticha2.mode = pe.d092_en_US_dedes.peSV.Aposticha2.mode
 peSV.Aposticha2.melody = pe.d092_en_US_dedes.peSV.Aposticha2.melody
@@ -346,25 +346,18 @@ peMA.Kontakion1.text = pe.d092_en_US_dedes.peMA.Kontakion1.text
 
 peMA.Oikos1.text = pe.d092_en_US_dedes.peMA.Oikos1.text
 
-peMA.Synaxarion.commemoration.text = pe.d092_en_US_dedes.peMA.Synaxarion.commemoration.text
-peMA.Synaxarion.couplet1.title = pe.d092_en_US_dedes.peMA.Synaxarion.couplet1.title
-peMA.Synaxarion.couplet1.verse1 = pe.d092_en_US_dedes.peMA.Synaxarion.couplet1.verse1
-peMA.Synaxarion.couplet1.verse2 = pe.d092_en_US_dedes.peMA.Synaxarion.couplet1.verse2
-peMA.Synaxarion.narration1.p01.text = pe.d092_en_US_dedes.peMA.Synaxarion.narration1.p01.text
-peMA.Synaxarion.narration1.p02.text = pe.d092_en_US_dedes.peMA.Synaxarion.narration1.p02.text
-peMA.Synaxarion.narration1.p03.text = pe.d092_en_US_dedes.peMA.Synaxarion.narration1.p03.text
-peMA.Synaxarion.narration1.p04.text = pe.d092_en_US_dedes.peMA.Synaxarion.narration1.p04.text
-peMA.Synaxarion.narration1.p05.text = pe.d092_en_US_dedes.peMA.Synaxarion.narration1.p05.text
-peMA.Synaxarion.narration1.p06.text = pe.d092_en_US_dedes.peMA.Synaxarion.narration1.p06.text
-peMA.Synaxarion.narration1.p07.text = pe.d092_en_US_dedes.peMA.Synaxarion.narration1.p07.text
-peMA.Synaxarion.narration2.p01.text = pe.d092_en_US_dedes.peMA.Synaxarion.narration2.p01.text
-peMA.Synaxarion.narration2.p02.text = pe.d092_en_US_dedes.peMA.Synaxarion.narration2.p02.text
-peMA.Synaxarion.narration2.p03.text = pe.d092_en_US_dedes.peMA.Synaxarion.narration2.p03.text
-peMA.Synaxarion.narration2.p04.text = pe.d092_en_US_dedes.peMA.Synaxarion.narration2.p04.text
-peMA.Synaxarion.narration2.p05.text = pe.d092_en_US_dedes.peMA.Synaxarion.narration2.p05.text
-peMA.Synaxarion.narration2.p06.text = pe.d092_en_US_dedes.peMA.Synaxarion.narration2.p06.text
-peMA.Synaxarion.narration2.p07.text = pe.d092_en_US_dedes.peMA.Synaxarion.narration2.p07.text
-peMA.Synaxarion.lastline.text = pe.d092_en_US_dedes.peMA.Synaxarion.lastline.text
+peSY.commemoration.text = pe.d092_en_US_dedes.peSY.commemoration.text
+peSY.commemoration.couplet1.title = pe.d092_en_US_dedes.peSY.commemoration.couplet1.title
+peSY.commemoration.couplet1.verse1 = pe.d092_en_US_dedes.peSY.commemoration.couplet1.verse1
+peSY.commemoration.couplet1.verse2 = pe.d092_en_US_dedes.peSY.commemoration.couplet1.verse2
+peSY.commemoration.narration.p01 = pe.d092_en_US_dedes.peSY.commemoration.narration.p01
+peSY.commemoration.narration.p02 = pe.d092_en_US_dedes.peSY.commemoration.narration.p02
+peSY.commemoration.narration.p03 = pe.d092_en_US_dedes.peSY.commemoration.narration.p03
+peSY.commemoration.narration.p04 = pe.d092_en_US_dedes.peSY.commemoration.narration.p04
+peSY.commemoration.narration.p05 = pe.d092_en_US_dedes.peSY.commemoration.narration.p05
+peSY.commemoration.narration.p06 = pe.d092_en_US_dedes.peSY.commemoration.narration.p06
+peSY.commemoration.narration.p07 = pe.d092_en_US_dedes.peSY.commemoration.narration.p07
+peSY.lastline = pe.d092_en_US_dedes.peSY.lastline
 
 peMA.Ode7C1H.ode = pe.d092_en_US_dedes.peMA.Ode7C1H.ode
 peMA.Ode7C1H.mode = pe.d092_en_US_dedes.peMA.Ode7C1H.mode

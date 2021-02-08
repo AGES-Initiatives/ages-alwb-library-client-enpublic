@@ -1,13 +1,13 @@
 A_Resource_Whose_Name = me.m07.d12_en_US_public
 
-meDate.text = me.m07.d12_en_US_dedes.meDate.text
-meCommemoration.text = me.m07.d12_en_US_dedes.meCommemoration.text // full title of day
-meShortCommemoration1.text = me.m07.d12_en_US_dedes.meShortCommemoration1.text
-meCom1.title = me.m07.d12_en_US_dedes.meCom1.title
-meCom2.title = me.m07.d12_en_US_dedes.meCom2.title
-meInsert1 = me.m07.d12_en_US_dedes.meInsert1 // for use in petitions and dismissal
-meInsert2 = me.m07.d12_en_US_dedes.meInsert2 // for use in petitions and dismissal
-meNote.text = me.m07.d12_en_US_dedes.meNote.text
+meDA.date = me.m07.d12_en_US_dedes.meDA.date
+meDA.commemoration.full = me.m07.d12_en_US_dedes.meDA.commemoration.full // full title of day
+meDA.commemoration.first_short = me.m07.d12_en_US_dedes.meDA.commemoration.first_short
+meDA.commemoration.first_title = me.m07.d12_en_US_dedes.meDA.commemoration.first_title
+meDA.commemoration.second_title = me.m07.d12_en_US_dedes.meDA.commemoration.second_title
+meDA.insert1 = me.m07.d12_en_US_dedes.meDA.insert1 // for use in petitions and dismissal
+meDA.insert2 = me.m07.d12_en_US_dedes.meDA.insert2 // for use in petitions and dismissal
+meDA.note = me.m07.d12_en_US_dedes.meDA.note
 meLE.commemoration1 = me.m07.d12_en_US_dedes.meLE.commemoration1
 meLE.commemoration2 = me.m07.d12_en_US_dedes.meLE.commemoration2
 meHO.number = me.m07.d12_en_US_dedes.meHO.number
@@ -328,15 +328,15 @@ meMegalynarion.text = me.m07.d12_en_US_dedes.meMegalynarion.text
 
 // -------------
 
-alt1.meDate.text = me.m07.d12_en_US_dedes.alt1.meDate.text
-alt1.meCommemoration.text = me.m07.d12_en_US_dedes.alt1.meCommemoration.text
-alt1.meCommemoration2.text = me.m07.d12_en_US_dedes.alt1.meCommemoration2.text
-alt1.meShortCommemoration1.text = me.m07.d12_en_US_dedes.alt1.meShortCommemoration1.text
-alt1.meCom1.title = ""
-alt1.meCom2.title = ""
-alt1.meInsert1 = me.m07.d12_en_US_dedes.alt1.meInsert1
-alt1.meInsert2 = me.m07.d12_en_US_dedes.alt1.meInsert2
-alt1.meNote.text = me.m07.d12_en_US_dedes.alt1.meNote.text
+alt1.meDA.date = me.m07.d12_en_US_dedes.alt1.meDA.date
+alt1.meDA.commemoration.full = me.m07.d12_en_US_dedes.alt1.meDA.commemoration.full
+alt1.meDA.commemoration.second = me.m07.d12_en_US_dedes.alt1.meDA.commemoration.second
+alt1.meDA.commemoration.first_short = me.m07.d12_en_US_dedes.alt1.meDA.commemoration.first_short
+alt1.meDA.commemoration.first_title = ""
+alt1.meDA.commemoration.second_title = ""
+alt1.meDA.insert1 = me.m07.d12_en_US_dedes.alt1.meDA.insert1
+alt1.meDA.insert2 = me.m07.d12_en_US_dedes.alt1.meDA.insert2
+alt1.meDA.note = me.m07.d12_en_US_dedes.alt1.meDA.note
 alt1.meLE.commemoration1 = me.m07.d12_en_US_dedes.alt1.meLE.commemoration1
 alt1.meLE.commemoration2 = me.m07.d12_en_US_dedes.alt1.meLE.commemoration2
 alt1.meHO.number = me.m07.d12_en_US_dedes.alt1.meHO.number
@@ -344,7 +344,7 @@ alt1.meHO.rank = me.m07.d12_en_US_dedes.alt1.meHO.rank
 alt1.meHO.commemorations = me.m07.d12_en_US_dedes.alt1.meHO.commemorations
 alt1.meHO.note1 = me.m07.d12_en_US_dedes.alt1.meHO.note1
 alt1.meHO.note2 = me.m07.d12_en_US_dedes.alt1.meHO.note2
-alt1.meDismissal = me.m07.d12_en_US_dedes.alt1.meDismissal
+alt1.meDA.dismissal = me.m07.d12_en_US_dedes.alt1.meDA.dismissal
 
 alt1.meSV.Stichera1.mode = me.m07.d12_en_US_dedes.alt1.meSV.Stichera1.mode
 alt1.meSV.Stichera1.melody = me.m07.d12_en_US_dedes.alt1.meSV.Stichera1.melody
@@ -1088,15 +1088,15 @@ alt1.meLI.publication.gospel.text = me.m07.d12_en_US_dedes.alt1.meLI.publication
 
 //----------------------
 
-alt2.meDate.text = me.m07.d12_en_US_dedes.alt2.meDate.text
-alt2.meCommemoration.text = me.m07.d12_en_US_dedes.alt2.meCommemoration.text
-alt2.meCommemoration2.text = me.m07.d12_en_US_dedes.alt2.meCommemoration2.text
-alt2.meShortCommemoration1.text = me.m07.d12_en_US_dedes.alt2.meShortCommemoration1.text
-alt2.meCom1.title = ""
-alt2.meCom2.title = ""
-alt2.meInsert1 = me.m07.d12_en_US_dedes.alt2.meInsert1
-alt2.meInsert2 = me.m07.d12_en_US_dedes.alt2.meInsert2
-alt2.meNote.text = me.m07.d12_en_US_dedes.alt2.meNote.text
+alt2.meDA.date = me.m07.d12_en_US_dedes.alt2.meDA.date
+alt2.meDA.commemoration.full = me.m07.d12_en_US_dedes.alt2.meDA.commemoration.full
+alt2.meDA.commemoration.second = me.m07.d12_en_US_dedes.alt2.meDA.commemoration.second
+alt2.meDA.commemoration.first_short = me.m07.d12_en_US_dedes.alt2.meDA.commemoration.first_short
+alt2.meDA.commemoration.first_title = ""
+alt2.meDA.commemoration.second_title = ""
+alt2.meDA.insert1 = me.m07.d12_en_US_dedes.alt2.meDA.insert1
+alt2.meDA.insert2 = me.m07.d12_en_US_dedes.alt2.meDA.insert2
+alt2.meDA.note = me.m07.d12_en_US_dedes.alt2.meDA.note
 alt2.meLE.commemoration1 = me.m07.d12_en_US_dedes.alt2.meLE.commemoration1
 alt2.meLE.commemoration2 = me.m07.d12_en_US_dedes.alt2.meLE.commemoration2
 alt2.meHO.number = me.m07.d12_en_US_dedes.alt2.meHO.number
@@ -1104,7 +1104,7 @@ alt2.meHO.rank = me.m07.d12_en_US_dedes.alt2.meHO.rank
 alt2.meHO.commemorations = me.m07.d12_en_US_dedes.alt2.meHO.commemorations
 alt2.meHO.note1 = me.m07.d12_en_US_dedes.alt2.meHO.note1
 alt2.meHO.note2 = me.m07.d12_en_US_dedes.alt2.meHO.note2
-alt2.meDismissal = me.m07.d12_en_US_dedes.alt2.meDismissal
+alt2.meDA.dismissal = me.m07.d12_en_US_dedes.alt2.meDA.dismissal
 
 alt2.meSV.Stichera1.mode = me.m07.d12_en_US_dedes.alt2.meSV.Stichera1.mode
 alt2.meSV.Stichera1.melody = me.m07.d12_en_US_dedes.alt2.meSV.Stichera1.melody
