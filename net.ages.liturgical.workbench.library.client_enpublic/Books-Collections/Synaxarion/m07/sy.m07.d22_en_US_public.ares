@@ -1,7 +1,24 @@
 A_Resource_Whose_Name = sy.m07.d22_en_US_public 
 
 syMA.commemoration01.text = sy.m07.d22_en_US_dedes.syMA.commemoration01.text
+syMA.commemoration01.couplet1.title = sy.m07.d22_en_US_dedes.syMA.commemoration01.couplet1.title
+syMA.commemoration01.couplet1.verse1 = sy.m07.d22_en_US_dedes.syMA.commemoration01.couplet1.verse1
+syMA.commemoration01.couplet1.verse2 = sy.m07.d22_en_US_dedes.syMA.commemoration01.couplet1.verse2
+syMA.commemoration01.single1 = sy.m07.d22_en_US_dedes.syMA.commemoration01.single1
+syMA.commemoration01.narration.p01 = sy.m07.d22_en_US_dedes.syMA.commemoration01.narration.p01
 
 syMA.commemoration02.text = sy.m07.d22_en_US_dedes.syMA.commemoration02.text
+syMA.commemoration02.couplet1.title = sy.m07.d22_en_US_dedes.syMA.commemoration02.couplet1.title
+syMA.commemoration02.couplet1.verse1 = sy.m07.d22_en_US_dedes.syMA.commemoration02.couplet1.verse1
+syMA.commemoration02.couplet1.verse2 = sy.m07.d22_en_US_dedes.syMA.commemoration02.couplet1.verse2
+syMA.commemoration02.poem.verse01 = sy.m07.d22_en_US_dedes.syMA.commemoration02.poem.verse01
+syMA.commemoration02.poem.verse02 = sy.m07.d22_en_US_dedes.syMA.commemoration02.poem.verse02
+syMA.commemoration02.poem.verse03 = sy.m07.d22_en_US_dedes.syMA.commemoration02.poem.verse03
+syMA.commemoration02.poem.verse04 = sy.m07.d22_en_US_dedes.syMA.commemoration02.poem.verse04
+syMA.commemoration02.poem.verse05 = sy.m07.d22_en_US_dedes.syMA.commemoration02.poem.verse05
+syMA.commemoration02.poem.verse06 = sy.m07.d22_en_US_dedes.syMA.commemoration02.poem.verse06
+syMA.commemoration02.poem.verse07 = sy.m07.d22_en_US_dedes.syMA.commemoration02.poem.verse07
+
+syMA.commemoration02.single1 = sy.m07.d22_en_US_dedes.syMA.commemoration02.single1
 
 syMA.lastline = sy.m07.d22_en_US_dedes.syMA.lastline

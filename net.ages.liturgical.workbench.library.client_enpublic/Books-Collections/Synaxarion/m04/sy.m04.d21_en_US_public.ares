@@ -1,23 +1,46 @@
 A_Resource_Whose_Name = sy.m04.d21_en_US_public
 
 syMA.commemoration01.text = sy.m04.d21_en_US_dedes.syMA.commemoration01.text
+syMA.commemoration01.couplet1.title = sy.m04.d21_en_US_dedes.syMA.commemoration01.couplet1.title
+syMA.commemoration01.couplet1.verse1 = sy.m04.d21_en_US_dedes.syMA.commemoration01.couplet1.verse1
+syMA.commemoration01.couplet1.verse2 = sy.m04.d21_en_US_dedes.syMA.commemoration01.couplet1.verse2
+syMA.commemoration01.couplet2.title = sy.m04.d21_en_US_dedes.syMA.commemoration01.couplet2.title
+syMA.commemoration01.couplet2.verse1 = sy.m04.d21_en_US_dedes.syMA.commemoration01.couplet2.verse1
+syMA.commemoration01.couplet2.verse2 = sy.m04.d21_en_US_dedes.syMA.commemoration01.couplet2.verse2
+syMA.commemoration01.couplet3.title = sy.m04.d21_en_US_dedes.syMA.commemoration01.couplet3.title
+syMA.commemoration01.couplet3.verse1 = sy.m04.d21_en_US_dedes.syMA.commemoration01.couplet3.verse1
+syMA.commemoration01.couplet3.verse2 = sy.m04.d21_en_US_dedes.syMA.commemoration01.couplet3.verse2
+syMA.commemoration01.couplet4.title = sy.m04.d21_en_US_dedes.syMA.commemoration01.couplet4.title
+syMA.commemoration01.couplet4.verse1 = sy.m04.d21_en_US_dedes.syMA.commemoration01.couplet4.verse1
+syMA.commemoration01.couplet4.verse2 = sy.m04.d21_en_US_dedes.syMA.commemoration01.couplet4.verse2
+syMA.commemoration01.single1 = sy.m04.d21_en_US_dedes.syMA.commemoration01.single1
+syMA.commemoration01.narration.p01 = sy.m04.d21_en_US_dedes.syMA.commemoration01.narration.p01
+syMA.commemoration01.narration.p02 = sy.m04.d21_en_US_dedes.syMA.commemoration01.narration.p02
 
 syMA.commemoration02.text = sy.m04.d21_en_US_dedes.syMA.commemoration02.text
+syMA.commemoration02.couplet1.title = sy.m04.d21_en_US_dedes.syMA.commemoration02.couplet1.title
+syMA.commemoration02.couplet1.verse1 = sy.m04.d21_en_US_dedes.syMA.commemoration02.couplet1.verse1
+syMA.commemoration02.couplet1.verse2 = sy.m04.d21_en_US_dedes.syMA.commemoration02.couplet1.verse2
+syMA.commemoration02.narration.p01 = sy.m04.d21_en_US_dedes.syMA.commemoration02.narration.p01
+syMA.commemoration02.narration.p02 = sy.m04.d21_en_US_dedes.syMA.commemoration02.narration.p02
 
 syMA.commemoration03.text = sy.m04.d21_en_US_dedes.syMA.commemoration03.text
+syMA.commemoration03.couplet1.title = sy.m04.d21_en_US_dedes.syMA.commemoration03.couplet1.title
+syMA.commemoration03.couplet1.verse1 = sy.m04.d21_en_US_dedes.syMA.commemoration03.couplet1.verse1
+syMA.commemoration03.couplet1.verse2 = sy.m04.d21_en_US_dedes.syMA.commemoration03.couplet1.verse2
+syMA.commemoration03.couplet2.verse1 = sy.m04.d21_en_US_dedes.syMA.commemoration03.couplet2.verse1
+syMA.commemoration03.couplet2.verse2 = sy.m04.d21_en_US_dedes.syMA.commemoration03.couplet2.verse2
 
 syMA.commemoration04.text = sy.m04.d21_en_US_dedes.syMA.commemoration04.text
+syMA.commemoration04.couplet1.title = sy.m04.d21_en_US_dedes.syMA.commemoration04.couplet1.title
+syMA.commemoration04.couplet1.verse1 = sy.m04.d21_en_US_dedes.syMA.commemoration04.couplet1.verse1
+syMA.commemoration04.couplet1.verse2 = sy.m04.d21_en_US_dedes.syMA.commemoration04.couplet1.verse2
+syMA.commemoration04.narration.p01 = sy.m04.d21_en_US_dedes.syMA.commemoration04.narration.p01
 
 syMA.commemoration05.text = sy.m04.d21_en_US_dedes.syMA.commemoration05.text
-
-syMA.commemoration06.text = sy.m04.d21_en_US_dedes.syMA.commemoration06.text
-
-syMA.commemoration07.text = sy.m04.d21_en_US_dedes.syMA.commemoration07.text
-
-syMA.commemoration08.text = sy.m04.d21_en_US_dedes.syMA.commemoration08.text
-
-syMA.commemoration09.text = sy.m04.d21_en_US_dedes.syMA.commemoration09.text
-
-syMA.commemoration10.text = sy.m04.d21_en_US_dedes.syMA.commemoration10.text
+syMA.commemoration05.couplet1.title = sy.m04.d21_en_US_dedes.syMA.commemoration05.couplet1.title
+syMA.commemoration05.couplet1.verse1 = sy.m04.d21_en_US_dedes.syMA.commemoration05.couplet1.verse1
+syMA.commemoration05.couplet1.verse2 = sy.m04.d21_en_US_dedes.syMA.commemoration05.couplet1.verse2
+syMA.commemoration05.narration.p01 = sy.m04.d21_en_US_dedes.syMA.commemoration05.narration.p01
 
 syMA.lastline = sy.m04.d21_en_US_dedes.syMA.lastline
