@@ -1,5 +1,11 @@
 A_Resource_Whose_Name = sy.m08.d06_en_US_public 
 
 syMA.commemoration01.text = sy.m08.d06_en_US_dedes.syMA.commemoration01.text
+syMA.commemoration01.couplet1.title = sy.m08.d06_en_US_dedes.syMA.commemoration01.couplet1.title
+syMA.commemoration01.couplet1.verse1 = sy.m08.d06_en_US_dedes.syMA.commemoration01.couplet1.verse1
+syMA.commemoration01.couplet1.verse2 = sy.m08.d06_en_US_dedes.syMA.commemoration01.couplet1.verse2
+syMA.commemoration01.single1 = sy.m08.d06_en_US_dedes.syMA.commemoration01.single1
+syMA.commemoration01.narration.p01 = sy.m08.d06_en_US_dedes.syMA.commemoration01.narration.p01
+syMA.commemoration01.narration.p02 = sy.m08.d06_en_US_dedes.syMA.commemoration01.narration.p02
 
 syMA.lastline = sy.m08.d06_en_US_dedes.syMA.lastline
