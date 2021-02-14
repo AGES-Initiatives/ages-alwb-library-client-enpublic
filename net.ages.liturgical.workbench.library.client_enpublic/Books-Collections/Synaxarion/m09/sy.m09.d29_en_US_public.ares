@@ -1,24 +1,54 @@
 A_Resource_Whose_Name = sy.m09.d29_en_US_public 
 
 syMA.commemoration01.text = sy.m09.d29_en_US_dedes.syMA.commemoration01.text
+syMA.commemoration01.couplet1.title = sy.m09.d29_en_US_dedes.syMA.commemoration01.couplet1.title
+syMA.commemoration01.couplet1.verse1 = sy.m09.d29_en_US_dedes.syMA.commemoration01.couplet1.verse1
+syMA.commemoration01.couplet1.verse2 = sy.m09.d29_en_US_dedes.syMA.commemoration01.couplet1.verse2
+syMA.commemoration01.single1 = sy.m09.d29_en_US_dedes.syMA.commemoration01.single1
+syMA.commemoration01.narration.p01 = sy.m09.d29_en_US_dedes.syMA.commemoration01.narration.p01
 
 syMA.commemoration02.text = sy.m09.d29_en_US_dedes.syMA.commemoration02.text
+syMA.commemoration02.couplet1.title = sy.m09.d29_en_US_dedes.syMA.commemoration02.couplet1.title
+syMA.commemoration02.couplet1.verse1 = sy.m09.d29_en_US_dedes.syMA.commemoration02.couplet1.verse1
+syMA.commemoration02.couplet1.verse2 = sy.m09.d29_en_US_dedes.syMA.commemoration02.couplet1.verse2
 
 syMA.commemoration03.text = sy.m09.d29_en_US_dedes.syMA.commemoration03.text
+syMA.commemoration03.couplet1.title = sy.m09.d29_en_US_dedes.syMA.commemoration03.couplet1.title
+syMA.commemoration03.couplet1.verse1 = sy.m09.d29_en_US_dedes.syMA.commemoration03.couplet1.verse1
+syMA.commemoration03.couplet1.verse2 = sy.m09.d29_en_US_dedes.syMA.commemoration03.couplet1.verse2
+syMA.commemoration03.narration.p01 = sy.m09.d29_en_US_dedes.syMA.commemoration03.narration.p01
 
 syMA.commemoration04.text = sy.m09.d29_en_US_dedes.syMA.commemoration04.text
+syMA.commemoration04.couplet1.title = sy.m09.d29_en_US_dedes.syMA.commemoration04.couplet1.title
+syMA.commemoration04.couplet1.verse1 = sy.m09.d29_en_US_dedes.syMA.commemoration04.couplet1.verse1
+syMA.commemoration04.couplet1.verse2 = sy.m09.d29_en_US_dedes.syMA.commemoration04.couplet1.verse2
 
 syMA.commemoration05.text = sy.m09.d29_en_US_dedes.syMA.commemoration05.text
-
-syMA.commemoration06.text = sy.m09.d29_en_US_dedes.syMA.commemoration06.text
-
-syMA.commemoration07.text = sy.m09.d29_en_US_dedes.syMA.commemoration07.text
-
-syMA.commemoration08.text = sy.m09.d29_en_US_dedes.syMA.commemoration08.text
-
-syMA.commemoration09.text = sy.m09.d29_en_US_dedes.syMA.commemoration09.text
-
-syMA.commemoration10.text = sy.m09.d29_en_US_dedes.syMA.commemoration10.text
+syMA.commemoration05.couplet1.title = sy.m09.d29_en_US_dedes.syMA.commemoration05.couplet1.title
+syMA.commemoration05.couplet1.verse1 = sy.m09.d29_en_US_dedes.syMA.commemoration05.couplet1.verse1
+syMA.commemoration05.couplet1.verse2 = sy.m09.d29_en_US_dedes.syMA.commemoration05.couplet1.verse2
+syMA.commemoration05.couplet2.verse1 = sy.m09.d29_en_US_dedes.syMA.commemoration05.couplet2.verse1
+syMA.commemoration05.couplet2.verse2 = sy.m09.d29_en_US_dedes.syMA.commemoration05.couplet2.verse2
+syMA.commemoration05.narration.p01 = sy.m09.d29_en_US_dedes.syMA.commemoration05.narration.p01
+syMA.commemoration05.narration.p02 = sy.m09.d29_en_US_dedes.syMA.commemoration05.narration.p02
+syMA.commemoration05.narration.p03 = sy.m09.d29_en_US_dedes.syMA.commemoration05.narration.p03
+syMA.commemoration05.narration.p04 = sy.m09.d29_en_US_dedes.syMA.commemoration05.narration.p04
+syMA.commemoration05.narration.p05 = sy.m09.d29_en_US_dedes.syMA.commemoration05.narration.p05
+syMA.commemoration05.narration.p06 = sy.m09.d29_en_US_dedes.syMA.commemoration05.narration.p06
+syMA.commemoration05.narration.p07 = sy.m09.d29_en_US_dedes.syMA.commemoration05.narration.p07
+syMA.commemoration05.narration.p08 = sy.m09.d29_en_US_dedes.syMA.commemoration05.narration.p08
+syMA.commemoration05.narration.p09 = sy.m09.d29_en_US_dedes.syMA.commemoration05.narration.p09
+syMA.commemoration05.narration.p10 = sy.m09.d29_en_US_dedes.syMA.commemoration05.narration.p10
+syMA.commemoration05.narration.p11 = sy.m09.d29_en_US_dedes.syMA.commemoration05.narration.p11
+syMA.commemoration05.narration.p12 = sy.m09.d29_en_US_dedes.syMA.commemoration05.narration.p12
+syMA.commemoration05.narration.p13 = sy.m09.d29_en_US_dedes.syMA.commemoration05.narration.p13
+syMA.commemoration05.narration.p14 = sy.m09.d29_en_US_dedes.syMA.commemoration05.narration.p14
+syMA.commemoration05.narration.p15 = sy.m09.d29_en_US_dedes.syMA.commemoration05.narration.p15
+syMA.commemoration05.narration.p16 = sy.m09.d29_en_US_dedes.syMA.commemoration05.narration.p16
+syMA.commemoration05.narration.p17 = sy.m09.d29_en_US_dedes.syMA.commemoration05.narration.p17
+syMA.commemoration05.narration.p18 = sy.m09.d29_en_US_dedes.syMA.commemoration05.narration.p18
+syMA.commemoration05.narration.p19 = sy.m09.d29_en_US_dedes.syMA.commemoration05.narration.p19
+syMA.commemoration05.narration.p20 = sy.m09.d29_en_US_dedes.syMA.commemoration05.narration.p20
+syMA.commemoration05.narration.p21 = sy.m09.d29_en_US_dedes.syMA.commemoration05.narration.p21
 
 syMA.lastline = sy.m09.d29_en_US_dedes.syMA.lastline
-
