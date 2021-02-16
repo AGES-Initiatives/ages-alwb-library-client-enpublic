@@ -353,6 +353,11 @@ meMA.Oikos16.text = me.m03.d25_en_US_dedes.meMA.Oikos16.text
 meMA.Oikos17.text = me.m03.d25_en_US_dedes.meMA.Oikos17.text
 meMA.Oikos18.text = me.m03.d25_en_US_dedes.meMA.Oikos18.text
 
+meMA.Kontakion2.mode = me.m03.d25_en_US_dedes.meMA.Kontakion2.mode
+meMA.Kontakion2.melody = me.m03.d25_en_US_dedes.meMA.Kontakion2.melody
+meMA.Kontakion2.incipit = me.m03.d25_en_US_dedes.meMA.Kontakion2.incipit
+meMA.Kontakion2.text = me.m03.d25_en_US_dedes.meMA.Kontakion2.text
+
 meMA.Ode7C1H.ode = me.m03.d25_en_US_dedes.meMA.Ode7C1H.ode
 meMA.Ode7C1H.mode = me.m03.d25_en_US_dedes.meMA.Ode7C1H.mode
 meMA.Ode7C1H.melody = me.m03.d25_en_US_dedes.meMA.Ode7C1H.melody
