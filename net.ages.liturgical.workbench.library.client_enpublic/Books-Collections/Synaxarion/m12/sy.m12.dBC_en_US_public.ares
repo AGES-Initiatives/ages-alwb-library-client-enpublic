@@ -1,195 +1,485 @@
 A_Resource_Whose_Name = sy.m12.dBC_en_US_public
 
+syMA.note1 = sy.m12.dBC_en_US_dedes.syMA.note1
+
 syMA.commemoration01.text = sy.m12.dBC_en_US_dedes.syMA.commemoration01.text
 
 syMA.commemoration02.text = sy.m12.dBC_en_US_dedes.syMA.commemoration02.text
+syMA.commemoration02.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration02.couplet1.title
+syMA.commemoration02.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration02.couplet1.verse1
+syMA.commemoration02.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration02.couplet1.verse2
 
 syMA.commemoration03.text = sy.m12.dBC_en_US_dedes.syMA.commemoration03.text
+syMA.commemoration03.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration03.couplet1.title
+syMA.commemoration03.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration03.couplet1.verse1
+syMA.commemoration03.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration03.couplet1.verse2
 
 syMA.commemoration04.text = sy.m12.dBC_en_US_dedes.syMA.commemoration04.text
+syMA.commemoration04.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration04.couplet1.title
+syMA.commemoration04.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration04.couplet1.verse1
+syMA.commemoration04.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration04.couplet1.verse2
 
 syMA.commemoration05.text = sy.m12.dBC_en_US_dedes.syMA.commemoration05.text
+syMA.commemoration05.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration05.couplet1.title
+syMA.commemoration05.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration05.couplet1.verse1
+syMA.commemoration05.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration05.couplet1.verse2
 
 syMA.commemoration06.text = sy.m12.dBC_en_US_dedes.syMA.commemoration06.text
+syMA.commemoration06.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration06.couplet1.title
+syMA.commemoration06.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration06.couplet1.verse1
+syMA.commemoration06.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration06.couplet1.verse2
 
 syMA.commemoration07.text = sy.m12.dBC_en_US_dedes.syMA.commemoration07.text
+syMA.commemoration07.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration07.couplet1.title
+syMA.commemoration07.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration07.couplet1.verse1
+syMA.commemoration07.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration07.couplet1.verse2
 
 syMA.commemoration08.text = sy.m12.dBC_en_US_dedes.syMA.commemoration08.text
+syMA.commemoration08.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration08.couplet1.title
+syMA.commemoration08.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration08.couplet1.verse1
+syMA.commemoration08.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration08.couplet1.verse2
 
 syMA.commemoration09.text = sy.m12.dBC_en_US_dedes.syMA.commemoration09.text
+syMA.commemoration09.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration09.couplet1.title
+syMA.commemoration09.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration09.couplet1.verse1
+syMA.commemoration09.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration09.couplet1.verse2
 
 syMA.commemoration10.text = sy.m12.dBC_en_US_dedes.syMA.commemoration10.text
+syMA.commemoration10.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration10.couplet1.title
+syMA.commemoration10.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration10.couplet1.verse1
+syMA.commemoration10.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration10.couplet1.verse2
 
 syMA.commemoration11.text = sy.m12.dBC_en_US_dedes.syMA.commemoration11.text
+syMA.commemoration11.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration11.couplet1.title
+syMA.commemoration11.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration11.couplet1.verse1
+syMA.commemoration11.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration11.couplet1.verse2
 
 syMA.commemoration12.text = sy.m12.dBC_en_US_dedes.syMA.commemoration12.text
+syMA.commemoration12.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration12.couplet1.title
+syMA.commemoration12.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration12.couplet1.verse1
+syMA.commemoration12.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration12.couplet1.verse2
 
 syMA.commemoration13.text = sy.m12.dBC_en_US_dedes.syMA.commemoration13.text
+syMA.commemoration13.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration13.couplet1.title
+syMA.commemoration13.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration13.couplet1.verse1
+syMA.commemoration13.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration13.couplet1.verse2
 
 syMA.commemoration14.text = sy.m12.dBC_en_US_dedes.syMA.commemoration14.text
+syMA.commemoration14.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration14.couplet1.title
+syMA.commemoration14.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration14.couplet1.verse1
+syMA.commemoration14.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration14.couplet1.verse2
 
 syMA.commemoration15.text = sy.m12.dBC_en_US_dedes.syMA.commemoration15.text
+syMA.commemoration15.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration15.couplet1.title
+syMA.commemoration15.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration15.couplet1.verse1
+syMA.commemoration15.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration15.couplet1.verse2
 
 syMA.commemoration16.text = sy.m12.dBC_en_US_dedes.syMA.commemoration16.text
+syMA.commemoration16.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration16.couplet1.title
+syMA.commemoration16.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration16.couplet1.verse1
+syMA.commemoration16.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration16.couplet1.verse2
 
 syMA.commemoration17.text = sy.m12.dBC_en_US_dedes.syMA.commemoration17.text
+syMA.commemoration17.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration17.couplet1.title
+syMA.commemoration17.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration17.couplet1.verse1
+syMA.commemoration17.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration17.couplet1.verse2
 
 syMA.commemoration18.text = sy.m12.dBC_en_US_dedes.syMA.commemoration18.text
+syMA.commemoration18.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration18.couplet1.title
+syMA.commemoration18.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration18.couplet1.verse1
+syMA.commemoration18.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration18.couplet1.verse2
 
 syMA.commemoration19.text = sy.m12.dBC_en_US_dedes.syMA.commemoration19.text
+syMA.commemoration19.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration19.couplet1.title
+syMA.commemoration19.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration19.couplet1.verse1
+syMA.commemoration19.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration19.couplet1.verse2
+syMA.note2 = sy.m12.dBC_en_US_dedes.syMA.note2
+syMA.note3 = sy.m12.dBC_en_US_dedes.syMA.note3
+syMA.note4 = sy.m12.dBC_en_US_dedes.syMA.note4
 
 syMA.commemoration20.text = sy.m12.dBC_en_US_dedes.syMA.commemoration20.text
+syMA.commemoration20.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration20.couplet1.title
+syMA.commemoration20.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration20.couplet1.verse1
+syMA.commemoration20.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration20.couplet1.verse2
 
 syMA.commemoration21.text = sy.m12.dBC_en_US_dedes.syMA.commemoration21.text
+syMA.commemoration21.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration21.couplet1.title
+syMA.commemoration21.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration21.couplet1.verse1
+syMA.commemoration21.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration21.couplet1.verse2
 
 syMA.commemoration22.text = sy.m12.dBC_en_US_dedes.syMA.commemoration22.text
+syMA.commemoration22.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration22.couplet1.title
+syMA.commemoration22.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration22.couplet1.verse1
+syMA.commemoration22.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration22.couplet1.verse2
 
 syMA.commemoration23.text = sy.m12.dBC_en_US_dedes.syMA.commemoration23.text
+syMA.commemoration23.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration23.couplet1.title
+syMA.commemoration23.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration23.couplet1.verse1
+syMA.commemoration23.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration23.couplet1.verse2
 
 syMA.commemoration24.text = sy.m12.dBC_en_US_dedes.syMA.commemoration24.text
+syMA.commemoration24.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration24.couplet1.title
+syMA.commemoration24.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration24.couplet1.verse1
+syMA.commemoration24.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration24.couplet1.verse2
 
 syMA.commemoration25.text = sy.m12.dBC_en_US_dedes.syMA.commemoration25.text
+syMA.commemoration25.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration25.couplet1.title
+syMA.commemoration25.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration25.couplet1.verse1
+syMA.commemoration25.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration25.couplet1.verse2
 
 syMA.commemoration26.text = sy.m12.dBC_en_US_dedes.syMA.commemoration26.text
+syMA.commemoration26.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration26.couplet1.title
+syMA.commemoration26.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration26.couplet1.verse1
+syMA.commemoration26.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration26.couplet1.verse2
 
 syMA.commemoration27.text = sy.m12.dBC_en_US_dedes.syMA.commemoration27.text
+syMA.commemoration27.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration27.couplet1.title
+syMA.commemoration27.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration27.couplet1.verse1
+syMA.commemoration27.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration27.couplet1.verse2
 
 syMA.commemoration28.text = sy.m12.dBC_en_US_dedes.syMA.commemoration28.text
+syMA.commemoration28.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration28.couplet1.title
+syMA.commemoration28.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration28.couplet1.verse1
+syMA.commemoration28.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration28.couplet1.verse2
 
 syMA.commemoration29.text = sy.m12.dBC_en_US_dedes.syMA.commemoration29.text
+syMA.commemoration29.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration29.couplet1.title
+syMA.commemoration29.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration29.couplet1.verse1
+syMA.commemoration29.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration29.couplet1.verse2
 
 syMA.commemoration30.text = sy.m12.dBC_en_US_dedes.syMA.commemoration30.text
+syMA.commemoration30.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration30.couplet1.title
+syMA.commemoration30.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration30.couplet1.verse1
+syMA.commemoration30.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration30.couplet1.verse2
 
 syMA.commemoration31.text = sy.m12.dBC_en_US_dedes.syMA.commemoration31.text
+syMA.commemoration31.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration31.couplet1.title
+syMA.commemoration31.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration31.couplet1.verse1
+syMA.commemoration31.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration31.couplet1.verse2
 
 syMA.commemoration32.text = sy.m12.dBC_en_US_dedes.syMA.commemoration32.text
+syMA.commemoration32.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration32.couplet1.title
+syMA.commemoration32.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration32.couplet1.verse1
+syMA.commemoration32.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration32.couplet1.verse2
 
 syMA.commemoration33.text = sy.m12.dBC_en_US_dedes.syMA.commemoration33.text
+syMA.commemoration33.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration33.couplet1.title
+syMA.commemoration33.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration33.couplet1.verse1
+syMA.commemoration33.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration33.couplet1.verse2
 
 syMA.commemoration34.text = sy.m12.dBC_en_US_dedes.syMA.commemoration34.text
+syMA.commemoration34.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration34.couplet1.title
+syMA.commemoration34.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration34.couplet1.verse1
+syMA.commemoration34.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration34.couplet1.verse2
 
 syMA.commemoration35.text = sy.m12.dBC_en_US_dedes.syMA.commemoration35.text
+syMA.commemoration35.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration35.couplet1.title
+syMA.commemoration35.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration35.couplet1.verse1
+syMA.commemoration35.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration35.couplet1.verse2
 
 syMA.commemoration36.text = sy.m12.dBC_en_US_dedes.syMA.commemoration36.text
+syMA.commemoration36.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration36.couplet1.title
+syMA.commemoration36.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration36.couplet1.verse1
+syMA.commemoration36.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration36.couplet1.verse2
 
 syMA.commemoration37.text = sy.m12.dBC_en_US_dedes.syMA.commemoration37.text
+syMA.commemoration37.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration37.couplet1.title
+syMA.commemoration37.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration37.couplet1.verse1
+syMA.commemoration37.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration37.couplet1.verse2
 
 syMA.commemoration38.text = sy.m12.dBC_en_US_dedes.syMA.commemoration38.text
+syMA.commemoration38.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration38.couplet1.title
+syMA.commemoration38.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration38.couplet1.verse1
+syMA.commemoration38.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration38.couplet1.verse2
 
 syMA.commemoration39.text = sy.m12.dBC_en_US_dedes.syMA.commemoration39.text
+syMA.commemoration39.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration39.couplet1.title
+syMA.commemoration39.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration39.couplet1.verse1
+syMA.commemoration39.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration39.couplet1.verse2
 
 syMA.commemoration40.text = sy.m12.dBC_en_US_dedes.syMA.commemoration40.text
+syMA.commemoration40.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration40.couplet1.title
+syMA.commemoration40.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration40.couplet1.verse1
+syMA.commemoration40.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration40.couplet1.verse2
 
 syMA.commemoration41.text = sy.m12.dBC_en_US_dedes.syMA.commemoration41.text
+syMA.commemoration41.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration41.couplet1.title
+syMA.commemoration41.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration41.couplet1.verse1
+syMA.commemoration41.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration41.couplet1.verse2
 
 syMA.commemoration42.text = sy.m12.dBC_en_US_dedes.syMA.commemoration42.text
+syMA.commemoration42.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration42.couplet1.title
+syMA.commemoration42.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration42.couplet1.verse1
+syMA.commemoration42.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration42.couplet1.verse2
 
 syMA.commemoration43.text = sy.m12.dBC_en_US_dedes.syMA.commemoration43.text
+syMA.commemoration43.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration43.couplet1.title
+syMA.commemoration43.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration43.couplet1.verse1
+syMA.commemoration43.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration43.couplet1.verse2
 
 syMA.commemoration44.text = sy.m12.dBC_en_US_dedes.syMA.commemoration44.text
+syMA.commemoration44.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration44.couplet1.title
+syMA.commemoration44.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration44.couplet1.verse1
+syMA.commemoration44.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration44.couplet1.verse2
 
 syMA.commemoration45.text = sy.m12.dBC_en_US_dedes.syMA.commemoration45.text
+syMA.commemoration45.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration45.couplet1.title
+syMA.commemoration45.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration45.couplet1.verse1
+syMA.commemoration45.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration45.couplet1.verse2
 
 syMA.commemoration46.text = sy.m12.dBC_en_US_dedes.syMA.commemoration46.text
+syMA.commemoration46.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration46.couplet1.title
+syMA.commemoration46.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration46.couplet1.verse1
+syMA.commemoration46.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration46.couplet1.verse2
 
 syMA.commemoration47.text = sy.m12.dBC_en_US_dedes.syMA.commemoration47.text
+syMA.commemoration47.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration47.couplet1.title
+syMA.commemoration47.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration47.couplet1.verse1
+syMA.commemoration47.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration47.couplet1.verse2
 
 syMA.commemoration48.text = sy.m12.dBC_en_US_dedes.syMA.commemoration48.text
+syMA.commemoration48.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration48.couplet1.title
+syMA.commemoration48.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration48.couplet1.verse1
+syMA.commemoration48.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration48.couplet1.verse2
 
 syMA.commemoration49.text = sy.m12.dBC_en_US_dedes.syMA.commemoration49.text
+syMA.commemoration49.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration49.couplet1.title
+syMA.commemoration49.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration49.couplet1.verse1
+syMA.commemoration49.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration49.couplet1.verse2
 
 syMA.commemoration50.text = sy.m12.dBC_en_US_dedes.syMA.commemoration50.text
+syMA.commemoration50.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration50.couplet1.title
+syMA.commemoration50.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration50.couplet1.verse1
+syMA.commemoration50.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration50.couplet1.verse2
 
 syMA.commemoration51.text = sy.m12.dBC_en_US_dedes.syMA.commemoration51.text
+syMA.commemoration51.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration51.couplet1.title
+syMA.commemoration51.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration51.couplet1.verse1
+syMA.commemoration51.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration51.couplet1.verse2
 
 syMA.commemoration52.text = sy.m12.dBC_en_US_dedes.syMA.commemoration52.text
+syMA.commemoration52.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration52.couplet1.title
+syMA.commemoration52.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration52.couplet1.verse1
+syMA.commemoration52.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration52.couplet1.verse2
 
 syMA.commemoration53.text = sy.m12.dBC_en_US_dedes.syMA.commemoration53.text
+syMA.commemoration53.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration53.couplet1.title
+syMA.commemoration53.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration53.couplet1.verse1
+syMA.commemoration53.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration53.couplet1.verse2
 
 syMA.commemoration54.text = sy.m12.dBC_en_US_dedes.syMA.commemoration54.text
+syMA.commemoration54.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration54.couplet1.title
+syMA.commemoration54.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration54.couplet1.verse1
+syMA.commemoration54.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration54.couplet1.verse2
 
 syMA.commemoration55.text = sy.m12.dBC_en_US_dedes.syMA.commemoration55.text
+syMA.commemoration55.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration55.couplet1.title
+syMA.commemoration55.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration55.couplet1.verse1
+syMA.commemoration55.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration55.couplet1.verse2
 
 syMA.commemoration56.text = sy.m12.dBC_en_US_dedes.syMA.commemoration56.text
+syMA.commemoration56.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration56.couplet1.title
+syMA.commemoration56.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration56.couplet1.verse1
+syMA.commemoration56.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration56.couplet1.verse2
 
 syMA.commemoration57.text = sy.m12.dBC_en_US_dedes.syMA.commemoration57.text
+syMA.commemoration57.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration57.couplet1.title
+syMA.commemoration57.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration57.couplet1.verse1
+syMA.commemoration57.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration57.couplet1.verse2
 
 syMA.commemoration58.text = sy.m12.dBC_en_US_dedes.syMA.commemoration58.text
+syMA.commemoration58.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration58.couplet1.title
+syMA.commemoration58.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration58.couplet1.verse1
+syMA.commemoration58.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration58.couplet1.verse2
 
 syMA.commemoration59.text = sy.m12.dBC_en_US_dedes.syMA.commemoration59.text
+syMA.commemoration59.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration59.couplet1.title
+syMA.commemoration59.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration59.couplet1.verse1
+syMA.commemoration59.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration59.couplet1.verse2
 
 syMA.commemoration60.text = sy.m12.dBC_en_US_dedes.syMA.commemoration60.text
+syMA.commemoration60.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration60.couplet1.title
+syMA.commemoration60.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration60.couplet1.verse1
+syMA.commemoration60.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration60.couplet1.verse2
 
 syMA.commemoration61.text = sy.m12.dBC_en_US_dedes.syMA.commemoration61.text
+syMA.commemoration61.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration61.couplet1.title
+syMA.commemoration61.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration61.couplet1.verse1
+syMA.commemoration61.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration61.couplet1.verse2
 
 syMA.commemoration62.text = sy.m12.dBC_en_US_dedes.syMA.commemoration62.text
+syMA.commemoration62.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration62.couplet1.title
+syMA.commemoration62.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration62.couplet1.verse1
+syMA.commemoration62.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration62.couplet1.verse2
 
 syMA.commemoration63.text = sy.m12.dBC_en_US_dedes.syMA.commemoration63.text
+syMA.commemoration63.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration63.couplet1.title
+syMA.commemoration63.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration63.couplet1.verse1
+syMA.commemoration63.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration63.couplet1.verse2
 
 syMA.commemoration64.text = sy.m12.dBC_en_US_dedes.syMA.commemoration64.text
+syMA.commemoration64.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration64.couplet1.title
+syMA.commemoration64.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration64.couplet1.verse1
+syMA.commemoration64.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration64.couplet1.verse2
 
 syMA.commemoration65.text = sy.m12.dBC_en_US_dedes.syMA.commemoration65.text
+syMA.commemoration65.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration65.couplet1.title
+syMA.commemoration65.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration65.couplet1.verse1
+syMA.commemoration65.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration65.couplet1.verse2
 
 syMA.commemoration66.text = sy.m12.dBC_en_US_dedes.syMA.commemoration66.text
+syMA.commemoration66.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration66.couplet1.title
+syMA.commemoration66.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration66.couplet1.verse1
+syMA.commemoration66.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration66.couplet1.verse2
 
 syMA.commemoration67.text = sy.m12.dBC_en_US_dedes.syMA.commemoration67.text
+syMA.commemoration67.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration67.couplet1.title
+syMA.commemoration67.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration67.couplet1.verse1
+syMA.commemoration67.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration67.couplet1.verse2
 
 syMA.commemoration68.text = sy.m12.dBC_en_US_dedes.syMA.commemoration68.text
+syMA.commemoration68.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration68.couplet1.title
+syMA.commemoration68.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration68.couplet1.verse1
+syMA.commemoration68.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration68.couplet1.verse2
 
 syMA.commemoration69.text = sy.m12.dBC_en_US_dedes.syMA.commemoration69.text
+syMA.commemoration69.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration69.couplet1.title
+syMA.commemoration69.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration69.couplet1.verse1
+syMA.commemoration69.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration69.couplet1.verse2
 
 syMA.commemoration70.text = sy.m12.dBC_en_US_dedes.syMA.commemoration70.text
+syMA.commemoration70.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration70.couplet1.title
+syMA.commemoration70.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration70.couplet1.verse1
+syMA.commemoration70.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration70.couplet1.verse2
 
 syMA.commemoration71.text = sy.m12.dBC_en_US_dedes.syMA.commemoration71.text
+syMA.commemoration71.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration71.couplet1.title
+syMA.commemoration71.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration71.couplet1.verse1
+syMA.commemoration71.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration71.couplet1.verse2
 
 syMA.commemoration72.text = sy.m12.dBC_en_US_dedes.syMA.commemoration72.text
+syMA.commemoration72.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration72.couplet1.title
+syMA.commemoration72.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration72.couplet1.verse1
+syMA.commemoration72.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration72.couplet1.verse2
 
 syMA.commemoration73.text = sy.m12.dBC_en_US_dedes.syMA.commemoration73.text
+syMA.commemoration73.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration73.couplet1.title
+syMA.commemoration73.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration73.couplet1.verse1
+syMA.commemoration73.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration73.couplet1.verse2
 
 syMA.commemoration74.text = sy.m12.dBC_en_US_dedes.syMA.commemoration74.text
+syMA.commemoration74.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration74.couplet1.title
+syMA.commemoration74.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration74.couplet1.verse1
+syMA.commemoration74.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration74.couplet1.verse2
 
 syMA.commemoration75.text = sy.m12.dBC_en_US_dedes.syMA.commemoration75.text
+syMA.commemoration75.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration75.couplet1.title
+syMA.commemoration75.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration75.couplet1.verse1
+syMA.commemoration75.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration75.couplet1.verse2
 
 syMA.commemoration76.text = sy.m12.dBC_en_US_dedes.syMA.commemoration76.text
+syMA.commemoration76.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration76.couplet1.title
+syMA.commemoration76.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration76.couplet1.verse1
+syMA.commemoration76.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration76.couplet1.verse2
 
 syMA.commemoration77.text = sy.m12.dBC_en_US_dedes.syMA.commemoration77.text
+syMA.commemoration77.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration77.couplet1.title
+syMA.commemoration77.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration77.couplet1.verse1
+syMA.commemoration77.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration77.couplet1.verse2
 
 syMA.commemoration78.text = sy.m12.dBC_en_US_dedes.syMA.commemoration78.text
+syMA.commemoration78.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration78.couplet1.title
+syMA.commemoration78.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration78.couplet1.verse1
+syMA.commemoration78.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration78.couplet1.verse2
 
 syMA.commemoration79.text = sy.m12.dBC_en_US_dedes.syMA.commemoration79.text
+syMA.commemoration79.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration79.couplet1.title
+syMA.commemoration79.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration79.couplet1.verse1
+syMA.commemoration79.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration79.couplet1.verse2
 
 syMA.commemoration80.text = sy.m12.dBC_en_US_dedes.syMA.commemoration80.text
+syMA.commemoration80.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration80.couplet1.title
+syMA.commemoration80.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration80.couplet1.verse1
+syMA.commemoration80.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration80.couplet1.verse2
 
 syMA.commemoration81.text = sy.m12.dBC_en_US_dedes.syMA.commemoration81.text
+syMA.commemoration81.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration81.couplet1.title
+syMA.commemoration81.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration81.couplet1.verse1
+syMA.commemoration81.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration81.couplet1.verse2
 
 syMA.commemoration82.text = sy.m12.dBC_en_US_dedes.syMA.commemoration82.text
+syMA.commemoration82.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration82.couplet1.title
+syMA.commemoration82.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration82.couplet1.verse1
+syMA.commemoration82.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration82.couplet1.verse2
 
 syMA.commemoration83.text = sy.m12.dBC_en_US_dedes.syMA.commemoration83.text
+syMA.commemoration83.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration83.couplet1.title
+syMA.commemoration83.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration83.couplet1.verse1
+syMA.commemoration83.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration83.couplet1.verse2
 
 syMA.commemoration84.text = sy.m12.dBC_en_US_dedes.syMA.commemoration84.text
+syMA.commemoration84.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration84.couplet1.title
+syMA.commemoration84.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration84.couplet1.verse1
+syMA.commemoration84.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration84.couplet1.verse2
 
 syMA.commemoration85.text = sy.m12.dBC_en_US_dedes.syMA.commemoration85.text
+syMA.commemoration85.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration85.couplet1.title
+syMA.commemoration85.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration85.couplet1.verse1
+syMA.commemoration85.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration85.couplet1.verse2
 
 syMA.commemoration86.text = sy.m12.dBC_en_US_dedes.syMA.commemoration86.text
+syMA.commemoration86.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration86.couplet1.title
+syMA.commemoration86.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration86.couplet1.verse1
+syMA.commemoration86.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration86.couplet1.verse2
 
 syMA.commemoration87.text = sy.m12.dBC_en_US_dedes.syMA.commemoration87.text
+syMA.commemoration87.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration87.couplet1.title
+syMA.commemoration87.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration87.couplet1.verse1
+syMA.commemoration87.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration87.couplet1.verse2
 
 syMA.commemoration88.text = sy.m12.dBC_en_US_dedes.syMA.commemoration88.text
+syMA.commemoration88.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration88.couplet1.title
+syMA.commemoration88.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration88.couplet1.verse1
+syMA.commemoration88.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration88.couplet1.verse2
 
 syMA.commemoration89.text = sy.m12.dBC_en_US_dedes.syMA.commemoration89.text
+syMA.commemoration89.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration89.couplet1.title
+syMA.commemoration89.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration89.couplet1.verse1
+syMA.commemoration89.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration89.couplet1.verse2
 
 syMA.commemoration90.text = sy.m12.dBC_en_US_dedes.syMA.commemoration90.text
+syMA.commemoration90.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration90.couplet1.title
+syMA.commemoration90.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration90.couplet1.verse1
+syMA.commemoration90.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration90.couplet1.verse2
 
 syMA.commemoration91.text = sy.m12.dBC_en_US_dedes.syMA.commemoration91.text
+syMA.commemoration91.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration91.couplet1.title
+syMA.commemoration91.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration91.couplet1.verse1
+syMA.commemoration91.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration91.couplet1.verse2
 
 syMA.commemoration92.text = sy.m12.dBC_en_US_dedes.syMA.commemoration92.text
+syMA.commemoration92.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration92.couplet1.title
+syMA.commemoration92.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration92.couplet1.verse1
+syMA.commemoration92.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration92.couplet1.verse2
 
 syMA.commemoration93.text = sy.m12.dBC_en_US_dedes.syMA.commemoration93.text
+syMA.commemoration93.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration93.couplet1.title
+syMA.commemoration93.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration93.couplet1.verse1
+syMA.commemoration93.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration93.couplet1.verse2
 
 syMA.commemoration94.text = sy.m12.dBC_en_US_dedes.syMA.commemoration94.text
+syMA.commemoration94.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration94.couplet1.title
+syMA.commemoration94.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration94.couplet1.verse1
+syMA.commemoration94.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration94.couplet1.verse2
 
 syMA.commemoration95.text = sy.m12.dBC_en_US_dedes.syMA.commemoration95.text
+syMA.commemoration95.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration95.couplet1.title
+syMA.commemoration95.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration95.couplet1.verse1
+syMA.commemoration95.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration95.couplet1.verse2
 
 syMA.commemoration96.text = sy.m12.dBC_en_US_dedes.syMA.commemoration96.text
+syMA.commemoration96.couplet1.title = sy.m12.dBC_en_US_dedes.syMA.commemoration96.couplet1.title
+syMA.commemoration96.couplet1.verse1 = sy.m12.dBC_en_US_dedes.syMA.commemoration96.couplet1.verse1
+syMA.commemoration96.couplet1.verse2 = sy.m12.dBC_en_US_dedes.syMA.commemoration96.couplet1.verse2
 
 syMA.lastline = sy.m12.dBC_en_US_dedes.syMA.lastline
