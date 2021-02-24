@@ -10,6 +10,10 @@ syMA.commemoration01.couplet2.verse2 = sy.m04.d14_en_US_dedes.syMA.commemoration
 syMA.commemoration01.couplet3.title = sy.m04.d14_en_US_dedes.syMA.commemoration01.couplet3.title
 syMA.commemoration01.couplet3.verse1 = sy.m04.d14_en_US_dedes.syMA.commemoration01.couplet3.verse1
 syMA.commemoration01.couplet3.verse2 = sy.m04.d14_en_US_dedes.syMA.commemoration01.couplet3.verse2
+syMA.note1 = sy.m04.d14_en_US_dedes.syMA.note1
+syMA.note2 = sy.m04.d14_en_US_dedes.syMA.note2
+syMA.note3 = sy.m04.d14_en_US_dedes.syMA.note3
+syMA.note4 = sy.m04.d14_en_US_dedes.syMA.note4
 syMA.commemoration01.single1 = sy.m04.d14_en_US_dedes.syMA.commemoration01.single1
 syMA.commemoration01.narration.p01 = sy.m04.d14_en_US_dedes.syMA.commemoration01.narration.p01
 
@@ -32,5 +36,7 @@ syMA.commemoration04.text = sy.m04.d14_en_US_dedes.syMA.commemoration04.text
 syMA.commemoration04.couplet1.title = sy.m04.d14_en_US_dedes.syMA.commemoration04.couplet1.title
 syMA.commemoration04.couplet1.verse1 = sy.m04.d14_en_US_dedes.syMA.commemoration04.couplet1.verse1
 syMA.commemoration04.couplet1.verse2 = sy.m04.d14_en_US_dedes.syMA.commemoration04.couplet1.verse2
+syMA.note5 = sy.m04.d14_en_US_dedes.syMA.note5
+syMA.note6 = sy.m04.d14_en_US_dedes.syMA.note6
 
 syMA.lastline = sy.m04.d14_en_US_dedes.syMA.lastline

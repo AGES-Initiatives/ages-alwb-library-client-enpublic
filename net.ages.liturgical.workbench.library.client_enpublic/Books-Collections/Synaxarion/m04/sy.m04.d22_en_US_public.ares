@@ -15,8 +15,10 @@ syMA.commemoration02.couplet1.verse1 = sy.m04.d22_en_US_dedes.syMA.commemoration
 syMA.commemoration02.couplet1.verse2 = sy.m04.d22_en_US_dedes.syMA.commemoration02.couplet1.verse2
 
 syMA.commemoration03.text = sy.m04.d22_en_US_dedes.syMA.commemoration03.text
+syMA.commemoration03.couplet1.title = sy.m04.d22_en_US_dedes.syMA.commemoration03.couplet1.title
 syMA.commemoration03.couplet1.verse1 = sy.m04.d22_en_US_dedes.syMA.commemoration03.couplet1.verse1
 syMA.commemoration03.couplet1.verse2 = sy.m04.d22_en_US_dedes.syMA.commemoration03.couplet1.verse2
 syMA.commemoration03.narration.p01 = sy.m04.d22_en_US_dedes.syMA.commemoration03.narration.p01
+syMA.note1 = sy.m04.d22_en_US_dedes.syMA.note1
 
 syMA.lastline = sy.m04.d22_en_US_dedes.syMA.lastline
