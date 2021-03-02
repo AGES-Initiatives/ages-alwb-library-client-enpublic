@@ -1,790 +1,1212 @@
-A_Resource_Whose_Name = prayers_en_US_public 
+A_Resource_Whose_Name = prayers_en_US_public
 
+Doxa.incipit = "prayers_en_US_holycross.Doxa"
 Doxa = prayers_en_US_holycross.Doxa
 
+DoxaKaiNyn.incipit = "prayers_en_US_dedes.DoxaKaiNyn"
 DoxaKaiNyn = prayers_en_US_dedes.DoxaKaiNyn
 
+KaiNyn.incipit = "prayers_en_US_dedes.KaiNyn"
 KaiNyn = prayers_en_US_dedes.KaiNyn
 
+Allilouia1.incipit = "prayers_en_US_holycross.Allilouia1"
 Allilouia1 = prayers_en_US_holycross.Allilouia1
 
+Allilouia3.incipit = prayers_en_US_holycross.Allilouia3.incipit
 Allilouia3.text = prayers_en_US_holycross.Allilouia3.text
 
+Allilouia3Doxa.incipit = prayers_en_US_holycross.Allilouia3Doxa.incipit
 Allilouia3Doxa.text = prayers_en_US_holycross.Allilouia3Doxa.text
 
+Axios.incipit = "prayers_en_US_goa.Axios"
 Axios = prayers_en_US_goa.Axios
 
+DefteProskinisomen1.incipit = "prayers_en_US_holycross.DefteProskinisomen1"
 DefteProskinisomen1 = prayers_en_US_holycross.DefteProskinisomen1
 
+DefteProskinisomen2.incipit = "prayers_en_US_holycross.DefteProskinisomen2"
 DefteProskinisomen2 = prayers_en_US_holycross.DefteProskinisomen2
 
+DefteProskinisomen3.incipit = "prayers_en_US_holycross.DefteProskinisomen3"
 DefteProskinisomen3 = prayers_en_US_holycross.DefteProskinisomen3
 
+DiEfchonDespotou.incipit = prayers_en_US_holycross.DiEfchonDespotou.incipit
 DiEfchonDespotou.text = prayers_en_US_holycross.DiEfchonDespotou.text
 
+DiEfchonPateron.incipit = prayers_en_US_goa.DiEfchonPateron.incipit
 DiEfchonPateron.text = prayers_en_US_goa.DiEfchonPateron.text
 
+DoxaPatri.incipit = prayers_en_US_holycross.DoxaPatri.incipit
 DoxaPatri.text = prayers_en_US_holycross.DoxaPatri.text
 
+DoxaSoiChriste1.incipit = "prayers_en_US_holycross.DoxaSoiChriste1"
 DoxaSoiChriste1 = prayers_en_US_holycross.DoxaSoiChriste1
 
+DoxaSoiChriste2.incipit = "prayers_en_US_holycross.DoxaSoiChriste2"
 DoxaSoiChriste2 = prayers_en_US_holycross.DoxaSoiChriste2
 
+DoxaSoiKyrie.incipit = "prayers_en_US_goa.DoxaSoiKyrie"
 DoxaSoiKyrie = prayers_en_US_goa.DoxaSoiKyrie
+DoxaSoiKyrie.MM.aftergospel.incipit = "properties_en_US_goa.media.key"
 DoxaSoiKyrie.MM.aftergospel.text = properties_en_US_goa.media.key
 
+DoxaSoiKyrieP.incipit = "prayers_en_US_goa.DoxaSoiKyrieP"
 DoxaSoiKyrieP = prayers_en_US_goa.DoxaSoiKyrieP
 
+DoxaSoiOTheos1.incipit = "prayers_en_US_holycross.DoxaSoiOTheos1"
 DoxaSoiOTheos1 = prayers_en_US_holycross.DoxaSoiOTheos1
 
+DoxaSoiOTheosImon.incipit = prayers_en_US_holycross.DoxaSoiOTheosImon.incipit
 DoxaSoiOTheosImon.text = prayers_en_US_holycross.DoxaSoiOTheosImon.text
 
+DoxaTiMakrothymia.incipit = prayers_en_US_holycross.DoxaTiMakrothymia.incipit
 DoxaTiMakrothymia.text = prayers_en_US_holycross.DoxaTiMakrothymia.text
 
+DoxaTiMakrothymiaP.incipit = prayers_en_US_holycross.DoxaTiMakrothymiaP.incipit
 DoxaTiMakrothymiaP.text = prayers_en_US_holycross.DoxaTiMakrothymiaP.text
 
+DoxaToPatri.incipit = prayers_en_US_holycross.DoxaToPatri.incipit
 DoxaToPatri.text = prayers_en_US_holycross.DoxaToPatri.text
 
+EisToOnoma.incipit = "prayers_en_US_holycross.EisToOnoma"
 EisToOnoma = prayers_en_US_holycross.EisToOnoma
 
+EvlogitosOTheosImon.incipit = prayers_en_US_holycross.EvlogitosOTheosImon.incipit
 EvlogitosOTheosImon.text = prayers_en_US_holycross.EvlogitosOTheosImon.text
 
+EvlogoumenPatera.incipit = prayers_en_US_holycross.EvlogoumenPatera.incipit
 EvlogoumenPatera.text = prayers_en_US_holycross.EvlogoumenPatera.text
 
+IElpisImonKyrie.incipit = "prayers_en_US_holycross.IElpisImonKyrie"
 IElpisImonKyrie = prayers_en_US_holycross.IElpisImonKyrie
 
+KaiNynKaiAei.incipit = prayers_en_US_holycross.KaiNynKaiAei.incipit
 KaiNynKaiAei.text = prayers_en_US_holycross.KaiNynKaiAei.text
 
+Kelefson.incipit = "prayers_en_US_holycross.Kelefson"
 Kelefson = prayers_en_US_holycross.Kelefson
 
+KelefsonDespota.incipit = "prayers_en_US_goa.KelefsonDespota"
 KelefsonDespota = prayers_en_US_goa.KelefsonDespota
 
+KelefsonDespotaAgie.incipit = "prayers_en_US_dedes.KelefsonDespotaAgie"
 KelefsonDespotaAgie = prayers_en_US_dedes.KelefsonDespotaAgie
 
+OTheosOiktirisai.incipit = prayers_en_US_holycross.OTheosOiktirisai.incipit
 OTheosOiktirisai.text = prayers_en_US_holycross.OTheosOiktirisai.text
 
+PantoteNyn.incipit = prayers_en_US_goa.PantoteNyn.incipit
 PantoteNyn.text = prayers_en_US_goa.PantoteNyn.text
 
+Evlogison.incipit = "prayers_en_US_holycross.Evlogison"
 Evlogison = prayers_en_US_holycross.Evlogison
 
+EvlogisonP.incipit = "prayers_en_US_holycross.EvlogisonP"
 EvlogisonP = prayers_en_US_holycross.EvlogisonP
 
+EnOnomatiKyriou.incipit = prayers_en_US_holycross.EnOnomatiKyriou.incipit
 EnOnomatiKyriou.text = prayers_en_US_holycross.EnOnomatiKyriou.text
 
+EvlogisonThymiama.incipit = prayers_en_US_holycross.EvlogisonThymiama.incipit
 EvlogisonThymiama.text = prayers_en_US_holycross.EvlogisonThymiama.text
 
+EleisonMeOTheos.incipit = prayers_en_US_holycross.EleisonMeOTheos.incipit
 EleisonMeOTheos.text = prayers_en_US_holycross.EleisonMeOTheos.text
 
+AxionEstinPart1.incipit = prayers_en_US_goa.AxionEstinPart1.incipit
 AxionEstinPart1.text = prayers_en_US_goa.AxionEstinPart1.text
 
+AxionEstinComplete.incipit = prayers_en_US_goa.AxionEstinComplete.incipit
 AxionEstinComplete.text = prayers_en_US_goa.AxionEstinComplete.text
 
+AgiosOTheos.incipit = prayers_en_US_goa.AgiosOTheos.incipit
 AgiosOTheos.text = prayers_en_US_goa.AgiosOTheos.text
 
+EpouranieVasilef.incipit = prayers_en_US_holycross.EpouranieVasilef.incipit
 EpouranieVasilef.text = prayers_en_US_holycross.EpouranieVasilef.text
 
+KyrieKaiDespota1.incipit = prayers_en_US_holycross.KyrieKaiDespota1.incipit
 KyrieKaiDespota1.text = prayers_en_US_holycross.KyrieKaiDespota1.text
 
+KyrieKaiDespota2.incipit = prayers_en_US_holycross.KyrieKaiDespota2.incipit
 KyrieKaiDespota2.text = prayers_en_US_holycross.KyrieKaiDespota2.text
 
+KyrieKaiDespota3.incipit = prayers_en_US_holycross.KyrieKaiDespota3.incipit
 KyrieKaiDespota3.text = prayers_en_US_holycross.KyrieKaiDespota3.text
 
+KyrieKaiDespota4.incipit = prayers_en_US_holycross.KyrieKaiDespota4.incipit
 KyrieKaiDespota4.text = prayers_en_US_holycross.KyrieKaiDespota4.text
 
+OEnPantiKairo.incipit = prayers_en_US_holycross.OEnPantiKairo.incipit
 OEnPantiKairo.text = prayers_en_US_holycross.OEnPantiKairo.text
 
+OOnEvlogitos.incipit = prayers_en_US_holycross.OOnEvlogitos.incipit
 OOnEvlogitos.text = prayers_en_US_holycross.OOnEvlogitos.text
 
+PanagiaTrias.incipit = prayers_en_US_holycross.PanagiaTrias.incipit
 PanagiaTrias.text = prayers_en_US_holycross.PanagiaTrias.text
 
+PaschaDialog1.incipit = prayers_en_US_holycross.PaschaDialog1.incipit
 PaschaDialog1.text = prayers_en_US_holycross.PaschaDialog1.text
+PaschaDialog2.incipit = prayers_en_US_holycross.PaschaDialog2.incipit
 PaschaDialog2.text = prayers_en_US_holycross.PaschaDialog2.text
+PaschaDialog3.incipit = prayers_en_US_holycross.PaschaDialog3.incipit
 PaschaDialog3.text = prayers_en_US_holycross.PaschaDialog3.text
+PaschaDialog4.incipit = prayers_en_US_holycross.PaschaDialog4.incipit
 PaschaDialog4.text = prayers_en_US_holycross.PaschaDialog4.text
+PaschaDialog5.incipit = prayers_en_US_holycross.PaschaDialog5.incipit
 PaschaDialog5.text = prayers_en_US_holycross.PaschaDialog5.text
+PaschaDialog6.incipit = prayers_en_US_holycross.PaschaDialog6.incipit
 PaschaDialog6.text = prayers_en_US_holycross.PaschaDialog6.text
 
+PaterImon.incipit = prayers_en_US_goa.PaterImon.incipit
 PaterImon.text = prayers_en_US_goa.PaterImon.text
 
+Pistevo.incipit = prayers_en_US_goa.Pistevo.incipit
 Pistevo.text = prayers_en_US_goa.Pistevo.text
 
+StereosaiKyrios.incipit = prayers_en_US_holycross.StereosaiKyrios.incipit
 StereosaiKyrios.text = prayers_en_US_holycross.StereosaiKyrios.text
 
+SoulSaturday.incipit = prayers_en_US_holycross.SoulSaturday.incipit
 SoulSaturday.text = prayers_en_US_holycross.SoulSaturday.text
 
+TheotokeParthene.incipit = prayers_en_US_dedes.TheotokeParthene.incipit
 TheotokeParthene.text = prayers_en_US_dedes.TheotokeParthene.text
 
+Thymiama.incipit = prayers_en_US_holycross.Thymiama.incipit
 Thymiama.text = prayers_en_US_holycross.Thymiama.text
 
+TinTimioteranPrayer.incipit = prayers_en_US_dedes.TinTimioteranPrayer.incipit
 TinTimioteranPrayer.text = prayers_en_US_dedes.TinTimioteranPrayer.text
 
+VasilefOuranie.incipit = prayers_en_US_holycross.VasilefOuranie.incipit
 VasilefOuranie.text = prayers_en_US_holycross.VasilefOuranie.text
 
+trDiaTisTheotokou.incipit = "prayers_en_US_holycross.trDiaTisTheotokou"
 trDiaTisTheotokou = prayers_en_US_holycross.trDiaTisTheotokou
 
+fePresveiaisTisTheotokou.incipit = "prayers_en_US_holycross.fePresveiaisTisTheotokou"
 fePresveiaisTisTheotokou = prayers_en_US_holycross.fePresveiaisTisTheotokou
 
+fbPresveiaisKyrieTisTheotokou.incipit = "prayers_en_US_holycross.fbPresveiaisKyrieTisTheotokou"
 fbPresveiaisKyrieTisTheotokou = prayers_en_US_holycross.fbPresveiaisKyrieTisTheotokou
 
+trPresveiaisTonAgion.incipit = "prayers_en_US_holycross.trPresveiaisTonAgion"
 trPresveiaisTonAgion = prayers_en_US_holycross.trPresveiaisTonAgion
 
+fePresveiaisTonAgionKaiSosonMe.incipit = "prayers_en_US_holycross.fePresveiaisTonAgionKaiSosonMe"
 fePresveiaisTonAgionKaiSosonMe = prayers_en_US_holycross.fePresveiaisTonAgionKaiSosonMe
 
+fbPresveiaisKyrieTonAgion.incipit = "prayers_en_US_holycross.fbPresveiaisKyrieTonAgion"
 fbPresveiaisKyrieTonAgion = prayers_en_US_holycross.fbPresveiaisKyrieTonAgion
 
+enarxis01.incipit = "prayers_en_US_holycross.enarxis01"
 enarxis01 = prayers_en_US_holycross.enarxis01
 
+enarxis02.incipit = "prayers_en_US_goa.enarxis02"
 enarxis02 = prayers_en_US_goa.enarxis02
 
+enarxis03.incipit = "prayers_en_US_holycross.enarxis03"
 enarxis03 = prayers_en_US_holycross.enarxis03
 
+pet00.incipit = "prayers_en_US_goa.pet00"
 pet00 = prayers_en_US_goa.pet00
 
+pet01.incipit = "prayers_en_US_goa.pet01"
 pet01 = prayers_en_US_goa.pet01
 
+pet02.incipit = "prayers_en_US_goa.pet02"
 pet02 = prayers_en_US_goa.pet02
 
+pet03.incipit = "prayers_en_US_goa.pet03"
 pet03 = prayers_en_US_goa.pet03
 
+pet04.incipit = "prayers_en_US_goa.pet04"
 pet04 = prayers_en_US_goa.pet04
 
+pet04alt1.title.incipit = "prayers_en_US_holycross.pet04alt1.title"
 pet04alt1.title = prayers_en_US_holycross.pet04alt1.title
+pet04alt1.incipit = "prayers_en_US_holycross.pet04alt1"
 pet04alt1 = prayers_en_US_holycross.pet04alt1
 
+pet04alt2.title.incipit = "prayers_en_US_holycross.pet04alt2.title"
 pet04alt2.title = prayers_en_US_holycross.pet04alt2.title
+pet04alt2.incipit = "prayers_en_US_holycross.pet04alt2"
 pet04alt2 = prayers_en_US_holycross.pet04alt2
 
+pet05.incipit = "prayers_en_US_goa.pet05"
 pet05 = prayers_en_US_goa.pet05
 
+pet06.incipit = "prayers_en_US_goa.pet06"
 pet06 = prayers_en_US_goa.pet06
 
+pet06a.incipit = "prayers_en_US_goa.pet06a"
 pet06a = prayers_en_US_goa.pet06a
 
+pet06b.incipit = "prayers_en_US_goa.pet06b"
 pet06b = prayers_en_US_goa.pet06b
 
+pet07L.incipit = "prayers_en_US_holycross.pet07L"
 pet07L = prayers_en_US_holycross.pet07L
 
+pet07S.incipit = "prayers_en_US_goa.pet07S"
 pet07S = prayers_en_US_goa.pet07S
 
+pet07Sa.incipit = "prayers_en_US_holycross.pet07Sa"
 pet07Sa = prayers_en_US_holycross.pet07Sa
 
+pet08.incipit = "prayers_en_US_goa.pet08"
 pet08 = prayers_en_US_goa.pet08
 
+pet09.incipit = "prayers_en_US_goa.pet09"
 pet09 = prayers_en_US_goa.pet09
 
+pet10.incipit = "prayers_en_US_goa.pet10"
 pet10 = prayers_en_US_goa.pet10
 
+pet11.incipit = "prayers_en_US_goa.pet11"
 pet11 = prayers_en_US_goa.pet11
+pet11_coronavirus1.incipit = "prayers_en_US_goa.pet11_coronavirus1"
 pet11_coronavirus1 = prayers_en_US_goa.pet11_coronavirus1
+pet11_coronavirus2.incipit = "prayers_en_US_goa.pet11_coronavirus2"
 pet11_coronavirus2 = prayers_en_US_goa.pet11_coronavirus2
 
+pet12.incipit = "prayers_en_US_goa.pet12"
 pet12 = prayers_en_US_goa.pet12
 
+pet13.incipit = "prayers_en_US_goa.pet13"
 pet13 = prayers_en_US_goa.pet13
 
+pet14.incipit = "prayers_en_US_goa.pet14"
 pet14 = prayers_en_US_goa.pet14
 
+pet15.incipit = "prayers_en_US_goa.pet15"
 pet15 = prayers_en_US_goa.pet15
 
+pet16.incipit = "prayers_en_US_goa.pet16"
 pet16 = prayers_en_US_goa.pet16
 
+pet17.incipit = "prayers_en_US_goa.pet17"
 pet17 = prayers_en_US_goa.pet17
 
+pet18.incipit = "prayers_en_US_holycross.pet18"
 pet18 = prayers_en_US_holycross.pet18
 
+pet19S.incipit = "prayers_en_US_goa.pet19S"
 pet19S = prayers_en_US_goa.pet19S
+pet19Sa.incipit = "prayers_en_US_goa.pet19Sa"
 pet19Sa = prayers_en_US_goa.pet19Sa
 
+pet19a.incipit = "prayers_en_US_goa.pet19a"
 pet19a = prayers_en_US_goa.pet19a
+pet19b.incipit = "prayers_en_US_goa.pet19b"
 pet19b = prayers_en_US_goa.pet19b
 
+pet20.incipit = "prayers_en_US_goa.pet20"
 pet20 = prayers_en_US_goa.pet20
 
+pet21.incipit = "prayers_en_US_goa.pet21"
 pet21 = prayers_en_US_goa.pet21
 
+pet21a.incipit = "prayers_en_US_holycross.pet21a"
 pet21a = prayers_en_US_holycross.pet21a
 
+pet21b.incipit = "prayers_en_US_holycross.pet21b"
 pet21b = prayers_en_US_holycross.pet21b
 
+pet21c.incipit = "prayers_en_US_holycross.pet21c"
 pet21c = prayers_en_US_holycross.pet21c
 
+pet21d.incipit = "prayers_en_US_holycross.pet21d"
 pet21d = prayers_en_US_holycross.pet21d
 
+pet21p.incipit = "prayers_en_US_holycross.pet21p"
 pet21p = prayers_en_US_holycross.pet21p
 
+pet22.incipit = "prayers_en_US_goa.pet22"
 pet22 = prayers_en_US_goa.pet22
 
+pet23.incipit = "prayers_en_US_goa.pet23"
 pet23 = prayers_en_US_goa.pet23
 
+pet24.incipit = "prayers_en_US_goa.pet24"
 pet24 = prayers_en_US_goa.pet24
 
+pet24v.incipit = "prayers_en_US_goa.pet24v"
 pet24v = prayers_en_US_goa.pet24v
 
+pet24m.incipit = "prayers_en_US_goa.pet24m"
 pet24m = prayers_en_US_goa.pet24m
 
+pet25v.incipit = "prayers_en_US_goa.pet25v"
 pet25v = prayers_en_US_goa.pet25v
 
+pet25m.incipit = "prayers_en_US_goa.pet25m"
 pet25m = prayers_en_US_goa.pet25m
 
+pet26.incipit = "prayers_en_US_goa.pet26"
 pet26 = prayers_en_US_goa.pet26
 
+pet27.incipit = "prayers_en_US_goa.pet27"
 pet27 = prayers_en_US_goa.pet27
 
+pet28.incipit = "prayers_en_US_goa.pet28"
 pet28 = prayers_en_US_goa.pet28
 
+pet29.incipit = "prayers_en_US_goa.pet29"
 pet29 = prayers_en_US_goa.pet29
 
+pet30.incipit = "prayers_en_US_goa.pet30"
 pet30 = prayers_en_US_goa.pet30
 
+pet31.incipit = "prayers_en_US_goa.pet31"
 pet31 = prayers_en_US_goa.pet31
 
+pet32.incipit = "prayers_en_US_goa.pet32"
 pet32 = prayers_en_US_goa.pet32
 
+pet33.incipit = "prayers_en_US_goa.pet33"
 pet33 = prayers_en_US_goa.pet33
 
+pet34.incipit = "prayers_en_US_holycross.pet34"
 pet34 = prayers_en_US_holycross.pet34
 
+pet35.incipit = "prayers_en_US_holycross.pet35"
 pet35 = prayers_en_US_holycross.pet35
 
+pet36.incipit = "prayers_en_US_holycross.pet36"
 pet36 = prayers_en_US_holycross.pet36
 
+pet37.incipit = "prayers_en_US_goa.pet37"
 pet37 = prayers_en_US_goa.pet37
 
+pet37a.incipit = "prayers_en_US_goa.pet37a"
 pet37a = prayers_en_US_goa.pet37a
 
+pet37b.incipit = "prayers_en_US_goa.pet37b"
 pet37b = prayers_en_US_goa.pet37b
 
+petBap01.incipit = "prayers_en_US_holycross.petBap01"
 petBap01 = prayers_en_US_holycross.petBap01
 
+petBap02.incipit = "prayers_en_US_holycross.petBap02"
 petBap02 = prayers_en_US_holycross.petBap02
 
+petBap03.incipit = "prayers_en_US_holycross.petBap03"
 petBap03 = prayers_en_US_holycross.petBap03
 
+petBap04.incipit = "prayers_en_US_holycross.petBap04"
 petBap04 = prayers_en_US_holycross.petBap04
 
+petBap05.incipit = "prayers_en_US_holycross.petBap05"
 petBap05 = prayers_en_US_holycross.petBap05
 
+petBap06.incipit = "prayers_en_US_holycross.petBap06"
 petBap06 = prayers_en_US_holycross.petBap06
 
+petBap07.incipit = "prayers_en_US_holycross.petBap07"
 petBap07 = prayers_en_US_holycross.petBap07
 
+petCatechumens01.incipit = "prayers_en_US_goa.petCatechumens01"
 petCatechumens01 = prayers_en_US_goa.petCatechumens01
 
+petCatechumens02.incipit = "prayers_en_US_goa.petCatechumens02"
 petCatechumens02 = prayers_en_US_goa.petCatechumens02
 
+petCatechumens03.incipit = "prayers_en_US_goa.petCatechumens03"
 petCatechumens03 = prayers_en_US_goa.petCatechumens03
 
+petCatechumens04.incipit = "prayers_en_US_goa.petCatechumens04"
 petCatechumens04 = prayers_en_US_goa.petCatechumens04
 
+petCatechumens05.incipit = "prayers_en_US_goa.petCatechumens05"
 petCatechumens05 = prayers_en_US_goa.petCatechumens05
 
+petCatechumens06.incipit = "prayers_en_US_goa.petCatechumens06"
 petCatechumens06 = prayers_en_US_goa.petCatechumens06
 
+petCatechumens07.incipit = "prayers_en_US_goa.petCatechumens07"
 petCatechumens07 = prayers_en_US_goa.petCatechumens07
 
+petCatechumens08.incipit = "prayers_en_US_goa.petCatechumens08"
 petCatechumens08 = prayers_en_US_goa.petCatechumens08
 
+petCatechumens09.incipit = "prayers_en_US_goa.petCatechumens09"
 petCatechumens09 = prayers_en_US_goa.petCatechumens09
 
+petCatechumens10.incipit = "prayers_en_US_goa.petCatechumens10"
 petCatechumens10 = prayers_en_US_goa.petCatechumens10
 
+petCatechumens11.incipit = "prayers_en_US_goa.petCatechumens11"
 petCatechumens11 = prayers_en_US_goa.petCatechumens11
 
+petCatechumens12.incipit = "prayers_en_US_goa.petCatechumens12"
 petCatechumens12 = prayers_en_US_goa.petCatechumens12
 
+petCatechumens13.incipit = "prayers_en_US_holycross.petCatechumens13"
 petCatechumens13 = prayers_en_US_holycross.petCatechumens13
 
+petCatechumens14.incipit = "prayers_en_US_holycross.petCatechumens14"
 petCatechumens14 = prayers_en_US_holycross.petCatechumens14
 
+petCatechumens15.incipit = "prayers_en_US_holycross.petCatechumens15"
 petCatechumens15 = prayers_en_US_holycross.petCatechumens15
 
+petCatechumens16.incipit = "prayers_en_US_holycross.petCatechumens16"
 petCatechumens16 = prayers_en_US_holycross.petCatechumens16
 
+petCatechumens17.incipit = "prayers_en_US_holycross.petCatechumens17"
 petCatechumens17 = prayers_en_US_holycross.petCatechumens17
 
+petCatechumens18.incipit = "prayers_en_US_holycross.petCatechumens18"
 petCatechumens18 = prayers_en_US_holycross.petCatechumens18
 
+petCatechumens19.incipit = "prayers_en_US_holycross.petCatechumens19"
 petCatechumens19 = prayers_en_US_holycross.petCatechumens19
 
+petCatechumens20.incipit = "prayers_en_US_holycross.petCatechumens20"
 petCatechumens20 = prayers_en_US_holycross.petCatechumens20
 
+petCatechumens21.incipit = "prayers_en_US_holycross.petCatechumens21"
 petCatechumens21 = prayers_en_US_holycross.petCatechumens21
 
+petCatechumens22.incipit = "prayers_en_US_holycross.petCatechumens22"
 petCatechumens22 = prayers_en_US_holycross.petCatechumens22
 
+petCatechumens23.incipit = "prayers_en_US_holycross.petCatechumens23"
 petCatechumens23 = prayers_en_US_holycross.petCatechumens23
 
+petCatechumens24.incipit = "prayers_en_US_holycross.petCatechumens24"
 petCatechumens24 = prayers_en_US_holycross.petCatechumens24
 
+petCompline01.incipit = "prayers_en_US_goa.petCompline01"
 petCompline01 = prayers_en_US_goa.petCompline01
 
+petCompline02.incipit = "prayers_en_US_goa.petCompline02"
 petCompline02 = prayers_en_US_goa.petCompline02
 
+petCompline03.incipit = "prayers_en_US_goa.petCompline03"
 petCompline03 = prayers_en_US_goa.petCompline03
 
+petCompline04.incipit = "prayers_en_US_holycross.petCompline04"
 petCompline04 = prayers_en_US_holycross.petCompline04
 
+petCompline05.incipit = "prayers_en_US_holycross.petCompline05"
 petCompline05 = prayers_en_US_holycross.petCompline05
 
+petCompline06.incipit = "prayers_en_US_goa.petCompline06"
 petCompline06 = prayers_en_US_goa.petCompline06
 
+petCompline07.incipit = "prayers_en_US_goa.petCompline07"
 petCompline07 = prayers_en_US_goa.petCompline07
 
+petCompline08.incipit = "prayers_en_US_goa.petCompline08"
 petCompline08 = prayers_en_US_goa.petCompline08
 
+petCompline09.incipit = "prayers_en_US_goa.petCompline09"
 petCompline09 = prayers_en_US_goa.petCompline09
 
+petCompline10.incipit = "prayers_en_US_goa.petCompline10"
 petCompline10 = prayers_en_US_goa.petCompline10
 
+petCompline11.incipit = "prayers_en_US_holycross.petCompline11"
 petCompline11 = prayers_en_US_holycross.petCompline11
 
+petCompline12.incipit = "prayers_en_US_goa.petCompline12"
 petCompline12 = prayers_en_US_goa.petCompline12
 
+petCompline13.incipit = "prayers_en_US_goa.petCompline13"
 petCompline13 = prayers_en_US_goa.petCompline13
 
+petCompline14.incipit = "prayers_en_US_goa.petCompline14"
 petCompline14 = prayers_en_US_goa.petCompline14
 
+petCompline15.incipit = "prayers_en_US_goa.petCompline15"
 petCompline15 = prayers_en_US_goa.petCompline15
 
+petConsecration01.incipit = "prayers_en_US_holycross.petConsecration01"
 petConsecration01 = prayers_en_US_holycross.petConsecration01
 
+petConsecration02.incipit = "prayers_en_US_holycross.petConsecration02"
 petConsecration02 = prayers_en_US_holycross.petConsecration02
 
+petCross05.incipit = "prayers_en_US_holycross.petCross05"
 petCross05 = prayers_en_US_holycross.petCross05
 
+petFuneral01.incipit = "prayers_en_US_holycross.petFuneral01"
 petFuneral01 = prayers_en_US_holycross.petFuneral01
 
+petFuneral02.incipit = "prayers_en_US_holycross.petFuneral02"
 petFuneral02 = prayers_en_US_holycross.petFuneral02
 
+petKneel01.incipit = "prayers_en_US_holycross.petKneel01"
 petKneel01 = prayers_en_US_holycross.petKneel01
 
+petKneel02.incipit = "prayers_en_US_holycross.petKneel02"
 petKneel02 = prayers_en_US_holycross.petKneel02
 
+petKneel03.incipit = "prayers_en_US_holycross.petKneel03"
 petKneel03 = prayers_en_US_holycross.petKneel03
 
+petKneel04.incipit = "prayers_en_US_holycross.petKneel04"
 petKneel04 = prayers_en_US_holycross.petKneel04
 
+petKneel05.incipit = "prayers_en_US_holycross.petKneel05"
 petKneel05 = prayers_en_US_holycross.petKneel05
 
+petKneel06.incipit = "prayers_en_US_holycross.petKneel06"
 petKneel06 = prayers_en_US_holycross.petKneel06
 
+petKneel07.incipit = "prayers_en_US_holycross.petKneel07"
 petKneel07 = prayers_en_US_holycross.petKneel07
 
+petKneel08.incipit = "prayers_en_US_holycross.petKneel08"
 petKneel08 = prayers_en_US_holycross.petKneel08
 
+petMonasteryLity01.incipit = "prayers_en_US_dedes.petMonasteryLity01"
 petMonasteryLity01 = prayers_en_US_dedes.petMonasteryLity01
+petMonasteryLity02.incipit = "prayers_en_US_dedes.petMonasteryLity02"
 petMonasteryLity02 = prayers_en_US_dedes.petMonasteryLity02
+petMonasteryLity03.incipit = "prayers_en_US_dedes.petMonasteryLity03"
 petMonasteryLity03 = prayers_en_US_dedes.petMonasteryLity03
 
+petMonastery01a.incipit = "prayers_en_US_holycross.petMonastery01a"
 petMonastery01a = prayers_en_US_holycross.petMonastery01a
+petMonastery01b.incipit = "prayers_en_US_holycross.petMonastery01b"
 petMonastery01b = prayers_en_US_holycross.petMonastery01b
+petMonastery02a.incipit = "prayers_en_US_holycross.petMonastery02a"
 petMonastery02a = prayers_en_US_holycross.petMonastery02a
+petMonastery02b.incipit = "prayers_en_US_holycross.petMonastery02b"
 petMonastery02b = prayers_en_US_holycross.petMonastery02b
 
+petMonastery22.incipit = "prayers_en_US_dedes.petMonastery22"
 petMonastery22 = prayers_en_US_dedes.petMonastery22
+petMonastery23.incipit = "prayers_en_US_dedes.petMonastery23"
 petMonastery23 = prayers_en_US_dedes.petMonastery23
 
+petOrdination01a.incipit = "prayers_en_US_holycross.petOrdination01a"
 petOrdination01a = prayers_en_US_holycross.petOrdination01a
+petOrdination01b.incipit = "prayers_en_US_holycross.petOrdination01b"
 petOrdination01b = prayers_en_US_holycross.petOrdination01b
 
+petOrdination02_deacon.incipit = "prayers_en_US_holycross.petOrdination02_deacon"
 petOrdination02_deacon = prayers_en_US_holycross.petOrdination02_deacon
+petOrdination02_priest.incipit = "prayers_en_US_holycross.petOrdination02_priest"
 petOrdination02_priest = prayers_en_US_holycross.petOrdination02_priest
+petOrdination02_bishop.incipit = "prayers_en_US_holycross.petOrdination02_bishop"
 petOrdination02_bishop = prayers_en_US_holycross.petOrdination02_bishop
 
+petOrdination03_deacon.incipit = "prayers_en_US_holycross.petOrdination03_deacon"
 petOrdination03_deacon = prayers_en_US_holycross.petOrdination03_deacon
+petOrdination03_priest.incipit = "prayers_en_US_holycross.petOrdination03_priest"
 petOrdination03_priest = prayers_en_US_holycross.petOrdination03_priest
+petOrdination03_bishop.incipit = "prayers_en_US_holycross.petOrdination03_bishop"
 petOrdination03_bishop = prayers_en_US_holycross.petOrdination03_bishop
 
+petOrdination04.incipit = "prayers_en_US_holycross.petOrdination04"
 petOrdination04 = prayers_en_US_holycross.petOrdination04
 
+petSouls01.incipit = "prayers_en_US_holycross.petSouls01"
 petSouls01 = prayers_en_US_holycross.petSouls01
 
+petSouls02.incipit = "prayers_en_US_holycross.petSouls02"
 petSouls02 = prayers_en_US_holycross.petSouls02
 
+petUnction01.incipit = "prayers_en_US_holycross.petUnction01"
 petUnction01 = prayers_en_US_holycross.petUnction01
 
+petUnction02.incipit = "prayers_en_US_holycross.petUnction02"
 petUnction02 = prayers_en_US_holycross.petUnction02
 
+petUnction03.incipit = "prayers_en_US_holycross.petUnction03"
 petUnction03 = prayers_en_US_holycross.petUnction03
 
+petWater01.incipit = "prayers_en_US_holycross.petWater01"
 petWater01 = prayers_en_US_holycross.petWater01
 
+petWater02.incipit = "prayers_en_US_holycross.petWater02"
 petWater02 = prayers_en_US_holycross.petWater02
 
+petWater03.incipit = "prayers_en_US_holycross.petWater03"
 petWater03 = prayers_en_US_holycross.petWater03
 
+petWater03alt.incipit = "prayers_en_US_holycross.petWater03alt"
 petWater03alt = prayers_en_US_holycross.petWater03alt
 
+petWater04.incipit = "prayers_en_US_holycross.petWater04"
 petWater04 = prayers_en_US_holycross.petWater04
 
+petWater05.incipit = "prayers_en_US_holycross.petWater05"
 petWater05 = prayers_en_US_holycross.petWater05
 
+petWater06.incipit = "prayers_en_US_holycross.petWater06"
 petWater06 = prayers_en_US_holycross.petWater06
 
+petWater07.incipit = "prayers_en_US_holycross.petWater07"
 petWater07 = prayers_en_US_holycross.petWater07
 
+petWater07alt.incipit = "prayers_en_US_holycross.petWater07alt"
 petWater07alt = prayers_en_US_holycross.petWater07alt
 
+petWater08.incipit = "prayers_en_US_holycross.petWater08"
 petWater08 = prayers_en_US_holycross.petWater08
 
+petWater09.incipit = "prayers_en_US_holycross.petWater09"
 petWater09 = prayers_en_US_holycross.petWater09
 
+petWater10.incipit = "prayers_en_US_holycross.petWater10"
 petWater10 = prayers_en_US_holycross.petWater10
 
+petWater11.incipit = "prayers_en_US_holycross.petWater11"
 petWater11 = prayers_en_US_holycross.petWater11
 
+petWater12.incipit = "prayers_en_US_holycross.petWater12"
 petWater12 = prayers_en_US_holycross.petWater12
 
+petWater13.incipit = "prayers_en_US_holycross.petWater13"
 petWater13 = prayers_en_US_holycross.petWater13
 
+petWater14.incipit = "prayers_en_US_holycross.petWater14"
 petWater14 = prayers_en_US_holycross.petWater14
 
+petWater15.incipit = "prayers_en_US_holycross.petWater15"
 petWater15 = prayers_en_US_holycross.petWater15
 
+petWater16.incipit = "prayers_en_US_holycross.petWater16"
 petWater16 = prayers_en_US_holycross.petWater16
 
+petWed01.incipit = "prayers_en_US_holycross.petWed01"
 petWed01 = prayers_en_US_holycross.petWed01
 
+petWed02.incipit = "prayers_en_US_holycross.petWed02"
 petWed02 = prayers_en_US_holycross.petWed02
 
+petWed03.incipit = "prayers_en_US_holycross.petWed03"
 petWed03 = prayers_en_US_holycross.petWed03
 
+petWed04.incipit = "prayers_en_US_holycross.petWed04"
 petWed04 = prayers_en_US_holycross.petWed04
 
+petWed05.incipit = "prayers_en_US_holycross.petWed05"
 petWed05 = prayers_en_US_holycross.petWed05
 
+petWed06.incipit = "prayers_en_US_holycross.petWed06"
 petWed06 = prayers_en_US_holycross.petWed06
 
+petWed07.incipit = "prayers_en_US_holycross.petWed07"
 petWed07 = prayers_en_US_holycross.petWed07
 
+petWed08.incipit = "prayers_en_US_holycross.petWed08"
 petWed08 = prayers_en_US_holycross.petWed08
 
+petWed09.incipit = "prayers_en_US_holycross.petWed09"
 petWed09 = prayers_en_US_holycross.petWed09
 
+petWed10.incipit = "prayers_en_US_holycross.petWed10"
 petWed10 = prayers_en_US_holycross.petWed10
 
+petWed11.incipit = "prayers_en_US_holycross.petWed11"
 petWed11 = prayers_en_US_holycross.petWed11
 
+petWed12.incipit = "prayers_en_US_holycross.petWed12"
 petWed12 = prayers_en_US_holycross.petWed12
 
+petWed13.incipit = "prayers_en_US_holycross.petWed13"
 petWed13 = prayers_en_US_holycross.petWed13
 
+petWed14.incipit = "prayers_en_US_holycross.petWed14"
 petWed14 = prayers_en_US_holycross.petWed14
 
+sup00.incipit = "prayers_en_US_holycross.sup00"
 sup00 = prayers_en_US_holycross.sup00
 
+sup00a.incipit = "prayers_en_US_holycross.sup00a"
 sup00a = prayers_en_US_holycross.sup00a
 
+sup01.incipit = "prayers_en_US_holycross.sup01"
 sup01 = prayers_en_US_holycross.sup01
 
+sup02.incipit = "prayers_en_US_holycross.sup02"
 sup02 = prayers_en_US_holycross.sup02
 
+sup03.incipit = "prayers_en_US_holycross.sup03"
 sup03 = prayers_en_US_holycross.sup03
 
+sup04.incipit = "prayers_en_US_holycross.sup04"
 sup04 = prayers_en_US_holycross.sup04
 
+sup05.incipit = "prayers_en_US_holycross.sup05"
 sup05 = prayers_en_US_holycross.sup05
 
+sup06.incipit = "prayers_en_US_holycross.sup06"
 sup06 = prayers_en_US_holycross.sup06
 
+sup06a.incipit = "prayers_en_US_holycross.sup06a"
 sup06a = prayers_en_US_holycross.sup06a
 
+sup06b.incipit = "prayers_en_US_holycross.sup06b"
 sup06b = prayers_en_US_holycross.sup06b
 
+sup06_basil.incipit = "prayers_en_US_holycross.sup06_basil"
 sup06_basil = prayers_en_US_holycross.sup06_basil
+sup06_gregory.incipit = "prayers_en_US_holycross.sup06_gregory"
 sup06_gregory = prayers_en_US_holycross.sup06_gregory
+sup06_john.incipit = "prayers_en_US_holycross.sup06_john"
 sup06_john = prayers_en_US_holycross.sup06_john
+sup07.incipit = "prayers_en_US_holycross.sup07"
 sup07 = prayers_en_US_holycross.sup07
+sup07_athanasios_cyril.incipit = "prayers_en_US_holycross.sup07_athanasios_cyril"
 sup07_athanasios_cyril = prayers_en_US_holycross.sup07_athanasios_cyril
+sup07_athanasios.incipit = "prayers_en_US_holycross.sup07_athanasios"
 sup07_athanasios = prayers_en_US_holycross.sup07_athanasios
+sup07_cyril.incipit = "prayers_en_US_holycross.sup07_cyril"
 sup07_cyril = prayers_en_US_holycross.sup07_cyril
+sup07_john.incipit = "prayers_en_US_holycross.sup07_john"
 sup07_john = prayers_en_US_holycross.sup07_john
+sup08.incipit = "prayers_en_US_holycross.sup08"
 sup08 = prayers_en_US_holycross.sup08
+sup08_nicholas.incipit = "prayers_en_US_holycross.sup08_nicholas"
 sup08_nicholas = prayers_en_US_holycross.sup08_nicholas
+sup08_spyridon.incipit = "prayers_en_US_holycross.sup08_spyridon"
 sup08_spyridon = prayers_en_US_holycross.sup08_spyridon
+sup08_nektarios.incipit = "prayers_en_US_holycross.sup08_nektarios"
 sup08_nektarios = prayers_en_US_holycross.sup08_nektarios
 
+sup09.incipit = "prayers_en_US_holycross.sup09"
 sup09 = prayers_en_US_holycross.sup09
+sup09_demetrios.incipit = "prayers_en_US_holycross.sup09_demetrios"
 sup09_demetrios = prayers_en_US_holycross.sup09_demetrios
+sup09_george.incipit = "prayers_en_US_holycross.sup09_george"
 sup09_george = prayers_en_US_holycross.sup09_george
+sup09_tyro.incipit = "prayers_en_US_holycross.sup09_tyro"
 sup09_tyro = prayers_en_US_holycross.sup09_tyro
+sup09_general.incipit = "prayers_en_US_holycross.sup09_general"
 sup09_general = prayers_en_US_holycross.sup09_general
+sup09_minas.incipit = "prayers_en_US_holycross.sup09_minas"
 sup09_minas = prayers_en_US_holycross.sup09_minas
+sup10.incipit = "prayers_en_US_holycross.sup10"
 sup10 = prayers_en_US_holycross.sup10
+sup10_haralambos.incipit = "prayers_en_US_holycross.sup10_haralambos"
 sup10_haralambos = prayers_en_US_holycross.sup10_haralambos
+sup10_eleutherios.incipit = "prayers_en_US_holycross.sup10_eleutherios"
 sup10_eleutherios = prayers_en_US_holycross.sup10_eleutherios
+sup11.incipit = "prayers_en_US_holycross.sup11"
 sup11 = prayers_en_US_holycross.sup11
 
+sup11_eufimia.incipit = "prayers_en_US_holycross.sup11_eufimia"
 sup11_eufimia = prayers_en_US_holycross.sup11_eufimia
+sup11_thekla.incipit = "prayers_en_US_holycross.sup11_thekla"
 sup11_thekla = prayers_en_US_holycross.sup11_thekla
+sup11_barbara.incipit = "prayers_en_US_holycross.sup11_barbara"
 sup11_barbara = prayers_en_US_holycross.sup11_barbara
+sup11_anastasia.incipit = "prayers_en_US_holycross.sup11_anastasia"
 sup11_anastasia = prayers_en_US_holycross.sup11_anastasia
+sup11_catherine.incipit = "prayers_en_US_holycross.sup11_catherine"
 sup11_catherine = prayers_en_US_holycross.sup11_catherine
+sup11_kyriaki.incipit = "prayers_en_US_holycross.sup11_kyriaki"
 sup11_kyriaki = prayers_en_US_holycross.sup11_kyriaki
+sup11_photeini.incipit = "prayers_en_US_holycross.sup11_photeini"
 sup11_photeini = prayers_en_US_holycross.sup11_photeini
+sup11_marina.incipit = "prayers_en_US_holycross.sup11_marina"
 sup11_marina = prayers_en_US_holycross.sup11_marina
+sup11_paraskevi.incipit = "prayers_en_US_holycross.sup11_paraskevi"
 sup11_paraskevi = prayers_en_US_holycross.sup11_paraskevi
+sup11_irene.incipit = "prayers_en_US_holycross.sup11_irene"
 sup11_irene = prayers_en_US_holycross.sup11_irene
 
+sup12.incipit = "prayers_en_US_holycross.sup12"
 sup12 = prayers_en_US_holycross.sup12
 
+sup13.incipit = "prayers_en_US_holycross.sup13"
 sup13 = prayers_en_US_holycross.sup13
 
+sup14.incipit = "prayers_en_US_holycross.sup14"
 sup14 = prayers_en_US_holycross.sup14
 
+sup15.incipit = "prayers_en_US_holycross.sup15"
 sup15 = prayers_en_US_holycross.sup15
 
+sup16a.incipit = "prayers_en_US_holycross.sup16a"
 sup16a = prayers_en_US_holycross.sup16a
+sup16b.incipit = "prayers_en_US_holycross.sup16b"
 sup16b = prayers_en_US_holycross.sup16b
 
+sup99.incipit = "prayers_en_US_holycross.sup99"
 sup99 = prayers_en_US_holycross.sup99
 
+res01.incipit = "prayers_en_US_goa.res01"
 res01 = prayers_en_US_goa.res01
 
+res02.incipit = "prayers_en_US_goa.res02"
 res02 = prayers_en_US_goa.res02
 
+res03.incipit = "prayers_en_US_goa.res03"
 res03 = prayers_en_US_goa.res03
 
+res04.incipit = "prayers_en_US_goa.res04"
 res04 = prayers_en_US_goa.res04
 
+res05.incipit = "prayers_en_US_goa.res05"
 res05 = prayers_en_US_goa.res05
 
+res06.incipit = "prayers_en_US_goa.res06"
 res06 = prayers_en_US_goa.res06
+res06.MM.long.sos.incipit = prayers_en_US_goa.res06.MM.long.sos.incipit
 res06.MM.long.sos.text = prayers_en_US_goa.res06.MM.long.sos.text
 
+res07.incipit = "prayers_en_US_holycross.res07"
 res07 = prayers_en_US_holycross.res07
+res07.MM.long.incipit = prayers_en_US_dedes.res07.MM.long.incipit
 res07.MM.long.text = prayers_en_US_dedes.res07.MM.long.text
 
+res08.incipit = "prayers_en_US_holycross.res08"
 res08 = prayers_en_US_holycross.res08
 
+res09.incipit = "prayers_en_US_holycross.res09"
 res09 = prayers_en_US_holycross.res09
 
+res10.incipit = "prayers_en_US_goa.res10"
 res10 = prayers_en_US_goa.res10
 
+res11.incipit = "prayers_en_US_dedes.res11"
 res11 = prayers_en_US_dedes.res11
 
+res12.incipit = "prayers_en_US_holycross.res12"
 res12 = prayers_en_US_holycross.res12
 
+res13.incipit = "prayers_en_US_holycross.res13"
 res13 = prayers_en_US_holycross.res13
 
+res14.incipit = "prayers_en_US_goa.res14"
 res14 = prayers_en_US_goa.res14
 
+res15.incipit = "prayers_en_US_goa.res15"
 res15 = prayers_en_US_goa.res15
 
+res16.incipit = "prayers_en_US_goa.res16"
 res16 = prayers_en_US_goa.res16
 
+res01p.incipit = "prayers_en_US_goa.res01p"
 res01p = prayers_en_US_goa.res01p
 
+res02p.incipit = "prayers_en_US_goa.res02p"
 res02p = prayers_en_US_goa.res02p
 
+res03p.incipit = "prayers_en_US_goa.res03p"
 res03p = prayers_en_US_goa.res03p
 
+res04p.incipit = "prayers_en_US_goa.res04p"
 res04p = prayers_en_US_goa.res04p
 
+res05p.incipit = "prayers_en_US_goa.res05p"
 res05p = prayers_en_US_goa.res05p
 
+res06p.incipit = "prayers_en_US_goa.res06p"
 res06p = prayers_en_US_goa.res06p
 
+res07p.incipit = "prayers_en_US_holycross.res07p"
 res07p = prayers_en_US_holycross.res07p
 
+res08p.incipit = "prayers_en_US_holycross.res08p"
 res08p = prayers_en_US_holycross.res08p
 
+res09p.incipit = "prayers_en_US_holycross.res09p"
 res09p = prayers_en_US_holycross.res09p
 
+res10p.incipit = "prayers_en_US_goa.res10p"
 res10p = prayers_en_US_goa.res10p
 
+res12p.incipit = "prayers_en_US_holycross.res12p"
 res12p = prayers_en_US_holycross.res12p
 
+res13p.incipit = "prayers_en_US_holycross.res13p"
 res13p = prayers_en_US_holycross.res13p
 
+res14p.incipit = "prayers_en_US_goa.res14p"
 res14p = prayers_en_US_goa.res14p
 
+res15p.incipit = "prayers_en_US_goa.res15p"
 res15p = prayers_en_US_goa.res15p
 
+res16p.incipit = "prayers_en_US_goa.res16p"
 res16p = prayers_en_US_goa.res16p
 
+exc01.incipit = "prayers_en_US_goa.exc01"
 exc01 = prayers_en_US_goa.exc01
 
+exc01a.incipit = "prayers_en_US_holycross.exc01a"
 exc01a = prayers_en_US_holycross.exc01a
 
+exc02.incipit = "prayers_en_US_goa.exc02"
 exc02 = prayers_en_US_goa.exc02
 
+exc03.incipit = "prayers_en_US_goa.exc03"
 exc03 = prayers_en_US_goa.exc03
 
+exc04.incipit = "prayers_en_US_holycross.exc04"
 exc04 = prayers_en_US_holycross.exc04
 
+exc04a.incipit = "prayers_en_US_dedes.exc04a"
 exc04a = prayers_en_US_dedes.exc04a
 
+exc05.incipit = "prayers_en_US_goa.exc05"
 exc05 = prayers_en_US_goa.exc05
 
+exc05a.incipit = "prayers_en_US_goa.exc05a"
 exc05a = prayers_en_US_goa.exc05a
 
+exc05b.incipit = "prayers_en_US_goa.exc05b"
 exc05b = prayers_en_US_goa.exc05b
 
+exc06.incipit = "prayers_en_US_holycross.exc06"
 exc06 = prayers_en_US_holycross.exc06
 
+exc07.incipit = "prayers_en_US_holycross.exc07"
 exc07 = prayers_en_US_holycross.exc07
 
+exc07a.incipit = "prayers_en_US_goa.exc07a"
 exc07a = prayers_en_US_goa.exc07a
 
+exc07b.incipit = "prayers_en_US_holycross.exc07b"
 exc07b = prayers_en_US_holycross.exc07b
 
+exc07c.incipit = "prayers_en_US_holycross.exc07c"
 exc07c = prayers_en_US_holycross.exc07c
 
+exc08.incipit = "prayers_en_US_holycross.exc08"
 exc08 = prayers_en_US_holycross.exc08
 
+exc09.incipit = "prayers_en_US_holycross.exc09"
 exc09 = prayers_en_US_holycross.exc09
 
+exc10.incipit = "prayers_en_US_holycross.exc10"
 exc10 = prayers_en_US_holycross.exc10
 
+exc11.incipit = "prayers_en_US_goa.exc11"
 exc11 = prayers_en_US_goa.exc11
 
+exc11a.incipit = "prayers_en_US_holycross.exc11a"
 exc11a = prayers_en_US_holycross.exc11a
 
+exc12.incipit = "prayers_en_US_holycross.exc12"
 exc12 = prayers_en_US_holycross.exc12
 
+exc13.incipit = "prayers_en_US_holycross.exc13"
 exc13 = prayers_en_US_holycross.exc13
 
+exc14.incipit = "prayers_en_US_holycross.exc14"
 exc14 = prayers_en_US_holycross.exc14
 
+exc15.incipit = "prayers_en_US_holycross.exc15"
 exc15 = prayers_en_US_holycross.exc15
 
+exc16.incipit = "prayers_en_US_holycross.exc16"
 exc16 = prayers_en_US_holycross.exc16
 
+exc16a.incipit = "prayers_en_US_holycross.exc16a"
 exc16a = prayers_en_US_holycross.exc16a
 
+exc17.incipit = "prayers_en_US_goa.exc17"
 exc17 = prayers_en_US_goa.exc17
 
+exc18.incipit = "prayers_en_US_goa.exc18"
 exc18 = prayers_en_US_goa.exc18
 
+exc19.incipit = "prayers_en_US_goa.exc19"
 exc19 = prayers_en_US_goa.exc19
 
+exc20.incipit = "prayers_en_US_goa.exc20"
 exc20 = prayers_en_US_goa.exc20
 
+exc22.incipit = "prayers_en_US_holycross.exc22"
 exc22 = prayers_en_US_holycross.exc22
 
+exc23.incipit = "prayers_en_US_holycross.exc23"
 exc23 = prayers_en_US_holycross.exc23
 
+exc24.incipit = "prayers_en_US_goa.exc24"
 exc24 = prayers_en_US_goa.exc24
 
+exc25.incipit = "prayers_en_US_holycross.exc25"
 exc25 = prayers_en_US_holycross.exc25
 
+exc26.incipit = "prayers_en_US_holycross.exc26"
 exc26 = prayers_en_US_holycross.exc26
 
+exc27.incipit = "prayers_en_US_holycross.exc27"
 exc27 = prayers_en_US_holycross.exc27
 
+exc28.incipit = "prayers_en_US_goa.exc28"
 exc28 = prayers_en_US_goa.exc28
 
+exc28a.incipit = "prayers_en_US_goa.exc28a"
 exc28a = prayers_en_US_goa.exc28a
 
+exc29.incipit = "prayers_en_US_holycross.exc29"
 exc29 = prayers_en_US_holycross.exc29
 
+epi01a.incipit = "prayers_en_US_goa.epi01a"
 epi01a = prayers_en_US_goa.epi01a
 
+epi01b.incipit = "prayers_en_US_goa.epi01b"
 epi01b = prayers_en_US_goa.epi01b
 
+epi02.incipit = "prayers_en_US_goa.epi02"
 epi02 = prayers_en_US_goa.epi02
 
+epi03.incipit = "prayers_en_US_goa.epi03"
 epi03 = prayers_en_US_goa.epi03
 
+gos01.incipit = "prayers_en_US_holycross.gos01"
 gos01 = prayers_en_US_holycross.gos01
 
+gos02.incipit = "prayers_en_US_goa.gos02"
 gos02 = prayers_en_US_goa.gos02
 
+gos03a.incipit = "prayers_en_US_goa.gos03a"
 gos03a = prayers_en_US_goa.gos03a
 
+gos03b.incipit = "prayers_en_US_holycross.gos03b"
 gos03b = prayers_en_US_holycross.gos03b
 
+gos04.incipit = "prayers_en_US_goa.gos04"
 gos04 = prayers_en_US_goa.gos04
 
+gos05.incipit = "prayers_en_US_goa.gos05"
 gos05 = prayers_en_US_goa.gos05
 
+otr01a.incipit = "prayers_en_US_goa.otr01a"
 otr01a = prayers_en_US_goa.otr01a
 
+otr01b.incipit = "prayers_en_US_goa.otr01b"
 otr01b = prayers_en_US_goa.otr01b
 
+verse_Angels.incipit = prayers_en_US_holycross.verse_Angels.incipit
 verse_Angels.text = prayers_en_US_holycross.verse_Angels.text
 
+verseP_Angels.incipit = prayers_en_US_holycross.verseP_Angels.incipit
 verseP_Angels.text = prayers_en_US_holycross.verseP_Angels.text
 
+verse_Apostle.incipit = prayers_en_US_holycross.verse_Apostle.incipit
 verse_Apostle.text = prayers_en_US_holycross.verse_Apostle.text
 
+verse_Apostles.incipit = prayers_en_US_holycross.verse_Apostles.incipit
 verse_Apostles.text = prayers_en_US_holycross.verse_Apostles.text
 
+verse_ApostlesMartyrs.incipit = prayers_en_US_holycross.verse_ApostlesMartyrs.incipit
 verse_ApostlesMartyrs.text = prayers_en_US_holycross.verse_ApostlesMartyrs.text
 
+verseP_ApostlesMartyrs.incipit = prayers_en_US_holycross.verseP_ApostlesMartyrs.incipit
 verseP_ApostlesMartyrs.text = prayers_en_US_holycross.verseP_ApostlesMartyrs.text
 
+verse_Archangel.incipit = prayers_en_US_holycross.verse_Archangel.incipit
 verse_Archangel.text = prayers_en_US_holycross.verse_Archangel.text
 
+verseP_Archangel.incipit = prayers_en_US_holycross.verseP_Archangel.incipit
 verseP_Archangel.text = prayers_en_US_holycross.verseP_Archangel.text
 
+verse_Archangels.incipit = prayers_en_US_holycross.verse_Archangels.incipit
 verse_Archangels.text = prayers_en_US_holycross.verse_Archangels.text
 
+verseP_Archangels.incipit = prayers_en_US_holycross.verseP_Archangels.incipit
 verseP_Archangels.text = prayers_en_US_holycross.verseP_Archangels.text
 
+verse_Baptist.incipit = prayers_en_US_holycross.verse_Baptist.incipit
 verse_Baptist.text = prayers_en_US_holycross.verse_Baptist.text
 
+verseP_Baptist.incipit = prayers_en_US_holycross.verseP_Baptist.incipit
 verseP_Baptist.text = prayers_en_US_holycross.verseP_Baptist.text
 
+verse_Cross.incipit = prayers_en_US_holycross.verse_Cross.incipit
 verse_Cross.text = prayers_en_US_holycross.verse_Cross.text
 
+verseP_Cross.incipit = prayers_en_US_holycross.verseP_Cross.incipit
 verseP_Cross.text = prayers_en_US_holycross.verseP_Cross.text
 
+verse_Crucifixion.incipit = prayers_en_US_holycross.verse_Crucifixion.incipit
 verse_Crucifixion.text = prayers_en_US_holycross.verse_Crucifixion.text
 
+verse_DevoutMan.incipit = prayers_en_US_holycross.verse_DevoutMan.incipit
 verse_DevoutMan.text = prayers_en_US_holycross.verse_DevoutMan.text
 
+verse_DevoutMen.incipit = prayers_en_US_holycross.verse_DevoutMen.incipit
 verse_DevoutMen.text = prayers_en_US_holycross.verse_DevoutMen.text
 
+verse_DevoutWoman.incipit = prayers_en_US_holycross.verse_DevoutWoman.incipit
 verse_DevoutWoman.text = prayers_en_US_holycross.verse_DevoutWoman.text
 
+verse_God.incipit = prayers_en_US_holycross.verse_God.incipit
 verse_God.text = prayers_en_US_holycross.verse_God.text
 
+verse_GreatMartyrs.incipit = prayers_en_US_holycross.verse_GreatMartyrs.incipit
 verse_GreatMartyrs.text = prayers_en_US_holycross.verse_GreatMartyrs.text
 
+verseP_GreatMartyrs.incipit = prayers_en_US_holycross.verseP_GreatMartyrs.incipit
 verseP_GreatMartyrs.text = prayers_en_US_holycross.verseP_GreatMartyrs.text
 
+verse_Hierarchs.incipit = prayers_en_US_holycross.verse_Hierarchs.incipit
 verse_Hierarchs.text = prayers_en_US_holycross.verse_Hierarchs.text
 
+verseP_Hierarchs.incipit = prayers_en_US_holycross.verseP_Hierarchs.incipit
 verseP_Hierarchs.text = prayers_en_US_holycross.verseP_Hierarchs.text
 
+verse_Nicholas.incipit = prayers_en_US_holycross.verse_Nicholas.incipit
 verse_Nicholas.text = prayers_en_US_holycross.verse_Nicholas.text
 
+verseP_Nicholas.incipit = prayers_en_US_holycross.verseP_Nicholas.incipit
 verseP_Nicholas.text = prayers_en_US_holycross.verseP_Nicholas.text
 
+verse_Panteleimon.incipit = prayers_en_US_holycross.verse_Panteleimon.incipit
 verse_Panteleimon.text = prayers_en_US_holycross.verse_Panteleimon.text
 
+verseP_Panteleimon.incipit = prayers_en_US_holycross.verseP_Panteleimon.incipit
 verseP_Panteleimon.text = prayers_en_US_holycross.verseP_Panteleimon.text
 
+verse_Prophet.incipit = prayers_en_US_holycross.verse_Prophet.incipit
 verse_Prophet.text = prayers_en_US_holycross.verse_Prophet.text
 
+verse_Resurrection.incipit = prayers_en_US_holycross.verse_Resurrection.incipit
 verse_Resurrection.text = prayers_en_US_holycross.verse_Resurrection.text
 
+verse_Righteous.incipit = prayers_en_US_holycross.verse_Righteous.incipit
 verse_Righteous.text = prayers_en_US_holycross.verse_Righteous.text
 
+verseP_Righteous.incipit = prayers_en_US_holycross.verseP_Righteous.incipit
 verseP_Righteous.text = prayers_en_US_holycross.verseP_Righteous.text
 
+verse_SaintM.incipit = prayers_en_US_holycross.verse_SaintM.incipit
 verse_SaintM.text = prayers_en_US_holycross.verse_SaintM.text
 
+verse_SaintW.incipit = prayers_en_US_holycross.verse_SaintW.incipit
 verse_SaintW.text = prayers_en_US_holycross.verse_SaintW.text
 
+verse_SaintsM.incipit = prayers_en_US_holycross.verse_SaintsM.incipit
 verse_SaintsM.text = prayers_en_US_holycross.verse_SaintsM.text
 
+verse_SaintsW.incipit = prayers_en_US_holycross.verse_SaintsW.incipit
 verse_SaintsW.text = prayers_en_US_holycross.verse_SaintsW.text
 
+verse_SoulSaturday.incipit = prayers_en_US_holycross.verse_SoulSaturday.incipit
 verse_SoulSaturday.text = prayers_en_US_holycross.verse_SoulSaturday.text
 
+verseP_SoulSaturday.incipit = prayers_en_US_holycross.verseP_SoulSaturday.incipit
 verseP_SoulSaturday.text = prayers_en_US_holycross.verseP_SoulSaturday.text
 
+verse_Theotokos.incipit = prayers_en_US_holycross.verse_Theotokos.incipit
 verse_Theotokos.text = prayers_en_US_holycross.verse_Theotokos.text
 
+verseP_Theotokos.incipit = prayers_en_US_holycross.verseP_Theotokos.incipit
 verseP_Theotokos.text = prayers_en_US_holycross.verseP_Theotokos.text
 
+verse_Trinity.incipit = prayers_en_US_holycross.verse_Trinity.incipit
 verse_Trinity.text = prayers_en_US_holycross.verse_Trinity.text
 
+verseP_Trinity.incipit = prayers_en_US_holycross.verseP_Trinity.incipit
 verseP_Trinity.text = prayers_en_US_holycross.verseP_Trinity.text
 
+verse_Unmercenaries.incipit = prayers_en_US_holycross.verse_Unmercenaries.incipit
 verse_Unmercenaries.text = prayers_en_US_holycross.verse_Unmercenaries.text
 
+verseP_Unmercenaries.incipit = prayers_en_US_holycross.verseP_Unmercenaries.incipit
 verseP_Unmercenaries.text = prayers_en_US_holycross.verseP_Unmercenaries.text
