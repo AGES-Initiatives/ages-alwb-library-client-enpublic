@@ -3,7 +3,17 @@ A_Resource_Whose_Name = ty.typikon.parts_en_US_public
 tyPart.Typikon = ty.typikon.parts_en_US_dedes.tyPart.Typikon
 tyPart.Disclaimer.text = ty.typikon.parts_en_US_dedes.tyPart.Disclaimer.text
 tyPart.Vespers = ty.typikon.parts_en_US_dedes.tyPart.Vespers
+tyPart.Enarxis = ty.typikon.parts_en_US_dedes.tyPart.Enarxis
+tyPart.IntroductoryPsalm = ty.typikon.parts_en_US_dedes.tyPart.IntroductoryPsalm
+tyPart.GreatLitany = ty.typikon.parts_en_US_dedes.tyPart.GreatLitany
+tyPart.Psalter = ty.typikon.parts_en_US_dedes.tyPart.Psalter
+tyPart.VespersKathisma = ty.typikon.parts_en_US_dedes.tyPart.VespersKathisma
+tyPart.ShortLitany = ty.typikon.parts_en_US_dedes.tyPart.ShortLitany
 tyPart.LIHC = ty.typikon.parts_en_US_dedes.tyPart.LIHC
+tyPart.LIHC_10 = ty.typikon.parts_en_US_dedes.tyPart.LIHC_10
+tyPart.LIHC_08 = ty.typikon.parts_en_US_dedes.tyPart.LIHC_08
+tyPart.LIHC_06 = ty.typikon.parts_en_US_dedes.tyPart.LIHC_06
+tyPart.LIHC_04 = ty.typikon.parts_en_US_dedes.tyPart.LIHC_04
 tyPart.Stichera = ty.typikon.parts_en_US_dedes.tyPart.Stichera
 tyPart.Glory = ty.typikon.parts_en_US_dedes.tyPart.Glory
 tyPart.BothNow = ty.typikon.parts_en_US_dedes.tyPart.BothNow
@@ -77,4 +87,16 @@ tyPart.Friday.Evening = ty.typikon.parts_en_US_dedes.tyPart.Friday.Evening
 tyPart.Friday.Morning = ty.typikon.parts_en_US_dedes.tyPart.Friday.Morning
 tyPart.Saturday.Evening = ty.typikon.parts_en_US_dedes.tyPart.Saturday.Evening
 tyPart.Saturday.Morning = ty.typikon.parts_en_US_dedes.tyPart.Saturday.Morning
+
+tyTitle.Menaion = ty.typikon.parts_en_US_dedes.tyTitle.Menaion
+tyTitle.Octoechos = ty.typikon.parts_en_US_dedes.tyTitle.Octoechos
+tyTitle.Triodion = ty.typikon.parts_en_US_dedes.tyTitle.Triodion
+tyTitle.Pentecostarion = ty.typikon.parts_en_US_dedes.tyTitle.Pentecostarion
+tyTitle.Prosomoia03.Feast = ty.typikon.parts_en_US_dedes.tyTitle.Prosomoia03.Feast
+tyTitle.Prosomoia03.SaintM = ty.typikon.parts_en_US_dedes.tyTitle.Prosomoia03.SaintM
+tyTitle.Prosomoia03.SaintW = ty.typikon.parts_en_US_dedes.tyTitle.Prosomoia03.SaintW
+tyTitle.Prosomoia03.Saints = ty.typikon.parts_en_US_dedes.tyTitle.Prosomoia03.Saints
+tyTitle.DoubleAll = ty.typikon.parts_en_US_dedes.tyTitle.DoubleAll
+
+
 
