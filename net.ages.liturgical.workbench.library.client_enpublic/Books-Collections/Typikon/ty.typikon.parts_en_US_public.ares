@@ -19,6 +19,8 @@ tyPart.Glory = ty.typikon.parts_en_US_dedes.tyPart.Glory
 tyPart.BothNow = ty.typikon.parts_en_US_dedes.tyPart.BothNow
 tyPart.GloryBoth = ty.typikon.parts_en_US_dedes.tyPart.GloryBoth
 tyPart.Entrance = ty.typikon.parts_en_US_dedes.tyPart.Entrance
+tyPart.NoEntrance = ty.typikon.parts_en_US_dedes.tyPart.NoEntrance
+tyPart.Readings = ty.typikon.parts_en_US_dedes.tyPart.Readings
 tyPart.Aposticha = ty.typikon.parts_en_US_dedes.tyPart.Aposticha
 tyPart.Trisagion = ty.typikon.parts_en_US_dedes.tyPart.Trisagion
 tyPart.Apolytikion = ty.typikon.parts_en_US_dedes.tyPart.Apolytikion
@@ -88,15 +90,27 @@ tyPart.Friday.Morning = ty.typikon.parts_en_US_dedes.tyPart.Friday.Morning
 tyPart.Saturday.Evening = ty.typikon.parts_en_US_dedes.tyPart.Saturday.Evening
 tyPart.Saturday.Morning = ty.typikon.parts_en_US_dedes.tyPart.Saturday.Morning
 
-tyTitle.Menaion = ty.typikon.parts_en_US_dedes.tyTitle.Menaion
-tyTitle.Octoechos = ty.typikon.parts_en_US_dedes.tyTitle.Octoechos
-tyTitle.Triodion = ty.typikon.parts_en_US_dedes.tyTitle.Triodion
-tyTitle.Pentecostarion = ty.typikon.parts_en_US_dedes.tyTitle.Pentecostarion
-tyTitle.Prosomoia03.Feast = ty.typikon.parts_en_US_dedes.tyTitle.Prosomoia03.Feast
-tyTitle.Prosomoia03.SaintM = ty.typikon.parts_en_US_dedes.tyTitle.Prosomoia03.SaintM
-tyTitle.Prosomoia03.SaintW = ty.typikon.parts_en_US_dedes.tyTitle.Prosomoia03.SaintW
-tyTitle.Prosomoia03.Saints = ty.typikon.parts_en_US_dedes.tyTitle.Prosomoia03.Saints
-tyTitle.DoubleAll = ty.typikon.parts_en_US_dedes.tyTitle.DoubleAll
+tySource.Menaion = ty.typikon.parts_en_US_dedes.tySource.Menaion
+tySource.Octoechos = ty.typikon.parts_en_US_dedes.tySource.Octoechos
+tySource.Triodion = ty.typikon.parts_en_US_dedes.tySource.Triodion
+tySource.Pentecostarion = ty.typikon.parts_en_US_dedes.tySource.Pentecostarion
+tyRubric.Prosomoia03.Feast = ty.typikon.parts_en_US_dedes.tyRubric.Prosomoia03.Feast
+tyRubric.Prosomoia03.SaintM = ty.typikon.parts_en_US_dedes.tyRubric.Prosomoia03.SaintM
+tyRubric.Prosomoia03.SaintW = ty.typikon.parts_en_US_dedes.tyRubric.Prosomoia03.SaintW
+tyRubric.Prosomoia03.Saints = ty.typikon.parts_en_US_dedes.tyRubric.Prosomoia03.Saints
+tyRubric.DoubleAll = ty.typikon.parts_en_US_dedes.tyRubric.DoubleAll
+tyRubric.FirstTheotokion.SameMode = ty.typikon.parts_en_US_dedes.tyRubric.FirstTheotokion.SameMode
+tyRubric.FirstTheotokion.ModeOfWeek = ty.typikon.parts_en_US_dedes.tyRubric.FirstTheotokion.ModeOfWeek
+tyRubric.WithGospel = ty.typikon.parts_en_US_dedes.tyRubric.WithGospel
+tyRubric.IsRead = ty.typikon.parts_en_US_dedes.tyRubric.IsRead
+tyRubric.OnlySayEvening1 = ty.typikon.parts_en_US_dedes.tyRubric.OnlySayEvening1
+tyRubric.OnlySayEvening2 = ty.typikon.parts_en_US_dedes.tyRubric.OnlySayEvening2
+tyRubric.Prokeimenon.Daily = ty.typikon.parts_en_US_dedes.tyRubric.Prokeimenon.Daily
+tyRubric.Prokeimenon.Great = ty.typikon.parts_en_US_dedes.tyRubric.Prokeimenon.Great
+tyRubric.AlleluiaMode8 = ty.typikon.parts_en_US_dedes.tyRubric.AlleluiaMode8
+tyRubric.Litanies1 = ty.typikon.parts_en_US_dedes.tyRubric.Litanies1 
+tyRubric.Litanies2 = ty.typikon.parts_en_US_dedes.tyRubric.Litanies2
+tyRubric.Theotokion.SameMode = ty.typikon.parts_en_US_dedes.tyRubric.Theotokion.SameMode
 
 
 

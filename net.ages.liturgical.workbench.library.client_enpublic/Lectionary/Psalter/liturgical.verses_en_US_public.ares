@@ -126,6 +126,7 @@ psVE.stichologia.v01.text = liturgical.verses_en_US_saas.psVE.stichologia.v01.te
 
 psVE.prokeimenon.sunday.title = liturgical.verses_en_US_saas.psVE.prokeimenon.sunday.title
 psVE.prokeimenon.sunday.v1.info = liturgical.verses_en_US_saas.psVE.prokeimenon.sunday.v1.info
+psVE.prokeimenon.sunday.v1.incipit = liturgical.verses_en_US_saas.psVE.prokeimenon.sunday.v1.incipit
 psVE.prokeimenon.sunday.v1.text = liturgical.verses_en_US_saas.psVE.prokeimenon.sunday.v1.text
 psVE.prokeimenon.sunday.v1a.text = liturgical.verses_en_US_saas.psVE.prokeimenon.sunday.v1a.text
 psVE.prokeimenon.sunday.v1b.text = liturgical.verses_en_US_saas.psVE.prokeimenon.sunday.v1b.text
@@ -134,36 +135,42 @@ psVE.prokeimenon.sunday.v2.text = liturgical.verses_en_US_saas.psVE.prokeimenon.
 
 psVE.prokeimenon.monday.title = liturgical.verses_en_US_saas.psVE.prokeimenon.monday.title
 psVE.prokeimenon.monday.v1.info = liturgical.verses_en_US_saas.psVE.prokeimenon.monday.v1.info
+psVE.prokeimenon.monday.v1.incipit = liturgical.verses_en_US_saas.psVE.prokeimenon.monday.v1.incipit
 psVE.prokeimenon.monday.v1.text = liturgical.verses_en_US_saas.psVE.prokeimenon.monday.v1.text
 psVE.prokeimenon.monday.v2.info = liturgical.verses_en_US_saas.psVE.prokeimenon.monday.v2.info
 psVE.prokeimenon.monday.v2.text = liturgical.verses_en_US_saas.psVE.prokeimenon.monday.v2.text
 
 psVE.prokeimenon.tuesday.title = liturgical.verses_en_US_saas.psVE.prokeimenon.tuesday.title
 psVE.prokeimenon.tuesday.v1.info = liturgical.verses_en_US_saas.psVE.prokeimenon.tuesday.v1.info
+psVE.prokeimenon.tuesday.v1.incipit = liturgical.verses_en_US_saas.psVE.prokeimenon.tuesday.v1.incipit
 psVE.prokeimenon.tuesday.v1.text = liturgical.verses_en_US_saas.psVE.prokeimenon.tuesday.v1.text
 psVE.prokeimenon.tuesday.v2.info = liturgical.verses_en_US_saas.psVE.prokeimenon.tuesday.v2.info
 psVE.prokeimenon.tuesday.v2.text = liturgical.verses_en_US_saas.psVE.prokeimenon.tuesday.v2.text
 
 psVE.prokeimenon.wednesday.title = liturgical.verses_en_US_saas.psVE.prokeimenon.wednesday.title
 psVE.prokeimenon.wednesday.v1.info = liturgical.verses_en_US_saas.psVE.prokeimenon.wednesday.v1.info
+psVE.prokeimenon.wednesday.v1.incipit = liturgical.verses_en_US_saas.psVE.prokeimenon.wednesday.v1.incipit
 psVE.prokeimenon.wednesday.v1.text = liturgical.verses_en_US_saas.psVE.prokeimenon.wednesday.v1.text
 psVE.prokeimenon.wednesday.v2.info = liturgical.verses_en_US_saas.psVE.prokeimenon.wednesday.v2.info
 psVE.prokeimenon.wednesday.v2.text = liturgical.verses_en_US_saas.psVE.prokeimenon.wednesday.v2.text
 
 psVE.prokeimenon.thursday.title = liturgical.verses_en_US_saas.psVE.prokeimenon.thursday.title
 psVE.prokeimenon.thursday.v1.info = liturgical.verses_en_US_saas.psVE.prokeimenon.thursday.v1.info
+psVE.prokeimenon.thursday.v1.incipit = liturgical.verses_en_US_saas.psVE.prokeimenon.thursday.v1.incipit
 psVE.prokeimenon.thursday.v1.text = liturgical.verses_en_US_saas.psVE.prokeimenon.thursday.v1.text
 psVE.prokeimenon.thursday.v2.info = liturgical.verses_en_US_saas.psVE.prokeimenon.thursday.v2.info
 psVE.prokeimenon.thursday.v2.text = liturgical.verses_en_US_saas.psVE.prokeimenon.thursday.v2.text
 
 psVE.prokeimenon.friday.title = liturgical.verses_en_US_saas.psVE.prokeimenon.friday.title
 psVE.prokeimenon.friday.v1.info = liturgical.verses_en_US_saas.psVE.prokeimenon.friday.v1.info
+psVE.prokeimenon.friday.v1.incipit = liturgical.verses_en_US_saas.psVE.prokeimenon.friday.v1.incipit
 psVE.prokeimenon.friday.v1.text = liturgical.verses_en_US_saas.psVE.prokeimenon.friday.v1.text
 psVE.prokeimenon.friday.v2.info = liturgical.verses_en_US_saas.psVE.prokeimenon.friday.v2.info
 psVE.prokeimenon.friday.v2.text = liturgical.verses_en_US_saas.psVE.prokeimenon.friday.v2.text
 
 psVE.prokeimenon.saturday.title = liturgical.verses_en_US_saas.psVE.prokeimenon.saturday.title
 psVE.prokeimenon.saturday.v1.info = liturgical.verses_en_US_saas.psVE.prokeimenon.saturday.v1.info
+psVE.prokeimenon.saturday.v1.incipit = liturgical.verses_en_US_saas.psVE.prokeimenon.saturday.v1.incipit
 psVE.prokeimenon.saturday.v1.text = liturgical.verses_en_US_saas.psVE.prokeimenon.saturday.v1.text
 psVE.prokeimenon.saturday.v1a.text = liturgical.verses_en_US_saas.psVE.prokeimenon.saturday.v1a.text
 psVE.prokeimenon.saturday.v1b.text = liturgical.verses_en_US_saas.psVE.prokeimenon.saturday.v1b.text
@@ -174,6 +181,7 @@ psVE.prokeimenon.saturday.v3.text = liturgical.verses_en_US_saas.psVE.prokeimeno
 
 psVE.prokeimenon.great1.title = liturgical.verses_en_US_saas.psVE.prokeimenon.great1.title
 psVE.prokeimenon.great1.v1.info = liturgical.verses_en_US_saas.psVE.prokeimenon.great1.v1.info
+psVE.prokeimenon.great1.v1.incipit = liturgical.verses_en_US_saas.psVE.prokeimenon.great1.v1.incipit
 psVE.prokeimenon.great1.v1.text = liturgical.verses_en_US_saas.psVE.prokeimenon.great1.v1.text
 psVE.prokeimenon.great1.v2.info = liturgical.verses_en_US_saas.psVE.prokeimenon.great1.v2.info
 psVE.prokeimenon.great1.v2.text = liturgical.verses_en_US_saas.psVE.prokeimenon.great1.v2.text
@@ -184,6 +192,7 @@ psVE.prokeimenon.great1.v4.text = liturgical.verses_en_US_saas.psVE.prokeimenon.
 
 psVE.prokeimenon.great2.title = liturgical.verses_en_US_saas.psVE.prokeimenon.great2.title
 psVE.prokeimenon.great2.v1.info = liturgical.verses_en_US_saas.psVE.prokeimenon.great2.v1.info
+psVE.prokeimenon.great2.v1.incipit = liturgical.verses_en_US_saas.psVE.prokeimenon.great2.v1.incipit
 psVE.prokeimenon.great2.v1.text = liturgical.verses_en_US_saas.psVE.prokeimenon.great2.v1.text
 psVE.prokeimenon.great2.v2.info = liturgical.verses_en_US_saas.psVE.prokeimenon.great2.v2.info
 psVE.prokeimenon.great2.v2.text = liturgical.verses_en_US_saas.psVE.prokeimenon.great2.v2.text
@@ -194,6 +203,7 @@ psVE.prokeimenon.great2.v4.text = liturgical.verses_en_US_saas.psVE.prokeimenon.
 
 psVE.prokeimenon.lent1.title = liturgical.verses_en_US_saas.psVE.prokeimenon.lent1.title
 psVE.prokeimenon.lent1.v1.info = liturgical.verses_en_US_saas.psVE.prokeimenon.lent1.v1.info
+psVE.prokeimenon.lent1.v1.incipit = liturgical.verses_en_US_saas.psVE.prokeimenon.lent1.v1.incipit
 psVE.prokeimenon.lent1.v1.text = liturgical.verses_en_US_saas.psVE.prokeimenon.lent1.v1.text
 psVE.prokeimenon.lent1.v2.info = liturgical.verses_en_US_saas.psVE.prokeimenon.lent1.v2.info
 psVE.prokeimenon.lent1.v2.text = liturgical.verses_en_US_saas.psVE.prokeimenon.lent1.v2.text
@@ -202,6 +212,7 @@ psVE.prokeimenon.lent1.v3.text = liturgical.verses_en_US_saas.psVE.prokeimenon.l
 
 psVE.prokeimenon.lent2.title = liturgical.verses_en_US_saas.psVE.prokeimenon.lent2.title
 psVE.prokeimenon.lent2.v1.info = liturgical.verses_en_US_saas.psVE.prokeimenon.lent2.v1.info
+psVE.prokeimenon.lent2.v1.incipit = liturgical.verses_en_US_saas.psVE.prokeimenon.lent2.v1.incipit
 psVE.prokeimenon.lent2.v1.text = liturgical.verses_en_US_saas.psVE.prokeimenon.lent2.v1.text
 psVE.prokeimenon.lent2.v2.info = liturgical.verses_en_US_saas.psVE.prokeimenon.lent2.v2.info
 psVE.prokeimenon.lent2.v2.text = liturgical.verses_en_US_saas.psVE.prokeimenon.lent2.v2.text
@@ -360,6 +371,7 @@ psVE.saturday.aposverse.v3.info = liturgical.verses_en_US_saas.psVE.saturday.apo
 psVE.saturday.aposverse.v3.text = liturgical.verses_en_US_saas.psVE.saturday.aposverse.v3.text
 
 goVE.songofsymeon.v1.info = liturgical.verses_en_US_nkjv.goVE.songofsymeon.v1.info
+goVE.songofsymeon.v1.incipit = liturgical.verses_en_US_nkjv.goVE.songofsymeon.v1.incipit
 goVE.songofsymeon.v1.text = liturgical.verses_en_US_nkjv.goVE.songofsymeon.v1.text
 goVE.songofsymeon.v1a.text = liturgical.verses_en_US_nkjv.goVE.songofsymeon.v1a.text
 goVE.songofsymeon.v1b.text = liturgical.verses_en_US_nkjv.goVE.songofsymeon.v1b.text
