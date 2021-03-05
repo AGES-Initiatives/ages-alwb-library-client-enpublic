@@ -101,15 +101,15 @@ cl.eu.lichrysbasil.R014 = "(The Communion Hymn changes according to the Feast Da
 cl.eu.presanctified.R001 = "(Go to the insert for today's appointed hymns and readings.)"
 cl.eu.presanctified.R002 = "(Go back to the Presanctified Liturgy booklet.)"
 cl.eu.presanctified.R003 = "(During the first three weeks of Lent, the following litany and the Prayer for those Preparing for Illumination are omitted.)"
-cl.eu.presanctified.R004 = "(Go back to the Presanctified Liturgy booklet. After \"Let my prayer...\" find the Epistle and Gospel readings here.)"
-cl.eu.presanctified.R005 = "(Go back to the Presanctified Liturgy booklet. After \"Let my prayer...\" find the Gospel reading here.)"
+cl.eu.presanctified.R004 = "(Go back to the Presanctified Liturgy booklet. After \"Let my prayer…\" find the Epistle and Gospel readings here.)"
+cl.eu.presanctified.R005 = "(Go back to the Presanctified Liturgy booklet. After \"Let my prayer…\" find the Gospel reading here.)"
 cl.eu.presanctified.R006 = "(If there is to be an Epistle and/or Gospel reading, find them in the insert, then come back to this place in the service.)"
 
-cl.ho.s06.R001 = "If the Ninth Hour is to be appended, the dismissal of the Sixth Hour is omitted, and the Ninth Hour begins immediately at \"Holy God...\" without \"Blessed is our God... Heavenly King...\""
+cl.ho.s06.R001 = "If the Ninth Hour is to be appended, the dismissal of the Sixth Hour is omitted, and the Ninth Hour begins immediately at \"Holy God…\" without \"Blessed is our God… Heavenly King…\""
 
-cl.ho.s09.R001 = "If preceded by the Sixth Hour, the Ninth Hour begins immediately at \"Holy God...\" without \"Blessed is our God... Heavenly King...\""
+cl.ho.s09.R001 = "If preceded by the Sixth Hour, the Ninth Hour begins immediately at \"Holy God…\" without \"Blessed is our God… Heavenly King…\""
 
-cl.ho.s10.R001 = "If preceded by the Ninth Hour, Vespers begins without \"Blessed is our God...\""
+cl.ho.s10.R001 = "If preceded by the Ninth Hour, Vespers begins without \"Blessed is our God…\""
 cl.ho.s10.R002 = "After the Peace Litany and the exclamation comes the reading of the appointed Kathisma of the Psalter. In parishes today it is customary to omit the recitation of the Psalter except on festal Vespers and at Presanctified Liturgy. Many will also keep the order of reciting the First Kathisma at vespers on Saturday evening."
 cl.ho.s10.R003 = "The appointed Psalms are offered here on separate pages for those who wish to include them."
 
@@ -122,7 +122,7 @@ cl.hw.synaxarion.rubric = ""
 cl.LI.R001 = "An optional alternative to the Antiphons are the Typika (Psalms 102 and 145), and the Beatitudes with the appointed troparia, which are provided here."
 cl.LI.R002 = ""
 
-cl.me.m01.d06.R001 = "The [second] choir sings the following Idiomelon, up to the asterisk; then the first choir begins the Great Doxology, starting with the last verse of the Idiomelon: \"Glory be to God...\""
+cl.me.m01.d06.R001 = "The [second] choir sings the following Idiomelon, up to the asterisk; then the first choir begins the Great Doxology, starting with the last verse of the Idiomelon: \"Glory be to God…\""
 cl.me.m02.d02.R001 = "In Ode ix, if only the canon of the feast will be sung with its Megalynaria, then we do not sing the Magnificat nor Ode ix of the Resurrectional canon. However, if the correct order is kept, then we sing only as many festal Megalynaria as needed for the number of troparia of the canon of the feast."
 cl.me.m02.d10.R001 = "When the Saturday of the Souls falls on Feb. 10, the memory of St. Haralambos is observed one day before, on Friday, Feb. 9, along with the Leave-taking of the Meeting of the Lord."
 
@@ -148,12 +148,12 @@ cl.me.m11.d09.R001 = "The full canons in English are unavailable at this time. T
 cl.me.m11.d14.R001 = "The rubrics for this day say to sing the Kathismata of the Mode and day of the week from the Parakletike (Octoechos). Since most parishes are not familiar with these hymns, and since they change from year to year, we have not included them here."
 cl.me.m11.d14.R002 = "The rubrics for this day say to sing the Heirmoi of Odes 3, 6, 8, and 9 of the Canon of the Menaion. Most parishes would not be familiar with this, so we have inserted Katavasias instead."
 
-cl.me.m12.d25.R001 = "The [second] choir sings the following Idiomelon, up to the asterisk; then the first choir begins the Great Doxology, starting with the last verse of the Idiomelon: \"Glory to God in the highest...\""
+cl.me.m12.d25.R001 = "The [second] choir sings the following Idiomelon, up to the asterisk; then the first choir begins the Great Doxology, starting with the last verse of the Idiomelon: \"Glory to God in the highest…\""
 
 cl.pe.d072.R001 = "The Patriarchal Typikon omits the Prophecies on this day and says that only the Gospel lesson should be read."
 cl.pe.d078.R001 = "According to the Patriarchal Hemerologion:"
 cl.pe.d078.R002 = "According to common practice:"
-cl.pe.d110.R001 = "The Patriarchal Typikon says to sing the troparia without the verse, \"Glory to You, our God...\"."
+cl.pe.d110.R001 = "The Patriarchal Typikon says to sing the troparia without the verse, \"Glory to You, our God…\"."
 cl.pe.d119.R001 = "The Patriarchal Typikon indicates, as usual, that the entire canon be sung. Typically in parishes only the Katavasias are used. This day does not present festal Katavasias, but rather the Heirmoi of the canon are used, which thematically have nothing to do with the Saturday of the Souls. I have therefore included Ode ix in its entirety, edited for the enrichment and edification of both chanters and listeners. Since Saturday of the Souls is not a great feast, Ode ix is, as usual, preceded by the Magnificat."
 
 //Service Books
@@ -202,10 +202,10 @@ cl.tr.d070.R305 = "As the Clergy with the canopied Epitaphion enter the Sanctuar
 cl.tr.d071.mo.R701 = "The Synaxarion from the Menaion is read here, so that at Matins only the Synaxarion for Pascha will be read."
 
 //keys for merged media files
-cl.tr.d065.ma.mergedscore.text = "Bridegroom Service on Sunday Evening "
-cl.tr.d066.ma.mergedscore.text = "Bridegroom Service on Monday Evening "
+cl.tr.d065.ma.mergedscore.text = "Bridegroom Service on Sunday Evening"
+cl.tr.d066.ma.mergedscore.text = "Bridegroom Service on Monday Evening"
 cl.tr.d067.ma.mergedscore.text = "Bridegroom Service on Tuesday Evening"
-cl.tr.d068.ma.mergedscore.text = "Bridegroom Service on Wednesday Evening "
+cl.tr.d068.ma.mergedscore.text = "Bridegroom Service on Wednesday Evening"
 cl.tr.d069.vl.mergedscore.text = "Vesperal Liturgy on Thursday Morning"
 cl.tr.d069.ma.mergedscore.text = "Twelve Passion Gospels on Thursday Evening"
 cl.tr.d069.gh.mergedscore.text = "Great Hours on Friday Morning"

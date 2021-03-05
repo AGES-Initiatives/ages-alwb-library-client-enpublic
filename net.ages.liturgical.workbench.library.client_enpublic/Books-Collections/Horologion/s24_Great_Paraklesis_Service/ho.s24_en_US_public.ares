@@ -419,7 +419,7 @@ hoCA.Troparion92.text = ho.s24_en_US_dedes.hoCA.Troparion92.text
 
 //R14
 
-hoCA.Meg00.incipit = ""
+hoCA.Meg00.incipit = "…"
 hoCA.Meg00.text = ho.s24_en_US_dedes.hoCA.Meg00.text
 hoCA.Meg01.melody = ho.s24_en_US_dedes.hoCA.Meg01.melody
 hoCA.Meg01.incipit = ho.s24_en_US_dedes.hoCA.Meg01.incipit

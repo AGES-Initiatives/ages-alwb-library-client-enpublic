@@ -294,7 +294,7 @@ meMA.Ode9H.text = me.m06.d22_en_US_dedes.meMA.Ode9H.text
 
 meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""
-meLI.Kontakion1.incipit = ""
+meLI.Kontakion1.incipit = "…"
 meLI.Kontakion1.text = ""
 
 meLI.MM.CommunionHymn.text = properties_en_US_public.media.key

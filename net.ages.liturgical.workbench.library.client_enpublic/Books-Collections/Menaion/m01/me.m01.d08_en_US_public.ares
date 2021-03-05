@@ -555,7 +555,7 @@ meLI.Antiphon2.text = me.m01.d08_en_US_dedes.meLI.Antiphon2.text
 
 meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""
-meLI.Kontakion1.incipit = ""
+meLI.Kontakion1.incipit = "…"
 meLI.Kontakion1.text = ""
 
 meMegalynarion.text = me.m01.d08_en_US_dedes.meMegalynarion.text

@@ -47,7 +47,7 @@ DoxaSoiChriste2 = prayers_en_US_holycross.DoxaSoiChriste2
 
 DoxaSoiKyrie.incipit = prayers_en_US_goa.DoxaSoiKyrie.incipit
 DoxaSoiKyrie = prayers_en_US_goa.DoxaSoiKyrie
-DoxaSoiKyrie.MM.aftergospel.incipit = "properties_en_US_goa.media.key"
+DoxaSoiKyrie.MM.aftergospel.incipit = "properties_en_US_goa.media.key…"
 DoxaSoiKyrie.MM.aftergospel.text = properties_en_US_goa.media.key
 
 DoxaSoiKyrieP = prayers_en_US_goa.DoxaSoiKyrieP

@@ -22,6 +22,7 @@ tyPart.Entrance = ty.typikon.parts_en_US_dedes.tyPart.Entrance
 tyPart.NoEntrance = ty.typikon.parts_en_US_dedes.tyPart.NoEntrance
 tyPart.Readings = ty.typikon.parts_en_US_dedes.tyPart.Readings
 tyPart.Aposticha = ty.typikon.parts_en_US_dedes.tyPart.Aposticha
+tyPart.OdeOfSymeon = ty.typikon.parts_en_US_dedes.tyPart.OdeOfSymeon
 tyPart.Trisagion = ty.typikon.parts_en_US_dedes.tyPart.Trisagion
 tyPart.Apolytikion = ty.typikon.parts_en_US_dedes.tyPart.Apolytikion
 tyPart.Apolytikia = ty.typikon.parts_en_US_dedes.tyPart.Apolytikia

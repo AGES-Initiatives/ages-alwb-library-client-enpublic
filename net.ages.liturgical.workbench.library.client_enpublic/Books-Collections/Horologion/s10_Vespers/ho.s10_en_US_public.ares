@@ -63,7 +63,7 @@ hoVE.FridayAlleluia.text = ho.s10_en_US_dedes.hoVE.FridayAlleluia.text
 
 R15 = ho.s10_en_US_dedes.R15
 R16 = ho.s10_en_US_dedes.R16
-//This Prayer is also in the Small Doxology, at Matins, Compline etc. with "day" and "night"
+//This Prayer is also in the Small Doxology, at Matins, Compline etc. with "day" and"night"
 hoVE.Prayer_Kataxioson.incipit = ho.s10_en_US_holycross.hoVE.Prayer_Kataxioson.incipit
 hoVE.Prayer_Kataxioson.text = ho.s10_en_US_holycross.hoVE.Prayer_Kataxioson.text
 R17 = ho.s10_en_US_dedes.R17
@@ -72,7 +72,7 @@ R19 = ho.s10_en_US_dedes.R19
 R20 = ho.s10_en_US_dedes.R20
 R21 = ho.s10_en_US_dedes.R21
 hoVE.LentApolytikion1.mode = ho.s10_en_US_dedes.hoVE.LentApolytikion1.mode
-hoVE.LentApolytikion1.incipit = ""
+hoVE.LentApolytikion1.incipit = "…"
 hoVE.LentApolytikion1.text = ho.s10_en_US_dedes.hoVE.LentApolytikion1.text
 hoVE.LentApolytikion2.mode = ho.s10_en_US_dedes.hoVE.LentApolytikion2.mode
 hoVE.LentApolytikion2.incipit = ho.s10_en_US_dedes.hoVE.LentApolytikion2.incipit
@@ -88,9 +88,9 @@ R22 = ho.s10_en_US_dedes.R22
 R23 = ho.s10_en_US_dedes.R23
 R24 = ho.s10_en_US_dedes.R24
 R25 = ho.s10_en_US_dedes.R25
-hoVE.Prayer_PanagiaTrias.incipit = ho.s10_en_US_dedes.hoVE.Prayer_PanagiaTrias.incipit // All-holy Trinity, the consubstantial dominion...
-hoVE.Prayer_PanagiaTrias.text = ho.s10_en_US_dedes.hoVE.Prayer_PanagiaTrias.text // All-holy Trinity, the consubstantial dominion...
-hoVE.Prayer_EiiToOnomaKyriou.text = ho.s10_en_US_dedes.hoVE.Prayer_EiiToOnomaKyriou.text // Blessed be the name of the Lord...
+hoVE.Prayer_PanagiaTrias.incipit = ho.s10_en_US_dedes.hoVE.Prayer_PanagiaTrias.incipit // All-holy Trinity, the consubstantial dominion…
+hoVE.Prayer_PanagiaTrias.text = ho.s10_en_US_dedes.hoVE.Prayer_PanagiaTrias.text // All-holy Trinity, the consubstantial dominion…
+hoVE.Prayer_EiiToOnomaKyriou.text = ho.s10_en_US_dedes.hoVE.Prayer_EiiToOnomaKyriou.text // Blessed be the name of the Lord…
 R26 = ho.s10_en_US_dedes.R26
 
 // Not in Orologion

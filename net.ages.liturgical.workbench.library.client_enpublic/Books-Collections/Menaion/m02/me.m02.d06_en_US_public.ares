@@ -73,7 +73,7 @@ meVE.AposGlory.melody = me.m02.d06_en_US_oca.meVE.AposGlory.melody
 meVE.AposGlory.incipit = me.m02.d06_en_US_dedes.meVE.AposGlory.incipit
 meVE.AposGlory.text = me.m02.d06_en_US_dedes.meVE.AposGlory.text
 
-// No apolytikia? There are three in the pdf... added the following:
+// No apolytikia? There are three in the pdf… added the following:
 meVE.Apolytikion1.mode = me.m02.d06_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m02.d06_en_US_dedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.incipit = me.m02.d06_en_US_dedes.meVE.Apolytikion1.incipit
@@ -399,7 +399,7 @@ meLI.Antiphon2.text = me.m02.d06_en_US_dedes.meLI.Antiphon2.text
 
 meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""
-meLI.Kontakion1.incipit = ""
+meLI.Kontakion1.incipit = "…"
 meLI.Kontakion1.text = ""
 
 meMegalynarion.text = me.m02.d06_en_US_dedes.meMegalynarion.text
@@ -586,7 +586,7 @@ alt1.meVE.AposGlory.incipit = me.m02.d06_en_US_dedes.alt1.meVE.AposGlory.incipit
 alt1.meVE.AposGlory.text = me.m02.d06_en_US_dedes.alt1.meVE.AposGlory.text
 
 //http://ec-patr.org/gr/typikon/2013/2013-02-06.htm
-//Καί νῦν: Τό ἕτερον ὁμόηχον Ἰδιόμελον τῆς Ἑορτῆς· «Σήμερον ἡ ἱερά Μήτηρ...»,
+//Καί νῦν: Τό ἕτερον ὁμόηχον Ἰδιόμελον τῆς Ἑορτῆς· «Σήμερον ἡ ἱερά Μήτηρ…»,
 //Added poet
 alt1.meVE.AposBoth.poet = me.m02.d06_en_US_dedes.alt1.meVE.AposBoth.poet
 alt1.meVE.AposBoth.mode = me.m02.d06_en_US_dedes.alt1.meVE.AposBoth.mode
@@ -605,7 +605,7 @@ alt1.meVE.Apolytikion2.incipit = me.m02.d06_en_US_dedes.alt1.meVE.Apolytikion2.i
 alt1.meVE.Apolytikion2.text = me.m02.d06_en_US_dedes.alt1.meVE.Apolytikion2.text
 
 //http://ec-patr.org/gr/typikon/2013/2013-02-06.htm
-//Καθίσματα: Τοῦ Ἁγίου τῆς αʹ καί βʹ Στιχολογίας καί τό μετά τόν Πολυέλεον καί εἰς τό Καί νῦν, ἀντί Θεοτοκίων, ἀνά ἕν τῆς Ἑορτῆς· «Χορός ἀγγελικός...», «Ὁ ὤν σύν τῷ Πατρί...» καί· «Νηπιάζει δι' ἐμέ...».
+//Καθίσματα: Τοῦ Ἁγίου τῆς αʹ καί βʹ Στιχολογίας καί τό μετά τόν Πολυέλεον καί εἰς τό Καί νῦν, ἀντί Θεοτοκίων, ἀνά ἕν τῆς Ἑορτῆς· «Χορός ἀγγελικός…», «Ὁ ὤν σύν τῷ Πατρί…» καί· «Νηπιάζει δι' ἐμέ…».
 
 alt1.meMA.Kathisma11.mode = me.m02.d06_en_US_dedes.alt1.meMA.Kathisma11.mode
 alt1.meMA.Kathisma11.melody = me.m02.d06_en_US_dedes.alt1.meMA.Kathisma11.melody

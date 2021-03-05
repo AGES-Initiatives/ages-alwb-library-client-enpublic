@@ -413,7 +413,7 @@ peMA.Kontakion1.melody = pe.d120_en_US_dedes.peMA.Kontakion1.melody
 peMA.Kontakion1.incipit = pe.d120_en_US_dedes.peMA.Kontakion1.incipit
 peMA.Kontakion1.text = pe.d120_en_US_dedes.peMA.Kontakion1.text
 
-peMA.Oikos1.incipit = ""
+peMA.Oikos1.incipit = "…"
 peMA.Oikos1.text = pe.d120_en_US_duvall.peMA.Oikos1.text
 
 peSY.commemoration.text = pe.d120_en_US_dedes.peSY.commemoration.text

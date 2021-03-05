@@ -38,9 +38,9 @@ hoLI.Antiphon2s.text = ho.s07_en_US_goa.hoLI.Antiphon2s.text
 hoLI.Antiphon2w.text = ho.s07_en_US_goa.hoLI.Antiphon2w.text
 
 hoLI.EntranceHymn.text = ho.s07_en_US_goa.hoLI.EntranceHymn.text // in the template add parts of Antiphon 2
-hoLI.EntranceHymn2s.incipit = ""
+hoLI.EntranceHymn2s.incipit = "…"
 hoLI.EntranceHymn2s.text = ho.s07_en_US_goa.hoLI.EntranceHymn2s.text
-hoLI.EntranceHymn2w.incipit = ""
+hoLI.EntranceHymn2w.incipit = "…"
 hoLI.EntranceHymn2w.text = ho.s07_en_US_goa.hoLI.EntranceHymn2w.text
 
 hoLI.TrisagiosHymn.title = ho.s07_en_US_goa.hoLI.TrisagiosHymn.title

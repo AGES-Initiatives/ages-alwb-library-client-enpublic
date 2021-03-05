@@ -226,7 +226,7 @@ hoCA.Kontakion.text = ho.s23_en_US_dedes.hoCA.Kontakion.text
 //R12 ""
 hoCA.PostGospelGlory.mode = ho.s23_en_US_dedes.hoCA.PostGospelGlory.mode
 hoCA.PostGospelGlory.melody = ho.s23_en_US_dedes.hoCA.PostGospelGlory.melody
-hoCA.PostGospelGlory.incipit = ""
+hoCA.PostGospelGlory.incipit = "…"
 hoCA.PostGospelGlory.text = ho.s23_en_US_dedes.hoCA.PostGospelGlory.text
 
 hoCA.PostGospelBoth.mode = ho.s23_en_US_dedes.hoCA.PostGospelBoth.mode
@@ -353,7 +353,7 @@ hoCA.Ode95.text = ho.s23_en_US_dedes.hoCA.Ode95.text
 
 //R14
 
-hoCA.Meg00.incipit = ""
+hoCA.Meg00.incipit = "…"
 hoCA.Meg00.text = ho.s23_en_US_dedes.hoCA.Meg00.text
 hoCA.Meg01.melody = ho.s23_en_US_dedes.hoCA.Meg01.melody
 hoCA.Meg01.incipit = ho.s23_en_US_dedes.hoCA.Meg01.incipit

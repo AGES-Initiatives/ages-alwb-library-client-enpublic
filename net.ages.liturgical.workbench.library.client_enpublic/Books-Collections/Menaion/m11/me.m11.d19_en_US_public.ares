@@ -516,7 +516,7 @@ meMA.Ode9H.text = me.m11.d19_en_US_dedes.meMA.Ode9H.text
 
 meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""
-meLI.Kontakion1.incipit = ""
+meLI.Kontakion1.incipit = "…"
 meLI.Kontakion1.text = ""
 
 meMegalynarion.text = me.m11.d19_en_US_dedes.meMegalynarion.text

@@ -4,65 +4,78 @@ he.title = he.a.m8_en_US_dedes.he.title
 
 AnestisEkNekron.mode = he.a.m8_en_US_dedes.AnestisEkNekron.mode
 AnestisEkNekron.notmetered = he.a.m8_en_US_dedes.AnestisEkNekron.notmetered
+AnestisEkNekron.name = he.a.m8_en_US_dedes.AnestisEkNekron.name
 AnestisEkNekron.incipit = he.a.m8_en_US_dedes.AnestisEkNekron.incipit
 AnestisEkNekron.text = he.a.m8_en_US_dedes.AnestisEkNekron.text
 
 AvlonPoimenikon.mode = he.a.m8_en_US_dedes.AvlonPoimenikon.mode
 AvlonPoimenikon.notmetered = he.a.m8_en_US_dedes.AvlonPoimenikon.notmetered
+AvlonPoimenikon.name = he.a.m8_en_US_dedes.AvlonPoimenikon.name
 AvlonPoimenikon.incipit = he.a.m8_en_US_dedes.AvlonPoimenikon.incipit
 AvlonPoimenikon.text = he.a.m8_en_US_dedes.AvlonPoimenikon.text
 
 DefteApantesPistoi.mode = he.a.m8_en_US_dedes.DefteApantesPistoi.mode
 DefteApantesPistoi.notmetered = he.a.m8_en_US_dedes.DefteApantesPistoi.notmetered
+DefteApantesPistoi.name = he.a.m8_en_US_dedes.DefteApantesPistoi.name
 DefteApantesPistoi.incipit = he.a.m8_en_US_dedes.DefteApantesPistoi.incipit
 DefteApantesPistoi.text = he.a.m8_en_US_dedes.DefteApantesPistoi.text
 
 KyrieEiKaiKritirio.mode = he.a.m8_en_US_dedes.KyrieEiKaiKritirio.mode
 KyrieEiKaiKritirio.notmetered = he.a.m8_en_US_dedes.KyrieEiKaiKritirio.notmetered
+KyrieEiKaiKritirio.name = he.a.m8_en_US_dedes.KyrieEiKaiKritirio.name
 KyrieEiKaiKritirio.incipit = he.a.m8_en_US_dedes.KyrieEiKaiKritirio.incipit
 KyrieEiKaiKritirio.text = he.a.m8_en_US_dedes.KyrieEiKaiKritirio.text
 
 OAngelosSouKyrie.mode = he.a.m8_en_US_dedes.OAngelosSouKyrie.mode
 OAngelosSouKyrie.notmetered = he.a.m8_en_US_dedes.OAngelosSouKyrie.notmetered
+OAngelosSouKyrie.name = he.a.m8_en_US_dedes.OAngelosSouKyrie.name
 OAngelosSouKyrie.incipit = he.a.m8_en_US_dedes.OAngelosSouKyrie.incipit
 OAngelosSouKyrie.text = he.a.m8_en_US_dedes.OAngelosSouKyrie.text
 
 OEnEdemParadeisos.mode = he.a.m8_en_US_dedes.OEnEdemParadeisos.mode
 OEnEdemParadeisos.notmetered = he.a.m8_en_US_dedes.OEnEdemParadeisos.notmetered
+OEnEdemParadeisos.name = he.a.m8_en_US_dedes.OEnEdemParadeisos.name
 OEnEdemParadeisos.incipit = he.a.m8_en_US_dedes.OEnEdemParadeisos.incipit
 OEnEdemParadeisos.text = he.a.m8_en_US_dedes.OEnEdemParadeisos.text
 
 OTouParadoxou.mode = he.a.m8_en_US_dedes.OTouParadoxou.mode
 OTouParadoxou.notmetered = he.a.m8_en_US_dedes.OTouParadoxou.notmetered
+OTouParadoxou.name = he.a.m8_en_US_dedes.OTouParadoxou.name
 OTouParadoxou.incipit = he.a.m8_en_US_dedes.OTouParadoxou.incipit
 OTouParadoxou.text = he.a.m8_en_US_dedes.OTouParadoxou.text
 
 OiMartyresSouKyrie.mode = he.a.m8_en_US_dedes.OiMartyresSouKyrie.mode
 OiMartyresSouKyrie.notmetered = he.a.m8_en_US_dedes.OiMartyresSouKyrie.notmetered
+OiMartyresSouKyrie.name = he.a.m8_en_US_dedes.OiMartyresSouKyrie.name
 OiMartyresSouKyrie.incipit = he.a.m8_en_US_dedes.OiMartyresSouKyrie.incipit
 OiMartyresSouKyrie.text = he.a.m8_en_US_dedes.OiMartyresSouKyrie.text
 
 OsAparchas.mode = he.a.m8_en_US_dedes.OsAparchas.mode
 OsAparchas.notmetered = he.a.m8_en_US_dedes.OsAparchas.notmetered
+OsAparchas.name = he.a.m8_en_US_dedes.OsAparchas.name
 OsAparchas.incipit = he.a.m8_en_US_dedes.OsAparchas.incipit
 OsAparchas.text = he.a.m8_en_US_dedes.OsAparchas.text
 
 TiYmasKalesomen.mode = he.a.m8_en_US_dedes.TiYmasKalesomen.mode
 TiYmasKalesomen.notmetered = he.a.m8_en_US_dedes.TiYmasKalesomen.notmetered
+TiYmasKalesomen.name = he.a.m8_en_US_dedes.TiYmasKalesomen.name
 TiYmasKalesomen.incipit = he.a.m8_en_US_dedes.TiYmasKalesomen.incipit
 TiYmasKalesomen.text = he.a.m8_en_US_dedes.TiYmasKalesomen.text
 
 TiYpermacho.mode = he.a.m8_en_US_dedes.TiYpermacho.mode
 TiYpermacho.notmetered = he.a.m8_en_US_dedes.TiYpermacho.notmetered
+TiYpermacho.name = he.a.m8_en_US_dedes.TiYpermacho.name
 TiYpermacho.incipit = he.a.m8_en_US_dedes.TiYpermacho.incipit
 TiYpermacho.text = he.a.m8_en_US_dedes.TiYpermacho.text
 
 TinSofianKaiLogon.mode = he.a.m8_en_US_dedes.TinSofianKaiLogon.mode
 TinSofianKaiLogon.notmetered = he.a.m8_en_US_dedes.TinSofianKaiLogon.notmetered
+TinSofianKaiLogon.name = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
 TinSofianKaiLogon.incipit = he.a.m8_en_US_dedes.TinSofianKaiLogon.incipit
 TinSofianKaiLogon.text = he.a.m8_en_US_dedes.TinSofianKaiLogon.text
 
 ToProstachthen.mode = he.a.m8_en_US_dedes.ToProstachthen.mode
 ToProstachthen.notmetered = he.a.m8_en_US_dedes.ToProstachthen.notmetered
+ToProstachthen.name = he.a.m8_en_US_dedes.ToProstachthen.name
 ToProstachthen.incipit = he.a.m8_en_US_dedes.ToProstachthen.incipit
 ToProstachthen.text = he.a.m8_en_US_dedes.ToProstachthen.text

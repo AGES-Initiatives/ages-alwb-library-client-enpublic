@@ -524,6 +524,6 @@ meMA.ExapTheotokion.text = me.m07.d29_en_US_dedes.meMA.ExapTheotokion.text
 
 meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""
-meLI.Kontakion1.incipit = ""
+meLI.Kontakion1.incipit = "…"
 meLI.Kontakion1.text = ""
 

@@ -339,7 +339,7 @@ meMA.Exaposteilarion2.text = me.m07.d31_en_US_dedes.meMA.Exaposteilarion2.text
 
 meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""
-meLI.Kontakion1.incipit = ""
+meLI.Kontakion1.incipit = "…"
 meLI.Kontakion1.text = ""
 
 meMegalynarion.text = me.m07.d31_en_US_dedes.meMegalynarion.text
