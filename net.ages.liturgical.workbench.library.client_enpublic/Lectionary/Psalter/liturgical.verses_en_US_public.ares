@@ -364,10 +364,13 @@ psVE.friday.aposverse.v3.info = liturgical.verses_en_US_saas.psVE.friday.aposver
 psVE.friday.aposverse.v3.text = liturgical.verses_en_US_saas.psVE.friday.aposverse.v3.text
 
 psVE.saturday.aposverse.v1.info = liturgical.verses_en_US_saas.psVE.saturday.aposverse.v1.info
+psVE.saturday.aposverse.v1.incipit = liturgical.verses_en_US_saas.psVE.saturday.aposverse.v1.incipit
 psVE.saturday.aposverse.v1.text = liturgical.verses_en_US_saas.psVE.saturday.aposverse.v1.text
 psVE.saturday.aposverse.v2.info = liturgical.verses_en_US_saas.psVE.saturday.aposverse.v2.info
+psVE.saturday.aposverse.v2.incipit = liturgical.verses_en_US_saas.psVE.saturday.aposverse.v2.incipit
 psVE.saturday.aposverse.v2.text = liturgical.verses_en_US_saas.psVE.saturday.aposverse.v2.text
 psVE.saturday.aposverse.v3.info = liturgical.verses_en_US_saas.psVE.saturday.aposverse.v3.info
+psVE.saturday.aposverse.v3.incipit = liturgical.verses_en_US_saas.psVE.saturday.aposverse.v3.incipit
 psVE.saturday.aposverse.v3.text = liturgical.verses_en_US_saas.psVE.saturday.aposverse.v3.text
 
 goVE.songofsymeon.v1.info = liturgical.verses_en_US_nkjv.goVE.songofsymeon.v1.info
