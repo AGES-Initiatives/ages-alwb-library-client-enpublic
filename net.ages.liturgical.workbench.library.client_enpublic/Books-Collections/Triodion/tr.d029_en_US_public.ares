@@ -300,7 +300,7 @@ trMA.Kontakion1.melody = tr.d029_en_US_duvall.trMA.Kontakion1.melody
 trMA.Kontakion1.incipit = tr.d029_en_US_duvall.trMA.Kontakion1.incipit
 trMA.Kontakion1.text = tr.d029_en_US_duvall.trMA.Kontakion1.text
 
-trMA.Oikos1.text = tr.d029_en_US_dedes.trMA.Oikos1.text
+trMA.Oikos1.text = tr.d029_en_US_duvall.trMA.Oikos1.text
 
 trSY.commemoration.text = tr.d029_en_US_dedes.trSY.commemoration.text
 trSY.commemoration.couplet1.title = tr.d029_en_US_dedes.trSY.commemoration.couplet1.title
