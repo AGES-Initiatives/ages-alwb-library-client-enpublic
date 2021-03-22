@@ -525,9 +525,9 @@ ocMA.OdeS3C33.text = oc.m7.d1_en_US_dedes.ocMA.OdeS3C33.text
 
 ocMA.OdeS4C1H.mode = oc.m7.d1_en_US_dedes.ocMA.OdeS4C1H.mode
 ocMA.OdeS4C1H.ode = oc.m7.d1_en_US_dedes.ocMA.OdeS4C1H.ode
-ocMA.OdeS4C1H.melody = oc.m7.d1_en_UK_lash.ocMA.OdeS4C1H.melody
-ocMA.OdeS4C1H.incipit = oc.m7.d1_en_UK_lash.ocMA.OdeS4C1H.incipit
-ocMA.OdeS4C1H.text = oc.m7.d1_en_UK_lash.ocMA.OdeS4C1H.text
+ocMA.OdeS4C1H.melody = oc.m7.d1_en_US_dedes.ocMA.OdeS4C1H.melody
+ocMA.OdeS4C1H.incipit = oc.m7.d1_en_US_dedes.ocMA.OdeS4C1H.incipit
+ocMA.OdeS4C1H.text = oc.m7.d1_en_US_dedes.ocMA.OdeS4C1H.text
 
 ocMA.OdeS4C11.mode = oc.m7.d1_en_US_dedes.ocMA.OdeS4C11.mode
 ocMA.OdeS4C11.ode = oc.m7.d1_en_US_dedes.ocMA.OdeS4C11.ode
@@ -645,9 +645,9 @@ ocMA.OdeS5C33.text = oc.m7.d1_en_UK_lash.ocMA.OdeS5C33.text
 
 ocMA.OdeS6C1H.mode = oc.m7.d1_en_US_dedes.ocMA.OdeS6C1H.mode
 ocMA.OdeS6C1H.ode = oc.m7.d1_en_US_dedes.ocMA.OdeS6C1H.ode
-ocMA.OdeS6C1H.melody = oc.m7.d1_en_UK_lash.ocMA.OdeS6C1H.melody
-ocMA.OdeS6C1H.incipit = oc.m7.d1_en_UK_lash.ocMA.OdeS6C1H.incipit
-ocMA.OdeS6C1H.text = oc.m7.d1_en_UK_lash.ocMA.OdeS6C1H.text
+ocMA.OdeS6C1H.melody = oc.m7.d1_en_US_dedes.ocMA.OdeS6C1H.melody
+ocMA.OdeS6C1H.incipit = oc.m7.d1_en_US_dedes.ocMA.OdeS6C1H.incipit
+ocMA.OdeS6C1H.text = oc.m7.d1_en_US_dedes.ocMA.OdeS6C1H.text
 
 ocMA.OdeS6C11.mode = oc.m7.d1_en_US_dedes.ocMA.OdeS6C11.mode
 ocMA.OdeS6C11.ode = oc.m7.d1_en_US_dedes.ocMA.OdeS6C11.ode
@@ -714,9 +714,9 @@ ocMA.Oikos.text = oc.m7.d1_en_US_duvall.ocMA.Oikos.text
 
 ocMA.OdeS7C1H.mode = oc.m7.d1_en_US_dedes.ocMA.OdeS7C1H.mode
 ocMA.OdeS7C1H.ode = oc.m7.d1_en_US_dedes.ocMA.OdeS7C1H.ode
-ocMA.OdeS7C1H.melody = oc.m7.d1_en_UK_lash.ocMA.OdeS7C1H.melody
-ocMA.OdeS7C1H.incipit = oc.m7.d1_en_UK_lash.ocMA.OdeS7C1H.incipit
-ocMA.OdeS7C1H.text = oc.m7.d1_en_UK_lash.ocMA.OdeS7C1H.text
+ocMA.OdeS7C1H.melody = oc.m7.d1_en_US_dedes.ocMA.OdeS7C1H.melody
+ocMA.OdeS7C1H.incipit = oc.m7.d1_en_US_dedes.ocMA.OdeS7C1H.incipit
+ocMA.OdeS7C1H.text = oc.m7.d1_en_US_dedes.ocMA.OdeS7C1H.text
 
 ocMA.OdeS7C11.mode = oc.m7.d1_en_US_dedes.ocMA.OdeS7C11.mode
 ocMA.OdeS7C11.ode = oc.m7.d1_en_US_dedes.ocMA.OdeS7C11.ode
@@ -774,9 +774,9 @@ ocMA.OdeS7C33.text = oc.m7.d1_en_UK_lash.ocMA.OdeS7C33.text
 
 ocMA.OdeS8C1H.mode = oc.m7.d1_en_US_dedes.ocMA.OdeS8C1H.mode
 ocMA.OdeS8C1H.ode = oc.m7.d1_en_US_dedes.ocMA.OdeS8C1H.ode
-ocMA.OdeS8C1H.melody = oc.m7.d1_en_UK_lash.ocMA.OdeS8C1H.melody
-ocMA.OdeS8C1H.incipit = oc.m7.d1_en_UK_lash.ocMA.OdeS8C1H.incipit
-ocMA.OdeS8C1H.text = oc.m7.d1_en_UK_lash.ocMA.OdeS8C1H.text
+ocMA.OdeS8C1H.melody = oc.m7.d1_en_US_dedes.ocMA.OdeS8C1H.melody
+ocMA.OdeS8C1H.incipit = oc.m7.d1_en_US_dedes.ocMA.OdeS8C1H.incipit
+ocMA.OdeS8C1H.text = oc.m7.d1_en_US_dedes.ocMA.OdeS8C1H.text
 
 ocMA.OdeS8C11.mode = oc.m7.d1_en_US_dedes.ocMA.OdeS8C11.mode
 ocMA.OdeS8C11.ode = oc.m7.d1_en_US_dedes.ocMA.OdeS8C11.ode
