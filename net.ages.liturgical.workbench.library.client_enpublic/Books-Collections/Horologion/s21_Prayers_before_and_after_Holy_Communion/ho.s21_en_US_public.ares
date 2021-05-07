@@ -197,6 +197,7 @@ hoPrayer.Key006_2.text = ho.s21_en_US_holycross.hoPrayer.Key006_2.text
 hoPrayer.Key006_3.text = ho.s21_en_US_holycross.hoPrayer.Key006_3.text
 
 hoPrayer.title = ho.s21_en_US_goa.hoPrayer.title
+hoPrayer.note1 = ho.s21_en_US_dedes.hoPrayer.note1
 
 hoPrayer.Key011.title = ho.s21_en_US_unknown.hoPrayer.Key011.title
 hoPrayer.Key011.poet = ho.s21_en_US_unknown.hoPrayer.Key011.poet
