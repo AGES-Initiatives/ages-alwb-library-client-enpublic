@@ -550,21 +550,21 @@ ocMA.OdeS4C1H.text = oc.m8.d1_en_US_dedes.ocMA.OdeS4C1H.text
 
 ocMA.OdeS4C11.mode = oc.m8.d1_en_US_dedes.ocMA.OdeS4C11.mode
 ocMA.OdeS4C11.ode = oc.m8.d1_en_US_dedes.ocMA.OdeS4C11.ode
-ocMA.OdeS4C11.melody = oc.m8.d1_en_UK_lash.ocMA.OdeS4C11.melody
-ocMA.OdeS4C11.incipit = oc.m8.d1_en_UK_lash.ocMA.OdeS4C11.incipit
-ocMA.OdeS4C11.text = oc.m8.d1_en_UK_lash.ocMA.OdeS4C11.text
+ocMA.OdeS4C11.melody = oc.m8.d1_en_US_dedes.ocMA.OdeS4C11.melody
+ocMA.OdeS4C11.incipit = oc.m8.d1_en_US_dedes.ocMA.OdeS4C11.incipit
+ocMA.OdeS4C11.text = oc.m8.d1_en_US_dedes.ocMA.OdeS4C11.text
 
 ocMA.OdeS4C12.mode = oc.m8.d1_en_US_dedes.ocMA.OdeS4C12.mode
 ocMA.OdeS4C12.ode = oc.m8.d1_en_US_dedes.ocMA.OdeS4C12.ode
-ocMA.OdeS4C12.melody = oc.m8.d1_en_UK_lash.ocMA.OdeS4C12.melody
-ocMA.OdeS4C12.incipit = oc.m8.d1_en_UK_lash.ocMA.OdeS4C12.incipit
-ocMA.OdeS4C12.text = oc.m8.d1_en_UK_lash.ocMA.OdeS4C12.text
+ocMA.OdeS4C12.melody = oc.m8.d1_en_US_dedes.ocMA.OdeS4C12.melody
+ocMA.OdeS4C12.incipit = oc.m8.d1_en_US_dedes.ocMA.OdeS4C12.incipit
+ocMA.OdeS4C12.text = oc.m8.d1_en_US_dedes.ocMA.OdeS4C12.text
 
 ocMA.OdeS4C1T.mode = oc.m8.d1_en_US_dedes.ocMA.OdeS4C1T.mode
 ocMA.OdeS4C1T.ode = oc.m8.d1_en_US_dedes.ocMA.OdeS4C1T.ode
-ocMA.OdeS4C1T.melody = oc.m8.d1_en_UK_lash.ocMA.OdeS4C1T.melody
-ocMA.OdeS4C1T.incipit = oc.m8.d1_en_UK_lash.ocMA.OdeS4C1T.incipit
-ocMA.OdeS4C1T.text = oc.m8.d1_en_UK_lash.ocMA.OdeS4C1T.text
+ocMA.OdeS4C1T.melody = oc.m8.d1_en_US_dedes.ocMA.OdeS4C1T.melody
+ocMA.OdeS4C1T.incipit = oc.m8.d1_en_US_dedes.ocMA.OdeS4C1T.incipit
+ocMA.OdeS4C1T.text = oc.m8.d1_en_US_dedes.ocMA.OdeS4C1T.text
 
 ocMA.OdeS4C21.mode = oc.m8.d1_en_US_dedes.ocMA.OdeS4C21.mode
 ocMA.OdeS4C21.ode = oc.m8.d1_en_US_dedes.ocMA.OdeS4C21.ode
