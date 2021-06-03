@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = le.go.ge.martyr_en_US_public 
+A_Resource_Whose_Name = le.go.ge.martyr_en_US_public
 
 legeMA.Gospel.title = le.go.ge.martyr_en_US_rsv.legeMA.Gospel.title
 legeMA.Gospel.title_abbr = le.go.ge.martyr_en_US_rsv.legeMA.Gospel.title_abbr
@@ -6,6 +6,7 @@ legeMA.Gospel.version = le.go.ge.martyr_en_US_rsv.legeMA.Gospel.version
 legeMA.Gospel.book_string = le.go.ge.martyr_en_US_rsv.legeMA.Gospel.book_string
 legeMA.Gospel.book_abbr = le.go.ge.martyr_en_US_rsv.legeMA.Gospel.book_abbr
 legeMA.Gospel.chapverse = le.go.ge.martyr_en_US_rsv.legeMA.Gospel.chapverse
+legeMA.Gospel.incipit = le.go.ge.martyr_en_US_rsv.legeMA.Gospel.incipit
 legeMA.Gospel.text = le.go.ge.martyr_en_US_rsv.legeMA.Gospel.text
 legeMA.Gospel.pagenumber = le.go.ge.martyr_en_US_rsv.legeMA.Gospel.pagenumber
 
@@ -15,5 +16,6 @@ legeLI.Gospel.version = le.go.ge.martyr_en_US_rsv.legeLI.Gospel.version
 legeLI.Gospel.book_string = le.go.ge.martyr_en_US_rsv.legeLI.Gospel.book_string
 legeLI.Gospel.book_abbr = le.go.ge.martyr_en_US_rsv.legeLI.Gospel.book_abbr
 legeLI.Gospel.chapverse = le.go.ge.martyr_en_US_rsv.legeLI.Gospel.chapverse
+legeLI.Gospel.incipit = le.go.ge.martyr_en_US_rsv.legeLI.Gospel.incipit
 legeLI.Gospel.text = le.go.ge.martyr_en_US_rsv.legeLI.Gospel.text
 legeLI.Gospel.pagenumber = le.go.ge.martyr_en_US_rsv.legeLI.Gospel.pagenumber

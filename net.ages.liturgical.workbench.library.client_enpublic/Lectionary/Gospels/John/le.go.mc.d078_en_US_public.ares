@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = le.go.mc.d078_en_US_public 
+A_Resource_Whose_Name = le.go.mc.d078_en_US_public
 
 lemcMA.Gospel.title = le.go.mc.d078_en_US_rsv.lemcMA.Gospel.title
 lemcMA.Gospel.title_abbr = le.go.mc.d078_en_US_rsv.lemcMA.Gospel.title_abbr
@@ -6,6 +6,7 @@ lemcMA.Gospel.version = le.go.mc.d078_en_US_rsv.lemcMA.Gospel.version
 lemcMA.Gospel.book_string = le.go.mc.d078_en_US_rsv.lemcMA.Gospel.book_string
 lemcMA.Gospel.book_abbr = le.go.mc.d078_en_US_rsv.lemcMA.Gospel.book_abbr
 lemcMA.Gospel.chapverse = le.go.mc.d078_en_US_rsv.lemcMA.Gospel.chapverse
+lemcMA.Gospel.incipit = le.go.mc.d078_en_US_rsv.lemcMA.Gospel.incipit
 lemcMA.Gospel.text = le.go.mc.d078_en_US_rsv.lemcMA.Gospel.text
 
 lemcLI.Gospel.title = le.go.mc.d078_en_US_rsv.lemcLI.Gospel.title
@@ -14,5 +15,6 @@ lemcLI.Gospel.version = le.go.mc.d078_en_US_rsv.lemcLI.Gospel.version
 lemcLI.Gospel.book_string = le.go.mc.d078_en_US_rsv.lemcLI.Gospel.book_string
 lemcLI.Gospel.book_abbr = le.go.mc.d078_en_US_rsv.lemcLI.Gospel.book_abbr
 lemcLI.Gospel.chapverse = le.go.mc.d078_en_US_rsv.lemcLI.Gospel.chapverse
+lemcLI.Gospel.incipit = le.go.mc.d078_en_US_rsv.lemcLI.Gospel.incipit
 lemcLI.Gospel.text = le.go.mc.d078_en_US_rsv.lemcLI.Gospel.text
 lemcLI.Gospel.pagenumber = le.go.mc.d078_en_US_rsv.lemcLI.Gospel.pagenumber

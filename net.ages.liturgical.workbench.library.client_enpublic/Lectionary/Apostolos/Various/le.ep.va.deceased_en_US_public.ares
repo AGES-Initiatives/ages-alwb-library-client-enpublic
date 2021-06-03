@@ -1,12 +1,13 @@
-A_Resource_Whose_Name = le.ep.va.deceased_en_US_public 
+A_Resource_Whose_Name = le.ep.va.deceased_en_US_public
 
 levaDEC.Epistle1.title = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle1.title
 levaDEC.Epistle1.title_abbr = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle1.title_abbr
-levaDEC.Epistle1.version = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle1.version 
+levaDEC.Epistle1.version = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle1.version
 levaDEC.Epistle1.book_string = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle1.book_string
 levaDEC.Epistle1.book_abbr = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle1.book_abbr
-levaDEC.Epistle1.chapverse = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle1.chapverse 
-levaDEC.Epistle1.text = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle1.text 
+levaDEC.Epistle1.chapverse = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle1.chapverse
+levaDEC.Epistle1.incipit = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle1.incipit
+levaDEC.Epistle1.text = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle1.text
 
 levaDEC.Epistle2.title = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle2.title
 levaDEC.Epistle2.title_abbr = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle2.title_abbr
@@ -14,6 +15,7 @@ levaDEC.Epistle2.version = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle2.version
 levaDEC.Epistle2.book_string = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle2.book_string
 levaDEC.Epistle2.book_abbr = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle2.book_abbr
 levaDEC.Epistle2.chapverse = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle2.chapverse
+levaDEC.Epistle2.incipit = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle2.incipit
 levaDEC.Epistle2.text = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle2.text
 
 levaDEC.Epistle3.title = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle3.title
@@ -22,6 +24,7 @@ levaDEC.Epistle3.version = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle3.version
 levaDEC.Epistle3.book_string = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle3.book_string
 levaDEC.Epistle3.book_abbr = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle3.book_abbr
 levaDEC.Epistle3.chapverse = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle3.chapverse
+levaDEC.Epistle3.incipit = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle3.incipit
 levaDEC.Epistle3.text = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle3.text
 
 levaDEC.Epistle4.title = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle4.title
@@ -30,4 +33,5 @@ levaDEC.Epistle4.version = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle4.version
 levaDEC.Epistle4.book_string = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle4.book_string
 levaDEC.Epistle4.book_abbr = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle4.book_abbr
 levaDEC.Epistle4.chapverse = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle4.chapverse
+levaDEC.Epistle4.incipit = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle4.incipit
 levaDEC.Epistle4.text = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle4.text

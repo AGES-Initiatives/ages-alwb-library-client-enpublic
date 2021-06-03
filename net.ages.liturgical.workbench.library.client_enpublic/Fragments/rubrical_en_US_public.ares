@@ -133,6 +133,19 @@ fasting.explanation.apostlesfast = rubrical_en_US_dedes.fasting.explanation.apos
 fasting.explanation.dormitionfast = rubrical_en_US_dedes.fasting.explanation.dormitionfast
 fasting.explanation.christmasfast = rubrical_en_US_dedes.fasting.explanation.christmasfast
 
+standing.prefix = rubrical_en_US_dedes.standing.prefix
+standing.vespers.introductorypsalm = rubrical_en_US_dedes.standing.vespers.introductorypsalm
+standing.vespers.entrance = rubrical_en_US_dedes.standing.vespers.entrance
+standing.vespers.gladsomelight = rubrical_en_US_dedes.standing.vespers.gladsomelight
+standing.vespers.prayer = rubrical_en_US_dedes.standing.vespers.prayer
+standing.vespers.simeonprayer = rubrical_en_US_dedes.standing.vespers.simeonprayer
+standing.matins.sixpsalms = rubrical_en_US_dedes.standing.matins.sixpsalms
+standing.matins.gospel = rubrical_en_US_dedes.standing.matins.gospel
+standing.matins.synaxarion = rubrical_en_US_dedes.standing.matins.synaxarion
+standing.matins.ode9 = rubrical_en_US_dedes.standing.matins.ode9
+standing.matins.smalldoxology = rubrical_en_US_dedes.standing.matins.smalldoxology
+standing.matins.greatdoxology = rubrical_en_US_dedes.standing.matins.greatdoxology
+
 transfer.service.date.feb23 = rubrical_en_US_dedes.transfer.service.date.feb23
 transfer.service.date.feb24 = rubrical_en_US_dedes.transfer.service.date.feb24
 transfer.service.date.mar09 = rubrical_en_US_dedes.transfer.service.date.mar09

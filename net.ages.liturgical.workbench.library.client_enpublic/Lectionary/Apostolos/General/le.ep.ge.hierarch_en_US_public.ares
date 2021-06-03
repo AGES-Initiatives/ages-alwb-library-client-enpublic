@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = le.ep.ge.hierarch_en_US_public 
+A_Resource_Whose_Name = le.ep.ge.hierarch_en_US_public
 
 legeLI.Epistle.title = le.ep.ge.hierarch_en_US_rsv.legeLI.Epistle.title
 legeLI.Epistle.title_abbr = le.ep.ge.hierarch_en_US_rsv.legeLI.Epistle.title_abbr
@@ -6,5 +6,6 @@ legeLI.Epistle.version = le.ep.ge.hierarch_en_US_rsv.legeLI.Epistle.version
 legeLI.Epistle.book_string = le.ep.ge.hierarch_en_US_rsv.legeLI.Epistle.book_string
 legeLI.Epistle.book_abbr = le.ep.ge.hierarch_en_US_rsv.legeLI.Epistle.book_abbr
 legeLI.Epistle.chapverse = le.ep.ge.hierarch_en_US_rsv.legeLI.Epistle.chapverse
+legeLI.Epistle.incipit = le.ep.ge.hierarch_en_US_rsv.legeLI.Epistle.incipit
 legeLI.Epistle.text = le.ep.ge.hierarch_en_US_rsv.legeLI.Epistle.text
 

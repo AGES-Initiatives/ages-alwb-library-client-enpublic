@@ -6,6 +6,7 @@ lemeLI.Epistle.version = le.ep.me.m10.d20_en_US_rsv.lemeLI.Epistle.version
 lemeLI.Epistle.book_string = le.ep.me.m10.d20_en_US_rsv.lemeLI.Epistle.book_string
 lemeLI.Epistle.book_abbr = le.ep.me.m10.d20_en_US_rsv.lemeLI.Epistle.book_abbr
 lemeLI.Epistle.chapverse = le.ep.me.m10.d20_en_US_rsv.lemeLI.Epistle.chapverse
+lemeLI.Epistle.incipit = le.ep.me.m10.d20_en_US_rsv.lemeLI.Epistle.incipit
 lemeLI.Epistle.text = le.ep.me.m10.d20_en_US_rsv.lemeLI.Epistle.text
 lemeLI.Epistle.pagenumber = le.ep.me.m10.d20_en_US_rsv.lemeLI.Epistle.pagenumber
 
@@ -15,4 +16,5 @@ lemeLI.Epistle2.version = le.ep.me.m10.d20_en_US_rsv.lemeLI.Epistle2.version
 lemeLI.Epistle2.book_string = le.ep.me.m10.d20_en_US_rsv.lemeLI.Epistle2.book_string
 lemeLI.Epistle2.book_abbr = le.ep.me.m10.d20_en_US_rsv.lemeLI.Epistle2.book_abbr
 lemeLI.Epistle2.chapverse = le.ep.me.m10.d20_en_US_rsv.lemeLI.Epistle2.chapverse
+lemeLI.Epistle2.incipit = le.ep.me.m10.d20_en_US_rsv.lemeLI.Epistle2.incipit
 lemeLI.Epistle2.text = le.ep.me.m10.d20_en_US_rsv.lemeLI.Epistle2.text

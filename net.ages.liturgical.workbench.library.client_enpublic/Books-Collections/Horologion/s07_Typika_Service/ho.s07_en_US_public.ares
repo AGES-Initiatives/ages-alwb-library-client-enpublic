@@ -34,16 +34,20 @@ hoLI.Antiphon1.text = ho.s07_en_US_goa.hoLI.Antiphon1.text
 
 hoLI.Antiphon21.text = ho.s07_en_US_goa.hoLI.Antiphon21.text
 hoLI.Antiphon22.text = ho.s07_en_US_goa.hoLI.Antiphon22.text
+hoLI.Antiphon2s.incipit = ho.s07_en_US_goa.hoLI.Antiphon2s.incipit
 hoLI.Antiphon2s.text = ho.s07_en_US_goa.hoLI.Antiphon2s.text
+hoLI.Antiphon2w.incipit = ho.s07_en_US_goa.hoLI.Antiphon2w.incipit
 hoLI.Antiphon2w.text = ho.s07_en_US_goa.hoLI.Antiphon2w.text
 
+hoLI.EntranceHymn.incipit = ho.s07_en_US_goa.hoLI.EntranceHymn.incipit
 hoLI.EntranceHymn.text = ho.s07_en_US_goa.hoLI.EntranceHymn.text // in the template add parts of Antiphon 2
-hoLI.EntranceHymn2s.incipit = "…"
+hoLI.EntranceHymn2s.incipit = ho.s07_en_US_goa.hoLI.EntranceHymn2s.incipit
 hoLI.EntranceHymn2s.text = ho.s07_en_US_goa.hoLI.EntranceHymn2s.text
-hoLI.EntranceHymn2w.incipit = "…"
+hoLI.EntranceHymn2w.incipit = ho.s07_en_US_goa.hoLI.EntranceHymn2w.incipit
 hoLI.EntranceHymn2w.text = ho.s07_en_US_goa.hoLI.EntranceHymn2w.text
 
 hoLI.TrisagiosHymn.title = ho.s07_en_US_goa.hoLI.TrisagiosHymn.title
+hoLI.TrisagiosHymn.incipit = ho.s07_en_US_goa.hoLI.TrisagiosHymn.incipit
 hoLI.TrisagiosHymn.text = ho.s07_en_US_goa.hoLI.TrisagiosHymn.text
 hoLI.TrisagiosHymn1.text = ho.s07_en_US_goa.hoLI.TrisagiosHymn1.text
 hoLI.TrisagiosHymn2.text = ho.s07_en_US_goa.hoLI.TrisagiosHymn2.text
@@ -56,6 +60,7 @@ hoLI.MM.TrisagiosHymnBimatos.text = ho.s07_en_US_goa.hoLI.MM.TrisagiosHymnBimato
 hoLI.TrisagiosHymnDynamis.text = ho.s07_en_US_goa.hoLI.TrisagiosHymnDynamis.text
 
 hoLI.OsoiEisChriston.title = ho.s07_en_US_goa.hoLI.OsoiEisChriston.title
+hoLI.OsoiEisChriston.incipit = ho.s07_en_US_goa.hoLI.OsoiEisChriston.incipit
 hoLI.OsoiEisChriston.text = ho.s07_en_US_goa.hoLI.OsoiEisChriston.text
 hoLI.OsoiEisChriston1.text = ho.s07_en_US_goa.hoLI.OsoiEisChriston1.text
 hoLI.OsoiEisChriston2.text = ho.s07_en_US_goa.hoLI.OsoiEisChriston2.text
@@ -65,6 +70,7 @@ hoLI.MM.OsoiEisChristonBimatos.text = ho.s07_en_US_goa.hoLI.MM.OsoiEisChristonBi
 hoLI.OsoiEisChristonDynamis.text = ho.s07_en_US_goa.hoLI.OsoiEisChristonDynamis.text
 
 hoLI.TonStavronSou.title = ho.s07_en_US_goa.hoLI.TonStavronSou.title
+hoLI.TonStavronSou.incipit = ho.s07_en_US_goa.hoLI.TonStavronSou.incipit
 hoLI.TonStavronSou.text = ho.s07_en_US_goa.hoLI.TonStavronSou.text
 hoLI.TonStavronSou1.text = ho.s07_en_US_goa.hoLI.TonStavronSou1.text
 hoLI.TonStavronSou2.text = ho.s07_en_US_goa.hoLI.TonStavronSou2.text

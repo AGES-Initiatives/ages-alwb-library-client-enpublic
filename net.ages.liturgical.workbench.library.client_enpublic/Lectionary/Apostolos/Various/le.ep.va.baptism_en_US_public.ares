@@ -1,9 +1,10 @@
-A_Resource_Whose_Name = le.ep.va.baptism_en_US_public 
+A_Resource_Whose_Name = le.ep.va.baptism_en_US_public
 
 levaBAP.Epistle.title = le.ep.va.baptism_en_US_rsv.levaBAP.Epistle.title
 levaBAP.Epistle.title_abbr = le.ep.va.baptism_en_US_rsv.levaBAP.Epistle.title_abbr
-levaBAP.Epistle.version = le.ep.va.baptism_en_US_rsv.levaBAP.Epistle.version 
+levaBAP.Epistle.version = le.ep.va.baptism_en_US_rsv.levaBAP.Epistle.version
 levaBAP.Epistle.book_string = le.ep.va.baptism_en_US_rsv.levaBAP.Epistle.book_string
 levaBAP.Epistle.book_abbr = le.ep.va.baptism_en_US_rsv.levaBAP.Epistle.book_abbr
-levaBAP.Epistle.chapverse = le.ep.va.baptism_en_US_rsv.levaBAP.Epistle.chapverse 
-levaBAP.Epistle.text = le.ep.va.baptism_en_US_rsv.levaBAP.Epistle.text 
+levaBAP.Epistle.chapverse = le.ep.va.baptism_en_US_rsv.levaBAP.Epistle.chapverse
+levaBAP.Epistle.incipit = le.ep.va.baptism_en_US_rsv.levaBAP.Epistle.incipit
+levaBAP.Epistle.text = le.ep.va.baptism_en_US_rsv.levaBAP.Epistle.text

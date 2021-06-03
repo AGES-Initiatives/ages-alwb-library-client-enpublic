@@ -1,11 +1,12 @@
-A_Resource_Whose_Name = le.go.va.consecration_en_US_public 
+A_Resource_Whose_Name = le.go.va.consecration_en_US_public
 
 levaCON.Gospel1.title = le.go.va.consecration_en_US_rsv.levaCON.Gospel1.title
 levaCON.Gospel1.title_abbr = le.go.va.consecration_en_US_rsv.levaCON.Gospel1.title_abbr
-levaCON.Gospel1.version = le.go.va.consecration_en_US_rsv.levaCON.Gospel1.version 
-levaCON.Gospel1.book_string = le.go.va.consecration_en_US_rsv.levaCON.Gospel1.book_string 
-levaCON.Gospel1.chapverse = le.go.va.consecration_en_US_rsv.levaCON.Gospel1.chapverse 
-levaCON.Gospel1.text = le.go.va.consecration_en_US_rsv.levaCON.Gospel1.text 
+levaCON.Gospel1.version = le.go.va.consecration_en_US_rsv.levaCON.Gospel1.version
+levaCON.Gospel1.book_string = le.go.va.consecration_en_US_rsv.levaCON.Gospel1.book_string
+levaCON.Gospel1.chapverse = le.go.va.consecration_en_US_rsv.levaCON.Gospel1.chapverse
+levaCON.Gospel1.incipit = le.go.va.consecration_en_US_rsv.levaCON.Gospel1.incipit
+levaCON.Gospel1.text = le.go.va.consecration_en_US_rsv.levaCON.Gospel1.text
 
 levaCON.Gospel2.title = le.go.va.consecration_en_US_rsv.levaCON.Gospel2.title
 levaCON.Gospel2.title_abbr = le.go.va.consecration_en_US_rsv.levaCON.Gospel2.title_abbr
@@ -13,6 +14,7 @@ levaCON.Gospel2.version = le.go.va.consecration_en_US_rsv.levaCON.Gospel2.versio
 levaCON.Gospel2.book_string = le.go.va.consecration_en_US_rsv.levaCON.Gospel2.book_string
 levaCON.Gospel2.book_abbr = le.go.va.consecration_en_US_rsv.levaCON.Gospel2.book_abbr
 levaCON.Gospel2.chapverse = le.go.va.consecration_en_US_rsv.levaCON.Gospel2.chapverse
+levaCON.Gospel2.incipit = le.go.va.consecration_en_US_rsv.levaCON.Gospel2.incipit
 levaCON.Gospel2.text = le.go.va.consecration_en_US_rsv.levaCON.Gospel2.text
 
 levaLI.Gospel.title = le.go.va.consecration_en_US_rsv.levaLI.Gospel.title
@@ -21,4 +23,5 @@ levaLI.Gospel.version = le.go.va.consecration_en_US_rsv.levaLI.Gospel.version
 levaLI.Gospel.book_string = le.go.va.consecration_en_US_rsv.levaLI.Gospel.book_string
 levaLI.Gospel.book_abbr = le.go.va.consecration_en_US_rsv.levaLI.Gospel.book_abbr
 levaLI.Gospel.chapverse = le.go.va.consecration_en_US_rsv.levaLI.Gospel.chapverse
+levaLI.Gospel.incipit = le.go.va.consecration_en_US_rsv.levaLI.Gospel.incipit
 levaLI.Gospel.text = le.go.va.consecration_en_US_rsv.levaLI.Gospel.text
