@@ -400,6 +400,7 @@ meMA.AposGlory.melody = me.m02.d03_en_US_dedes.meMA.AposGlory.melody
 meMA.AposGlory.incipit = me.m02.d03_en_US_dedes.meMA.AposGlory.incipit
 meMA.AposGlory.text = me.m02.d03_en_US_dedes.meMA.AposGlory.text
 
+meLI.Antiphon2.incipit = me.m02.d03_en_US_dedes.meLI.Antiphon2.incipit
 meLI.Antiphon2.text = me.m02.d03_en_US_dedes.meLI.Antiphon2.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode

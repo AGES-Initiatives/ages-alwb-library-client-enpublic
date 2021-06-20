@@ -740,6 +740,7 @@ meMA.LaudsBoth.melody = me.m12.d25_en_US_dedes.meMA.LaudsBoth.melody
 meMA.LaudsBoth.incipit = me.m12.d25_en_US_dedes.meMA.LaudsBoth.incipit
 meMA.LaudsBoth.text = me.m12.d25_en_US_dedes.meMA.LaudsBoth.text
 
+meLI.Antiphon2.incipit = me.m12.d25_en_US_dedes.meLI.Antiphon2.incipit
 meLI.Antiphon2.text = me.m12.d25_en_US_dedes.meLI.Antiphon2.text
 
 meLI.MM.EntranceHymn.text = properties_en_US_public.media.key

@@ -384,6 +384,7 @@ meMA.ExapTheotokion.melody = me.m02.d09_en_US_dedes.meMA.ExapTheotokion.melody
 meMA.ExapTheotokion.incipit = me.m02.d09_en_US_dedes.meMA.ExapTheotokion.incipit
 meMA.ExapTheotokion.text = me.m02.d09_en_US_dedes.meMA.ExapTheotokion.text
 
+meLI.Antiphon2.incipit = me.m02.d09_en_US_dedes.meLI.Antiphon2.incipit
 meLI.Antiphon2.text = me.m02.d09_en_US_dedes.meLI.Antiphon2.text
 
 meLI.MM.EntranceHymn.text = properties_en_US_public.media.key

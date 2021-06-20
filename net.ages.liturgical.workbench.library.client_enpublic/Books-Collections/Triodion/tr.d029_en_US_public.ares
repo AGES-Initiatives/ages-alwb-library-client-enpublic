@@ -422,6 +422,7 @@ trMA.LaudsTheotokion.melody = tr.d029_en_US_dedes.trMA.LaudsTheotokion.melody
 trMA.LaudsTheotokion.incipit = tr.d029_en_US_dedes.trMA.LaudsTheotokion.incipit
 trMA.LaudsTheotokion.text = tr.d029_en_US_dedes.trMA.LaudsTheotokion.text
 
+trLI.Antiphon2.incipit = tr.d029_en_US_dedes.trLI.Antiphon2.incipit
 trLI.Antiphon2.text = tr.d029_en_US_dedes.trLI.Antiphon2.text
 
 trLI.MM.EntranceHymn.text = properties_en_US_public.media.key
