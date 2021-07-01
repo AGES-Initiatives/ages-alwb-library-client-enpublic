@@ -22,8 +22,8 @@ ocVE.Stichera4.text = oc.m2.d4_en_US_dedes.ocVE.Stichera4.text
 
 ocVE.Stichera5.mode = oc.m2.d4_en_US_dedes.ocVE.Stichera5.mode
 ocVE.Stichera5.melody = oc.m2.d4_en_US_dedes.ocVE.Stichera5.melody
-ocVE.Stichera5.incipit = oc.m2.d4_en_US_dedes.ocVE.Stichera5.incipit
-ocVE.Stichera5.text = oc.m2.d4_en_US_dedes.ocVE.Stichera5.text
+ocVE.Stichera5.incipit = oc.m2.d4_en_US_goadedes.ocVE.Stichera5.incipit
+ocVE.Stichera5.text = oc.m2.d4_en_US_goadedes.ocVE.Stichera5.text
 
 ocVE.Stichera6.mode = oc.m2.d4_en_US_dedes.ocVE.Stichera6.mode
 ocVE.Stichera6.melody = oc.m2.d4_en_US_dedes.ocVE.Stichera6.melody
