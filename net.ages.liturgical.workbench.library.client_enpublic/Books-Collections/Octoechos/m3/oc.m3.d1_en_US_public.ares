@@ -117,65 +117,65 @@ ocVE.ApolTheotokionVM.incipit = oc.m3.d1_en_US_dedes.ocVE.ApolTheotokionVM.incip
 ocVE.ApolTheotokionVM.text = oc.m3.d1_en_US_dedes.ocVE.ApolTheotokionVM.text
 
 ocMO.poet = oc.m3.d1_en_US_dedes.ocMO.poet
-ocMO.acrostic = oc.m3.d1_en_UK_lash.ocMO.acrostic
+ocMO.acrostic = oc.m3.d1_en_US_goadedes.ocMO.acrostic
 
-ocMO.Ode11.mode = oc.m3.d1_en_US_dedes.ocMO.Ode11.mode
-ocMO.Ode11.ode = oc.m3.d1_en_US_dedes.ocMO.Ode11.ode
-ocMO.Ode11.melody = oc.m3.d1_en_UK_lash.ocMO.Ode11.melody
-ocMO.Ode11.incipit = oc.m3.d1_en_UK_lash.ocMO.Ode11.incipit
-ocMO.Ode11.text = oc.m3.d1_en_UK_lash.ocMO.Ode11.text
+ocMO.Ode11.mode = oc.m3.d1_en_US_goadedes.ocMO.Ode11.mode
+ocMO.Ode11.ode = oc.m3.d1_en_US_goadedes.ocMO.Ode11.ode
+ocMO.Ode11.melody = oc.m3.d1_en_US_goadedes.ocMO.Ode11.melody
+ocMO.Ode11.incipit = oc.m3.d1_en_US_goadedes.ocMO.Ode11.incipit
+ocMO.Ode11.text = oc.m3.d1_en_US_goadedes.ocMO.Ode11.text
 
-ocMO.Ode12.mode = oc.m3.d1_en_US_dedes.ocMO.Ode12.mode
-ocMO.Ode12.ode = oc.m3.d1_en_US_dedes.ocMO.Ode12.ode
-ocMO.Ode12.melody = oc.m3.d1_en_UK_lash.ocMO.Ode12.melody
-ocMO.Ode12.incipit = oc.m3.d1_en_UK_lash.ocMO.Ode12.incipit
-ocMO.Ode12.text = oc.m3.d1_en_UK_lash.ocMO.Ode12.text
+ocMO.Ode12.mode = oc.m3.d1_en_US_goadedes.ocMO.Ode12.mode
+ocMO.Ode12.ode = oc.m3.d1_en_US_goadedes.ocMO.Ode12.ode
+ocMO.Ode12.melody = oc.m3.d1_en_US_goadedes.ocMO.Ode12.melody
+ocMO.Ode12.incipit = oc.m3.d1_en_US_goadedes.ocMO.Ode12.incipit
+ocMO.Ode12.text = oc.m3.d1_en_US_goadedes.ocMO.Ode12.text
 
-ocMO.Ode13.mode = oc.m3.d1_en_US_dedes.ocMO.Ode13.mode
-ocMO.Ode13.ode = oc.m3.d1_en_US_dedes.ocMO.Ode13.ode
-ocMO.Ode13.melody = oc.m3.d1_en_UK_lash.ocMO.Ode13.melody
-ocMO.Ode13.incipit = oc.m3.d1_en_UK_lash.ocMO.Ode13.incipit
-ocMO.Ode13.text = oc.m3.d1_en_UK_lash.ocMO.Ode13.text
+ocMO.Ode13.mode = oc.m3.d1_en_US_goadedes.ocMO.Ode13.mode
+ocMO.Ode13.ode = oc.m3.d1_en_US_goadedes.ocMO.Ode13.ode
+ocMO.Ode13.melody = oc.m3.d1_en_US_goadedes.ocMO.Ode13.melody
+ocMO.Ode13.incipit = oc.m3.d1_en_US_goadedes.ocMO.Ode13.incipit
+ocMO.Ode13.text = oc.m3.d1_en_US_goadedes.ocMO.Ode13.text
 
-ocMO.Ode1T.mode = oc.m3.d1_en_US_dedes.ocMO.Ode1T.mode
-ocMO.Ode1T.ode = oc.m3.d1_en_US_dedes.ocMO.Ode1T.ode
-ocMO.Ode1T.melody = oc.m3.d1_en_UK_lash.ocMO.Ode1T.melody
-ocMO.Ode1T.incipit = oc.m3.d1_en_UK_lash.ocMO.Ode1T.incipit
-ocMO.Ode1T.text = oc.m3.d1_en_UK_lash.ocMO.Ode1T.text
+ocMO.Ode1T.mode = oc.m3.d1_en_US_goadedes.ocMO.Ode1T.mode
+ocMO.Ode1T.ode = oc.m3.d1_en_US_goadedes.ocMO.Ode1T.ode
+ocMO.Ode1T.melody = oc.m3.d1_en_US_goadedes.ocMO.Ode1T.melody
+ocMO.Ode1T.incipit = oc.m3.d1_en_US_goadedes.ocMO.Ode1T.incipit
+ocMO.Ode1T.text = oc.m3.d1_en_US_goadedes.ocMO.Ode1T.text
 
-ocMO.Ode31.mode = oc.m3.d1_en_US_dedes.ocMO.Ode31.mode
-ocMO.Ode31.ode = oc.m3.d1_en_US_dedes.ocMO.Ode31.ode
-ocMO.Ode31.melody = oc.m3.d1_en_UK_lash.ocMO.Ode31.melody
-ocMO.Ode31.incipit = oc.m3.d1_en_UK_lash.ocMO.Ode31.incipit
-ocMO.Ode31.text = oc.m3.d1_en_UK_lash.ocMO.Ode31.text
+ocMO.Ode31.mode = oc.m3.d1_en_US_goadedes.ocMO.Ode31.mode
+ocMO.Ode31.ode = oc.m3.d1_en_US_goadedes.ocMO.Ode31.ode
+ocMO.Ode31.melody = oc.m3.d1_en_US_goadedes.ocMO.Ode31.melody
+ocMO.Ode31.incipit = oc.m3.d1_en_US_goadedes.ocMO.Ode31.incipit
+ocMO.Ode31.text = oc.m3.d1_en_US_goadedes.ocMO.Ode31.text
 
-ocMO.Ode32.mode = oc.m3.d1_en_US_dedes.ocMO.Ode32.mode
-ocMO.Ode32.ode = oc.m3.d1_en_US_dedes.ocMO.Ode32.ode
-ocMO.Ode32.melody = oc.m3.d1_en_UK_lash.ocMO.Ode32.melody
-ocMO.Ode32.incipit = oc.m3.d1_en_UK_lash.ocMO.Ode32.incipit
-ocMO.Ode32.text = oc.m3.d1_en_UK_lash.ocMO.Ode32.text
+ocMO.Ode32.mode = oc.m3.d1_en_US_goadedes.ocMO.Ode32.mode
+ocMO.Ode32.ode = oc.m3.d1_en_US_goadedes.ocMO.Ode32.ode
+ocMO.Ode32.melody = oc.m3.d1_en_US_goadedes.ocMO.Ode32.melody
+ocMO.Ode32.incipit = oc.m3.d1_en_US_goadedes.ocMO.Ode32.incipit
+ocMO.Ode32.text = oc.m3.d1_en_US_goadedes.ocMO.Ode32.text
 
-ocMO.Ode33.mode = oc.m3.d1_en_US_dedes.ocMO.Ode33.mode
-ocMO.Ode33.ode = oc.m3.d1_en_US_dedes.ocMO.Ode33.ode
-ocMO.Ode33.melody = oc.m3.d1_en_UK_lash.ocMO.Ode33.melody
-ocMO.Ode33.incipit = oc.m3.d1_en_UK_lash.ocMO.Ode33.incipit
-ocMO.Ode33.text = oc.m3.d1_en_UK_lash.ocMO.Ode33.text
+ocMO.Ode33.mode = oc.m3.d1_en_US_goadedes.ocMO.Ode33.mode
+ocMO.Ode33.ode = oc.m3.d1_en_US_goadedes.ocMO.Ode33.ode
+ocMO.Ode33.melody = oc.m3.d1_en_US_goadedes.ocMO.Ode33.melody
+ocMO.Ode33.incipit = oc.m3.d1_en_US_goadedes.ocMO.Ode33.incipit
+ocMO.Ode33.text = oc.m3.d1_en_US_goadedes.ocMO.Ode33.text
 
-ocMO.Ode3T.mode = oc.m3.d1_en_US_dedes.ocMO.Ode3T.mode
-ocMO.Ode3T.ode = oc.m3.d1_en_US_dedes.ocMO.Ode3T.ode
-ocMO.Ode3T.melody = oc.m3.d1_en_UK_lash.ocMO.Ode3T.melody
-ocMO.Ode3T.incipit = oc.m3.d1_en_UK_lash.ocMO.Ode3T.incipit
-ocMO.Ode3T.text = oc.m3.d1_en_UK_lash.ocMO.Ode3T.text
+ocMO.Ode3T.mode = oc.m3.d1_en_US_goadedes.ocMO.Ode3T.mode
+ocMO.Ode3T.ode = oc.m3.d1_en_US_goadedes.ocMO.Ode3T.ode
+ocMO.Ode3T.melody = oc.m3.d1_en_US_goadedes.ocMO.Ode3T.melody
+ocMO.Ode3T.incipit = oc.m3.d1_en_US_goadedes.ocMO.Ode3T.incipit
+ocMO.Ode3T.text = oc.m3.d1_en_US_goadedes.ocMO.Ode3T.text
 
-ocMO.Kathisma11.mode = oc.m3.d1_en_US_dedes.ocMO.Kathisma11.mode
-ocMO.Kathisma11.melody = oc.m3.d1_en_UK_lash.ocMO.Kathisma11.melody
-ocMO.Kathisma11.incipit = oc.m3.d1_en_UK_lash.ocMO.Kathisma11.incipit
-ocMO.Kathisma11.text = oc.m3.d1_en_UK_lash.ocMO.Kathisma11.text
+ocMO.Kathisma11.mode = oc.m3.d1_en_US_goadedes.ocMO.Kathisma11.mode
+ocMO.Kathisma11.melody = oc.m3.d1_en_US_goadedes.ocMO.Kathisma11.melody
+ocMO.Kathisma11.incipit = oc.m3.d1_en_US_goadedes.ocMO.Kathisma11.incipit
+ocMO.Kathisma11.text = oc.m3.d1_en_US_goadedes.ocMO.Kathisma11.text
 
-ocMO.Kathisma12.mode = oc.m3.d1_en_US_dedes.ocMO.Kathisma12.mode
-ocMO.Kathisma12.melody = oc.m3.d1_en_UK_lash.ocMO.Kathisma12.melody
-ocMO.Kathisma12.incipit = oc.m3.d1_en_UK_lash.ocMO.Kathisma12.incipit
-ocMO.Kathisma12.text = oc.m3.d1_en_UK_lash.ocMO.Kathisma12.text
+ocMO.Kathisma12.mode = oc.m3.d1_en_US_goadedes.ocMO.Kathisma12.mode
+ocMO.Kathisma12.melody = oc.m3.d1_en_US_goadedes.ocMO.Kathisma12.melody
+ocMO.Kathisma12.incipit = oc.m3.d1_en_US_goadedes.ocMO.Kathisma12.incipit
+ocMO.Kathisma12.text = oc.m3.d1_en_US_goadedes.ocMO.Kathisma12.text
 
 ocMO.Ode41.mode = oc.m3.d1_en_US_dedes.ocMO.Ode41.mode
 ocMO.Ode41.ode = oc.m3.d1_en_US_dedes.ocMO.Ode41.ode
