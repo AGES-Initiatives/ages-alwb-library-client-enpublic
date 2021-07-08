@@ -41,7 +41,7 @@ cl.Kontakion1.mode =
 cl.Kontakion1.melody = 
 cl.Kontakion1.text = "(Kontakion for the parish church)"
 
-cl.consecration.name = "(name of the church being consecrated);"
+cl.consecration.name = "(name of the church);"
 
 cl.localpatronsaint2.supplication = "(of the chapel);"
 cl.localpatronsaint2.dismissal = "(of the chapel);"

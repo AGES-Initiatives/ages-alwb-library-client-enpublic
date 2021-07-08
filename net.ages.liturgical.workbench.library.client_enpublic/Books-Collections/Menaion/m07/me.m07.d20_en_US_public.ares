@@ -488,9 +488,9 @@ meMA.Ode8C23.text = me.m07.d20_en_US_dedes.meMA.Ode8C23.text
 
 meMA.Ode8C2Tr.ode = me.m07.d20_en_US_dedes.meMA.Ode8C2Tr.ode
 meMA.Ode8C2Tr.mode = me.m07.d20_en_US_dedes.meMA.Ode8C2Tr.mode
-meMA.Ode8C2Tr.melody = me.m07.d20_en_UK_lash.meMA.Ode8C2Tr.melody
-meMA.Ode8C2Tr.incipit = me.m07.d20_en_UK_lash.meMA.Ode8C2Tr.incipit
-meMA.Ode8C2Tr.text = me.m07.d20_en_UK_lash.meMA.Ode8C2Tr.text
+meMA.Ode8C2Tr.melody = me.m07.d20_en_US_dedes.meMA.Ode8C2Tr.melody
+meMA.Ode8C2Tr.incipit = me.m07.d20_en_US_dedes.meMA.Ode8C2Tr.incipit
+meMA.Ode8C2Tr.text = me.m07.d20_en_US_dedes.meMA.Ode8C2Tr.text
 
 meMA.Ode8C2T.ode = me.m07.d20_en_US_dedes.meMA.Ode8C2T.ode
 meMA.Ode8C2T.mode = me.m07.d20_en_US_dedes.meMA.Ode8C2T.mode

@@ -20,6 +20,7 @@ Deacon2 = actors_en_US_goa.Deacon2
 Hierarch = actors_en_US_goa.Hierarch
 Hierarchs = actors_en_US_goa.Hierarchs
 HierarchOrPriest = actors_en_US_goa.HierarchOrPriest
+Patriarch = actors_en_US_goa.Patriarch
 People = actors_en_US_goa.People
 Priest = actors_en_US_goa.Priest
 Priest1 = actors_en_US_goa.Priest1

@@ -47,11 +47,14 @@ DoxaSoiChriste2 = prayers_en_US_holycross.DoxaSoiChriste2
 
 DoxaSoiKyrie.incipit = prayers_en_US_goa.DoxaSoiKyrie.incipit
 DoxaSoiKyrie = prayers_en_US_goa.DoxaSoiKyrie
-DoxaSoiKyrie.MM.aftergospel.incipit = "properties_en_US_goa.media.key…"
+DoxaSoiKyrie.MM.aftergospel.incipit = properties_en_US_goa.media.key
 DoxaSoiKyrie.MM.aftergospel.text = properties_en_US_goa.media.key
 
 DoxaSoiOTheos1.incipit = prayers_en_US_holycross.DoxaSoiOTheos1.incipit
 DoxaSoiOTheos1 = prayers_en_US_holycross.DoxaSoiOTheos1
+
+DoxaSoiOTheosIElpis.incipit = prayers_en_US_goa.DoxaSoiOTheosIElpis.incipit
+DoxaSoiOTheosIElpis.text = prayers_en_US_goa.DoxaSoiOTheosIElpis.text
 
 DoxaSoiOTheosImon.incipit = prayers_en_US_holycross.DoxaSoiOTheosImon.incipit
 DoxaSoiOTheosImon.text = prayers_en_US_holycross.DoxaSoiOTheosImon.text
