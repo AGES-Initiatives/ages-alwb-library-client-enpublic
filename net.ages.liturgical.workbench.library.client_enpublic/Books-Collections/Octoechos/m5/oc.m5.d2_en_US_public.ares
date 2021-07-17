@@ -61,14 +61,14 @@ ocVE.ApolTheotokionVM.incipit = oc.m5.d2_en_US_dedes.ocVE.ApolTheotokionVM.incip
 ocVE.ApolTheotokionVM.text = oc.m5.d2_en_US_dedes.ocVE.ApolTheotokionVM.text
 
 ocMA.Kathisma11.mode = oc.m5.d2_en_US_dedes.ocMA.Kathisma11.mode
-ocMA.Kathisma11.melody = oc.m5.d2_en_UK_lash.ocMA.Kathisma11.melody
-ocMA.Kathisma11.incipit = oc.m5.d2_en_UK_lash.ocMA.Kathisma11.incipit
-ocMA.Kathisma11.text = oc.m5.d2_en_UK_lash.ocMA.Kathisma11.text
+ocMA.Kathisma11.melody = oc.m5.d2_en_US_oca.ocMA.Kathisma11.melody
+ocMA.Kathisma11.incipit = oc.m5.d2_en_US_oca.ocMA.Kathisma11.incipit
+ocMA.Kathisma11.text = oc.m5.d2_en_US_oca.ocMA.Kathisma11.text
 
 ocMA.Kathisma12.mode = oc.m5.d2_en_US_dedes.ocMA.Kathisma12.mode
-ocMA.Kathisma12.melody = oc.m5.d2_en_UK_lash.ocMA.Kathisma12.melody
-ocMA.Kathisma12.incipit = oc.m5.d2_en_UK_lash.ocMA.Kathisma12.incipit
-ocMA.Kathisma12.text = oc.m5.d2_en_UK_lash.ocMA.Kathisma12.text
+ocMA.Kathisma12.melody = oc.m5.d2_en_US_oca.ocMA.Kathisma12.melody
+ocMA.Kathisma12.incipit = oc.m5.d2_en_US_oca.ocMA.Kathisma12.incipit
+ocMA.Kathisma12.text = oc.m5.d2_en_US_oca.ocMA.Kathisma12.text
 
 ocMA.Kathisma13.mode = oc.m5.d2_en_US_dedes.ocMA.Kathisma13.mode
 ocMA.Kathisma13.melody = oc.m5.d2_en_US_dedes.ocMA.Kathisma13.melody
@@ -81,29 +81,29 @@ ocMA.Kathisma21.incipit = oc.m5.d2_en_US_dedes.ocMA.Kathisma21.incipit
 ocMA.Kathisma21.text = oc.m5.d2_en_US_dedes.ocMA.Kathisma21.text
 
 ocMA.Kathisma22.mode = oc.m5.d2_en_US_dedes.ocMA.Kathisma22.mode
-ocMA.Kathisma22.melody = oc.m5.d2_en_US_dedes.ocMA.Kathisma22.melody
-ocMA.Kathisma22.incipit = oc.m5.d2_en_UK_lash.ocMA.Kathisma22.incipit
-ocMA.Kathisma22.text = oc.m5.d2_en_UK_lash.ocMA.Kathisma22.text
+ocMA.Kathisma22.melody = oc.m5.d2_en_US_oca.ocMA.Kathisma22.melody
+ocMA.Kathisma22.incipit = oc.m5.d2_en_US_oca.ocMA.Kathisma22.incipit
+ocMA.Kathisma22.text = oc.m5.d2_en_US_oca.ocMA.Kathisma22.text
 
 ocMA.Kathisma23.mode = oc.m5.d2_en_US_dedes.ocMA.Kathisma23.mode
-ocMA.Kathisma23.melody = oc.m5.d2_en_UK_lash.ocMA.Kathisma23.melody
-ocMA.Kathisma23.incipit = oc.m5.d2_en_UK_lash.ocMA.Kathisma23.incipit
-ocMA.Kathisma23.text = oc.m5.d2_en_UK_lash.ocMA.Kathisma23.text
+ocMA.Kathisma23.melody = oc.m5.d2_en_US_oca.ocMA.Kathisma23.melody
+ocMA.Kathisma23.incipit = oc.m5.d2_en_US_oca.ocMA.Kathisma23.incipit
+ocMA.Kathisma23.text = oc.m5.d2_en_US_oca.ocMA.Kathisma23.text
 
 ocMA.Kathisma31.mode = oc.m5.d2_en_US_dedes.ocMA.Kathisma31.mode
-ocMA.Kathisma31.melody = oc.m5.d2_en_UK_lash.ocMA.Kathisma31.melody
-ocMA.Kathisma31.incipit = oc.m5.d2_en_UK_lash.ocMA.Kathisma31.incipit
-ocMA.Kathisma31.text = oc.m5.d2_en_UK_lash.ocMA.Kathisma31.text
+ocMA.Kathisma31.melody = oc.m5.d2_en_US_oca.ocMA.Kathisma31.melody
+ocMA.Kathisma31.incipit = oc.m5.d2_en_US_oca.ocMA.Kathisma31.incipit
+ocMA.Kathisma31.text = oc.m5.d2_en_US_oca.ocMA.Kathisma31.text
 
 ocMA.Kathisma32.mode = oc.m5.d2_en_US_dedes.ocMA.Kathisma32.mode
-ocMA.Kathisma32.melody = oc.m5.d2_en_UK_lash.ocMA.Kathisma32.melody
-ocMA.Kathisma32.incipit = oc.m5.d2_en_UK_lash.ocMA.Kathisma32.incipit
-ocMA.Kathisma32.text = oc.m5.d2_en_UK_lash.ocMA.Kathisma32.text
+ocMA.Kathisma32.melody = oc.m5.d2_en_US_oca.ocMA.Kathisma32.melody
+ocMA.Kathisma32.incipit = oc.m5.d2_en_US_oca.ocMA.Kathisma32.incipit
+ocMA.Kathisma32.text = oc.m5.d2_en_US_oca.ocMA.Kathisma32.text
 
 ocMA.Kathisma33.mode = oc.m5.d2_en_US_dedes.ocMA.Kathisma33.mode
-ocMA.Kathisma33.melody = oc.m5.d2_en_UK_lash.ocMA.Kathisma33.melody
-ocMA.Kathisma33.incipit = oc.m5.d2_en_UK_lash.ocMA.Kathisma33.incipit
-ocMA.Kathisma33.text = oc.m5.d2_en_UK_lash.ocMA.Kathisma33.text
+ocMA.Kathisma33.melody = oc.m5.d2_en_US_oca.ocMA.Kathisma33.melody
+ocMA.Kathisma33.incipit = oc.m5.d2_en_US_oca.ocMA.Kathisma33.incipit
+ocMA.Kathisma33.text = oc.m5.d2_en_US_oca.ocMA.Kathisma33.text
 
 ocMA.C1.poet = oc.m5.d2_en_US_dedes.ocMA.C1.poet
 ocMA.C1.acrostic = oc.m5.d2_en_US_dedes.ocMA.C1.acrostic
@@ -545,13 +545,13 @@ ocMA.Aposticha2.text = oc.m5.d2_en_US_dedes.ocMA.Aposticha2.text
 
 ocMA.Aposticha3.mode = oc.m5.d2_en_US_dedes.ocMA.Aposticha3.mode
 ocMA.Aposticha3.melody = oc.m5.d2_en_US_dedes.ocMA.Aposticha3.melody
-ocMA.Aposticha3.incipit = oc.m5.d2_en_UK_lash.ocMA.Aposticha3.incipit
-ocMA.Aposticha3.text = oc.m5.d2_en_UK_lash.ocMA.Aposticha3.text
+ocMA.Aposticha3.incipit = oc.m5.d2_en_US_oca.ocMA.Aposticha3.incipit
+ocMA.Aposticha3.text = oc.m5.d2_en_US_oca.ocMA.Aposticha3.text
 
 ocMA.AposTheotokion.mode = oc.m5.d2_en_US_dedes.ocMA.AposTheotokion.mode
-ocMA.AposTheotokion.melody = oc.m5.d2_en_UK_lash.ocMA.AposTheotokion.melody
-ocMA.AposTheotokion.incipit = oc.m5.d2_en_UK_lash.ocMA.AposTheotokion.incipit
-ocMA.AposTheotokion.text = oc.m5.d2_en_UK_lash.ocMA.AposTheotokion.text
+ocMA.AposTheotokion.melody = oc.m5.d2_en_US_oca.ocMA.AposTheotokion.melody
+ocMA.AposTheotokion.incipit = oc.m5.d2_en_US_oca.ocMA.AposTheotokion.incipit
+ocMA.AposTheotokion.text = oc.m5.d2_en_US_oca.ocMA.AposTheotokion.text
 
 ocMA.ApolTheotokion.mode = oc.m5.d2_en_US_dedes.ocMA.ApolTheotokion.mode
 ocMA.ApolTheotokion.melody = oc.m5.d2_en_US_dedes.ocMA.ApolTheotokion.melody
@@ -625,14 +625,14 @@ octrMA.Triadic3.incipit = oc.m5.d2_en_US_dedes.octrMA.Triadic3.incipit
 octrMA.Triadic3.text = oc.m5.d2_en_US_dedes.octrMA.Triadic3.text
 
 octrMA.Kathisma11.mode = oc.m5.d2_en_US_dedes.octrMA.Kathisma11.mode
-octrMA.Kathisma11.melody = oc.m5.d2_en_UK_lash.octrMA.Kathisma11.melody
-octrMA.Kathisma11.incipit = oc.m5.d2_en_UK_lash.octrMA.Kathisma11.incipit
-octrMA.Kathisma11.text = oc.m5.d2_en_UK_lash.octrMA.Kathisma11.text
+octrMA.Kathisma11.melody = oc.m5.d2_en_US_oca.octrMA.Kathisma11.melody
+octrMA.Kathisma11.incipit = oc.m5.d2_en_US_oca.octrMA.Kathisma11.incipit
+octrMA.Kathisma11.text = oc.m5.d2_en_US_oca.octrMA.Kathisma11.text
 
 octrMA.Kathisma12.mode = oc.m5.d2_en_US_dedes.octrMA.Kathisma12.mode
-octrMA.Kathisma12.melody = oc.m5.d2_en_UK_lash.octrMA.Kathisma12.melody
-octrMA.Kathisma12.incipit = oc.m5.d2_en_UK_lash.octrMA.Kathisma12.incipit
-octrMA.Kathisma12.text = oc.m5.d2_en_UK_lash.octrMA.Kathisma12.text
+octrMA.Kathisma12.melody = oc.m5.d2_en_US_oca.octrMA.Kathisma12.melody
+octrMA.Kathisma12.incipit = oc.m5.d2_en_US_oca.octrMA.Kathisma12.incipit
+octrMA.Kathisma12.text = oc.m5.d2_en_US_oca.octrMA.Kathisma12.text
 
 octrMA.Kathisma1T.mode = oc.m5.d2_en_US_dedes.octrMA.Kathisma1T.mode
 octrMA.Kathisma1T.melody = oc.m5.d2_en_US_dedes.octrMA.Kathisma1T.melody

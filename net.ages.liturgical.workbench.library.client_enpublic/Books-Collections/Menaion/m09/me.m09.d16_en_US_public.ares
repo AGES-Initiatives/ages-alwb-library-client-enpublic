@@ -104,9 +104,9 @@ meMA.Kathisma21.incipit = me.m09.d16_en_US_unknown.meMA.Kathisma21.incipit
 meMA.Kathisma21.text = me.m09.d16_en_US_unknown.meMA.Kathisma21.text
 
 meMA.Kathisma22.mode = me.m09.d16_en_US_dedes.meMA.Kathisma22.mode
-meMA.Kathisma22.melody = me.m09.d16_en_UK_lash.meMA.Kathisma22.melody
-meMA.Kathisma22.incipit = me.m09.d16_en_UK_lash.meMA.Kathisma22.incipit
-meMA.Kathisma22.text = me.m09.d16_en_UK_lash.meMA.Kathisma22.text
+meMA.Kathisma22.melody = me.m09.d16_en_US_oca.meMA.Kathisma22.melody
+meMA.Kathisma22.incipit = me.m09.d16_en_US_oca.meMA.Kathisma22.incipit
+meMA.Kathisma22.text = me.m09.d16_en_US_oca.meMA.Kathisma22.text
 
 meMA.PostGospelIdiomelon.mode = me.m09.d16_en_US_dedes.meMA.PostGospelIdiomelon.mode
 meMA.PostGospelIdiomelon.melody = me.m09.d16_en_US_dedes.meMA.PostGospelIdiomelon.melody
