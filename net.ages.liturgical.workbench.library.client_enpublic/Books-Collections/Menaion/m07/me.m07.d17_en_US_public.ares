@@ -122,6 +122,8 @@ meMA.Kathisma2T.melody = me.m07.d17_en_US_dedes.meMA.Kathisma2T.melody
 meMA.Kathisma2T.incipit = me.m07.d17_en_US_dedes.meMA.Kathisma2T.incipit
 meMA.Kathisma2T.text = me.m07.d17_en_US_dedes.meMA.Kathisma2T.text
 
+meMA.R01 = me.m07.d17_en_US_dedes.meMA.R01
+
 meMA.Kathisma31.mode = me.m07.d17_en_US_dedes.meMA.Kathisma31.mode
 meMA.Kathisma31.melody = me.m07.d17_en_US_dedes.meMA.Kathisma31.melody
 meMA.Kathisma31.text = me.m07.d17_en_US_dedes.meMA.Kathisma31.text // see Σύστημα Τυπικοῦ
@@ -130,6 +132,8 @@ meMA.Kathisma3T.mode = me.m07.d17_en_US_dedes.meMA.Kathisma3T.mode
 meMA.Kathisma3T.melody = me.m07.d17_en_US_dedes.meMA.Kathisma3T.melody
 meMA.Kathisma3T.incipit = me.m07.d17_en_US_dedes.meMA.Kathisma3T.incipit
 meMA.Kathisma3T.text = me.m07.d17_en_US_dedes.meMA.Kathisma3T.text
+
+meMA.R02 = me.m07.d17_en_US_dedes.meMA.R02
 
 meMA.MM.Prokeimenon.text = properties_en_US_public.media.key
 
