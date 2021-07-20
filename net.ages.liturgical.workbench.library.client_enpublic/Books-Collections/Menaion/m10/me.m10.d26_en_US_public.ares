@@ -60,20 +60,20 @@ meVE.SticBoth.text = me.m10.d26_en_US_dedes.meVE.SticBoth.text
 meVE.Lity1.poet = me.m10.d26_en_US_dedes.meVE.Lity1.poet
 meVE.Lity1.mode = me.m10.d26_en_US_dedes.meVE.Lity1.mode
 meVE.Lity1.melody = me.m10.d26_en_US_dedes.meVE.Lity1.melody
-meVE.Lity1.incipit = me.m10.d26_en_UK_lash.meVE.Lity1.incipit
-meVE.Lity1.text = me.m10.d26_en_UK_lash.meVE.Lity1.text
+meVE.Lity1.incipit = me.m10.d26_en_US_oca.meVE.Lity1.incipit
+meVE.Lity1.text = me.m10.d26_en_US_oca.meVE.Lity1.text
 
 meVE.Lity2.poet = me.m10.d26_en_US_dedes.meVE.Lity2.poet
 meVE.Lity2.mode = me.m10.d26_en_US_dedes.meVE.Lity2.mode
 meVE.Lity2.melody = me.m10.d26_en_US_dedes.meVE.Lity2.melody
-meVE.Lity2.incipit = me.m10.d26_en_UK_lash.meVE.Lity2.incipit
-meVE.Lity2.text = me.m10.d26_en_UK_lash.meVE.Lity2.text
+meVE.Lity2.incipit = me.m10.d26_en_US_oca.meVE.Lity2.incipit
+meVE.Lity2.text = me.m10.d26_en_US_oca.meVE.Lity2.text
 
 meVE.LityGlory.poet = me.m10.d26_en_US_dedes.meVE.LityGlory.poet
 meVE.LityGlory.mode = me.m10.d26_en_US_dedes.meVE.LityGlory.mode
 meVE.LityGlory.melody = me.m10.d26_en_US_dedes.meVE.LityGlory.melody
-meVE.LityGlory.incipit = me.m10.d26_en_UK_lash.meVE.LityGlory.incipit
-meVE.LityGlory.text = me.m10.d26_en_UK_lash.meVE.LityGlory.text
+meVE.LityGlory.incipit = me.m10.d26_en_US_oca.meVE.LityGlory.incipit
+meVE.LityGlory.text = me.m10.d26_en_US_oca.meVE.LityGlory.text
 
 meVE.LityBoth.mode = me.m10.d26_en_US_dedes.meVE.LityBoth.mode
 meVE.LityBoth.melody = me.m10.d26_en_US_dedes.meVE.LityBoth.melody
