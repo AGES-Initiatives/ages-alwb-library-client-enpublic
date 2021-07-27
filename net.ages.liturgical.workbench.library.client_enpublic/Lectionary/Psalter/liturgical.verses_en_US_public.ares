@@ -1596,6 +1596,15 @@ psLI.aftercommunion.v1a.text = liturgical.verses_en_US_goa.psLI.aftercommunion.v
 psLI.aftercommunion.v1b.info = liturgical.verses_en_US_goa.psLI.aftercommunion.v1b.info
 psLI.aftercommunion.v1b.text = liturgical.verses_en_US_goa.psLI.aftercommunion.v1b.text
 
+psLI.james.overgifts.v1.info = liturgical.verses_en_US_holycross.psLI.james.overgifts.v1.info
+psLI.james.overgifts.v1.text = liturgical.verses_en_US_holycross.psLI.james.overgifts.v1.text
+psLI.james.overgifts.v2.info = liturgical.verses_en_US_holycross.psLI.james.overgifts.v2.info
+psLI.james.overgifts.v2.text = liturgical.verses_en_US_holycross.psLI.james.overgifts.v2.text
+psLI.james.overgifts.v3.info = liturgical.verses_en_US_holycross.psLI.james.overgifts.v3.info
+psLI.james.overgifts.v3.text = liturgical.verses_en_US_holycross.psLI.james.overgifts.v3.text
+psLI.james.overgifts.v4.info = liturgical.verses_en_US_holycross.psLI.james.overgifts.v4.info
+psLI.james.overgifts.v4.text = liturgical.verses_en_US_holycross.psLI.james.overgifts.v4.text
+
 psPL.incense.v1.info = liturgical.verses_en_US_saas.psPL.incense.v1.info
 psPL.incense.v1.text = liturgical.verses_en_US_saas.psPL.incense.v1.text
 psPL.incense.v2.info = liturgical.verses_en_US_saas.psPL.incense.v2.info
