@@ -10,10 +10,10 @@ ocGE.MM.GloryHeirmologic.text = properties_en_US_public.media.key
 
 ocGE.MM.BothHeirmologic.text = properties_en_US_public.media.key
 
-ocSV.Dogmatic.mode = oc.m2.d1_en_US_dedes.ocSV.Dogmatic.mode
-ocSV.Dogmatic.melody = oc.m2.d1_en_US_dedes.ocSV.Dogmatic.melody
-ocSV.Dogmatic.incipit = oc.m2.d1_en_US_dedes.ocSV.Dogmatic.incipit
-ocSV.Dogmatic.text = oc.m2.d1_en_US_dedes.ocSV.Dogmatic.text
+ocSV.Dogmatic.mode = oc.m2.d1_en_US_goadedes.ocSV.Dogmatic.mode
+ocSV.Dogmatic.melody = oc.m2.d1_en_US_goadedes.ocSV.Dogmatic.melody
+ocSV.Dogmatic.incipit = oc.m2.d1_en_US_goadedes.ocSV.Dogmatic.incipit
+ocSV.Dogmatic.text = oc.m2.d1_en_US_goadedes.ocSV.Dogmatic.text
 
 ocSV.Aposticha1.mode = oc.m2.d1_en_US_dedes.ocSV.Aposticha1.mode
 ocSV.Aposticha1.melody = oc.m2.d1_en_US_dedes.ocSV.Aposticha1.melody
