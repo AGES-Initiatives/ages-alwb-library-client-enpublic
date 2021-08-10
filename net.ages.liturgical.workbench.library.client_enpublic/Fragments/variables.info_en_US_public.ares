@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = variables.info_en_US_public 
 
-Notice1.text = "This is the text of the Divine Liturgy of St. John Chrysostom, as it is celebrated throughout most of the year. The variable parts have been omitted. It is intended to be used in conjunction with the \"Liturgy - Variable Parts\" files available each day on the AGES DCS."
-Notice2.text = "This is the text of the Divine Liturgy of St. Basil the Great, as it is celebrated on January 1 and the Sundays of Lent. The variable parts have been omitted. It is intended to be used in conjunction with the \"Liturgy - Variable Parts\" files available each day on the AGES DCS."
+Notice1.text = "This is the text of the Divine Liturgy of St. John Chrysostom, as it is celebrated throughout most of the year. The variable parts have been omitted. It is intended to be used in conjunction with the \"Liturgy - Variable Parts\" files available each day on the GOA DCS."
+Notice2.text = "This is the text of the Divine Liturgy of St. Basil the Great, as it is celebrated on January 1 and the Sundays of Lent. The variable parts have been omitted. It is intended to be used in conjunction with the \"Liturgy - Variable Parts\" files available each day on the GOA DCS."
 
 Antiphon1.title = "The 1st Antiphon"
 Antiphon1.text = "(See Variable Parts.)"
