@@ -24,13 +24,13 @@ meVE.Stichera01.text = me.m08.d29_en_US_dedes.meVE.Stichera01.text
 
 meVE.Stichera02.mode = me.m08.d29_en_US_dedes.meVE.Stichera02.mode
 meVE.Stichera02.melody = me.m08.d29_en_US_dedes.meVE.Stichera02.melody
-meVE.Stichera02.incipit = me.m08.d29_en_UK_lash.meVE.Stichera02.incipit
-meVE.Stichera02.text = me.m08.d29_en_UK_lash.meVE.Stichera02.text
+meVE.Stichera02.incipit = me.m08.d29_en_US_oca.meVE.Stichera02.incipit
+meVE.Stichera02.text = me.m08.d29_en_US_oca.meVE.Stichera02.text
 
 meVE.Stichera03.mode = me.m08.d29_en_US_dedes.meVE.Stichera03.mode
 meVE.Stichera03.melody = me.m08.d29_en_US_dedes.meVE.Stichera03.melody
-meVE.Stichera03.incipit = me.m08.d29_en_UK_lash.meVE.Stichera03.incipit
-meVE.Stichera03.text = me.m08.d29_en_UK_lash.meVE.Stichera03.text
+meVE.Stichera03.incipit = me.m08.d29_en_US_oca.meVE.Stichera03.incipit
+meVE.Stichera03.text = me.m08.d29_en_US_oca.meVE.Stichera03.text
 
 meVE.Stichera04.mode = me.m08.d29_en_US_dedes.meVE.Stichera04.mode
 meVE.Stichera04.melody = me.m08.d29_en_US_dedes.meVE.Stichera04.melody
@@ -81,13 +81,13 @@ meVE.Aposticha1.text = me.m08.d29_en_US_dedes.meVE.Aposticha1.text
 
 meVE.Aposticha2.mode = me.m08.d29_en_US_dedes.meVE.Aposticha2.mode
 meVE.Aposticha2.melody = me.m08.d29_en_US_dedes.meVE.Aposticha2.melody
-meVE.Aposticha2.incipit = me.m08.d29_en_UK_lash.meVE.Aposticha2.incipit
-meVE.Aposticha2.text = me.m08.d29_en_UK_lash.meVE.Aposticha2.text
+meVE.Aposticha2.incipit = me.m08.d29_en_US_oca.meVE.Aposticha2.incipit
+meVE.Aposticha2.text = me.m08.d29_en_US_oca.meVE.Aposticha2.text
 
 meVE.Aposticha3.mode = me.m08.d29_en_US_dedes.meVE.Aposticha3.mode
 meVE.Aposticha3.melody = me.m08.d29_en_US_dedes.meVE.Aposticha3.melody
-meVE.Aposticha3.incipit = me.m08.d29_en_UK_lash.meVE.Aposticha3.incipit
-meVE.Aposticha3.text = me.m08.d29_en_UK_lash.meVE.Aposticha3.text
+meVE.Aposticha3.incipit = me.m08.d29_en_US_oca.meVE.Aposticha3.incipit
+meVE.Aposticha3.text = me.m08.d29_en_US_oca.meVE.Aposticha3.text
 
 meVE.AposGlory.mode = me.m08.d29_en_US_dedes.meVE.AposGlory.mode
 meVE.AposGlory.melody = me.m08.d29_en_US_dedes.meVE.AposGlory.melody
