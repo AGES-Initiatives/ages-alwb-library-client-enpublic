@@ -41,6 +41,8 @@ ocVE.MM.LIHC2.text = properties_en_US_public.media.key
 
 ocVE.MM.Stichologia.text = properties_en_US_public.media.key
 
+ocBK.ModeNaked = oc.m8.d1_en_US_dedes.ocBK.ModeNaked
+
 ocVE.Stichera1.mode = oc.m8.d1_en_US_dedes.ocVE.Stichera1.mode
 ocVE.Stichera1.melody = ""
 ocVE.Stichera1.incipit = oc.m8.d1_en_US_holycross.ocVE.Stichera1.incipit

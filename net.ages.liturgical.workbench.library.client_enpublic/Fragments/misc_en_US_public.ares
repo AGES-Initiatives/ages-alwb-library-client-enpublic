@@ -35,13 +35,21 @@ vVerse4 = misc_en_US_dedes.vVerse4
 
 Mode0 = misc_en_US_dedes.Mode0
 Mode1 = misc_en_US_dedes.Mode1
+Mode1.naked = misc_en_US_dedes.Mode1.naked
 Mode2 = misc_en_US_dedes.Mode2
+Mode2.naked = misc_en_US_dedes.Mode2.naked
 Mode3 = misc_en_US_dedes.Mode3
+Mode3.naked = misc_en_US_dedes.Mode3.naked
 Mode4 = misc_en_US_dedes.Mode4
+Mode4.naked = misc_en_US_dedes.Mode4.naked
 Mode5 = misc_en_US_dedes.Mode5
+Mode5.naked = misc_en_US_dedes.Mode5.naked
 Mode6 = misc_en_US_dedes.Mode6
+Mode6.naked = misc_en_US_dedes.Mode6.naked
 Mode7 = misc_en_US_dedes.Mode7
+Mode7.naked = misc_en_US_dedes.Mode7.naked
 Mode8 = misc_en_US_dedes.Mode8
+Mode8.naked = misc_en_US_dedes.Mode8.naked
 ModeVariable = misc_en_US_dedes.ModeVariable
 ModeNA = misc_en_US_dedes.ModeNA
 
