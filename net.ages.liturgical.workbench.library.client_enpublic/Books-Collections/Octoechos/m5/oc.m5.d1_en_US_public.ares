@@ -25,10 +25,10 @@ ocSV.Aposticha2.melody = oc.m5.d1_en_UK_lash.ocSV.Aposticha2.melody
 ocSV.Aposticha2.incipit = oc.m5.d1_en_UK_lash.ocSV.Aposticha2.incipit
 ocSV.Aposticha2.text = oc.m5.d1_en_UK_lash.ocSV.Aposticha2.text
 
-ocSV.Aposticha3.mode = oc.m5.d1_en_US_dedes.ocSV.Aposticha3.mode
-ocSV.Aposticha3.melody = oc.m5.d1_en_UK_lash.ocSV.Aposticha3.melody
-ocSV.Aposticha3.incipit = oc.m5.d1_en_UK_lash.ocSV.Aposticha3.incipit
-ocSV.Aposticha3.text = oc.m5.d1_en_UK_lash.ocSV.Aposticha3.text
+ocSV.Aposticha3.mode = oc.m5.d1_en_US_goadedes.ocSV.Aposticha3.mode
+ocSV.Aposticha3.melody = oc.m5.d1_en_US_goadedes.ocSV.Aposticha3.melody
+ocSV.Aposticha3.incipit = oc.m5.d1_en_US_goadedes.ocSV.Aposticha3.incipit
+ocSV.Aposticha3.text = oc.m5.d1_en_US_goadedes.ocSV.Aposticha3.text
 
 ocSV.AposDogmatic.mode = oc.m5.d1_en_US_dedes.ocSV.AposDogmatic.mode
 ocSV.AposDogmatic.melody = oc.m5.d1_en_UK_lash.ocSV.AposDogmatic.melody

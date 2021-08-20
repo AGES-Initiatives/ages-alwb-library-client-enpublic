@@ -32,10 +32,10 @@ ocVE.Stichera6.melody = oc.m6.d4_en_UK_lash.ocVE.Stichera6.melody
 ocVE.Stichera6.incipit = oc.m6.d4_en_UK_lash.ocVE.Stichera6.incipit
 ocVE.Stichera6.text = oc.m6.d4_en_UK_lash.ocVE.Stichera6.text
 
-ocVE.SticTheotokion.mode = oc.m6.d4_en_US_dedes.ocVE.SticTheotokion.mode
-ocVE.SticTheotokion.melody = oc.m6.d4_en_UK_lash.ocVE.SticTheotokion.melody
-ocVE.SticTheotokion.incipit = oc.m6.d4_en_UK_lash.ocVE.SticTheotokion.incipit
-ocVE.SticTheotokion.text = oc.m6.d4_en_UK_lash.ocVE.SticTheotokion.text
+ocVE.SticTheotokion.mode = oc.m6.d4_en_US_goadedes.ocVE.SticTheotokion.mode
+ocVE.SticTheotokion.melody = oc.m6.d4_en_US_goadedes.ocVE.SticTheotokion.melody
+ocVE.SticTheotokion.incipit = oc.m6.d4_en_US_goadedes.ocVE.SticTheotokion.incipit
+ocVE.SticTheotokion.text = oc.m6.d4_en_US_goadedes.ocVE.SticTheotokion.text
 
 ocVE.Aposticha1.mode = oc.m6.d4_en_US_dedes.ocVE.Aposticha1.mode
 ocVE.Aposticha1.melody = oc.m6.d4_en_US_dedes.ocVE.Aposticha1.melody
