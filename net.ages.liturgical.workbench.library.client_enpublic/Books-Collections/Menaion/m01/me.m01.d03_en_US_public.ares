@@ -48,7 +48,7 @@ meVE.Stichera06.text = me.m01.d03_en_US_dedes.meVE.Stichera06.text
 
 meVE.SticGlory.poet = me.m01.d03_en_US_dedes.meVE.SticGlory.poet
 meVE.SticGlory.mode = me.m01.d03_en_US_dedes.meVE.SticGlory.mode
-meVE.SticGlory.melody = me.m01.d03_en_US_dedes.meVE.SticGlory.melody
+meVE.SticGlory.melody = me.m01.d03_en_US_oca.meVE.SticGlory.melody
 meVE.SticGlory.incipit = me.m01.d03_en_UK_lash.meVE.SticGlory.incipit
 meVE.SticGlory.text = me.m01.d03_en_UK_lash.meVE.SticGlory.text
 
@@ -176,7 +176,7 @@ meCO.Ode8C2H.ode = me.m01.d03_en_US_dedes.meCO.Ode8C2H.ode
 meCO.Ode8C2H.mode = me.m01.d03_en_US_dedes.meCO.Ode8C2H.mode
 meCO.Ode8C2H.melody = me.m01.d03_en_UK_lash.meCO.Ode8C2H.melody
 meCO.Ode8C2H.incipit = me.m01.d03_en_UK_lash.meCO.Ode8C2H.incipit
-meCO.Ode8C2H.text = me.m01.d03_en_UK_lash.meCO.Ode8C2H.text
+meCO.Ode8C2H.text = me.m01.d03_en_US_dedes.meCO.Ode8C2H.text
 
 meCO.Ode9C1H.ode = me.m01.d03_en_US_dedes.meCO.Ode9C1H.ode
 meCO.Ode9C1H.mode = me.m01.d03_en_US_dedes.meCO.Ode9C1H.mode
@@ -960,9 +960,9 @@ meMA.Aposticha3.incipit = me.m01.d03_en_UK_lash.meMA.Aposticha3.incipit
 meMA.Aposticha3.text = me.m01.d03_en_UK_lash.meMA.Aposticha3.text
 
 meMA.AposGlory.mode = me.m01.d03_en_US_dedes.meMA.AposGlory.mode
-meMA.AposGlory.melody = me.m01.d03_en_US_dedes.meMA.AposGlory.melody
-meMA.AposGlory.incipit = me.m01.d03_en_UK_lash.meMA.AposGlory.incipit
-meMA.AposGlory.text = me.m01.d03_en_UK_lash.meMA.AposGlory.text
+meMA.AposGlory.melody = me.m01.d03_en_US_oca.meMA.AposGlory.melody
+meMA.AposGlory.incipit = me.m01.d03_en_US_oca.meMA.AposGlory.incipit
+meMA.AposGlory.text = me.m01.d03_en_US_oca.meMA.AposGlory.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
