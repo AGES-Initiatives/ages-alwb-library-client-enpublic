@@ -82,9 +82,9 @@ meVE.Aposticha3.text = me.m02.d03_en_US_dedes.meVE.Aposticha3.text
 
 meVE.AposGlory.poet = me.m02.d03_en_US_dedes.meVE.AposGlory.poet
 meVE.AposGlory.mode = me.m02.d03_en_US_dedes.meVE.AposGlory.mode
-meVE.AposGlory.melody = me.m02.d03_en_US_dedes.meVE.AposGlory.melody
-meVE.AposGlory.incipit = me.m02.d03_en_UK_lash.meVE.AposGlory.incipit
-meVE.AposGlory.text = me.m02.d03_en_UK_lash.meVE.AposGlory.text
+meVE.AposGlory.melody = me.m02.d03_en_US_oca.meVE.AposGlory.melody
+meVE.AposGlory.incipit = me.m02.d03_en_US_oca.meVE.AposGlory.incipit
+meVE.AposGlory.text = me.m02.d03_en_US_oca.meVE.AposGlory.text
 
 meVE.Apolytikion1.mode = me.m02.d03_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m02.d03_en_US_dedes.meVE.Apolytikion1.melody

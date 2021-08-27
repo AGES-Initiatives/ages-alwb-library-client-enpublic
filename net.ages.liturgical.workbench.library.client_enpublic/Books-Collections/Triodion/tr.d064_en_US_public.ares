@@ -205,9 +205,9 @@ trMA.C1.acrostic = tr.d064_en_US_dedes.trMA.C1.acrostic
 
 trMA.Ode1C1H.ode = tr.d064_en_US_dedes.trMA.Ode1C1H.ode
 trMA.Ode1C1H.mode = tr.d064_en_US_dedes.trMA.Ode1C1H.mode
-trMA.Ode1C1H.melody = tr.d064_en_UK_lash.trMA.Ode1C1H.melody
-trMA.Ode1C1H.incipit = tr.d064_en_UK_lash.trMA.Ode1C1H.incipit
-trMA.Ode1C1H.text = tr.d064_en_UK_lash.trMA.Ode1C1H.text
+trMA.Ode1C1H.melody = tr.d064_en_US_dedes.trMA.Ode1C1H.melody
+trMA.Ode1C1H.incipit = tr.d064_en_US_dedes.trMA.Ode1C1H.incipit
+trMA.Ode1C1H.text = tr.d064_en_US_dedes.trMA.Ode1C1H.text
 
 trMA.C1.title = tr.d064_en_US_dedes.trMA.C1.title
 trMA.C1.verse = tr.d064_en_US_dedes.trMA.C1.verse
@@ -226,9 +226,9 @@ trMA.Ode1C12.text = tr.d064_en_UK_lash.trMA.Ode1C12.text
 
 trMA.Ode3C1H.ode = tr.d064_en_US_dedes.trMA.Ode3C1H.ode
 trMA.Ode3C1H.mode = tr.d064_en_US_dedes.trMA.Ode3C1H.mode
-trMA.Ode3C1H.melody = tr.d064_en_UK_lash.trMA.Ode3C1H.melody
-trMA.Ode3C1H.incipit = tr.d064_en_UK_lash.trMA.Ode3C1H.incipit
-trMA.Ode3C1H.text = tr.d064_en_UK_lash.trMA.Ode3C1H.text
+trMA.Ode3C1H.melody = tr.d064_en_US_dedes.trMA.Ode3C1H.melody
+trMA.Ode3C1H.incipit = tr.d064_en_US_dedes.trMA.Ode3C1H.incipit
+trMA.Ode3C1H.text = tr.d064_en_US_dedes.trMA.Ode3C1H.text
 
 trMA.Ode3C11.ode = tr.d064_en_US_dedes.trMA.Ode3C11.ode
 trMA.Ode3C11.mode = tr.d064_en_US_dedes.trMA.Ode3C11.mode
@@ -249,9 +249,9 @@ trMA.Hypakoe.text = tr.d064_en_US_duvall.trMA.Hypakoe.text
 
 trMA.Ode4C1H.ode = tr.d064_en_US_dedes.trMA.Ode4C1H.ode
 trMA.Ode4C1H.mode = tr.d064_en_US_dedes.trMA.Ode4C1H.mode
-trMA.Ode4C1H.melody = tr.d064_en_UK_lash.trMA.Ode4C1H.melody
-trMA.Ode4C1H.incipit = tr.d064_en_UK_lash.trMA.Ode4C1H.incipit
-trMA.Ode4C1H.text = tr.d064_en_UK_lash.trMA.Ode4C1H.text
+trMA.Ode4C1H.melody = tr.d064_en_US_dedes.trMA.Ode4C1H.melody
+trMA.Ode4C1H.incipit = tr.d064_en_US_dedes.trMA.Ode4C1H.incipit
+trMA.Ode4C1H.text = tr.d064_en_US_dedes.trMA.Ode4C1H.text
 
 trMA.Ode4C11.ode = tr.d064_en_US_dedes.trMA.Ode4C11.ode
 trMA.Ode4C11.mode = tr.d064_en_US_dedes.trMA.Ode4C11.mode
@@ -273,9 +273,9 @@ trMA.Ode4C13.text = tr.d064_en_UK_lash.trMA.Ode4C13.text
 
 trMA.Ode5C1H.ode = tr.d064_en_US_dedes.trMA.Ode5C1H.ode
 trMA.Ode5C1H.mode = tr.d064_en_US_dedes.trMA.Ode5C1H.mode
-trMA.Ode5C1H.melody = tr.d064_en_UK_lash.trMA.Ode5C1H.melody
-trMA.Ode5C1H.incipit = tr.d064_en_UK_lash.trMA.Ode5C1H.incipit
-trMA.Ode5C1H.text = tr.d064_en_UK_lash.trMA.Ode5C1H.text
+trMA.Ode5C1H.melody = tr.d064_en_US_dedes.trMA.Ode5C1H.melody
+trMA.Ode5C1H.incipit = tr.d064_en_US_dedes.trMA.Ode5C1H.incipit
+trMA.Ode5C1H.text = tr.d064_en_US_dedes.trMA.Ode5C1H.text
 
 trMA.Ode5C11.ode = tr.d064_en_US_dedes.trMA.Ode5C11.ode
 trMA.Ode5C11.mode = tr.d064_en_US_dedes.trMA.Ode5C11.mode
@@ -291,9 +291,9 @@ trMA.Ode5C12.text = tr.d064_en_UK_lash.trMA.Ode5C12.text
 
 trMA.Ode6C1H.ode = tr.d064_en_US_dedes.trMA.Ode6C1H.ode
 trMA.Ode6C1H.mode = tr.d064_en_US_dedes.trMA.Ode6C1H.mode
-trMA.Ode6C1H.melody = tr.d064_en_UK_lash.trMA.Ode6C1H.melody
-trMA.Ode6C1H.incipit = tr.d064_en_UK_lash.trMA.Ode6C1H.incipit
-trMA.Ode6C1H.text = tr.d064_en_UK_lash.trMA.Ode6C1H.text
+trMA.Ode6C1H.melody = tr.d064_en_US_dedes.trMA.Ode6C1H.melody
+trMA.Ode6C1H.incipit = tr.d064_en_US_dedes.trMA.Ode6C1H.incipit
+trMA.Ode6C1H.text = tr.d064_en_US_dedes.trMA.Ode6C1H.text
 
 trMA.Ode6C11.ode = tr.d064_en_US_dedes.trMA.Ode6C11.ode
 trMA.Ode6C11.mode = tr.d064_en_US_dedes.trMA.Ode6C11.mode
@@ -329,9 +329,9 @@ trSY.lastline = tr.d064_en_US_dedes.trSY.lastline
 
 trMA.Ode7C1H.ode = tr.d064_en_US_dedes.trMA.Ode7C1H.ode
 trMA.Ode7C1H.mode = tr.d064_en_US_dedes.trMA.Ode7C1H.mode
-trMA.Ode7C1H.melody = tr.d064_en_UK_lash.trMA.Ode7C1H.melody
-trMA.Ode7C1H.incipit = tr.d064_en_UK_lash.trMA.Ode7C1H.incipit
-trMA.Ode7C1H.text = tr.d064_en_UK_lash.trMA.Ode7C1H.text
+trMA.Ode7C1H.melody = tr.d064_en_US_dedes.trMA.Ode7C1H.melody
+trMA.Ode7C1H.incipit = tr.d064_en_US_dedes.trMA.Ode7C1H.incipit
+trMA.Ode7C1H.text = tr.d064_en_US_dedes.trMA.Ode7C1H.text
 
 trMA.Ode7C11.ode = tr.d064_en_US_dedes.trMA.Ode7C11.ode
 trMA.Ode7C11.mode = tr.d064_en_US_dedes.trMA.Ode7C11.mode
@@ -353,9 +353,9 @@ trMA.Ode7C13.text = tr.d064_en_UK_lash.trMA.Ode7C13.text
 
 trMA.Ode8C1H.ode = tr.d064_en_US_dedes.trMA.Ode8C1H.ode
 trMA.Ode8C1H.mode = tr.d064_en_US_dedes.trMA.Ode8C1H.mode
-trMA.Ode8C1H.melody = tr.d064_en_UK_lash.trMA.Ode8C1H.melody
-trMA.Ode8C1H.incipit = tr.d064_en_UK_lash.trMA.Ode8C1H.incipit
-trMA.Ode8C1H.text = tr.d064_en_UK_lash.trMA.Ode8C1H.text
+trMA.Ode8C1H.melody = tr.d064_en_US_dedes.trMA.Ode8C1H.melody
+trMA.Ode8C1H.incipit = tr.d064_en_US_dedes.trMA.Ode8C1H.incipit
+trMA.Ode8C1H.text = tr.d064_en_US_dedes.trMA.Ode8C1H.text
 
 trMA.Ode8C11.ode = tr.d064_en_US_dedes.trMA.Ode8C11.ode
 trMA.Ode8C11.mode = tr.d064_en_US_dedes.trMA.Ode8C11.mode
