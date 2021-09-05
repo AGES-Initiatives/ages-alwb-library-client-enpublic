@@ -192,9 +192,9 @@ meMA.Ode3C2T.text = me.m10.d22_en_US_andronache.meMA.Ode3C2T.text
 
 meMA.Ode3H.ode = me.m10.d22_en_US_andronache.meMA.Ode3H.ode
 meMA.Ode3H.mode = me.m10.d22_en_US_andronache.meMA.Ode3H.mode
-meMA.Ode3H.melody = me.m10.d22_en_US_andronache.meMA.Ode3H.melody
-meMA.Ode3H.incipit = me.m10.d22_en_US_andronache.meMA.Ode3H.incipit
-meMA.Ode3H.text = me.m10.d22_en_US_andronache.meMA.Ode3H.text
+meMA.Ode3H.melody = me.m10.d22_en_US_dedes.meMA.Ode3H.melody
+meMA.Ode3H.incipit = me.m10.d22_en_US_dedes.meMA.Ode3H.incipit
+meMA.Ode3H.text = me.m10.d22_en_US_dedes.meMA.Ode3H.text
 
 meMA.Ode3Kathisma1.mode = me.m10.d22_en_US_andronache.meMA.Ode3Kathisma1.mode
 meMA.Ode3Kathisma1.melody = me.m10.d22_en_US_andronache.meMA.Ode3Kathisma1.melody
