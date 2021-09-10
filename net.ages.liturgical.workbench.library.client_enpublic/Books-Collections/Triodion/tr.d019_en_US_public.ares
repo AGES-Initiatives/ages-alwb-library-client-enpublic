@@ -15,8 +15,8 @@ trCO.header = tr.d019_en_US_dedes.trCO.header
 
 trVE.AposIdiomelon1.mode = tr.d019_en_US_dedes.trVE.AposIdiomelon1.mode
 trVE.AposIdiomelon1.melody = tr.d019_en_US_dedes.trVE.AposIdiomelon1.melody
-trVE.AposIdiomelon1.incipit = tr.d019_en_UK_lash.trVE.AposIdiomelon1.incipit
-trVE.AposIdiomelon1.text = tr.d019_en_UK_lash.trVE.AposIdiomelon1.text
+trVE.AposIdiomelon1.incipit = tr.d019_en_US_oca.trVE.AposIdiomelon1.incipit
+trVE.AposIdiomelon1.text = tr.d019_en_US_oca.trVE.AposIdiomelon1.text
 
 trVE.AposMartyric.mode = tr.d019_en_US_dedes.trVE.AposMartyric.mode
 trVE.AposMartyric.melody = tr.d019_en_US_dedes.trVE.AposMartyric.melody
@@ -244,9 +244,9 @@ trMA.AposIdiomelon1.incipit = tr.d019_en_UK_ware.trMA.AposIdiomelon1.incipit
 trMA.AposIdiomelon1.text = tr.d019_en_UK_ware.trMA.AposIdiomelon1.text
 
 trMA.AposMartyric.mode = tr.d019_en_US_dedes.trMA.AposMartyric.mode
-trMA.AposMartyric.melody = tr.d019_en_UK_lash.trMA.AposMartyric.melody
-trMA.AposMartyric.incipit = tr.d019_en_UK_lash.trMA.AposMartyric.incipit
-trMA.AposMartyric.text = tr.d019_en_UK_lash.trMA.AposMartyric.text
+trMA.AposMartyric.melody = tr.d019_en_US_oca.trMA.AposMartyric.melody
+trMA.AposMartyric.incipit = tr.d019_en_US_oca.trMA.AposMartyric.incipit
+trMA.AposMartyric.text = tr.d019_en_US_oca.trMA.AposMartyric.text
 
 trMA.AposTheotokion.mode = tr.d019_en_US_dedes.trMA.AposTheotokion.mode
 trMA.AposTheotokion.melody = tr.d019_en_US_dedes.trMA.AposTheotokion.melody

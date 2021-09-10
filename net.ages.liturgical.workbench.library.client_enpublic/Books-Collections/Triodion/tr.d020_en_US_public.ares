@@ -15,8 +15,8 @@ trCO.header = tr.d020_en_US_dedes.trCO.header
 
 trVE.AposIdiomelon1.mode = tr.d020_en_US_dedes.trVE.AposIdiomelon1.mode
 trVE.AposIdiomelon1.melody = tr.d020_en_US_dedes.trVE.AposIdiomelon1.melody
-trVE.AposIdiomelon1.incipit = tr.d020_en_UK_lash.trVE.AposIdiomelon1.incipit
-trVE.AposIdiomelon1.text = tr.d020_en_UK_lash.trVE.AposIdiomelon1.text
+trVE.AposIdiomelon1.incipit = tr.d020_en_US_oca.trVE.AposIdiomelon1.incipit
+trVE.AposIdiomelon1.text = tr.d020_en_US_oca.trVE.AposIdiomelon1.text
 
 trVE.AposMartyric.mode = tr.d020_en_US_dedes.trVE.AposMartyric.mode
 trVE.AposMartyric.melody = tr.d020_en_US_dedes.trVE.AposMartyric.melody
