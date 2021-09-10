@@ -11,6 +11,7 @@ trHO.description1 = tr.d022_en_US_dedes.trHO.description1
 trHO.description2 = tr.d022_en_US_dedes.trHO.description2
 trHO.note1 = tr.d022_en_US_dedes.trHO.note1
 trHO.note2 = tr.d022_en_US_dedes.trHO.note2
+trCO.header = tr.d022_en_US_dedes.trCO.header
 trDA.dismissal = tr.d022_en_US_dedes.trDA.dismissal
 
 trVE.Stichera01.mode = tr.d022_en_US_dedes.trVE.Stichera01.mode
@@ -37,7 +38,7 @@ trVE.MM.Stichera123as567.text = properties_en_US_public.media.key
 
 trVE.SticGlory.mode = tr.d022_en_US_dedes.trVE.SticGlory.mode
 trVE.SticGlory.melody = tr.d022_en_US_dedes.trVE.SticGlory.melody
-trVE.SticGlory.incipit = tr.d022_en_UK_lash.trVE.SticGlory.incipit
+trVE.SticGlory.incipit = tr.d022_en_US_oca.trVE.SticGlory.incipit
 trVE.SticGlory.text = tr.d022_en_US_oca.trVE.SticGlory.text
 
 trVE.LityGlory.mode = tr.d022_en_US_dedes.trVE.LityGlory.mode
@@ -52,8 +53,8 @@ trVE.LityBoth.text = tr.d022_en_US_dedes.trVE.LityBoth.text
 
 trVE.AposGlory.mode = tr.d022_en_US_dedes.trVE.AposGlory.mode
 trVE.AposGlory.melody = tr.d022_en_US_dedes.trVE.AposGlory.melody
-trVE.AposGlory.incipit = tr.d022_en_UK_lash.trVE.AposGlory.incipit
-trVE.AposGlory.text = tr.d022_en_UK_lash.trVE.AposGlory.text
+trVE.AposGlory.incipit = tr.d022_en_US_oca.trVE.AposGlory.incipit
+trVE.AposGlory.text = tr.d022_en_US_oca.trVE.AposGlory.text
 
 trVE.AposTheotokion.mode = oc.m6.d1_en_US_public.ocVE.AposTheotokion.mode
 trVE.AposTheotokion.melody = oc.m6.d1_en_US_public.ocVE.AposTheotokion.melody
