@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = ho.s02_en_US_public
 
-hoMO.AfterCreedTheotokion.text = ho.s02_en_UK_lash.hoMO.AfterCreedTheotokion.text
+hoMO.AfterCreedTheotokion.text = ho.s02_en_US_goadedes.hoMO.AfterCreedTheotokion.text
 
 hoMO.StEphraimPrayerRubrics1.text = ho.s02_en_US_dedes.hoMO.StEphraimPrayerRubrics1.text
 hoMO.StEphraimPrayerRubrics2.text = ho.s02_en_US_dedes.hoMO.StEphraimPrayerRubrics2.text
@@ -8,21 +8,21 @@ hoMO.StEphraimPrayerRubrics2.text = ho.s02_en_US_dedes.hoMO.StEphraimPrayerRubri
 hoMO.StEphraimPrayerLentenRubrics1.text = ho.s02_en_US_dedes.hoMO.StEphraimPrayerLentenRubrics1.text
 hoMO.StEphraimPrayerLentenRubrics2.text = ho.s02_en_US_dedes.hoMO.StEphraimPrayerLentenRubrics2.text
 
-ho.MO.StMardariosPrayer.title = ho.s02_en_UK_lash.ho.MO.StMardariosPrayer.title
-ho.MO.StMardariosPrayer.text = ho.s02_en_UK_lash.ho.MO.StMardariosPrayer.text
+ho.MO.StMardariosPrayer.title = ho.s02_en_US_holycross.ho.MO.StMardariosPrayer.title
+ho.MO.StMardariosPrayer.text = ho.s02_en_US_holycross.ho.MO.StMardariosPrayer.text
 ho.MO.StMardariosPrayer.rubric = ""
 
-ho.MO.StBasilPrayer1.rubric = ho.s02_en_UK_lash.ho.MO.StBasilPrayer1.rubric
-ho.MO.StBasilPrayer1.title = ho.s02_en_UK_lash.ho.MO.StBasilPrayer1.title
-ho.MO.StBasilPrayer1.text = ho.s02_en_UK_lash.ho.MO.StBasilPrayer1.text
+ho.MO.StBasilPrayer1.rubric = ho.s02_en_US_goadedes.ho.MO.StBasilPrayer1.rubric
+ho.MO.StBasilPrayer1.title = ho.s02_en_US_oca.ho.MO.StBasilPrayer1.title
+ho.MO.StBasilPrayer1.text = ho.s02_en_US_oca.ho.MO.StBasilPrayer1.text
 
-ho.MO.StBasilPrayer2.rubric = ho.s02_en_UK_lash.ho.MO.StBasilPrayer2.rubric
-ho.MO.StBasilPrayer2.title = ho.s02_en_UK_lash.ho.MO.StBasilPrayer2.title
-ho.MO.StBasilPrayer2.text = ho.s02_en_UK_lash.ho.MO.StBasilPrayer2.text
+ho.MO.StBasilPrayer2.rubric = ho.s02_en_US_goadedes.ho.MO.StBasilPrayer2.rubric
+ho.MO.StBasilPrayer2.title = ho.s02_en_US_holycross.ho.MO.StBasilPrayer2.title
+ho.MO.StBasilPrayer2.text = ho.s02_en_US_holycross.ho.MO.StBasilPrayer2.text
 
-hoMO.PrayerForDeceased.rubric = ho.s02_en_UK_lash.hoMO.PrayerForDeceased.rubric
-hoMO.PrayerForDeceased.title = ho.s02_en_UK_lash.hoMO.PrayerForDeceased.title
-hoMO.PrayerForDeceased.text = ho.s02_en_UK_lash.hoMO.PrayerForDeceased.text
+hoMO.PrayerForDeceased.rubric = ho.s02_en_US_goadedes.hoMO.PrayerForDeceased.rubric
+hoMO.PrayerForDeceased.title = ho.s02_en_US_holycross.hoMO.PrayerForDeceased.title
+hoMO.PrayerForDeceased.text = ho.s02_en_US_holycross.hoMO.PrayerForDeceased.text
 
 hoMO.TriadicMegalynaria.title = ho.s02_en_US_dedes.hoMO.TriadicMegalynaria.title
 hoMO.TriadicMegalynaria.mode = ho.s02_en_US_dedes.hoMO.TriadicMegalynaria.mode
@@ -43,6 +43,6 @@ hoMO.SaturdayTroparion2.text = ho.s02_en_US_dedes.hoMO.SaturdayTroparion2.text
 hoMO.SaturdayTroparion3.incipit = ho.s02_en_US_dedes.hoMO.SaturdayTroparion3.incipit
 hoMO.SaturdayTroparion3.text = ho.s02_en_US_dedes.hoMO.SaturdayTroparion3.text
 
-ho.MO.StEfstratiosPrayer.rubric = ho.s02_en_UK_lash.ho.MO.StEfstratiosPrayer.rubric
-ho.MO.StEfstratiosPrayer.title = ho.s02_en_UK_lash.ho.MO.StEfstratiosPrayer.title
-ho.MO.StEfstratiosPrayer.text = ho.s02_en_UK_lash.ho.MO.StEfstratiosPrayer.text
+ho.MO.StEfstratiosPrayer.rubric = ho.s02_en_US_goadedes.ho.MO.StEfstratiosPrayer.rubric
+ho.MO.StEfstratiosPrayer.title = ho.s02_en_US_holycross.ho.MO.StEfstratiosPrayer.title
+ho.MO.StEfstratiosPrayer.text = ho.s02_en_US_holycross.ho.MO.StEfstratiosPrayer.text
