@@ -633,9 +633,9 @@ octrMA.Triadic3.incipit = oc.m4.d5_en_US_dedes.octrMA.Triadic3.incipit
 octrMA.Triadic3.text = oc.m4.d5_en_US_dedes.octrMA.Triadic3.text
 
 octrMA.Kathisma11.mode = oc.m4.d5_en_US_dedes.octrMA.Kathisma11.mode
-octrMA.Kathisma11.melody = oc.m4.d5_en_UK_lash.octrMA.Kathisma11.melody
-octrMA.Kathisma11.incipit = oc.m4.d5_en_UK_lash.octrMA.Kathisma11.incipit
-octrMA.Kathisma11.text = oc.m4.d5_en_UK_lash.octrMA.Kathisma11.text
+octrMA.Kathisma11.melody = oc.m4.d5_en_US_oca.octrMA.Kathisma11.melody
+octrMA.Kathisma11.incipit = oc.m4.d5_en_US_oca.octrMA.Kathisma11.incipit
+octrMA.Kathisma11.text = oc.m4.d5_en_US_oca.octrMA.Kathisma11.text
 
 octrMA.Kathisma12.mode = oc.m4.d5_en_US_dedes.octrMA.Kathisma12.mode
 octrMA.Kathisma12.melody = oc.m4.d5_en_US_dedes.octrMA.Kathisma12.melody
