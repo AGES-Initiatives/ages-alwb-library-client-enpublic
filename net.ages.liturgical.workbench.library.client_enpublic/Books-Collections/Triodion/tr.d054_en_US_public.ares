@@ -358,9 +358,9 @@ trGC.Ode1C2T.text = tr.d054_en_US_unknown.trGC.Ode1C2T.text
 //Ode 2
 trGC.Ode2C1H.ode = tr.d054_en_US_dedes.trGC.Ode2C1H.ode
 trGC.Ode2C1H.mode = tr.d054_en_US_dedes.trGC.Ode2C1H.mode
-trGC.Ode2C1H.melody = tr.d054_en_US_dedes.trGC.Ode2C1H.melody
-trGC.Ode2C1H.incipit = tr.d054_en_US_dedes.trGC.Ode2C1H.incipit
-trGC.Ode2C1H.text = tr.d054_en_US_dedes.trGC.Ode2C1H.text
+trGC.Ode2C1H.melody = tr.d054_en_US_unknown.trGC.Ode2C1H.melody
+trGC.Ode2C1H.incipit = tr.d054_en_US_unknown.trGC.Ode2C1H.incipit
+trGC.Ode2C1H.text = tr.d054_en_US_unknown.trGC.Ode2C1H.text
 
 trGC.Ode2C101.ode = tr.d054_en_US_unknown.trGC.Ode2C101.ode
 trGC.Ode2C101.mode = tr.d054_en_US_unknown.trGC.Ode2C101.mode
@@ -544,9 +544,9 @@ trGC.Ode2C1T.text = tr.d054_en_US_unknown.trGC.Ode2C1T.text
 
 trGC.Ode2C2H.ode = tr.d054_en_US_dedes.trGC.Ode2C2H.ode
 trGC.Ode2C2H.mode = tr.d054_en_US_dedes.trGC.Ode2C2H.mode
-trGC.Ode2C2H.melody = tr.d054_en_US_dedes.trGC.Ode2C2H.melody
-trGC.Ode2C2H.incipit = tr.d054_en_US_dedes.trGC.Ode2C2H.incipit
-trGC.Ode2C2H.text = tr.d054_en_US_dedes.trGC.Ode2C2H.text
+trGC.Ode2C2H.melody = tr.d054_en_US_unknown.trGC.Ode2C2H.melody
+trGC.Ode2C2H.incipit = tr.d054_en_US_unknown.trGC.Ode2C2H.incipit
+trGC.Ode2C2H.text = tr.d054_en_US_unknown.trGC.Ode2C2H.text
 
 trGC.Ode2C201.ode = tr.d054_en_US_unknown.trGC.Ode2C201.ode
 trGC.Ode2C201.mode = tr.d054_en_US_unknown.trGC.Ode2C201.mode
@@ -642,9 +642,9 @@ trGC.Ode2C2T.text = tr.d054_en_US_unknown.trGC.Ode2C2T.text
 
 trGC.Ode3C1H.ode = tr.d054_en_US_dedes.trGC.Ode3C1H.ode
 trGC.Ode3C1H.mode = tr.d054_en_US_dedes.trGC.Ode3C1H.mode
-trGC.Ode3C1H.melody = tr.d054_en_US_dedes.trGC.Ode3C1H.melody
-trGC.Ode3C1H.incipit = tr.d054_en_US_dedes.trGC.Ode3C1H.incipit
-trGC.Ode3C1H.text = tr.d054_en_US_dedes.trGC.Ode3C1H.text
+trGC.Ode3C1H.melody = tr.d054_en_US_unknown.trGC.Ode3C1H.melody
+trGC.Ode3C1H.incipit = tr.d054_en_US_unknown.trGC.Ode3C1H.incipit
+trGC.Ode3C1H.text = tr.d054_en_US_unknown.trGC.Ode3C1H.text
 
 trGC.Ode3C101.ode = tr.d054_en_US_unknown.trGC.Ode3C101.ode
 trGC.Ode3C101.mode = tr.d054_en_US_unknown.trGC.Ode3C101.mode
@@ -2185,6 +2185,6 @@ trMA.AposTheotokion.text = tr.d054_en_UK_ware.trMA.AposTheotokion.text
 
 trTE.Troparion.mode = tr.d054_en_US_dedes.trTE.Troparion.mode
 trTE.Troparion.melody = tr.d054_en_US_dedes.trTE.Troparion.melody
-trTE.Troparion.incipit = tr.d054_en_UK_lash.trTE.Troparion.incipit
-trTE.Troparion.text = tr.d054_en_UK_lash.trTE.Troparion.text
+trTE.Troparion.incipit = tr.d054_en_US_oca.trTE.Troparion.incipit
+trTE.Troparion.text = tr.d054_en_US_oca.trTE.Troparion.text
 

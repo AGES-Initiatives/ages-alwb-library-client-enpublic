@@ -562,7 +562,7 @@ trMA.AposGlory.melody = tr.d046_en_UK_ware.trMA.AposGlory.melody
 trMA.AposGlory.incipit = tr.d046_en_UK_ware.trMA.AposGlory.incipit
 trMA.AposGlory.text = tr.d046_en_UK_ware.trMA.AposGlory.text
 
-trTE.Troparion.mode = tr.d046_en_US_dedes.trTE.Troparion.mode
-trTE.Troparion.melody = tr.d046_en_US_dedes.trTE.Troparion.melody
-trTE.Troparion.incipit = tr.d046_en_UK_lash.trTE.Troparion.incipit
-trTE.Troparion.text = tr.d046_en_UK_lash.trTE.Troparion.text
+trTE.Troparion.mode = tr.d045_en_US_goadedes.trTE.Troparion.mode
+trTE.Troparion.melody = tr.d045_en_US_goadedes.trTE.Troparion.melody
+trTE.Troparion.incipit = tr.d045_en_US_goadedes.trTE.Troparion.incipit
+trTE.Troparion.text = tr.d045_en_US_goadedes.trTE.Troparion.text

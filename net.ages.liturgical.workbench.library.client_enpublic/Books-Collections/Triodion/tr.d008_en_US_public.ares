@@ -29,8 +29,8 @@ trVE.MM.Stichera112as8910.text = tr.d008_en_US_dedes.trVE.MM.Stichera112as8910.t
 
 trVE.SticGlory.mode = tr.d008_en_US_dedes.trVE.SticGlory.mode
 trVE.SticGlory.melody = tr.d008_en_US_dedes.trVE.SticGlory.melody
-trVE.SticGlory.incipit = tr.d008_en_UK_lash.trVE.SticGlory.incipit
-trVE.SticGlory.text = tr.d008_en_UK_lash.trVE.SticGlory.text
+trVE.SticGlory.incipit = tr.d008_en_US_oca.trVE.SticGlory.incipit
+trVE.SticGlory.text = tr.d008_en_US_oca.trVE.SticGlory.text
 
 trVE.AposGlory.mode = tr.d008_en_US_dedes.trVE.AposGlory.mode
 trVE.AposGlory.melody = tr.d008_en_US_dedes.trVE.AposGlory.melody
