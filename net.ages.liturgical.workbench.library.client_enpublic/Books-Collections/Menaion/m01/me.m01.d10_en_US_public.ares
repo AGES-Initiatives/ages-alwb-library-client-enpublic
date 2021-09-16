@@ -18,19 +18,19 @@ meHO.note2 = me.m01.d10_en_US_dedes.meHO.note2
 meDA.dismissal = me.m01.d10_en_US_dedes.meDA.dismissal
 
 meVE.Stichera01.mode = me.m01.d10_en_US_dedes.meVE.Stichera01.mode
-meVE.Stichera01.melody = me.m01.d10_en_UK_lash.meVE.Stichera01.melody
-meVE.Stichera01.incipit = me.m01.d10_en_UK_lash.meVE.Stichera01.incipit
-meVE.Stichera01.text = me.m01.d10_en_UK_lash.meVE.Stichera01.text
+meVE.Stichera01.melody = me.m01.d10_en_US_oca.meVE.Stichera01.melody
+meVE.Stichera01.incipit = me.m01.d10_en_US_oca.meVE.Stichera01.incipit
+meVE.Stichera01.text = me.m01.d10_en_US_oca.meVE.Stichera01.text
 
 meVE.Stichera02.mode = me.m01.d10_en_US_dedes.meVE.Stichera02.mode
-meVE.Stichera02.melody = me.m01.d10_en_UK_lash.meVE.Stichera02.melody
-meVE.Stichera02.incipit = me.m01.d10_en_UK_lash.meVE.Stichera02.incipit
-meVE.Stichera02.text = me.m01.d10_en_UK_lash.meVE.Stichera02.text
+meVE.Stichera02.melody = me.m01.d10_en_US_oca.meVE.Stichera02.melody
+meVE.Stichera02.incipit = me.m01.d10_en_US_oca.meVE.Stichera02.incipit
+meVE.Stichera02.text = me.m01.d10_en_US_oca.meVE.Stichera02.text
 
 meVE.Stichera03.mode = me.m01.d10_en_US_dedes.meVE.Stichera03.mode
-meVE.Stichera03.melody = me.m01.d10_en_UK_lash.meVE.Stichera03.melody
-meVE.Stichera03.incipit = me.m01.d10_en_UK_lash.meVE.Stichera03.incipit
-meVE.Stichera03.text = me.m01.d10_en_UK_lash.meVE.Stichera03.text
+meVE.Stichera03.melody = me.m01.d10_en_US_oca.meVE.Stichera03.melody
+meVE.Stichera03.incipit = me.m01.d10_en_US_oca.meVE.Stichera03.incipit
+meVE.Stichera03.text = me.m01.d10_en_US_oca.meVE.Stichera03.text
 
 meVE.Stichera04.mode = me.m01.d10_en_US_dedes.meVE.Stichera04.mode
 meVE.Stichera04.melody = me.m01.d10_en_US_dedes.meVE.Stichera04.melody
@@ -50,8 +50,8 @@ meVE.Stichera06.text = me.m01.d10_en_US_dedes.meVE.Stichera06.text
 meVE.SticGlory.poet = me.m01.d10_en_US_dedes.meVE.SticGlory.poet
 meVE.SticGlory.mode = me.m01.d10_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m01.d10_en_US_dedes.meVE.SticGlory.melody
-meVE.SticGlory.incipit = me.m01.d10_en_UK_lash.meVE.SticGlory.incipit
-meVE.SticGlory.text = me.m01.d10_en_UK_lash.meVE.SticGlory.text
+meVE.SticGlory.incipit = me.m01.d10_en_US_oca.meVE.SticGlory.incipit
+meVE.SticGlory.text = me.m01.d10_en_US_oca.meVE.SticGlory.text
 
 meVE.SticBoth.poet = me.m01.d10_en_US_dedes.meVE.SticBoth.poet
 meVE.SticBoth.mode = me.m01.d10_en_US_dedes.meVE.SticBoth.mode
@@ -60,25 +60,25 @@ meVE.SticBoth.incipit = me.m01.d10_en_US_oca.meVE.SticBoth.incipit
 meVE.SticBoth.text = me.m01.d10_en_US_oca.meVE.SticBoth.text
 
 meVE.Aposticha1.mode = me.m01.d10_en_US_dedes.meVE.Aposticha1.mode
-meVE.Aposticha1.melody = me.m01.d10_en_UK_lash.meVE.Aposticha1.melody
-meVE.Aposticha1.incipit = me.m01.d10_en_UK_lash.meVE.Aposticha1.incipit
-meVE.Aposticha1.text = me.m01.d10_en_UK_lash.meVE.Aposticha1.text
+meVE.Aposticha1.melody = me.m01.d10_en_US_oca.meVE.Aposticha1.melody
+meVE.Aposticha1.incipit = me.m01.d10_en_US_oca.meVE.Aposticha1.incipit
+meVE.Aposticha1.text = me.m01.d10_en_US_oca.meVE.Aposticha1.text
 
 meVE.Aposticha2.mode = me.m01.d10_en_US_dedes.meVE.Aposticha2.mode
-meVE.Aposticha2.melody = me.m01.d10_en_UK_lash.meVE.Aposticha2.melody
-meVE.Aposticha2.incipit = me.m01.d10_en_UK_lash.meVE.Aposticha2.incipit
-meVE.Aposticha2.text = me.m01.d10_en_UK_lash.meVE.Aposticha2.text
+meVE.Aposticha2.melody = me.m01.d10_en_US_oca.meVE.Aposticha2.melody
+meVE.Aposticha2.incipit = me.m01.d10_en_US_oca.meVE.Aposticha2.incipit
+meVE.Aposticha2.text = me.m01.d10_en_US_oca.meVE.Aposticha2.text
 
 meVE.Aposticha3.mode = me.m01.d10_en_US_dedes.meVE.Aposticha3.mode
-meVE.Aposticha3.melody = me.m01.d10_en_UK_lash.meVE.Aposticha3.melody
-meVE.Aposticha3.incipit = me.m01.d10_en_UK_lash.meVE.Aposticha3.incipit
-meVE.Aposticha3.text = me.m01.d10_en_UK_lash.meVE.Aposticha3.text
+meVE.Aposticha3.melody = me.m01.d10_en_US_oca.meVE.Aposticha3.melody
+meVE.Aposticha3.incipit = me.m01.d10_en_US_oca.meVE.Aposticha3.incipit
+meVE.Aposticha3.text = me.m01.d10_en_US_oca.meVE.Aposticha3.text
 
 meVE.AposGlory.poet = me.m01.d10_en_US_dedes.meVE.AposGlory.poet
 meVE.AposGlory.mode = me.m01.d10_en_US_dedes.meVE.AposGlory.mode
 meVE.AposGlory.melody = me.m01.d10_en_US_dedes.meVE.AposGlory.melody
-meVE.AposGlory.incipit = me.m01.d10_en_UK_lash.meVE.AposGlory.incipit
-meVE.AposGlory.text = me.m01.d10_en_UK_lash.meVE.AposGlory.text
+meVE.AposGlory.incipit = me.m01.d10_en_US_oca.meVE.AposGlory.incipit
+meVE.AposGlory.text = me.m01.d10_en_US_oca.meVE.AposGlory.text
 
 meVE.AposBoth.poet = me.m01.d10_en_US_dedes.meVE.AposBoth.poet
 meVE.AposBoth.mode = me.m01.d10_en_US_dedes.meVE.AposBoth.mode
