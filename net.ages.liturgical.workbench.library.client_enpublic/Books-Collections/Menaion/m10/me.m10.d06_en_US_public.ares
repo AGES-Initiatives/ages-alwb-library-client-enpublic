@@ -2,6 +2,7 @@ A_Resource_Whose_Name = me.m10.d06_en_US_public
 
 meDA.date = me.m10.d06_en_US_dedes.meDA.date
 meDA.commemoration.full = me.m10.d06_en_US_dedes.meDA.commemoration.full // full title of day
+meDA.commemoration.first = me.m10.d06_en_US_dedes.meDA.commemoration.first
 meDA.commemoration.first_short = me.m10.d06_en_US_dedes.meDA.commemoration.first_short
 meDA.commemoration.first_title = me.m10.d06_en_US_dedes.meDA.commemoration.first_title
 meDA.commemoration.second_title = me.m10.d06_en_US_dedes.meDA.commemoration.second_title
@@ -17,24 +18,24 @@ meHO.note1 = me.m10.d06_en_US_dedes.meHO.note1
 meHO.note2 = me.m10.d06_en_US_dedes.meHO.note2
 
 meVE.Stichera01.mode = me.m10.d06_en_US_dedes.meVE.Stichera01.mode
-meVE.Stichera01.melody = me.m10.d06_en_US_oca.meVE.Stichera01.melody
-meVE.Stichera01.incipit = me.m10.d06_en_US_oca.meVE.Stichera01.incipit
-meVE.Stichera01.text = me.m10.d06_en_US_oca.meVE.Stichera01.text
+meVE.Stichera01.melody = me.m10.d06_en_US_carroll.meVE.Stichera01.melody
+meVE.Stichera01.incipit = me.m10.d06_en_US_carroll.meVE.Stichera01.incipit
+meVE.Stichera01.text = me.m10.d06_en_US_carroll.meVE.Stichera01.text
 
 meVE.Stichera02.mode = me.m10.d06_en_US_dedes.meVE.Stichera02.mode
-meVE.Stichera02.melody = me.m10.d06_en_US_oca.meVE.Stichera02.melody
-meVE.Stichera02.incipit = me.m10.d06_en_US_oca.meVE.Stichera02.incipit
-meVE.Stichera02.text = me.m10.d06_en_US_oca.meVE.Stichera02.text
+meVE.Stichera02.melody = me.m10.d06_en_US_carroll.meVE.Stichera02.melody
+meVE.Stichera02.incipit = me.m10.d06_en_US_carroll.meVE.Stichera02.incipit
+meVE.Stichera02.text = me.m10.d06_en_US_carroll.meVE.Stichera02.text
 
 meVE.Stichera03.mode = me.m10.d06_en_US_dedes.meVE.Stichera03.mode
-meVE.Stichera03.melody = me.m10.d06_en_US_oca.meVE.Stichera03.melody
-meVE.Stichera03.incipit = me.m10.d06_en_US_oca.meVE.Stichera03.incipit
-meVE.Stichera03.text = me.m10.d06_en_US_oca.meVE.Stichera03.text
+meVE.Stichera03.melody = me.m10.d06_en_US_carroll.meVE.Stichera03.melody
+meVE.Stichera03.incipit = me.m10.d06_en_US_carroll.meVE.Stichera03.incipit
+meVE.Stichera03.text = me.m10.d06_en_US_carroll.meVE.Stichera03.text
 
 meVE.SticGlory.mode = me.m10.d06_en_US_dedes.meVE.SticGlory.mode
-meVE.SticGlory.melody = me.m10.d06_en_US_oca.meVE.SticGlory.melody
-meVE.SticGlory.incipit = me.m10.d06_en_US_oca.meVE.SticGlory.incipit
-meVE.SticGlory.text = me.m10.d06_en_US_oca.meVE.SticGlory.text
+meVE.SticGlory.melody = me.m10.d06_en_US_dedes.meVE.SticGlory.melody
+meVE.SticGlory.incipit = me.m10.d06_en_US_carroll.meVE.SticGlory.incipit
+meVE.SticGlory.text = me.m10.d06_en_US_carroll.meVE.SticGlory.text
 
 meVE.SticTheotokion.mode = me.m10.d06_en_US_dedes.meVE.SticTheotokion.mode
 meVE.SticTheotokion.melody = me.m10.d06_en_US_dedes.meVE.SticTheotokion.melody

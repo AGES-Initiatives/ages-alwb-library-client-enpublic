@@ -2,6 +2,7 @@ A_Resource_Whose_Name = me.m04.d08_en_US_public
 
 meDA.date = me.m04.d08_en_US_dedes.meDA.date // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meDA.commemoration.full = me.m04.d08_en_US_dedes.meDA.commemoration.full // full title of day
+meDA.commemoration.first = me.m04.d08_en_US_dedes.meDA.commemoration.first
 meDA.commemoration.first_short = me.m04.d08_en_US_dedes.meDA.commemoration.first_short
 meDA.commemoration.first_title = me.m04.d08_en_US_dedes.meDA.commemoration.first_title
 meDA.commemoration.second_title = me.m04.d08_en_US_dedes.meDA.commemoration.second_title

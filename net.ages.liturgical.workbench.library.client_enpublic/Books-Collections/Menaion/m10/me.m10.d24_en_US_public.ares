@@ -2,6 +2,7 @@ A_Resource_Whose_Name = me.m10.d24_en_US_public
 
 meDA.date = me.m10.d24_en_US_dedes.meDA.date
 meDA.commemoration.full = me.m10.d24_en_US_dedes.meDA.commemoration.full // full title of day
+meDA.commemoration.first = me.m10.d24_en_US_dedes.meDA.commemoration.first
 meDA.commemoration.first_short = me.m10.d24_en_US_dedes.meDA.commemoration.first_short
 meDA.commemoration.first_title = me.m10.d24_en_US_dedes.meDA.commemoration.first_title
 meDA.commemoration.second_title = me.m10.d24_en_US_dedes.meDA.commemoration.second_title
