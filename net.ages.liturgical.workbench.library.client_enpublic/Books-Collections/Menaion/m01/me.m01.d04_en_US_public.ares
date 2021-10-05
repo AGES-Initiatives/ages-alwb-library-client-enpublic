@@ -914,10 +914,10 @@ meMA.Ode9H.melody = me.m01.d04_en_US_dedes.meMA.Ode9H.melody
 meMA.Ode9H.incipit = me.m01.d04_en_US_dedes.meMA.Ode9H.incipit
 meMA.Ode9H.text = me.m01.d04_en_US_dedes.meMA.Ode9H.text
 
-meMA.Exaposteilarion1.mode = me.m01.d04_en_US_dedes.meMA.Exaposteilarion1.mode
-meMA.Exaposteilarion1.melody = me.m01.d04_en_UK_lash.meMA.Exaposteilarion1.melody
-meMA.Exaposteilarion1.incipit = me.m01.d04_en_UK_lash.meMA.Exaposteilarion1.incipit
-meMA.Exaposteilarion1.text = me.m01.d04_en_UK_lash.meMA.Exaposteilarion1.text
+meMA.Exaposteilarion1.mode = me.m01.d04_en_US_goadedes.meMA.Exaposteilarion1.mode
+meMA.Exaposteilarion1.melody = me.m01.d04_en_US_goadedes.meMA.Exaposteilarion1.melody
+meMA.Exaposteilarion1.incipit = me.m01.d04_en_US_goadedes.meMA.Exaposteilarion1.incipit
+meMA.Exaposteilarion1.text = me.m01.d04_en_US_goadedes.meMA.Exaposteilarion1.text
 
 meMA.Exaposteilarion2.mode = me.m01.d04_en_US_dedes.meMA.Exaposteilarion2.mode
 meMA.Exaposteilarion2.melody = me.m01.d04_en_US_oca.meMA.Exaposteilarion2.melody
