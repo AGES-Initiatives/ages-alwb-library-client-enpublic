@@ -8,17 +8,17 @@ hoMO.StEphraimPrayerRubrics2.text = ho.s02_en_US_dedes.hoMO.StEphraimPrayerRubri
 hoMO.StEphraimPrayerLentenRubrics1.text = ho.s02_en_US_dedes.hoMO.StEphraimPrayerLentenRubrics1.text
 hoMO.StEphraimPrayerLentenRubrics2.text = ho.s02_en_US_dedes.hoMO.StEphraimPrayerLentenRubrics2.text
 
-ho.MO.StMardariosPrayer.title = ho.s02_en_US_holycross.ho.MO.StMardariosPrayer.title
-ho.MO.StMardariosPrayer.text = ho.s02_en_US_holycross.ho.MO.StMardariosPrayer.text
-ho.MO.StMardariosPrayer.rubric = ""
+hoMO.StMardariosPrayer.title = ho.s02_en_US_holycross.hoMO.StMardariosPrayer.title
+hoMO.StMardariosPrayer.text = ho.s02_en_US_holycross.hoMO.StMardariosPrayer.text
+hoMO.StMardariosPrayer.rubric = ""
 
-ho.MO.StBasilPrayer1.rubric = ho.s02_en_US_goadedes.ho.MO.StBasilPrayer1.rubric
-ho.MO.StBasilPrayer1.title = ho.s02_en_US_oca.ho.MO.StBasilPrayer1.title
-ho.MO.StBasilPrayer1.text = ho.s02_en_US_oca.ho.MO.StBasilPrayer1.text
+hoMO.StBasilPrayer1.rubric = ho.s02_en_US_goadedes.hoMO.StBasilPrayer1.rubric
+hoMO.StBasilPrayer1.title = ho.s02_en_US_oca.hoMO.StBasilPrayer1.title
+hoMO.StBasilPrayer1.text = ho.s02_en_US_oca.hoMO.StBasilPrayer1.text
 
-ho.MO.StBasilPrayer2.rubric = ho.s02_en_US_goadedes.ho.MO.StBasilPrayer2.rubric
-ho.MO.StBasilPrayer2.title = ho.s02_en_US_holycross.ho.MO.StBasilPrayer2.title
-ho.MO.StBasilPrayer2.text = ho.s02_en_US_holycross.ho.MO.StBasilPrayer2.text
+hoMO.StBasilPrayer2.rubric = ho.s02_en_US_goadedes.hoMO.StBasilPrayer2.rubric
+hoMO.StBasilPrayer2.title = ho.s02_en_US_holycross.hoMO.StBasilPrayer2.title
+hoMO.StBasilPrayer2.text = ho.s02_en_US_holycross.hoMO.StBasilPrayer2.text
 
 hoMO.PrayerForDeceased.rubric = ho.s02_en_US_goadedes.hoMO.PrayerForDeceased.rubric
 hoMO.PrayerForDeceased.title = ho.s02_en_US_holycross.hoMO.PrayerForDeceased.title
@@ -43,6 +43,6 @@ hoMO.SaturdayTroparion2.text = ho.s02_en_US_dedes.hoMO.SaturdayTroparion2.text
 hoMO.SaturdayTroparion3.incipit = ho.s02_en_US_dedes.hoMO.SaturdayTroparion3.incipit
 hoMO.SaturdayTroparion3.text = ho.s02_en_US_dedes.hoMO.SaturdayTroparion3.text
 
-ho.MO.StEfstratiosPrayer.rubric = ho.s02_en_US_goadedes.ho.MO.StEfstratiosPrayer.rubric
-ho.MO.StEfstratiosPrayer.title = ho.s02_en_US_holycross.ho.MO.StEfstratiosPrayer.title
-ho.MO.StEfstratiosPrayer.text = ho.s02_en_US_holycross.ho.MO.StEfstratiosPrayer.text
+hoMO.StEfstratiosPrayer.rubric = ho.s02_en_US_goadedes.hoMO.StEfstratiosPrayer.rubric
+hoMO.StEfstratiosPrayer.title = ho.s02_en_US_holycross.hoMO.StEfstratiosPrayer.title
+hoMO.StEfstratiosPrayer.text = ho.s02_en_US_holycross.hoMO.StEfstratiosPrayer.text
