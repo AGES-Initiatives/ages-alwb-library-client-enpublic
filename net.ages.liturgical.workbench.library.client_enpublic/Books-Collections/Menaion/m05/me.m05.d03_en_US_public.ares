@@ -32,10 +32,10 @@ meVE.Stichera03.melody = me.m05.d03_en_US_dedes.meVE.Stichera03.melody
 meVE.Stichera03.incipit = me.m05.d03_en_US_dedes.meVE.Stichera03.incipit
 meVE.Stichera03.text = me.m05.d03_en_US_dedes.meVE.Stichera03.text
 
-meVE.Apolytikion1.mode = me.m05.d03_en_US_dedes.meVE.Apolytikion1.mode
-meVE.Apolytikion1.melody = me.m05.d03_en_US_dedes.meVE.Apolytikion1.melody
-meVE.Apolytikion1.incipit = me.m05.d03_en_US_dedes.meVE.Apolytikion1.incipit
-meVE.Apolytikion1.text = me.m05.d03_en_US_dedes.meVE.Apolytikion1.text
+meVE.Apolytikion1.mode = me.m05.d03_en_US_goadedes.meVE.Apolytikion1.mode
+meVE.Apolytikion1.melody = me.m05.d03_en_US_goadedes.meVE.Apolytikion1.melody
+meVE.Apolytikion1.incipit = me.m05.d03_en_US_goadedes.meVE.Apolytikion1.incipit
+meVE.Apolytikion1.text = me.m05.d03_en_US_goadedes.meVE.Apolytikion1.text
 
 meVE.Apolytikion2.poet = me.m05.d03_en_US_dedes.meVE.Apolytikion2.poet
 meVE.Apolytikion2.mode = me.m05.d03_en_US_dedes.meVE.Apolytikion2.mode
