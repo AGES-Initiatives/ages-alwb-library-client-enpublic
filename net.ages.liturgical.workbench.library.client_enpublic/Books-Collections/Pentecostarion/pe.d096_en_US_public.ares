@@ -59,10 +59,10 @@ peMA.Kathisma11.melody = pe.d096_en_US_dedes.peMA.Kathisma11.melody
 peMA.Kathisma11.incipit = pe.d096_en_US_dedes.peMA.Kathisma11.incipit
 peMA.Kathisma11.text = pe.d096_en_US_dedes.peMA.Kathisma11.text
 
-peMA.Kathisma12.mode = pe.d096_en_US_dedes.peMA.Kathisma12.mode
-peMA.Kathisma12.melody = pe.d096_en_UK_lash.peMA.Kathisma12.melody
-peMA.Kathisma12.incipit = pe.d096_en_UK_lash.peMA.Kathisma12.incipit
-peMA.Kathisma12.text = pe.d096_en_UK_lash.peMA.Kathisma12.text
+peMA.Kathisma12.mode = pe.d096_en_US_goadedes.peMA.Kathisma12.mode
+peMA.Kathisma12.melody = pe.d096_en_US_goadedes.peMA.Kathisma12.melody
+peMA.Kathisma12.incipit = pe.d096_en_US_goadedes.peMA.Kathisma12.incipit
+peMA.Kathisma12.text = pe.d096_en_US_goadedes.peMA.Kathisma12.text
 
 peMA.Kathisma13.mode = pe.d096_en_US_dedes.peMA.Kathisma13.mode
 peMA.Kathisma13.melody = pe.d096_en_US_dedes.peMA.Kathisma13.melody
@@ -90,9 +90,9 @@ peMA.Lauds2.incipit = pe.d096_en_US_dedes.peMA.Lauds2.incipit
 peMA.Lauds2.text = pe.d096_en_US_dedes.peMA.Lauds2.text
 
 peMA.Lauds3.mode = pe.d096_en_US_dedes.peMA.Lauds3.mode
-peMA.Lauds3.melody = pe.d096_en_UK_lash.peMA.Lauds3.melody
-peMA.Lauds3.incipit = pe.d096_en_UK_lash.peMA.Lauds3.incipit
-peMA.Lauds3.text = pe.d096_en_UK_lash.peMA.Lauds3.text
+peMA.Lauds3.melody = pe.d096_en_US_oca.peMA.Lauds3.melody
+peMA.Lauds3.incipit = pe.d096_en_US_oca.peMA.Lauds3.incipit
+peMA.Lauds3.text = pe.d096_en_US_oca.peMA.Lauds3.text
 
 peMA.LaudsGlory.mode = pe.d096_en_US_dedes.peMA.LaudsGlory.mode
 peMA.LaudsGlory.melody = pe.d096_en_US_dedes.peMA.LaudsGlory.melody
