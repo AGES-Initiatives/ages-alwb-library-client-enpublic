@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = sy.m08.d16_en_US_public
 
 syMA.commemoration01.text = sy.m08.d16_en_US_dedes.syMA.commemoration01.text
+syMA.commemoration01as02.text = sy.m08.d16_en_US_dedes.syMA.commemoration01as02.text
 syMA.commemoration01.couplet1.title = sy.m08.d16_en_US_dedes.syMA.commemoration01.couplet1.title
 syMA.commemoration01.couplet1.verse1 = sy.m08.d16_en_US_dedes.syMA.commemoration01.couplet1.verse1
 syMA.commemoration01.couplet1.verse2 = sy.m08.d16_en_US_dedes.syMA.commemoration01.couplet1.verse2
@@ -73,5 +74,10 @@ syMA.commemoration10.text = sy.m08.d16_en_US_dedes.syMA.commemoration10.text
 syMA.commemoration10.couplet1.title = sy.m08.d16_en_US_dedes.syMA.commemoration10.couplet1.title
 syMA.commemoration10.couplet1.verse1 = sy.m08.d16_en_US_dedes.syMA.commemoration10.couplet1.verse1
 syMA.commemoration10.couplet1.verse2 = sy.m08.d16_en_US_dedes.syMA.commemoration10.couplet1.verse2
+
+alt1.syMA.commemoration01.text = sy.m08.d16_en_US_dedes.alt1.syMA.commemoration01.text
+alt1.syMA.commemoration01.couplet1.title = sy.m08.d16_en_US_dedes.alt1.syMA.commemoration01.couplet1.title
+alt1.syMA.commemoration01.couplet1.verse1 = sy.m08.d16_en_US_dedes.alt1.syMA.commemoration01.couplet1.verse1
+alt1.syMA.commemoration01.couplet1.verse2 = sy.m08.d16_en_US_dedes.alt1.syMA.commemoration01.couplet1.verse2
 
 syMA.lastline = sy.m08.d16_en_US_dedes.syMA.lastline

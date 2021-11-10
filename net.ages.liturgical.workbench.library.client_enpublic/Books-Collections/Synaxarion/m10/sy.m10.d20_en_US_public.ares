@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = sy.m10.d20_en_US_public 
 
 syMA.commemoration01.text = sy.m10.d20_en_US_dedes.syMA.commemoration01.text
+syMA.commemoration01as02.text = sy.m10.d20_en_US_dedes.syMA.commemoration01as02.text
 syMA.commemoration01.couplet1.title = sy.m10.d20_en_US_dedes.syMA.commemoration01.couplet1.title
 syMA.commemoration01.couplet1.verse1 = sy.m10.d20_en_US_dedes.syMA.commemoration01.couplet1.verse1
 syMA.commemoration01.couplet1.verse2 = sy.m10.d20_en_US_dedes.syMA.commemoration01.couplet1.verse2
