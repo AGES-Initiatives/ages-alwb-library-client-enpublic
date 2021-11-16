@@ -36,10 +36,10 @@ trVE.Stichera04.text = tr.d015_en_US_dedes.trVE.Stichera04.text
 
 trVE.MM.Stichera123as567.text = properties_en_US_public.media.key
 
-trVE.SticGlory.mode = tr.d015_en_US_dedes.trVE.SticGlory.mode
-trVE.SticGlory.melody = tr.d015_en_US_dedes.trVE.SticGlory.melody
-trVE.SticGlory.incipit = tr.d015_en_US_oca.trVE.SticGlory.incipit
-trVE.SticGlory.text = tr.d015_en_US_oca.trVE.SticGlory.text
+trVE.SticGlory.mode = tr.d015_en_US_goadedes.trVE.SticGlory.mode
+trVE.SticGlory.melody = tr.d015_en_US_goadedes.trVE.SticGlory.melody
+trVE.SticGlory.incipit = tr.d015_en_US_goadedes.trVE.SticGlory.incipit
+trVE.SticGlory.text = tr.d015_en_US_goadedes.trVE.SticGlory.text
 
 trVE.LityGlory.mode = tr.d015_en_US_dedes.trVE.LityGlory.mode
 trVE.LityGlory.melody = tr.d015_en_US_dedes.trVE.LityGlory.melody
