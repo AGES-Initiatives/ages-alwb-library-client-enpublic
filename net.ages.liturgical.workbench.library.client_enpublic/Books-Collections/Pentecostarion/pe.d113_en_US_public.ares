@@ -28,25 +28,25 @@ peVE.Stichera06.melody = pe.d113_en_US_dedes.peVE.Stichera06.melody
 peVE.Stichera06.incipit = pe.d113_en_US_dedes.peVE.Stichera06.incipit
 peVE.Stichera06.text = pe.d113_en_US_dedes.peVE.Stichera06.text
 
-peVE.Stichera07.mode = pe.d113_en_US_dedes.peVE.Stichera07.mode
-peVE.Stichera07.melody = pe.d113_en_UK_lash.peVE.Stichera07.melody
-peVE.Stichera07.incipit = pe.d113_en_UK_lash.peVE.Stichera07.incipit
-peVE.Stichera07.text = pe.d113_en_UK_lash.peVE.Stichera07.text
+peVE.Stichera07.mode = pe.d113_en_US_goadedes.peVE.Stichera07.mode
+peVE.Stichera07.melody = pe.d113_en_US_goadedes.peVE.Stichera07.melody
+peVE.Stichera07.incipit = pe.d113_en_US_goadedes.peVE.Stichera07.incipit
+peVE.Stichera07.text = pe.d113_en_US_goadedes.peVE.Stichera07.text
 
-peVE.Stichera08.mode = pe.d113_en_US_dedes.peVE.Stichera08.mode
-peVE.Stichera08.melody = pe.d113_en_UK_lash.peVE.Stichera08.melody
-peVE.Stichera08.incipit = pe.d113_en_UK_lash.peVE.Stichera08.incipit
-peVE.Stichera08.text = pe.d113_en_UK_lash.peVE.Stichera08.text
+peVE.Stichera08.mode = pe.d113_en_US_goadedes.peVE.Stichera08.mode
+peVE.Stichera08.melody = pe.d113_en_US_goadedes.peVE.Stichera08.melody
+peVE.Stichera08.incipit = pe.d113_en_US_goadedes.peVE.Stichera08.incipit
+peVE.Stichera08.text = pe.d113_en_US_goadedes.peVE.Stichera08.text
 
-peVE.Stichera09.mode = pe.d113_en_US_dedes.peVE.Stichera09.mode
-peVE.Stichera09.melody = pe.d113_en_UK_lash.peVE.Stichera09.melody
-peVE.Stichera09.incipit = pe.d113_en_UK_lash.peVE.Stichera09.incipit
-peVE.Stichera09.text = pe.d113_en_UK_lash.peVE.Stichera09.text
+peVE.Stichera09.mode = pe.d113_en_US_goadedes.peVE.Stichera09.mode
+peVE.Stichera09.melody = pe.d113_en_US_goadedes.peVE.Stichera09.melody
+peVE.Stichera09.incipit = pe.d113_en_US_goadedes.peVE.Stichera09.incipit
+peVE.Stichera09.text = pe.d113_en_US_goadedes.peVE.Stichera09.text
 
-peVE.Stichera10.mode = pe.d113_en_US_dedes.peVE.Stichera10.mode
-peVE.Stichera10.melody = pe.d113_en_UK_lash.peVE.Stichera10.melody
-peVE.Stichera10.incipit = pe.d113_en_UK_lash.peVE.Stichera10.incipit
-peVE.Stichera10.text = pe.d113_en_UK_lash.peVE.Stichera10.text
+peVE.Stichera10.mode = pe.d113_en_US_goadedes.peVE.Stichera10.mode
+peVE.Stichera10.melody = pe.d113_en_US_goadedes.peVE.Stichera10.melody
+peVE.Stichera10.incipit = pe.d113_en_US_goadedes.peVE.Stichera10.incipit
+peVE.Stichera10.text = pe.d113_en_US_goadedes.peVE.Stichera10.text
 
 peVE.SticGlory.mode = pe.d113_en_US_dedes.peVE.SticGlory.mode
 peVE.SticGlory.melody = pe.d113_en_US_dedes.peVE.SticGlory.melody
