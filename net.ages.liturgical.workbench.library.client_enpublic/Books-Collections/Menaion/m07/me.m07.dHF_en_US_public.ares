@@ -501,20 +501,20 @@ meMA.ExapTheotokion.melody = me.m07.dHF_en_US_dedes.meMA.ExapTheotokion.melody
 meMA.ExapTheotokion.incipit = me.m07.dHF_en_US_dedes.meMA.ExapTheotokion.incipit
 meMA.ExapTheotokion.text = me.m07.dHF_en_US_dedes.meMA.ExapTheotokion.text
 
-meMA.Lauds1.mode = me.m07.dHF_en_US_dedes.meMA.Lauds1.mode
-meMA.Lauds1.melody = me.m07.dHF_en_US_dedes.meMA.Lauds1.melody
-meMA.Lauds1.incipit = me.m07.dHF_en_US_dedes.meMA.Lauds1.incipit
-meMA.Lauds1.text = me.m07.dHF_en_US_dedes.meMA.Lauds1.text
+meMA.Lauds1.mode = me.m07.dHF_en_US_goadedes.meMA.Lauds1.mode
+meMA.Lauds1.melody = me.m07.dHF_en_US_goadedes.meMA.Lauds1.melody
+meMA.Lauds1.incipit = me.m07.dHF_en_US_goadedes.meMA.Lauds1.incipit
+meMA.Lauds1.text = me.m07.dHF_en_US_goadedes.meMA.Lauds1.text
 
-meMA.Lauds2.mode = me.m07.dHF_en_US_dedes.meMA.Lauds2.mode
-meMA.Lauds2.melody = me.m07.dHF_en_US_dedes.meMA.Lauds2.melody
-meMA.Lauds2.incipit = me.m07.dHF_en_US_dedes.meMA.Lauds2.incipit
-meMA.Lauds2.text = me.m07.dHF_en_US_dedes.meMA.Lauds2.text
+meMA.Lauds2.mode = me.m07.dHF_en_US_goadedes.meMA.Lauds2.mode
+meMA.Lauds2.melody = me.m07.dHF_en_US_goadedes.meMA.Lauds2.melody
+meMA.Lauds2.incipit = me.m07.dHF_en_US_goadedes.meMA.Lauds2.incipit
+meMA.Lauds2.text = me.m07.dHF_en_US_goadedes.meMA.Lauds2.text
 
-meMA.Lauds3.mode = me.m07.dHF_en_US_dedes.meMA.Lauds3.mode
-meMA.Lauds3.melody = me.m07.dHF_en_US_dedes.meMA.Lauds3.melody
-meMA.Lauds3.incipit = me.m07.dHF_en_US_dedes.meMA.Lauds3.incipit
-meMA.Lauds3.text = me.m07.dHF_en_US_dedes.meMA.Lauds3.text
+meMA.Lauds3.mode = me.m07.dHF_en_US_goadedes.meMA.Lauds3.mode
+meMA.Lauds3.melody = me.m07.dHF_en_US_goadedes.meMA.Lauds3.melody
+meMA.Lauds3.incipit = me.m07.dHF_en_US_goadedes.meMA.Lauds3.incipit
+meMA.Lauds3.text = me.m07.dHF_en_US_goadedes.meMA.Lauds3.text
 
 meMA.MM.Lauds123as345.text = me.m07.dHF_en_US_dedes.meMA.MM.Lauds123as345.text
 
