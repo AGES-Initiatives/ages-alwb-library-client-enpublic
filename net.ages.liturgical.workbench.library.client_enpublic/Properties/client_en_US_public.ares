@@ -8,13 +8,17 @@ cl.zipcode = ""
 cl.email = ""
 cl.website = ""
 
-cl.bishop0.rank = "(episcopal rank)" //the superior of the local hierarch
+cl.bishop0.rank = "our Archbishop" //the superior of the local hierarch
 cl.bishop0.name_c = "(name)," //comma
+cl.bishop0.name_co = "(name):"
+cl.bishop0.name_sc = "(name);"
 cl.bishop0.name_p = "(name)." //period
 cl.bishop0.fimi.text = "(The text of the appropriate episcopal acclamation goes here.)"
 
-cl.bishop1.rank = "(episcopal rank)"
+cl.bishop1.rank = "our Archbishop"
 cl.bishop1.name_c = "(name)," //comma
+cl.bishop1.name_co = "(name):"
+cl.bishop1.name_sc = "(name);"
 cl.bishop1.name_p = "(name)." //period
 cl.bishop1.fimi.text = "(The text of the appropriate episcopal acclamation goes here.)"
 

@@ -253,9 +253,6 @@ pet07Sa = prayers_en_US_holycross.pet07Sa
 pet08.incipit = prayers_en_US_goa.pet08.incipit
 pet08 = prayers_en_US_goa.pet08
 
-pet08_GOA.incipit = prayers_en_US_goa.pet08_GOA.incipit
-pet08_GOA = prayers_en_US_goa.pet08_GOA
-
 pet09.incipit = prayers_en_US_goa.pet09.incipit
 pet09 = prayers_en_US_goa.pet09
 
@@ -299,6 +296,9 @@ pet19a.incipit = prayers_en_US_goa.pet19a.incipit
 pet19a = prayers_en_US_goa.pet19a
 pet19b.incipit = prayers_en_US_goa.pet19b.incipit
 pet19b = prayers_en_US_goa.pet19b
+
+pet19m.incipit = prayers_en_US_goa.pet19m.incipit
+pet19m = prayers_en_US_goa.pet19m
 
 pet20.incipit = prayers_en_US_goa.pet20.incipit
 pet20 = prayers_en_US_goa.pet20
