@@ -123,29 +123,29 @@ peMA.C1.acrostic = pe.d113_en_US_dedes.peMA.C1.acrostic
 peMA.C1.title = pe.d113_en_US_dedes.peMA.C1.title
 peMA.C1.verse = pe.d113_en_US_dedes.peMA.C1.verse
 
-peMA.Ode1C11.ode = pe.d113_en_US_dedes.peMA.Ode1C11.ode
-peMA.Ode1C11.mode = pe.d113_en_US_dedes.peMA.Ode1C11.mode
-peMA.Ode1C11.melody = pe.d113_en_UK_lash.peMA.Ode1C11.melody
-peMA.Ode1C11.incipit = pe.d113_en_UK_lash.peMA.Ode1C11.incipit
-peMA.Ode1C11.text = pe.d113_en_UK_lash.peMA.Ode1C11.text
+peMA.Ode1C11.ode = pe.d113_en_US_goadedes.peMA.Ode1C11.ode
+peMA.Ode1C11.mode = pe.d113_en_US_goadedes.peMA.Ode1C11.mode
+peMA.Ode1C11.melody = pe.d113_en_US_goadedes.peMA.Ode1C11.melody
+peMA.Ode1C11.incipit = pe.d113_en_US_goadedes.peMA.Ode1C11.incipit
+peMA.Ode1C11.text = pe.d113_en_US_goadedes.peMA.Ode1C11.text
 
-peMA.Ode1C12.ode = pe.d113_en_US_dedes.peMA.Ode1C12.ode
-peMA.Ode1C12.mode = pe.d113_en_US_dedes.peMA.Ode1C12.mode
-peMA.Ode1C12.melody = pe.d113_en_UK_lash.peMA.Ode1C12.melody
-peMA.Ode1C12.incipit = pe.d113_en_UK_lash.peMA.Ode1C12.incipit
-peMA.Ode1C12.text = pe.d113_en_UK_lash.peMA.Ode1C12.text
+peMA.Ode1C12.ode = pe.d113_en_US_goadedes.peMA.Ode1C12.ode
+peMA.Ode1C12.mode = pe.d113_en_US_goadedes.peMA.Ode1C12.mode
+peMA.Ode1C12.melody = pe.d113_en_US_goadedes.peMA.Ode1C12.melody
+peMA.Ode1C12.incipit = pe.d113_en_US_goadedes.peMA.Ode1C12.incipit
+peMA.Ode1C12.text = pe.d113_en_US_goadedes.peMA.Ode1C12.text
 
-peMA.Ode1C13.ode = pe.d113_en_US_dedes.peMA.Ode1C13.ode
-peMA.Ode1C13.mode = pe.d113_en_US_dedes.peMA.Ode1C13.mode
-peMA.Ode1C13.melody = pe.d113_en_UK_lash.peMA.Ode1C13.melody
-peMA.Ode1C13.incipit = pe.d113_en_UK_lash.peMA.Ode1C13.incipit
-peMA.Ode1C13.text = pe.d113_en_UK_lash.peMA.Ode1C13.text
+peMA.Ode1C13.ode = pe.d113_en_US_goadedes.peMA.Ode1C13.ode
+peMA.Ode1C13.mode = pe.d113_en_US_goadedes.peMA.Ode1C13.mode
+peMA.Ode1C13.melody = pe.d113_en_US_goadedes.peMA.Ode1C13.melody
+peMA.Ode1C13.incipit = pe.d113_en_US_goadedes.peMA.Ode1C13.incipit
+peMA.Ode1C13.text = pe.d113_en_US_goadedes.peMA.Ode1C13.text
 
-peMA.Ode1C1T.ode = pe.d113_en_US_dedes.peMA.Ode1C1T.ode
-peMA.Ode1C1T.mode = pe.d113_en_US_dedes.peMA.Ode1C1T.mode
-peMA.Ode1C1T.melody = pe.d113_en_UK_lash.peMA.Ode1C1T.melody
-peMA.Ode1C1T.incipit = pe.d113_en_UK_lash.peMA.Ode1C1T.incipit
-peMA.Ode1C1T.text = pe.d113_en_UK_lash.peMA.Ode1C1T.text
+peMA.Ode1C1T.ode = pe.d113_en_US_goadedes.peMA.Ode1C1T.ode
+peMA.Ode1C1T.mode = pe.d113_en_US_goadedes.peMA.Ode1C1T.mode
+peMA.Ode1C1T.melody = pe.d113_en_US_goadedes.peMA.Ode1C1T.melody
+peMA.Ode1C1T.incipit = pe.d113_en_US_goadedes.peMA.Ode1C1T.incipit
+peMA.Ode1C1T.text = pe.d113_en_US_goadedes.peMA.Ode1C1T.text
 
 peMA.Ode3C11.ode = pe.d113_en_US_dedes.peMA.Ode3C11.ode
 peMA.Ode3C11.mode = pe.d113_en_US_dedes.peMA.Ode3C11.mode

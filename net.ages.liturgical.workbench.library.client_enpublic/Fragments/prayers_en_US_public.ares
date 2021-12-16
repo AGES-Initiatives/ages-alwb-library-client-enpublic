@@ -930,8 +930,8 @@ exc08 = prayers_en_US_holycross.exc08
 exc09.incipit = prayers_en_US_holycross.exc09.incipit
 exc09 = prayers_en_US_holycross.exc09
 
-exc10.incipit = prayers_en_US_holycross.exc10.incipit
-exc10 = prayers_en_US_holycross.exc10
+exc10.incipit = prayers_en_US_goa.exc10.incipit
+exc10 = prayers_en_US_goa.exc10
 
 exc11.incipit = prayers_en_US_goa.exc11.incipit
 exc11 = prayers_en_US_goa.exc11
