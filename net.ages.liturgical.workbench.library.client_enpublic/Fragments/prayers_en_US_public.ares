@@ -241,8 +241,8 @@ pet06a = prayers_en_US_goa.pet06a
 pet06b.incipit = prayers_en_US_goa.pet06b.incipit
 pet06b = prayers_en_US_goa.pet06b
 
-pet07L.incipit = prayers_en_US_holycross.pet07L.incipit
-pet07L = prayers_en_US_holycross.pet07L
+pet07L.incipit = prayers_en_US_goa.pet07L.incipit
+pet07L = prayers_en_US_goa.pet07L
 
 pet07S.incipit = prayers_en_US_goa.pet07S.incipit
 pet07S = prayers_en_US_goa.pet07S

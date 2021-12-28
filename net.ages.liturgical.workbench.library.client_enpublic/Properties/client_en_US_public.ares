@@ -1,222 +1,222 @@
 A_Resource_Whose_Name = client_en_US_public
 
-cl.name = ""
-cl.address = ""
-cl.city = ""
-cl.state = ""
-cl.zipcode = ""
-cl.email = ""
-cl.website = ""
+cl.name = client_en_US_goa.cl.name
+cl.address = client_en_US_goa.cl.address
+cl.city = client_en_US_goa.cl.city
+cl.state = client_en_US_goa.cl.state
+cl.zipcode = client_en_US_goa.cl.zipcode
+cl.email = client_en_US_goa.cl.email
+cl.website = client_en_US_goa.cl.website
 
-cl.bishop0.rank = "our Archbishop" //the superior of the local hierarch
-cl.bishop0.name_c = "(name)," //comma
-cl.bishop0.name_co = "(name):"
-cl.bishop0.name_sc = "(name);"
-cl.bishop0.name_p = "(name)." //period
-cl.bishop0.fimi.text = "(The text of the appropriate episcopal acclamation goes here.)"
+cl.bishop0.rank = client_en_US_goa.cl.bishop0.rank
+cl.bishop0.name_c = client_en_US_goa.cl.bishop0.name_c
+cl.bishop0.name_co = client_en_US_goa.cl.bishop0.name_co
+cl.bishop0.name_sc = client_en_US_goa.cl.bishop0.name_sc
+cl.bishop0.name_p = client_en_US_goa.cl.bishop0.name_p
+cl.bishop0.fimi.text = client_en_US_goa.cl.bishop0.fimi.text
 
-cl.bishop1.rank = "our Archbishop"
-cl.bishop1.name_c = "(name)," //comma
-cl.bishop1.name_co = "(name):"
-cl.bishop1.name_sc = "(name);"
-cl.bishop1.name_p = "(name)." //period
-cl.bishop1.fimi.text = "(The text of the appropriate episcopal acclamation goes here.)"
+cl.bishop1.rank = client_en_US_goa.cl.bishop1.rank
+cl.bishop1.name_c = client_en_US_goa.cl.bishop1.name_c
+cl.bishop1.name_co = client_en_US_goa.cl.bishop1.name_co
+cl.bishop1.name_sc = client_en_US_goa.cl.bishop1.name_sc
+cl.bishop1.name_p = client_en_US_goa.cl.bishop1.name_p
+cl.bishop1.fimi.text = client_en_US_goa.cl.bishop1.fimi.text
 
-cl.bishop2.rank = "" // for double commemoration or guest
-cl.bishop2.name_c = ""
-cl.bishop2.name_p = ""
-cl.bishop2.fimi.text = ""
+cl.bishop2.rank = client_en_US_goa.cl.bishop2.rank
+cl.bishop2.name_c = client_en_US_goa.cl.bishop2.name_c
+cl.bishop2.name_p = client_en_US_goa.cl.bishop2.name_p
+cl.bishop2.fimi.text = client_en_US_goa.cl.bishop2.fimi.text
 
 //To activate these settings, you must set them in client_gr_GR_cog
-cl.double_commemoration.bishop1and2 = ""
-cl.fimi.bishop1 = ""
+cl.double_commemoration.bishop1and2 = client_en_US_goa.cl.double_commemoration.bishop1and2
+cl.fimi.bishop1 = client_en_US_goa.cl.fimi.bishop1
 
-cl.localpatronsaint1.supplication = "(local patron saint);"
-cl.localpatronsaint1.dismissal = "(local patron saint);"
-cl.localpatronsaint1.greatcompline = "(local patron saint), intercede for us sinners."
+cl.localpatronsaint1.supplication = client_en_US_goa.cl.localpatronsaint1.supplication
+cl.localpatronsaint1.dismissal = client_en_US_goa.cl.localpatronsaint1.dismissal
+cl.localpatronsaint1.greatcompline = client_en_US_goa.cl.localpatronsaint1.greatcompline
 
-cl.Apolytikion1.title = "Apolytikion of the Parish Church"
-cl.Apolytikion1.mode = ""
-cl.Apolytikion1.melody = ""
-cl.Apolytikion1.text = "(Apolytikion of the Parish Church.)"
+cl.Apolytikion1.title = client_en_US_goa.cl.Apolytikion1.title
+cl.Apolytikion1.mode = client_en_US_goa.cl.Apolytikion1.mode
+cl.Apolytikion1.melody = client_en_US_goa.cl.Apolytikion1.melody
+cl.Apolytikion1.text = client_en_US_goa.cl.Apolytikion1.text
 
-cl.Kontakion1.title = "(For the Parish Church)"
-cl.Kontakion1.mode = 
-cl.Kontakion1.melody = 
-cl.Kontakion1.text = "(Kontakion for the parish church)"
+cl.Kontakion1.title = client_en_US_goa.cl.Kontakion1.title
+cl.Kontakion1.mode = client_en_US_goa.cl.Kontakion1.mode
+cl.Kontakion1.melody = client_en_US_goa.cl.Kontakion1.melody
+cl.Kontakion1.text = client_en_US_goa.cl.Kontakion1.text
 
-cl.consecration.name = "(name of the church);"
+cl.consecration.name = client_en_US_goa.cl.consecration.name
 
-cl.localpatronsaint2.supplication = "(of the chapel);"
-cl.localpatronsaint2.dismissal = "(of the chapel);"
-cl.localpatronsaint2.greatcompline = "(of the chapel), intercede for us sinners."
+cl.localpatronsaint2.supplication = client_en_US_goa.cl.localpatronsaint2.supplication
+cl.localpatronsaint2.dismissal = client_en_US_goa.cl.localpatronsaint2.dismissal
+cl.localpatronsaint2.greatcompline = client_en_US_goa.cl.localpatronsaint2.greatcompline
 
-cl.Apolytikion2.title = "Apolytikion of the Parish Chapel."
-cl.Apolytikion2.mode = ""
-cl.Apolytikion2.melody = ""
-cl.Apolytikion2.text = "(Apolytikion of the Parish Chapel.)"
+cl.Apolytikion2.title = client_en_US_goa.cl.Apolytikion2.title
+cl.Apolytikion2.mode = client_en_US_goa.cl.Apolytikion2.mode
+cl.Apolytikion2.melody = client_en_US_goa.cl.Apolytikion2.melody
+cl.Apolytikion2.text = client_en_US_goa.cl.Apolytikion2.text
 
-cl.Kontakion2.title = "Of the Parish Chapel."
-cl.Kontakion2.mode = ""
-cl.Kontakion2.melody = ""
-cl.Kontakion2.text = "(Kontakion of the Parish Chapel.)"
+cl.Kontakion2.title = client_en_US_goa.cl.Kontakion2.title
+cl.Kontakion2.mode = client_en_US_goa.cl.Kontakion2.mode
+cl.Kontakion2.melody = client_en_US_goa.cl.Kontakion2.melody
+cl.Kontakion2.text = client_en_US_goa.cl.Kontakion2.text
 
-cl.consecration2.name = "(name of the Chapel),"
+cl.consecration2.name = client_en_US_goa.cl.consecration2.name
 
-cl.relics.saint1 = ""
-cl.relics.saint1.Apolytikion.title = ""
-cl.relics.saint1.Apolytikion.mode = ""
-cl.relics.saint1.Apolytikion.melody = ""
-cl.relics.saint1.Apolytikion.text = ""
+cl.relics.saint1 = client_en_US_goa.cl.relics.saint1
+cl.relics.saint1.Apolytikion.title = client_en_US_goa.cl.relics.saint1.Apolytikion.title
+cl.relics.saint1.Apolytikion.mode = client_en_US_goa.cl.relics.saint1.Apolytikion.mode
+cl.relics.saint1.Apolytikion.melody = client_en_US_goa.cl.relics.saint1.Apolytikion.melody
+cl.relics.saint1.Apolytikion.text = client_en_US_goa.cl.relics.saint1.Apolytikion.text
 
-cl.relics.saint2 = ""
-cl.relics.saint2.Apolytikion.title = ""
-cl.relics.saint2.Apolytikion.mode = ""
-cl.relics.saint2.Apolytikion.melody = ""
-cl.relics.saint2.Apolytikion.text = ""
+cl.relics.saint2 = client_en_US_goa.cl.relics.saint2
+cl.relics.saint2.Apolytikion.title = client_en_US_goa.cl.relics.saint2.Apolytikion.title
+cl.relics.saint2.Apolytikion.mode = client_en_US_goa.cl.relics.saint2.Apolytikion.mode
+cl.relics.saint2.Apolytikion.melody = client_en_US_goa.cl.relics.saint2.Apolytikion.melody
+cl.relics.saint2.Apolytikion.text = client_en_US_goa.cl.relics.saint2.Apolytikion.text
 
-cl.relics.saint3 = ""
-cl.relics.saint3.Apolytikion.title = ""
-cl.relics.saint3.Apolytikion.mode = ""
-cl.relics.saint3.Apolytikion.melody = ""
-cl.relics.saint3.Apolytikion.text = ""
+cl.relics.saint3 = client_en_US_goa.cl.relics.saint3
+cl.relics.saint3.Apolytikion.title = client_en_US_goa.cl.relics.saint3.Apolytikion.title
+cl.relics.saint3.Apolytikion.mode = client_en_US_goa.cl.relics.saint3.Apolytikion.mode
+cl.relics.saint3.Apolytikion.melody = client_en_US_goa.cl.relics.saint3.Apolytikion.melody
+cl.relics.saint3.Apolytikion.text = client_en_US_goa.cl.relics.saint3.Apolytikion.text
 
-cl.saints.array01.text = ""
-cl.saints.array02.text = ""
-cl.saints.array03.text = ""
-cl.saints.array04.text = ""
+cl.saints.array01.text = client_en_US_goa.cl.saints.array01.text
+cl.saints.array02.text = client_en_US_goa.cl.saints.array02.text
+cl.saints.array03.text = client_en_US_goa.cl.saints.array03.text
+cl.saints.array04.text = client_en_US_goa.cl.saints.array04.text
 
 //Rubrics
-cl.eu.lichrysbasil.R001 = "(The designated verses from the Psalms are sung with the hymn:)"
-cl.eu.lichrysbasil.R002 = "(The designated verses from the Psalms are sung with the hymn:)"
-cl.eu.lichrysbasil.R003 = "(On weekdays we sing: (\"who are wondrous in the saints\"; the Feasts of the Lord have their own refrain.)"
-cl.eu.lichrysbasil.R004 = "(The designated verses of the Psalms are sung with the Apolytikion.)"
-cl.eu.lichrysbasil.R005 = "(While the Apolytikion is sung, the priest carrying the holy Gospel Book comes in procession before the Beautiful Gate of the ikonostasis offering in a low voice the following prayer:)"
-cl.eu.lichrysbasil.R006 = "(On weekdays we sing: (\"who are wondrous in the saints\"), while the Feasts of the Lord have their own Entrance Hymns.)"
-cl.eu.lichrysbasil.R007 = "(The priest enters the sanctuary. The Apolytikion is repeated and the Troparion of the church and the Kontakion of the day are sung.)"
-cl.eu.lichrysbasil.R008 = "(The Reader reads the verses from the Psalms.)"
-cl.eu.lichrysbasil.R009 = "The reading is from (the name of the book of the New Testament from which the Apostolic reading is taken)."
-cl.eu.lichrysbasil.R010 = "(The Reader reads the designated Apostolic pericope.)"
-cl.eu.lichrysbasil.R011 = "The reading is from the Holy Gospel according to (Name). Let us be attentive."
-cl.eu.lichrysbasil.R012 = "(The Deacon reads the designated pericope of the holy Gospel.)"
-cl.eu.lichrysbasil.R013 = "(Following the readings, it is customary for the priest to preach the sermon.)"
-cl.eu.lichrysbasil.R014 = "(The Communion Hymn changes according to the Feast Day.)"
+cl.eu.lichrysbasil.R001 = client_en_US_goa.cl.eu.lichrysbasil.R001
+cl.eu.lichrysbasil.R002 = client_en_US_goa.cl.eu.lichrysbasil.R002
+cl.eu.lichrysbasil.R003 = client_en_US_goa.cl.eu.lichrysbasil.R003
+cl.eu.lichrysbasil.R004 = client_en_US_goa.cl.eu.lichrysbasil.R004
+cl.eu.lichrysbasil.R005 = client_en_US_goa.cl.eu.lichrysbasil.R005
+cl.eu.lichrysbasil.R006 = client_en_US_goa.cl.eu.lichrysbasil.R006
+cl.eu.lichrysbasil.R007 = client_en_US_goa.cl.eu.lichrysbasil.R007
+cl.eu.lichrysbasil.R008 = client_en_US_goa.cl.eu.lichrysbasil.R008
+cl.eu.lichrysbasil.R009 = client_en_US_goa.cl.eu.lichrysbasil.R009
+cl.eu.lichrysbasil.R010 = client_en_US_goa.cl.eu.lichrysbasil.R010
+cl.eu.lichrysbasil.R011 = client_en_US_goa.cl.eu.lichrysbasil.R011
+cl.eu.lichrysbasil.R012 = client_en_US_goa.cl.eu.lichrysbasil.R012
+cl.eu.lichrysbasil.R013 = client_en_US_goa.cl.eu.lichrysbasil.R013
+cl.eu.lichrysbasil.R014 = client_en_US_goa.cl.eu.lichrysbasil.R014
 
-cl.eu.presanctified.R001 = "(Go to the insert for today's appointed hymns and readings.)"
-cl.eu.presanctified.R002 = "(Go back to the Presanctified Liturgy booklet.)"
-cl.eu.presanctified.R003 = "(During the first three weeks of Lent, the following litany and the Prayer for those Preparing for Illumination are omitted.)"
-cl.eu.presanctified.R004 = "(Go back to the Presanctified Liturgy booklet. After \"Let my prayer…\" find the Epistle and Gospel readings here.)"
-cl.eu.presanctified.R005 = "(Go back to the Presanctified Liturgy booklet. After \"Let my prayer…\" find the Gospel reading here.)"
-cl.eu.presanctified.R006 = "(If there is to be an Epistle and/or Gospel reading, find them in the insert, then come back to this place in the service.)"
+cl.eu.presanctified.R001 = client_en_US_goa.cl.eu.presanctified.R001
+cl.eu.presanctified.R002 = client_en_US_goa.cl.eu.presanctified.R002
+cl.eu.presanctified.R003 = client_en_US_goa.cl.eu.presanctified.R003
+cl.eu.presanctified.R004 = client_en_US_goa.cl.eu.presanctified.R004
+cl.eu.presanctified.R005 = client_en_US_goa.cl.eu.presanctified.R005
+cl.eu.presanctified.R006 = client_en_US_goa.cl.eu.presanctified.R006
 
-cl.ho.s06.R001 = "If the Ninth Hour is to be appended, the dismissal of the Sixth Hour is omitted, and the Ninth Hour begins immediately at \"Holy God…\" without \"Blessed is our God… Heavenly King…\""
+cl.ho.s06.R001 = client_en_US_goa.cl.ho.s06.R001
 
-cl.ho.s09.R001 = "If preceded by the Sixth Hour, the Ninth Hour begins immediately at \"Holy God…\" without \"Blessed is our God… Heavenly King…\""
+cl.ho.s09.R001 = client_en_US_goa.cl.ho.s09.R001
 
-cl.ho.s10.R001 = "If preceded by the Ninth Hour, Vespers begins without \"Blessed is our God…\""
-cl.ho.s10.R002 = "After the Peace Litany and the exclamation comes the reading of the appointed Kathisma of the Psalter. In parishes today it is customary to omit the recitation of the Psalter except on festal Vespers and at Presanctified Liturgy. Many will also keep the order of reciting the First Kathisma at vespers on Saturday evening."
-cl.ho.s10.R003 = "The appointed Psalms are offered here on separate pages for those who wish to include them."
+cl.ho.s10.R001 = client_en_US_goa.cl.ho.s10.R001
+cl.ho.s10.R002 = client_en_US_goa.cl.ho.s10.R002
+cl.ho.s10.R003 = client_en_US_goa.cl.ho.s10.R003
 
-cl.ho.s23.R001 = "In many monasteries and churches, the Canon of the Paraklesis is chanted without the Heirmoi (except perhaps in Ode ix of Small Paraklesis, in order to make an even number of troparia and thus to avoid repeating one.)"
-cl.ho.s23.R002 = "(The Heirmos may be omitted.)"
-cl.ho.s23.R003 = "(The Antiphon may be omitted, in which case we immediately sing the Prokeimenon.)"
+cl.ho.s23.R001 = client_en_US_goa.cl.ho.s23.R001
+cl.ho.s23.R002 = client_en_US_goa.cl.ho.s23.R002
+cl.ho.s23.R003 = client_en_US_goa.cl.ho.s23.R003
 
-cl.hw.synaxarion.rubric = ""
+cl.hw.synaxarion.rubric = client_en_US_goa.cl.hw.synaxarion.rubric
 
-cl.LI.R001 = "An optional alternative to the Antiphons are the Typika (Psalms 102 and 145), and the Beatitudes with the appointed troparia, which are provided here."
-cl.LI.R002 = ""
+cl.LI.R001 = client_en_US_goa.cl.LI.R001
+cl.LI.R002 = client_en_US_goa.cl.LI.R002
 
-cl.me.m01.d06.R001 = "The [second] choir sings the following Idiomelon, up to the asterisk; then the first choir begins the Great Doxology, starting with the last verse of the Idiomelon: \"Glory be to God…\""
-cl.me.m02.d02.R001 = "In Ode ix, if only the canon of the feast will be sung with its Megalynaria, then we do not sing the Magnificat nor Ode ix of the Resurrectional canon. However, if the correct order is kept, then we sing only as many festal Megalynaria as needed for the number of troparia of the canon of the feast."
-cl.me.m02.d10.R001 = "When the Saturday of the Souls falls on Feb. 10, the memory of St. Haralambos is observed one day before, on Friday, Feb. 9, along with the Leave-taking of the Meeting of the Lord."
+cl.me.m01.d06.R001 = client_en_US_goa.cl.me.m01.d06.R001
+cl.me.m02.d02.R001 = client_en_US_goa.cl.me.m02.d02.R001
+cl.me.m02.d10.R001 = client_en_US_goa.cl.me.m02.d10.R001
 
-cl.me.m08.vespers_entrance.R001 = "According to the Patriarchal Hemerologion, during the first two weeks of August, whenever Vespers will be followed by a Supplicatory Canon, it is customary for there to be an Entrance with incense."
-cl.me.m08.vespers_canon.R001 = "At Vespers during the first two weeks of August, with some exceptions, the appointed Supplicatory Canon to the Most-holy Theotokos is appended."
+cl.me.m08.vespers_entrance.R001 = client_en_US_goa.cl.me.m08.vespers_entrance.R001
+cl.me.m08.vespers_canon.R001 = client_en_US_goa.cl.me.m08.vespers_canon.R001
 
-cl.me.m09.d01.R001 = "There are a number of options for the content of the services for September 1. The Patriarchal Hemerologion, which we aspire to follow, describes the Patriarchate's added special commemorations of an Icon of the Theotokos as well as the Environment, and then indicates that, presumably for the rest of us, the service should be celebrated according to the Menaion."
+cl.me.m09.d01.R001 = client_en_US_goa.cl.me.m09.d01.R001
 
 //Sep. 14
-cl.me.m09.d14.R001 = "The Doxology follows immediately."
-cl.me.m09.d14.R002 = "(Mode 4 \"Agia\" is preferred for today.)"
-cl.me.m09.d14.R003 = "If the Service of the Elevation of the Cross will occur at the end of Liturgy then sing the following. Otherwise, see below."
-cl.me.m09.d14.R004 = "Special Service of the Elevation"
-cl.me.m09.d14.R005 = "(The procession with the cross takes place during singing of the Asmatic Holy God.)"
-cl.me.m09.d14.R006 = "For each petition, the choir sings \"Lord, have mercy,\" 3-10-3 times (or 3-40-3, or 3-100-3)."
-cl.me.m09.d14.R007 = "(As the people venerate the cross, sing the following hymn:)"
+cl.me.m09.d14.R001 = client_en_US_goa.cl.me.m09.d14.R001
+cl.me.m09.d14.R002 = client_en_US_goa.cl.me.m09.d14.R002
+cl.me.m09.d14.R003 = client_en_US_goa.cl.me.m09.d14.R003
+cl.me.m09.d14.R004 = client_en_US_goa.cl.me.m09.d14.R004
+cl.me.m09.d14.R005 = client_en_US_goa.cl.me.m09.d14.R005
+cl.me.m09.d14.R006 = client_en_US_goa.cl.me.m09.d14.R006
+cl.me.m09.d14.R007 = client_en_US_goa.cl.me.m09.d14.R007
 
-cl.me.m10.d26.R001 = "Use the verses in the text if they differ from those in the scores."
+cl.me.m10.d26.R001 = client_en_US_goa.cl.me.m10.d26.R001
 
-cl.me.m11.d09.R001 = "The full canons in English are unavailable at this time. Therefore we are offering a modified order and partial canon."
+cl.me.m11.d09.R001 = client_en_US_goa.cl.me.m11.d09.R001
 
 // Nov. 14
-cl.me.m11.d14.R001 = "The rubrics for this day say to sing the Kathismata of the Mode and day of the week from the Parakletike (Octoechos). Since most parishes are not familiar with these hymns, and since they change from year to year, we have not included them here."
-cl.me.m11.d14.R002 = "The rubrics for this day say to sing the Heirmoi of Odes 3, 6, 8, and 9 of the Canon of the Menaion. Most parishes would not be familiar with this, so we have inserted Katavasias instead."
+cl.me.m11.d14.R001 = client_en_US_goa.cl.me.m11.d14.R001
+cl.me.m11.d14.R002 = client_en_US_goa.cl.me.m11.d14.R002
 
-cl.me.m12.d25.R001 = "The [second] choir sings the following Idiomelon, up to the asterisk; then the first choir begins the Great Doxology, starting with the last verse of the Idiomelon: \"Glory to God in the highest…\""
+cl.me.m12.d25.R001 = client_en_US_goa.cl.me.m12.d25.R001
 
-cl.pe.d072.R001 = "The Patriarchal Typikon omits the Prophecies on this day and says that only the Gospel lesson should be read."
-cl.pe.d078.R001 = "According to the Patriarchal Hemerologion:"
-cl.pe.d078.R002 = "According to common practice:"
-cl.pe.d110.R001 = "The Patriarchal Typikon says to sing the troparia without the verse, \"Glory to You, our God…\"."
-cl.pe.d119.R001 = "The Patriarchal Typikon indicates, as usual, that the entire canon be sung. Typically in parishes only the Katavasias are used. This day does not present festal Katavasias, but rather the Heirmoi of the canon are used, which thematically have nothing to do with the Saturday of the Souls. I have therefore included Ode ix in its entirety, edited for the enrichment and edification of both chanters and listeners. Since Saturday of the Souls is not a great feast, Ode ix is, as usual, preceded by the Magnificat."
+cl.pe.d072.R001 = client_en_US_goa.cl.pe.d072.R001
+cl.pe.d078.R001 = client_en_US_goa.cl.pe.d078.R001
+cl.pe.d078.R002 = client_en_US_goa.cl.pe.d078.R002
+cl.pe.d110.R001 = client_en_US_goa.cl.pe.d110.R001
+cl.pe.d119.R001 = client_en_US_goa.cl.pe.d119.R001
 
 //Service Books
-cl.sb.vo.sun.R001 = "(Go to insert: Vespers Stichera)"
-cl.sb.vo.sun.R002 = "(Return to booklet: Entrance)"
-cl.sb.vo.sun.R003 = "(Go to insert: Readings)"
-cl.sb.vo.sun.R004 = "(Return to booklet: Litanies)"
-cl.sb.vo.sun.R005 = "(Go to insert: Aposticha)"
-cl.sb.vo.sun.R006 = "(Return to booklet: Prayer of St. Symeon)"
-cl.sb.vo.sun.R007 = "(Go to insert: Apolytikia)"
-cl.sb.vo.sun.R008 = "(Return to booklet: Dismissal)"
+cl.sb.vo.sun.R001 = client_en_US_goa.cl.sb.vo.sun.R001
+cl.sb.vo.sun.R002 = client_en_US_goa.cl.sb.vo.sun.R002
+cl.sb.vo.sun.R003 = client_en_US_goa.cl.sb.vo.sun.R003
+cl.sb.vo.sun.R004 = client_en_US_goa.cl.sb.vo.sun.R004
+cl.sb.vo.sun.R005 = client_en_US_goa.cl.sb.vo.sun.R005
+cl.sb.vo.sun.R006 = client_en_US_goa.cl.sb.vo.sun.R006
+cl.sb.vo.sun.R007 = client_en_US_goa.cl.sb.vo.sun.R007
+cl.sb.vo.sun.R008 = client_en_US_goa.cl.sb.vo.sun.R008
 
-cl.se.R001 = "Use the verses in the text if they differ from those in the scores."
+cl.se.R001 = client_en_US_goa.cl.se.R001
 
 //Lent Soul Saturday
-cl.tr.d014.R001 = "The Patriarchal Typikon indicates, as usual, that the entire canon be sung. Ode ix is presented in its entirety, for the enrichment and edification of both singers and listeners. Since Saturday of the Souls is not a great feast, Ode ix is, as usual, preceded by the Magnificat."
-cl.tr.d014.R002 = "Each of the next five troparia may be preceded by the verse: \"Glory to You, our God, glory to You.\""
+cl.tr.d014.R001 = client_en_US_goa.cl.tr.d014.R001
+cl.tr.d014.R002 = client_en_US_goa.cl.tr.d014.R002
 
 //Lent Cheese Saturday
-cl.tr.d021.R001 = "The Patriarchal Typikon indicates, as usual, that the entire canon be sung. Typically in parishes only the Katavasias are chanted. Ode ix is presented in its entirety, for the enrichment and edification of both singers and listeners. Since this Saturday of Cheesefare week is not a great feast, Ode ix is, as usual, preceded by the Magnificat."
+cl.tr.d021.R001 = client_en_US_goa.cl.tr.d021.R001
 
 //Forgiveness Vespers
-cl.tr.d023.R001 = "The mode and first four stichera from the Octoechos, as well as the last three stichera and Theotokion from the Menaion, depend on the date, and therefore they change from year to year."
-cl.tr.d023.R002 = "As the following Theotokion is being sung by the left choir, all the faithful in attendance file past the priest (or hierarch if present) to kiss his hand and receive forgiveness."
+cl.tr.d023.R001 = client_en_US_goa.cl.tr.d023.R001
+cl.tr.d023.R002 = client_en_US_goa.cl.tr.d023.R002
 
 //Sat of Akathist
-cl.tr.d056.R001 = "The priest, vested in epitrachilion and phelonion, stands before the Icon of the Theotokos, and he intones the Oikos."
+cl.tr.d056.R001 = client_en_US_goa.cl.tr.d056.R001
 
 //Lent 3
-cl.tr.d043.R001 = "As the choirs sing the Holy God for the Great Doxology, the priest processes to the solea or around the nave of the church holding the tray with the cross. On the solea he circles the table three times before placing it on the table. When the Doxology is finished, he says:"
-cl.tr.d043.R002 = "The clergy venerate the cross first, followed by the faithful. While they are venerating, the following Idiomela may be chanted."
-cl.tr.d043.R003 = "When the veneration is finished, the priest returns the cross to the holy altar."
-cl.tr.d043.R011 = "At the end of the Divine Liturgy, after the hymn \"Blessed be the name of the Lord,\" the choir sings the slow \"Holy God\" of the Great Doxology; the priest processes to the solea or around the nave of the church holding the tray with the cross. On the solea he circles the table three times before placing it on the table."
-cl.tr.d043.R012 = " When the \"Holy God\" is finished, the priest says:"
+cl.tr.d043.R001 = client_en_US_goa.cl.tr.d043.R001
+cl.tr.d043.R002 = client_en_US_goa.cl.tr.d043.R002
+cl.tr.d043.R003 = client_en_US_goa.cl.tr.d043.R003
+cl.tr.d043.R011 = client_en_US_goa.cl.tr.d043.R011
+cl.tr.d043.R012 = client_en_US_goa.cl.tr.d043.R012
 
-cl.tr.d069.ma.R001 = ""
-cl.tr.d069.gh.R001 = ""
-cl.tr.d069.gh.R002 = ""
+cl.tr.d069.ma.R001 = client_en_US_goa.cl.tr.d069.ma.R001
+cl.tr.d069.gh.R001 = client_en_US_goa.cl.tr.d069.gh.R001
+cl.tr.d069.gh.R002 = client_en_US_goa.cl.tr.d069.gh.R002
 
-cl.tr.d070.R301 = "The clergy come out of the sanctuary and stand in front of the Epitaphion, censing and beginning each stanza."
-cl.tr.d070.R302 = "(End with the first one again.)"
-cl.tr.d070.R303 = "Repeat the following verse several times, as the priest sprinkles the tomb and the people."
-cl.tr.d070.R304 = "The procession of the canopied Epitaphion around the Sanctuary takes place."
-cl.tr.d070.R305 = "As the Clergy with the canopied Epitaphion enter the Sanctuary:"
+cl.tr.d070.R301 = client_en_US_goa.cl.tr.d070.R301
+cl.tr.d070.R302 = client_en_US_goa.cl.tr.d070.R302
+cl.tr.d070.R303 = client_en_US_goa.cl.tr.d070.R303
+cl.tr.d070.R304 = client_en_US_goa.cl.tr.d070.R304
+cl.tr.d070.R305 = client_en_US_goa.cl.tr.d070.R305
 
-cl.tr.d071.mo.R701 = "The Synaxarion from the Menaion is read here, so that at Matins only the Synaxarion for Pascha will be read."
+cl.tr.d071.mo.R701 = client_en_US_goa.cl.tr.d071.mo.R701
 
 //keys for merged media files
-cl.tr.d065.ma.mergedscore.text = "Bridegroom Service on Sunday Evening"
-cl.tr.d066.ma.mergedscore.text = "Bridegroom Service on Monday Evening"
-cl.tr.d067.ma.mergedscore.text = "Bridegroom Service on Tuesday Evening"
-cl.tr.d068.ma.mergedscore.text = "Bridegroom Service on Wednesday Evening"
-cl.tr.d069.vl.mergedscore.text = "Vesperal Liturgy on Thursday Morning"
-cl.tr.d069.ma.mergedscore.text = "Twelve Passion Gospels on Thursday Evening"
-cl.tr.d069.gh.mergedscore.text = "Great Hours on Friday Morning"
-cl.tr.d070.ve.mergedscore.text = "Removal from the Cross on Friday Afternoon"
-cl.tr.d070.ma.mergedscore.text = "Graveside Lamentation on Friday Evening"
-cl.tr.d071.vl.mergedscore.text = "Vesperal Liturgy on Saturday Morning"
-cl.pe.d071.ma.mergedscore.text = "Resurrection and Matins of Pascha"
-cl.pe.d071.li.mergedscore.text = "Divine Liturgy of Pascha"
-cl.pe.d072.ve.mergedscore.text = "Agape Vespers"
+cl.tr.d065.ma.mergedscore.text = client_en_US_goa.cl.tr.d065.ma.mergedscore.text
+cl.tr.d066.ma.mergedscore.text = client_en_US_goa.cl.tr.d066.ma.mergedscore.text
+cl.tr.d067.ma.mergedscore.text = client_en_US_goa.cl.tr.d067.ma.mergedscore.text
+cl.tr.d068.ma.mergedscore.text = client_en_US_goa.cl.tr.d068.ma.mergedscore.text
+cl.tr.d069.vl.mergedscore.text = client_en_US_goa.cl.tr.d069.vl.mergedscore.text
+cl.tr.d069.ma.mergedscore.text = client_en_US_goa.cl.tr.d069.ma.mergedscore.text
+cl.tr.d069.gh.mergedscore.text = client_en_US_goa.cl.tr.d069.gh.mergedscore.text
+cl.tr.d070.ve.mergedscore.text = client_en_US_goa.cl.tr.d070.ve.mergedscore.text
+cl.tr.d070.ma.mergedscore.text = client_en_US_goa.cl.tr.d070.ma.mergedscore.text
+cl.tr.d071.vl.mergedscore.text = client_en_US_goa.cl.tr.d071.vl.mergedscore.text
+cl.pe.d071.ma.mergedscore.text = client_en_US_goa.cl.pe.d071.ma.mergedscore.text
+cl.pe.d071.li.mergedscore.text = client_en_US_goa.cl.pe.d071.li.mergedscore.text
+cl.pe.d072.ve.mergedscore.text = client_en_US_goa.cl.pe.d072.ve.mergedscore.text
 

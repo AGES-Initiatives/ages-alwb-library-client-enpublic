@@ -88,35 +88,35 @@ peVE.SticGlory.melody = pe.d110_en_US_dedes.peVE.SticGlory.melody
 peVE.SticGlory.incipit = pe.d110_en_US_dedes.peVE.SticGlory.incipit
 peVE.SticGlory.text = pe.d110_en_US_dedes.peVE.SticGlory.text
 
-peVE.Lity1.mode = pe.d110_en_US_dedes.peVE.Lity1.mode
-peVE.Lity1.melody = pe.d110_en_US_dedes.peVE.Lity1.melody
-peVE.Lity1.incipit = pe.d110_en_UK_lash.peVE.Lity1.incipit
-peVE.Lity1.text = pe.d110_en_UK_lash.peVE.Lity1.text
+peVE.Lity1.mode = pe.d110_en_US_goadedes.peVE.Lity1.mode
+peVE.Lity1.melody = pe.d110_en_US_goadedes.peVE.Lity1.melody
+peVE.Lity1.incipit = pe.d110_en_US_goadedes.peVE.Lity1.incipit
+peVE.Lity1.text = pe.d110_en_US_goadedes.peVE.Lity1.text
 
-peVE.Lity2.mode = pe.d110_en_US_dedes.peVE.Lity2.mode
-peVE.Lity2.melody = pe.d110_en_US_dedes.peVE.Lity2.melody
-peVE.Lity2.incipit = pe.d110_en_UK_lash.peVE.Lity2.incipit
-peVE.Lity2.text = pe.d110_en_UK_lash.peVE.Lity2.text
+peVE.Lity2.mode = pe.d110_en_US_goadedes.peVE.Lity2.mode
+peVE.Lity2.melody = pe.d110_en_US_goadedes.peVE.Lity2.melody
+peVE.Lity2.incipit = pe.d110_en_US_goadedes.peVE.Lity2.incipit
+peVE.Lity2.text = pe.d110_en_US_goadedes.peVE.Lity2.text
 
-peVE.Lity3.mode = pe.d110_en_US_dedes.peVE.Lity3.mode
-peVE.Lity3.melody = pe.d110_en_US_dedes.peVE.Lity3.melody
-peVE.Lity3.incipit = pe.d110_en_UK_lash.peVE.Lity3.incipit
-peVE.Lity3.text = pe.d110_en_UK_lash.peVE.Lity3.text
+peVE.Lity3.mode = pe.d110_en_US_goadedes.peVE.Lity3.mode
+peVE.Lity3.melody = pe.d110_en_US_goadedes.peVE.Lity3.melody
+peVE.Lity3.incipit = pe.d110_en_US_goadedes.peVE.Lity3.incipit
+peVE.Lity3.text = pe.d110_en_US_goadedes.peVE.Lity3.text
 
-peVE.Lity4.mode = pe.d110_en_US_dedes.peVE.Lity4.mode
-peVE.Lity4.melody = pe.d110_en_US_dedes.peVE.Lity4.melody
-peVE.Lity4.incipit = pe.d110_en_UK_lash.peVE.Lity4.incipit
-peVE.Lity4.text = pe.d110_en_UK_lash.peVE.Lity4.text
+peVE.Lity4.mode = pe.d110_en_US_goadedes.peVE.Lity4.mode
+peVE.Lity4.melody = pe.d110_en_US_goadedes.peVE.Lity4.melody
+peVE.Lity4.incipit = pe.d110_en_US_goadedes.peVE.Lity4.incipit
+peVE.Lity4.text = pe.d110_en_US_goadedes.peVE.Lity4.text
 
-peVE.Lity5.mode = pe.d110_en_US_dedes.peVE.Lity5.mode
-peVE.Lity5.melody = pe.d110_en_US_dedes.peVE.Lity5.melody
-peVE.Lity5.incipit = pe.d110_en_UK_lash.peVE.Lity5.incipit
-peVE.Lity5.text = pe.d110_en_UK_lash.peVE.Lity5.text
+peVE.Lity5.mode = pe.d110_en_US_goadedes.peVE.Lity5.mode
+peVE.Lity5.melody = pe.d110_en_US_goadedes.peVE.Lity5.melody
+peVE.Lity5.incipit = pe.d110_en_US_goadedes.peVE.Lity5.incipit
+peVE.Lity5.text = pe.d110_en_US_goadedes.peVE.Lity5.text
 
-peVE.Lity6.mode = pe.d110_en_US_dedes.peVE.Lity6.mode
-peVE.Lity6.melody = pe.d110_en_US_dedes.peVE.Lity6.melody
-peVE.Lity6.incipit = pe.d110_en_UK_lash.peVE.Lity6.incipit
-peVE.Lity6.text = pe.d110_en_UK_lash.peVE.Lity6.text
+peVE.Lity6.mode = pe.d110_en_US_goadedes.peVE.Lity6.mode
+peVE.Lity6.melody = pe.d110_en_US_goadedes.peVE.Lity6.melody
+peVE.Lity6.incipit = pe.d110_en_US_goadedes.peVE.Lity6.incipit
+peVE.Lity6.text = pe.d110_en_US_goadedes.peVE.Lity6.text
 
 peVE.LityGlory.mode = pe.d110_en_US_dedes.peVE.LityGlory.mode
 peVE.LityGlory.melody = pe.d110_en_US_dedes.peVE.LityGlory.melody

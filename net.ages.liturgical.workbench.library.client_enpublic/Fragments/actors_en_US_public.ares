@@ -28,3 +28,4 @@ Priest2 = actors_en_US_goa.Priest2
 PriestOrDeacon = actors_en_US_goa.PriestOrDeacon
 Reader = actors_en_US_goa.Reader
 Superior = actors_en_US_goa.Superior
+SuperiorOrReader = actors_en_US_goa.SuperiorOrReader
