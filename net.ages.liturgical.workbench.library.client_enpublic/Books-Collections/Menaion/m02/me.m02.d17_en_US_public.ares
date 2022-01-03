@@ -367,10 +367,10 @@ meMA.LaudsGlory.melody = me.m02.d17_en_US_dedes.meMA.LaudsGlory.melody
 meMA.LaudsGlory.incipit = me.m02.d17_en_US_dedes.meMA.LaudsGlory.incipit
 meMA.LaudsGlory.text = me.m02.d17_en_US_dedes.meMA.LaudsGlory.text
 
-meMA.LaudsTheotokion.mode = me.m02.d17_en_US_dedes.meMA.LaudsTheotokion.mode
-meMA.LaudsTheotokion.melody = me.m02.d17_en_US_dedes.meMA.LaudsTheotokion.melody
-meMA.LaudsTheotokion.incipit = me.m02.d17_en_US_dedes.meMA.LaudsTheotokion.incipit
-meMA.LaudsTheotokion.text = me.m02.d17_en_US_dedes.meMA.LaudsTheotokion.text
+meMA.LaudsTheotokion.mode = me.m02.d17_en_US_goadedes.meMA.LaudsTheotokion.mode
+meMA.LaudsTheotokion.melody = me.m02.d17_en_US_goadedes.meMA.LaudsTheotokion.melody
+meMA.LaudsTheotokion.incipit = me.m02.d17_en_US_goadedes.meMA.LaudsTheotokion.incipit
+meMA.LaudsTheotokion.text = me.m02.d17_en_US_goadedes.meMA.LaudsTheotokion.text
 
 meMA.LaudsStavrotheotokion.mode = me.m02.d17_en_US_dedes.meMA.LaudsStavrotheotokion.mode
 meMA.LaudsStavrotheotokion.melody = me.m02.d17_en_US_dedes.meMA.LaudsStavrotheotokion.melody

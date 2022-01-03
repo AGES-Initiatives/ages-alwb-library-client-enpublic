@@ -782,8 +782,8 @@ meMA.Aposticha3.text = me.m01.d02_en_US_oca.meMA.Aposticha3.text
 meMA.AposGlory.poet = me.m01.d02_en_US_dedes.meMA.AposGlory.poet
 meMA.AposGlory.mode = me.m01.d02_en_US_dedes.meMA.AposGlory.mode
 meMA.AposGlory.melody = me.m01.d02_en_US_dedes.meMA.AposGlory.melody
-meMA.AposGlory.incipit = me.m01.d02_en_US_oca.meMA.AposGlory.incipit
-meMA.AposGlory.text = me.m01.d02_en_US_oca.meMA.AposGlory.text
+meMA.AposGlory.incipit = me.m01.d02_en_US_dedes.meMA.AposGlory.incipit
+meMA.AposGlory.text = me.m01.d02_en_US_dedes.meMA.AposGlory.text
 
 meLI.Kontakion1.mode = me.m01.d02_en_US_dedes.meLI.Kontakion1.mode
 meLI.Kontakion1.melody = me.m01.d02_en_US_dedes.meLI.Kontakion1.melody
