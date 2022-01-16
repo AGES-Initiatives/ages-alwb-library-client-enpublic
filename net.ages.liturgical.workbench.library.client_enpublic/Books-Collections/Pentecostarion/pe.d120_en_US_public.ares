@@ -510,16 +510,16 @@ peMA.Ode8C12.melody = pe.d120_en_US_goadedes.peMA.Ode8C12.melody
 peMA.Ode8C12.incipit = pe.d120_en_US_goadedes.peMA.Ode8C12.incipit
 peMA.Ode8C12.text = pe.d120_en_US_goadedes.peMA.Ode8C12.text
 
-peMA.Ode8C2H.ode = pe.d120_en_US_dedes.peMA.Ode8C2H.ode
-peMA.Ode8C2H.mode = pe.d120_en_US_dedes.peMA.Ode8C2H.mode
-peMA.Ode8C2H.melody = pe.d120_en_US_dedes.peMA.Ode8C2H.melody
-peMA.Ode8C2H.incipit = pe.d120_en_US_dedes.peMA.Ode8C2H.incipit
-peMA.Ode8C2H.text = pe.d120_en_US_dedes.peMA.Ode8C2H.text
-peMA.Ode8C2H1.text = pe.d120_en_US_dedes.peMA.Ode8C2H1.text
-peMA.Ode8C2H2.text = pe.d120_en_US_dedes.peMA.Ode8C2H2.text
-peMA.Ode8C2H3.text = pe.d120_en_US_dedes.peMA.Ode8C2H3.text
-peMA.Ode8C2H4.text = pe.d120_en_US_dedes.peMA.Ode8C2H4.text
-peMA.Ode8C2H5.text = pe.d120_en_US_dedes.peMA.Ode8C2H5.text
+peMA.Ode8C2H.ode = pe.d120_en_US_goadedes.peMA.Ode8C2H.ode
+peMA.Ode8C2H.mode = pe.d120_en_US_goadedes.peMA.Ode8C2H.mode
+peMA.Ode8C2H.melody = pe.d120_en_US_goadedes.peMA.Ode8C2H.melody
+peMA.Ode8C2H.incipit = pe.d120_en_US_goadedes.peMA.Ode8C2H.incipit
+peMA.Ode8C2H.text = pe.d120_en_US_goadedes.peMA.Ode8C2H.text
+peMA.Ode8C2H1.text = pe.d120_en_US_goadedes.peMA.Ode8C2H1.text
+peMA.Ode8C2H2.text = pe.d120_en_US_goadedes.peMA.Ode8C2H2.text
+peMA.Ode8C2H3.text = pe.d120_en_US_goadedes.peMA.Ode8C2H3.text
+peMA.Ode8C2H4.text = pe.d120_en_US_goadedes.peMA.Ode8C2H4.text
+peMA.Ode8C2H5.text = pe.d120_en_US_goadedes.peMA.Ode8C2H5.text
 
 peMA.Ode8C21.ode = pe.d120_en_US_dedes.peMA.Ode8C21.ode
 peMA.Ode8C21.mode = pe.d120_en_US_dedes.peMA.Ode8C21.mode
