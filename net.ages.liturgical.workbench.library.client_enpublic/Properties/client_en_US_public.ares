@@ -127,6 +127,8 @@ cl.hw.synaxarion.rubric = client_en_US_goa.cl.hw.synaxarion.rubric
 
 cl.LI.R001 = client_en_US_goa.cl.LI.R001
 cl.LI.R002 = client_en_US_goa.cl.LI.R002
+cl.LI.R003 = client_en_US_goa.cl.LI.R003
+cl.LI.R004 = client_en_US_goa.cl.LI.R004
 
 cl.me.m01.d06.R001 = client_en_US_goa.cl.me.m01.d06.R001
 cl.me.m02.d02.R001 = client_en_US_goa.cl.me.m02.d02.R001
