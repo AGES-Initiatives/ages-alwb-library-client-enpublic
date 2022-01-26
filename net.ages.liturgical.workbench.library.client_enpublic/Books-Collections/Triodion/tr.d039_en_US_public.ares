@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = tr.d039_en_US_public
 
-trDA.commemoration.full = tr.d039_en_UK_ware.trDA.commemoration.full // full title of day
-trDA.commemoration.short = tr.d039_en_UK_ware.trDA.commemoration.short
+trDA.commemoration.full = tr.d039_en_US_dedes.trDA.commemoration.full // full title of day
+trDA.commemoration.short = tr.d039_en_US_dedes.trDA.commemoration.short
 trDA.insert1 = tr.d039_en_US_dedes.trDA.insert1 // for use in petitions and dismissal
 trDA.insert2 = tr.d039_en_US_dedes.trDA.insert2 // for use in petitions and dismissal
 trDA.note = tr.d039_en_UK_ware.trDA.note
@@ -40,10 +40,10 @@ trVE.AposMartyric.melody = tr.d039_en_UK_ware.trVE.AposMartyric.melody
 trVE.AposMartyric.incipit = tr.d039_en_UK_ware.trVE.AposMartyric.incipit
 trVE.AposMartyric.text = tr.d039_en_UK_ware.trVE.AposMartyric.text
 
-trVE.AposTheotokion.mode = tr.d039_en_US_dedes.trVE.AposTheotokion.mode
-trVE.AposTheotokion.melody = tr.d039_en_UK_ware.trVE.AposTheotokion.melody
-trVE.AposTheotokion.incipit = tr.d039_en_UK_ware.trVE.AposTheotokion.incipit
-trVE.AposTheotokion.text = tr.d039_en_UK_ware.trVE.AposTheotokion.text
+trVE.AposTheotokion.mode = tr.d039_en_US_goadedes.trVE.AposTheotokion.mode
+trVE.AposTheotokion.melody = tr.d039_en_US_goadedes.trVE.AposTheotokion.melody
+trVE.AposTheotokion.incipit = tr.d039_en_US_goadedes.trVE.AposTheotokion.incipit
+trVE.AposTheotokion.text = tr.d039_en_US_goadedes.trVE.AposTheotokion.text
 
 trMA.Kathisma21.mode = tr.d039_en_US_dedes.trMA.Kathisma21.mode
 trMA.Kathisma21.melody = tr.d039_en_UK_ware.trMA.Kathisma21.melody
