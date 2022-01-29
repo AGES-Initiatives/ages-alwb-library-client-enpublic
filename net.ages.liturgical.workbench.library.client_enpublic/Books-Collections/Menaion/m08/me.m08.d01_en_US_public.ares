@@ -61,19 +61,19 @@ meVE.SticBoth.incipit = me.m08.d01_en_US_dedes.meVE.SticBoth.incipit
 meVE.SticBoth.text = me.m08.d01_en_US_dedes.meVE.SticBoth.text
 
 meVE.Aposticha1.mode = me.m08.d01_en_US_dedes.meVE.Aposticha1.mode
-meVE.Aposticha1.melody = me.m08.d01_en_US_goadedes.meVE.Aposticha1.melody
-meVE.Aposticha1.incipit = me.m08.d01_en_US_goadedes.meVE.Aposticha1.incipit
-meVE.Aposticha1.text = me.m08.d01_en_US_goadedes.meVE.Aposticha1.text
+meVE.Aposticha1.melody = me.m08.d01_en_US_oca.meVE.Aposticha1.melody
+meVE.Aposticha1.incipit = me.m08.d01_en_US_oca.meVE.Aposticha1.incipit
+meVE.Aposticha1.text = me.m08.d01_en_US_oca.meVE.Aposticha1.text
 
 meVE.Aposticha2.mode = me.m08.d01_en_US_dedes.meVE.Aposticha2.mode
-meVE.Aposticha2.melody = me.m08.d01_en_US_goadedes.meVE.Aposticha2.melody
-meVE.Aposticha2.incipit = me.m08.d01_en_US_goadedes.meVE.Aposticha2.incipit
-meVE.Aposticha2.text = me.m08.d01_en_US_goadedes.meVE.Aposticha2.text
+meVE.Aposticha2.melody = me.m08.d01_en_US_oca.meVE.Aposticha2.melody
+meVE.Aposticha2.incipit = me.m08.d01_en_US_oca.meVE.Aposticha2.incipit
+meVE.Aposticha2.text = me.m08.d01_en_US_oca.meVE.Aposticha2.text
 
 meVE.Aposticha3.mode = me.m08.d01_en_US_dedes.meVE.Aposticha3.mode
-meVE.Aposticha3.melody = me.m08.d01_en_US_goadedes.meVE.Aposticha3.melody
-meVE.Aposticha3.incipit = me.m08.d01_en_US_goadedes.meVE.Aposticha3.incipit
-meVE.Aposticha3.text = me.m08.d01_en_US_goadedes.meVE.Aposticha3.text
+meVE.Aposticha3.melody = me.m08.d01_en_US_oca.meVE.Aposticha3.melody
+meVE.Aposticha3.incipit = me.m08.d01_en_US_oca.meVE.Aposticha3.incipit
+meVE.Aposticha3.text = me.m08.d01_en_US_oca.meVE.Aposticha3.text
 
 meVE.AposGlory.mode = me.m08.d01_en_US_dedes.meVE.AposGlory.mode
 meVE.AposGlory.Poet = me.m08.d01_en_US_dedes.meVE.AposGlory.Poet
@@ -488,9 +488,9 @@ meMA.Ode6C2T.incipit = me.m08.d01_en_US_goadedes.meMA.Ode6C2T.incipit
 meMA.Ode6C2T.text = me.m08.d01_en_US_goadedes.meMA.Ode6C2T.text
 
 meMA.Kontakion2.mode = me.m08.d01_en_US_dedes.meMA.Kontakion2.mode
-meMA.Kontakion2.melody = me.m08.d01_en_US_goadedes.meMA.Kontakion2.melody
-meMA.Kontakion2.incipit = me.m08.d01_en_US_goadedes.meMA.Kontakion2.incipit
-meMA.Kontakion2.text = me.m08.d01_en_US_goadedes.meMA.Kontakion2.text
+meMA.Kontakion2.melody = me.m08.d01_en_US_oca.meMA.Kontakion2.melody
+meMA.Kontakion2.incipit = me.m08.d01_en_US_oca.meMA.Kontakion2.incipit
+meMA.Kontakion2.text = me.m08.d01_en_US_oca.meMA.Kontakion2.text
 
 meMA.Oikos2.text = me.m08.d01_en_US_goadedes.meMA.Oikos2.text
 
@@ -723,9 +723,9 @@ meMA.Ode9C2T.incipit = me.m08.d01_en_US_goadedes.meMA.Ode9C2T.incipit
 meMA.Ode9C2T.text = me.m08.d01_en_US_goadedes.meMA.Ode9C2T.text
 
 meMA.Exaposteilarion1.mode = me.m08.d01_en_US_dedes.meMA.Exaposteilarion1.mode
-meMA.Exaposteilarion1.melody = me.m08.d01_en_US_goadedes.meMA.Exaposteilarion1.melody
-meMA.Exaposteilarion1.incipit = me.m08.d01_en_US_goadedes.meMA.Exaposteilarion1.incipit
-meMA.Exaposteilarion1.text = me.m08.d01_en_US_goadedes.meMA.Exaposteilarion1.text
+meMA.Exaposteilarion1.melody = me.m08.d01_en_US_oca.meMA.Exaposteilarion1.melody
+meMA.Exaposteilarion1.incipit = me.m08.d01_en_US_oca.meMA.Exaposteilarion1.incipit
+meMA.Exaposteilarion1.text = me.m08.d01_en_US_oca.meMA.Exaposteilarion1.text
 
 meMA.Exaposteilarion2.mode = me.m08.d01_en_US_dedes.meMA.Exaposteilarion2.mode
 meMA.Exaposteilarion2.melody = me.m08.d01_en_US_dedes.meMA.Exaposteilarion2.melody
@@ -748,24 +748,24 @@ meMA.Lauds3.incipit = me.m08.d01_en_US_dedes.meMA.Lauds3.incipit
 meMA.Lauds3.text = me.m08.d01_en_US_dedes.meMA.Lauds3.text
 
 meMA.Lauds4.mode = me.m08.d01_en_US_dedes.meMA.Lauds4.mode
-meMA.Lauds4.melody = me.m08.d01_en_US_goadedes.meMA.Lauds4.melody
-meMA.Lauds4.incipit = me.m08.d01_en_US_goadedes.meMA.Lauds4.incipit
-meMA.Lauds4.text = me.m08.d01_en_US_goadedes.meMA.Lauds4.text
+meMA.Lauds4.melody = me.m08.d01_en_US_oca.meMA.Lauds4.melody
+meMA.Lauds4.incipit = me.m08.d01_en_US_oca.meMA.Lauds4.incipit
+meMA.Lauds4.text = me.m08.d01_en_US_oca.meMA.Lauds4.text
 
 meMA.Lauds5.mode = me.m08.d01_en_US_dedes.meMA.Lauds5.mode
-meMA.Lauds5.melody = me.m08.d01_en_US_goadedes.meMA.Lauds5.melody
-meMA.Lauds5.incipit = me.m08.d01_en_US_goadedes.meMA.Lauds5.incipit
-meMA.Lauds5.text = me.m08.d01_en_US_goadedes.meMA.Lauds5.text
+meMA.Lauds5.melody = me.m08.d01_en_US_oca.meMA.Lauds5.melody
+meMA.Lauds5.incipit = me.m08.d01_en_US_oca.meMA.Lauds5.incipit
+meMA.Lauds5.text = me.m08.d01_en_US_oca.meMA.Lauds5.text
 
 meMA.Lauds6.mode = me.m08.d01_en_US_dedes.meMA.Lauds6.mode
-meMA.Lauds6.melody = me.m08.d01_en_US_goadedes.meMA.Lauds6.melody
-meMA.Lauds6.incipit = me.m08.d01_en_US_goadedes.meMA.Lauds6.incipit
-meMA.Lauds6.text = me.m08.d01_en_US_goadedes.meMA.Lauds6.text
+meMA.Lauds6.melody = me.m08.d01_en_US_oca.meMA.Lauds6.melody
+meMA.Lauds6.incipit = me.m08.d01_en_US_oca.meMA.Lauds6.incipit
+meMA.Lauds6.text = me.m08.d01_en_US_oca.meMA.Lauds6.text
 
 meMA.LaudsGlory.mode = me.m08.d01_en_US_dedes.meMA.LaudsGlory.mode
-meMA.LaudsGlory.melody = me.m08.d01_en_US_goadedes.meMA.LaudsGlory.melody
-meMA.LaudsGlory.incipit = me.m08.d01_en_US_goadedes.meMA.LaudsGlory.incipit
-meMA.LaudsGlory.text = me.m08.d01_en_US_goadedes.meMA.LaudsGlory.text
+meMA.LaudsGlory.melody = me.m08.d01_en_US_oca.meMA.LaudsGlory.melody
+meMA.LaudsGlory.incipit = me.m08.d01_en_US_oca.meMA.LaudsGlory.incipit
+meMA.LaudsGlory.text = me.m08.d01_en_US_oca.meMA.LaudsGlory.text
 
 meMA.LaudsBoth.mode = me.m08.d01_en_US_dedes.meMA.LaudsBoth.mode
 meMA.LaudsBoth.melody = me.m08.d01_en_US_dedes.meMA.LaudsBoth.melody
