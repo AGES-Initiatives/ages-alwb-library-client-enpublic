@@ -241,8 +241,11 @@ pet06a = prayers_en_US_goa.pet06a
 pet06b.incipit = prayers_en_US_goa.pet06b.incipit
 pet06b = prayers_en_US_goa.pet06b
 
-pet07L.incipit = prayers_en_US_goa.pet07L.incipit
-pet07L = prayers_en_US_goa.pet07L
+pet07L.incipit = prayers_en_US_holycross.pet07L.incipit
+pet07L = prayers_en_US_holycross.pet07L
+
+pet07L_goa.incipit = prayers_en_US_goa.pet07L.incipit
+pet07L_goa = prayers_en_US_goa.pet07L
 
 pet07S.incipit = prayers_en_US_goa.pet07S.incipit
 pet07S = prayers_en_US_goa.pet07S
@@ -250,8 +253,11 @@ pet07S = prayers_en_US_goa.pet07S
 pet07Sa.incipit = prayers_en_US_holycross.pet07Sa.incipit
 pet07Sa = prayers_en_US_holycross.pet07Sa
 
-pet08.incipit = prayers_en_US_goa.pet08.incipit
-pet08 = prayers_en_US_goa.pet08
+pet08.incipit = prayers_en_US_holycross.pet08.incipit
+pet08 = prayers_en_US_holycross.pet08
+
+pet08_goa.incipit = prayers_en_US_goa.pet08.incipit
+pet08_goa = prayers_en_US_goa.pet08
 
 pet09.incipit = prayers_en_US_goa.pet09.incipit
 pet09 = prayers_en_US_goa.pet09
@@ -363,8 +369,11 @@ pet31 = prayers_en_US_goa.pet31
 pet32.incipit = prayers_en_US_goa.pet32.incipit
 pet32 = prayers_en_US_goa.pet32
 
-pet33.incipit = prayers_en_US_goa.pet33.incipit
-pet33 = prayers_en_US_goa.pet33
+pet33.incipit = prayers_en_US_holycross.pet33.incipit
+pet33 = prayers_en_US_holycross.pet33
+
+pet33_goa.incipit = prayers_en_US_goa.pet33.incipit
+pet33_goa = prayers_en_US_goa.pet33
 
 pet34.incipit = prayers_en_US_holycross.pet34.incipit
 pet34 = prayers_en_US_holycross.pet34
@@ -375,14 +384,20 @@ pet35 = prayers_en_US_holycross.pet35
 pet36.incipit = prayers_en_US_holycross.pet36.incipit
 pet36 = prayers_en_US_holycross.pet36
 
-pet37.incipit = prayers_en_US_goa.pet37.incipit
-pet37 = prayers_en_US_goa.pet37
+pet37.incipit = prayers_en_US_holycross.pet37.incipit
+pet37 = prayers_en_US_holycross.pet37
 
-pet37a.incipit = prayers_en_US_goa.pet37a.incipit
-pet37a = prayers_en_US_goa.pet37a
+pet37_goa.incipit = prayers_en_US_goa.pet37.incipit
+pet37_goa = prayers_en_US_goa.pet37
 
-pet37b.incipit = prayers_en_US_goa.pet37b.incipit
-pet37b = prayers_en_US_goa.pet37b
+pet37a.incipit = prayers_en_US_holycross.pet37a.incipit
+pet37a = prayers_en_US_holycross.pet37a
+
+pet37a_goa.incipit = prayers_en_US_goa.pet37a.incipit
+pet37a_goa = prayers_en_US_goa.pet37a
+
+//pet37b.incipit = prayers_en_US_goa.pet37b.incipit
+//pet37b = prayers_en_US_goa.pet37b
 
 petBap01.incipit = prayers_en_US_holycross.petBap01.incipit
 petBap01 = prayers_en_US_holycross.petBap01
