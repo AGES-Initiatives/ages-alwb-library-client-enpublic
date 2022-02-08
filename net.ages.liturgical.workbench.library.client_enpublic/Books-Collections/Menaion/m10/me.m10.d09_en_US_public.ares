@@ -58,10 +58,10 @@ meVE.SticTheotokion.melody = me.m10.d09_en_US_dedes.meVE.SticTheotokion.melody
 meVE.SticTheotokion.incipit = me.m10.d09_en_US_dedes.meVE.SticTheotokion.incipit
 meVE.SticTheotokion.text = me.m10.d09_en_US_dedes.meVE.SticTheotokion.text
 
-meVE.SticStavrotheotokion.mode = me.m10.d09_en_US_dedes.meVE.SticStavrotheotokion.mode
-meVE.SticStavrotheotokion.melody = me.m10.d09_en_US_dedes.meVE.SticStavrotheotokion.melody
-meVE.SticStavrotheotokion.incipit = me.m10.d09_en_US_dedes.meVE.SticStavrotheotokion.incipit
-meVE.SticStavrotheotokion.text = me.m10.d09_en_US_dedes.meVE.SticStavrotheotokion.text
+meVE.SticStavrotheotokion.mode = me.m10.d09_en_US_goadedes.meVE.SticStavrotheotokion.mode
+meVE.SticStavrotheotokion.melody = me.m10.d09_en_US_goadedes.meVE.SticStavrotheotokion.melody
+meVE.SticStavrotheotokion.incipit = me.m10.d09_en_US_goadedes.meVE.SticStavrotheotokion.incipit
+meVE.SticStavrotheotokion.text = me.m10.d09_en_US_goadedes.meVE.SticStavrotheotokion.text
 
 meVE.AposGlory.mode = me.m10.d09_en_US_dedes.meVE.AposGlory.mode
 meVE.AposGlory.melody = me.m10.d09_en_US_oca.meVE.AposGlory.melody
@@ -95,8 +95,6 @@ meVE.Apolytikion2.text = me.m10.d09_en_US_dedes.meVE.Apolytikion2.text
 
 meVE.MM.GeneralApolytikion3.text = me.m10.d09_en_US_dedes.meVE.MM.GeneralApolytikion3.text
 
-//this is not the same canon as in cog, but a general canon
-meMA.C1.notice = rubrical_en_US_public.DifferentMenaionCanonInEnglish
 meMA.C1.poet = me.m10.d09_en_US_dedes.meMA.C1.poet
 meMA.C1.acrostic = me.m10.d09_en_US_dedes.meMA.C1.acrostic
 

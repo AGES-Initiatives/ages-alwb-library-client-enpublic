@@ -590,6 +590,11 @@ ocMA.Lauds3.melody = oc.m6.d7_en_US_dedes.ocMA.Lauds3.melody
 ocMA.Lauds3.incipit = oc.m6.d7_en_US_dedes.ocMA.Lauds3.incipit
 ocMA.Lauds3.text = oc.m6.d7_en_US_dedes.ocMA.Lauds3.text
 
+ocMA.Lauds4.mode = oc.m6.d7_en_US_dedes.ocMA.Lauds4.mode
+ocMA.Lauds4.melody = oc.m6.d7_en_US_dedes.ocMA.Lauds4.melody
+ocMA.Lauds4.incipit = oc.m6.d7_en_US_dedes.ocMA.Lauds4.incipit
+ocMA.Lauds4.text = oc.m6.d7_en_US_dedes.ocMA.Lauds4.text
+
 ocMA.LaudsGlory.mode = oc.m6.d7_en_US_dedes.ocMA.LaudsGlory.mode
 ocMA.LaudsGlory.melody = oc.m6.d7_en_US_dedes.ocMA.LaudsGlory.melody
 ocMA.LaudsGlory.incipit = oc.m6.d7_en_US_dedes.ocMA.LaudsGlory.incipit

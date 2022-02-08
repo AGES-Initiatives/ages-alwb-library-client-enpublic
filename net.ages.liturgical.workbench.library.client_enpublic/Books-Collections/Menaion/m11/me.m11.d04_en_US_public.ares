@@ -72,10 +72,10 @@ meVE.AposTheotokion.melody = me.m11.d04_en_US_dedes.meVE.AposTheotokion.melody
 meVE.AposTheotokion.incipit = me.m11.d04_en_US_dedes.meVE.AposTheotokion.incipit
 meVE.AposTheotokion.text = me.m11.d04_en_US_dedes.meVE.AposTheotokion.text
 
-meVE.AposStavrotheotokion.mode = me.m11.d04_en_US_dedes.meVE.AposStavrotheotokion.mode
-meVE.AposStavrotheotokion.melody = me.m11.d04_en_US_dedes.meVE.AposStavrotheotokion.melody
-meVE.AposStavrotheotokion.incipit = me.m11.d04_en_US_dedes.meVE.AposStavrotheotokion.incipit
-meVE.AposStavrotheotokion.text = me.m11.d04_en_US_dedes.meVE.AposStavrotheotokion.text
+meVE.AposStavrotheotokion.mode = me.m11.d04_en_US_goadedes.meVE.AposStavrotheotokion.mode
+meVE.AposStavrotheotokion.melody = me.m11.d04_en_US_goadedes.meVE.AposStavrotheotokion.melody
+meVE.AposStavrotheotokion.incipit = me.m11.d04_en_US_goadedes.meVE.AposStavrotheotokion.incipit
+meVE.AposStavrotheotokion.text = me.m11.d04_en_US_goadedes.meVE.AposStavrotheotokion.text
 
 meVE.GeneralApolytikion1.name = me.m11.d04_en_US_dedes.meVE.GeneralApolytikion1.name
 meVE.MM.GeneralApolytikion1.text = me.m11.d04_en_US_dedes.meVE.MM.GeneralApolytikion1.text
