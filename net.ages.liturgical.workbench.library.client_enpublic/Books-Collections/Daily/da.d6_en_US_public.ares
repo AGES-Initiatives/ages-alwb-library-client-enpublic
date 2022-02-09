@@ -38,10 +38,10 @@ daMA.Exaposteilarion2.melody = da.d6_en_US_dedes.daMA.Exaposteilarion2.melody
 daMA.Exaposteilarion2.incipit = da.d6_en_US_dedes.daMA.Exaposteilarion2.incipit
 daMA.Exaposteilarion2.text = da.d6_en_US_dedes.daMA.Exaposteilarion2.text
 
-daMA.ExapTheotokion2.mode = da.d6_en_US_dedes.daMA.ExapTheotokion2.mode
-daMA.ExapTheotokion2.melody = da.d6_en_US_dedes.daMA.ExapTheotokion2.melody
-daMA.ExapTheotokion2.incipit = da.d6_en_US_dedes.daMA.ExapTheotokion2.incipit
-daMA.ExapTheotokion2.text = da.d6_en_US_dedes.daMA.ExapTheotokion2.text
+daMA.ExapTheotokion2.mode = da.d6_en_US_goadedes.daMA.ExapTheotokion2.mode
+daMA.ExapTheotokion2.melody = da.d6_en_US_goadedes.daMA.ExapTheotokion2.melody
+daMA.ExapTheotokion2.incipit = da.d6_en_US_goadedes.daMA.ExapTheotokion2.incipit
+daMA.ExapTheotokion2.text = da.d6_en_US_goadedes.daMA.ExapTheotokion2.text
 
 daLI.CommunionHymn.text = da.d6_en_US_dedes.daLI.CommunionHymn.text
 
