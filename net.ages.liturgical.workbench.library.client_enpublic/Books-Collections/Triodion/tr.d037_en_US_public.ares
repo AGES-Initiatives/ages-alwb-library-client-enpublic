@@ -32,8 +32,8 @@ trVE.Stichera03.text = tr.d037_en_US_goadedes.trVE.Stichera03.text
 
 trVE.AposIdiomelon1.mode = tr.d037_en_US_goadedes.trVE.AposIdiomelon1.mode
 trVE.AposIdiomelon1.melody = tr.d037_en_US_goadedes.trVE.AposIdiomelon1.melody
-trVE.AposIdiomelon1.incipit = tr.d037_en_US_goadedes.trVE.AposIdiomelon1.incipit
-trVE.AposIdiomelon1.text = tr.d037_en_US_goadedes.trVE.AposIdiomelon1.text
+trVE.AposIdiomelon1.incipit = tr.d051_en_US_roumas.trVE.AposIdiomelon1.incipit
+trVE.AposIdiomelon1.text = tr.d037_en_US_roumas.trVE.AposIdiomelon1.text
 
 trVE.AposMartyric.mode = tr.d037_en_US_dedes.trVE.AposMartyric.mode
 trVE.AposMartyric.melody = tr.d037_en_US_dedes.trVE.AposMartyric.melody
