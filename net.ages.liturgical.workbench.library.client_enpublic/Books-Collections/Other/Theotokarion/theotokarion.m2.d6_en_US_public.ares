@@ -3,7 +3,8 @@ A_Resource_Whose_Name = theotokarion.m2.d6_en_US_public
 thCA.title1 = theotokarion.m2.d6_en_US_goadedes.thCA.title1
 thCA.title2 = theotokarion.m2.d6_en_US_goadedes.thCA.title2
 thCA.poet = theotokarion.m2.d6_en_US_goadedes.thCA.poet
-thCA.translator = theotokarion.m2.d6_en_US_goadedes.thCA.translator
+thCA.translator1 = theotokarion.m2.d6_en_US_goadedes.thCA.translator1
+thCA.translator2 = theotokarion.m2.d6_en_US_goadedes.thCA.translator2
 thCA.media.text = theotokarion.m2.d6_en_US_goadedes.thCA.media.text
 
 thCA.verse = theotokarion.m2.d6_en_US_goadedes.thCA.verse
@@ -85,6 +86,10 @@ thCA.Ode51.mode = theotokarion.m2.d6_en_US_goadedes.thCA.Ode51.mode
 thCA.Ode51.melody = theotokarion.m2.d6_en_US_goadedes.thCA.Ode51.melody
 thCA.Ode51.incipit = theotokarion.m2.d6_en_US_goadedes.thCA.Ode51.incipit
 thCA.Ode51.text = theotokarion.m2.d6_en_US_goadedes.thCA.Ode51.text
+
+thCA.Ode52.ode = theotokarion.m2.d6_en_US_goadedes.thCA.Ode52.ode
+thCA.Ode52.mode = theotokarion.m2.d6_en_US_goadedes.thCA.Ode52.mode
+thCA.Ode52.melody = theotokarion.m2.d6_en_US_goadedes.thCA.Ode52.melody
 thCA.Ode52.incipit = theotokarion.m2.d6_en_US_goadedes.thCA.Ode52.incipit
 thCA.Ode52.text = theotokarion.m2.d6_en_US_goadedes.thCA.Ode52.text
 

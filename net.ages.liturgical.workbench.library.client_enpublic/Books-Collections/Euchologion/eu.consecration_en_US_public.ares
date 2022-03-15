@@ -39,6 +39,10 @@ euVE.Stichera04.melody = eu.consecration_en_US_dedes.euVE.Stichera04.melody
 euVE.Stichera04.incipit = eu.consecration_en_US_dedes.euVE.Stichera04.incipit
 euVE.Stichera04.text = eu.consecration_en_US_dedes.euVE.Stichera04.text
 
+euVE.MM.Stichera123as567.text = eu.consecration_en_US_dedes.euVE.MM.Stichera123as567.text
+euVE.MM.Stichera1234as1234.text = eu.consecration_en_US_dedes.euVE.MM.Stichera1234as1234.text
+euVE.MM.Stichera1234as3456.text = eu.consecration_en_US_dedes.euVE.MM.Stichera1234as3456.text
+
 euVE.SticBoth.poet = eu.consecration_en_US_dedes.euVE.SticBoth.poet
 euVE.SticBoth.mode = eu.consecration_en_US_dedes.euVE.SticBoth.mode
 euVE.SticBoth.melody = eu.consecration_en_US_dedes.euVE.SticBoth.melody

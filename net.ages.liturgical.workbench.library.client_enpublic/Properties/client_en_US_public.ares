@@ -45,7 +45,7 @@ cl.Kontakion1.mode = client_en_US_goa.cl.Kontakion1.mode
 cl.Kontakion1.melody = client_en_US_goa.cl.Kontakion1.melody
 cl.Kontakion1.text = client_en_US_goa.cl.Kontakion1.text
 
-cl.conVE.SticBoth.name = client_en_US_goa.cl.conVE.SticBoth.name
+cl.conVE.SticBoth.churchname.text = client_en_US_goa.cl.conVE.SticBoth.churchname.text
 cl.consecration.name = client_en_US_goa.cl.consecration.name
 
 cl.localpatronsaint2.supplication = client_en_US_goa.cl.localpatronsaint2.supplication
