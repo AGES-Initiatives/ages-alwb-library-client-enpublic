@@ -38,10 +38,10 @@ meVE.SticGlory.melody = me.m10.d10_en_US_dedes.meVE.SticGlory.melody
 meVE.SticGlory.incipit = me.m10.d10_en_US_oca.meVE.SticGlory.incipit
 meVE.SticGlory.text = me.m10.d10_en_US_oca.meVE.SticGlory.text
 
-meVE.SticTheotokion.mode = me.m10.d10_en_US_dedes.meVE.SticTheotokion.mode
-meVE.SticTheotokion.melody = me.m10.d10_en_US_dedes.meVE.SticTheotokion.melody
-meVE.SticTheotokion.incipit = me.m10.d10_en_US_dedes.meVE.SticTheotokion.incipit
-meVE.SticTheotokion.text = me.m10.d10_en_US_dedes.meVE.SticTheotokion.text
+meVE.SticTheotokion.mode = me.m10.d10_en_US_goadedes.meVE.SticTheotokion.mode
+meVE.SticTheotokion.melody = me.m10.d10_en_US_goadedes.meVE.SticTheotokion.melody
+meVE.SticTheotokion.incipit = me.m10.d10_en_US_goadedes.meVE.SticTheotokion.incipit
+meVE.SticTheotokion.text = me.m10.d10_en_US_goadedes.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = me.m10.d10_en_US_dedes.meVE.SticStavrotheotokion.mode
 meVE.SticStavrotheotokion.melody = me.m10.d10_en_US_dedes.meVE.SticStavrotheotokion.melody
