@@ -124,9 +124,9 @@ euMA.Ode1C13.text = eu.consecration_en_US_goadedes.euMA.Ode1C13.text
 
 euMA.Ode1C1T.ode = eu.consecration_en_US_dedes.euMA.Ode1C1T.ode
 euMA.Ode1C1T.mode = eu.consecration_en_US_dedes.euMA.Ode1C1T.mode
-euMA.Ode1C1T.melody = eu.consecration_en_US_goadedes.euMA.Ode1C1T.melody
-euMA.Ode1C1T.incipit = eu.consecration_en_US_goadedes.euMA.Ode1C1T.incipit
-euMA.Ode1C1T.text = eu.consecration_en_US_goadedes.euMA.Ode1C1T.text
+euMA.Ode1C1T.melody = eu.consecration_en_US_dedes.euMA.Ode1C1T.melody
+euMA.Ode1C1T.incipit = eu.consecration_en_US_dedes.euMA.Ode1C1T.incipit
+euMA.Ode1C1T.text = eu.consecration_en_US_dedes.euMA.Ode1C1T.text
 
 euMA.Ode3C1H.ode = eu.consecration_en_US_dedes.euMA.Ode3C1H.ode
 euMA.Ode3C1H.mode = eu.consecration_en_US_dedes.euMA.Ode3C1H.mode
@@ -154,9 +154,9 @@ euMA.Ode3C13.text = eu.consecration_en_US_goadedes.euMA.Ode3C13.text
 
 euMA.Ode3C1T.ode = eu.consecration_en_US_dedes.euMA.Ode3C1T.ode
 euMA.Ode3C1T.mode = eu.consecration_en_US_dedes.euMA.Ode3C1T.mode
-euMA.Ode3C1T.melody = eu.consecration_en_US_goadedes.euMA.Ode3C1T.melody
-euMA.Ode3C1T.incipit = eu.consecration_en_US_goadedes.euMA.Ode3C1T.incipit
-euMA.Ode3C1T.text = eu.consecration_en_US_goadedes.euMA.Ode3C1T.text
+euMA.Ode3C1T.melody = eu.consecration_en_US_dedes.euMA.Ode3C1T.melody
+euMA.Ode3C1T.incipit = eu.consecration_en_US_dedes.euMA.Ode3C1T.incipit
+euMA.Ode3C1T.text = eu.consecration_en_US_dedes.euMA.Ode3C1T.text
 
 euMA.Ode3Kathisma1.mode = eu.consecration_en_US_dedes.euMA.Ode3Kathisma1.mode
 euMA.Ode3Kathisma1.melody = eu.consecration_en_US_goadedes.euMA.Ode3Kathisma1.melody
