@@ -7,6 +7,7 @@ euLI.basil.copyright = eu.lichrysbasil_en_US_holycross.euLI.basil.copyright
 euLI.basil.title = eu.lichrysbasil_en_US_holycross.euLI.basil.title
 
 // Part 01 Enarxis
+euLI.Key0100.title = eu.lichrysbasil_en_US_goa.euLI.Key0100.title
 euLI.Key0101.text = eu.lichrysbasil_en_US_goa.euLI.Key0101.text
 euLI.Key0102.text = eu.lichrysbasil_en_US_goa.euLI.Key0102.text
 euLI.Key0103.text = eu.lichrysbasil_en_US_goa.euLI.Key0103.text
@@ -262,6 +263,59 @@ euLI.Key1530.incipit = eu.lichrysbasil_en_US_goa.euLI.Key1530.incipit
 euLI.Key1530.text = eu.lichrysbasil_en_US_goa.euLI.Key1530.text
 euLI.Key1531.text = eu.lichrysbasil_en_US_dedes.euLI.Key1531.text
 
+//Hierarchical Liturgy
+euLI.Key1540.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1540.rubric
+euLI.Key1541.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1541.rubric
+euLI.Key1542.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1542.rubric
+euLI.Key1543.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1543.rubric
+euLI.Key1544.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1544.rubric
+euLI.Key1545.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1545.rubric
+euLI.Key1546.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1546.rubric
+euLI.Key1547.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1547.rubric
+euLI.Key1548.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1548.rubric
+euLI.Key1549.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1549.rubric
+euLI.Key1550.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1550.rubric
+euLI.Key1551.text = eu.lichrysbasil_en_US_goa.euLI.Key1551.text
+euLI.Key1552.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1552.rubric
+euLI.Key1553.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1553.rubric
+euLI.Key1554.text = eu.lichrysbasil_en_US_goa.euLI.Key1554.text
+euLI.Key1555.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1555.rubric
+euLI.Key1556.text = eu.lichrysbasil_en_US_goa.euLI.Key1556.text
+euLI.Key1557.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1557.rubric
+euLI.Key1558.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1558.rubric
+euLI.Key1559.text = eu.lichrysbasil_en_US_goa.euLI.Key1559.text
+euLI.Key1560.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1560.rubric
+euLI.Key1561.text = eu.lichrysbasil_en_US_goa.euLI.Key1561.text
+euLI.Key1562.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1562.rubric
+euLI.Key1563.text = eu.lichrysbasil_en_US_goa.euLI.Key1563.text
+euLI.Key1564.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1564.rubric
+euLI.Key1565.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1565.rubric
+euLI.Key1566.text = eu.lichrysbasil_en_US_goa.euLI.Key1566.text
+euLI.Key1567.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1567.rubric
+euLI.Key1568.text = eu.lichrysbasil_en_US_goa.euLI.Key1568.text
+euLI.Key1569.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1569.rubric
+euLI.Key1570.text = eu.lichrysbasil_en_US_goa.euLI.Key1570.text
+euLI.Key1571.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1571.rubric
+euLI.Key1572.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1572.rubric
+euLI.Key1573.text = eu.lichrysbasil_en_US_goa.euLI.Key1573.text
+euLI.Key1574.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1574.rubric
+euLI.Key1575.text = eu.lichrysbasil_en_US_goa.euLI.Key1575.text
+euLI.Key1576.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1576.rubric
+euLI.Key1577.text = eu.lichrysbasil_en_US_goa.euLI.Key1577.text
+euLI.Key1578.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1578.rubric
+euLI.Key1579.text = eu.lichrysbasil_en_US_goa.euLI.Key1579.text
+euLI.Key1580.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1580.rubric
+euLI.Key1581.text = eu.lichrysbasil_en_US_goa.euLI.Key1581.text
+euLI.Key1582.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1582.rubric
+euLI.Key1583.text = eu.lichrysbasil_en_US_goa.euLI.Key1583.text
+euLI.Key1584.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1584.rubric
+euLI.Key1585.text = eu.lichrysbasil_en_US_goa.euLI.Key1585.text
+euLI.Key1586.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1586.rubric
+euLI.Key1587.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1587.rubric
+euLI.Key1588.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1588.rubric
+euLI.Key1589.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1589.rubric
+euLI.Key1590.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1590.rubric
+
 euLI.MM.HymnsDuringCommunion.title = eu.lichrysbasil_en_US_dedes.euLI.MM.HymnsDuringCommunion.title
 euLI.MM.HymnsDuringCommunion.text = eu.lichrysbasil_en_US_dedes.euLI.MM.HymnsDuringCommunion.text
 
@@ -276,6 +330,18 @@ euLI.Key1606.title = eu.lichrysbasil_en_US_goa.euLI.Key1606.title
 euLI.Key1606.text = eu.lichrysbasil_en_US_goa.euLI.Key1606.text
 euLI.Key1606.basil.text = eu.lichrysbasil_en_US_holycross.euLI.Key1606.basil.text
 euLI.Key1607.text = eu.lichrysbasil_en_US_goa.euLI.Key1607.text
+
+//After Communion Hierarchical Liturgy
+euLI.Key1620.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1620.rubric
+euLI.Key1621.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1621.rubric
+euLI.Key1622.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1622.rubric
+euLI.Key1623.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1623.rubric
+euLI.Key1624.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1624.rubric
+euLI.Key1625.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1625.rubric
+euLI.Key1626.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1626.rubric
+euLI.Key1627.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1627.rubric
+euLI.Key1628.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1628.rubric
+euLI.Key1629.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1629.rubric
 
 // Part 17 Dismissal
 euLI.Key1700.title = eu.lichrysbasil_en_US_holycross.euLI.Key1700.title
@@ -293,3 +359,14 @@ euLI.Key1706h.text = eu.lichrysbasil_en_US_goa.euLI.Key1706h.text
 euLI.Key1707.text = eu.lichrysbasil_en_US_goa.euLI.Key1707.text
 euLI.Key1708.text = eu.lichrysbasil_en_US_goa.euLI.Key1708.text
 
+// Dismissal Hierarchical Liturgy
+euLI.Key1720.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1720.rubric
+euLI.Key1721.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1721.rubric
+euLI.Key1722.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1722.rubric
+euLI.Key1723.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1723.rubric
+euLI.Key1724.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1724.rubric
+euLI.Key1725.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1725.rubric
+euLI.Key1726.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1726.rubric
+euLI.Key1727.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1727.rubric
+euLI.Key1728.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1728.rubric
+euLI.Key1729.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1729.rubric
