@@ -543,6 +543,9 @@ petConsecration01 = prayers_en_US_holycross.petConsecration01
 petConsecration02.incipit = prayers_en_US_holycross.petConsecration02.incipit
 petConsecration02 = prayers_en_US_holycross.petConsecration02
 
+petConsecration13a = prayers_en_US_goa.petConsecration13a
+petConsecration13b = prayers_en_US_goa.petConsecration13b
+
 petCross05.incipit = prayers_en_US_holycross.petCross05.incipit
 petCross05 = prayers_en_US_holycross.petCross05
 
@@ -1040,6 +1043,9 @@ gos04 = prayers_en_US_goa.gos04
 
 gos05.incipit = prayers_en_US_goa.gos05.incipit
 gos05 = prayers_en_US_goa.gos05
+
+gos06.incipit = prayers_en_US_goa.gos06.incipit
+gos06 = prayers_en_US_goa.gos06
 
 otr01a.incipit = prayers_en_US_goa.otr01a.incipit
 otr01a = prayers_en_US_goa.otr01a

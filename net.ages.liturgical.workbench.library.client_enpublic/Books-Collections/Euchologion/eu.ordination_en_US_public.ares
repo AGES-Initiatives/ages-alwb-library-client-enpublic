@@ -148,10 +148,11 @@ euORD.OI.p600.title = eu.ordination_en_US_goa.euORD.OI.p600.title
 euORD.OI.r01 = eu.ordination_en_US_goa.euORD.OI.r01
 euORD.OI.p601.text = eu.ordination_en_US_goa.euORD.OI.p601.text
 
-euORD.SF.p700.title = eu.ordination_en_US_goa.euORD.SF.p700.title
-euORD.SF.r01 = eu.ordination_en_US_goa.euORD.SF.r01
-euORD.SF.p701.text = eu.ordination_en_US_goa.euORD.SF.p701.text
-euORD.SF.r02 = eu.ordination_en_US_goa.euORD.SF.r02
+euORD.SF.p700.title = eu.ordination_en_US_goadedes.euORD.SF.p700.title
+euORD.SF.r01 = eu.ordination_en_US_goadedes.euORD.SF.r01
+euORD.SF.p701.text = eu.ordination_en_US_goadedes.euORD.SF.p701.text
+euORD.SF.r02 = eu.ordination_en_US_goadedes.euORD.SF.r02
+euORD.SF.p702.text = eu.ordination_en_US_goadedes.euORD.SF.p702.text
 
 euORD.PP.p800.title = eu.ordination_en_US_goa.euORD.PP.p800.title
 euORD.PP.r01 = eu.ordination_en_US_goa.euORD.PP.r01
