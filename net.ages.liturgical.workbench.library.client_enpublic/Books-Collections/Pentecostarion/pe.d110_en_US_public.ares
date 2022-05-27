@@ -180,19 +180,24 @@ peMA.PostGospelIdiomelon.melody = pe.d110_en_US_dedes.peMA.PostGospelIdiomelon.m
 peMA.PostGospelIdiomelon.incipit = pe.d110_en_US_dedes.peMA.PostGospelIdiomelon.incipit
 peMA.PostGospelIdiomelon.text = pe.d110_en_US_dedes.peMA.PostGospelIdiomelon.text
 
-peMA.C1.poet = pe.d110_en_US_dedes.peMA.C1.poet
+peMA.C1.acrostic.title = pe.d110_en_US_goadedes.peMA.C1.acrostic.title
+peMA.C1.poet = pe.d110_en_US_goadedes.peMA.C1.poet
+peMA.C1.title = pe.d110_en_US_goadedes.peMA.C1.title
+peMA.C1.verse = pe.d110_en_US_goadedes.peMA.C1.verse
 
-peMA.C2.poet = pe.d110_en_US_dedes.peMA.C2.poet
-peMA.C2.acrostic = pe.d110_en_US_dedes.peMA.C2.acrostic
+peMA.C2.acrostic.title = pe.d110_en_US_goadedes.peMA.C2.acrostic.title
+peMA.C2.acrostic.notice1 = pe.d110_en_US_goadedes.peMA.C2.acrostic.notice1
+peMA.C2.acrostic.text = pe.d110_en_US_goadedes.peMA.C2.acrostic.text
+peMA.C2.acrostic.notice2 = pe.d110_en_US_goadedes.peMA.C2.acrostic.notice2
+peMA.C2.poet = pe.d110_en_US_goadedes.peMA.C2.poet
+peMA.C2.title = pe.d110_en_US_goadedes.peMA.C2.title
+peMA.C2.verse = pe.d110_en_US_goadedes.peMA.C2.verse
 
 peMA.Ode1C1H.ode = pe.d110_en_US_dedes.peMA.Ode1C1H.ode
 peMA.Ode1C1H.mode = pe.d110_en_US_dedes.peMA.Ode1C1H.mode
 peMA.Ode1C1H.melody = pe.d110_en_US_dedes.peMA.Ode1C1H.melody
 peMA.Ode1C1H.incipit = pe.d110_en_US_dedes.peMA.Ode1C1H.incipit
 peMA.Ode1C1H.text = pe.d110_en_US_dedes.peMA.Ode1C1H.text
-
-peMA.C1.title = pe.d110_en_US_dedes.peMA.C1.title
-peMA.C1.verse = pe.d110_en_US_dedes.peMA.C1.verse
 
 peMA.Ode1C11.ode = pe.d110_en_US_goadedes.peMA.Ode1C11.ode
 peMA.Ode1C11.mode = pe.d110_en_US_goadedes.peMA.Ode1C11.mode
@@ -223,9 +228,6 @@ peMA.Ode1C2H.mode = pe.d110_en_US_dedes.peMA.Ode1C2H.mode
 peMA.Ode1C2H.melody = pe.d110_en_US_dedes.peMA.Ode1C2H.melody
 peMA.Ode1C2H.incipit = pe.d110_en_US_dedes.peMA.Ode1C2H.incipit
 peMA.Ode1C2H.text = pe.d110_en_US_dedes.peMA.Ode1C2H.text
-
-peMA.C2.title = pe.d110_en_US_dedes.peMA.C2.title
-peMA.C2.verse = pe.d110_en_US_dedes.peMA.C2.verse
 
 peMA.Ode1C21.ode = pe.d110_en_US_goadedes.peMA.Ode1C21.ode
 peMA.Ode1C21.mode = pe.d110_en_US_goadedes.peMA.Ode1C21.mode

@@ -119,8 +119,10 @@ ocVE.ApolTheotokionVM.melody = oc.m1.d1_en_US_dedes.ocVE.ApolTheotokionVM.melody
 ocVE.ApolTheotokionVM.incipit = oc.m1.d1_en_US_dedes.ocVE.ApolTheotokionVM.incipit
 ocVE.ApolTheotokionVM.text = oc.m1.d1_en_US_dedes.ocVE.ApolTheotokionVM.text
 
+ocMO.title = oc.m1.d1_en_US_dedes.ocMO.title
 ocMO.poet = oc.m1.d1_en_US_dedes.ocMO.poet
-ocMO.acrostic = oc.m1.d1_en_US_dedes.ocMO.acrostic
+ocMO.acrostic.notice = oc.m1.d1_en_US_dedes.ocMO.acrostic.notice
+ocMO.acrostic.text = oc.m1.d1_en_US_dedes.ocMO.acrostic.text
 
 ocMO.Ode11.mode = oc.m1.d1_en_US_dedes.ocMO.Ode11.mode
 ocMO.Ode11.ode = oc.m1.d1_en_US_dedes.ocMO.Ode11.ode

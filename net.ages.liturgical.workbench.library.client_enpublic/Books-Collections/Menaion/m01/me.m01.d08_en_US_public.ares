@@ -90,6 +90,10 @@ meMA.Kathisma21.melody = me.m01.d08_en_US_oca.meMA.Kathisma21.melody
 meMA.Kathisma21.incipit = me.m01.d08_en_US_oca.meMA.Kathisma21.incipit
 meMA.Kathisma21.text = me.m01.d08_en_US_oca.meMA.Kathisma21.text
 
+meMA.C2.acrostic.title = me.m01.d08_en_US_dedes.meMA.C2.acrostic.title
+meMA.C2.acrostic.notice1 = me.m01.d08_en_US_dedes.meMA.C2.acrostic.notice1
+meMA.C2.acrostic.text = me.m01.d08_en_US_dedes.meMA.C2.acrostic.text
+//meMA.C2.acrostic.notice2 = me.m01.d08_en_US_dedes.meMA.C2.acrostic.notice2
 meMA.C2.acrostic = me.m01.d08_en_US_dedes.meMA.C2.acrostic
 
 meMA.C1.title = me.m01.d08_en_US_dedes.meMA.C1.title

@@ -182,9 +182,17 @@ meMA.PostGospelIdiomelon.text = me.m09.d01_en_US_dedes.meMA.PostGospelIdiomelon.
 
 meMA.C1.poet = me.m09.d01_en_US_dedes.meMA.C1.poet
 
+meMA.C2.acrostic.title = me.m09.d01_en_US_dedes.meMA.C2.acrostic.title
+meMA.C2.acrostic.notice1 = me.m09.d01_en_US_dedes.meMA.C2.acrostic.notice1
+meMA.C2.acrostic.text = me.m09.d01_en_US_dedes.meMA.C2.acrostic.text
+//meMA.C2.acrostic.notice2 = me.m09.d01_en_US_dedes.meMA.C2.acrostic.notice2
 meMA.C2.acrostic = me.m09.d01_en_US_dedes.meMA.C2.acrostic
 
 meMA.C3.poet = me.m09.d01_en_US_dedes.meMA.C3.poet
+meMA.C3.acrostic.title = me.m09.d01_en_US_dedes.meMA.C3.acrostic.title
+meMA.C3.acrostic.notice1 = me.m09.d01_en_US_dedes.meMA.C3.acrostic.notice1
+meMA.C3.acrostic.text = me.m09.d01_en_US_dedes.meMA.C3.acrostic.text
+//meMA.C3.acrostic.notice2 = me.m09.d01_en_US_dedes.meMA.C3.acrostic.notice2
 meMA.C3.acrostic = me.m09.d01_en_US_dedes.meMA.C3.acrostic
 
 meMA.Ode1C1H.ode = me.m09.d01_en_US_dedes.meMA.Ode1C1H.ode

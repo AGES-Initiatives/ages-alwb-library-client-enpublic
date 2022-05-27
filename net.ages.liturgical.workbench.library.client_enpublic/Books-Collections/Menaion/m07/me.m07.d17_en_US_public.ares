@@ -153,9 +153,17 @@ meMA.PostGospelIdiomelon.melody = me.m07.d17_en_US_dedes.meMA.PostGospelIdiomelo
 meMA.PostGospelIdiomelon.incipit = me.m07.d17_en_US_dedes.meMA.PostGospelIdiomelon.incipit
 meMA.PostGospelIdiomelon.text = me.m07.d17_en_US_dedes.meMA.PostGospelIdiomelon.text
 
+meMA.C1.acrostic.title = me.m07.d17_en_US_dedes.meMA.C1.acrostic.title
+meMA.C1.acrostic.notice1 = me.m07.d17_en_US_dedes.meMA.C1.acrostic.notice1
+meMA.C1.acrostic.text = me.m07.d17_en_US_dedes.meMA.C1.acrostic.text
+//meMA.C1.acrostic.notice2 = me.m07.d17_en_US_dedes.meMA.C1.acrostic.notice2
 meMA.C1.acrostic = me.m07.d17_en_US_dedes.meMA.C1.acrostic
 meMA.C1.poet = me.m07.d17_en_US_dedes.meMA.C1.poet
 
+meMA.C2.acrostic.title = me.m07.d17_en_US_dedes.meMA.C2.acrostic.title
+meMA.C2.acrostic.notice1 = me.m07.d17_en_US_dedes.meMA.C2.acrostic.notice1
+meMA.C2.acrostic.text = me.m07.d17_en_US_dedes.meMA.C2.acrostic.text
+//meMA.C2.acrostic.notice2 = me.m07.d17_en_US_dedes.meMA.C2.acrostic.notice2
 meMA.C2.acrostic = me.m07.d17_en_US_dedes.meMA.C2.acrostic
 
 meMA.C1.title = me.m07.d17_en_US_dedes.meMA.C1.title

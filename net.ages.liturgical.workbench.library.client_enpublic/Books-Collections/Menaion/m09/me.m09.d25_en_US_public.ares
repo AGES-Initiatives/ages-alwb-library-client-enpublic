@@ -59,6 +59,10 @@ meVE.Apolytikion1.melody = me.m09.d25_en_US_dedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.incipit = me.m09.d25_en_US_dedes.meVE.Apolytikion1.incipit
 meVE.Apolytikion1.text = me.m09.d25_en_US_dedes.meVE.Apolytikion1.text
 
+meMA.C2.acrostic.title = me.m09.d25_en_US_goadedes.meMA.C2.acrostic.title
+meMA.C2.acrostic.notice1 = me.m09.d25_en_US_goadedes.meMA.C2.acrostic.notice1
+meMA.C2.acrostic.text = me.m09.d25_en_US_goadedes.meMA.C2.acrostic.text
+//meMA.C2.acrostic.notice2 = me.m09.d25_en_US_goadedes.meMA.C2.acrostic.notice2
 meMA.C2.acrostic = me.m09.d25_en_US_goadedes.meMA.C2.acrostic
 
 meMA.C1.title = me.m09.d25_en_US_dedes.meMA.C1.title

@@ -117,6 +117,10 @@ meMA.C1.poet = me.m12.d09_en_US_dedes.meMA.C1.poet
 
 meMA.C2.poet = me.m12.d09_en_US_dedes.meMA.C2.poet
 
+meMA.C3.acrostic.title = me.m12.d09_en_US_dedes.meMA.C3.acrostic.title
+meMA.C3.acrostic.notice1 = me.m12.d09_en_US_dedes.meMA.C3.acrostic.notice1
+meMA.C3.acrostic.text = me.m12.d09_en_US_dedes.meMA.C3.acrostic.text
+//meMA.C3.acrostic.notice2 = me.m12.d09_en_US_dedes.meMA.C3.acrostic.notice2
 meMA.C3.acrostic = me.m12.d09_en_US_dedes.meMA.C3.acrostic
 
 meMA.C1.title = me.m12.d09_en_US_dedes.meMA.C1.title

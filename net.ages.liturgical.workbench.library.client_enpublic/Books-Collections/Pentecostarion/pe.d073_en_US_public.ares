@@ -258,8 +258,11 @@ alt1.peMA.PostGospelIdiomelon.melody = pe.d073_en_US_dedes.alt1.peMA.PostGospelI
 alt1.peMA.PostGospelIdiomelon.incipit = pe.d073_en_US_dedes.alt1.peMA.PostGospelIdiomelon.incipit
 alt1.peMA.PostGospelIdiomelon.text = pe.d073_en_US_dedes.alt1.peMA.PostGospelIdiomelon.text
 
-alt1.peMA.C1.acrostic = pe.d073_en_US_dedes.alt1.peMA.C1.acrostic
-
+alt1.peMA.C1.acrostic.title = pe.d073_en_US_dedes.alt1.peMA.C1.acrostic.title
+alt1.peMA.C1.acrostic.notice1 = pe.d073_en_US_dedes.alt1.peMA.C1.acrostic.notice1
+alt1.peMA.C1.acrostic.text = pe.d073_en_US_dedes.alt1.peMA.C1.acrostic.text
+alt1.peMA.C1.acrostic.notice2 = pe.d073_en_US_dedes.alt1.peMA.C1.acrostic.notice2
+alt1.peMA.C1.poet = pe.d073_en_US_dedes.alt1.peMA.C1.poet
 alt1.peMA.C1.title = pe.d073_en_US_dedes.alt1.peMA.C1.title
 alt1.peMA.C1.verse = pe.d073_en_US_dedes.alt1.peMA.C1.verse
 

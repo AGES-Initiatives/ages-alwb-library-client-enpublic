@@ -323,7 +323,9 @@ trGC.Ode1C123.melody = tr.d054_en_US_unknown.trGC.Ode1C123.melody
 trGC.Ode1C123.incipit = tr.d054_en_US_unknown.trGC.Ode1C123.incipit
 trGC.Ode1C123.text = tr.d054_en_US_unknown.trGC.Ode1C123.text
 
-trGC.C2.acrostic = tr.d054_en_US_unknown.trGC.C2.acrostic
+trGC.C2.acrostic.title = tr.d054_en_US_unknown.trGC.C2.acrostic.title
+trGC.C2.acrostic.notice1 = tr.d054_en_US_unknown.trGC.C2.acrostic.notice1
+trGC.C2.acrostic.text = tr.d054_en_US_unknown.trGC.C2.acrostic.text
 
 trGC.Ode1C201.ode = tr.d054_en_US_unknown.trGC.Ode1C201.ode
 trGC.Ode1C201.mode = tr.d054_en_US_unknown.trGC.Ode1C201.mode

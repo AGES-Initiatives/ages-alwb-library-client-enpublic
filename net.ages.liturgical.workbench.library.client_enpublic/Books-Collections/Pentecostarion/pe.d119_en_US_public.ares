@@ -130,8 +130,11 @@ peMA.Kathisma22.melody = pe.d119_en_US_dedes.peMA.Kathisma22.melody
 peMA.Kathisma22.incipit = pe.d119_en_US_dedes.peMA.Kathisma22.incipit
 peMA.Kathisma22.text = pe.d119_en_US_dedes.peMA.Kathisma22.text
 
-peMA.C1.acrostic = pe.d119_en_US_dedes.peMA.C1.acrostic
-
+peMA.C1.acrostic.title = pe.d119_en_US_dedes.peMA.C1.acrostic.title
+peMA.C1.acrostic.notice1 = pe.d119_en_US_dedes.peMA.C1.acrostic.notice1
+peMA.C1.acrostic.text = pe.d119_en_US_dedes.peMA.C1.acrostic.text
+peMA.C1.acrostic.notice2 = pe.d119_en_US_dedes.peMA.C1.acrostic.notice2
+peMA.C1.poet = pe.d119_en_US_dedes.peMA.C1.poet
 peMA.C1.title = pe.d119_en_US_dedes.peMA.C1.title
 peMA.C1.verse = pe.d119_en_US_dedes.peMA.C1.verse
 

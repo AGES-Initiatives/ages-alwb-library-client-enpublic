@@ -53,6 +53,10 @@ meVE.GeneralApolytikion1.melody = me.m12.d11_en_US_dedes.meVE.GeneralApolytikion
 meVE.GeneralApolytikion1.name = me.m12.d11_en_US_dedes.meVE.GeneralApolytikion1.name
 meVE.MM.GeneralApolytikion1.text = me.m12.d11_en_US_dedes.meVE.MM.GeneralApolytikion1.text
 
+meMA.C1.acrostic.title = me.m12.d11_en_US_dedes.meMA.C1.acrostic.title
+meMA.C1.acrostic.notice1 = me.m12.d11_en_US_dedes.meMA.C1.acrostic.notice1
+meMA.C1.acrostic.text = me.m12.d11_en_US_dedes.meMA.C1.acrostic.text
+//meMA.C1.acrostic.notice2 = me.m12.d11_en_US_dedes.meMA.C1.acrostic.notice2
 meMA.C1.acrostic = me.m12.d11_en_US_dedes.meMA.C1.acrostic
 
 meMA.C1.title = me.m12.d11_en_US_dedes.meMA.C1.title

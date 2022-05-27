@@ -169,12 +169,24 @@ meMA.PostGospelIdiomelon.melody = me.m10.d26_en_US_dedes.meMA.PostGospelIdiomelo
 meMA.PostGospelIdiomelon.incipit = me.m10.d26_en_US_dedes.meMA.PostGospelIdiomelon.incipit
 meMA.PostGospelIdiomelon.text = me.m10.d26_en_US_dedes.meMA.PostGospelIdiomelon.text
 
+meMA.C1.acrostic.title = me.m10.d26_en_US_dedes.meMA.C1.acrostic.title
+meMA.C1.acrostic.notice1 = me.m10.d26_en_US_dedes.meMA.C1.acrostic.notice1
+meMA.C1.acrostic.text = me.m10.d26_en_US_dedes.meMA.C1.acrostic.text
+//meMA.C1.acrostic.notice2 = me.m10.d26_en_US_dedes.meMA.C1.acrostic.notice2
 meMA.C1.acrostic = me.m10.d26_en_US_dedes.meMA.C1.acrostic
 
 meMA.C2.poet = me.m10.d26_en_US_dedes.meMA.C2.poet
+meMA.C2.acrostic.title = me.m10.d26_en_US_dedes.meMA.C2.acrostic.title
+meMA.C2.acrostic.notice1 = me.m10.d26_en_US_dedes.meMA.C2.acrostic.notice1
+meMA.C2.acrostic.text = me.m10.d26_en_US_dedes.meMA.C2.acrostic.text
+//meMA.C2.acrostic.notice2 = me.m10.d26_en_US_dedes.meMA.C2.acrostic.notice2
 meMA.C2.acrostic = me.m10.d26_en_US_dedes.meMA.C2.acrostic
 
 meMA.C3.poet = me.m10.d26_en_US_dedes.meMA.C3.poet
+meMA.C3.acrostic.title = me.m10.d26_en_US_dedes.meMA.C3.acrostic.title
+meMA.C3.acrostic.notice1 = me.m10.d26_en_US_dedes.meMA.C3.acrostic.notice1
+meMA.C3.acrostic.text = me.m10.d26_en_US_dedes.meMA.C3.acrostic.text
+//meMA.C3.acrostic.notice2 = me.m10.d26_en_US_dedes.meMA.C3.acrostic.notice2
 meMA.C3.acrostic = me.m10.d26_en_US_dedes.meMA.C3.acrostic
 
 //This is just a first draft of the translation of the first canon.

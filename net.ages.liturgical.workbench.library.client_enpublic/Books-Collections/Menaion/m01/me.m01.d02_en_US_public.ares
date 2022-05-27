@@ -82,12 +82,20 @@ meVE.Apolytikion1.melody = me.m01.d02_en_US_dedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.incipit = me.m01.d02_en_US_dedes.meVE.Apolytikion1.incipit
 meVE.Apolytikion1.text = me.m01.d02_en_US_dedes.meVE.Apolytikion1.text
 
-meCO.C1Poet = me.m01.d02_en_US_dedes.meCO.C1Poet
+meCO.C1.poet = me.m01.d02_en_US_dedes.meCO.C1.poet
+meCO.C1.acrostic.title = me.m01.d02_en_US_dedes.meCO.C1.acrostic.title
+meCO.C1.acrostic.notice1 = me.m01.d02_en_US_dedes.meCO.C1.acrostic.notice1
+meCO.C1.acrostic.text = me.m01.d02_en_US_dedes.meCO.C1.acrostic.text
+//meCO.C1.acrostic.notice2 = me.m01.d02_en_US_dedes.meCO.C1.acrostic.notice2
 meCO.C1.acrostic = me.m01.d02_en_US_dedes.meCO.C1.acrostic
 meCO.C1.title = me.m01.d02_en_US_dedes.meCO.C1.title
 meCO.C1.verse = me.m01.d02_en_US_dedes.meCO.C1.verse
 
-meCO.C2Poet = me.m01.d02_en_US_dedes.meCO.C2Poet
+meCO.C2.poet = me.m01.d02_en_US_dedes.meCO.C2.poet
+meCO.C2.acrostic.title = me.m01.d02_en_US_dedes.meCO.C2.acrostic.title
+meCO.C2.acrostic.notice1 = me.m01.d02_en_US_dedes.meCO.C2.acrostic.notice1
+meCO.C2.acrostic.text = me.m01.d02_en_US_dedes.meCO.C2.acrostic.text
+//meCO.C2.acrostic.notice2 = me.m01.d02_en_US_dedes.meCO.C2.acrostic.notice2
 meCO.C2.acrostic = me.m01.d02_en_US_dedes.meCO.C2.acrostic
 meCO.C2.title = me.m01.d02_en_US_dedes.meCO.C2.title
 meCO.C2.verse = me.m01.d02_en_US_dedes.meCO.C2.verse
@@ -215,8 +223,16 @@ meMA.Kathisma22.incipit = me.m01.d02_en_US_oca.meMA.Kathisma22.incipit
 meMA.Kathisma22.text = me.m01.d02_en_US_oca.meMA.Kathisma22.text
 
 meMA.C1.poet = me.m01.d02_en_US_dedes.meMA.C1.poet
+meMA.C1.acrostic.title = me.m01.d02_en_US_dedes.meMA.C1.acrostic.title
+meMA.C1.acrostic.notice1 = me.m01.d02_en_US_dedes.meMA.C1.acrostic.notice1
+meMA.C1.acrostic.text = me.m01.d02_en_US_dedes.meMA.C1.acrostic.text
+//meMA.C1.acrostic.notice2 = me.m01.d02_en_US_dedes.meMA.C1.acrostic.notice2
 meMA.C1.acrostic = me.m01.d02_en_US_dedes.meMA.C1.acrostic
 
+meMA.C2.acrostic.title = me.m01.d02_en_US_dedes.meMA.C2.acrostic.title
+meMA.C2.acrostic.notice1 = me.m01.d02_en_US_dedes.meMA.C2.acrostic.notice1
+meMA.C2.acrostic.text = me.m01.d02_en_US_dedes.meMA.C2.acrostic.text
+//meMA.C2.acrostic.notice2 = me.m01.d02_en_US_dedes.meMA.C2.acrostic.notice2
 meMA.C2.acrostic = me.m01.d02_en_US_dedes.meMA.C2.acrostic
 
 meMA.Ode1C1H.ode = me.m01.d02_en_US_dedes.meMA.Ode1C1H.ode

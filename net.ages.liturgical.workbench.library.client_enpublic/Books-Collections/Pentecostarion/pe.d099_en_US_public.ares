@@ -98,17 +98,19 @@ peMA.Kathisma23.melody = pe.d099_en_US_dedes.peMA.Kathisma23.melody
 peMA.Kathisma23.incipit = pe.d099_en_US_dedes.peMA.Kathisma23.incipit
 peMA.Kathisma23.text = pe.d099_en_US_dedes.peMA.Kathisma23.text
 
-peMA.C1.poet = pe.d099_en_US_dedes.peMA.C1.poet
-peMA.C1.acrostic = pe.d099_en_US_dedes.peMA.C1.acrostic
+peMA.C1.acrostic.title = pe.d099_en_US_goadedes.peMA.C1.acrostic.title
+peMA.C1.acrostic.notice1 = pe.d099_en_US_goadedes.peMA.C1.acrostic.notice1
+peMA.C1.acrostic.text = pe.d099_en_US_goadedes.peMA.C1.acrostic.text
+peMA.C1.acrostic.notice2 = pe.d099_en_US_goadedes.peMA.C1.acrostic.notice2
+peMA.C1.poet = pe.d099_en_US_goadedes.peMA.C1.poet
+peMA.C1.title = pe.d099_en_US_goadedes.peMA.C1.title
+peMA.C1.verse = pe.d099_en_US_goadedes.peMA.C1.verse
 
 peMA.Ode1C1H.ode = pe.d099_en_US_dedes.peMA.Ode1C1H.ode
 peMA.Ode1C1H.mode = pe.d099_en_US_dedes.peMA.Ode1C1H.mode
 peMA.Ode1C1H.melody = pe.d099_en_UK_lash.peMA.Ode1C1H.melody
 peMA.Ode1C1H.incipit = pe.d099_en_UK_lash.peMA.Ode1C1H.incipit
 peMA.Ode1C1H.text = pe.d099_en_UK_lash.peMA.Ode1C1H.text
-
-peMA.C1.title = pe.d099_en_US_dedes.peMA.C1.title
-peMA.C1.verse = pe.d099_en_US_dedes.peMA.C1.verse
 
 peMA.Ode1C11.ode = pe.d099_en_US_dedes.peMA.Ode1C11.ode
 peMA.Ode1C11.mode = pe.d099_en_US_dedes.peMA.Ode1C11.mode

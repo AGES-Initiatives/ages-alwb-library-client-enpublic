@@ -135,6 +135,10 @@ meMA.Kathisma2T.melody = me.m07.d07_en_US_dedes.meMA.Kathisma2T.melody
 meMA.Kathisma2T.incipit = me.m07.d07_en_US_dedes.meMA.Kathisma2T.incipit
 meMA.Kathisma2T.text = me.m07.d07_en_US_dedes.meMA.Kathisma2T.text
 
+meMA.C2.acrostic.title = me.m07.d07_en_US_dedes.meMA.C2.acrostic.title
+meMA.C2.acrostic.notice1 = me.m07.d07_en_US_dedes.meMA.C2.acrostic.notice1
+meMA.C2.acrostic.text = me.m07.d07_en_US_dedes.meMA.C2.acrostic.text
+//meMA.C2.acrostic.notice2 = me.m07.d07_en_US_dedes.meMA.C2.acrostic.notice2
 meMA.C2.acrostic = me.m07.d07_en_US_dedes.meMA.C2.acrostic
 
 meMA.C1.title = me.m07.d07_en_US_dedes.meMA.C1.title

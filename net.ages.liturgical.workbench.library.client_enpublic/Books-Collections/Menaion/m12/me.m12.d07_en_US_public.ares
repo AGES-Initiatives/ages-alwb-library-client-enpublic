@@ -65,8 +65,16 @@ meVE.Apolytikion1.text = me.m12.d07_en_US_dedes.meVE.Apolytikion1.text
 
 meVE.GeneralApolytikion1.name = me.m12.d07_en_US_dedes.meVE.GeneralApolytikion1.name // name of saint for General Apolytikia when not in Menaion
 
+meMA.C1.acrostic.title = me.m12.d07_en_US_dedes.meMA.C1.acrostic.title
+meMA.C1.acrostic.notice1 = me.m12.d07_en_US_dedes.meMA.C1.acrostic.notice1
+meMA.C1.acrostic.text = me.m12.d07_en_US_dedes.meMA.C1.acrostic.text
+//meMA.C1.acrostic.notice2 = me.m12.d07_en_US_dedes.meMA.C1.acrostic.notice2
 meMA.C1.acrostic = me.m12.d07_en_US_dedes.meMA.C1.acrostic
 
+meMA.C2.acrostic.title = me.m12.d07_en_US_dedes.meMA.C2.acrostic.title
+meMA.C2.acrostic.notice1 = me.m12.d07_en_US_dedes.meMA.C2.acrostic.notice1
+meMA.C2.acrostic.text = me.m12.d07_en_US_dedes.meMA.C2.acrostic.text
+//meMA.C2.acrostic.notice2 = me.m12.d07_en_US_dedes.meMA.C2.acrostic.notice2
 meMA.C2.acrostic = me.m12.d07_en_US_dedes.meMA.C2.acrostic
 
 meMA.C1.title = me.m12.d07_en_US_dedes.meMA.C1.title

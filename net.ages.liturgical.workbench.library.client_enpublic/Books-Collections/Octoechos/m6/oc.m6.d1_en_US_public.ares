@@ -118,8 +118,10 @@ ocVE.ApolTheotokionVM.melody = ""
 ocVE.ApolTheotokionVM.incipit = oc.m6.d1_en_US_dedes.ocVE.ApolTheotokionVM.incipit
 ocVE.ApolTheotokionVM.text = oc.m6.d1_en_US_dedes.ocVE.ApolTheotokionVM.text
 
+ocMO.title = oc.m6.d1_en_US_dedes.ocMO.title
 ocMO.poet = oc.m6.d1_en_US_goadedes.ocMO.poet
-ocMO.acrostic = oc.m6.d1_en_US_goadedes.ocMO.acrostic
+ocMO.acrostic.notice = oc.m6.d1_en_US_goadedes.ocMO.acrostic.notice
+ocMO.acrostic.text = oc.m6.d1_en_US_goadedes.ocMO.acrostic.text
 
 ocMO.Ode11.mode = oc.m6.d1_en_US_goadedes.ocMO.Ode11.mode
 ocMO.Ode11.ode = oc.m6.d1_en_US_goadedes.ocMO.Ode11.ode
@@ -413,6 +415,10 @@ ocMA.Antiphon33.text = oc.m6.d1_en_US_dedes.ocMA.Antiphon33.text
 
 ocMA.MM.Prokeimenon.text = properties_en_US_public.media.key
 
+ocMA.C3.acrostic.title = oc.m6.d1_en_UK_lash.ocMA.C3.acrostic.title
+ocMA.C3.acrostic.notice1 = oc.m6.d1_en_UK_lash.ocMA.C3.acrostic.notice1
+ocMA.C3.acrostic.text = oc.m6.d1_en_UK_lash.ocMA.C3.acrostic.text
+//ocMA.C3.acrostic.notice2 = oc.m6.d1_en_UK_lash.ocMA.C3.acrostic.notice2
 ocMA.C3.acrostic = oc.m6.d1_en_UK_lash.ocMA.C3.acrostic
 
 ocMA.OdeS1C1H.mode = oc.m6.d1_en_US_dedes.ocMA.OdeS1C1H.mode

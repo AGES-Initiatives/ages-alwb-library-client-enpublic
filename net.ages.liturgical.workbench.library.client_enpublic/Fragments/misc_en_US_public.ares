@@ -18,6 +18,7 @@ horizontal_line.dash1 = misc_en_US_dedes.horizontal_line.dash1
 horizontal_line.solid1 = misc_en_US_dedes.horizontal_line.solid1
 parenthesis.open = misc_en_US_dedes.parenthesis.open
 parenthesis.close = misc_en_US_dedes.parenthesis.close
+punctuation.comma = misc_en_US_dedes.punctuation.comma
 punctuation.ellipsis = misc_en_US_dedes.punctuation.ellipsis
 punctuation.period = misc_en_US_dedes.punctuation.period
 separator.asterisk = misc_en_US_dedes.separator.asterisk

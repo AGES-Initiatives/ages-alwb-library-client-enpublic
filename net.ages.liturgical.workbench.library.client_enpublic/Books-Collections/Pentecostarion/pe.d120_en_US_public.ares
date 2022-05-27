@@ -138,11 +138,22 @@ peMA.PostGospelIdiomelon.melody = pe.d120_en_US_dedes.peMA.PostGospelIdiomelon.m
 peMA.PostGospelIdiomelon.incipit = pe.d120_en_US_dedes.peMA.PostGospelIdiomelon.incipit
 peMA.PostGospelIdiomelon.text = pe.d120_en_US_dedes.peMA.PostGospelIdiomelon.text
 
+peMA.C1.acrostic.title = pe.d120_en_US_goadedes.peMA.C1.acrostic.title
+peMA.C1.acrostic.notice1 = pe.d120_en_US_goadedes.peMA.C1.acrostic.notice1
+peMA.C1.acrostic.text = pe.d120_en_US_goadedes.peMA.C1.acrostic.text
+peMA.C1.acrostic.notice2 = pe.d120_en_US_goadedes.peMA.C1.acrostic.notice2
 peMA.C1.poet = pe.d120_en_US_goadedes.peMA.C1.poet
-peMA.C1.acrostic = pe.d120_en_US_goadedes.peMA.C1.acrostic
+peMA.C1.title = pe.d120_en_US_goadedes.peMA.C1.title
+peMA.C1.verse = pe.d120_en_US_goadedes.peMA.C1.verse
 
+peMA.C2.acrostic.title = pe.d120_en_US_goadedes.peMA.C2.acrostic.title
+peMA.C2.acrostic.notice1 = pe.d120_en_US_goadedes.peMA.C2.acrostic.notice1
+peMA.C2.acrostic.text = pe.d120_en_US_goadedes.peMA.C2.acrostic.text
+peMA.C2.acrostic.notice2 = pe.d120_en_US_goadedes.peMA.C2.acrostic.notice2
 peMA.C2.poet = pe.d120_en_US_goadedes.peMA.C2.poet
-peMA.C2.acrostic = pe.d120_en_US_goadedes.peMA.C2.acrostic
+peMA.C2.title = pe.d120_en_US_goadedes.peMA.C2.title
+peMA.C2.verse = pe.d120_en_US_goadedes.peMA.C2.verse
+
 peMA.C2.Acrostic1.acrostic = pe.d120_en_US_goadedes.peMA.C2.Acrostic1.acrostic
 peMA.C2.Acrostic2.acrostic = pe.d120_en_US_goadedes.peMA.C2.Acrostic2.acrostic
 peMA.C2.Acrostic3.acrostic = pe.d120_en_US_goadedes.peMA.C2.Acrostic3.acrostic
@@ -154,9 +165,6 @@ peMA.Ode1C1H.mode = pe.d120_en_US_goadedes.peMA.Ode1C1H.mode
 peMA.Ode1C1H.melody = pe.d120_en_US_goadedes.peMA.Ode1C1H.melody
 peMA.Ode1C1H.incipit = pe.d120_en_US_goadedes.peMA.Ode1C1H.incipit
 peMA.Ode1C1H.text = pe.d120_en_US_goadedes.peMA.Ode1C1H.text
-
-peMA.C1.title = pe.d120_en_US_dedes.peMA.C1.title
-peMA.C1.verse = pe.d120_en_US_dedes.peMA.C1.verse
 
 peMA.Ode1C11.ode = pe.d120_en_US_goadedes.peMA.Ode1C11.ode
 peMA.Ode1C11.mode = pe.d120_en_US_goadedes.peMA.Ode1C11.mode
@@ -180,9 +188,6 @@ peMA.Ode1C2H2.text = pe.d120_en_US_goadedes.peMA.Ode1C2H2.text
 peMA.Ode1C2H3.text = pe.d120_en_US_goadedes.peMA.Ode1C2H3.text
 peMA.Ode1C2H4.text = pe.d120_en_US_goadedes.peMA.Ode1C2H4.text
 peMA.Ode1C2H5.text = pe.d120_en_US_goadedes.peMA.Ode1C2H5.text
-
-peMA.C2.title = pe.d120_en_US_dedes.peMA.C2.title
-peMA.C2.verse = pe.d120_en_US_dedes.peMA.C2.verse
 
 peMA.Ode1C21.ode = pe.d120_en_US_goadedes.peMA.Ode1C21.ode
 peMA.Ode1C21.mode = pe.d120_en_US_goadedes.peMA.Ode1C21.mode

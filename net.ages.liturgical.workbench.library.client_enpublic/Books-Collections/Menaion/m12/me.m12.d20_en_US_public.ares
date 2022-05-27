@@ -108,6 +108,10 @@ meVE.Apolytikion2.text = me.m12.d20_en_US_dedes.meVE.Apolytikion2.text
 meCO.C1.title = me.m12.d20_en_US_dedes.meCO.C1.title
 meCO.C1.verse = me.m12.d20_en_US_dedes.meCO.C1.verse
 
+meCO.C1.acrostic.title = me.m12.d20_en_US_oca.meCO.C1.acrostic.title
+meCO.C1.acrostic.notice1 = me.m12.d20_en_US_oca.meCO.C1.acrostic.notice1
+meCO.C1.acrostic.text = me.m12.d20_en_US_oca.meCO.C1.acrostic.text
+//meCO.C1.acrostic.notice2 = me.m12.d20_en_US_oca.meCO.C1.acrostic.notice2
 meCO.C1.acrostic = me.m12.d20_en_US_oca.meCO.C1.acrostic
 
 meCO.Ode1C1H.ode = me.m12.d20_en_US_dedes.meCO.Ode1C1H.ode
@@ -174,6 +178,10 @@ meMA.Kathisma21.melody = me.m12.d20_en_US_oca.meMA.Kathisma21.melody
 meMA.Kathisma21.incipit = me.m12.d20_en_US_oca.meMA.Kathisma21.incipit
 meMA.Kathisma21.text = me.m12.d20_en_US_oca.meMA.Kathisma21.text
 
+meMA.C1.acrostic.title = me.m12.d20_en_US_dedes.meMA.C1.acrostic.title
+meMA.C1.acrostic.notice1 = me.m12.d20_en_US_dedes.meMA.C1.acrostic.notice1
+meMA.C1.acrostic.text = me.m12.d20_en_US_dedes.meMA.C1.acrostic.text
+//meMA.C1.acrostic.notice2 = me.m12.d20_en_US_dedes.meMA.C1.acrostic.notice2
 meMA.C1.acrostic = me.m12.d20_en_US_dedes.meMA.C1.acrostic
 
 meMA.C2.poet = me.m12.d20_en_US_dedes.meMA.C2.poet

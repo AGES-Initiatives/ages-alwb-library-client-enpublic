@@ -207,6 +207,10 @@ meMA.PostGospelIdiomelon.incipit = me.m02.d02_en_US_duvall.meMA.PostGospelIdiome
 meMA.PostGospelIdiomelon.text = me.m02.d02_en_US_duvall.meMA.PostGospelIdiomelon.text
 
 meMA.C1.poet = me.m02.d02_en_US_dedes.meMA.C1.poet
+meMA.C1.acrostic.title = me.m02.d02_en_US_dedes.meMA.C1.acrostic.title
+meMA.C1.acrostic.notice1 = me.m02.d02_en_US_dedes.meMA.C1.acrostic.notice1
+meMA.C1.acrostic.text = me.m02.d02_en_US_dedes.meMA.C1.acrostic.text
+//meMA.C1.acrostic.notice2 = me.m02.d02_en_US_dedes.meMA.C1.acrostic.notice2
 meMA.C1.acrostic = me.m02.d02_en_US_dedes.meMA.C1.acrostic
 
 meMA.Ode1C1H.ode = me.m02.d02_en_US_goadedes.meMA.Ode1C1H.ode

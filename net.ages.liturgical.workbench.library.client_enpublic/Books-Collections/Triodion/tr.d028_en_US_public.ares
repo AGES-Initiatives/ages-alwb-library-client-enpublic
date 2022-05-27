@@ -56,6 +56,10 @@ trVE.ApolTheotokion.text = tr.d028_en_US_dedes.trVE.ApolTheotokion.text
 
 //Supplicatory Canon to St. Theodore
 
+trCA.acrostic.title = ""
+trCA.acrostic.notice1 = ""
+trCA.acrostic.text = ""
+//trCA.acrostic.notice2 = ""
 trCA.poet = tr.d028_en_US_dedes.trCA.poet
 
 trCA.Ode11.ode = tr.d028_en_US_dedes.trCA.Ode11.ode

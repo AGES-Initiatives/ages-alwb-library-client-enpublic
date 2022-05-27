@@ -115,9 +115,17 @@ meMA.Kathisma2T.melody = me.m06.d30_en_US_dedes.meMA.Kathisma2T.melody
 meMA.Kathisma2T.incipit = me.m06.d30_en_US_dedes.meMA.Kathisma2T.incipit
 meMA.Kathisma2T.text = me.m06.d30_en_US_dedes.meMA.Kathisma2T.text
 
+meMA.C1.acrostic.title = me.m06.d30_en_US_dedes.meMA.C1.acrostic.title
+meMA.C1.acrostic.notice1 = me.m06.d30_en_US_dedes.meMA.C1.acrostic.notice1
+meMA.C1.acrostic.text = me.m06.d30_en_US_dedes.meMA.C1.acrostic.text
+//meMA.C1.acrostic.notice2 = me.m06.d30_en_US_dedes.meMA.C1.acrostic.notice2
 meMA.C1.acrostic = me.m06.d30_en_US_dedes.meMA.C1.acrostic
 
 meMA.C2.poet = me.m06.d30_en_US_dedes.meMA.C2.poet
+meMA.C2.acrostic.title = me.m06.d30_en_US_dedes.meMA.C2.acrostic.title
+meMA.C2.acrostic.notice1 = me.m06.d30_en_US_dedes.meMA.C2.acrostic.notice1
+meMA.C2.acrostic.text = me.m06.d30_en_US_dedes.meMA.C2.acrostic.text
+//meMA.C2.acrostic.notice2 = me.m06.d30_en_US_dedes.meMA.C2.acrostic.notice2
 meMA.C2.acrostic = me.m06.d30_en_US_dedes.meMA.C2.acrostic
 
 meMA.Ode1C1H.ode = me.m06.d30_en_US_dedes.meMA.Ode1C1H.ode
