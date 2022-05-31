@@ -223,12 +223,15 @@ meMA.PostGospelIdiomelon.melody = me.m11.d13_en_US_dedes.meMA.PostGospelIdiomelo
 meMA.PostGospelIdiomelon.incipit = me.m11.d13_en_US_dedes.meMA.PostGospelIdiomelon.incipit
 meMA.PostGospelIdiomelon.text = me.m11.d13_en_US_dedes.meMA.PostGospelIdiomelon.text
 
-meMA.C2.poet = me.m11.d13_en_US_dedes.meMA.C2.poet
-meMA.C2.acrostic.title = me.m11.d13_en_US_dedes.meMA.C2.acrostic.title
+meMA.C1.title = me.m11.d13_en_US_dedes.meMA.C1.title
+meMA.C1.verse = me.m11.d13_en_US_dedes.meMA.C1.verse
+
+meMA.C2.acrostic.title = me.m11.d13_en_US_oca.meMA.C2.acrostic.title
 meMA.C2.acrostic.notice1 = me.m11.d13_en_US_dedes.meMA.C2.acrostic.notice1
 meMA.C2.acrostic.text = me.m11.d13_en_US_dedes.meMA.C2.acrostic.text
-//meMA.C2.acrostic.notice2 = me.m11.d13_en_US_dedes.meMA.C2.acrostic.notice2
-meMA.C2.acrostic = me.m11.d13_en_US_dedes.meMA.C2.acrostic
+meMA.C2.poet = me.m11.d13_en_US_dedes.meMA.C2.poet
+meMA.C2.title = me.m11.d13_en_US_dedes.meMA.C2.title
+meMA.C2.verse = me.m11.d13_en_US_dedes.meMA.C2.verse
 
 meMA.Ode1C1H.ode = me.m11.d13_en_US_dedes.meMA.Ode1C1H.ode
 meMA.Ode1C1H.mode = me.m11.d13_en_US_dedes.meMA.Ode1C1H.mode
@@ -236,8 +239,6 @@ meMA.Ode1C1H.melody = me.m11.d13_en_US_dedes.meMA.Ode1C1H.melody
 meMA.Ode1C1H.incipit = me.m11.d13_en_US_dedes.meMA.Ode1C1H.incipit
 meMA.Ode1C1H.text = me.m11.d13_en_US_dedes.meMA.Ode1C1H.text
 
-meMA.C1.title = me.m11.d13_en_US_dedes.meMA.C1.title
-meMA.C1.verse = me.m11.d13_en_US_dedes.meMA.C1.verse
 
 meMA.Ode1C11.ode = me.m11.d13_en_US_dedes.meMA.Ode1C11.ode
 meMA.Ode1C11.mode = me.m11.d13_en_US_dedes.meMA.Ode1C11.mode
@@ -268,9 +269,6 @@ meMA.Ode1C15.mode = me.m11.d13_en_US_dedes.meMA.Ode1C15.mode
 meMA.Ode1C15.melody = me.m11.d13_en_US_dedes.meMA.Ode1C15.melody
 meMA.Ode1C15.incipit = me.m11.d13_en_US_dedes.meMA.Ode1C15.incipit
 meMA.Ode1C15.text = me.m11.d13_en_US_dedes.meMA.Ode1C15.text
-
-meMA.C2.title = me.m11.d13_en_US_dedes.meMA.C2.title
-meMA.C2.verse = me.m11.d13_en_US_dedes.meMA.C2.verse
 
 meMA.Ode1C21.ode = me.m11.d13_en_US_dedes.meMA.Ode1C21.ode
 meMA.Ode1C21.mode = me.m11.d13_en_US_dedes.meMA.Ode1C21.mode

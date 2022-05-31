@@ -172,22 +172,22 @@ meMA.PostGospelIdiomelon.text = me.m10.d26_en_US_dedes.meMA.PostGospelIdiomelon.
 meMA.C1.acrostic.title = me.m10.d26_en_US_dedes.meMA.C1.acrostic.title
 meMA.C1.acrostic.notice1 = me.m10.d26_en_US_dedes.meMA.C1.acrostic.notice1
 meMA.C1.acrostic.text = me.m10.d26_en_US_dedes.meMA.C1.acrostic.text
-//meMA.C1.acrostic.notice2 = me.m10.d26_en_US_dedes.meMA.C1.acrostic.notice2
-meMA.C1.acrostic = me.m10.d26_en_US_dedes.meMA.C1.acrostic
+meMA.C1.title = me.m10.d26_en_US_dedes.meMA.C1.title
+meMA.C1.verse = me.m10.d26_en_US_dedes.meMA.C1.verse
 
-meMA.C2.poet = me.m10.d26_en_US_dedes.meMA.C2.poet
 meMA.C2.acrostic.title = me.m10.d26_en_US_dedes.meMA.C2.acrostic.title
 meMA.C2.acrostic.notice1 = me.m10.d26_en_US_dedes.meMA.C2.acrostic.notice1
 meMA.C2.acrostic.text = me.m10.d26_en_US_dedes.meMA.C2.acrostic.text
-//meMA.C2.acrostic.notice2 = me.m10.d26_en_US_dedes.meMA.C2.acrostic.notice2
-meMA.C2.acrostic = me.m10.d26_en_US_dedes.meMA.C2.acrostic
+meMA.C2.poet = me.m10.d26_en_US_dedes.meMA.C2.poet
+meMA.C2.title = me.m10.d26_en_US_dedes.meMA.C2.title
+meMA.C2.verse = me.m10.d26_en_US_dedes.meMA.C2.verse
 
-meMA.C3.poet = me.m10.d26_en_US_dedes.meMA.C3.poet
 meMA.C3.acrostic.title = me.m10.d26_en_US_dedes.meMA.C3.acrostic.title
 meMA.C3.acrostic.notice1 = me.m10.d26_en_US_dedes.meMA.C3.acrostic.notice1
 meMA.C3.acrostic.text = me.m10.d26_en_US_dedes.meMA.C3.acrostic.text
-//meMA.C3.acrostic.notice2 = me.m10.d26_en_US_dedes.meMA.C3.acrostic.notice2
-meMA.C3.acrostic = me.m10.d26_en_US_dedes.meMA.C3.acrostic
+meMA.C3.poet = me.m10.d26_en_US_dedes.meMA.C3.poet
+meMA.C3.title = me.m10.d26_en_US_dedes.meMA.C3.title
+meMA.C3.verse = me.m10.d26_en_US_dedes.meMA.C3.verse
 
 //This is just a first draft of the translation of the first canon.
 meMA.Ode1C1H.ode = me.m10.d26_en_US_dedes.meMA.Ode1C1H.ode
@@ -195,9 +195,6 @@ meMA.Ode1C1H.mode = me.m10.d26_en_US_dedes.meMA.Ode1C1H.mode
 meMA.Ode1C1H.melody = me.m10.d26_en_US_dedes.meMA.Ode1C1H.melody
 meMA.Ode1C1H.incipit = me.m10.d26_en_US_dedes.meMA.Ode1C1H.incipit
 meMA.Ode1C1H.text = me.m10.d26_en_US_dedes.meMA.Ode1C1H.text
-
-meMA.C1.title = me.m10.d26_en_US_dedes.meMA.C1.title
-meMA.C1.verse = me.m10.d26_en_US_dedes.meMA.C1.verse
 
 meMA.Ode1C11.ode = me.m10.d26_en_US_dedes.meMA.Ode1C11.ode
 meMA.Ode1C11.mode = me.m10.d26_en_US_dedes.meMA.Ode1C11.mode
@@ -223,9 +220,6 @@ meMA.Ode1C1T.melody = me.m10.d26_en_US_dedes.meMA.Ode1C1T.melody
 meMA.Ode1C1T.incipit = me.m10.d26_en_US_dedes.meMA.Ode1C1T.incipit
 meMA.Ode1C1T.text = me.m10.d26_en_US_dedes.meMA.Ode1C1T.text
 
-meMA.C2.title = me.m10.d26_en_US_dedes.meMA.C2.title
-meMA.C2.verse = me.m10.d26_en_US_dedes.meMA.C2.verse
-
 meMA.Ode1C21.ode = me.m10.d26_en_US_dedes.meMA.Ode1C21.ode
 meMA.Ode1C21.mode = me.m10.d26_en_US_dedes.meMA.Ode1C21.mode
 meMA.Ode1C21.melody = me.m10.d26_en_US_dedes.meMA.Ode1C21.melody
@@ -249,9 +243,6 @@ meMA.Ode1C2T.mode = me.m10.d26_en_US_dedes.meMA.Ode1C2T.mode
 meMA.Ode1C2T.melody = me.m10.d26_en_US_dedes.meMA.Ode1C2T.melody
 meMA.Ode1C2T.incipit = me.m10.d26_en_US_dedes.meMA.Ode1C2T.incipit
 meMA.Ode1C2T.text = me.m10.d26_en_US_dedes.meMA.Ode1C2T.text
-
-meMA.C3.title = me.m10.d26_en_US_goadedes.meMA.C3.title
-meMA.C3.verse = me.m10.d26_en_US_goadedes.meMA.C3.verse
 
 meMA.Ode1C31.ode = me.m10.d26_en_US_goadedes.meMA.Ode1C31.ode
 meMA.Ode1C31.mode = me.m10.d26_en_US_goadedes.meMA.Ode1C31.mode
