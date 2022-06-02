@@ -91,6 +91,9 @@ meMA.Ode1C1H.text = me.m12.dBC_en_US_dedes.meMA.Ode1C1H.text
 meMA.C1.title = me.m12.dBC_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m12.dBC_en_US_dedes.meMA.C1.verse
 
+meMA.C2.title = me.m12.dBC_en_US_dedes.meMA.C2.title
+meMA.C2.verse = me.m12.dBC_en_US_dedes.meMA.C2.verse
+
 meMA.Ode1C11.ode = me.m12.dBC_en_US_dedes.meMA.Ode1C11.ode
 meMA.Ode1C11.mode = me.m12.dBC_en_US_dedes.meMA.Ode1C11.mode
 meMA.Ode1C11.melody = me.m12.dBC_en_US_goadedes.meMA.Ode1C11.melody
@@ -126,9 +129,6 @@ meMA.Ode1C1T.mode = me.m12.dBC_en_US_dedes.meMA.Ode1C1T.mode
 meMA.Ode1C1T.melody = me.m12.dBC_en_US_goadedes.meMA.Ode1C1T.melody
 meMA.Ode1C1T.incipit = me.m12.dBC_en_US_goadedes.meMA.Ode1C1T.incipit
 meMA.Ode1C1T.text = me.m12.dBC_en_US_goadedes.meMA.Ode1C1T.text
-
-meMA.C2.title = me.m12.dBC_en_US_dedes.meMA.C2.title
-meMA.C2.verse = me.m12.dBC_en_US_dedes.meMA.C2.verse
 
 meMA.Ode1C21.ode = me.m12.dBC_en_US_dedes.meMA.Ode1C21.ode
 meMA.Ode1C21.mode = me.m12.dBC_en_US_dedes.meMA.Ode1C21.mode
