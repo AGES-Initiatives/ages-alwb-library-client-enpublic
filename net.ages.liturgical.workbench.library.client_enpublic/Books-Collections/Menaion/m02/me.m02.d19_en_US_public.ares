@@ -48,11 +48,9 @@ meVE.Apolytikion1.melody = me.m02.d19_en_US_dedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.incipit = me.m02.d19_en_US_dedes.meVE.Apolytikion1.incipit
 meVE.Apolytikion1.text = me.m02.d19_en_US_dedes.meVE.Apolytikion1.text
 
-meMA.C1.acrostic.title = me.m02.d19_en_US_dedes.meMA.C1.acrostic.title
+meMA.C1.acrostic.title = me.m02.d19_en_US_andronache.meMA.C1.acrostic.title
 meMA.C1.acrostic.notice1 = me.m02.d19_en_US_dedes.meMA.C1.acrostic.notice1
 meMA.C1.acrostic.text = me.m02.d19_en_US_dedes.meMA.C1.acrostic.text
-//meMA.C1.acrostic.notice2 = me.m02.d19_en_US_dedes.meMA.C1.acrostic.notice2
-meMA.C1.acrostic = me.m02.d19_en_US_dedes.meMA.C1.acrostic
 meMA.C1.title = me.m02.d19_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m02.d19_en_US_dedes.meMA.C1.verse
 
@@ -489,18 +487,23 @@ alt1.meMA.PostGospelIdiomelon.melody = me.m02.d19_en_US_dedes.alt1.meMA.PostGosp
 alt1.meMA.PostGospelIdiomelon.incipit = me.m02.d19_en_US_dedes.alt1.meMA.PostGospelIdiomelon.incipit
 alt1.meMA.PostGospelIdiomelon.text = me.m02.d19_en_US_dedes.alt1.meMA.PostGospelIdiomelon.text
 
-alt1.meMA.C1.acrostic = me.m02.d19_en_US_dedes.alt1.meMA.C1.acrostic
+alt1.meMA.C1.acrostic.title = me.m02.d19_en_US_dedes.alt1.meMA.C1.acrostic.title
+alt1.meMA.C1.acrostic.notice1 = me.m02.d19_en_US_dedes.alt1.meMA.C1.acrostic.notice1
+alt1.meMA.C1.acrostic.text = me.m02.d19_en_US_dedes.alt1.meMA.C1.acrostic.text
+alt1.meMA.C1.title = me.m02.d19_en_US_dedes.alt1.meMA.C1.title
+alt1.meMA.C1.verse = me.m02.d19_en_US_dedes.alt1.meMA.C1.verse
 
-alt1.meMA.C2.acrostic = me.m02.d19_en_US_dedes.alt1.meMA.C2.acrostic
+alt1.meMA.C2.acrostic.title = me.m02.d19_en_US_dedes.alt1.meMA.C2.acrostic.title
+alt1.meMA.C2.acrostic.notice1 = me.m02.d19_en_US_dedes.alt1.meMA.C2.acrostic.notice1
+alt1.meMA.C2.acrostic.text = me.m02.d19_en_US_dedes.alt1.meMA.C2.acrostic.text
+alt1.meMA.C2.title = me.m02.d19_en_US_dedes.alt1.meMA.C2.title
+alt1.meMA.C2.verse = me.m02.d19_en_US_dedes.alt1.meMA.C2.verse
 
 alt1.meMA.Ode1C1H.ode = me.m02.d19_en_US_dedes.alt1.meMA.Ode1C1H.ode
 alt1.meMA.Ode1C1H.mode = me.m02.d19_en_US_dedes.alt1.meMA.Ode1C1H.mode
 alt1.meMA.Ode1C1H.melody = me.m02.d19_en_US_dedes.alt1.meMA.Ode1C1H.melody
 alt1.meMA.Ode1C1H.incipit = me.m02.d19_en_US_dedes.alt1.meMA.Ode1C1H.incipit
 alt1.meMA.Ode1C1H.text = me.m02.d19_en_US_dedes.alt1.meMA.Ode1C1H.text
-
-alt1.meMA.C1.title = me.m02.d19_en_US_dedes.alt1.meMA.C1.title
-alt1.meMA.C1.verse = me.m02.d19_en_US_dedes.alt1.meMA.C1.verse
 
 alt1.meMA.Ode1C11.ode = me.m02.d19_en_US_dedes.alt1.meMA.Ode1C11.ode
 alt1.meMA.Ode1C11.mode = me.m02.d19_en_US_dedes.alt1.meMA.Ode1C11.mode
@@ -525,9 +528,6 @@ alt1.meMA.Ode1C14.mode = me.m02.d19_en_US_dedes.alt1.meMA.Ode1C14.mode
 alt1.meMA.Ode1C14.melody = me.m02.d19_en_US_dedes.alt1.meMA.Ode1C14.melody
 alt1.meMA.Ode1C14.incipit = me.m02.d19_en_US_dedes.alt1.meMA.Ode1C14.incipit
 alt1.meMA.Ode1C14.text = me.m02.d19_en_US_dedes.alt1.meMA.Ode1C14.text
-
-alt1.meMA.C2.title = me.m02.d19_en_US_dedes.alt1.meMA.C2.title
-alt1.meMA.C2.verse = me.m02.d19_en_US_dedes.alt1.meMA.C2.verse
 
 alt1.meMA.Ode1C21.ode = me.m02.d19_en_US_dedes.alt1.meMA.Ode1C21.ode
 alt1.meMA.Ode1C21.mode = me.m02.d19_en_US_dedes.alt1.meMA.Ode1C21.mode

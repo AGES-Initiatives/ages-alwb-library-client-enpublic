@@ -105,8 +105,8 @@ meMA.Kathisma21.text = me.m02.d06_en_US_oca.meMA.Kathisma21.text
 meMA.C1.acrostic.title = me.m02.d06_en_US_dedes.meMA.C1.acrostic.title
 meMA.C1.acrostic.notice1 = me.m02.d06_en_US_dedes.meMA.C1.acrostic.notice1
 meMA.C1.acrostic.text = me.m02.d06_en_US_dedes.meMA.C1.acrostic.text
-//meMA.C1.acrostic.notice2 = me.m02.d06_en_US_dedes.meMA.C1.acrostic.notice2
-meMA.C1.acrostic = me.m02.d06_en_US_dedes.meMA.C1.acrostic
+meMA.C1.title = me.m02.d06_en_US_dedes.meMA.C1.title
+meMA.C1.verse = me.m02.d06_en_US_dedes.meMA.C1.verse
 
 meMA.Ode1C1H.ode = me.m02.d06_en_US_dedes.meMA.Ode1C1H.ode
 meMA.Ode1C1H.mode = me.m02.d06_en_US_dedes.meMA.Ode1C1H.mode
@@ -591,9 +591,6 @@ alt1.meVE.AposGlory.melody = me.m02.d06_en_US_dedes.alt1.meVE.AposGlory.melody
 alt1.meVE.AposGlory.incipit = me.m02.d06_en_US_dedes.alt1.meVE.AposGlory.incipit
 alt1.meVE.AposGlory.text = me.m02.d06_en_US_dedes.alt1.meVE.AposGlory.text
 
-//http://ec-patr.org/gr/typikon/2013/2013-02-06.htm
-//Καί νῦν: Τό ἕτερον ὁμόηχον Ἰδιόμελον τῆς Ἑορτῆς· «Σήμερον ἡ ἱερά Μήτηρ…»,
-//Added poet
 alt1.meVE.AposBoth.poet = me.m02.d06_en_US_dedes.alt1.meVE.AposBoth.poet
 alt1.meVE.AposBoth.mode = me.m02.d06_en_US_dedes.alt1.meVE.AposBoth.mode
 alt1.meVE.AposBoth.melody = me.m02.d06_en_US_dedes.alt1.meVE.AposBoth.melody
@@ -609,9 +606,6 @@ alt1.meVE.Apolytikion2.mode = me.m02.d06_en_US_dedes.alt1.meVE.Apolytikion2.mode
 alt1.meVE.Apolytikion2.melody = me.m02.d06_en_US_dedes.alt1.meVE.Apolytikion2.melody
 alt1.meVE.Apolytikion2.incipit = me.m02.d06_en_US_dedes.alt1.meVE.Apolytikion2.incipit
 alt1.meVE.Apolytikion2.text = me.m02.d06_en_US_dedes.alt1.meVE.Apolytikion2.text
-
-//http://ec-patr.org/gr/typikon/2013/2013-02-06.htm
-//Καθίσματα: Τοῦ Ἁγίου τῆς αʹ καί βʹ Στιχολογίας καί τό μετά τόν Πολυέλεον καί εἰς τό Καί νῦν, ἀντί Θεοτοκίων, ἀνά ἕν τῆς Ἑορτῆς· «Χορός ἀγγελικός…», «Ὁ ὤν σύν τῷ Πατρί…» καί· «Νηπιάζει δι' ἐμέ…».
 
 alt1.meMA.Kathisma11.mode = me.m02.d06_en_US_dedes.alt1.meMA.Kathisma11.mode
 alt1.meMA.Kathisma11.melody = me.m02.d06_en_US_dedes.alt1.meMA.Kathisma11.melody
@@ -644,7 +638,6 @@ alt1.meMA.Kathisma32.incipit = me.m02.d06_en_US_dedes.alt1.meMA.Kathisma32.incip
 alt1.meMA.Kathisma32.text = me.m02.d06_en_US_dedes.alt1.meMA.Kathisma32.text
 
 alt1.meMA.MM.Prokeimenon.text = properties_en_US_public.media.key
-// From Nov13.pdf saved from 2009
 
 alt1.meMA.PostGospelGlory.mode = me.m02.d06_en_US_dedes.alt1.meMA.PostGospelGlory.mode
 alt1.meMA.PostGospelGlory.melody = me.m02.d06_en_US_dedes.alt1.meMA.PostGospelGlory.melody
@@ -1167,7 +1160,12 @@ alt2.meMA.PostGospelIdiomelon.melody = me.m02.d06_en_US_dedes.alt2.meMA.PostGosp
 alt2.meMA.PostGospelIdiomelon.incipit = me.m02.d06_en_US_dedes.alt2.meMA.PostGospelIdiomelon.incipit
 alt2.meMA.PostGospelIdiomelon.text = me.m02.d06_en_US_dedes.alt2.meMA.PostGospelIdiomelon.text
 
-alt2.meMA.C1.acrostic = me.m02.d06_en_US_dedes.alt2.meMA.C1.acrostic
+alt2.meMA.C1.acrostic.title = me.m02.d06_en_US_dedes.alt2.meMA.C1.acrostic.title
+alt2.meMA.C1.acrostic.notice1 = me.m02.d06_en_US_dedes.alt2.meMA.C1.acrostic.notice1
+alt2.meMA.C1.acrostic.text = me.m02.d06_en_US_dedes.alt2.meMA.C1.acrostic.text
+alt2.meMA.C1.poet = me.m02.d06_en_US_dedes.alt2.meMA.C1.poet
+alt2.meMA.C1.title = me.m02.d06_en_US_dedes.alt2.meMA.C1.title
+alt2.meMA.C1.verse = me.m02.d06_en_US_dedes.alt2.meMA.C1.verse
 
 alt2.meMA.Ode1C11.ode = me.m02.d06_en_US_dedes.alt2.meMA.Ode1C11.ode
 alt2.meMA.Ode1C11.mode = me.m02.d06_en_US_dedes.alt2.meMA.Ode1C11.mode
