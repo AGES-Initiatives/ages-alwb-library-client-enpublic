@@ -3,7 +3,8 @@ A_Resource_Whose_Name = other.giatrissaparaklesis1_en_US_public
 hoCA.title = other.giatrissaparaklesis1_en_US_goadedes.hoCA.title
 hoCA.title2 = other.giatrissaparaklesis1_en_US_goadedes.hoCA.title2
 hoCA.poet = other.giatrissaparaklesis1_en_US_goadedes.hoCA.poet
-hoCA.translator = other.giatrissaparaklesis1_en_US_goadedes.hoCA.translator
+hoCA.translation.name = other.giatrissaparaklesis1_en_US_goadedes.hoCA.translation.name
+hoCA.translation.year = other.giatrissaparaklesis1_en_US_goadedes.hoCA.translation.year
 hoCA.Insert1 = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Insert1
 
 hoCA.media.text = other.giatrissaparaklesis1_en_US_goadedes.hoCA.media.text
@@ -17,11 +18,6 @@ hoCA.Apolytikion2.mode = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Apolytik
 hoCA.Apolytikion2.melody = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Apolytikion2.melody
 hoCA.Apolytikion2.incipit = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Apolytikion2.incipit
 hoCA.Apolytikion2.text = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Apolytikion2.text
-
-hoCA.Apolytikion3.mode = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Apolytikion3.mode
-hoCA.Apolytikion3.melody = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Apolytikion3.melody
-hoCA.Apolytikion3.incipit = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Apolytikion3.incipit
-hoCA.Apolytikion3.text = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Apolytikion3.text
 
 hoCA.acrostic.title = other.giatrissaparaklesis1_en_US_goadedes.hoCA.acrostic.title
 hoCA.acrostic.notice1 = other.giatrissaparaklesis1_en_US_goadedes.hoCA.acrostic.notice1
@@ -92,11 +88,6 @@ hoCA.Troparion31.mode = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Troparion
 hoCA.Troparion31.melody = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Troparion31.melody
 hoCA.Troparion31.incipit = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Troparion31.incipit
 hoCA.Troparion31.text = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Troparion31.text
-
-hoCA.Troparion32.mode = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Troparion32.mode
-hoCA.Troparion32.melody = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Troparion32.melody
-hoCA.Troparion32.incipit = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Troparion32.incipit
-hoCA.Troparion32.text = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Troparion32.text
 
 hoCA.Kathisma11.mode = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Kathisma11.mode
 hoCA.Kathisma11.melody = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Kathisma11.melody
@@ -198,11 +189,6 @@ hoCA.Troparion61.melody = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Tropari
 hoCA.Troparion61.incipit = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Troparion61.incipit
 hoCA.Troparion61.text = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Troparion61.text
 
-hoCA.Troparion62.mode = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Troparion62.mode
-hoCA.Troparion62.melody = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Troparion62.melody
-hoCA.Troparion62.incipit = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Troparion62.incipit
-hoCA.Troparion62.text = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Troparion62.text
-
 hoCA.Kontakion.mode = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Kontakion.mode
 hoCA.Kontakion.melody = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Kontakion.melody
 hoCA.Kontakion.incipit = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Kontakion.incipit
@@ -212,11 +198,6 @@ hoCA.PostGospelGlory.mode = other.giatrissaparaklesis1_en_US_goadedes.hoCA.PostG
 hoCA.PostGospelGlory.melody = other.giatrissaparaklesis1_en_US_goadedes.hoCA.PostGospelGlory.melody
 hoCA.PostGospelGlory.incipit = other.giatrissaparaklesis1_en_US_goadedes.hoCA.PostGospelGlory.incipit
 hoCA.PostGospelGlory.text = other.giatrissaparaklesis1_en_US_goadedes.hoCA.PostGospelGlory.text
-
-hoCA.PostGospelBoth.mode = other.giatrissaparaklesis1_en_US_goadedes.hoCA.PostGospelBoth.mode
-hoCA.PostGospelBoth.melody = other.giatrissaparaklesis1_en_US_goadedes.hoCA.PostGospelBoth.melody
-hoCA.PostGospelBoth.incipit = other.giatrissaparaklesis1_en_US_goadedes.hoCA.PostGospelBoth.incipit
-hoCA.PostGospelBoth.text = other.giatrissaparaklesis1_en_US_goadedes.hoCA.PostGospelBoth.text
 
 hoCA.PostGospelHymn1.mode = other.giatrissaparaklesis1_en_US_goadedes.hoCA.PostGospelHymn1.mode
 hoCA.PostGospelHymn1.melody = other.giatrissaparaklesis1_en_US_goadedes.hoCA.PostGospelHymn1.melody
@@ -313,11 +294,6 @@ hoCA.Ode94.melody = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Ode94.melody
 hoCA.Ode94.incipit = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Ode94.incipit
 hoCA.Ode94.text = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Ode94.text
 
-hoCA.Meg00.incipit = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Meg00.incipit
-hoCA.Meg00.text = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Meg00.text
-hoCA.Meg01.melody = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Meg01.melody
-hoCA.Meg01.incipit = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Meg01.incipit
-hoCA.Meg01.text = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Meg01.text
 hoCA.Meg02.melody = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Meg02.melody
 hoCA.Meg02.incipit = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Meg02.incipit
 hoCA.Meg02.text = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Meg02.text
@@ -333,8 +309,6 @@ hoCA.Meg05.text = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Meg05.text
 hoCA.Meg06.melody = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Meg06.melody
 hoCA.Meg06.incipit = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Meg06.incipit
 hoCA.Meg06.text = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Meg06.text
-hoCA.Meg0F.incipit = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Meg0F.incipit
-hoCA.Meg0F.text = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Meg0F.text
 
 hoCA.Troparion1.mode = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Troparion1.mode
 hoCA.Troparion1.melody = other.giatrissaparaklesis1_en_US_goadedes.hoCA.Troparion1.melody
