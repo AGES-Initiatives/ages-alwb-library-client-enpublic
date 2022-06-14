@@ -91,18 +91,15 @@ meVE.Apolytikion2.text = me.m07.d13_en_US_dedes.meVE.Apolytikion2.text
 meMA.C1.acrostic.title = me.m07.d13_en_US_dedes.meMA.C1.acrostic.title
 meMA.C1.acrostic.notice1 = me.m07.d13_en_US_dedes.meMA.C1.acrostic.notice1
 meMA.C1.acrostic.text = me.m07.d13_en_US_dedes.meMA.C1.acrostic.text
-//meMA.C1.acrostic.notice2 = me.m07.d13_en_US_dedes.meMA.C1.acrostic.notice2
-meMA.C1.acrostic = me.m07.d13_en_US_dedes.meMA.C1.acrostic
+meMA.C1.title = me.m07.d13_en_US_dedes.meMA.C1.title
+meMA.C1.verse = me.m07.d13_en_US_dedes.meMA.C1.verse
 
-meMA.C2.poet = me.m07.d13_en_US_dedes.meMA.C2.poet
 meMA.C2.acrostic.title = me.m07.d13_en_US_dedes.meMA.C2.acrostic.title
 meMA.C2.acrostic.notice1 = me.m07.d13_en_US_dedes.meMA.C2.acrostic.notice1
 meMA.C2.acrostic.text = me.m07.d13_en_US_dedes.meMA.C2.acrostic.text
-//meMA.C2.acrostic.notice2 = me.m07.d13_en_US_dedes.meMA.C2.acrostic.notice2
-meMA.C2.acrostic = me.m07.d13_en_US_dedes.meMA.C2.acrostic
-
-meMA.C1.title = me.m07.d13_en_US_dedes.meMA.C1.title
-meMA.C1.verse = me.m07.d13_en_US_dedes.meMA.C1.verse
+meMA.C2.poet = me.m07.d13_en_US_dedes.meMA.C2.poet
+meMA.C2.title = me.m07.d13_en_US_dedes.meMA.C2.title
+meMA.C2.verse = me.m07.d13_en_US_dedes.meMA.C2.verse
 
 meMA.Ode1C11.ode = me.m07.d13_en_US_dedes.meMA.Ode1C11.ode
 meMA.Ode1C11.mode = me.m07.d13_en_US_dedes.meMA.Ode1C11.mode
@@ -127,9 +124,6 @@ meMA.Ode1C1T.mode = me.m07.d13_en_US_dedes.meMA.Ode1C1T.mode
 meMA.Ode1C1T.melody = me.m07.d13_en_US_dedes.meMA.Ode1C1T.melody
 meMA.Ode1C1T.incipit = me.m07.d13_en_US_dedes.meMA.Ode1C1T.incipit
 meMA.Ode1C1T.text = me.m07.d13_en_US_dedes.meMA.Ode1C1T.text
-
-meMA.C2.title = me.m07.d13_en_US_dedes.meMA.C2.title
-meMA.C2.verse = me.m07.d13_en_US_dedes.meMA.C2.verse
 
 meMA.Ode1C21.ode = me.m07.d13_en_US_dedes.meMA.Ode1C21.ode
 meMA.Ode1C21.mode = me.m07.d13_en_US_dedes.meMA.Ode1C21.mode
@@ -623,7 +617,11 @@ alt1.meVE.Stichera03.melody = me.m07.d13_en_US_dedes.alt1.meVE.Stichera03.melody
 alt1.meVE.Stichera03.incipit = me.m07.d13_en_US_dedes.alt1.meVE.Stichera03.incipit
 alt1.meVE.Stichera03.text = me.m07.d13_en_US_dedes.alt1.meVE.Stichera03.text
 
-alt1.meMA.C1.acrostic = me.m07.d13_en_US_dedes.alt1.meMA.C1.acrostic
+alt1.meMA.C1.acrostic.title = me.m07.d13_en_US_dedes.alt1.meMA.C1.acrostic.title
+alt1.meMA.C1.acrostic.notice1 = me.m07.d13_en_US_dedes.alt1.meMA.C1.acrostic.notice1
+alt1.meMA.C1.acrostic.text = me.m07.d13_en_US_dedes.alt1.meMA.C1.acrostic.text
+alt1.meMA.C1.title = me.m07.d13_en_US_dedes.alt1.meMA.C1.title
+alt1.meMA.C1.verse = me.m07.d13_en_US_dedes.alt1.meMA.C1.verse
 
 alt1.meMA.Ode1C11.ode = me.m07.d13_en_US_dedes.alt1.meMA.Ode1C11.ode
 alt1.meMA.Ode1C11.mode = me.m07.d13_en_US_dedes.alt1.meMA.Ode1C11.mode

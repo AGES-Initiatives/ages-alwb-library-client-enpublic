@@ -92,15 +92,14 @@ meVE.Apolytikion1.incipit = me.m06.d11_en_US_dedes.meVE.Apolytikion1.incipit
 meVE.Apolytikion1.text = me.m06.d11_en_US_dedes.meVE.Apolytikion1.text
 
 meMA.C1.poet = me.m06.d11_en_US_dedes.meMA.C1.poet
+meMA.C1.title = me.m06.d11_en_US_dedes.meMA.C1.title
+meMA.C1.verse = me.m06.d11_en_US_dedes.meMA.C1.verse
 
 meMA.C2.acrostic.title = me.m06.d11_en_US_dedes.meMA.C2.acrostic.title
 meMA.C2.acrostic.notice1 = me.m06.d11_en_US_dedes.meMA.C2.acrostic.notice1
 meMA.C2.acrostic.text = me.m06.d11_en_US_dedes.meMA.C2.acrostic.text
-//meMA.C2.acrostic.notice2 = me.m06.d11_en_US_dedes.meMA.C2.acrostic.notice2
-meMA.C2.acrostic = me.m06.d11_en_US_dedes.meMA.C2.acrostic
-
-meMA.C1.title = me.m06.d11_en_US_dedes.meMA.C1.title
-meMA.C1.verse = me.m06.d11_en_US_dedes.meMA.C1.verse
+meMA.C2.title = me.m06.d11_en_US_dedes.meMA.C2.title
+meMA.C2.verse = me.m06.d11_en_US_dedes.meMA.C2.verse
 
 meMA.Ode1C11.ode = me.m06.d11_en_US_dedes.meMA.Ode1C11.ode
 meMA.Ode1C11.mode = me.m06.d11_en_US_dedes.meMA.Ode1C11.mode
@@ -113,9 +112,6 @@ meMA.Ode1C12.mode = me.m06.d11_en_US_dedes.meMA.Ode1C12.mode
 meMA.Ode1C12.melody = me.m06.d11_en_US_dedes.meMA.Ode1C12.melody
 meMA.Ode1C12.incipit = me.m06.d11_en_US_dedes.meMA.Ode1C12.incipit
 meMA.Ode1C12.text = me.m06.d11_en_US_dedes.meMA.Ode1C12.text
-
-meMA.C2.title = me.m06.d11_en_US_dedes.meMA.C2.title
-meMA.C2.verse = me.m06.d11_en_US_dedes.meMA.C2.verse
 
 meMA.Ode1C21.ode = me.m06.d11_en_US_dedes.meMA.Ode1C21.ode
 meMA.Ode1C21.mode = me.m06.d11_en_US_dedes.meMA.Ode1C21.mode
@@ -725,12 +721,15 @@ alt1.meMA.PostGospelIdiomelon.incipit = me.m06.d11_en_US_dedes.alt1.meMA.PostGos
 alt1.meMA.PostGospelIdiomelon.text = me.m06.d11_en_US_dedes.alt1.meMA.PostGospelIdiomelon.text
 
 alt1.meMA.C1.poet = me.m06.d11_en_US_dedes.alt1.meMA.C1.poet
-
-alt1.meMA.C2.poet = me.m06.d11_en_US_dedes.alt1.meMA.C2.poet
-alt1.meMA.C2.acrostic = me.m06.d11_en_US_dedes.alt1.meMA.C2.acrostic
-
 alt1.meMA.C1.title = me.m06.d11_en_US_dedes.alt1.meMA.C1.title
 alt1.meMA.C1.verse = me.m06.d11_en_US_dedes.alt1.meMA.C1.verse
+
+alt1.meMA.C2.acrostic.title = me.m06.d11_en_US_dedes.alt1.meMA.C2.acrostic.title
+alt1.meMA.C2.acrostic.notice = me.m06.d11_en_US_dedes.alt1.meMA.C2.acrostic.notice
+alt1.meMA.C2.acrostic.text = me.m06.d11_en_US_dedes.alt1.meMA.C2.acrostic.text
+alt1.meMA.C2.poet = me.m06.d11_en_US_dedes.alt1.meMA.C2.poet
+alt1.meMA.C2.title = me.m06.d11_en_US_dedes.alt1.meMA.C2.title
+alt1.meMA.C2.verse = me.m06.d11_en_US_dedes.alt1.meMA.C2.verse
 
 alt1.meMA.Ode1C11.ode = me.m06.d11_en_US_dedes.alt1.meMA.Ode1C11.ode
 alt1.meMA.Ode1C11.mode = me.m06.d11_en_US_dedes.alt1.meMA.Ode1C11.mode
@@ -749,9 +748,6 @@ alt1.meMA.Ode1C1T.mode = me.m06.d11_en_US_dedes.alt1.meMA.Ode1C1T.mode
 alt1.meMA.Ode1C1T.melody = me.m06.d11_en_US_dedes.alt1.meMA.Ode1C1T.melody
 alt1.meMA.Ode1C1T.incipit = me.m06.d11_en_US_dedes.alt1.meMA.Ode1C1T.incipit
 alt1.meMA.Ode1C1T.text = me.m06.d11_en_US_dedes.alt1.meMA.Ode1C1T.text
-
-alt1.meMA.C2.title = me.m06.d11_en_US_dedes.alt1.meMA.C2.title
-alt1.meMA.C2.verse = me.m06.d11_en_US_dedes.alt1.meMA.C2.verse
 
 alt1.meMA.Ode1C21.ode = me.m06.d11_en_US_dedes.alt1.meMA.Ode1C21.ode
 alt1.meMA.Ode1C21.mode = me.m06.d11_en_US_dedes.alt1.meMA.Ode1C21.mode

@@ -16,6 +16,8 @@ BeginMatins = rubrical_en_US_dedes.BeginMatins
 
 BeginVespers = rubrical_en_US_dedes.BeginVespers
 
+BlessingWithTheCross = rubrical_en_US_goa.BlessingWithTheCross
+
 ChoirLeftBegins = rubrical_en_US_goa.ChoirLeftBegins
 
 ChoirRightBegins = rubrical_en_US_goa.ChoirRightBegins
@@ -85,6 +87,8 @@ OrAccordingToOlderPractice = rubrical_en_US_dedes.OrAccordingToOlderPractice
 Read = rubrical_en_US_dedes.Read
 
 RelaxedFish = rubrical_en_US_dedes.RelaxedFish
+
+SlowlyFromWithinTheAltar = rubrical_en_US_dedes.SlowlyFromWithinTheAltar
 
 Sung = rubrical_en_US_dedes.Sung
 

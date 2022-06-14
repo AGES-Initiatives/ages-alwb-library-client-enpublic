@@ -963,8 +963,8 @@ exc12 = prayers_en_US_holycross.exc12
 exc13.incipit = prayers_en_US_holycross.exc13.incipit
 exc13 = prayers_en_US_holycross.exc13
 
-exc14.incipit = prayers_en_US_holycross.exc14.incipit
-exc14 = prayers_en_US_holycross.exc14
+exc14.incipit = prayers_en_US_goa.exc14.incipit
+exc14 = prayers_en_US_goa.exc14
 
 exc15.incipit = prayers_en_US_holycross.exc15.incipit
 exc15 = prayers_en_US_holycross.exc15

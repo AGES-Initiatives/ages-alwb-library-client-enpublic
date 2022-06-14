@@ -49,17 +49,14 @@ meVE.Apolytikion1.text = me.m03.d26_en_US_dedes.meVE.Apolytikion1.text
 meMA.C1.acrostic.title = me.m03.d26_en_US_dedes.meMA.C1.acrostic.title
 meMA.C1.acrostic.notice1 = me.m03.d26_en_US_dedes.meMA.C1.acrostic.notice1
 meMA.C1.acrostic.text = me.m03.d26_en_US_dedes.meMA.C1.acrostic.text
-//meMA.C1.acrostic.notice2 = me.m03.d26_en_US_dedes.meMA.C1.acrostic.notice2
-meMA.C1.acrostic = me.m03.d26_en_US_dedes.meMA.C1.acrostic
+meMA.C1.title = me.m03.d26_en_US_dedes.meMA.C1.title
+meMA.C1.verse = me.m03.d26_en_US_dedes.meMA.C1.verse
 
 meMA.Ode1C1H.ode = me.m03.d26_en_US_dedes.meMA.Ode1C1H.ode
 meMA.Ode1C1H.mode = me.m03.d26_en_US_dedes.meMA.Ode1C1H.mode
 meMA.Ode1C1H.melody = me.m03.d26_en_US_dedes.meMA.Ode1C1H.melody
 meMA.Ode1C1H.incipit = me.m03.d26_en_US_dedes.meMA.Ode1C1H.incipit
 meMA.Ode1C1H.text = me.m03.d26_en_US_dedes.meMA.Ode1C1H.text
-
-meMA.C1.title = me.m03.d26_en_US_dedes.meMA.C1.title
-meMA.C1.verse = me.m03.d26_en_US_dedes.meMA.C1.verse
 
 meMA.Ode1C11.ode = me.m03.d26_en_US_dedes.meMA.Ode1C11.ode
 meMA.Ode1C11.mode = me.m03.d26_en_US_dedes.meMA.Ode1C11.mode
