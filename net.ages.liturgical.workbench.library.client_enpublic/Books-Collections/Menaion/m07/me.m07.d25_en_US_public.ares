@@ -113,12 +113,6 @@ meMA.Kathisma21.melody = me.m07.d25_en_US_dedes.meMA.Kathisma21.melody
 meMA.Kathisma21.incipit = me.m07.d25_en_US_dedes.meMA.Kathisma21.incipit
 meMA.Kathisma21.text = me.m07.d25_en_US_dedes.meMA.Kathisma21.text
 
-meMA.C1.acrostic.title = me.m07.d25_en_US_dedes.meMA.C1.acrostic.title
-meMA.C1.acrostic.notice1 = me.m07.d25_en_US_dedes.meMA.C1.acrostic.notice1
-meMA.C1.acrostic.text = me.m07.d25_en_US_dedes.meMA.C1.acrostic.text
-//meMA.C1.acrostic.notice2 = me.m07.d25_en_US_dedes.meMA.C1.acrostic.notice2
-meMA.C1.acrostic = me.m07.d25_en_US_dedes.meMA.C1.acrostic
-
 meMA.C1.title = me.m07.d25_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m07.d25_en_US_dedes.meMA.C1.verse
 
@@ -395,14 +389,11 @@ alt1.meMA.PostGospelIdiomelon.melody = me.m07.d25_en_US_dedes.alt1.meMA.PostGosp
 alt1.meMA.PostGospelIdiomelon.incipit = me.m07.d25_en_US_dedes.alt1.meMA.PostGospelIdiomelon.incipit
 alt1.meMA.PostGospelIdiomelon.text = me.m07.d25_en_US_dedes.alt1.meMA.PostGospelIdiomelon.text
 
-alt1.meMA.C1.poet = me.m07.d25_en_US_dedes.alt1.meMA.C1.poet
-alt1.meMA.C1.acrostic = me.m07.d25_en_US_dedes.alt1.meMA.C1.acrostic
-
-alt1.meMA.C2.poet = me.m07.d25_en_US_dedes.alt1.meMA.C2.poet
-alt1.meMA.C2.acrostic = me.m07.d25_en_US_dedes.alt1.meMA.C2.acrostic
-
 alt1.meMA.C1.title = me.m07.d25_en_US_dedes.alt1.meMA.C1.title
 alt1.meMA.C1.verse = me.m07.d25_en_US_dedes.alt1.meMA.C1.verse
+
+alt1.meMA.C2.title = me.m07.d25_en_US_dedes.alt1.meMA.C2.title
+alt1.meMA.C2.verse = me.m07.d25_en_US_dedes.alt1.meMA.C2.verse
 
 alt1.meMA.Ode1C1H.ode = me.m07.d25_en_US_dedes.alt1.meMA.Ode1C1H.ode
 alt1.meMA.Ode1C1H.mode = me.m07.d25_en_US_dedes.alt1.meMA.Ode1C1H.mode
@@ -439,9 +430,6 @@ alt1.meMA.Ode1C1T.mode = me.m07.d25_en_US_dedes.alt1.meMA.Ode1C1T.mode
 alt1.meMA.Ode1C1T.melody = me.m07.d25_en_US_dedes.alt1.meMA.Ode1C1T.melody
 alt1.meMA.Ode1C1T.incipit = me.m07.d25_en_US_dedes.alt1.meMA.Ode1C1T.incipit
 alt1.meMA.Ode1C1T.text = me.m07.d25_en_US_dedes.alt1.meMA.Ode1C1T.text
-
-alt1.meMA.C2.title = me.m07.d25_en_US_dedes.alt1.meMA.C2.title
-alt1.meMA.C2.verse = me.m07.d25_en_US_dedes.alt1.meMA.C2.verse
 
 alt1.meMA.Ode1C21.ode = me.m07.d25_en_US_dedes.alt1.meMA.Ode1C21.ode
 alt1.meMA.Ode1C21.mode = me.m07.d25_en_US_dedes.alt1.meMA.Ode1C21.mode

@@ -731,8 +731,11 @@ meMA.Exaposteilarion2.melody = me.m01.d02_en_US_dedes.meMA.Exaposteilarion2.melo
 meMA.Exaposteilarion2.incipit = me.m01.d02_en_US_dedes.meMA.Exaposteilarion2.incipit
 meMA.Exaposteilarion2.text = me.m01.d02_en_US_dedes.meMA.Exaposteilarion2.text
 
-meMA.Lauds1.poet = me.m01.d02_en_US_dedes.meMA.Lauds1.poet
-meMA.Lauds1.acrostic = me.m01.d02_en_US_dedes.meMA.Lauds1.acrostic
+meMA.Lauds.acrostic.title = me.m01.d02_en_US_dedes.meMA.Lauds.acrostic.title
+meMA.Lauds.acrostic.notice1 = me.m01.d02_en_US_dedes.meMA.Lauds.acrostic.notice1
+meMA.Lauds.acrostic.text = me.m01.d02_en_US_dedes.meMA.Lauds.acrostic.text
+meMA.Lauds.poet = me.m01.d02_en_US_dedes.meMA.Lauds.poet
+
 meMA.Lauds1.mode = me.m01.d02_en_US_dedes.meMA.Lauds1.mode
 meMA.Lauds1.melody = me.m01.d02_en_US_dedes.meMA.Lauds1.melody
 meMA.Lauds1.incipit = me.m01.d02_en_US_dedes.meMA.Lauds1.incipit

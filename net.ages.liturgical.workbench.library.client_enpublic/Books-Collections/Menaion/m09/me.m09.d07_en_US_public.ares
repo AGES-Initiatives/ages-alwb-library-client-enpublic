@@ -804,9 +804,10 @@ alt1.meMA.PostGospelIdiomelon.melody = me.m09.d07_en_US_dedes.alt1.meMA.PostGosp
 alt1.meMA.PostGospelIdiomelon.incipit = me.m09.d07_en_US_andronache.alt1.meMA.PostGospelIdiomelon.incipit
 alt1.meMA.PostGospelIdiomelon.text = me.m09.d07_en_US_andronache.alt1.meMA.PostGospelIdiomelon.text
 
-alt1.meMA.C1.poet = me.m09.d07_en_US_andronache.alt1.meMA.C1.poet
-alt1.meMA.C1.acrostic = me.m09.d07_en_US_andronache.alt1.meMA.C1.acrostic
-
+alt1.meMA.C1.acrostic.title = me.m09.d07_en_US_dedes.alt1.meMA.C1.acrostic.title
+alt1.meMA.C1.acrostic.notice1 = me.m09.d07_en_US_dedes.alt1.meMA.C1.acrostic.notice1
+alt1.meMA.C1.acrostic.text = me.m09.d07_en_US_dedes.alt1.meMA.C1.acrostic.text
+alt1.meMA.C1.poet = me.m09.d07_en_US_dedes.alt1.meMA.C1.poet
 alt1.meMA.C1.title = me.m09.d07_en_US_dedes.alt1.meMA.C1.title
 alt1.meMA.C1.verse = me.m09.d07_en_US_dedes.alt1.meMA.C1.verse
 

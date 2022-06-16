@@ -135,21 +135,18 @@ meMA.Kathisma2T.text = me.m07.d20_en_US_dedes.meMA.Kathisma2T.text
 
 meR01 = me.m07.d20_en_US_dedes.meR01
 
+meMA.C1.acrostic.title = me.m07.d20_en_US_dedes.meMA.C1.acrostic.title
+meMA.C1.acrostic.notice1 = me.m07.d20_en_US_dedes.meMA.C1.acrostic.notice1
+meMA.C1.acrostic.text = me.m07.d20_en_US_dedes.meMA.C1.acrostic.text
 meMA.C1.poet = me.m07.d20_en_US_dedes.meMA.C1.poet
-meMA.C1.acrostic.title = me.m07.d20_en_UK_lash.meMA.C1.acrostic.title
-meMA.C1.acrostic.notice1 = me.m07.d20_en_UK_lash.meMA.C1.acrostic.notice1
-meMA.C1.acrostic.text = me.m07.d20_en_UK_lash.meMA.C1.acrostic.text
-//meMA.C1.acrostic.notice2 = me.m07.d20_en_UK_lash.meMA.C1.acrostic.notice2
-meMA.C1.acrostic = me.m07.d20_en_UK_lash.meMA.C1.acrostic
-
-meMA.C2.acrostic.title = me.m07.d20_en_UK_lash.meMA.C2.acrostic.title
-meMA.C2.acrostic.notice1 = me.m07.d20_en_UK_lash.meMA.C2.acrostic.notice1
-meMA.C2.acrostic.text = me.m07.d20_en_UK_lash.meMA.C2.acrostic.text
-//meMA.C2.acrostic.notice2 = me.m07.d20_en_UK_lash.meMA.C2.acrostic.notice2
-meMA.C2.acrostic = me.m07.d20_en_UK_lash.meMA.C2.acrostic
-
 meMA.C1.title = me.m07.d20_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m07.d20_en_US_dedes.meMA.C1.verse
+
+meMA.C2.acrostic.title = me.m07.d20_en_US_dedes.meMA.C2.acrostic.title
+meMA.C2.acrostic.notice1 = me.m07.d20_en_US_dedes.meMA.C2.acrostic.notice1
+meMA.C2.acrostic.text = me.m07.d20_en_US_dedes.meMA.C2.acrostic.text
+meMA.C2.title = me.m07.d20_en_US_dedes.meMA.C2.title
+meMA.C2.verse = me.m07.d20_en_US_dedes.meMA.C2.verse
 
 meMA.Ode1C11.ode = me.m07.d20_en_US_dedes.meMA.Ode1C11.ode
 meMA.Ode1C11.mode = me.m07.d20_en_US_dedes.meMA.Ode1C11.mode
@@ -174,9 +171,6 @@ meMA.Ode1C1T.mode = me.m07.d20_en_US_dedes.meMA.Ode1C1T.mode
 meMA.Ode1C1T.melody = me.m07.d20_en_US_dedes.meMA.Ode1C1T.melody
 meMA.Ode1C1T.incipit = me.m07.d20_en_US_dedes.meMA.Ode1C1T.incipit
 meMA.Ode1C1T.text = me.m07.d20_en_US_dedes.meMA.Ode1C1T.text
-
-meMA.C2.title = me.m07.d20_en_US_dedes.meMA.C2.title
-meMA.C2.verse = me.m07.d20_en_US_dedes.meMA.C2.verse
 
 meMA.Ode1C21.ode = me.m07.d20_en_US_dedes.meMA.Ode1C21.ode
 meMA.Ode1C21.mode = me.m07.d20_en_US_dedes.meMA.Ode1C21.mode
