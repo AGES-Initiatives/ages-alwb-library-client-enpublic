@@ -6,7 +6,9 @@ hoCA.title3 = ho.s26_en_US_dedes.hoCA.title3
 hoCA.poet = ho.s26_en_US_dedes.hoCA.poet
 hoCA.translator = ho.s26_en_US_dedes.hoCA.translator
 
-hoCA.acrostic = ho.s26_en_US_dedes.hoCA.acrostic
+hoCA.acrostic.title = ho.s26_en_US_dedes.hoCA.acrostic.title
+hoCA.acrostic.notice1 = ho.s26_en_US_dedes.hoCA.acrostic.notice1
+hoCA.acrostic.text = ho.s26_en_US_dedes.hoCA.acrostic.text
 hoCA.title = ho.s26_en_US_dedes.hoCA.title
 hoCA.verse = ho.s26_en_US_dedes.hoCA.verse
 

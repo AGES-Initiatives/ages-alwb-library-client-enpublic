@@ -41,8 +41,8 @@ trVE.Stichera03.melody = tr.d054_en_US_dedes.trVE.Stichera03.melody
 trVE.Stichera03.incipit = tr.d054_en_US_dedes.trVE.Stichera03.incipit
 trVE.Stichera03.text = tr.d054_en_US_dedes.trVE.Stichera03.text
 
-trGC.Stichera.poet = tr.d054_en_US_oca.trGC.Stichera.poet
-trGC.Stichera.acrostic = tr.d054_en_US_oca.trGC.Stichera.acrostic
+trGC.Stichera.poet = tr.d054_en_US_dedes.trGC.Stichera.poet
+trGC.Stichera.acrostic.title = tr.d054_en_US_dedes.trGC.Stichera.acrostic.title
 
 trGC.Stichera01.mode = tr.d054_en_US_dedes.trGC.Stichera01.mode
 trGC.Stichera01.melody = tr.d054_en_US_houpos.trGC.Stichera01.melody

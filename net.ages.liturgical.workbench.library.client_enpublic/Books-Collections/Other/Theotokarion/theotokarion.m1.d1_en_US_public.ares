@@ -12,7 +12,9 @@ thCA.note3 = theotokarion.m1.d1_en_US_goadedes.thCA.note3
 thCA.note4 = theotokarion.m1.d1_en_US_goadedes.thCA.note4
 thCA.note5 = theotokarion.m1.d1_en_US_goadedes.thCA.note5
 
-thCA.acrostic = theotokarion.m1.d1_en_US_goadedes.thCA.acrostic
+thCA.acrostic.title = theotokarion.m1.d1_en_US_goadedes.thCA.acrostic.title
+thCA.acrostic.notice1 = theotokarion.m1.d1_en_US_goadedes.thCA.acrostic.notice1
+thCA.acrostic.text = theotokarion.m1.d1_en_US_goadedes.thCA.acrostic.text
 thCA.verse = theotokarion.m1.d1_en_US_goadedes.thCA.verse
 
 thCA.note6 = theotokarion.m1.d1_en_US_goadedes.thCA.note6

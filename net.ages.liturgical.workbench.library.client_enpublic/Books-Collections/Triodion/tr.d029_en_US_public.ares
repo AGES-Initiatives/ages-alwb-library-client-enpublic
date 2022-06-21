@@ -131,9 +131,10 @@ trMA.PostGospelIdiomelon.melody = tr.d029_en_US_dedes.trMA.PostGospelIdiomelon.m
 trMA.PostGospelIdiomelon.incipit = tr.d029_en_US_dedes.trMA.PostGospelIdiomelon.incipit
 trMA.PostGospelIdiomelon.text = tr.d029_en_US_dedes.trMA.PostGospelIdiomelon.text
 
+trMA.C1.acrostic.title = tr.d029_en_US_oca.trMA.C1.acrostic.title
+trMA.C1.acrostic.notice1 = tr.d029_en_US_dedes.trMA.C1.acrostic.notice1
+trMA.C1.acrostic.text = tr.d029_en_US_dedes.trMA.C1.acrostic.text
 trMA.C1.poet = tr.d029_en_US_dedes.trMA.C1.poet
-trMA.C1.acrostic = tr.d029_en_US_dedes.trMA.C1.acrostic
-
 trMA.C1.title = tr.d029_en_US_dedes.trMA.C1.title
 trMA.C1.verse = tr.d029_en_US_dedes.trMA.C1.verse
 

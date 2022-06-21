@@ -154,11 +154,10 @@ peMA.C2.poet = pe.d120_en_US_goadedes.peMA.C2.poet
 peMA.C2.title = pe.d120_en_US_goadedes.peMA.C2.title
 peMA.C2.verse = pe.d120_en_US_goadedes.peMA.C2.verse
 
-peMA.C2.Acrostic1.acrostic = pe.d120_en_US_goadedes.peMA.C2.Acrostic1.acrostic
-peMA.C2.Acrostic2.acrostic = pe.d120_en_US_goadedes.peMA.C2.Acrostic2.acrostic
-peMA.C2.Acrostic3.acrostic = pe.d120_en_US_goadedes.peMA.C2.Acrostic3.acrostic
-peMA.C2.Acrostic4.acrostic = pe.d120_en_US_goadedes.peMA.C2.Acrostic4.acrostic
-peMA.C2.Acrostic5.acrostic = pe.d120_en_US_goadedes.peMA.C2.Acrostic5.acrostic
+peMA.C2.acrostic.line1.text = pe.d120_en_US_goadedes.peMA.C2.acrostic.line1.text
+peMA.C2.acrostic.line2.text = pe.d120_en_US_goadedes.peMA.C2.acrostic.line2.text
+peMA.C2.acrostic.line3.text = pe.d120_en_US_goadedes.peMA.C2.acrostic.line3.text
+peMA.C2.acrostic.line4.text = pe.d120_en_US_goadedes.peMA.C2.acrostic.line4.text
 
 peMA.Ode1C1H.ode = pe.d120_en_US_goadedes.peMA.Ode1C1H.ode
 peMA.Ode1C1H.mode = pe.d120_en_US_goadedes.peMA.Ode1C1H.mode

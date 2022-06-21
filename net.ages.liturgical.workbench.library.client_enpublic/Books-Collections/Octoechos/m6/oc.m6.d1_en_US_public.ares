@@ -418,8 +418,6 @@ ocMA.MM.Prokeimenon.text = properties_en_US_public.media.key
 ocMA.C3.acrostic.title = oc.m6.d1_en_UK_lash.ocMA.C3.acrostic.title
 ocMA.C3.acrostic.notice1 = oc.m6.d1_en_UK_lash.ocMA.C3.acrostic.notice1
 ocMA.C3.acrostic.text = oc.m6.d1_en_UK_lash.ocMA.C3.acrostic.text
-//ocMA.C3.acrostic.notice2 = oc.m6.d1_en_UK_lash.ocMA.C3.acrostic.notice2
-ocMA.C3.acrostic = oc.m6.d1_en_UK_lash.ocMA.C3.acrostic
 
 ocMA.OdeS1C1H.mode = oc.m6.d1_en_US_dedes.ocMA.OdeS1C1H.mode
 ocMA.OdeS1C1H.ode = oc.m6.d1_en_US_dedes.ocMA.OdeS1C1H.ode

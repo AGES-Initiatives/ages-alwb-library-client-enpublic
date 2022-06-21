@@ -7,7 +7,9 @@ thCA.translator1 = theotokarion.m4.d1_en_US_goadedes.thCA.translator1
 thCA.translator2 = theotokarion.m4.d1_en_US_goadedes.thCA.translator2
 thCA.media.text = theotokarion.m4.d1_en_US_goadedes.thCA.media.text
 
-thCA.acrostic = theotokarion.m4.d1_en_US_goadedes.thCA.acrostic
+thCA.acrostic.title = theotokarion.m4.d1_en_US_goadedes.thCA.acrostic.title
+thCA.acrostic.notice1 = theotokarion.m4.d1_en_US_goadedes.thCA.acrostic.notice1
+thCA.acrostic.text = theotokarion.m4.d1_en_US_goadedes.thCA.acrostic.text
 thCA.verse = theotokarion.m4.d1_en_US_goadedes.thCA.verse
 
 thCA.Ode11.ode = theotokarion.m4.d1_en_US_goadedes.thCA.Ode11.ode

@@ -428,8 +428,11 @@ trHW.BeatutidesT.melody = tr.d069_en_US_dedes.trHW.BeatutidesT.melody
 trHW.BeatitudesT.incipit = tr.d069_en_US_dedes.trHW.BeatitudesT.incipit
 trHW.BeatitudesT.text = tr.d069_en_US_dedes.trHW.BeatitudesT.text
 
+trMA.C1.acrostic.title = tr.d069_en_US_dedes.trMA.C1.acrostic.title
+trMA.C1.acrostic.notice1 = tr.d069_en_US_dedes.trMA.C1.acrostic.notice1
+trMA.C1.acrostic.text = tr.d069_en_US_dedes.trMA.C1.acrostic.text
 trMA.C1.poet = tr.d069_en_US_dedes.trMA.C1.poet
-trMA.C1.acrostic = tr.d069_en_US_dedes.trMA.C1.acrostic
+trMA.C1.verse = tr.d069_en_US_dedes.trMA.C1.verse
 
 trMA.Ode5C1H.ode = tr.d069_en_US_dedes.trMA.Ode5C1H.ode
 trMA.Ode5C1H.mode = tr.d069_en_US_dedes.trMA.Ode5C1H.mode

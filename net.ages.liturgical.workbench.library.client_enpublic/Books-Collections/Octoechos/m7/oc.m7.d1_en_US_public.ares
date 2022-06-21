@@ -407,9 +407,6 @@ ocMA.C2.poet = oc.m7.d1_en_UK_lash.ocMA.C2.poet
 
 ocMA.C3.acrostic.title = oc.m7.d1_en_UK_lash.ocMA.C3.acrostic.title
 ocMA.C3.acrostic.notice1 = oc.m7.d1_en_UK_lash.ocMA.C3.acrostic.notice1
-ocMA.C3.acrostic.text = oc.m7.d1_en_UK_lash.ocMA.C3.acrostic.text
-//ocMA.C3.acrostic.notice2 = oc.m7.d1_en_UK_lash.ocMA.C3.acrostic.notice2
-ocMA.C3.acrostic = oc.m7.d1_en_UK_lash.ocMA.C3.acrostic
 
 ocMA.OdeS1C1H.mode = oc.m7.d1_en_US_dedes.ocMA.OdeS1C1H.mode
 ocMA.OdeS1C1H.ode = oc.m7.d1_en_US_dedes.ocMA.OdeS1C1H.ode

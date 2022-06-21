@@ -37,6 +37,8 @@ pePA.ChristIsRisenShort.text = pe.d00P_en_US_goa.pePA.ChristIsRisenShort.text //
 
 pePA.C1.poet = pe.d00P_en_US_dedes.pePA.C1.poet
 pePA.C1.text = pe.d00P_en_US_dedes.pePA.C1.text // for media of entire canon
+pePA.C1.title = pe.d00P_en_US_dedes.pePA.C1.title
+pePA.C1.verse = pe.d00P_en_US_dedes.pePA.C1.verse
 
 pePA.CTh.acrostic.title = pe.d00P_en_US_goadedes.pePA.CTh.acrostic.title
 pePA.CTh.acrostic.notice1 = pe.d00P_en_US_goadedes.pePA.CTh.acrostic.notice1
@@ -50,9 +52,6 @@ pePA.Ode1H.mode = pe.d00P_en_US_dedes.pePA.Ode1H.mode
 pePA.Ode1H.melody = pe.d00P_en_US_dedes.pePA.Ode1H.melody
 pePA.Ode1H.incipit = pe.d00P_en_US_dedes.pePA.Ode1H.incipit
 pePA.Ode1H.text = pe.d00P_en_US_dedes.pePA.Ode1H.text
-
-pePA.C1.title = pe.d00P_en_US_dedes.pePA.C1.title
-pePA.C1.verse = pe.d00P_en_US_dedes.pePA.C1.verse
 
 pePA.Ode11.ode = pe.d00P_en_US_dedes.pePA.Ode11.ode
 pePA.Ode11.mode = pe.d00P_en_US_dedes.pePA.Ode11.mode

@@ -107,15 +107,11 @@ ocMA.Kathisma24.text = oc.m8.d7_en_US_dedes.ocMA.Kathisma24.text
 ocMA.C1.acrostic.title = oc.m8.d7_en_US_dedes.ocMA.C1.acrostic.title
 ocMA.C1.acrostic.notice1 = oc.m8.d7_en_US_dedes.ocMA.C1.acrostic.notice1
 ocMA.C1.acrostic.text = oc.m8.d7_en_US_dedes.ocMA.C1.acrostic.text
-//ocMA.C1.acrostic.notice2 = oc.m8.d7_en_US_dedes.ocMA.C1.acrostic.notice2
-ocMA.C1.acrostic = oc.m8.d7_en_US_dedes.ocMA.C1.acrostic
 
 ocMA.C2.poet = oc.m8.d7_en_US_dedes.ocMA.C2.poet
 ocMA.C2.acrostic.title = oc.m8.d7_en_US_dedes.ocMA.C2.acrostic.title
 ocMA.C2.acrostic.notice1 = oc.m8.d7_en_US_dedes.ocMA.C2.acrostic.notice1
 ocMA.C2.acrostic.text = oc.m8.d7_en_US_dedes.ocMA.C2.acrostic.text
-//ocMA.C2.acrostic.notice2 = oc.m8.d7_en_US_dedes.ocMA.C2.acrostic.notice2
-ocMA.C2.acrostic = oc.m8.d7_en_US_dedes.ocMA.C2.acrostic
 
 ocMA.CA.notice = ""
 
