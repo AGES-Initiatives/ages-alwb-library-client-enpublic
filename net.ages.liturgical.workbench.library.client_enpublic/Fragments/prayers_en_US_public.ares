@@ -865,12 +865,10 @@ res05 = prayers_en_US_goa.res05
 
 res06.incipit = prayers_en_US_goa.res06.incipit
 res06 = prayers_en_US_goa.res06
-res06.MM.long.sos.incipit = prayers_en_US_goa.res06.MM.long.sos.incipit
 res06.MM.long.sos.text = prayers_en_US_goa.res06.MM.long.sos.text
 
 res07.incipit = prayers_en_US_holycross.res07.incipit
 res07 = prayers_en_US_holycross.res07
-res07.MM.long.incipit = prayers_en_US_dedes.res07.MM.long.incipit
 res07.MM.long.text = prayers_en_US_dedes.res07.MM.long.text
 
 res08.incipit = prayers_en_US_holycross.res08.incipit
