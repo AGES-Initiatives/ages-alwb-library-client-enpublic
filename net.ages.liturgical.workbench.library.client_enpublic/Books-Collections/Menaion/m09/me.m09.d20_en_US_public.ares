@@ -358,10 +358,10 @@ meMA.LaudsBoth.melody = me.m09.d20_en_US_dedes.meMA.LaudsBoth.melody
 meMA.LaudsBoth.incipit = me.m09.d20_en_US_dedes.meMA.LaudsBoth.incipit
 meMA.LaudsBoth.text = me.m09.d20_en_US_dedes.meMA.LaudsBoth.text
 
-meMA.Aposticha1.mode = me.m09.d20_en_US_dedes.meMA.Aposticha1.mode
-meMA.Aposticha1.melody = me.m09.d20_en_US_dedes.meMA.Aposticha1.melody
-meMA.Aposticha1.incipit = me.m09.d20_en_US_dedes.meMA.Aposticha1.incipit
-meMA.Aposticha1.text = me.m09.d20_en_US_dedes.meMA.Aposticha1.text
+meMA.Aposticha1.mode = me.m09.d20_en_US_goadedes.meMA.Aposticha1.mode
+meMA.Aposticha1.melody = me.m09.d20_en_US_goadedes.meMA.Aposticha1.melody
+meMA.Aposticha1.incipit = me.m09.d20_en_US_goadedes.meMA.Aposticha1.incipit
+meMA.Aposticha1.text = me.m09.d20_en_US_goadedes.meMA.Aposticha1.text
 
 meMA.Aposticha2.mode = me.m09.d20_en_US_dedes.meMA.Aposticha2.mode
 meMA.Aposticha2.melody = me.m09.d20_en_US_dedes.meMA.Aposticha2.melody

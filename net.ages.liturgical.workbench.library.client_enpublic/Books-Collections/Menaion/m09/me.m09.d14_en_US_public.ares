@@ -38,20 +38,20 @@ meSV.SticGlory.melody = me.m09.d14_en_US_dedes.meSV.SticGlory.melody
 meSV.SticGlory.incipit = me.m09.d14_en_US_dedes.meSV.SticGlory.incipit
 meSV.SticGlory.text = me.m09.d14_en_US_dedes.meSV.SticGlory.text
 
-meSV.Aposticha1.mode = me.m09.d14_en_US_dedes.meSV.Aposticha1.mode
-meSV.Aposticha1.melody = me.m09.d14_en_US_dedes.meSV.Aposticha1.melody
-meSV.Aposticha1.incipit = me.m09.d14_en_US_dedes.meSV.Aposticha1.incipit
-meSV.Aposticha1.text = me.m09.d14_en_US_dedes.meSV.Aposticha1.text
+meSV.Aposticha1.mode = me.m09.d14_en_US_goadedes.meSV.Aposticha1.mode
+meSV.Aposticha1.melody = me.m09.d14_en_US_goadedes.meSV.Aposticha1.melody
+meSV.Aposticha1.incipit = me.m09.d14_en_US_goadedes.meSV.Aposticha1.incipit
+meSV.Aposticha1.text = me.m09.d14_en_US_goadedes.meSV.Aposticha1.text
 
-meSV.Aposticha2.mode = me.m09.d14_en_US_dedes.meSV.Aposticha2.mode
-meSV.Aposticha2.melody = me.m09.d14_en_US_dedes.meSV.Aposticha2.melody
-meSV.Aposticha2.incipit = me.m09.d14_en_US_dedes.meSV.Aposticha2.incipit
-meSV.Aposticha2.text = me.m09.d14_en_US_dedes.meSV.Aposticha2.text
+meSV.Aposticha2.mode = me.m09.d14_en_US_goadedes.meSV.Aposticha2.mode
+meSV.Aposticha2.melody = me.m09.d14_en_US_goadedes.meSV.Aposticha2.melody
+meSV.Aposticha2.incipit = me.m09.d14_en_US_goadedes.meSV.Aposticha2.incipit
+meSV.Aposticha2.text = me.m09.d14_en_US_goadedes.meSV.Aposticha2.text
 
-meSV.Aposticha3.mode = me.m09.d14_en_US_dedes.meSV.Aposticha3.mode
-meSV.Aposticha3.melody = me.m09.d14_en_US_dedes.meSV.Aposticha3.melody
-meSV.Aposticha3.incipit = me.m09.d14_en_US_dedes.meSV.Aposticha3.incipit
-meSV.Aposticha3.text = me.m09.d14_en_US_dedes.meSV.Aposticha3.text
+meSV.Aposticha3.mode = me.m09.d14_en_US_goadedes.meSV.Aposticha3.mode
+meSV.Aposticha3.melody = me.m09.d14_en_US_goadedes.meSV.Aposticha3.melody
+meSV.Aposticha3.incipit = me.m09.d14_en_US_goadedes.meSV.Aposticha3.incipit
+meSV.Aposticha3.text = me.m09.d14_en_US_goadedes.meSV.Aposticha3.text
 
 meSV.AposGlory.mode = me.m09.d14_en_US_dedes.meSV.AposGlory.mode
 meSV.AposGlory.melody = me.m09.d14_en_US_dedes.meSV.AposGlory.melody
