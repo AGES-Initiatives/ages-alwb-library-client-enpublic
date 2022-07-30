@@ -1385,8 +1385,16 @@ alt1.meLI.Kontakion1.text = me.m10.d20_en_US_dedes.alt1.meLI.Kontakion1.text
 alt1.meLI.MM.CommunionHymn.text = me.m10.d20_en_US_dedes.alt1.meLI.MM.CommunionHymn.text
 
 alt1.meMegalynarion.text = me.m10.d20_en_US_dedes.alt1.meMegalynarion.text
-
 alt1.meMegalynarion2.text = me.m10.d20_en_US_dedes.alt1.meMegalynarion2.text
 
 alt1.meCoupletv1.text = me.m10.d20_en_US_dedes.alt1.meCoupletv1.text
 alt1.meCoupletv2.text = me.m10.d20_en_US_dedes.alt1.meCoupletv2.text
+
+alt1.meMegalynarion3.text = me.m10.d20_en_US_goadedes.alt1.meMegalynarion3.text
+
+alt2.meDA.date = me.m10.d20_en_US_goadedes.alt2.meDA.date
+alt2.meDA.commemoration.full = me.m10.d20_en_US_goadedes.alt2.meDA.commemoration.full
+alt2.meDA.commemoration.first_short = me.m10.d20_en_US_goadedes.alt2.meDA.commemoration.first_short
+alt2.meDA.commemoration.first_title = me.m10.d20_en_US_goadedes.alt2.meDA.commemoration.first_title
+
+alt2.meMegalynarion.text = me.m10.d20_en_US_goadedes.alt2.meMegalynarion.text

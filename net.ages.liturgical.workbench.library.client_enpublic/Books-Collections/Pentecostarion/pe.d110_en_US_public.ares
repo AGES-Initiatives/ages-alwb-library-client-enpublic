@@ -767,4 +767,5 @@ peLI.AfterCommunion.mode = pe.d110_en_US_dedes.peLI.AfterCommunion.mode
 peLI.AfterCommunion.incipit = pe.d110_en_US_dedes.peLI.AfterCommunion.incipit
 peLI.AfterCommunion.text = pe.d110_en_US_dedes.peLI.AfterCommunion.text
 
-peMegalynarion.text = pe.d110_en_US_dedes.peMegalynarion.text
+peMegalynarion.text = pe.d110_en_US_goadedes.peMegalynarion.text
+peMegalynarion2.text = pe.d110_en_US_goadedes.peMegalynarion2.text

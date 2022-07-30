@@ -577,7 +577,8 @@ meLI.Kontakion1.text = me.m09.d07_en_US_dedes.meLI.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
-meMegalynarion.text = me.m09.d07_en_US_dedes.meMegalynarion.text
+meMegalynarion.text = me.m09.d07_en_US_goadedes.meMegalynarion.text
+meMegalynarion2.text = me.m09.d07_en_US_goadedes.meMegalynarion2.text
 
 alt1.meDA.date = me.m09.d07_en_US_andronache.alt1.meDA.date
 alt1.meDA.commemoration.full = me.m09.d07_en_US_andronache.alt1.meDA.commemoration.full
