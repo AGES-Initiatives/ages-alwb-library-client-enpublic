@@ -5,7 +5,9 @@ meDA.commemoration.full = me.m11.d30_en_US_dedes.meDA.commemoration.full // full
 meDA.commemoration.first = me.m11.d30_en_US_dedes.meDA.commemoration.first
 meDA.commemoration.first_short = me.m11.d30_en_US_dedes.meDA.commemoration.first_short
 meDA.commemoration.first_title = me.m11.d30_en_US_dedes.meDA.commemoration.first_title
+meDA.commemoration.first_name= me.m11.d30_en_US_dedes.meDA.commemoration.first_name
 meDA.commemoration.second_title = me.m11.d30_en_US_dedes.meDA.commemoration.second_title
+meDA.commemoration.second_name= me.m11.d30_en_US_dedes.meDA.commemoration.second_name
 meDA.insert1 = me.m11.d30_en_US_dedes.meDA.insert1 // for use in petitions and dismissal
 meDA.insert2 = me.m11.d30_en_US_dedes.meDA.insert2 // for use in petitions and dismissal
 meDA.note = me.m11.d30_en_US_dedes.meDA.note
@@ -32,7 +34,7 @@ meVE.Stichera03.melody = me.m11.d30_en_US_oca.meVE.Stichera03.melody
 meVE.Stichera03.incipit = me.m11.d30_en_US_oca.meVE.Stichera03.incipit
 meVE.Stichera03.text = me.m11.d30_en_US_oca.meVE.Stichera03.text
 
-meVE.MM.Stichera1123as78910.text = "" // for media
+meVE.MM.Stichera1123as78910.text = me.m11.d30_en_US_dedes.meVE.MM.Stichera1123as78910.text 
 
 meVE.SticGlory.poet = me.m11.d30_en_US_dedes.meVE.SticGlory.poet
 meVE.SticGlory.mode = me.m11.d30_en_US_dedes.meVE.SticGlory.mode

@@ -13,4 +13,4 @@ peHO.note1 = pe.d126_en_US_dedes.peHO.note1
 peHO.note2 = pe.d126_en_US_dedes.peHO.note2
 peDA.dismissal = pe.d126_en_US_dedes.peDA.dismissal
 
-peMA.MM.Lauds123as123.text = "" //for media
+peMA.MM.Lauds123as123.text = pe.d126_en_US_dedes.peMA.MM.Lauds123as123.text
