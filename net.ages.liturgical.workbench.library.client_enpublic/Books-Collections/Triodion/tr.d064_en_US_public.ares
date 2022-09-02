@@ -430,8 +430,6 @@ trMA.LaudsGlory.melody = tr.d064_en_US_dedes.trMA.LaudsGlory.melody
 trMA.LaudsGlory.incipit = tr.d064_en_US_dedes.trMA.LaudsGlory.incipit
 trMA.LaudsGlory.text = tr.d064_en_US_dedes.trMA.LaudsGlory.text
 
-trLI.Antiphon2.incipit = tr.d064_en_US_dedes.trLI.Antiphon2.incipit
-trLI.Antiphon2.text = tr.d064_en_US_dedes.trLI.Antiphon2.text
 
 trLI.MM.EntranceHymn.text = properties_en_US_public.media.key
 

@@ -33,11 +33,11 @@ hoTY.Key0501.text = ho.s07_en_US_dedes.hoTY.Key0501.text
 hoLI.Antiphon1.text = ho.s07_en_US_goa.hoLI.Antiphon1.text
 
 hoLI.Antiphon21.text = ho.s07_en_US_goa.hoLI.Antiphon21.text
-hoLI.Antiphon22.text = ho.s07_en_US_goa.hoLI.Antiphon22.text
 hoLI.Antiphon2s.incipit = ho.s07_en_US_goa.hoLI.Antiphon2s.incipit
 hoLI.Antiphon2s.text = ho.s07_en_US_goa.hoLI.Antiphon2s.text
 hoLI.Antiphon2w.incipit = ho.s07_en_US_goa.hoLI.Antiphon2w.incipit
 hoLI.Antiphon2w.text = ho.s07_en_US_goa.hoLI.Antiphon2w.text
+hoLI.Antiphon22.text = ho.s07_en_US_goa.hoLI.Antiphon22.text
 
 hoLI.EntranceHymn.incipit = ho.s07_en_US_goa.hoLI.EntranceHymn.incipit
 hoLI.EntranceHymn.text = ho.s07_en_US_goa.hoLI.EntranceHymn.text // in the template add parts of Antiphon 2

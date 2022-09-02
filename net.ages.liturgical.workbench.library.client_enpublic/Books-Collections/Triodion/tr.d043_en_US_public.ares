@@ -526,8 +526,6 @@ trMA.AdditionalIdiomelonBoth.melody = tr.d043_en_US_dedes.trMA.AdditionalIdiomel
 trMA.AdditionalIdiomelonBoth.incipit = tr.d043_en_US_dedes.trMA.AdditionalIdiomelonBoth.incipit
 trMA.AdditionalIdiomelonBoth.text = tr.d043_en_US_dedes.trMA.AdditionalIdiomelonBoth.text
 
-trLI.Antiphon2.incipit = tr.d043_en_US_dedes.trLI.Antiphon2.incipit
-trLI.Antiphon2.text = tr.d043_en_US_dedes.trLI.Antiphon2.text
 
 trLI.MM.EntranceHymn.text = properties_en_US_public.media.key
 

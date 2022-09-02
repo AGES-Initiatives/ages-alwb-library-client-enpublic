@@ -402,8 +402,6 @@ meMA.AposGlory.melody = me.m02.d06_en_US_dedes.meMA.AposGlory.melody
 meMA.AposGlory.incipit = me.m02.d06_en_US_dedes.meMA.AposGlory.incipit
 meMA.AposGlory.text = me.m02.d06_en_US_dedes.meMA.AposGlory.text
 
-meLI.Antiphon2.incipit = me.m02.d06_en_US_dedes.meLI.Antiphon2.incipit
-meLI.Antiphon2.text = me.m02.d06_en_US_dedes.meLI.Antiphon2.text
 
 meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""
@@ -931,8 +929,6 @@ alt1.meMA.MM.Lauds1234as5678.text = me.m02.d06_en_US_dedes.alt1.meMA.MM.Lauds123
 alt1.meMA.MM.Lauds123as123.text = me.m02.d06_en_US_dedes.alt1.meMA.MM.Lauds123as123.text
 alt1.meMA.MM.Lauds123as678.text = me.m02.d06_en_US_dedes.alt1.meMA.MM.Lauds123as678.text
 
-alt1.meLI.Antiphon2.incipit = me.m02.d06_en_US_dedes.alt1.meLI.Antiphon2.incipit
-alt1.meLI.Antiphon2.text = me.m02.d06_en_US_dedes.alt1.meLI.Antiphon2.text
 
 alt1.meLI.MM.EntranceHymn.text = properties_en_US_public.media.key
 
@@ -1431,8 +1427,6 @@ alt2.meMA.LaudsGlory.text = me.m02.d06_en_US_dedes.alt2.meMA.LaudsGlory.text
 
 alt2.meMA.MM.LaudsSunday.text = me.m02.d06_en_US_dedes.alt2.meMA.MM.LaudsSunday.text
 
-alt2.meLI.Antiphon2.incipit = me.m02.d06_en_US_dedes.alt2.meLI.Antiphon2.incipit
-alt2.meLI.Antiphon2.text = me.m02.d06_en_US_dedes.alt2.meLI.Antiphon2.text
 
 alt2.meLI.MM.EntranceHymn.text = me.m02.d06_en_US_dedes.alt2.meLI.MM.EntranceHymn.text
 

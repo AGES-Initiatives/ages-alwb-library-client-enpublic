@@ -346,8 +346,6 @@ meMA.AposGlory.melody = me.m01.d12_en_US_oca.meMA.AposGlory.melody
 meMA.AposGlory.incipit = me.m01.d12_en_US_oca.meMA.AposGlory.incipit
 meMA.AposGlory.text = me.m01.d12_en_US_oca.meMA.AposGlory.text
 
-meLI.Antiphon2.incipit = me.m01.d12_en_US_dedes.meLI.Antiphon2.incipit
-meLI.Antiphon2.text = me.m01.d12_en_US_dedes.meLI.Antiphon2.text
 
 meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""
