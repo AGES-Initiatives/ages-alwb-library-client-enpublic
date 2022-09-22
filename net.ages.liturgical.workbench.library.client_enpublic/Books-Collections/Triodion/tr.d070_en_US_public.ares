@@ -85,15 +85,15 @@ trVE.Apolytikion1.melody = tr.d070_en_US_dedes.trVE.Apolytikion1.melody
 trVE.Apolytikion1.incipit = tr.d070_en_US_dedes.trVE.Apolytikion1.incipit
 trVE.Apolytikion1.text = tr.d070_en_US_dedes.trVE.Apolytikion1.text
 
-trVE.Apolytikion2.mode = tr.d070_en_US_dedes.trVE.Apolytikion2.mode
-trVE.Apolytikion2.melody = tr.d070_en_US_dedes.trVE.Apolytikion2.melody
-trVE.Apolytikion2.incipit = tr.d070_en_US_dedes.trVE.Apolytikion2.incipit
-trVE.Apolytikion2.text = tr.d070_en_US_dedes.trVE.Apolytikion2.text
+trVE.Apolytikion2.mode = tr.d070_en_US_goadedes.trVE.Apolytikion2.mode
+trVE.Apolytikion2.melody = tr.d070_en_US_goadedes.trVE.Apolytikion2.melody
+trVE.Apolytikion2.incipit = tr.d070_en_US_goadedes.trVE.Apolytikion2.incipit
+trVE.Apolytikion2.text = tr.d070_en_US_goadedes.trVE.Apolytikion2.text
 
-trVE.Apolytikion3.mode = tr.d070_en_US_dedes.trVE.Apolytikion3.mode
-trVE.Apolytikion3.melody = tr.d070_en_US_dedes.trVE.Apolytikion3.melody
-trVE.Apolytikion3.incipit = tr.d070_en_US_dedes.trVE.Apolytikion3.incipit
-trVE.Apolytikion3.text = tr.d070_en_US_dedes.trVE.Apolytikion3.text
+trVE.Apolytikion3.mode = tr.d070_en_US_goadedes.trVE.Apolytikion3.mode
+trVE.Apolytikion3.melody = tr.d070_en_US_goadedes.trVE.Apolytikion3.melody
+trVE.Apolytikion3.incipit = tr.d070_en_US_goadedes.trVE.Apolytikion3.incipit
+trVE.Apolytikion3.text = tr.d070_en_US_goadedes.trVE.Apolytikion3.text
 
 trHW.GITL.text = tr.d070_en_US_dedes.trHW.GITL.text // for media
 

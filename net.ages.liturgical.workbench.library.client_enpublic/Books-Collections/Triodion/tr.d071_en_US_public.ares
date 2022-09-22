@@ -14,25 +14,25 @@ trHO.note2 = tr.d071_en_US_dedes.trHO.note2
 trCO.header = tr.d071_en_US_dedes.trCO.header
 trVL.header = tr.d071_en_US_dedes.trVL.header //for pdf headers of presanctified and vesperal liturgies
 
-trVE.Stichera01.mode = tr.d071_en_US_dedes.trVE.Stichera01.mode
-trVE.Stichera01.melody = tr.d071_en_US_dedes.trVE.Stichera01.melody
-trVE.Stichera01.incipit = tr.d071_en_US_holycross.trVE.Stichera01.incipit
-trVE.Stichera01.text = tr.d071_en_US_holycross.trVE.Stichera01.text
+trVE.Stichera01.mode = tr.d071_en_US_goadedes.trVE.Stichera01.mode
+trVE.Stichera01.melody = tr.d071_en_US_goadedes.trVE.Stichera01.melody
+trVE.Stichera01.incipit = tr.d071_en_US_goadedes.trVE.Stichera01.incipit
+trVE.Stichera01.text = tr.d071_en_US_goadedes.trVE.Stichera01.text
 
-trVE.Stichera02.mode = tr.d071_en_US_dedes.trVE.Stichera02.mode
-trVE.Stichera02.melody = tr.d071_en_US_dedes.trVE.Stichera02.melody
-trVE.Stichera02.incipit = tr.d071_en_US_holycross.trVE.Stichera02.incipit
-trVE.Stichera02.text = tr.d071_en_US_holycross.trVE.Stichera02.text
+trVE.Stichera02.mode = tr.d071_en_US_goadedes.trVE.Stichera02.mode
+trVE.Stichera02.melody = tr.d071_en_US_goadedes.trVE.Stichera02.melody
+trVE.Stichera02.incipit = tr.d071_en_US_goadedes.trVE.Stichera02.incipit
+trVE.Stichera02.text = tr.d071_en_US_goadedes.trVE.Stichera02.text
 
-trVE.Stichera03.mode = tr.d071_en_US_dedes.trVE.Stichera03.mode
-trVE.Stichera03.melody = tr.d071_en_US_dedes.trVE.Stichera03.melody
-trVE.Stichera03.incipit = tr.d071_en_US_holycross.trVE.Stichera03.incipit
-trVE.Stichera03.text = tr.d071_en_US_holycross.trVE.Stichera03.text
+trVE.Stichera03.mode = tr.d071_en_US_goadedes.trVE.Stichera03.mode
+trVE.Stichera03.melody = tr.d071_en_US_goadedes.trVE.Stichera03.melody
+trVE.Stichera03.incipit = tr.d071_en_US_goadedes.trVE.Stichera03.incipit
+trVE.Stichera03.text = tr.d071_en_US_goadedes.trVE.Stichera03.text
 
-trVE.Stichera04.mode = tr.d071_en_US_dedes.trVE.Stichera04.mode
-trVE.Stichera04.melody = tr.d071_en_US_dedes.trVE.Stichera04.melody
-trVE.Stichera04.incipit = tr.d071_en_US_holycross.trVE.Stichera04.incipit
-trVE.Stichera04.text = tr.d071_en_US_holycross.trVE.Stichera04.text
+trVE.Stichera04.mode = tr.d071_en_US_goadedes.trVE.Stichera04.mode
+trVE.Stichera04.melody = tr.d071_en_US_goadedes.trVE.Stichera04.melody
+trVE.Stichera04.incipit = tr.d071_en_US_goadedes.trVE.Stichera04.incipit
+trVE.Stichera04.text = tr.d071_en_US_goadedes.trVE.Stichera04.text
 
 trVE.Stichera05.mode = tr.d071_en_US_dedes.trVE.Stichera05.mode
 trVE.Stichera05.melody = tr.d071_en_US_dedes.trVE.Stichera05.melody
@@ -54,10 +54,10 @@ trVE.SticGlory.melody = tr.d071_en_US_dedes.trVE.SticGlory.melody
 trVE.SticGlory.incipit = tr.d071_en_US_dedes.trVE.SticGlory.incipit
 trVE.SticGlory.text = tr.d071_en_US_dedes.trVE.SticGlory.text
 
-trVE.SticTheotokion.mode = tr.d071_en_US_dedes.trVE.SticTheotokion.mode
-trVE.SticTheotokion.melody = tr.d071_en_US_dedes.trVE.SticTheotokion.melody
-trVE.SticTheotokion.incipit = tr.d071_en_US_holycross.trVE.SticTheotokion.incipit
-trVE.SticTheotokion.text = tr.d071_en_US_holycross.trVE.SticTheotokion.text
+trVE.SticTheotokion.mode = tr.d071_en_US_goadedes.trVE.SticTheotokion.mode
+trVE.SticTheotokion.melody = tr.d071_en_US_goadedes.trVE.SticTheotokion.melody
+trVE.SticTheotokion.incipit = tr.d071_en_US_goadedes.trVE.SticTheotokion.incipit
+trVE.SticTheotokion.text = tr.d071_en_US_goadedes.trVE.SticTheotokion.text
 
 // Hymn of the Three Servants
 trHW.SaturdayHymn.title = tr.d071_en_US_dedes.trHW.SaturdayHymn.title
