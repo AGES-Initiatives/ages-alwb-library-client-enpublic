@@ -13,6 +13,9 @@ peHO.note1 = pe.d085_en_US_dedes.peHO.note1
 peHO.note2 = pe.d085_en_US_dedes.peHO.note2
 peDA.dismissal = pe.d085_en_US_dedes.peDA.dismissal
 
+peVE.MM.Stichera89as56.text = pe.d085_en_US_dedes.peVE.MM.Stichera89as56.text
+peVE.MM.Stichera8910as567.text = pe.d085_en_US_dedes.peVE.MM.Stichera8910as567.text
+
 peVE.Stichera08.poet = pe.d085_en_US_dedes.peVE.Stichera08.poet
 peVE.Stichera08.mode = pe.d085_en_US_dedes.peVE.Stichera08.mode
 peVE.Stichera08.melody = pe.d085_en_US_dedes.peVE.Stichera08.melody

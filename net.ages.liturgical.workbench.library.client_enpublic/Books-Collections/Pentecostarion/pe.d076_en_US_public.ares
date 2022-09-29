@@ -14,7 +14,9 @@ peHO.note1 = pe.d076_en_US_dedes.peHO.note1
 peHO.note2 = pe.d076_en_US_dedes.peHO.note2
 peDA.dismissal = pe.d076_en_US_dedes.peDA.dismissal
 
+peVE.MM.Stichera123as123.text = pe.d076_en_US_dedes.peVE.MM.Stichera123as123.text // for media with saint
 peVE.MM.Stichera1234as3456.text = pe.d076_en_US_dedes.peVE.MM.Stichera1234as3456.text // for media with saint
+peVE.MM.Stichera789as456.text = pe.d076_en_US_dedes.peVE.MM.Stichera789as456.text // for media with saint
 
 peVE.Stichera01.mode = pe.d076_en_US_dedes.peVE.Stichera01.mode
 peVE.Stichera01.melody = pe.d076_en_US_dedes.peVE.Stichera01.melody
@@ -75,8 +77,6 @@ peVE.SticBoth.mode = pe.d076_en_US_dedes.peVE.SticBoth.mode
 peVE.SticBoth.melody = pe.d076_en_US_dedes.peVE.SticBoth.melody
 peVE.SticBoth.incipit = pe.d076_en_US_holycross.peVE.SticBoth.incipit
 peVE.SticBoth.text = pe.d076_en_US_holycross.peVE.SticBoth.text
-
-peVE.MM.GreatProkeimenon.text = properties_en_US_public.media.key
 
 peVE.Aposticha1.mode = pe.d076_en_US_dedes.peVE.Aposticha1.mode
 peVE.Aposticha1.melody = pe.d076_en_US_dedes.peVE.Aposticha1.melody

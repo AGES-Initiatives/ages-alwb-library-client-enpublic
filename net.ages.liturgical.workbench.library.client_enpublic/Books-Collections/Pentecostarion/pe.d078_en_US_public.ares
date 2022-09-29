@@ -74,6 +74,8 @@ peVE.Stichera04.melody = pe.d078_en_US_dedes.peVE.Stichera04.melody
 peVE.Stichera04.incipit = pe.d078_en_US_dedes.peVE.Stichera04.incipit
 peVE.Stichera04.text = pe.d078_en_US_dedes.peVE.Stichera04.text
 
+peVE.MM.Stichera1234as3456.text = pe.d078_en_US_dedes.peVE.MM.Stichera1234as3456.text
+
 peVE.Stichera05.mode = pe.d078_en_US_dedes.peVE.Stichera05.mode
 peVE.Stichera05.melody = pe.d078_en_US_dedes.peVE.Stichera05.melody
 peVE.Stichera05.incipit = pe.d078_en_US_dedes.peVE.Stichera05.incipit

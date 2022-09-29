@@ -55,8 +55,6 @@ peVE.SticBoth.melody = pe.d072_en_US_goadedes.peVE.SticBoth.melody
 peVE.SticBoth.incipit = pe.d072_en_US_goadedes.peVE.SticBoth.incipit
 peVE.SticBoth.text = pe.d072_en_US_goadedes.peVE.SticBoth.text
 
-peVE.MM.GreatProkeimenon.text = properties_en_US_public.media.key
-
 peVE.Aposticha1.mode = pe.d072_en_US_goadedes.peVE.Aposticha1.mode
 peVE.Aposticha1.melody = pe.d072_en_US_goadedes.peVE.Aposticha1.melody
 peVE.Aposticha1.incipit = pe.d072_en_US_goadedes.peVE.Aposticha1.incipit

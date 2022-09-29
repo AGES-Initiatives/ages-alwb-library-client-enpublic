@@ -184,8 +184,6 @@ trMA.Kathisma31.melody = tr.d064_en_US_dedes.trMA.Kathisma31.melody
 trMA.Kathisma31.incipit = tr.d064_en_US_dedes.trMA.Kathisma31.incipit
 trMA.Kathisma31.text = tr.d064_en_US_dedes.trMA.Kathisma31.text
 
-trMA.MM.Prokeimenon.text = properties_en_US_public.media.key
-
 trMA.PostGospelGlory.mode = tr.d064_en_US_dedes.trMA.PostGospelGlory.mode
 trMA.PostGospelGlory.melody = tr.d064_en_US_dedes.trMA.PostGospelGlory.melody
 trMA.PostGospelGlory.incipit = tr.d064_en_US_dedes.trMA.PostGospelGlory.incipit

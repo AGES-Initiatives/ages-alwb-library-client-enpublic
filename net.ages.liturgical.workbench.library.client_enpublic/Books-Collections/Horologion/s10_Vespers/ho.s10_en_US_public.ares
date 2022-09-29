@@ -21,30 +21,38 @@ hoVE.FosIlaron.text = ho.s10_en_US_dedes.hoVE.FosIlaron.text
 R11 = ho.s10_en_US_dedes.R11
 
 hoVE.SundayEvening.title = ho.s10_en_US_dedes.hoVE.SundayEvening.title
-hoVE.SundayProkeimenon.text = ho.s10_en_US_dedes.hoVE.SundayProkeimenon.text
+hoVE.MM.SundayProkeimenon.text = ho.s10_en_US_dedes.hoVE.MM.SundayProkeimenon.text
 
 hoVE.MondayEvening.title = ho.s10_en_US_dedes.hoVE.MondayEvening.title
-hoVE.MondayProkeimenon.text = ho.s10_en_US_dedes.hoVE.MondayProkeimenon.text
+hoVE.MM.MondayProkeimenon.text = ho.s10_en_US_dedes.hoVE.MM.MondayProkeimenon.text
 
 hoVE.TuesdayEvening.title = ho.s10_en_US_dedes.hoVE.TuesdayEvening.title
-hoVE.TuesdayProkeimenon.text = ho.s10_en_US_dedes.hoVE.TuesdayProkeimenon.text
+hoVE.MM.TuesdayProkeimenon.text = ho.s10_en_US_dedes.hoVE.MM.TuesdayProkeimenon.text
 
 hoVE.WednesdayEvening.title = ho.s10_en_US_dedes.hoVE.WednesdayEvening.title
-hoVE.WednesdayProkeimenon.text = ho.s10_en_US_dedes.hoVE.WednesdayProkeimenon.text
+hoVE.MM.WednesdayProkeimenon.text = ho.s10_en_US_dedes.hoVE.MM.WednesdayProkeimenon.text
 
 hoVE.ThursdayEvening.title = ho.s10_en_US_dedes.hoVE.ThursdayEvening.title
-hoVE.ThursdayProkeimenon.text = ho.s10_en_US_dedes.hoVE.ThursdayProkeimenon.text
+hoVE.MM.ThursdayProkeimenon.text = ho.s10_en_US_dedes.hoVE.MM.ThursdayProkeimenon.text
 
 hoVE.FridayEvening.title = ho.s10_en_US_dedes.hoVE.FridayEvening.title
-hoVE.FridayProkeimenon.text = ho.s10_en_US_dedes.hoVE.FridayProkeimenon.text
+hoVE.MM.FridayProkeimenon.text = ho.s10_en_US_dedes.hoVE.MM.FridayProkeimenon.text
 
 hoVE.SaturdayEvening.title = ho.s10_en_US_dedes.hoVE.SaturdayEvening.title
-hoVE.SaturdayProkeimenon.text = ho.s10_en_US_dedes.hoVE.SaturdayProkeimenon.text
+hoVE.MM.SaturdayProkeimenon.text = ho.s10_en_US_dedes.hoVE.MM.SaturdayProkeimenon.text
 
-hoVE.GreatProkeimenonTisTheosMegas.text = ho.s10_en_US_dedes.hoVE.GreatProkeimenonTisTheosMegas.text
-hoVE.GreatProkeimenonOTheosImon.text = ho.s10_en_US_dedes.hoVE.GreatProkeimenonOTheosImon.text
-hoVE.GreatProkeimenonLent1.text = ho.s10_en_US_dedes.hoVE.GreatProkeimenonLent1.text
-hoVE.GreatProkeimenonLent2.text = ho.s10_en_US_dedes.hoVE.GreatProkeimenonLent2.text
+hoVE.MM.GreatProkeimenonTisTheosMegas.text = ho.s10_en_US_dedes.hoVE.MM.GreatProkeimenonTisTheosMegas.text
+hoVE.MM.GreatProkeimenonOTheosImon.text = ho.s10_en_US_dedes.hoVE.MM.GreatProkeimenonOTheosImon.text
+hoVE.MM.GreatProkeimenonLent1.text = ho.s10_en_US_dedes.hoVE.MM.GreatProkeimenonLent1.text
+hoVE.MM.GreatProkeimenonLent2.text = ho.s10_en_US_dedes.hoVE.MM.GreatProkeimenonLent2.text
+
+hoVE.MM.GoodFridayProkeimenon.text = ho.s10_en_US_dedes.hoVE.MM.GoodFridayProkeimenon.text
+hoVE.MM.EasterSundayEveningProkeimenon.text = ""
+hoVE.MM.BrightMondayEveningProkeimenon.text = ho.s10_en_US_dedes.hoVE.MM.BrightMondayEveningProkeimenon.text
+hoVE.MM.BrightTuesdayEveningProkeimenon.text = ho.s10_en_US_dedes.hoVE.MM.BrightTuesdayEveningProkeimenon.text
+hoVE.MM.BrightWednesdayEveningProkeimenon.text = ho.s10_en_US_dedes.hoVE.MM.BrightWednesdayEveningProkeimenon.text
+hoVE.MM.BrightThursdayEveningProkeimenon.text = ho.s10_en_US_dedes.hoVE.MM.BrightThursdayEveningProkeimenon.text
+hoVE.MM.BrightFridayEveningProkeimenon.text = ho.s10_en_US_dedes.hoVE.MM.BrightFridayEveningProkeimenon.text
 
 R12 = ho.s10_en_US_dedes.R12
 R13 = ho.s10_en_US_dedes.R13
