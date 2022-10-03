@@ -63,11 +63,6 @@ peVE.Stichera09.melody = pe.d076_en_US_oca.peVE.Stichera09.melody
 peVE.Stichera09.incipit = pe.d076_en_US_oca.peVE.Stichera09.incipit
 peVE.Stichera09.text = pe.d076_en_US_oca.peVE.Stichera09.text
 
-peVE.Stichera10.mode = pe.d076_en_US_dedes.peVE.Stichera10.mode
-peVE.Stichera10.melody = pe.d076_en_US_oca.peVE.Stichera10.melody
-peVE.Stichera10.incipit = pe.d076_en_US_oca.peVE.Stichera10.incipit
-peVE.Stichera10.text = pe.d076_en_US_oca.peVE.Stichera10.text
-
 peVE.SticGlory.mode = pe.d076_en_US_dedes.peVE.SticGlory.mode
 peVE.SticGlory.melody = pe.d076_en_US_dedes.peVE.SticGlory.melody
 peVE.SticGlory.incipit = pe.d076_en_US_oca.peVE.SticGlory.incipit
