@@ -15,6 +15,8 @@ trCO.header = tr.d035_en_US_dedes.trCO.header
 trVL.header = tr.d035_en_US_dedes.trVL.header //for pdf headers of presanctified and vesperal liturgies
 trDA.dismissal = tr.d035_en_US_dedes.trDA.dismissal
 
+trR001 = tr.d035_en_US_dedes.trR001
+
 trVE.AposIdiomelon1.mode = tr.d035_en_US_dedes.trVE.AposIdiomelon1.mode
 trVE.AposIdiomelon1.melody = tr.d035_en_US_dedes.trVE.AposIdiomelon1.melody
 trVE.AposIdiomelon1.incipit = tr.d035_en_US_dedes.trVE.AposIdiomelon1.incipit
