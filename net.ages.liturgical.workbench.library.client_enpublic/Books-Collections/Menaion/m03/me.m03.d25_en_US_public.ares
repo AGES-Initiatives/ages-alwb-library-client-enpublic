@@ -181,10 +181,8 @@ meMA.C1.verse = me.m03.d25_en_US_dedes.meMA.C1.verse
 
 //Titles needed for the canon troparia
 meMA.Ode9C1M02.incipit = me.m03.d25_en_US_dedes.meMA.Ode9C1M02.incipit
-meMA.Ode9C1M02.incipit = "…"
 meMA.Ode9C1M02.text = me.m03.d25_en_US_dedes.meMA.Ode9C1M02.text
 meMA.Ode9C1M03.incipit = me.m03.d25_en_US_dedes.meMA.Ode9C1M03.incipit
-meMA.Ode9C1M03.incipit = "…"
 meMA.Ode9C1M03.text = me.m03.d25_en_US_dedes.meMA.Ode9C1M03.text
 
 meMA.Ode1C1H.ode = me.m03.d25_en_US_dedes.meMA.Ode1C1H.ode
@@ -429,7 +427,6 @@ meMA.Ode8C15.incipit = me.m03.d25_en_US_dedes.meMA.Ode8C15.incipit
 meMA.Ode8C15.text = me.m03.d25_en_US_dedes.meMA.Ode8C15.text
 
 meMA.Ode9C1M01.incipit = me.m03.d25_en_US_dedes.meMA.Ode9C1M01.incipit
-meMA.Ode9C1M01.incipit = "…"
 meMA.Ode9C1M01.text = me.m03.d25_en_US_dedes.meMA.Ode9C1M01.text
 
 meMA.Ode9C1H.ode = me.m03.d25_en_US_dedes.meMA.Ode9C1H.ode
@@ -997,22 +994,16 @@ meMA.Ode8C264.text = me.m03.d25_en_US_dedes.meMA.Ode8C264.text
 meMA.Ode8C265.text = me.m03.d25_en_US_dedes.meMA.Ode8C265.text
 
 meMA.Ode9C2M01.incipit = me.m03.d25_en_US_dedes.meMA.Ode9C2M01.incipit
-meMA.Ode9C2M01.incipit = "…"
 meMA.Ode9C2M01.text = me.m03.d25_en_US_dedes.meMA.Ode9C2M01.text
 meMA.Ode9C2M02.incipit = me.m03.d25_en_US_dedes.meMA.Ode9C2M02.incipit
-meMA.Ode9C2M02.incipit = "…"
 meMA.Ode9C2M02.text = me.m03.d25_en_US_dedes.meMA.Ode9C2M02.text
 meMA.Ode9C2M03.incipit = me.m03.d25_en_US_dedes.meMA.Ode9C2M03.incipit
-meMA.Ode9C2M03.incipit = "…"
 meMA.Ode9C2M03.text = me.m03.d25_en_US_dedes.meMA.Ode9C2M03.text
 meMA.Ode9C2M04.incipit = me.m03.d25_en_US_dedes.meMA.Ode9C2M04.incipit
-meMA.Ode9C2M04.incipit = "…"
 meMA.Ode9C2M04.text = me.m03.d25_en_US_dedes.meMA.Ode9C2M04.text
 meMA.Ode9C2MTr.incipit = me.m03.d25_en_US_dedes.meMA.Ode9C2MTr.incipit
-meMA.Ode9C2MTr.incipit = "…"
 meMA.Ode9C2MTr.text = me.m03.d25_en_US_dedes.meMA.Ode9C2MTr.text
 meMA.Ode9C2MTh.incipit = me.m03.d25_en_US_dedes.meMA.Ode9C2MTh.incipit
-meMA.Ode9C2MTh.incipit = "…"
 meMA.Ode9C2MTh.text = me.m03.d25_en_US_dedes.meMA.Ode9C2MTh.text
 
 meMA.Ode9C21.ode = me.m03.d25_en_US_dedes.meMA.Ode9C21.ode

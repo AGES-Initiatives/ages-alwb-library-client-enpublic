@@ -545,6 +545,8 @@ trMA.Lauds3.melody = tr.d015_en_US_dedes.trMA.Lauds3.melody
 trMA.Lauds3.incipit = tr.d015_en_US_duvall.trMA.Lauds3.incipit
 trMA.Lauds3.text = tr.d015_en_US_duvall.trMA.Lauds3.text
 
+trMA.MM.Lauds12as45.text = tr.d015_en_US_public.trMA.MM.Lauds12as45.text
+
 trMA.LaudsGlory.mode = tr.d015_en_US_dedes.trMA.LaudsGlory.mode
 trMA.LaudsGlory.melody = tr.d015_en_US_dedes.trMA.LaudsGlory.melody
 trMA.LaudsGlory.incipit = tr.d015_en_US_duvall.trMA.LaudsGlory.incipit

@@ -255,9 +255,7 @@ hoCA.Ode9T.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode9T.melody
 hoCA.Ode9T.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode9T.incipit
 hoCA.Ode9T.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Ode9T.text
 
-hoCA.Meg00.incipit = "…"
-hoCA.Meg00.incipit = "…"
-hoCA.Meg00.incipit = "…"
+hoCA.Meg00.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg00.incipit
 hoCA.Meg00.text = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg00.text
 hoCA.Meg01.melody = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg01.melody
 hoCA.Meg01.incipit = other.stdemetriosparaklesis_en_US_dedes.hoCA.Meg01.incipit
