@@ -2,6 +2,7 @@ A_Resource_Whose_Name = tr.d027_en_US_public
 
 trDA.commemoration.full = tr.d027_en_US_dedes.trDA.commemoration.full // full title of day
 trDA.commemoration.short = tr.d027_en_US_dedes.trDA.commemoration.short
+trDA.title = tr.d027_en_US_dedes.trDA.title
 trDA.insert1 = tr.d027_en_US_dedes.trDA.insert1 // for use in petitions and dismissal
 trDA.insert2 = tr.d027_en_US_dedes.trDA.insert2 // for use in petitions and dismissal
 trDA.note = tr.d027_en_US_dedes.trDA.note
@@ -12,6 +13,8 @@ trHO.description2 = tr.d027_en_US_dedes.trHO.description2
 trHO.note1 = tr.d027_en_US_dedes.trHO.note1
 trHO.note2 = tr.d027_en_US_dedes.trHO.note2
 trCO.header = tr.d027_en_US_dedes.trCO.header
+
+trR001 = tr.d027_en_US_dedes.trR001
 
 trVE.Stichera01.mode = tr.d027_en_US_dedes.trVE.Stichera01.mode
 trVE.Stichera01.melody = tr.d027_en_US_oca.trVE.Stichera01.melody

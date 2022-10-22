@@ -2,6 +2,7 @@ A_Resource_Whose_Name = tr.d036_en_US_public
 
 trDA.commemoration.full = tr.d036_en_US_dedes.trDA.commemoration.full // full title of day
 trDA.commemoration.short = tr.d036_en_US_dedes.trDA.commemoration.short
+trDA.title = tr.d036_en_US_dedes.trDA.title
 trDA.insert1 = tr.d036_en_US_dedes.trDA.insert1 // for use in petitions and dismissal
 trDA.insert2 = tr.d036_en_US_dedes.trDA.insert2 // for use in petitions and dismissal
 trDA.note = tr.d036_en_US_dedes.trDA.note
@@ -219,6 +220,7 @@ trMA.Oikos17.text = tr.d036_en_US_dedes.trMA.Oikos17.text
 trMA.Oikos18.text = tr.d036_en_US_dedes.trMA.Oikos18.text
 
 trSY.commemoration.text = tr.d036_en_US_dedes.trSY.commemoration.text
+trSY.commemoration.onotherday.text = tr.d036_en_US_dedes.trSY.commemoration.onotherday.text
 trSY.commemoration.couplet1.title = tr.d036_en_US_dedes.trSY.commemoration.couplet1.title
 trSY.commemoration.couplet1.verse1 = tr.d036_en_US_dedes.trSY.commemoration.couplet1.verse1
 trSY.commemoration.couplet1.verse2 = tr.d036_en_US_dedes.trSY.commemoration.couplet1.verse2

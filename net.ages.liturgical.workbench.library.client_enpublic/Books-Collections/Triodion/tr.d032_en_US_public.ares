@@ -2,6 +2,7 @@ A_Resource_Whose_Name = tr.d032_en_US_public
 
 trDA.commemoration.full = tr.d032_en_US_dedes.trDA.commemoration.full // full title of day
 trDA.commemoration.short = tr.d032_en_US_dedes.trDA.commemoration.short
+trDA.title = tr.d032_en_US_dedes.trDA.title
 trDA.insert1 = tr.d032_en_US_dedes.trDA.insert1 // for use in petitions and dismissal
 trDA.insert2 = tr.d032_en_US_dedes.trDA.insert2 // for use in petitions and dismissal
 trDA.note = tr.d032_en_US_dedes.trDA.note
