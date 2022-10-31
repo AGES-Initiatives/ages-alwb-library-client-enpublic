@@ -116,6 +116,11 @@ meVE.Apolytikion1.melody = me.m05.d08_en_US_dedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.incipit = me.m05.d08_en_US_dedes.meVE.Apolytikion1.incipit
 meVE.Apolytikion1.text = me.m05.d08_en_US_dedes.meVE.Apolytikion1.text
 
+meMA.Kathisma11.mode = me.m05.d08_en_US_dedes.meMA.Kathisma11.mode
+meMA.Kathisma11.melody = me.m05.d08_en_US_dedes.meMA.Kathisma11.melody
+meMA.Kathisma11.incipit = me.m05.d08_en_US_dedes.meMA.Kathisma11.incipit
+meMA.Kathisma11.text = me.m05.d08_en_US_dedes.meMA.Kathisma11.text
+
 meMA.Kathisma21.mode = me.m05.d08_en_US_dedes.meMA.Kathisma21.mode
 meMA.Kathisma21.melody = me.m05.d08_en_US_dedes.meMA.Kathisma21.melody
 meMA.Kathisma21.incipit = me.m05.d08_en_US_dedes.meMA.Kathisma21.incipit
@@ -126,7 +131,6 @@ meMA.Kathisma31.melody = me.m05.d08_en_US_dedes.meMA.Kathisma31.melody
 meMA.Kathisma31.incipit = me.m05.d08_en_US_dedes.meMA.Kathisma31.incipit
 meMA.Kathisma31.text = me.m05.d08_en_US_dedes.meMA.Kathisma31.text
 
-meMA.MM.Prokeimenon.text = properties_en_US_public.media.key
 meMA.PostGospelGlory.mode = me.m05.d08_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m05.d08_en_US_dedes.meMA.PostGospelGlory.melody
 meMA.PostGospelGlory.incipit = me.m05.d08_en_US_dedes.meMA.PostGospelGlory.incipit
