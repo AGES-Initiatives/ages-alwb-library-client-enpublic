@@ -114,6 +114,11 @@ peMA.Kathisma21.melody = pe.d121_en_US_dedes.peMA.Kathisma21.melody
 peMA.Kathisma21.incipit = pe.d121_en_US_dedes.peMA.Kathisma21.incipit
 peMA.Kathisma21.text = pe.d121_en_US_dedes.peMA.Kathisma21.text
 
+peMA.Kathisma31.mode = pe.d121_en_US_dedes.peMA.Kathisma31.mode
+peMA.Kathisma31.melody = pe.d121_en_US_dedes.peMA.Kathisma31.melody
+peMA.Kathisma31.incipit = pe.d121_en_US_dedes.peMA.Kathisma31.incipit
+peMA.Kathisma31.text = pe.d121_en_US_dedes.peMA.Kathisma31.text
+
 peMA.Kontakion1.mode = pe.d121_en_US_dedes.peMA.Kontakion1.mode
 peMA.Kontakion1.melody = pe.d121_en_US_dedes.peMA.Kontakion1.melody
 peMA.Kontakion1.incipit = pe.d121_en_US_dedes.peMA.Kontakion1.incipit
