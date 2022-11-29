@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = misc_en_US_public 
 
 NotAvailable = misc_en_US_dedes.NotAvailable
+FutureInstance = misc_en_US_dedes.FutureInstance
 NotMetered = misc_en_US_dedes.NotMetered
 Automelon = misc_en_US_dedes.Automelon
 AutomelonNotMetered = ""

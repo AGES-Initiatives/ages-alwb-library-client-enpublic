@@ -981,8 +981,8 @@ alt1.meHO.note1 = me.m01.d30_en_US_dedes.alt1.meHO.note1
 alt1.meHO.note2 = me.m01.d30_en_US_dedes.alt1.meHO.note2
 
 alt1.meMA.C1.poet = me.m01.d30_en_US_dedes.alt1.meMA.C1.poet
-alt1.meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
-alt1.meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
+alt1.meMA.C1.title = me.m01.d30_en_US_dedes.alt1.meMA.C1.title
+alt1.meMA.C1.verse = me.m01.d30_en_US_dedes.alt1.meMA.C1.verse
 
 alt1.meMA.Ode1C11.ode = me.m01.d30_en_US_dedes.alt1.meMA.Ode1C11.ode
 alt1.meMA.Ode1C11.mode = me.m01.d30_en_US_dedes.alt1.meMA.Ode1C11.mode
