@@ -1,72 +1,72 @@
 A_Resource_Whose_Name = variables.info_en_US_public 
 
-Notice1.text = "This is the text of the Divine Liturgy of St. John Chrysostom, as it is celebrated throughout most of the year. The variable parts have been omitted. It is intended to be used in conjunction with the \"Liturgy - Variable Parts\" files available each day on the GOA DCS."
-Notice2.text = "This is the text of the Divine Liturgy of St. Basil the Great, as it is celebrated on January 1 and the Sundays of Lent. The variable parts have been omitted. It is intended to be used in conjunction with the \"Liturgy - Variable Parts\" files available each day on the GOA DCS."
+Notice1.text = variables.info_en_US_goadedes.Notice1.text
+Notice2.text = variables.info_en_US_goadedes.Notice2.text
 
-Antiphon1.title = "The 1st Antiphon"
-Antiphon1.text = "(See Variable Parts.)"
-Antiphon1.pagenumber = ""
+Antiphon1.title = variables.info_en_US_goadedes.Antiphon1.title
+Antiphon1.text = variables.info_en_US_goadedes.Antiphon1.text
+Antiphon1.pagenumber = variables.info_en_US_goadedes.Antiphon1.pagenumber
 
-Antiphon2.title = "The 2nd Antiphon"
-Antiphon2.text = "(See Variable Parts.)"
-Antiphon2.pagenumber = ""
+Antiphon2.title = variables.info_en_US_goadedes.Antiphon2.title
+Antiphon2.text = variables.info_en_US_goadedes.Antiphon2.text
+Antiphon2.pagenumber = variables.info_en_US_goadedes.Antiphon2.pagenumber
 
-Antiphon3.title = "The 3rd Antiphon."
-Antiphon3.text = "(See Variable Parts.)"
-Antiphon3.pagenumber = ""
+Antiphon3.title = variables.info_en_US_goadedes.Antiphon3.title
+Antiphon3.text = variables.info_en_US_goadedes.Antiphon3.text
+Antiphon3.pagenumber = variables.info_en_US_goadedes.Antiphon3.pagenumber
 
-SmallEntrance.title = "The Small Entrance"
-SmallEntrance.text = "(See Variable Parts.)"
-SmallEntrance.pagenumber = ""
+SmallEntrance.title = variables.info_en_US_goadedes.SmallEntrance.title
+SmallEntrance.text = variables.info_en_US_goadedes.SmallEntrance.text
+SmallEntrance.pagenumber = variables.info_en_US_goadedes.SmallEntrance.pagenumber
 
-HymnsAfterSmallEntrance.title = "Hymns After Small Entrance"
-HymnsAfterSmallEntrance.text = "(See Variable Parts.)"
+HymnsAfterSmallEntrance.title = variables.info_en_US_goadedes.HymnsAfterSmallEntrance.title
+HymnsAfterSmallEntrance.text = variables.info_en_US_goadedes.HymnsAfterSmallEntrance.text
 
-Trisagion.title = "Trisagion Hymn"
-Trisagion.text = "(See Variable Parts.)"
-Trisagion.pagenumber = ""
+Trisagion.title = variables.info_en_US_goadedes.Trisagion.title
+Trisagion.text = variables.info_en_US_goadedes.Trisagion.text
+Trisagion.pagenumber = variables.info_en_US_goadedes.Trisagion.pagenumber
 
-EpistleReading.title = "Epistle Reading"
-EpistleReading.text = "(See Variable Parts.)"
-EpistleReading.pagenumber = 
+EpistleReading.title = variables.info_en_US_goadedes.EpistleReading.title
+EpistleReading.text = variables.info_en_US_goadedes.EpistleReading.text
+EpistleReading.pagenumber = variables.info_en_US_goadedes.EpistleReading.pagenumber
 
-Alleluia.title = "Alleluia before Gospel"
-Alleluia.text = "(See Variable Parts.)"
+Alleluia.title = variables.info_en_US_goadedes.Alleluia.title
+Alleluia.text = variables.info_en_US_goadedes.Alleluia.text
 
-GospelReading.title = "Gospel Reading"
-GospelReading.text = "(See Variable Parts.)"
+GospelReading.title = variables.info_en_US_goadedes.GospelReading.title
+GospelReading.text = variables.info_en_US_goadedes.GospelReading.text
 
-GreatEntrance.title = "The Great Entrance"
-GreatEntrance.pagenumber = "12"
+GreatEntrance.title = variables.info_en_US_goadedes.GreatEntrance.title
+GreatEntrance.pagenumber = variables.info_en_US_goadedes.GreatEntrance.pagenumber
 
-Creed.title = "The Creed"
-Creed.pagenumber = "18"
+Creed.title = variables.info_en_US_goadedes.Creed.title
+Creed.pagenumber = variables.info_en_US_goadedes.Creed.pagenumber
 
-TheotokosHymn.title = "Hymn to the Theotokos"
-TheotokosHymn.text = "(See Variable Parts.)"
-TheotokosHymn.pagenumber = "23"
+TheotokosHymn.title = variables.info_en_US_goadedes.TheotokosHymn.title
+TheotokosHymn.text = variables.info_en_US_goadedes.TheotokosHymn.text
+TheotokosHymn.pagenumber = variables.info_en_US_goadedes.TheotokosHymn.pagenumber
 
-LordsPrayer.title = "The Lord's Prayer"
-LordsPrayer.pagenumber = "26"
+LordsPrayer.title = variables.info_en_US_goadedes.LordsPrayer.title
+LordsPrayer.pagenumber = variables.info_en_US_goadedes.LordsPrayer.pagenumber
 
-CommunionPrayers.title = "Communion Prayers"
-CommunionPrayers.pagenumber = "29"
-CommunionPrayers.rubric = "(Read aloud by the Congregation)"
+CommunionPrayers.title = variables.info_en_US_goadedes.CommunionPrayers.title
+CommunionPrayers.pagenumber = variables.info_en_US_goadedes.CommunionPrayers.pagenumber
+CommunionPrayers.rubric = variables.info_en_US_goadedes.CommunionPrayers.rubric
 
-CommunionHymn.title = "Communion Hymn"
-CommunionHymn.text = "(See Variable Parts.)"
-CommunionHymn.pagenumber = "29"
+CommunionHymn.title = variables.info_en_US_goadedes.CommunionHymn.title
+CommunionHymn.text = variables.info_en_US_goadedes.CommunionHymn.text
+CommunionHymn.pagenumber = variables.info_en_US_goadedes.CommunionHymn.pagenumber
 
-HolyCommunion.title = "Holy Communion:"
-HolyCommunion.rubric = "Orthodox Christians prepared to receive Holy Communion come forward quietly and reverently at the direction of the ushers."
+HolyCommunion.title = variables.info_en_US_goadedes.HolyCommunion.title
+HolyCommunion.rubric = variables.info_en_US_goadedes.HolyCommunion.rubric
 
-Thanksgiving.rubric = "Prayers of Thanksgiving after Holy Communion can be found on pages 40-42."
+Thanksgiving.rubric = variables.info_en_US_goadedes.Thanksgiving.rubric
 
-AfterCommunion.title = "Hymn after Holy Communion"
-AfterCommunion.text = "(See Variable Parts.)"
-AfterCommunion.pagenumber = "32"
+AfterCommunion.title = variables.info_en_US_goadedes.AfterCommunion.title
+AfterCommunion.text = variables.info_en_US_goadedes.AfterCommunion.text
+AfterCommunion.pagenumber = variables.info_en_US_goadedes.AfterCommunion.pagenumber
 
-Dismissal.title = "The Dismissal"
-Dismissal.text = "(See Variable Parts.)"
-Dismissal.pagenumber = "34"
+Dismissal.title = variables.info_en_US_goadedes.Dismissal.title
+Dismissal.text = variables.info_en_US_goadedes.Dismissal.text
+Dismissal.pagenumber = variables.info_en_US_goadedes.Dismissal.pagenumber
 

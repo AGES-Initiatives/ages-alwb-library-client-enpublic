@@ -39,11 +39,11 @@ dis71 = dismissals_en_US_goa.dis71
 dis88 = dismissals_en_US_goa.dis88
 dis89 = dismissals_en_US_goa.dis89
 
-dis90.text = "The following verses may be spoken antiphonally by one chanter from each of the two choirs."
-dis91 = "Accept the supplication of us sinners, O Lord Jesus Christ our God, and have mercy on us."
-dis92 = "Let Your mercy be on us, O Lord, as we have set our hope on You."
-dis93 = "Everlasting be the memory of the blessed and ever-memorable founders of this holy church."
-dis94 = "Everlasting be their memory."
+dis90.text = dismissals_en_US_dedes.dis90.text
+dis91 = dismissals_en_US_dedes.dis91
+dis92 = dismissals_en_US_dedes.dis92
+dis93 = dismissals_en_US_dedes.dis93
+dis94 = dismissals_en_US_dedes.dis94
 
 dis100 = prayers_en_US_goa.DiEfchonPateron.text
-dis101 = prayers_en_US_holycross.DiEfchonDespotou.text
+dis101 = prayers_en_US_goa.DiEfchonDespotou.text
