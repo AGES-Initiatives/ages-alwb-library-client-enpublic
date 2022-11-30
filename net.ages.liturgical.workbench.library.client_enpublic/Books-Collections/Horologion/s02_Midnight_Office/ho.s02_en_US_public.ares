@@ -10,7 +10,7 @@ hoMO.StEphraimPrayerLentenRubrics2.text = ho.s02_en_US_dedes.hoMO.StEphraimPraye
 
 hoMO.StMardariosPrayer.title = ho.s02_en_US_holycross.hoMO.StMardariosPrayer.title
 hoMO.StMardariosPrayer.text = ho.s02_en_US_holycross.hoMO.StMardariosPrayer.text
-hoMO.StMardariosPrayer.rubric = ""
+hoMO.StMardariosPrayer.rubric =
 
 hoMO.StBasilPrayer1.rubric = ho.s02_en_US_goadedes.hoMO.StBasilPrayer1.rubric
 hoMO.StBasilPrayer1.title = ho.s02_en_US_oca.hoMO.StBasilPrayer1.title

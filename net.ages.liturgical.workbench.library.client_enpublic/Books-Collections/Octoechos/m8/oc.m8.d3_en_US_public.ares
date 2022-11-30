@@ -116,7 +116,7 @@ ocMA.C1.acrostic.title = oc.m8.d3_en_US_dedes.ocMA.C1.acrostic.title
 ocMA.C1.acrostic.notice1 = oc.m8.d3_en_US_dedes.ocMA.C1.acrostic.notice1
 ocMA.C1.acrostic.text = oc.m8.d3_en_US_dedes.ocMA.C1.acrostic.text
 
-ocMA.CA.notice = ""
+ocMA.CA.notice =
 
 ocMA.OdeW1C1H.mode = oc.m8.d3_en_US_dedes.ocMA.OdeW1C1H.mode
 ocMA.OdeW1C1H.ode = oc.m8.d3_en_US_dedes.ocMA.OdeW1C1H.ode

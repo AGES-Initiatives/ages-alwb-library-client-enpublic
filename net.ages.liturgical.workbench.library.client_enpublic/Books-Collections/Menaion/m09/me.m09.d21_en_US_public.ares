@@ -19,10 +19,10 @@ meHO.commemorations = me.m09.d21_en_US_dedes.meHO.commemorations
 meHO.note1 = me.m09.d21_en_US_dedes.meHO.note1
 meHO.note2 = me.m09.d21_en_US_dedes.meHO.note2
 
-meLI.Kontakion1.mode = ""
-meLI.Kontakion1.melody = ""
+meLI.Kontakion1.mode =
+meLI.Kontakion1.melody =
 meLI.Kontakion1.incipit = "…"
-meLI.Kontakion1.text = ""
+meLI.Kontakion1.text =
 
 meLI.TheotokosHymn.mode = me.m09.d21_en_US_dedes.meLI.TheotokosHymn.mode
 meLI.TheotokosHymn.incipit = me.m09.d21_en_US_dedes.meLI.TheotokosHymn.incipit

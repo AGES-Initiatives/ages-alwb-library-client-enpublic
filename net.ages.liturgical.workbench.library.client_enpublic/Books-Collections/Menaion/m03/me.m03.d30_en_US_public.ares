@@ -330,10 +330,10 @@ meMA.Ode9C1T.melody = me.m03.d30_en_US_dedes.meMA.Ode9C1T.melody
 meMA.Ode9C1T.incipit = me.m03.d30_en_US_dedes.meMA.Ode9C1T.incipit
 meMA.Ode9C1T.text = me.m03.d30_en_US_dedes.meMA.Ode9C1T.text
 
-meLI.Kontakion1.mode = ""
-meLI.Kontakion1.melody = ""
+meLI.Kontakion1.mode =
+meLI.Kontakion1.melody =
 meLI.Kontakion1.incipit = "…"
-meLI.Kontakion1.text = ""
+meLI.Kontakion1.text =
 
 meMegalynarion.text = me.m03.d30_en_US_dedes.meMegalynarion.text
 

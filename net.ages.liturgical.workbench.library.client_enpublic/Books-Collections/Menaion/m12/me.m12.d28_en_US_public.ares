@@ -384,10 +384,10 @@ meMA.AposBoth.incipit = me.m12.d28_en_US_oca.meMA.AposBoth.incipit
 meMA.AposBoth.text = me.m12.d28_en_US_oca.meMA.AposBoth.text
 
 
-meLI.Kontakion1.mode = ""
-meLI.Kontakion1.melody = ""
+meLI.Kontakion1.mode =
+meLI.Kontakion1.melody =
 meLI.Kontakion1.incipit = "…"
-meLI.Kontakion1.text = ""
+meLI.Kontakion1.text =
 
 meMegalynarion.text = me.m12.d28_en_US_dedes.meMegalynarion.text
 

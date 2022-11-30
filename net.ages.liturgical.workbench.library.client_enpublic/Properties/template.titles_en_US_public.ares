@@ -353,5 +353,5 @@ clps.selectedverses.bottom = template.titles_en_US_dedes.clps.selectedverses.bot
 clps.typikon.top = template.titles_en_US_dedes.clps.typikon.top
 clps.typikon.bottom = template.titles_en_US_dedes.clps.typikon.bottom
 
-bmc.tag = "" //begin marked content
-emc.tag = "" //end marked content
+bmc.tag = //begin marked content
+emc.tag = //end marked content

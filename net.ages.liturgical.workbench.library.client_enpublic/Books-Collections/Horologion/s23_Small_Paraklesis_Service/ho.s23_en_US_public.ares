@@ -18,7 +18,7 @@ hoCA.Apolytikion1.incipit = ho.s23_en_US_dedes.hoCA.Apolytikion1.incipit
 hoCA.Apolytikion1.text = ho.s23_en_US_dedes.hoCA.Apolytikion1.text
 
 //Glory. Repeat
-//R04 = ""
+//R04 =
 //Both now
 
 hoCA.Apolytikion2.mode = ho.s23_en_US_dedes.hoCA.Apolytikion2.mode
@@ -27,10 +27,10 @@ hoCA.Apolytikion2.incipit = ho.s23_en_US_dedes.hoCA.Apolytikion2.incipit
 hoCA.Apolytikion2.text = ho.s23_en_US_dedes.hoCA.Apolytikion2.text
 
 //Reader
-//Ps50.title = ""
-//Ps50.text = ""
+//Ps50.title =
+//Ps50.text =
 
-//R05 = ""
+//R05 =
 
 hoCA.Ode1H.ode = ho.s23_en_US_dedes.hoCA.Ode1H.ode
 hoCA.Ode1H.mode = ho.s23_en_US_dedes.hoCA.Ode1H.mode

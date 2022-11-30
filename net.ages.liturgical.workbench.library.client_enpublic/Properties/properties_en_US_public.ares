@@ -1,19 +1,19 @@
 A_Resource_Whose_Name = properties_en_US_public
 
-version.designation = ""
+version.designation =
 version.name = "."
-version.translator = ""
+version.translator =
 
-version.notice1 = ""
+version.notice1 =
 
-version.copyright1 = ""
-version.copyright2 = ""
-version.copyright3 = ""
+version.copyright1 =
+version.copyright2 =
+version.copyright3 =
 
-contact.address_1 = ""
-contact.address_2 = ""
-contact.address_3 = ""
-contact.phone = ""
-contact.email = ""
+contact.address_1 =
+contact.address_2 =
+contact.address_3 =
+contact.phone =
+contact.email =
 
 media.key = properties_en_US_dedes.media.key

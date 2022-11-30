@@ -2,7 +2,7 @@ A_Resource_Whose_Name = ho.s03_en_US_public
 
 hoMA.title = ho.s03_en_US_dedes.hoMA.title
 hoMA.MatinsOrdinary.title = ho.s03_en_US_dedes.hoMA.MatinsOrdinary.title 
-hoMA.MatinsOrdinary.text = ""
+hoMA.MatinsOrdinary.text =
 R01 = ho.s03_en_US_dedes.R01
 R02 = ho.s03_en_US_dedes.R02
 hoMA.Troparion3.text = ho.s03_en_US_holycross.hoMA.Troparion3.text

@@ -47,7 +47,7 @@ cl.Kontakion1.text = client_en_US_goa.cl.Kontakion1.text
 
 cl.conVE.SticBoth.churchname.text = client_en_US_goa.cl.conVE.SticBoth.churchname.text
 cl.consecration.name = client_en_US_goa.cl.consecration.name
-cl.consecration.greatlitany.finalpetition.name = ""
+cl.consecration.greatlitany.finalpetition.name =
 
 cl.localpatronsaint2.supplication = client_en_US_goa.cl.localpatronsaint2.supplication
 cl.localpatronsaint2.dismissal = client_en_US_goa.cl.localpatronsaint2.dismissal

@@ -403,10 +403,10 @@ meMA.AposGlory.incipit = me.m02.d06_en_US_dedes.meMA.AposGlory.incipit
 meMA.AposGlory.text = me.m02.d06_en_US_dedes.meMA.AposGlory.text
 
 
-meLI.Kontakion1.mode = ""
-meLI.Kontakion1.melody = ""
+meLI.Kontakion1.mode =
+meLI.Kontakion1.melody =
 meLI.Kontakion1.incipit = "…"
-meLI.Kontakion1.text = ""
+meLI.Kontakion1.text =
 
 meMegalynarion.text = me.m02.d06_en_US_dedes.meMegalynarion.text
 

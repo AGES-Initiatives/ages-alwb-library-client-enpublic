@@ -315,10 +315,10 @@ meMA.ExapTheotokion.melody = me.m10.d05_en_US_dedes.meMA.ExapTheotokion.melody
 meMA.ExapTheotokion.incipit = me.m10.d05_en_US_dedes.meMA.ExapTheotokion.incipit
 meMA.ExapTheotokion.text = me.m10.d05_en_US_dedes.meMA.ExapTheotokion.text
 
-meLI.Kontakion1.mode = ""
-meLI.Kontakion1.melody = ""
+meLI.Kontakion1.mode =
+meLI.Kontakion1.melody =
 meLI.Kontakion1.incipit = "…"
-meLI.Kontakion1.text = ""
+meLI.Kontakion1.text =
 
 meMegalynarion.text = me.m10.d05_en_US_dedes.meMegalynarion.text
 
