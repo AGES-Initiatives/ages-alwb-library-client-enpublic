@@ -251,7 +251,7 @@ euSWB.R602 = eu.smallwaterblessing_en_US_dedes.euSWB.R602
 
 euSWB.R603 = eu.smallwaterblessing_en_US_dedes.euSWB.R603
 
-euSWB.Key0602.mode = misc_en_US_dedes.Mode2
+euSWB.Key0602.mode = eu.smallwaterblessing_en_US_dedes.euSWB.Key0602.mode
 euSWB.Key0602.text = eu.smallwaterblessing_en_US_dedes.euSWB.Key0602.text
 
 euSWB.R604 = eu.smallwaterblessing_en_US_dedes.euSWB.R604
