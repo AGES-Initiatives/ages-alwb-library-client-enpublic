@@ -5,7 +5,7 @@ euUNC.translator = eu.unction_en_US_dedes.euUNC.translator
 
 euUNC.R101 = eu.unction_en_US_dedes.euUNC.R101
 euUNC.Key0100.mode = eu.unction_en_US_dedes.euUNC.Key0100.mode
-euUNC.Key0100.text = prayers_en_US_holycross.Allilouia3.text
+euUNC.Key0100.text = prayers_en_US_holycross.pr.Alleluia3.text
 
 euUNC.Key0103.text = eu.unction_en_US_dedes.euUNC.Key0103.text
 euUNC.Key0104.text = eu.unction_en_US_dedes.euUNC.Key0104.text
@@ -188,7 +188,7 @@ euUNC.Ode9T.ode = eu.unction_en_US_dedes.euUNC.Ode9T.ode
 euUNC.Ode9T.melody = eu.unction_en_US_dedes.euUNC.Ode9T.melody
 euUNC.Ode9T.text = eu.unction_en_US_dedes.euUNC.Ode9T.text
 
-euUNC.Ode9End.text = prayers_en_US_public.AxionEstinComplete.text
+euUNC.Ode9End.text = prayers_en_US_public.pr.ItIsTrulyRight_complete.text
 
 euUNC.Exaposteilarion.mode = eu.unction_en_US_dedes.euUNC.Exaposteilarion.mode
 euUNC.Exaposteilarion.melody = eu.unction_en_US_dedes.euUNC.Exaposteilarion.melody
@@ -232,21 +232,21 @@ euUNC.Key0212.title = eu.unction_en_US_dedes.euUNC.Key0212.title
 euUNC.Key0300.title = eu.unction_en_US_dedes.euUNC.Key0300.title
 euUNC.Key0301.text = eu.unction_en_US_dedes.euUNC.Key0301.text
 euUNC.Key0302.text = eu.unction_en_US_dedes.euUNC.Key0302.text
-euUNC.Key0303.text = prayers_en_US_holycross.exc13
+euUNC.Key0303.text = prayers_en_US_holycross.pr.exc13.text
 euUNC.Key0304.text = eu.unction_en_US_dedes.euUNC.Key0304.text
 euUNC.Key0305.text = eu.unction_en_US_dedes.euUNC.Key0305.text
 
 euUNC.Key0400.title = eu.unction_en_US_dedes.euUNC.Key0400.title
 euUNC.Key0401.text = eu.unction_en_US_dedes.euUNC.Key0401.text
-euUNC.Key0402.text = prayers_en_US_holycross.exc07a
+euUNC.Key0402.text = prayers_en_US_holycross.pr.exc07a.text
 
 euUNC.Key0500.title = eu.unction_en_US_dedes.euUNC.Key0500.title
 euUNC.Key0501.text = eu.unction_en_US_dedes.euUNC.Key0501.text
-euUNC.Key0502.text = prayers_en_US_holycross.exc13
+euUNC.Key0502.text = prayers_en_US_holycross.pr.exc13.text
 
 euUNC.Key0600.title = eu.unction_en_US_dedes.euUNC.Key0600.title
 euUNC.Key0601.text = eu.unction_en_US_dedes.euUNC.Key0601.text
-euUNC.Key0602.text = prayers_en_US_holycross.exc13
+euUNC.Key0602.text = prayers_en_US_holycross.pr.exc13.text
 
 euUNC.Key0700.title = eu.unction_en_US_dedes.euUNC.Key0700.title
 euUNC.Key0701.text = eu.unction_en_US_dedes.euUNC.Key0701.text
