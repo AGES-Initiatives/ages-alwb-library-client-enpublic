@@ -1,27 +1,27 @@
 A_Resource_Whose_Name = he.a.m5_en_US_public
 
-he.title = he.a.m5_en_US_dedes.he.title
+heAU.title = he.a.m5_en_US_dedes.heAU.title
 
-ChairoisAskitikon.mode = he.a.m5_en_US_dedes.ChairoisAskitikon.mode
-ChairoisAskitikon.notmetered = he.a.m5_en_US_dedes.ChairoisAskitikon.notmetered
-ChairoisAskitikon.name = he.a.m5_en_US_dedes.ChairoisAskitikon.name
-ChairoisAskitikon.incipit = he.a.m5_en_US_dedes.ChairoisAskitikon.incipit
-ChairoisAskitikon.text = he.a.m5_en_US_dedes.ChairoisAskitikon.text
+heAU.ChairoisAskitikon.mode = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.mode
+heAU.ChairoisAskitikon.notmetered = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.notmetered
+heAU.ChairoisAskitikon.name = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.name
+heAU.ChairoisAskitikon.incipit = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.incipit
+heAU.ChairoisAskitikon.text = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.text
 
-LampeiSimeron.mode = he.a.m5_en_US_dedes.LampeiSimeron.mode
-LampeiSimeron.notmetered = he.a.m5_en_US_dedes.LampeiSimeron.notmetered
-LampeiSimeron.name = he.a.m5_en_US_dedes.LampeiSimeron.name
-LampeiSimeron.incipit = he.a.m5_en_US_dedes.LampeiSimeron.incipit
-LampeiSimeron.text = he.a.m5_en_US_dedes.LampeiSimeron.text
+heAU.LampeiSimeron.mode = he.a.m5_en_US_dedes.heAU.LampeiSimeron.mode
+heAU.LampeiSimeron.notmetered = he.a.m5_en_US_dedes.heAU.LampeiSimeron.notmetered
+heAU.LampeiSimeron.name = he.a.m5_en_US_dedes.heAU.LampeiSimeron.name
+heAU.LampeiSimeron.incipit = he.a.m5_en_US_dedes.heAU.LampeiSimeron.incipit
+heAU.LampeiSimeron.text = he.a.m5_en_US_dedes.heAU.LampeiSimeron.text
 
-OsiePater.mode = he.a.m5_en_US_dedes.OsiePater.mode
-OsiePater.notmetered = he.a.m5_en_US_dedes.OsiePater.notmetered
-OsiePater.name = he.a.m5_en_US_dedes.OsiePater.name
-OsiePater.incipit = he.a.m5_en_US_dedes.OsiePater.incipit
-OsiePater.text = he.a.m5_en_US_dedes.OsiePater.text
+heAU.OsiePater.mode = he.a.m5_en_US_dedes.heAU.OsiePater.mode
+heAU.OsiePater.notmetered = he.a.m5_en_US_dedes.heAU.OsiePater.notmetered
+heAU.OsiePater.name = he.a.m5_en_US_dedes.heAU.OsiePater.name
+heAU.OsiePater.incipit = he.a.m5_en_US_dedes.heAU.OsiePater.incipit
+heAU.OsiePater.text = he.a.m5_en_US_dedes.heAU.OsiePater.text
 
-TonSynanarchonLogon.mode = he.a.m5_en_US_dedes.TonSynanarchonLogon.mode
-TonSynanarchonLogon.notmetered = he.a.m5_en_US_dedes.TonSynanarchonLogon.notmetered
-TonSynanarchonLogon.name = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
-TonSynanarchonLogon.incipit = he.a.m5_en_US_dedes.TonSynanarchonLogon.incipit
-TonSynanarchonLogon.text = he.a.m5_en_US_dedes.TonSynanarchonLogon.text
+heAU.TonSynanarchonLogon.mode = he.a.m5_en_US_dedes.heAU.TonSynanarchonLogon.mode
+heAU.TonSynanarchonLogon.notmetered = he.a.m5_en_US_dedes.heAU.TonSynanarchonLogon.notmetered
+heAU.TonSynanarchonLogon.name = he.a.m5_en_US_dedes.heAU.TonSynanarchonLogon.name
+heAU.TonSynanarchonLogon.incipit = he.a.m5_en_US_dedes.heAU.TonSynanarchonLogon.incipit
+heAU.TonSynanarchonLogon.text = he.a.m5_en_US_dedes.heAU.TonSynanarchonLogon.text

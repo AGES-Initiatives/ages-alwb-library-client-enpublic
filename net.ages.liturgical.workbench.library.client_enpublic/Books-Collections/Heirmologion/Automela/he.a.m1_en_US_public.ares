@@ -1,57 +1,57 @@
 A_Resource_Whose_Name = he.a.m1_en_US_public
 
-he.title = he.a.m1_en_US_dedes.he.title
+heAU.title = he.a.m1_en_US_dedes.heAU.title
 
-ChorosAngelikos.mode = he.a.m1_en_US_dedes.ChorosAngelikos.mode
-ChorosAngelikos.notmetered = he.a.m1_en_US_dedes.ChorosAngelikos.notmetered
-ChorosAngelikos.name = he.a.m1_en_US_dedes.ChorosAngelikos.name
-ChorosAngelikos.incipit = he.a.m1_en_US_dedes.ChorosAngelikos.incipit
-ChorosAngelikos.text = he.a.m1_en_US_dedes.ChorosAngelikos.text
+heAU.ChorosAngelikos.mode = he.a.m1_en_US_dedes.heAU.ChorosAngelikos.mode
+heAU.ChorosAngelikos.notmetered = he.a.m1_en_US_dedes.heAU.ChorosAngelikos.notmetered
+heAU.ChorosAngelikos.name = he.a.m1_en_US_dedes.heAU.ChorosAngelikos.name
+heAU.ChorosAngelikos.incipit = he.a.m1_en_US_dedes.heAU.ChorosAngelikos.incipit
+heAU.ChorosAngelikos.text = he.a.m1_en_US_dedes.heAU.ChorosAngelikos.text
 
-NefelinSeFotos.mode = he.a.m1_en_US_dedes.NefelinSeFotos.mode
-NefelinSeFotos.notmetered = he.a.m1_en_US_dedes.NefelinSeFotos.notmetered
-NefelinSeFotos.name = he.a.m1_en_US_dedes.NefelinSeFotos.name
-NefelinSeFotos.incipit = he.a.m1_en_US_dedes.NefelinSeFotos.incipit
-NefelinSeFotos.text = he.a.m1_en_US_dedes.NefelinSeFotos.text
+heAU.NefelinSeFotos.mode = he.a.m1_en_US_dedes.heAU.NefelinSeFotos.mode
+heAU.NefelinSeFotos.notmetered = he.a.m1_en_US_dedes.heAU.NefelinSeFotos.notmetered
+heAU.NefelinSeFotos.name = he.a.m1_en_US_dedes.heAU.NefelinSeFotos.name
+heAU.NefelinSeFotos.incipit = he.a.m1_en_US_dedes.heAU.NefelinSeFotos.incipit
+heAU.NefelinSeFotos.text = he.a.m1_en_US_dedes.heAU.NefelinSeFotos.text
 
-OTouParadoxouThavmatos.mode = he.a.m1_en_US_dedes.OTouParadoxouThavmatos.mode
-OTouParadoxouThavmatos.notmetered = he.a.m1_en_US_dedes.OTouParadoxouThavmatos.notmetered
-OTouParadoxouThavmatos.name = he.a.m1_en_US_dedes.OTouParadoxouThavmatos.name
-OTouParadoxouThavmatos.incipit = he.a.m1_en_US_dedes.OTouParadoxouThavmatos.incipit
-OTouParadoxouThavmatos.text = he.a.m1_en_US_dedes.OTouParadoxouThavmatos.text
+heAU.OTouParadoxouThavmatos.mode = he.a.m1_en_US_dedes.heAU.OTouParadoxouThavmatos.mode
+heAU.OTouParadoxouThavmatos.notmetered = he.a.m1_en_US_dedes.heAU.OTouParadoxouThavmatos.notmetered
+heAU.OTouParadoxouThavmatos.name = he.a.m1_en_US_dedes.heAU.OTouParadoxouThavmatos.name
+heAU.OTouParadoxouThavmatos.incipit = he.a.m1_en_US_dedes.heAU.OTouParadoxouThavmatos.incipit
+heAU.OTouParadoxouThavmatos.text = he.a.m1_en_US_dedes.heAU.OTouParadoxouThavmatos.text
 
-OtanElthisOTheos.mode = he.a.m1_en_US_dedes.OtanElthisOTheos.mode
-OtanElthisOTheos.notmetered = he.a.m1_en_US_dedes.OtanElthisOTheos.notmetered
-OtanElthisOTheos.name = he.a.m1_en_US_dedes.OtanElthisOTheos.name
-OtanElthisOTheos.incipit = he.a.m1_en_US_dedes.OtanElthisOTheos.incipit
-OtanElthisOTheos.text = he.a.m1_en_US_dedes.OtanElthisOTheos.text
+heAU.OtanElthisOTheos.mode = he.a.m1_en_US_dedes.heAU.OtanElthisOTheos.mode
+heAU.OtanElthisOTheos.notmetered = he.a.m1_en_US_dedes.heAU.OtanElthisOTheos.notmetered
+heAU.OtanElthisOTheos.name = he.a.m1_en_US_dedes.heAU.OtanElthisOTheos.name
+heAU.OtanElthisOTheos.incipit = he.a.m1_en_US_dedes.heAU.OtanElthisOTheos.incipit
+heAU.OtanElthisOTheos.text = he.a.m1_en_US_dedes.heAU.OtanElthisOTheos.text
 
-PaneffimoiMartyres.mode = he.a.m1_en_US_dedes.PaneffimoiMartyres.mode
-PaneffimoiMartyres.notmetered = he.a.m1_en_US_dedes.PaneffimoiMartyres.notmetered
-PaneffimoiMartyres.name = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
-PaneffimoiMartyres.incipit = he.a.m1_en_US_dedes.PaneffimoiMartyres.incipit
-PaneffimoiMartyres.text = he.a.m1_en_US_dedes.PaneffimoiMartyres.text
+heAU.PaneffimoiMartyres.mode = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.mode
+heAU.PaneffimoiMartyres.notmetered = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.notmetered
+heAU.PaneffimoiMartyres.name = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.name
+heAU.PaneffimoiMartyres.incipit = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.incipit
+heAU.PaneffimoiMartyres.text = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.text
 
-TisErimouPolitis.mode = he.a.m1_en_US_dedes.TisErimouPolitis.mode
-TisErimouPolitis.notmetered = he.a.m1_en_US_dedes.TisErimouPolitis.notmetered
-TisErimouPolitis.name = he.a.m1_en_US_dedes.TisErimouPolitis.name
-TisErimouPolitis.incipit = he.a.m1_en_US_dedes.TisErimouPolitis.incipit
-TisErimouPolitis.text = he.a.m1_en_US_dedes.TisErimouPolitis.text
+heAU.TisErimouPolitis.mode = he.a.m1_en_US_dedes.heAU.TisErimouPolitis.mode
+heAU.TisErimouPolitis.notmetered = he.a.m1_en_US_dedes.heAU.TisErimouPolitis.notmetered
+heAU.TisErimouPolitis.name = he.a.m1_en_US_dedes.heAU.TisErimouPolitis.name
+heAU.TisErimouPolitis.incipit = he.a.m1_en_US_dedes.heAU.TisErimouPolitis.incipit
+heAU.TisErimouPolitis.text = he.a.m1_en_US_dedes.heAU.TisErimouPolitis.text
 
-TonOuranionTagmaton.mode = he.a.m1_en_US_dedes.TonOuranionTagmaton.mode
-TonOuranionTagmaton.notmetered = he.a.m1_en_US_dedes.TonOuranionTagmaton.notmetered
-TonOuranionTagmaton.name = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-TonOuranionTagmaton.incipit = he.a.m1_en_US_dedes.TonOuranionTagmaton.incipit
-TonOuranionTagmaton.text = he.a.m1_en_US_dedes.TonOuranionTagmaton.text
+heAU.TonOuranionTagmaton.mode = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.mode
+heAU.TonOuranionTagmaton.notmetered = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.notmetered
+heAU.TonOuranionTagmaton.name = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.name
+heAU.TonOuranionTagmaton.incipit = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.incipit
+heAU.TonOuranionTagmaton.text = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.text
 
-TonTafonSouSotir.mode = he.a.m1_en_US_dedes.TonTafonSouSotir.mode
-TonTafonSouSotir.notmetered = he.a.m1_en_US_dedes.TonTafonSouSotir.notmetered
-TonTafonSouSotir.name = he.a.m1_en_US_dedes.TonTafonSouSotir.name
-TonTafonSouSotir.incipit = he.a.m1_en_US_dedes.TonTafonSouSotir.incipit
-TonTafonSouSotir.text = he.a.m1_en_US_dedes.TonTafonSouSotir.text
+heAU.TonTafonSouSotir.mode = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.mode
+heAU.TonTafonSouSotir.notmetered = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.notmetered
+heAU.TonTafonSouSotir.name = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name
+heAU.TonTafonSouSotir.incipit = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.incipit
+heAU.TonTafonSouSotir.text = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.text
 
-TouLithouSfragisthentos.mode = he.a.m1_en_US_dedes.TouLithouSfragisthentos.mode
-TouLithouSfragisthentos.notmetered = he.a.m1_en_US_dedes.TouLithouSfragisthentos.notmetered
-TouLithouSfragisthentos.name = he.a.m1_en_US_dedes.TouLithouSfragisthentos.name
-TouLithouSfragisthentos.incipit = he.a.m1_en_US_dedes.TouLithouSfragisthentos.incipit
-TouLithouSfragisthentos.text = he.a.m1_en_US_dedes.TouLithouSfragisthentos.text
+heAU.TouLithouSfragisthentos.mode = he.a.m1_en_US_dedes.heAU.TouLithouSfragisthentos.mode
+heAU.TouLithouSfragisthentos.notmetered = he.a.m1_en_US_dedes.heAU.TouLithouSfragisthentos.notmetered
+heAU.TouLithouSfragisthentos.name = he.a.m1_en_US_dedes.heAU.TouLithouSfragisthentos.name
+heAU.TouLithouSfragisthentos.incipit = he.a.m1_en_US_dedes.heAU.TouLithouSfragisthentos.incipit
+heAU.TouLithouSfragisthentos.text = he.a.m1_en_US_dedes.heAU.TouLithouSfragisthentos.text

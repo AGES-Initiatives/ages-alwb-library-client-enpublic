@@ -1,97 +1,97 @@
 A_Resource_Whose_Name = he.a.m3_en_US_public
 
-he.title = he.a.m3_en_US_dedes.he.title
+heAU.title = he.a.m3_en_US_dedes.heAU.title
 
-ApostoloiEkPeraton.mode = 
-ApostoloiEkPeraton.incipit = "…"
-ApostoloiEkPeraton.text =
+heAU.ApostoloiEkPeraton.mode = 
+heAU.ApostoloiEkPeraton.incipit = "…"
+heAU.ApostoloiEkPeraton.text =
 
-EnPnevmatiToIero.mode = he.a.m3_en_US_dedes.EnPnevmatiToIero.mode
-EnPnevmatiToIero.notmetered = he.a.m3_en_US_dedes.EnPnevmatiToIero.notmetered
-EnPnevmatiToIero.name = he.a.m3_en_US_dedes.EnPnevmatiToIero.name
-EnPnevmatiToIero.incipit = he.a.m3_en_US_dedes.EnPnevmatiToIero.incipit
-EnPnevmatiToIero.text = he.a.m3_en_US_dedes.EnPnevmatiToIero.text
+heAU.EnPnevmatiToIero.mode = he.a.m3_en_US_dedes.heAU.EnPnevmatiToIero.mode
+heAU.EnPnevmatiToIero.notmetered = he.a.m3_en_US_dedes.heAU.EnPnevmatiToIero.notmetered
+heAU.EnPnevmatiToIero.name = he.a.m3_en_US_dedes.heAU.EnPnevmatiToIero.name
+heAU.EnPnevmatiToIero.incipit = he.a.m3_en_US_dedes.heAU.EnPnevmatiToIero.incipit
+heAU.EnPnevmatiToIero.text = he.a.m3_en_US_dedes.heAU.EnPnevmatiToIero.text
 
-EpefaniOSotir.mode = he.a.m3_en_US_dedes.EpefaniOSotir.mode
-EpefaniOSotir.notmetered = he.a.m3_en_US_dedes.EpefaniOSotir.notmetered
-EpefaniOSotir.name = he.a.m3_en_US_dedes.EpefaniOSotir.name
-EpefaniOSotir.incipit = he.a.m3_en_US_dedes.EpefaniOSotir.incipit
-EpefaniOSotir.text = he.a.m3_en_US_dedes.EpefaniOSotir.text
+heAU.EpefaniOSotir.mode = he.a.m3_en_US_dedes.heAU.EpefaniOSotir.mode
+heAU.EpefaniOSotir.notmetered = he.a.m3_en_US_dedes.heAU.EpefaniOSotir.notmetered
+heAU.EpefaniOSotir.name = he.a.m3_en_US_dedes.heAU.EpefaniOSotir.name
+heAU.EpefaniOSotir.incipit = he.a.m3_en_US_dedes.heAU.EpefaniOSotir.incipit
+heAU.EpefaniOSotir.text = he.a.m3_en_US_dedes.heAU.EpefaniOSotir.text
 
-EpeskepsatoImas.mode = he.a.m3_en_US_dedes.EpeskepsatoImas.mode
-EpeskepsatoImas.notmetered = he.a.m3_en_US_dedes.EpeskepsatoImas.notmetered
-EpeskepsatoImas.name = he.a.m3_en_US_dedes.EpeskepsatoImas.name
-EpeskepsatoImas.incipit = he.a.m3_en_US_dedes.EpeskepsatoImas.incipit
-EpeskepsatoImas.text = he.a.m3_en_US_dedes.EpeskepsatoImas.text
+heAU.EpeskepsatoImas.mode = he.a.m3_en_US_dedes.heAU.EpeskepsatoImas.mode
+heAU.EpeskepsatoImas.notmetered = he.a.m3_en_US_dedes.heAU.EpeskepsatoImas.notmetered
+heAU.EpeskepsatoImas.name = he.a.m3_en_US_dedes.heAU.EpeskepsatoImas.name
+heAU.EpeskepsatoImas.incipit = he.a.m3_en_US_dedes.heAU.EpeskepsatoImas.incipit
+heAU.EpeskepsatoImas.text = he.a.m3_en_US_dedes.heAU.EpeskepsatoImas.text
 
-FosAnalloioton.mode = he.a.m3_en_US_dedes.FosAnalloioton.mode
-FosAnalloioton.notmetered = he.a.m3_en_US_dedes.FosAnalloioton.notmetered
-FosAnalloioton.name = he.a.m3_en_US_dedes.FosAnalloioton.name
-FosAnalloioton.incipit = he.a.m3_en_US_dedes.FosAnalloioton.incipit
-FosAnalloioton.text = he.a.m3_en_US_dedes.FosAnalloioton.text
+heAU.FosAnalloioton.mode = he.a.m3_en_US_dedes.heAU.FosAnalloioton.mode
+heAU.FosAnalloioton.notmetered = he.a.m3_en_US_dedes.heAU.FosAnalloioton.notmetered
+heAU.FosAnalloioton.name = he.a.m3_en_US_dedes.heAU.FosAnalloioton.name
+heAU.FosAnalloioton.incipit = he.a.m3_en_US_dedes.heAU.FosAnalloioton.incipit
+heAU.FosAnalloioton.text = he.a.m3_en_US_dedes.heAU.FosAnalloioton.text
 
-IParthenosSimeron.mode = he.a.m3_en_US_dedes.IParthenosSimeron.mode
-IParthenosSimeron.notmetered = he.a.m3_en_US_dedes.IParthenosSimeron.notmetered
-IParthenosSimeron.name = he.a.m3_en_US_dedes.IParthenosSimeron.name
-IParthenosSimeron.incipit = he.a.m3_en_US_dedes.IParthenosSimeron.incipit
-IParthenosSimeron.text = he.a.m3_en_US_dedes.IParthenosSimeron.text
+heAU.IParthenosSimeron.mode = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.mode
+heAU.IParthenosSimeron.notmetered = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.notmetered
+heAU.IParthenosSimeron.name = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.name
+heAU.IParthenosSimeron.incipit = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.incipit
+heAU.IParthenosSimeron.text = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.text
 
-MegaliTonMartyronSou.mode = he.a.m3_en_US_dedes.MegaliTonMartyronSou.mode
-MegaliTonMartyronSou.notmetered = he.a.m3_en_US_dedes.MegaliTonMartyronSou.notmetered
-MegaliTonMartyronSou.name = he.a.m3_en_US_dedes.MegaliTonMartyronSou.name
-MegaliTonMartyronSou.incipit = he.a.m3_en_US_dedes.MegaliTonMartyronSou.incipit
-MegaliTonMartyronSou.text = he.a.m3_en_US_dedes.MegaliTonMartyronSou.text
+heAU.MegaliTonMartyronSou.mode = he.a.m3_en_US_dedes.heAU.MegaliTonMartyronSou.mode
+heAU.MegaliTonMartyronSou.notmetered = he.a.m3_en_US_dedes.heAU.MegaliTonMartyronSou.notmetered
+heAU.MegaliTonMartyronSou.name = he.a.m3_en_US_dedes.heAU.MegaliTonMartyronSou.name
+heAU.MegaliTonMartyronSou.incipit = he.a.m3_en_US_dedes.heAU.MegaliTonMartyronSou.incipit
+heAU.MegaliTonMartyronSou.text = he.a.m3_en_US_dedes.heAU.MegaliTonMartyronSou.text
 
-MegaliTouStavrouSou.mode = he.a.m3_en_US_dedes.MegaliTouStavrouSou.mode
-MegaliTouStavrouSou.notmetered = he.a.m3_en_US_dedes.MegaliTouStavrouSou.notmetered
-MegaliTouStavrouSou.name = he.a.m3_en_US_dedes.MegaliTouStavrouSou.name
-MegaliTouStavrouSou.incipit = he.a.m3_en_US_dedes.MegaliTouStavrouSou.incipit
-MegaliTouStavrouSou.text = he.a.m3_en_US_dedes.MegaliTouStavrouSou.text
+heAU.MegaliTouStavrouSou.mode = he.a.m3_en_US_dedes.heAU.MegaliTouStavrouSou.mode
+heAU.MegaliTouStavrouSou.notmetered = he.a.m3_en_US_dedes.heAU.MegaliTouStavrouSou.notmetered
+heAU.MegaliTouStavrouSou.name = he.a.m3_en_US_dedes.heAU.MegaliTouStavrouSou.name
+heAU.MegaliTouStavrouSou.incipit = he.a.m3_en_US_dedes.heAU.MegaliTouStavrouSou.incipit
+heAU.MegaliTouStavrouSou.text = he.a.m3_en_US_dedes.heAU.MegaliTouStavrouSou.text
 
-OOuranonToisAstrois.mode = he.a.m3_en_US_dedes.OOuranonToisAstrois.mode
-OOuranonToisAstrois.notmetered = he.a.m3_en_US_dedes.OOuranonToisAstrois.notmetered
-OOuranonToisAstrois.name = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
-OOuranonToisAstrois.incipit = he.a.m3_en_US_dedes.OOuranonToisAstrois.incipit
-OOuranonToisAstrois.text = he.a.m3_en_US_dedes.OOuranonToisAstrois.text
+heAU.OOuranonToisAstrois.mode = he.a.m3_en_US_dedes.heAU.OOuranonToisAstrois.mode
+heAU.OOuranonToisAstrois.notmetered = he.a.m3_en_US_dedes.heAU.OOuranonToisAstrois.notmetered
+heAU.OOuranonToisAstrois.name = he.a.m3_en_US_dedes.heAU.OOuranonToisAstrois.name
+heAU.OOuranonToisAstrois.incipit = he.a.m3_en_US_dedes.heAU.OOuranonToisAstrois.incipit
+heAU.OOuranonToisAstrois.text = he.a.m3_en_US_dedes.heAU.OOuranonToisAstrois.text
 
-SosonMeKyrie.mode = he.a.m3_en_US_dedes.SosonMeKyrie.mode
-SosonMeKyrie.notmetered = he.a.m3_en_US_dedes.SosonMeKyrie.notmetered
-SosonMeKyrie.name = he.a.m3_en_US_dedes.SosonMeKyrie.name
-SosonMeKyrie.incipit = he.a.m3_en_US_dedes.SosonMeKyrie.incipit
-SosonMeKyrie.text = he.a.m3_en_US_dedes.SosonMeKyrie.text
+heAU.SosonMeKyrie.mode = he.a.m3_en_US_dedes.heAU.SosonMeKyrie.mode
+heAU.SosonMeKyrie.notmetered = he.a.m3_en_US_dedes.heAU.SosonMeKyrie.notmetered
+heAU.SosonMeKyrie.name = he.a.m3_en_US_dedes.heAU.SosonMeKyrie.name
+heAU.SosonMeKyrie.incipit = he.a.m3_en_US_dedes.heAU.SosonMeKyrie.incipit
+heAU.SosonMeKyrie.text = he.a.m3_en_US_dedes.heAU.SosonMeKyrie.text
 
-StavrofanosMoysis.mode = he.a.m3_en_US_dedes.StavrofanosMoysis.mode
-StavrofanosMoysis.notmetered = he.a.m3_en_US_dedes.StavrofanosMoysis.notmetered
-StavrofanosMoysis.name = he.a.m3_en_US_dedes.StavrofanosMoysis.name
-StavrofanosMoysis.incipit = he.a.m3_en_US_dedes.StavrofanosMoysis.incipit
-StavrofanosMoysis.text = he.a.m3_en_US_dedes.StavrofanosMoysis.text
+heAU.StavrofanosMoysis.mode = he.a.m3_en_US_dedes.heAU.StavrofanosMoysis.mode
+heAU.StavrofanosMoysis.notmetered = he.a.m3_en_US_dedes.heAU.StavrofanosMoysis.notmetered
+heAU.StavrofanosMoysis.name = he.a.m3_en_US_dedes.heAU.StavrofanosMoysis.name
+heAU.StavrofanosMoysis.incipit = he.a.m3_en_US_dedes.heAU.StavrofanosMoysis.incipit
+heAU.StavrofanosMoysis.text = he.a.m3_en_US_dedes.heAU.StavrofanosMoysis.text
 
-TheiasPisteos.mode = he.a.m3_en_US_dedes.TheiasPisteos.mode
-TheiasPisteos.notmetered = he.a.m3_en_US_dedes.TheiasPisteos.notmetered
-TheiasPisteos.name = he.a.m3_en_US_dedes.TheiasPisteos.name
-TheiasPisteos.incipit = he.a.m3_en_US_dedes.TheiasPisteos.incipit
-TheiasPisteos.text = he.a.m3_en_US_dedes.TheiasPisteos.text
+heAU.TheiasPisteos.mode = he.a.m3_en_US_dedes.heAU.TheiasPisteos.mode
+heAU.TheiasPisteos.notmetered = he.a.m3_en_US_dedes.heAU.TheiasPisteos.notmetered
+heAU.TheiasPisteos.name = he.a.m3_en_US_dedes.heAU.TheiasPisteos.name
+heAU.TheiasPisteos.incipit = he.a.m3_en_US_dedes.heAU.TheiasPisteos.incipit
+heAU.TheiasPisteos.text = he.a.m3_en_US_dedes.heAU.TheiasPisteos.text
 
-TinOraiotita.mode = he.a.m3_en_US_dedes.TinOraiotita.mode
-TinOraiotita.notmetered = he.a.m3_en_US_dedes.TinOraiotita.notmetered
-TinOraiotita.name = he.a.m3_en_US_dedes.TinOraiotita.name
-TinOraiotita.incipit = he.a.m3_en_US_dedes.TinOraiotita.incipit
-TinOraiotita.text = he.a.m3_en_US_dedes.TinOraiotita.text
+heAU.TinOraiotita.mode = he.a.m3_en_US_dedes.heAU.TinOraiotita.mode
+heAU.TinOraiotita.notmetered = he.a.m3_en_US_dedes.heAU.TinOraiotita.notmetered
+heAU.TinOraiotita.name = he.a.m3_en_US_dedes.heAU.TinOraiotita.name
+heAU.TinOraiotita.incipit = he.a.m3_en_US_dedes.heAU.TinOraiotita.incipit
+heAU.TinOraiotita.text = he.a.m3_en_US_dedes.heAU.TinOraiotita.text
 
-ToTypoTouStavrou.mode = he.a.m3_en_US_dedes.ToTypoTouStavrou.mode
-ToTypoTouStavrou.notmetered = he.a.m3_en_US_dedes.ToTypoTouStavrou.notmetered
-ToTypoTouStavrou.name = he.a.m3_en_US_dedes.ToTypoTouStavrou.name
-ToTypoTouStavrou.incipit = he.a.m3_en_US_dedes.ToTypoTouStavrou.incipit
-ToTypoTouStavrou.text = he.a.m3_en_US_dedes.ToTypoTouStavrou.text
+heAU.ToTypoTouStavrou.mode = he.a.m3_en_US_dedes.heAU.ToTypoTouStavrou.mode
+heAU.ToTypoTouStavrou.notmetered = he.a.m3_en_US_dedes.heAU.ToTypoTouStavrou.notmetered
+heAU.ToTypoTouStavrou.name = he.a.m3_en_US_dedes.heAU.ToTypoTouStavrou.name
+heAU.ToTypoTouStavrou.incipit = he.a.m3_en_US_dedes.heAU.ToTypoTouStavrou.incipit
+heAU.ToTypoTouStavrou.text = he.a.m3_en_US_dedes.heAU.ToTypoTouStavrou.text
 
-TonListinAfthimeron.mode = he.a.m3_en_US_dedes.TonListinAfthimeron.mode
-TonListinAfthimeron.notmetered = he.a.m3_en_US_dedes.TonListinAfthimeron.notmetered
-TonListinAfthimeron.name = he.a.m3_en_US_dedes.TonListinAfthimeron.name
-TonListinAfthimeron.incipit = he.a.m3_en_US_dedes.TonListinAfthimeron.incipit
-TonListinAfthimeron.text = he.a.m3_en_US_dedes.TonListinAfthimeron.text
+heAU.TonListinAfthimeron.mode = he.a.m3_en_US_dedes.heAU.TonListinAfthimeron.mode
+heAU.TonListinAfthimeron.notmetered = he.a.m3_en_US_dedes.heAU.TonListinAfthimeron.notmetered
+heAU.TonListinAfthimeron.name = he.a.m3_en_US_dedes.heAU.TonListinAfthimeron.name
+heAU.TonListinAfthimeron.incipit = he.a.m3_en_US_dedes.heAU.TonListinAfthimeron.incipit
+heAU.TonListinAfthimeron.text = he.a.m3_en_US_dedes.heAU.TonListinAfthimeron.text
 
-TonNymfonaSouVlepo.mode = he.a.m3_en_US_dedes.TonNymfonaSouVlepo.mode
-TonNymfonaSouVlepo.notmetered = he.a.m3_en_US_dedes.TonNymfonaSouVlepo.notmetered
-TonNymfonaSouVlepo.name = he.a.m3_en_US_dedes.TonNymfonaSouVlepo.name
-TonNymfonaSouVlepo.incipit = he.a.m3_en_US_dedes.TonNymfonaSouVlepo.incipit
-TonNymfonaSouVlepo.text = he.a.m3_en_US_dedes.TonNymfonaSouVlepo.text
+heAU.TonNymfonaSouVlepo.mode = he.a.m3_en_US_dedes.heAU.TonNymfonaSouVlepo.mode
+heAU.TonNymfonaSouVlepo.notmetered = he.a.m3_en_US_dedes.heAU.TonNymfonaSouVlepo.notmetered
+heAU.TonNymfonaSouVlepo.name = he.a.m3_en_US_dedes.heAU.TonNymfonaSouVlepo.name
+heAU.TonNymfonaSouVlepo.incipit = he.a.m3_en_US_dedes.heAU.TonNymfonaSouVlepo.incipit
+heAU.TonNymfonaSouVlepo.text = he.a.m3_en_US_dedes.heAU.TonNymfonaSouVlepo.text
