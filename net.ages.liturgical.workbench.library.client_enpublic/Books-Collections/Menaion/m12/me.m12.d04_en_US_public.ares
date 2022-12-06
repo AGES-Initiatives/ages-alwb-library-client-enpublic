@@ -104,11 +104,11 @@ meVE.GeneralApolytikion2.melody = me.m12.d04_en_US_dedes.meVE.GeneralApolytikion
 meVE.GeneralApolytikion2.name = me.m12.d04_en_US_dedes.meVE.GeneralApolytikion2.name
 meVE.MM.GeneralApolytikion2.text = me.m12.d04_en_US_dedes.meVE.MM.GeneralApolytikion2.text // for media
 
-meVE.Apolytikion3.poet = me.m12.d04_en_US_dedes.meVE.Apolytikion3.poet
-meVE.Apolytikion3.mode = me.m12.d04_en_US_dedes.meVE.Apolytikion3.mode
-meVE.Apolytikion3.melody = me.m12.d04_en_US_dedes.meVE.Apolytikion3.melody
-meVE.Apolytikion3.incipit = me.m12.d04_en_US_dedes.meVE.Apolytikion3.incipit
-meVE.Apolytikion3.text = me.m12.d04_en_US_dedes.meVE.Apolytikion3.text
+meVE.Apolytikion3ger.poet = me.m12.d04_en_US_dedes.meVE.Apolytikion3ger.poet
+meVE.Apolytikion3ger.mode = me.m12.d04_en_US_dedes.meVE.Apolytikion3ger.mode
+meVE.Apolytikion3ger.melody = me.m12.d04_en_US_dedes.meVE.Apolytikion3ger.melody
+meVE.Apolytikion3ger.incipit = me.m12.d04_en_US_dedes.meVE.Apolytikion3ger.incipit
+meVE.Apolytikion3ger.text = me.m12.d04_en_US_dedes.meVE.Apolytikion3ger.text
 
 meMA.Kathisma11.mode = me.m12.d04_en_US_dedes.meMA.Kathisma11.mode
 meMA.Kathisma11.melody = me.m12.d04_en_US_dedes.meMA.Kathisma11.melody

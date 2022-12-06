@@ -86,11 +86,11 @@ meVE.AposBoth.melody = me.m11.d24_en_US_dedes.meVE.AposBoth.melody
 meVE.AposBoth.incipit = me.m11.d24_en_US_dedes.meVE.AposBoth.incipit
 meVE.AposBoth.text = me.m11.d24_en_US_dedes.meVE.AposBoth.text
 
-meVE.Apolytikion1.poet = me.m11.d24_en_US_dedes.meVE.Apolytikion1.poet
-meVE.Apolytikion1.mode = me.m11.d24_en_US_dedes.meVE.Apolytikion1.mode
-meVE.Apolytikion1.melody = me.m11.d24_en_US_dedes.meVE.Apolytikion1.melody
-meVE.Apolytikion1.incipit = me.m11.d24_en_US_dedes.meVE.Apolytikion1.incipit
-meVE.Apolytikion1.text = me.m11.d24_en_US_dedes.meVE.Apolytikion1.text
+meVE.Apolytikion1ger.poet = me.m11.d24_en_US_dedes.meVE.Apolytikion1ger.poet
+meVE.Apolytikion1ger.mode = me.m11.d24_en_US_dedes.meVE.Apolytikion1ger.mode
+meVE.Apolytikion1ger.melody = me.m11.d24_en_US_dedes.meVE.Apolytikion1ger.melody
+meVE.Apolytikion1ger.incipit = me.m11.d24_en_US_dedes.meVE.Apolytikion1ger.incipit
+meVE.Apolytikion1ger.text = me.m11.d24_en_US_dedes.meVE.Apolytikion1ger.text
 
 meMA.Kathisma11.mode = me.m11.d24_en_US_dedes.meMA.Kathisma11.mode
 meMA.Kathisma11.melody = me.m11.d24_en_US_dedes.meMA.Kathisma11.melody

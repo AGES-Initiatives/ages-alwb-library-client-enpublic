@@ -44,11 +44,11 @@ meVE.SticStavrotheotokion.melody = me.m02.d16_en_US_dedes.meVE.SticStavrotheotok
 meVE.SticStavrotheotokion.incipit = me.m02.d16_en_US_dedes.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m02.d16_en_US_dedes.meVE.SticStavrotheotokion.text
 
-meVE.Apolytikion1.poet = me.m02.d16_en_US_dedes.meVE.Apolytikion1.poet
-meVE.Apolytikion1.mode = me.m02.d16_en_US_dedes.meVE.Apolytikion1.mode
-meVE.Apolytikion1.melody = me.m02.d16_en_US_dedes.meVE.Apolytikion1.melody
-meVE.Apolytikion1.incipit = me.m02.d16_en_US_dedes.meVE.Apolytikion1.incipit
-meVE.Apolytikion1.text = me.m02.d16_en_US_dedes.meVE.Apolytikion1.text
+meVE.Apolytikion1ger.poet = me.m02.d16_en_US_dedes.meVE.Apolytikion1ger.poet
+meVE.Apolytikion1ger.mode = me.m02.d16_en_US_dedes.meVE.Apolytikion1ger.mode
+meVE.Apolytikion1ger.melody = me.m02.d16_en_US_dedes.meVE.Apolytikion1ger.melody
+meVE.Apolytikion1ger.incipit = me.m02.d16_en_US_dedes.meVE.Apolytikion1ger.incipit
+meVE.Apolytikion1ger.text = me.m02.d16_en_US_dedes.meVE.Apolytikion1ger.text
 
 meMA.C1.acrostic.title = me.m02.d16_en_US_dedes.meMA.C1.acrostic.title
 meMA.C1.acrostic.notice1 = me.m02.d16_en_US_dedes.meMA.C1.acrostic.notice1

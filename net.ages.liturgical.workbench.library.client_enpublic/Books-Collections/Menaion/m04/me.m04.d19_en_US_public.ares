@@ -44,11 +44,11 @@ meVE.SticStavrotheotokion.melody = me.m04.d19_en_US_andronache.meVE.SticStavroth
 meVE.SticStavrotheotokion.incipit = me.m04.d19_en_US_andronache.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m04.d19_en_US_andronache.meVE.SticStavrotheotokion.text
 
-meVE.Apolytikion1.poet = me.m04.d19_en_US_dedes.meVE.Apolytikion1.poet
-meVE.Apolytikion1.mode = me.m04.d19_en_US_dedes.meVE.Apolytikion1.mode
-meVE.Apolytikion1.melody = me.m04.d19_en_US_dedes.meVE.Apolytikion1.melody
-meVE.Apolytikion1.incipit = me.m04.d19_en_US_dedes.meVE.Apolytikion1.incipit
-meVE.Apolytikion1.text = me.m04.d19_en_US_dedes.meVE.Apolytikion1.text
+meVE.Apolytikion1ger.poet = me.m04.d19_en_US_dedes.meVE.Apolytikion1ger.poet
+meVE.Apolytikion1ger.mode = me.m04.d19_en_US_dedes.meVE.Apolytikion1ger.mode
+meVE.Apolytikion1ger.melody = me.m04.d19_en_US_dedes.meVE.Apolytikion1ger.melody
+meVE.Apolytikion1ger.incipit = me.m04.d19_en_US_dedes.meVE.Apolytikion1ger.incipit
+meVE.Apolytikion1ger.text = me.m04.d19_en_US_dedes.meVE.Apolytikion1ger.text
 
 meMA.C1.title = me.m04.d19_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m04.d19_en_US_dedes.meMA.C1.verse
@@ -218,11 +218,11 @@ meMA.Ode6C1T.melody = me.m04.d19_en_US_andronache.meMA.Ode6C1T.melody
 meMA.Ode6C1T.incipit = me.m04.d19_en_US_andronache.meMA.Ode6C1T.incipit
 meMA.Ode6C1T.text = me.m04.d19_en_US_andronache.meMA.Ode6C1T.text
 
-meMA.Kontakion1.poet = me.m04.d19_en_US_dedes.meMA.Kontakion1.poet
-meMA.Kontakion1.mode = me.m04.d19_en_US_dedes.meMA.Kontakion1.mode
-meMA.Kontakion1.melody = me.m04.d19_en_US_dedes.meMA.Kontakion1.melody
-meMA.Kontakion1.incipit = me.m04.d19_en_US_dedes.meMA.Kontakion1.incipit
-meMA.Kontakion1.text = me.m04.d19_en_US_dedes.meMA.Kontakion1.text
+meMA.Kontakion1ger.poet = me.m04.d19_en_US_dedes.meMA.Kontakion1ger.poet
+meMA.Kontakion1ger.mode = me.m04.d19_en_US_dedes.meMA.Kontakion1ger.mode
+meMA.Kontakion1ger.melody = me.m04.d19_en_US_dedes.meMA.Kontakion1ger.melody
+meMA.Kontakion1ger.incipit = me.m04.d19_en_US_dedes.meMA.Kontakion1ger.incipit
+meMA.Kontakion1ger.text = me.m04.d19_en_US_dedes.meMA.Kontakion1ger.text
 
 meMA.Ode7C1H.ode = me.m04.d19_en_US_dedes.meMA.Ode7C1H.ode
 meMA.Ode7C1H.mode = me.m04.d19_en_US_dedes.meMA.Ode7C1H.mode
@@ -314,10 +314,10 @@ meMA.Ode9C1T.melody = me.m04.d19_en_US_andronache.meMA.Ode9C1T.melody
 meMA.Ode9C1T.incipit = me.m04.d19_en_US_andronache.meMA.Ode9C1T.incipit
 meMA.Ode9C1T.text = me.m04.d19_en_US_andronache.meMA.Ode9C1T.text
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = meMA.Kontakion1ger.mode
+meLI.Kontakion1.melody = meMA.Kontakion1ger.melody
+meLI.Kontakion1.incipit = meMA.Kontakion1ger.incipit
+meLI.Kontakion1.text = meMA.Kontakion1ger.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 

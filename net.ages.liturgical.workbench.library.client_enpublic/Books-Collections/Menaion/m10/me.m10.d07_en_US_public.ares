@@ -64,17 +64,17 @@ meVE.AposStavrotheotokion.melody = me.m10.d07_en_US_dedes.meVE.AposStavrotheotok
 meVE.AposStavrotheotokion.incipit = me.m10.d07_en_US_dedes.meVE.AposStavrotheotokion.incipit
 meVE.AposStavrotheotokion.text = me.m10.d07_en_US_dedes.meVE.AposStavrotheotokion.text
 
-meVE.Apolytikion1.poet = me.m10.d07_en_US_dedes.meVE.Apolytikion1.poet
-meVE.Apolytikion1.mode = me.m10.d07_en_US_dedes.meVE.Apolytikion1.mode
-meVE.Apolytikion1.melody = me.m10.d07_en_US_dedes.meVE.Apolytikion1.melody
-meVE.Apolytikion1.incipit = me.m10.d07_en_US_dedes.meVE.Apolytikion1.incipit
-meVE.Apolytikion1.text = me.m10.d07_en_US_dedes.meVE.Apolytikion1.text
+meVE.Apolytikion1ger.poet = me.m10.d07_en_US_dedes.meVE.Apolytikion1ger.poet
+meVE.Apolytikion1ger.mode = me.m10.d07_en_US_dedes.meVE.Apolytikion1ger.mode
+meVE.Apolytikion1ger.melody = me.m10.d07_en_US_dedes.meVE.Apolytikion1ger.melody
+meVE.Apolytikion1ger.incipit = me.m10.d07_en_US_dedes.meVE.Apolytikion1ger.incipit
+meVE.Apolytikion1ger.text = me.m10.d07_en_US_dedes.meVE.Apolytikion1ger.text
 
-meVE.Apolytikion2.poet = me.m10.d07_en_US_dedes.meVE.Apolytikion2.poet
-meVE.Apolytikion2.mode = me.m10.d07_en_US_dedes.meVE.Apolytikion2.mode
-meVE.Apolytikion2.melody = me.m10.d07_en_US_dedes.meVE.Apolytikion2.melody
-meVE.Apolytikion2.incipit = me.m10.d07_en_US_dedes.meVE.Apolytikion2.incipit
-meVE.Apolytikion2.text = me.m10.d07_en_US_dedes.meVE.Apolytikion2.text
+meVE.Apolytikion2ger.poet = me.m10.d07_en_US_dedes.meVE.Apolytikion2ger.poet
+meVE.Apolytikion2ger.mode = me.m10.d07_en_US_dedes.meVE.Apolytikion2ger.mode
+meVE.Apolytikion2ger.melody = me.m10.d07_en_US_dedes.meVE.Apolytikion2ger.melody
+meVE.Apolytikion2ger.incipit = me.m10.d07_en_US_dedes.meVE.Apolytikion2ger.incipit
+meVE.Apolytikion2ger.text = me.m10.d07_en_US_dedes.meVE.Apolytikion2ger.text
 
 meMA.C1.acrostic.title = me.m10.d07_en_US_andronache.meMA.C1.acrostic.title
 meMA.C1.acrostic.notice1 = me.m10.d07_en_US_andronache.meMA.C1.acrostic.notice1

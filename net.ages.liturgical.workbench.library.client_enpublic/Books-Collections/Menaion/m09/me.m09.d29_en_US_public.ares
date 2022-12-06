@@ -69,11 +69,11 @@ meVE.GeneralApolytikion1.melody = me.m09.d29_en_US_dedes.meVE.GeneralApolytikion
 meVE.GeneralApolytikion1.name = me.m09.d29_en_US_dedes.meVE.GeneralApolytikion1.name
 meVE.MM.GeneralApolytikion1.text = me.m09.d29_en_US_dedes.meVE.MM.GeneralApolytikion1.text // for media
 
-meVE.Apolytikion2.poet = me.m09.d29_en_US_dedes.meVE.Apolytikion2.poet
-meVE.Apolytikion2.mode = me.m09.d29_en_US_dedes.meVE.Apolytikion2.mode
-meVE.Apolytikion2.melody = me.m09.d29_en_US_dedes.meVE.Apolytikion2.melody
-meVE.Apolytikion2.incipit = me.m09.d29_en_US_dedes.meVE.Apolytikion2.incipit
-meVE.Apolytikion2.text = me.m09.d29_en_US_dedes.meVE.Apolytikion2.text
+meVE.Apolytikion2ger.poet = me.m09.d29_en_US_dedes.meVE.Apolytikion2ger.poet
+meVE.Apolytikion2ger.mode = me.m09.d29_en_US_dedes.meVE.Apolytikion2ger.mode
+meVE.Apolytikion2ger.melody = me.m09.d29_en_US_dedes.meVE.Apolytikion2ger.melody
+meVE.Apolytikion2ger.incipit = me.m09.d29_en_US_dedes.meVE.Apolytikion2ger.incipit
+meVE.Apolytikion2ger.text = me.m09.d29_en_US_dedes.meVE.Apolytikion2ger.text
 
 meMA.C1.acrostic.title = me.m09.d29_en_US_goadedes.meMA.C1.acrostic.title
 meMA.C1.acrostic.notice1 = me.m09.d29_en_US_goadedes.meMA.C1.acrostic.notice1
