@@ -20,6 +20,7 @@ meHO.note2 = me.m07.dHF_en_US_dedes.meHO.note2
 meTY.note1 = me.m07.dHF_en_US_dedes.meTY.note1
 
 meVE.Stichera01.mode = me.m07.dHF_en_US_dedes.meVE.Stichera01.mode
+meVE.Stichera01.greekmelody = me.m07.dHF_en_US_dedes.meVE.Stichera01.greekmelody
 meVE.Stichera01.melody = me.m07.dHF_en_US_dedes.meVE.Stichera01.melody
 meVE.Stichera01.incipit = me.m07.dHF_en_US_dedes.meVE.Stichera01.incipit
 meVE.Stichera01.text = me.m07.dHF_en_US_dedes.meVE.Stichera01.text
@@ -37,6 +38,7 @@ meVE.Stichera03.text = me.m07.dHF_en_US_dedes.meVE.Stichera03.text
 meVE.MM.Stichera123as567.text = me.m07.dHF_en_US_dedes.meVE.MM.Stichera123as567.text
 
 meVE.Stichera04.mode = me.m07.dHF_en_US_dedes.meVE.Stichera04.mode
+meVE.Stichera04.greekmelody = me.m07.dHF_en_US_dedes.meVE.Stichera04.greekmelody
 meVE.Stichera04.melody = me.m07.dHF_en_US_dedes.meVE.Stichera04.melody
 meVE.Stichera04.incipit = me.m07.dHF_en_US_dedes.meVE.Stichera04.incipit
 meVE.Stichera04.text = me.m07.dHF_en_US_dedes.meVE.Stichera04.text

@@ -2,54 +2,63 @@ A_Resource_Whose_Name = he.a.m1_en_US_public
 
 heAU.title = he.a.m1_en_US_dedes.heAU.title
 
+heAU.ChorosAngelikos.greekname = he.a.m1_en_US_dedes.heAU.ChorosAngelikos.greekname
 heAU.ChorosAngelikos.mode = he.a.m1_en_US_dedes.heAU.ChorosAngelikos.mode
 heAU.ChorosAngelikos.notmetered = he.a.m1_en_US_dedes.heAU.ChorosAngelikos.notmetered
 heAU.ChorosAngelikos.name = he.a.m1_en_US_dedes.heAU.ChorosAngelikos.name
 heAU.ChorosAngelikos.incipit = he.a.m1_en_US_dedes.heAU.ChorosAngelikos.incipit
 heAU.ChorosAngelikos.text = he.a.m1_en_US_dedes.heAU.ChorosAngelikos.text
 
+heAU.NefelinSeFotos.greekname = he.a.m1_en_US_dedes.heAU.NefelinSeFotos.greekname
 heAU.NefelinSeFotos.mode = he.a.m1_en_US_dedes.heAU.NefelinSeFotos.mode
 heAU.NefelinSeFotos.notmetered = he.a.m1_en_US_dedes.heAU.NefelinSeFotos.notmetered
 heAU.NefelinSeFotos.name = he.a.m1_en_US_dedes.heAU.NefelinSeFotos.name
 heAU.NefelinSeFotos.incipit = he.a.m1_en_US_dedes.heAU.NefelinSeFotos.incipit
 heAU.NefelinSeFotos.text = he.a.m1_en_US_dedes.heAU.NefelinSeFotos.text
 
+heAU.OTouParadoxouThavmatos.greekname = he.a.m1_en_US_dedes.heAU.OTouParadoxouThavmatos.greekname
 heAU.OTouParadoxouThavmatos.mode = he.a.m1_en_US_dedes.heAU.OTouParadoxouThavmatos.mode
 heAU.OTouParadoxouThavmatos.notmetered = he.a.m1_en_US_dedes.heAU.OTouParadoxouThavmatos.notmetered
 heAU.OTouParadoxouThavmatos.name = he.a.m1_en_US_dedes.heAU.OTouParadoxouThavmatos.name
 heAU.OTouParadoxouThavmatos.incipit = he.a.m1_en_US_dedes.heAU.OTouParadoxouThavmatos.incipit
 heAU.OTouParadoxouThavmatos.text = he.a.m1_en_US_dedes.heAU.OTouParadoxouThavmatos.text
 
+heAU.OtanElthisOTheos.greekname = he.a.m1_en_US_dedes.heAU.OtanElthisOTheos.greekname
 heAU.OtanElthisOTheos.mode = he.a.m1_en_US_dedes.heAU.OtanElthisOTheos.mode
 heAU.OtanElthisOTheos.notmetered = he.a.m1_en_US_dedes.heAU.OtanElthisOTheos.notmetered
 heAU.OtanElthisOTheos.name = he.a.m1_en_US_dedes.heAU.OtanElthisOTheos.name
 heAU.OtanElthisOTheos.incipit = he.a.m1_en_US_dedes.heAU.OtanElthisOTheos.incipit
 heAU.OtanElthisOTheos.text = he.a.m1_en_US_dedes.heAU.OtanElthisOTheos.text
 
+heAU.PaneffimoiMartyres.greekname = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.greekname
 heAU.PaneffimoiMartyres.mode = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.mode
 heAU.PaneffimoiMartyres.notmetered = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.notmetered
 heAU.PaneffimoiMartyres.name = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.name
 heAU.PaneffimoiMartyres.incipit = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.incipit
 heAU.PaneffimoiMartyres.text = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.text
 
+heAU.TisErimouPolitis.greekname = he.a.m1_en_US_dedes.heAU.TisErimouPolitis.greekname
 heAU.TisErimouPolitis.mode = he.a.m1_en_US_dedes.heAU.TisErimouPolitis.mode
 heAU.TisErimouPolitis.notmetered = he.a.m1_en_US_dedes.heAU.TisErimouPolitis.notmetered
 heAU.TisErimouPolitis.name = he.a.m1_en_US_dedes.heAU.TisErimouPolitis.name
 heAU.TisErimouPolitis.incipit = he.a.m1_en_US_dedes.heAU.TisErimouPolitis.incipit
 heAU.TisErimouPolitis.text = he.a.m1_en_US_dedes.heAU.TisErimouPolitis.text
 
+heAU.TonOuranionTagmaton.greekname = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.greekname
 heAU.TonOuranionTagmaton.mode = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.mode
 heAU.TonOuranionTagmaton.notmetered = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.notmetered
 heAU.TonOuranionTagmaton.name = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.name
 heAU.TonOuranionTagmaton.incipit = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.incipit
 heAU.TonOuranionTagmaton.text = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.text
 
+heAU.TonTafonSouSotir.greekname = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.greekname
 heAU.TonTafonSouSotir.mode = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.mode
 heAU.TonTafonSouSotir.notmetered = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.notmetered
 heAU.TonTafonSouSotir.name = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name
 heAU.TonTafonSouSotir.incipit = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.incipit
 heAU.TonTafonSouSotir.text = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.text
 
+heAU.TouLithouSfragisthentos.greekname = he.a.m1_en_US_dedes.heAU.TouLithouSfragisthentos.greekname
 heAU.TouLithouSfragisthentos.mode = he.a.m1_en_US_dedes.heAU.TouLithouSfragisthentos.mode
 heAU.TouLithouSfragisthentos.notmetered = he.a.m1_en_US_dedes.heAU.TouLithouSfragisthentos.notmetered
 heAU.TouLithouSfragisthentos.name = he.a.m1_en_US_dedes.heAU.TouLithouSfragisthentos.name

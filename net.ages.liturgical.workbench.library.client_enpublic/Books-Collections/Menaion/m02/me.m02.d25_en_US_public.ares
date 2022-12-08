@@ -23,6 +23,7 @@ meHO.note2 = me.m02.d25_en_US_dedes.meHO.note2
 // The following hymns are from the end of Feb. 24
 
 meVE.Stichera01.mode = me.m02.d25_en_US_dedes.meVE.Stichera01.mode
+meVE.Stichera01.greekmelody = me.m02.d25_en_US_dedes.meVE.Stichera01.greekmelody
 meVE.Stichera01.melody = me.m02.d25_en_US_dedes.meVE.Stichera01.melody
 meVE.Stichera01.incipit = me.m02.d25_en_US_dedes.meVE.Stichera01.incipit
 meVE.Stichera01.text = me.m02.d25_en_US_dedes.meVE.Stichera01.text
@@ -56,6 +57,7 @@ meVE.SticStavrotheotokion.text = me.m02.d25_en_US_dedes.meVE.SticStavrotheotokio
 //The following hymns are from Feb. 25
 
 meVE.Stichera04.mode = me.m02.d25_en_US_dedes.meVE.Stichera04.mode
+meVE.Stichera04.greekmelody = me.m02.d25_en_US_dedes.meVE.Stichera04.greekmelody
 meVE.Stichera04.melody = me.m02.d25_en_US_dedes.meVE.Stichera04.melody
 meVE.Stichera04.incipit = me.m02.d25_en_US_dedes.meVE.Stichera04.incipit
 meVE.Stichera04.text = me.m02.d25_en_US_dedes.meVE.Stichera04.text

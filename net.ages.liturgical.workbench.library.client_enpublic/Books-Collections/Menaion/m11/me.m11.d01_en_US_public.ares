@@ -20,6 +20,7 @@ meHO.note1 = me.m11.d01_en_US_dedes.meHO.note1
 meHO.note2 = me.m11.d01_en_US_dedes.meHO.note2
 
 meVE.Stichera01.mode = me.m11.d01_en_US_dedes.meVE.Stichera01.mode
+meVE.Stichera01.greekmelody = me.m11.d01_en_US_dedes.meVE.Stichera01.greekmelody
 meVE.Stichera01.melody = me.m11.d01_en_US_dedes.meVE.Stichera01.melody
 meVE.Stichera01.incipit = me.m11.d01_en_US_dedes.meVE.Stichera01.incipit
 meVE.Stichera01.text = me.m11.d01_en_US_dedes.meVE.Stichera01.text

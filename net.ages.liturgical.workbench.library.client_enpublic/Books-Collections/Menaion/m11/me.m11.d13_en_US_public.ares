@@ -70,6 +70,7 @@ meSV.AposBoth.incipit = me.m11.d13_en_US_oca.meSV.AposBoth.incipit
 meSV.AposBoth.text = me.m11.d13_en_US_oca.meSV.AposBoth.text
 
 meVE.Stichera01.mode = me.m11.d13_en_US_dedes.meVE.Stichera01.mode
+meVE.Stichera01.greekmelody = me.m11.d13_en_US_oca.meVE.Stichera01.greekmelody
 meVE.Stichera01.melody = me.m11.d13_en_US_oca.meVE.Stichera01.melody
 meVE.Stichera01.incipit = me.m11.d13_en_US_oca.meVE.Stichera01.incipit
 meVE.Stichera01.text = me.m11.d13_en_US_oca.meVE.Stichera01.text

@@ -2,78 +2,91 @@ A_Resource_Whose_Name = he.a.m8_en_US_public
 
 heAU.title = he.a.m8_en_US_dedes.heAU.title
 
+heAU.AnestisEkNekron.greekname = he.a.m8_en_US_dedes.heAU.AnestisEkNekron.greekname
 heAU.AnestisEkNekron.mode = he.a.m8_en_US_dedes.heAU.AnestisEkNekron.mode
 heAU.AnestisEkNekron.notmetered = he.a.m8_en_US_dedes.heAU.AnestisEkNekron.notmetered
 heAU.AnestisEkNekron.name = he.a.m8_en_US_dedes.heAU.AnestisEkNekron.name
 heAU.AnestisEkNekron.incipit = he.a.m8_en_US_dedes.heAU.AnestisEkNekron.incipit
 heAU.AnestisEkNekron.text = he.a.m8_en_US_dedes.heAU.AnestisEkNekron.text
 
+heAU.AvlonPoimenikon.greekname = he.a.m8_en_US_dedes.heAU.AvlonPoimenikon.greekname
 heAU.AvlonPoimenikon.mode = he.a.m8_en_US_dedes.heAU.AvlonPoimenikon.mode
 heAU.AvlonPoimenikon.notmetered = he.a.m8_en_US_dedes.heAU.AvlonPoimenikon.notmetered
 heAU.AvlonPoimenikon.name = he.a.m8_en_US_dedes.heAU.AvlonPoimenikon.name
 heAU.AvlonPoimenikon.incipit = he.a.m8_en_US_dedes.heAU.AvlonPoimenikon.incipit
 heAU.AvlonPoimenikon.text = he.a.m8_en_US_dedes.heAU.AvlonPoimenikon.text
 
+heAU.DefteApantesPistoi.greekname = he.a.m8_en_US_dedes.heAU.DefteApantesPistoi.greekname
 heAU.DefteApantesPistoi.mode = he.a.m8_en_US_dedes.heAU.DefteApantesPistoi.mode
 heAU.DefteApantesPistoi.notmetered = he.a.m8_en_US_dedes.heAU.DefteApantesPistoi.notmetered
 heAU.DefteApantesPistoi.name = he.a.m8_en_US_dedes.heAU.DefteApantesPistoi.name
 heAU.DefteApantesPistoi.incipit = he.a.m8_en_US_dedes.heAU.DefteApantesPistoi.incipit
 heAU.DefteApantesPistoi.text = he.a.m8_en_US_dedes.heAU.DefteApantesPistoi.text
 
+heAU.KyrieEiKaiKritirio.greekname = he.a.m8_en_US_dedes.heAU.KyrieEiKaiKritirio.greekname
 heAU.KyrieEiKaiKritirio.mode = he.a.m8_en_US_dedes.heAU.KyrieEiKaiKritirio.mode
 heAU.KyrieEiKaiKritirio.notmetered = he.a.m8_en_US_dedes.heAU.KyrieEiKaiKritirio.notmetered
 heAU.KyrieEiKaiKritirio.name = he.a.m8_en_US_dedes.heAU.KyrieEiKaiKritirio.name
 heAU.KyrieEiKaiKritirio.incipit = he.a.m8_en_US_dedes.heAU.KyrieEiKaiKritirio.incipit
 heAU.KyrieEiKaiKritirio.text = he.a.m8_en_US_dedes.heAU.KyrieEiKaiKritirio.text
 
+heAU.OAngelosSouKyrie.greekname = he.a.m8_en_US_dedes.heAU.OAngelosSouKyrie.greekname
 heAU.OAngelosSouKyrie.mode = he.a.m8_en_US_dedes.heAU.OAngelosSouKyrie.mode
 heAU.OAngelosSouKyrie.notmetered = he.a.m8_en_US_dedes.heAU.OAngelosSouKyrie.notmetered
 heAU.OAngelosSouKyrie.name = he.a.m8_en_US_dedes.heAU.OAngelosSouKyrie.name
 heAU.OAngelosSouKyrie.incipit = he.a.m8_en_US_dedes.heAU.OAngelosSouKyrie.incipit
 heAU.OAngelosSouKyrie.text = he.a.m8_en_US_dedes.heAU.OAngelosSouKyrie.text
 
+heAU.OEnEdemParadeisos.greekname = he.a.m8_en_US_dedes.heAU.OEnEdemParadeisos.greekname
 heAU.OEnEdemParadeisos.mode = he.a.m8_en_US_dedes.heAU.OEnEdemParadeisos.mode
 heAU.OEnEdemParadeisos.notmetered = he.a.m8_en_US_dedes.heAU.OEnEdemParadeisos.notmetered
 heAU.OEnEdemParadeisos.name = he.a.m8_en_US_dedes.heAU.OEnEdemParadeisos.name
 heAU.OEnEdemParadeisos.incipit = he.a.m8_en_US_dedes.heAU.OEnEdemParadeisos.incipit
 heAU.OEnEdemParadeisos.text = he.a.m8_en_US_dedes.heAU.OEnEdemParadeisos.text
 
+heAU.OTouParadoxou.greekname = he.a.m8_en_US_dedes.heAU.OTouParadoxou.greekname
 heAU.OTouParadoxou.mode = he.a.m8_en_US_dedes.heAU.OTouParadoxou.mode
 heAU.OTouParadoxou.notmetered = he.a.m8_en_US_dedes.heAU.OTouParadoxou.notmetered
 heAU.OTouParadoxou.name = he.a.m8_en_US_dedes.heAU.OTouParadoxou.name
 heAU.OTouParadoxou.incipit = he.a.m8_en_US_dedes.heAU.OTouParadoxou.incipit
 heAU.OTouParadoxou.text = he.a.m8_en_US_dedes.heAU.OTouParadoxou.text
 
+heAU.OiMartyresSouKyrie.greekname = he.a.m8_en_US_dedes.heAU.OiMartyresSouKyrie.greekname
 heAU.OiMartyresSouKyrie.mode = he.a.m8_en_US_dedes.heAU.OiMartyresSouKyrie.mode
 heAU.OiMartyresSouKyrie.notmetered = he.a.m8_en_US_dedes.heAU.OiMartyresSouKyrie.notmetered
 heAU.OiMartyresSouKyrie.name = he.a.m8_en_US_dedes.heAU.OiMartyresSouKyrie.name
 heAU.OiMartyresSouKyrie.incipit = he.a.m8_en_US_dedes.heAU.OiMartyresSouKyrie.incipit
 heAU.OiMartyresSouKyrie.text = he.a.m8_en_US_dedes.heAU.OiMartyresSouKyrie.text
 
+heAU.OsAparchas.greekname = he.a.m8_en_US_dedes.heAU.OsAparchas.greekname
 heAU.OsAparchas.mode = he.a.m8_en_US_dedes.heAU.OsAparchas.mode
 heAU.OsAparchas.notmetered = he.a.m8_en_US_dedes.heAU.OsAparchas.notmetered
 heAU.OsAparchas.name = he.a.m8_en_US_dedes.heAU.OsAparchas.name
 heAU.OsAparchas.incipit = he.a.m8_en_US_dedes.heAU.OsAparchas.incipit
 heAU.OsAparchas.text = he.a.m8_en_US_dedes.heAU.OsAparchas.text
 
+heAU.TiYmasKalesomen.greekname = he.a.m8_en_US_dedes.heAU.TiYmasKalesomen.greekname
 heAU.TiYmasKalesomen.mode = he.a.m8_en_US_dedes.heAU.TiYmasKalesomen.mode
 heAU.TiYmasKalesomen.notmetered = he.a.m8_en_US_dedes.heAU.TiYmasKalesomen.notmetered
 heAU.TiYmasKalesomen.name = he.a.m8_en_US_dedes.heAU.TiYmasKalesomen.name
 heAU.TiYmasKalesomen.incipit = he.a.m8_en_US_dedes.heAU.TiYmasKalesomen.incipit
 heAU.TiYmasKalesomen.text = he.a.m8_en_US_dedes.heAU.TiYmasKalesomen.text
 
+heAU.TiYpermacho.greekname = he.a.m8_en_US_dedes.heAU.TiYpermacho.greekname
 heAU.TiYpermacho.mode = he.a.m8_en_US_dedes.heAU.TiYpermacho.mode
 heAU.TiYpermacho.notmetered = he.a.m8_en_US_dedes.heAU.TiYpermacho.notmetered
 heAU.TiYpermacho.name = he.a.m8_en_US_dedes.heAU.TiYpermacho.name
 heAU.TiYpermacho.incipit = he.a.m8_en_US_dedes.heAU.TiYpermacho.incipit
 heAU.TiYpermacho.text = he.a.m8_en_US_dedes.heAU.TiYpermacho.text
 
+heAU.TinSofianKaiLogon.greekname = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.greekname
 heAU.TinSofianKaiLogon.mode = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.mode
 heAU.TinSofianKaiLogon.notmetered = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.notmetered
 heAU.TinSofianKaiLogon.name = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.name
 heAU.TinSofianKaiLogon.incipit = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.incipit
 heAU.TinSofianKaiLogon.text = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.text
 
+heAU.ToProstachthen.greekname = he.a.m8_en_US_dedes.heAU.ToProstachthen.greekname
 heAU.ToProstachthen.mode = he.a.m8_en_US_dedes.heAU.ToProstachthen.mode
 heAU.ToProstachthen.notmetered = he.a.m8_en_US_dedes.heAU.ToProstachthen.notmetered
 heAU.ToProstachthen.name = he.a.m8_en_US_dedes.heAU.ToProstachthen.name
