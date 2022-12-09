@@ -491,11 +491,13 @@ meMA.Ode9C2T.incipit = me.m12.dFF_en_US_oca.meMA.Ode9C2T.incipit
 meMA.Ode9C2T.text = me.m12.dFF_en_US_oca.meMA.Ode9C2T.text
 
 meMA.Exaposteilarion1.mode = me.m12.dFF_en_US_dedes.meMA.Exaposteilarion1.mode
+meMA.Exaposteilarion1.greekmelody = me.m12.dFF_en_US_dedes.meMA.Exaposteilarion1.greekmelody
 meMA.Exaposteilarion1.melody = me.m12.dFF_en_US_dedes.meMA.Exaposteilarion1.melody
 meMA.Exaposteilarion1.incipit = me.m12.dFF_en_US_dedes.meMA.Exaposteilarion1.incipit
 meMA.Exaposteilarion1.text = me.m12.dFF_en_US_dedes.meMA.Exaposteilarion1.text
 
 meMA.Exaposteilarion2.mode = me.m12.dFF_en_US_dedes.meMA.Exaposteilarion2.mode
+meMA.Exaposteilarion2.greekmelody = me.m12.dFF_en_US_dedes.meMA.Exaposteilarion2.greekmelody
 meMA.Exaposteilarion2.melody = me.m12.dFF_en_US_dedes.meMA.Exaposteilarion2.melody
 meMA.Exaposteilarion2.incipit = me.m12.dFF_en_US_dedes.meMA.Exaposteilarion2.incipit
 meMA.Exaposteilarion2.text = me.m12.dFF_en_US_dedes.meMA.Exaposteilarion2.text
@@ -506,6 +508,7 @@ meMA.ExapTheotokion.incipit = me.m12.dFF_en_US_dedes.meMA.ExapTheotokion.incipit
 meMA.ExapTheotokion.text = me.m12.dFF_en_US_dedes.meMA.ExapTheotokion.text
 
 meMA.Lauds1.mode = me.m12.dFF_en_US_dedes.meMA.Lauds1.mode
+meMA.Lauds1.greekmelody = me.m12.dFF_en_US_dedes.meMA.Lauds1.greekmelody
 meMA.Lauds1.melody = me.m12.dFF_en_US_dedes.meMA.Lauds1.melody
 meMA.Lauds1.incipit = me.m12.dFF_en_US_dedes.meMA.Lauds1.incipit
 meMA.Lauds1.text = me.m12.dFF_en_US_dedes.meMA.Lauds1.text

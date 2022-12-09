@@ -42,11 +42,13 @@ meVE.Stichera04.incipit = me.m02.d12_en_US_oca.meVE.Stichera04.incipit
 meVE.Stichera04.text = me.m02.d12_en_US_oca.meVE.Stichera04.text
 
 meVE.SticTheotokion.mode = me.m02.d12_en_US_dedes.meVE.SticTheotokion.mode
+meVE.SticTheotokion.greekmelody = me.m02.d12_en_US_dedes.meVE.SticTheotokion.greekmelody
 meVE.SticTheotokion.melody = me.m02.d12_en_US_dedes.meVE.SticTheotokion.melody
 meVE.SticTheotokion.incipit = me.m02.d12_en_US_dedes.meVE.SticTheotokion.incipit
 meVE.SticTheotokion.text = me.m02.d12_en_US_dedes.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = me.m02.d12_en_US_dedes.meVE.SticStavrotheotokion.mode
+meVE.SticStavrotheotokion.greekmelody = me.m02.d12_en_US_dedes.meVE.SticStavrotheotokion.greekmelody
 meVE.SticStavrotheotokion.melody = me.m02.d12_en_US_dedes.meVE.SticStavrotheotokion.melody
 meVE.SticStavrotheotokion.incipit = me.m02.d12_en_US_dedes.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m02.d12_en_US_dedes.meVE.SticStavrotheotokion.text
@@ -332,6 +334,7 @@ meMA.Ode9C1T.incipit = me.m02.d12_en_US_dedes.meMA.Ode9C1T.incipit
 meMA.Ode9C1T.text = me.m02.d12_en_US_dedes.meMA.Ode9C1T.text
 
 meMA.Exaposteilarion1.mode = me.m02.d12_en_US_dedes.meMA.Exaposteilarion1.mode
+meMA.Exaposteilarion1.greekmelody = me.m02.d12_en_US_dedes.meMA.Exaposteilarion1.greekmelody
 meMA.Exaposteilarion1.melody = me.m02.d12_en_US_dedes.meMA.Exaposteilarion1.melody
 meMA.Exaposteilarion1.incipit = me.m02.d12_en_US_dedes.meMA.Exaposteilarion1.incipit
 meMA.Exaposteilarion1.text = me.m02.d12_en_US_dedes.meMA.Exaposteilarion1.text

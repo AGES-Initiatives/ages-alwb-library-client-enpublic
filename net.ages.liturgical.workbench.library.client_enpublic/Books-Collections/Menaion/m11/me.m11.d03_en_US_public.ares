@@ -62,11 +62,13 @@ meVE.SticTheotokion.incipit = me.m11.d03_en_US_dedes.meVE.SticTheotokion.incipit
 meVE.SticTheotokion.text = me.m11.d03_en_US_dedes.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = me.m11.d03_en_US_dedes.meVE.SticStavrotheotokion.mode
+meVE.SticStavrotheotokion.greekmelody = me.m11.d03_en_US_dedes.meVE.SticStavrotheotokion.greekmelody
 meVE.SticStavrotheotokion.melody = me.m11.d03_en_US_dedes.meVE.SticStavrotheotokion.melody
 meVE.SticStavrotheotokion.incipit = me.m11.d03_en_US_dedes.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m11.d03_en_US_dedes.meVE.SticStavrotheotokion.text
 
 meVE.Aposticha1.mode = me.m11.d03_en_US_dedes.meVE.Aposticha1.mode
+meVE.Aposticha1.greekmelody = me.m11.d03_en_US_dedes.meVE.Aposticha1.greekmelody
 meVE.Aposticha1.melody = me.m11.d03_en_US_dedes.meVE.Aposticha1.melody
 meVE.Aposticha1.incipit = me.m11.d03_en_US_dedes.meVE.Aposticha1.incipit
 meVE.Aposticha1.text = me.m11.d03_en_US_dedes.meVE.Aposticha1.text
@@ -93,6 +95,7 @@ meVE.AposTheotokion.incipit = me.m11.d03_en_US_dedes.meVE.AposTheotokion.incipit
 meVE.AposTheotokion.text = me.m11.d03_en_US_dedes.meVE.AposTheotokion.text
 
 meVE.AposStavrotheotokion.mode = me.m11.d03_en_US_dedes.meVE.AposStavrotheotokion.mode
+meVE.AposStavrotheotokion.greekmelody = me.m11.d03_en_US_dedes.meVE.AposStavrotheotokion.greekmelody
 meVE.AposStavrotheotokion.melody = me.m11.d03_en_US_dedes.meVE.AposStavrotheotokion.melody
 meVE.AposStavrotheotokion.incipit = me.m11.d03_en_US_dedes.meVE.AposStavrotheotokion.incipit
 meVE.AposStavrotheotokion.text = me.m11.d03_en_US_dedes.meVE.AposStavrotheotokion.text
@@ -577,11 +580,13 @@ meMA.Ode9H.incipit = me.m11.d03_en_US_dedes.meMA.Ode9H.incipit
 meMA.Ode9H.text = me.m11.d03_en_US_dedes.meMA.Ode9H.text
 
 meMA.Exaposteilarion1.mode = me.m11.d03_en_US_dedes.meMA.Exaposteilarion1.mode
+meMA.Exaposteilarion1.greekmelody = me.m11.d03_en_US_dedes.meMA.Exaposteilarion1.greekmelody
 meMA.Exaposteilarion1.melody = me.m11.d03_en_US_dedes.meMA.Exaposteilarion1.melody
 meMA.Exaposteilarion1.incipit = me.m11.d03_en_US_dedes.meMA.Exaposteilarion1.incipit
 meMA.Exaposteilarion1.text = me.m11.d03_en_US_dedes.meMA.Exaposteilarion1.text
 
 meMA.Exaposteilarion2.mode = me.m11.d03_en_US_dedes.meMA.Exaposteilarion2.mode
+meMA.Exaposteilarion2.greekmelody = me.m11.d03_en_US_dedes.meMA.Exaposteilarion2.greekmelody
 meMA.Exaposteilarion2.melody = me.m11.d03_en_US_dedes.meMA.Exaposteilarion2.melody
 meMA.Exaposteilarion2.incipit = me.m11.d03_en_US_dedes.meMA.Exaposteilarion2.incipit
 meMA.Exaposteilarion2.text = me.m11.d03_en_US_dedes.meMA.Exaposteilarion2.text
@@ -592,6 +597,7 @@ meMA.ExapTheotokion.incipit = me.m11.d03_en_US_dedes.meMA.ExapTheotokion.incipit
 meMA.ExapTheotokion.text = me.m11.d03_en_US_dedes.meMA.ExapTheotokion.text
 
 meMA.Lauds1.mode = me.m11.d03_en_US_dedes.meMA.Lauds1.mode
+meMA.Lauds1.greekmelody = me.m11.d03_en_US_dedes.meMA.Lauds1.greekmelody
 meMA.Lauds1.melody = me.m11.d03_en_US_dedes.meMA.Lauds1.melody
 meMA.Lauds1.incipit = me.m11.d03_en_US_dedes.meMA.Lauds1.incipit
 meMA.Lauds1.text = me.m11.d03_en_US_dedes.meMA.Lauds1.text
@@ -612,6 +618,7 @@ meMA.LaudsGlory.incipit = me.m11.d03_en_US_dedes.meMA.LaudsGlory.incipit
 meMA.LaudsGlory.text = me.m11.d03_en_US_dedes.meMA.LaudsGlory.text
 
 meMA.LaudsTheotokion.mode = me.m11.d03_en_US_dedes.meMA.LaudsTheotokion.mode
+meMA.LaudsTheotokion.greekmelody = me.m11.d03_en_US_dedes.meMA.LaudsTheotokion.greekmelody
 meMA.LaudsTheotokion.melody = me.m11.d03_en_US_dedes.meMA.LaudsTheotokion.melody
 meMA.LaudsTheotokion.incipit = me.m11.d03_en_US_dedes.meMA.LaudsTheotokion.incipit
 meMA.LaudsTheotokion.text = me.m11.d03_en_US_dedes.meMA.LaudsTheotokion.text

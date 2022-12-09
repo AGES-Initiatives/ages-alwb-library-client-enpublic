@@ -36,11 +36,13 @@ meVE.Stichera03.incipit = me.m04.d08_en_US_barrett.meVE.Stichera03.incipit
 meVE.Stichera03.text = me.m04.d08_en_US_barrett.meVE.Stichera03.text
 
 meVE.SticTheotokion.mode = me.m04.d08_en_US_dedes.meVE.SticTheotokion.mode
+meVE.SticTheotokion.greekmelody = me.m04.d08_en_US_barrett.meVE.SticTheotokion.greekmelody
 meVE.SticTheotokion.melody = me.m04.d08_en_US_barrett.meVE.SticTheotokion.melody
 meVE.SticTheotokion.incipit = me.m04.d08_en_US_barrett.meVE.SticTheotokion.incipit
 meVE.SticTheotokion.text = me.m04.d08_en_US_barrett.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = me.m04.d08_en_US_dedes.meVE.SticStavrotheotokion.mode
+meVE.SticStavrotheotokion.greekmelody = me.m04.d08_en_US_barrett.meVE.SticStavrotheotokion.greekmelody
 meVE.SticStavrotheotokion.melody = me.m04.d08_en_US_barrett.meVE.SticStavrotheotokion.melody
 meVE.SticStavrotheotokion.incipit = me.m04.d08_en_US_barrett.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m04.d08_en_US_barrett.meVE.SticStavrotheotokion.text

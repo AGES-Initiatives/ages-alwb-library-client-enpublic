@@ -3,7 +3,7 @@ A_Resource_Whose_Name = he.ga_en_US_public
 heGA.title = he.ga_en_US_dedes.heGA.title
 
 // For a Prophet. Insert name with comma.
-heGA.TouProfitouSou.name =  he.ga_en_US_dedes.heGA.TouProfitouSou.name
+heGA.TouProfitouSou.name = he.ga_en_US_dedes.heGA.TouProfitouSou.name
 heGA.TouProfitouSou.incipit = he.ga_en_US_dedes.heGA.TouProfitouSou.incipit
 heGA.TouProfitouSou.mode = he.ga_en_US_dedes.heGA.TouProfitouSou.mode
 heGA.TouProfitouSou.melody = he.ga_en_US_dedes.heGA.TouProfitouSou.melody
@@ -11,7 +11,7 @@ heGA.TouProfitouSou.text1 = he.ga_en_US_dedes.heGA.TouProfitouSou.text1 // inser
 heGA.TouProfitouSou.text2 = he.ga_en_US_dedes.heGA.TouProfitouSou.text2
 
 // For one named Apostle and/or Evangelist. Insert name with comma.
-heGA.ApostoleAgie.name =  he.ga_en_US_dedes.heGA.ApostoleAgie.name
+heGA.ApostoleAgie.name = he.ga_en_US_dedes.heGA.ApostoleAgie.name
 heGA.ApostoleAgie.incipit = he.ga_en_US_dedes.heGA.ApostoleAgie.incipit
 heGA.ApostoleAgie.mode = he.ga_en_US_dedes.heGA.ApostoleAgie.mode
 heGA.ApostoleAgie.melody = he.ga_en_US_dedes.heGA.ApostoleAgie.melody
@@ -20,14 +20,14 @@ heGA.ApostoleAgie.text1a = he.ga_en_US_dedes.heGA.ApostoleAgie.text1a
 heGA.ApostoleAgie.text2 = he.ga_en_US_dedes.heGA.ApostoleAgie.text2
 
 // For several unnamed Apostles
-heGA.ApostoloiAgioi.name =  he.ga_en_US_dedes.heGA.ApostoloiAgioi.name
+heGA.ApostoloiAgioi.name = he.ga_en_US_dedes.heGA.ApostoloiAgioi.name
 heGA.ApostoloiAgioi.incipit = he.ga_en_US_dedes.heGA.ApostoloiAgioi.incipit
 heGA.ApostoloiAgioi.mode = he.ga_en_US_dedes.heGA.ApostoloiAgioi.mode
 heGA.ApostoloiAgioi.melody = he.ga_en_US_dedes.heGA.ApostoloiAgioi.melody
 heGA.ApostoloiAgioi.text = he.ga_en_US_dedes.heGA.ApostoloiAgioi.text
 
 // For hieromartyr
-heGA.ChristotitaEkdidachtheis.name =  he.ga_en_US_dedes.heGA.ChristotitaEkdidachtheis.name
+heGA.ChristotitaEkdidachtheis.name = he.ga_en_US_dedes.heGA.ChristotitaEkdidachtheis.name
 heGA.ChristotitaEkdidachtheis.incipit = he.ga_en_US_dedes.heGA.ChristotitaEkdidachtheis.incipit
 heGA.ChristotitaEkdidachtheis.mode = he.ga_en_US_dedes.heGA.ChristotitaEkdidachtheis.mode
 heGA.ChristotitaEkdidachtheis.melody = he.ga_en_US_dedes.heGA.ChristotitaEkdidachtheis.melody
@@ -35,35 +35,35 @@ heGA.ChristotitaEkdidachtheis.text1 = he.ga_en_US_dedes.heGA.ChristotitaEkdidach
 heGA.ChristotitaEkdidachtheis.text2 = he.ga_en_US_dedes.heGA.ChristotitaEkdidachtheis.text2
 
 // For one unnamed Martyr
-heGA.OMartysSouKyrie.name =  he.ga_en_US_dedes.heGA.OMartysSouKyrie.name
+heGA.OMartysSouKyrie.name = he.ga_en_US_dedes.heGA.OMartysSouKyrie.name
 heGA.OMartysSouKyrie.incipit = he.ga_en_US_dedes.heGA.OMartysSouKyrie.incipit
 heGA.OMartysSouKyrie.mode = he.ga_en_US_dedes.heGA.OMartysSouKyrie.mode
 heGA.OMartysSouKyrie.melody = he.ga_en_US_dedes.heGA.OMartysSouKyrie.melody
 heGA.OMartysSouKyrie.text = he.ga_en_US_dedes.heGA.OMartysSouKyrie.text
 
 // For several unnamed Martyrs
-heGA.OiMartyresSouKyrie.name =  he.ga_en_US_dedes.heGA.OiMartyresSouKyrie.name
+heGA.OiMartyresSouKyrie.name = he.ga_en_US_dedes.heGA.OiMartyresSouKyrie.name
 heGA.OiMartyresSouKyrie.incipit = he.ga_en_US_dedes.heGA.OiMartyresSouKyrie.incipit
 heGA.OiMartyresSouKyrie.mode = he.ga_en_US_dedes.heGA.OiMartyresSouKyrie.mode
 heGA.OiMartyresSouKyrie.melody = he.ga_en_US_dedes.heGA.OiMartyresSouKyrie.melody
 heGA.OiMartyresSouKyrie.text = he.ga_en_US_dedes.heGA.OiMartyresSouKyrie.text
 
 // For one unnamed woman Martyr
-heGA.IAmnasSou.name =  he.ga_en_US_dedes.heGA.IAmnasSou.name
+heGA.IAmnasSou.name = he.ga_en_US_dedes.heGA.IAmnasSou.name
 heGA.IAmnasSou.incipit = he.ga_en_US_dedes.heGA.IAmnasSou.incipit
 heGA.IAmnasSou.mode = he.ga_en_US_dedes.heGA.IAmnasSou.mode
 heGA.IAmnasSou.melody = he.ga_en_US_dedes.heGA.IAmnasSou.melody
 heGA.IAmnasSou.text = he.ga_en_US_dedes.heGA.IAmnasSou.text
 
 // For a group of unnamed Martyrs
-heGA.TasAlgidonas.name =  he.ga_en_US_dedes.heGA.TasAlgidonas.name
+heGA.TasAlgidonas.name = he.ga_en_US_dedes.heGA.TasAlgidonas.name
 heGA.TasAlgidonas.incipit = he.ga_en_US_dedes.heGA.TasAlgidonas.incipit
 heGA.TasAlgidonas.mode = he.ga_en_US_dedes.heGA.TasAlgidonas.mode
 heGA.TasAlgidonas.melody = he.ga_en_US_dedes.heGA.TasAlgidonas.melody
 heGA.TasAlgidonas.text = he.ga_en_US_dedes.heGA.TasAlgidonas.text
 
 // For one named Hieromartyr. Insert name with period
-heGA.KaiTroponMetochos.name =  he.ga_en_US_dedes.heGA.KaiTroponMetochos.name
+heGA.KaiTroponMetochos.name = he.ga_en_US_dedes.heGA.KaiTroponMetochos.name
 heGA.KaiTroponMetochos.incipit = he.ga_en_US_dedes.heGA.KaiTroponMetochos.incipit
 heGA.KaiTroponMetochos.mode = he.ga_en_US_dedes.heGA.KaiTroponMetochos.mode
 heGA.KaiTroponMetochos.melody = he.ga_en_US_dedes.heGA.KaiTroponMetochos.melody
@@ -71,7 +71,7 @@ heGA.KaiTroponMetochos.text1 = he.ga_en_US_dedes.heGA.KaiTroponMetochos.text1
 heGA.KaiTroponMetochos.text2 = he.ga_en_US_dedes.heGA.KaiTroponMetochos.text2
 
 // For one named ascetic man. Insert name with comma. See Automelon: he.a.m1_en_US_public.heAU.TisErimouPolitis.text
-heGA.TisErimouPolitis.name =  he.ga_en_US_dedes.heGA.TisErimouPolitis.name
+heGA.TisErimouPolitis.name = he.ga_en_US_dedes.heGA.TisErimouPolitis.name
 heGA.TisErimouPolitis.incipit = he.ga_en_US_dedes.heGA.TisErimouPolitis.incipit
 heGA.TisErimouPolitis.mode = he.ga_en_US_dedes.heGA.TisErimouPolitis.mode
 heGA.TisErimouPolitis.melody = he.ga_en_US_dedes.heGA.TisErimouPolitis.melody
@@ -79,7 +79,7 @@ heGA.TisErimouPolitis.text1 = he.ga_en_US_dedes.heGA.TisErimouPolitis.text1
 heGA.TisErimouPolitis.text2 = he.ga_en_US_dedes.heGA.TisErimouPolitis.text2
 
 // For one named ascetic man. Insert name with comma.
-heGA.TaisTonDakryonSou.name =  he.ga_en_US_dedes.heGA.TaisTonDakryonSou.name
+heGA.TaisTonDakryonSou.name = he.ga_en_US_dedes.heGA.TaisTonDakryonSou.name
 heGA.TaisTonDakryonSou.incipit = he.ga_en_US_dedes.heGA.TaisTonDakryonSou.incipit
 heGA.TaisTonDakryonSou.mode = he.ga_en_US_dedes.heGA.TaisTonDakryonSou.mode
 heGA.TaisTonDakryonSou.melody = he.ga_en_US_dedes.heGA.TaisTonDakryonSou.melody
@@ -87,7 +87,7 @@ heGA.TaisTonDakryonSou.text1 = he.ga_en_US_dedes.heGA.TaisTonDakryonSou.text1
 heGA.TaisTonDakryonSou.text2 = he.ga_en_US_dedes.heGA.TaisTonDakryonSou.text2
 
 // For one named ascetic man. Insert name with comma.
-heGA.EnSoiPaterAkrivos.name =  he.ga_en_US_dedes.heGA.EnSoiPaterAkrivos.name
+heGA.EnSoiPaterAkrivos.name = he.ga_en_US_dedes.heGA.EnSoiPaterAkrivos.name
 heGA.EnSoiPaterAkrivos.incipit = he.ga_en_US_dedes.heGA.EnSoiPaterAkrivos.incipit
 heGA.EnSoiPaterAkrivos.mode = he.ga_en_US_dedes.heGA.EnSoiPaterAkrivos.mode
 heGA.EnSoiPaterAkrivos.melody = he.ga_en_US_dedes.heGA.EnSoiPaterAkrivos.melody
@@ -95,7 +95,7 @@ heGA.EnSoiPaterAkrivos.text1 = he.ga_en_US_dedes.heGA.EnSoiPaterAkrivos.text1
 heGA.EnSoiPaterAkrivos.text2 = he.ga_en_US_dedes.heGA.EnSoiPaterAkrivos.text2
 
 // For one named ascetic woman. Insert name with comma.
-heGA.EnSoiMiterAkrivos.name =  he.ga_en_US_dedes.heGA.EnSoiMiterAkrivos.name
+heGA.EnSoiMiterAkrivos.name = he.ga_en_US_dedes.heGA.EnSoiMiterAkrivos.name
 heGA.EnSoiMiterAkrivos.incipit = he.ga_en_US_dedes.heGA.EnSoiMiterAkrivos.incipit
 heGA.EnSoiMiterAkrivos.mode = he.ga_en_US_dedes.heGA.EnSoiMiterAkrivos.mode
 heGA.EnSoiMiterAkrivos.melody = he.ga_en_US_dedes.heGA.EnSoiMiterAkrivos.melody
@@ -103,7 +103,7 @@ heGA.EnSoiMiterAkrivos.text1 = he.ga_en_US_dedes.heGA.EnSoiMiterAkrivos.text1
 heGA.EnSoiMiterAkrivos.text2 = he.ga_en_US_dedes.heGA.EnSoiMiterAkrivos.text2
 
 // For one named Hierarch with comma. Insert "Holy and devout Father etc and name"
-heGA.KanonaPisteos.name =  he.ga_en_US_dedes.heGA.KanonaPisteos.name
+heGA.KanonaPisteos.name = he.ga_en_US_dedes.heGA.KanonaPisteos.name
 heGA.KanonaPisteos.incipit = he.ga_en_US_dedes.heGA.KanonaPisteos.incipit
 heGA.KanonaPisteos.mode = he.ga_en_US_dedes.heGA.KanonaPisteos.mode
 heGA.KanonaPisteos.melody = he.ga_en_US_dedes.heGA.KanonaPisteos.melody
@@ -111,7 +111,7 @@ heGA.KanonaPisteos.text1 = he.ga_en_US_dedes.heGA.KanonaPisteos.text1
 heGA.KanonaPisteos.text2 = he.ga_en_US_dedes.heGA.KanonaPisteos.text2
 
 // For one named Hierarch Confessor or Teacher with comma.
-heGA.OrthodoxiasOdigeH.name =  he.ga_en_US_dedes.heGA.OrthodoxiasOdigeH.name
+heGA.OrthodoxiasOdigeH.name = he.ga_en_US_dedes.heGA.OrthodoxiasOdigeH.name
 heGA.OrthodoxiasOdigeH.incipit = he.ga_en_US_dedes.heGA.OrthodoxiasOdigeH.incipit
 heGA.OrthodoxiasOdigeH.mode = he.ga_en_US_dedes.heGA.OrthodoxiasOdigeH.mode
 heGA.OrthodoxiasOdigeH.melody = he.ga_en_US_dedes.heGA.OrthodoxiasOdigeH.melody
@@ -119,7 +119,7 @@ heGA.OrthodoxiasOdigeH.text1 = he.ga_en_US_dedes.heGA.OrthodoxiasOdigeH.text1
 heGA.OrthodoxiasOdigeH.text2 = he.ga_en_US_dedes.heGA.OrthodoxiasOdigeH.text2
 
 // For one named monastic Confessor or Teacher with comma.
-heGA.OrthodoxiasOdigeM.name =  he.ga_en_US_dedes.heGA.OrthodoxiasOdigeM.name
+heGA.OrthodoxiasOdigeM.name = he.ga_en_US_dedes.heGA.OrthodoxiasOdigeM.name
 heGA.OrthodoxiasOdigeM.incipit = he.ga_en_US_dedes.heGA.OrthodoxiasOdigeM.incipit
 heGA.OrthodoxiasOdigeM.mode = he.ga_en_US_dedes.heGA.OrthodoxiasOdigeM.mode
 heGA.OrthodoxiasOdigeM.melody = he.ga_en_US_dedes.heGA.OrthodoxiasOdigeM.melody
@@ -127,13 +127,13 @@ heGA.OrthodoxiasOdigeM.text1 = he.ga_en_US_dedes.heGA.OrthodoxiasOdigeM.text1
 heGA.OrthodoxiasOdigeM.text2 = he.ga_en_US_dedes.heGA.OrthodoxiasOdigeM.text2
 
 // For several unnamed holy Fathers
-heGA.OTheosTonPateronImon.name =  he.ga_en_US_dedes.heGA.OTheosTonPateronImon.name
+heGA.OTheosTonPateronImon.name = he.ga_en_US_dedes.heGA.OTheosTonPateronImon.name
 heGA.OTheosTonPateronImon.incipit = he.ga_en_US_dedes.heGA.OTheosTonPateronImon.incipit
 heGA.OTheosTonPateronImon.mode = he.ga_en_US_dedes.heGA.OTheosTonPateronImon.mode
 heGA.OTheosTonPateronImon.melody = he.ga_en_US_dedes.heGA.OTheosTonPateronImon.melody
 heGA.OTheosTonPateronImon.text = he.ga_en_US_dedes.heGA.OTheosTonPateronImon.text
 
-heGA.YpomonisStylos.name =  he.ga_en_US_dedes.heGA.YpomonisStylos.name
+heGA.YpomonisStylos.name = he.ga_en_US_dedes.heGA.YpomonisStylos.name
 heGA.YpomonisStylos.incipit = he.ga_en_US_dedes.heGA.YpomonisStylos.incipit
 heGA.YpomonisStylos.mode = he.ga_en_US_dedes.heGA.YpomonisStylos.mode
 heGA.YpomonisStylos.melody = he.ga_en_US_dedes.heGA.YpomonisStylos.melody
