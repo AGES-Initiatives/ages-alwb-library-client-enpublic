@@ -199,11 +199,13 @@ meMA.Kontakion1.text = me.m10.d11_en_US_unknown.meMA.Kontakion1.text
 meMA.Oikos1.text = me.m10.d11_en_US_unknown.meMA.Oikos1.text
 
 meMA.Ode3Kathisma1.mode = me.m10.d11_en_US_dedes.meMA.Ode3Kathisma1.mode
+meMA.Ode3Kathisma1.greekmelody = me.m10.d11_en_US_dedes.meMA.Ode3Kathisma1.greekmelody
 meMA.Ode3Kathisma1.melody = me.m10.d11_en_US_dedes.meMA.Ode3Kathisma1.melody
 meMA.Ode3Kathisma1.incipit = me.m10.d11_en_US_dedes.meMA.Ode3Kathisma1.incipit
 meMA.Ode3Kathisma1.text = me.m10.d11_en_US_dedes.meMA.Ode3Kathisma1.text
 
 meMA.Ode3Kathisma2.mode = me.m10.d11_en_US_dedes.meMA.Ode3Kathisma2.mode
+meMA.Ode3Kathisma2.greekmelody = me.m10.d11_en_US_dedes.meMA.Ode3Kathisma2.greekmelody
 meMA.Ode3Kathisma2.melody = me.m10.d11_en_US_dedes.meMA.Ode3Kathisma2.melody
 meMA.Ode3Kathisma2.incipit = me.m10.d11_en_US_dedes.meMA.Ode3Kathisma2.incipit
 meMA.Ode3Kathisma2.text = me.m10.d11_en_US_dedes.meMA.Ode3Kathisma2.text

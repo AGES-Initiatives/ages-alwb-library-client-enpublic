@@ -130,6 +130,7 @@ meVE.Apolytikion3ger.text = me.m03.d09_en_US_dedes.meVE.Apolytikion3ger.text
 meCO.SupplicationVerse.text = me.m03.d09_en_US_dedes.meCO.SupplicationVerse.text
 
 meMA.Kathisma11.mode = me.m03.d09_en_US_dedes.meMA.Kathisma11.mode
+meMA.Kathisma11.greekmelody = me.m03.d09_en_US_dedes.meMA.Kathisma11.greekmelody
 meMA.Kathisma11.melody = me.m03.d09_en_US_dedes.meMA.Kathisma11.melody
 meMA.Kathisma11.incipit = me.m03.d09_en_US_dedes.meMA.Kathisma11.incipit
 meMA.Kathisma11.text = me.m03.d09_en_US_dedes.meMA.Kathisma11.text
@@ -140,6 +141,7 @@ meMA.Kathisma1T.incipit = me.m03.d09_en_US_dedes.meMA.Kathisma1T.incipit
 meMA.Kathisma1T.text = me.m03.d09_en_US_dedes.meMA.Kathisma1T.text
 
 meMA.Kathisma21.mode = me.m03.d09_en_US_dedes.meMA.Kathisma21.mode
+meMA.Kathisma21.greekmelody = me.m03.d09_en_US_dedes.meMA.Kathisma21.greekmelody
 meMA.Kathisma21.melody = me.m03.d09_en_US_dedes.meMA.Kathisma21.melody
 meMA.Kathisma21.incipit = me.m03.d09_en_US_dedes.meMA.Kathisma21.incipit
 meMA.Kathisma21.text = me.m03.d09_en_US_dedes.meMA.Kathisma21.text
@@ -150,6 +152,7 @@ meMA.Kathisma2T.incipit = me.m03.d09_en_US_dedes.meMA.Kathisma2T.incipit
 meMA.Kathisma2T.text = me.m03.d09_en_US_dedes.meMA.Kathisma2T.text
 
 meMA.Kathisma31.mode = me.m03.d09_en_US_dedes.meMA.Kathisma31.mode
+meMA.Kathisma31.greekmelody = me.m03.d09_en_US_dedes.meMA.Kathisma31.greekmelody
 meMA.Kathisma31.melody = me.m03.d09_en_US_dedes.meMA.Kathisma31.melody
 meMA.Kathisma31.incipit = me.m03.d09_en_US_dedes.meMA.Kathisma31.incipit
 meMA.Kathisma31.text = me.m03.d09_en_US_dedes.meMA.Kathisma31.text
@@ -248,6 +251,7 @@ meMA.Ode3C1T.incipit = me.m03.d09_en_US_oca.meMA.Ode3C1T.incipit
 meMA.Ode3C1T.text = me.m03.d09_en_US_oca.meMA.Ode3C1T.text
 
 meMA.Ode3Kathisma1.mode = me.m03.d09_en_US_dedes.meMA.Ode3Kathisma1.mode
+meMA.Ode3Kathisma1.greekmelody = me.m03.d09_en_US_oca.meMA.Ode3Kathisma1.greekmelody
 meMA.Ode3Kathisma1.melody = me.m03.d09_en_US_oca.meMA.Ode3Kathisma1.melody
 meMA.Ode3Kathisma1.incipit = me.m03.d09_en_US_oca.meMA.Ode3Kathisma1.incipit
 meMA.Ode3Kathisma1.text = me.m03.d09_en_US_oca.meMA.Ode3Kathisma1.text
