@@ -187,10 +187,10 @@ peMA.Ode3C1T.melody = pe.d092_en_US_goadedes.peMA.Ode3C1T.melody
 peMA.Ode3C1T.incipit = pe.d092_en_US_goadedes.peMA.Ode3C1T.incipit
 peMA.Ode3C1T.text = pe.d092_en_US_goadedes.peMA.Ode3C1T.text
 
-peMA.Ode3Kathisma1.mode = pe.d092_en_US_goadedes.peMA.Ode3Kathisma1.mode
-peMA.Ode3Kathisma1.melody = pe.d092_en_US_goadedes.peMA.Ode3Kathisma1.melody
-peMA.Ode3Kathisma1.incipit = pe.d092_en_US_goadedes.peMA.Ode3Kathisma1.incipit
-peMA.Ode3Kathisma1.text = pe.d092_en_US_goadedes.peMA.Ode3Kathisma1.text
+peMA.Ode3Kathisma1.mode = pe.d092_en_US_dedes.peMA.Ode3Kathisma1.mode
+peMA.Ode3Kathisma1.melody = pe.d092_en_US_dedes.peMA.Ode3Kathisma1.melody
+peMA.Ode3Kathisma1.incipit = pe.d092_en_US_dedes.peMA.Ode3Kathisma1.incipit
+peMA.Ode3Kathisma1.text = pe.d092_en_US_dedes.peMA.Ode3Kathisma1.text
 
 peMA.Ode3Kathisma2.mode = pe.d092_en_US_goadedes.peMA.Ode3Kathisma2.mode
 peMA.Ode3Kathisma2.melody = pe.d092_en_US_goadedes.peMA.Ode3Kathisma2.melody
