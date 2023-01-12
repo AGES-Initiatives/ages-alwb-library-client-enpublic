@@ -28,11 +28,13 @@ peVE.Stichera03.incipit = pe.d119_en_US_dedes.peVE.Stichera03.incipit
 peVE.Stichera03.text = pe.d119_en_US_dedes.peVE.Stichera03.text
 
 peVE.Stichera04.mode = pe.d119_en_US_dedes.peVE.Stichera04.mode
+peVE.Stichera04.greekmelody = pe.d119_en_US_dedes.peVE.Stichera04.greekmelody
 peVE.Stichera04.melody = pe.d119_en_US_dedes.peVE.Stichera04.melody
 peVE.Stichera04.incipit = pe.d119_en_US_dedes.peVE.Stichera04.incipit
 peVE.Stichera04.text = pe.d119_en_US_dedes.peVE.Stichera04.text
 
 peVE.Stichera05.mode = pe.d119_en_US_dedes.peVE.Stichera05.mode
+peVE.Stichera05.greekmelody = pe.d119_en_US_dedes.peVE.Stichera05.greekmelody
 peVE.Stichera05.melody = pe.d119_en_US_dedes.peVE.Stichera05.melody
 peVE.Stichera05.incipit = pe.d119_en_US_dedes.peVE.Stichera05.incipit
 peVE.Stichera05.text = pe.d119_en_US_dedes.peVE.Stichera05.text
@@ -91,6 +93,7 @@ peVE.ApolTheotokion.incipit = pe.d119_en_US_dedes.peVE.ApolTheotokion.incipit
 peVE.ApolTheotokion.text = pe.d119_en_US_dedes.peVE.ApolTheotokion.text
 
 peMA.Kathisma11.mode = pe.d119_en_US_dedes.peMA.Kathisma11.mode
+peMA.Kathisma11.greekmelody = pe.d119_en_US_dedes.peMA.Kathisma11.greekmelody
 peMA.Kathisma11.melody = pe.d119_en_US_dedes.peMA.Kathisma11.melody
 peMA.Kathisma11.incipit = pe.d119_en_US_dedes.peMA.Kathisma11.incipit
 peMA.Kathisma11.text = pe.d119_en_US_dedes.peMA.Kathisma11.text
@@ -140,12 +143,14 @@ peMA.C1.verse = pe.d119_en_US_dedes.peMA.C1.verse
 
 peMA.Ode1C1H.ode = pe.d119_en_US_dedes.peMA.Ode1C1H.ode
 peMA.Ode1C1H.mode = pe.d119_en_US_dedes.peMA.Ode1C1H.mode
+peMA.Ode1C1H.greekmelody = pe.d119_en_US_dedes.peMA.Ode1C1H.greekmelody
 peMA.Ode1C1H.melody = pe.d119_en_US_dedes.peMA.Ode1C1H.melody
 peMA.Ode1C1H.incipit = pe.d119_en_US_dedes.peMA.Ode1C1H.incipit
 peMA.Ode1C1H.text = pe.d119_en_US_dedes.peMA.Ode1C1H.text
 
 peMA.Ode1C11.ode = pe.d119_en_US_dedes.peMA.Ode1C11.ode
 peMA.Ode1C11.mode = pe.d119_en_US_dedes.peMA.Ode1C11.mode
+peMA.Ode1C11.greekmelody = pe.d119_en_US_dedes.peMA.Ode1C11.greekmelody
 peMA.Ode1C11.melody = pe.d119_en_US_dedes.peMA.Ode1C11.melody
 peMA.Ode1C11.incipit = pe.d119_en_US_dedes.peMA.Ode1C11.incipit
 peMA.Ode1C11.text = pe.d119_en_US_dedes.peMA.Ode1C11.text
@@ -170,12 +175,14 @@ peMA.Ode1C1T.text = pe.d119_en_US_dedes.peMA.Ode1C1T.text
 
 peMA.Ode3C1H.ode = pe.d119_en_US_dedes.peMA.Ode3C1H.ode
 peMA.Ode3C1H.mode = pe.d119_en_US_dedes.peMA.Ode3C1H.mode
+peMA.Ode3C1H.greekmelody = pe.d119_en_US_dedes.peMA.Ode3C1H.greekmelody
 peMA.Ode3C1H.melody = pe.d119_en_US_dedes.peMA.Ode3C1H.melody
 peMA.Ode3C1H.incipit = pe.d119_en_US_dedes.peMA.Ode3C1H.incipit
 peMA.Ode3C1H.text = pe.d119_en_US_dedes.peMA.Ode3C1H.text
 
 peMA.Ode3C11.ode = pe.d119_en_US_dedes.peMA.Ode3C11.ode
 peMA.Ode3C11.mode = pe.d119_en_US_dedes.peMA.Ode3C11.mode
+peMA.Ode3C11.greekmelody = pe.d119_en_US_dedes.peMA.Ode3C11.greekmelody
 peMA.Ode3C11.melody = pe.d119_en_US_dedes.peMA.Ode3C11.melody
 peMA.Ode3C11.incipit = pe.d119_en_US_dedes.peMA.Ode3C11.incipit
 peMA.Ode3C11.text = pe.d119_en_US_dedes.peMA.Ode3C11.text
@@ -199,23 +206,27 @@ peMA.Ode3C1T.incipit = pe.d119_en_US_dedes.peMA.Ode3C1T.incipit
 peMA.Ode3C1T.text = pe.d119_en_US_dedes.peMA.Ode3C1T.text
 
 peMA.Ode3Kathisma1.mode = pe.d119_en_US_dedes.peMA.Ode3Kathisma1.mode
+peMA.Ode3Kathisma1.greekmelody = pe.d119_en_US_dedes.peMA.Ode3Kathisma1.greekmelody
 peMA.Ode3Kathisma1.melody = pe.d119_en_US_dedes.peMA.Ode3Kathisma1.melody
 peMA.Ode3Kathisma1.incipit = pe.d119_en_US_dedes.peMA.Ode3Kathisma1.incipit
 peMA.Ode3Kathisma1.text = pe.d119_en_US_dedes.peMA.Ode3Kathisma1.text
 
 peMA.Ode3Kathisma2.mode = pe.d119_en_US_dedes.peMA.Ode3Kathisma2.mode
+peMA.Ode3Kathisma2.greekmelody = pe.d119_en_US_dedes.peMA.Ode3Kathisma2.greekmelody
 peMA.Ode3Kathisma2.melody = pe.d119_en_US_dedes.peMA.Ode3Kathisma2.melody
 peMA.Ode3Kathisma2.incipit = pe.d119_en_US_dedes.peMA.Ode3Kathisma2.incipit
 peMA.Ode3Kathisma2.text = pe.d119_en_US_dedes.peMA.Ode3Kathisma2.text
 
 peMA.Ode4C1H.ode = pe.d119_en_US_dedes.peMA.Ode4C1H.ode
 peMA.Ode4C1H.mode = pe.d119_en_US_dedes.peMA.Ode4C1H.mode
+peMA.Ode4C1H.greekmelody = pe.d119_en_US_dedes.peMA.Ode4C1H.greekmelody
 peMA.Ode4C1H.melody = pe.d119_en_US_dedes.peMA.Ode4C1H.melody
 peMA.Ode4C1H.incipit = pe.d119_en_US_dedes.peMA.Ode4C1H.incipit
 peMA.Ode4C1H.text = pe.d119_en_US_dedes.peMA.Ode4C1H.text
 
 peMA.Ode4C11.ode = pe.d119_en_US_dedes.peMA.Ode4C11.ode
 peMA.Ode4C11.mode = pe.d119_en_US_dedes.peMA.Ode4C11.mode
+peMA.Ode4C11.greekmelody = pe.d119_en_US_dedes.peMA.Ode4C11.greekmelody
 peMA.Ode4C11.melody = pe.d119_en_US_dedes.peMA.Ode4C11.melody
 peMA.Ode4C11.incipit = pe.d119_en_US_dedes.peMA.Ode4C11.incipit
 peMA.Ode4C11.text = pe.d119_en_US_dedes.peMA.Ode4C11.text
@@ -240,12 +251,14 @@ peMA.Ode4C1T.text = pe.d119_en_US_dedes.peMA.Ode4C1T.text
 
 peMA.Ode5C1H.ode = pe.d119_en_US_dedes.peMA.Ode5C1H.ode
 peMA.Ode5C1H.mode = pe.d119_en_US_dedes.peMA.Ode5C1H.mode
+peMA.Ode5C1H.greekmelody = pe.d119_en_US_dedes.peMA.Ode5C1H.greekmelody
 peMA.Ode5C1H.melody = pe.d119_en_US_dedes.peMA.Ode5C1H.melody
 peMA.Ode5C1H.incipit = pe.d119_en_US_dedes.peMA.Ode5C1H.incipit
 peMA.Ode5C1H.text = pe.d119_en_US_dedes.peMA.Ode5C1H.text
 
 peMA.Ode5C11.ode = pe.d119_en_US_dedes.peMA.Ode5C11.ode
 peMA.Ode5C11.mode = pe.d119_en_US_dedes.peMA.Ode5C11.mode
+peMA.Ode5C11.greekmelody = pe.d119_en_US_dedes.peMA.Ode5C11.greekmelody
 peMA.Ode5C11.melody = pe.d119_en_US_dedes.peMA.Ode5C11.melody
 peMA.Ode5C11.incipit = pe.d119_en_US_dedes.peMA.Ode5C11.incipit
 peMA.Ode5C11.text = pe.d119_en_US_dedes.peMA.Ode5C11.text
@@ -270,12 +283,14 @@ peMA.Ode5C1T.text = pe.d119_en_US_dedes.peMA.Ode5C1T.text
 
 peMA.Ode6C1H.ode = pe.d119_en_US_dedes.peMA.Ode6C1H.ode
 peMA.Ode6C1H.mode = pe.d119_en_US_dedes.peMA.Ode6C1H.mode
+peMA.Ode6C1H.greekmelody = pe.d119_en_US_dedes.peMA.Ode6C1H.greekmelody
 peMA.Ode6C1H.melody = pe.d119_en_US_dedes.peMA.Ode6C1H.melody
 peMA.Ode6C1H.incipit = pe.d119_en_US_dedes.peMA.Ode6C1H.incipit
 peMA.Ode6C1H.text = pe.d119_en_US_dedes.peMA.Ode6C1H.text
 
 peMA.Ode6C11.ode = pe.d119_en_US_dedes.peMA.Ode6C11.ode
 peMA.Ode6C11.mode = pe.d119_en_US_dedes.peMA.Ode6C11.mode
+peMA.Ode6C11.greekmelody = pe.d119_en_US_dedes.peMA.Ode6C11.greekmelody
 peMA.Ode6C11.melody = pe.d119_en_US_dedes.peMA.Ode6C11.melody
 peMA.Ode6C11.incipit = pe.d119_en_US_dedes.peMA.Ode6C11.incipit
 peMA.Ode6C11.text = pe.d119_en_US_dedes.peMA.Ode6C11.text
@@ -317,12 +332,14 @@ peSY.lastline = pe.d119_en_US_dedes.peSY.lastline
 
 peMA.Ode7C1H.ode = pe.d119_en_US_dedes.peMA.Ode7C1H.ode
 peMA.Ode7C1H.mode = pe.d119_en_US_dedes.peMA.Ode7C1H.mode
+peMA.Ode7C1H.greekmelody = pe.d119_en_US_dedes.peMA.Ode7C1H.greekmelody
 peMA.Ode7C1H.melody = pe.d119_en_US_dedes.peMA.Ode7C1H.melody
 peMA.Ode7C1H.incipit = pe.d119_en_US_dedes.peMA.Ode7C1H.incipit
 peMA.Ode7C1H.text = pe.d119_en_US_dedes.peMA.Ode7C1H.text
 
 peMA.Ode7C11.ode = pe.d119_en_US_dedes.peMA.Ode7C11.ode
 peMA.Ode7C11.mode = pe.d119_en_US_dedes.peMA.Ode7C11.mode
+peMA.Ode7C11.greekmelody = pe.d119_en_US_dedes.peMA.Ode7C11.greekmelody
 peMA.Ode7C11.melody = pe.d119_en_US_dedes.peMA.Ode7C11.melody
 peMA.Ode7C11.incipit = pe.d119_en_US_dedes.peMA.Ode7C11.incipit
 peMA.Ode7C11.text = pe.d119_en_US_dedes.peMA.Ode7C11.text
@@ -347,12 +364,14 @@ peMA.Ode7C1T.text = pe.d119_en_US_dedes.peMA.Ode7C1T.text
 
 peMA.Ode8C1H.ode = pe.d119_en_US_dedes.peMA.Ode8C1H.ode
 peMA.Ode8C1H.mode = pe.d119_en_US_dedes.peMA.Ode8C1H.mode
+peMA.Ode8C1H.greekmelody = pe.d119_en_US_dedes.peMA.Ode8C1H.greekmelody
 peMA.Ode8C1H.melody = pe.d119_en_US_dedes.peMA.Ode8C1H.melody
 peMA.Ode8C1H.incipit = pe.d119_en_US_dedes.peMA.Ode8C1H.incipit
 peMA.Ode8C1H.text = pe.d119_en_US_dedes.peMA.Ode8C1H.text
 
 peMA.Ode8C11.ode = pe.d119_en_US_dedes.peMA.Ode8C11.ode
 peMA.Ode8C11.mode = pe.d119_en_US_dedes.peMA.Ode8C11.mode
+peMA.Ode8C11.greekmelody = pe.d119_en_US_dedes.peMA.Ode8C11.greekmelody
 peMA.Ode8C11.melody = pe.d119_en_US_dedes.peMA.Ode8C11.melody
 peMA.Ode8C11.incipit = pe.d119_en_US_dedes.peMA.Ode8C11.incipit
 peMA.Ode8C11.text = pe.d119_en_US_dedes.peMA.Ode8C11.text
@@ -377,12 +396,14 @@ peMA.Ode8C1T.text = pe.d119_en_US_dedes.peMA.Ode8C1T.text
 
 peMA.Ode9C1H.ode = pe.d119_en_US_dedes.peMA.Ode9C1H.ode
 peMA.Ode9C1H.mode = pe.d119_en_US_dedes.peMA.Ode9C1H.mode
+peMA.Ode9C1H.greekmelody = pe.d119_en_US_dedes.peMA.Ode9C1H.greekmelody
 peMA.Ode9C1H.melody = pe.d119_en_US_dedes.peMA.Ode9C1H.melody
 peMA.Ode9C1H.incipit = pe.d119_en_US_dedes.peMA.Ode9C1H.incipit
 peMA.Ode9C1H.text = pe.d119_en_US_dedes.peMA.Ode9C1H.text
 
 peMA.Ode9C11.ode = pe.d119_en_US_dedes.peMA.Ode9C11.ode
 peMA.Ode9C11.mode = pe.d119_en_US_dedes.peMA.Ode9C11.mode
+peMA.Ode9C11.greekmelody = pe.d119_en_US_dedes.peMA.Ode9C11.greekmelody
 peMA.Ode9C11.melody = pe.d119_en_US_dedes.peMA.Ode9C11.melody
 peMA.Ode9C11.incipit = pe.d119_en_US_dedes.peMA.Ode9C11.incipit
 peMA.Ode9C11.text = pe.d119_en_US_dedes.peMA.Ode9C11.text
@@ -416,16 +437,19 @@ peMA.ExapTheotokion.incipit = pe.d119_en_US_dedes.peMA.ExapTheotokion.incipit
 peMA.ExapTheotokion.text = pe.d119_en_US_dedes.peMA.ExapTheotokion.text
 
 peMA.Lauds1.mode = pe.d119_en_US_dedes.peMA.Lauds1.mode
+peMA.Lauds1.greekmelody = pe.d119_en_US_dedes.peMA.Lauds1.greekmelody
 peMA.Lauds1.melody = pe.d119_en_US_dedes.peMA.Lauds1.melody
 peMA.Lauds1.incipit = pe.d119_en_US_dedes.peMA.Lauds1.incipit
 peMA.Lauds1.text = pe.d119_en_US_dedes.peMA.Lauds1.text
 
 peMA.Lauds2.mode = pe.d119_en_US_dedes.peMA.Lauds2.mode
+peMA.Lauds2.greekmelody = pe.d119_en_US_dedes.peMA.Lauds2.greekmelody
 peMA.Lauds2.melody = pe.d119_en_US_dedes.peMA.Lauds2.melody
 peMA.Lauds2.incipit = pe.d119_en_US_dedes.peMA.Lauds2.incipit
 peMA.Lauds2.text = pe.d119_en_US_dedes.peMA.Lauds2.text
 
 peMA.Lauds3.mode = pe.d119_en_US_dedes.peMA.Lauds3.mode
+peMA.Lauds3.greekmelody = pe.d119_en_US_dedes.peMA.Lauds3.greekmelody
 peMA.Lauds3.melody = pe.d119_en_US_dedes.peMA.Lauds3.melody
 peMA.Lauds3.incipit = pe.d119_en_US_dedes.peMA.Lauds3.incipit
 peMA.Lauds3.text = pe.d119_en_US_dedes.peMA.Lauds3.text

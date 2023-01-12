@@ -6,6 +6,7 @@ daCommemoration.text = da.d2_en_US_dedes.daCommemoration.text
 daVE.OnTheEveningBefore = da.d2_en_US_dedes.daVE.OnTheEveningBefore
 
 daVE.Apolytikion1.mode = da.d2_en_US_dedes.daVE.Apolytikion1.mode
+daVE.Apolytikion1.greekmelody = da.d2_en_US_dedes.daVE.Apolytikion1.greekmelody
 daVE.Apolytikion1.melody = da.d2_en_US_dedes.daVE.Apolytikion1.melody
 daVE.Apolytikion1.incipit = da.d2_en_US_dedes.daVE.Apolytikion1.incipit
 daVE.Apolytikion1.text = da.d2_en_US_dedes.daVE.Apolytikion1.text
@@ -28,11 +29,13 @@ daMA.Photagogic2Beginning.text = da.d2_en_US_dedes.daMA.Photagogic2Beginning.tex
 daMA.Photagogic3Beginning.text = da.d2_en_US_dedes.daMA.Photagogic3Beginning.text
 
 daMA.Exaposteilarion1.mode = da.d2_en_US_dedes.daMA.Exaposteilarion1.mode
+daMA.Exaposteilarion1.greekmelody = da.d2_en_US_dedes.daMA.Exaposteilarion1.greekmelody
 daMA.Exaposteilarion1.melody = da.d2_en_US_dedes.daMA.Exaposteilarion1.melody
 daMA.Exaposteilarion1.incipit = da.d2_en_US_dedes.daMA.Exaposteilarion1.incipit
 daMA.Exaposteilarion1.text = da.d2_en_US_dedes.daMA.Exaposteilarion1.text
 
 daMA.ExapTheotokion1.mode = da.d2_en_US_dedes.daMA.ExapTheotokion1.mode
+daMA.ExapTheotokion1.greekmelody = da.d2_en_US_dedes.daMA.ExapTheotokion1.greekmelody
 daMA.ExapTheotokion1.melody = da.d2_en_US_dedes.daMA.ExapTheotokion1.melody
 daMA.ExapTheotokion1.incipit = da.d2_en_US_dedes.daMA.ExapTheotokion1.incipit
 daMA.ExapTheotokion1.text = da.d2_en_US_dedes.daMA.ExapTheotokion1.text

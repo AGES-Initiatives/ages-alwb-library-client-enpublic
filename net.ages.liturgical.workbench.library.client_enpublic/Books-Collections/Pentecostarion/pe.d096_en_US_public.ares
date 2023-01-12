@@ -14,6 +14,7 @@ peHO.note2 = pe.d096_en_US_dedes.peHO.note2
 peDA.dismissal = pe.d096_en_US_dedes.peDA.dismissal
 
 peVE.Stichera01.mode = pe.d096_en_US_dedes.peVE.Stichera01.mode
+peVE.Stichera01.greekmelody = pe.d096_en_US_dedes.peVE.Stichera01.greekmelody
 peVE.Stichera01.melody = pe.d096_en_US_dedes.peVE.Stichera01.melody
 peVE.Stichera01.incipit = pe.d096_en_US_dedes.peVE.Stichera01.incipit
 peVE.Stichera01.text = pe.d096_en_US_dedes.peVE.Stichera01.text
@@ -55,16 +56,19 @@ peVE.AposGlory.incipit = pe.d096_en_US_dedes.peVE.AposGlory.incipit
 peVE.AposGlory.text = pe.d096_en_US_dedes.peVE.AposGlory.text
 
 peMA.Kathisma11.mode = pe.d096_en_US_dedes.peMA.Kathisma11.mode
+peMA.Kathisma11.greekmelody = pe.d096_en_US_dedes.peMA.Kathisma11.greekmelody
 peMA.Kathisma11.melody = pe.d096_en_US_dedes.peMA.Kathisma11.melody
 peMA.Kathisma11.incipit = pe.d096_en_US_dedes.peMA.Kathisma11.incipit
 peMA.Kathisma11.text = pe.d096_en_US_dedes.peMA.Kathisma11.text
 
 peMA.Kathisma12.mode = pe.d096_en_US_goadedes.peMA.Kathisma12.mode
+peMA.Kathisma12.greekmelody = pe.d096_en_US_goadedes.peMA.Kathisma12.greekmelody
 peMA.Kathisma12.melody = pe.d096_en_US_goadedes.peMA.Kathisma12.melody
 peMA.Kathisma12.incipit = pe.d096_en_US_goadedes.peMA.Kathisma12.incipit
 peMA.Kathisma12.text = pe.d096_en_US_goadedes.peMA.Kathisma12.text
 
 peMA.Kathisma13.mode = pe.d096_en_US_dedes.peMA.Kathisma13.mode
+peMA.Kathisma13.greekmelody = pe.d096_en_US_dedes.peMA.Kathisma13.greekmelody
 peMA.Kathisma13.melody = pe.d096_en_US_dedes.peMA.Kathisma13.melody
 peMA.Kathisma13.incipit = pe.d096_en_US_dedes.peMA.Kathisma13.incipit
 peMA.Kathisma13.text = pe.d096_en_US_dedes.peMA.Kathisma13.text
@@ -75,6 +79,7 @@ peMA.Kathisma1T.incipit = pe.d096_en_US_dedes.peMA.Kathisma1T.incipit
 peMA.Kathisma1T.text = pe.d096_en_US_dedes.peMA.Kathisma1T.text
 
 peMA.Kathisma21.mode = pe.d096_en_US_goadedes.peMA.Kathisma21.mode
+peMA.Kathisma21.greekmelody = pe.d096_en_US_goadedes.peMA.Kathisma21.greekmelody
 peMA.Kathisma21.melody = pe.d096_en_US_goadedes.peMA.Kathisma21.melody
 peMA.Kathisma21.incipit = pe.d096_en_US_goadedes.peMA.Kathisma21.incipit
 peMA.Kathisma21.text = pe.d096_en_US_goadedes.peMA.Kathisma21.text

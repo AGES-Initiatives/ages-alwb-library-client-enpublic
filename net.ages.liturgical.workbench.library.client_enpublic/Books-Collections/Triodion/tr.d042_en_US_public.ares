@@ -64,6 +64,7 @@ trMA.C2.verse = tr.d042_en_US_dedes.trMA.C2.verse
 
 trMA.Ode6C11.ode = tr.d042_en_US_dedes.trMA.Ode6C11.ode
 trMA.Ode6C11.mode = tr.d042_en_US_dedes.trMA.Ode6C11.mode
+trMA.Ode6C11.greekmelody = tr.d042_en_UK_ware.trMA.Ode6C11.greekmelody
 trMA.Ode6C11.melody = tr.d042_en_UK_ware.trMA.Ode6C11.melody
 trMA.Ode6C11.incipit = tr.d042_en_UK_ware.trMA.Ode6C11.incipit
 trMA.Ode6C11.text = tr.d042_en_UK_ware.trMA.Ode6C11.text
@@ -88,6 +89,7 @@ trMA.Ode6C1T.text = tr.d042_en_UK_ware.trMA.Ode6C1T.text
 
 trMA.Ode6C21.ode = tr.d042_en_US_dedes.trMA.Ode6C21.ode
 trMA.Ode6C21.mode = tr.d042_en_US_dedes.trMA.Ode6C21.mode
+trMA.Ode6C21.greekmelody = tr.d042_en_UK_ware.trMA.Ode6C21.greekmelody
 trMA.Ode6C21.melody = tr.d042_en_UK_ware.trMA.Ode6C21.melody
 trMA.Ode6C21.incipit = tr.d042_en_UK_ware.trMA.Ode6C21.incipit
 trMA.Ode6C21.text = tr.d042_en_UK_ware.trMA.Ode6C21.text
@@ -124,12 +126,14 @@ trMA.Ode6C2A2.text = tr.d042_en_UK_ware.trMA.Ode6C2A2.text
 
 trMA.Ode6C2H.ode = tr.d042_en_US_dedes.trMA.Ode6C2H.ode
 trMA.Ode6C2H.mode = tr.d042_en_US_dedes.trMA.Ode6C2H.mode
+trMA.Ode6C2H.greekmelody = tr.d042_en_UK_ware.trMA.Ode6C2H.greekmelody
 trMA.Ode6C2H.melody = tr.d042_en_UK_ware.trMA.Ode6C2H.melody
 trMA.Ode6C2H.incipit = tr.d042_en_UK_ware.trMA.Ode6C2H.incipit
 trMA.Ode6C2H.text = tr.d042_en_UK_ware.trMA.Ode6C2H.text
 
 trMA.Ode7C11.ode = tr.d042_en_US_dedes.trMA.Ode7C11.ode
 trMA.Ode7C11.mode = tr.d042_en_US_dedes.trMA.Ode7C11.mode
+trMA.Ode7C11.greekmelody = tr.d042_en_UK_ware.trMA.Ode7C11.greekmelody
 trMA.Ode7C11.melody = tr.d042_en_UK_ware.trMA.Ode7C11.melody
 trMA.Ode7C11.incipit = tr.d042_en_UK_ware.trMA.Ode7C11.incipit
 trMA.Ode7C11.text = tr.d042_en_UK_ware.trMA.Ode7C11.text
@@ -154,6 +158,7 @@ trMA.Ode7C1T.text = tr.d042_en_UK_ware.trMA.Ode7C1T.text
 
 trMA.Ode7C21.ode = tr.d042_en_US_dedes.trMA.Ode7C21.ode
 trMA.Ode7C21.mode = tr.d042_en_US_dedes.trMA.Ode7C21.mode
+trMA.Ode7C21.greekmelody = tr.d042_en_UK_ware.trMA.Ode7C21.greekmelody
 trMA.Ode7C21.melody = tr.d042_en_UK_ware.trMA.Ode7C21.melody
 trMA.Ode7C21.incipit = tr.d042_en_UK_ware.trMA.Ode7C21.incipit
 trMA.Ode7C21.text = tr.d042_en_UK_ware.trMA.Ode7C21.text
@@ -190,12 +195,14 @@ trMA.Ode7C2A2.text = tr.d042_en_UK_ware.trMA.Ode7C2A2.text
 
 trMA.Ode7C2H.ode = tr.d042_en_US_dedes.trMA.Ode7C2H.ode
 trMA.Ode7C2H.mode = tr.d042_en_US_dedes.trMA.Ode7C2H.mode
+trMA.Ode7C2H.greekmelody = tr.d042_en_US_dedes.trMA.Ode7C2H.greekmelody
 trMA.Ode7C2H.melody = tr.d042_en_US_dedes.trMA.Ode7C2H.melody
 trMA.Ode7C2H.incipit = tr.d042_en_US_dedes.trMA.Ode7C2H.incipit
 trMA.Ode7C2H.text = tr.d042_en_US_dedes.trMA.Ode7C2H.text
 
 trMA.Ode8C11.ode = tr.d042_en_US_dedes.trMA.Ode8C11.ode
 trMA.Ode8C11.mode = tr.d042_en_US_dedes.trMA.Ode8C11.mode
+trMA.Ode8C11.greekmelody = tr.d042_en_UK_ware.trMA.Ode8C11.greekmelody
 trMA.Ode8C11.melody = tr.d042_en_UK_ware.trMA.Ode8C11.melody
 trMA.Ode8C11.incipit = tr.d042_en_UK_ware.trMA.Ode8C11.incipit
 trMA.Ode8C11.text = tr.d042_en_UK_ware.trMA.Ode8C11.text
@@ -220,6 +227,7 @@ trMA.Ode8C1T.text = tr.d042_en_UK_ware.trMA.Ode8C1T.text
 
 trMA.Ode8C21.ode = tr.d042_en_US_dedes.trMA.Ode8C21.ode
 trMA.Ode8C21.mode = tr.d042_en_US_dedes.trMA.Ode8C21.mode
+trMA.Ode8C21.greekmelody = tr.d042_en_UK_ware.trMA.Ode8C21.greekmelody
 trMA.Ode8C21.melody = tr.d042_en_UK_ware.trMA.Ode8C21.melody
 trMA.Ode8C21.incipit = tr.d042_en_UK_ware.trMA.Ode8C21.incipit
 trMA.Ode8C21.text = tr.d042_en_UK_ware.trMA.Ode8C21.text
@@ -256,12 +264,14 @@ trMA.Ode8C2A2.text = tr.d042_en_UK_ware.trMA.Ode8C2A2.text
 
 trMA.Ode8C2H.ode = tr.d042_en_US_dedes.trMA.Ode8C2H.ode
 trMA.Ode8C2H.mode = tr.d042_en_US_dedes.trMA.Ode8C2H.mode
+trMA.Ode8C2H.greekmelody = tr.d042_en_UK_ware.trMA.Ode8C2H.greekmelody
 trMA.Ode8C2H.melody = tr.d042_en_UK_ware.trMA.Ode8C2H.melody
 trMA.Ode8C2H.incipit = tr.d042_en_UK_ware.trMA.Ode8C2H.incipit
 trMA.Ode8C2H.text = tr.d042_en_UK_ware.trMA.Ode8C2H.text
 
 trMA.Ode9C11.ode = tr.d042_en_US_dedes.trMA.Ode9C11.ode
 trMA.Ode9C11.mode = tr.d042_en_US_dedes.trMA.Ode9C11.mode
+trMA.Ode9C11.greekmelody = tr.d042_en_UK_ware.trMA.Ode9C11.greekmelody
 trMA.Ode9C11.melody = tr.d042_en_UK_ware.trMA.Ode9C11.melody
 trMA.Ode9C11.incipit = tr.d042_en_UK_ware.trMA.Ode9C11.incipit
 trMA.Ode9C11.text = tr.d042_en_UK_ware.trMA.Ode9C11.text
@@ -286,6 +296,7 @@ trMA.Ode9C1T.text = tr.d042_en_UK_ware.trMA.Ode9C1T.text
 
 trMA.Ode9C21.ode = tr.d042_en_US_dedes.trMA.Ode9C21.ode
 trMA.Ode9C21.mode = tr.d042_en_US_dedes.trMA.Ode9C21.mode
+trMA.Ode9C21.greekmelody = tr.d042_en_UK_ware.trMA.Ode9C21.greekmelody
 trMA.Ode9C21.melody = tr.d042_en_UK_ware.trMA.Ode9C21.melody
 trMA.Ode9C21.incipit = tr.d042_en_UK_ware.trMA.Ode9C21.incipit
 trMA.Ode9C21.text = tr.d042_en_UK_ware.trMA.Ode9C21.text
@@ -322,11 +333,13 @@ trMA.Ode9C2A2.text = tr.d042_en_UK_ware.trMA.Ode9C2A2.text
 
 trMA.Ode9C2H.ode = tr.d042_en_US_dedes.trMA.Ode9C2H.ode
 trMA.Ode9C2H.mode = tr.d042_en_US_dedes.trMA.Ode9C2H.mode
+trMA.Ode9C2H.greekmelody = tr.d042_en_US_dedes.trMA.Ode9C2H.greekmelody
 trMA.Ode9C2H.melody = tr.d042_en_US_dedes.trMA.Ode9C2H.melody
 trMA.Ode9C2H.incipit = tr.d042_en_US_dedes.trMA.Ode9C2H.incipit
 trMA.Ode9C2H.text = tr.d042_en_US_dedes.trMA.Ode9C2H.text
 
 trMA.Exaposteilarion1.mode = tr.d042_en_US_dedes.trMA.Exaposteilarion1.mode
+trMA.Exaposteilarion1.greekmelody = tr.d042_en_US_dedes.trMA.Exaposteilarion1.greekmelody
 trMA.Exaposteilarion1.melody = tr.d042_en_US_dedes.trMA.Exaposteilarion1.melody
 trMA.Exaposteilarion1.incipit = tr.d042_en_US_dedes.trMA.Exaposteilarion1.incipit
 trMA.Exaposteilarion1.text = tr.d042_en_US_dedes.trMA.Exaposteilarion1.text

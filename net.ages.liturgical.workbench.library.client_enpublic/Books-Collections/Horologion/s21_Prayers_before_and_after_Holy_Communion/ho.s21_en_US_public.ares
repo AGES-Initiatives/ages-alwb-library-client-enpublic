@@ -12,6 +12,7 @@ R01 = ho.s21_en_US_dedes.R01
 
 hoCA.Ode11.ode = ho.s21_en_US_dedes.hoCA.Ode11.ode
 hoCA.Ode11.mode = ho.s21_en_US_dedes.hoCA.Ode11.mode
+hoCA.Ode11.greekmelody = ho.s21_en_US_dedes.hoCA.Ode11.greekmelody
 hoCA.Ode11.melody = ho.s21_en_US_dedes.hoCA.Ode11.melody
 hoCA.Ode11.incipit = ho.s21_en_US_dedes.hoCA.Ode11.incipit
 hoCA.Ode11.text = ho.s21_en_US_dedes.hoCA.Ode11.text
@@ -30,6 +31,7 @@ hoCA.Ode1T.text = ho.s21_en_US_dedes.hoCA.Ode1T.text
 
 hoCA.Ode31.ode = ho.s21_en_US_dedes.hoCA.Ode31.ode
 hoCA.Ode31.mode = ho.s21_en_US_dedes.hoCA.Ode31.mode
+hoCA.Ode31.greekmelody = ho.s21_en_US_dedes.hoCA.Ode31.greekmelody
 hoCA.Ode31.melody = ho.s21_en_US_dedes.hoCA.Ode31.melody
 hoCA.Ode31.incipit = ho.s21_en_US_dedes.hoCA.Ode31.incipit
 hoCA.Ode31.text = ho.s21_en_US_dedes.hoCA.Ode31.text
@@ -48,6 +50,7 @@ hoCA.Ode3T.text = ho.s21_en_US_dedes.hoCA.Ode3T.text
 
 hoCA.Ode41.ode = ho.s21_en_US_dedes.hoCA.Ode41.ode
 hoCA.Ode41.mode = ho.s21_en_US_dedes.hoCA.Ode41.mode
+hoCA.Ode41.greekmelody = ho.s21_en_US_dedes.hoCA.Ode41.greekmelody
 hoCA.Ode41.melody = ho.s21_en_US_dedes.hoCA.Ode41.melody
 hoCA.Ode41.incipit = ho.s21_en_US_dedes.hoCA.Ode41.incipit
 hoCA.Ode41.text = ho.s21_en_US_dedes.hoCA.Ode41.text
@@ -66,6 +69,7 @@ hoCA.Ode4T.text = ho.s21_en_US_dedes.hoCA.Ode4T.text
 
 hoCA.Ode51.ode = ho.s21_en_US_dedes.hoCA.Ode51.ode
 hoCA.Ode51.mode = ho.s21_en_US_dedes.hoCA.Ode51.mode
+hoCA.Ode51.greekmelody = ho.s21_en_US_dedes.hoCA.Ode51.greekmelody
 hoCA.Ode51.melody = ho.s21_en_US_dedes.hoCA.Ode51.melody
 hoCA.Ode51.incipit = ho.s21_en_US_dedes.hoCA.Ode51.incipit
 hoCA.Ode51.text = ho.s21_en_US_dedes.hoCA.Ode51.text
@@ -84,6 +88,7 @@ hoCA.Ode5T.text = ho.s21_en_US_dedes.hoCA.Ode5T.text
 
 hoCA.Ode61.ode = ho.s21_en_US_dedes.hoCA.Ode61.ode
 hoCA.Ode61.mode = ho.s21_en_US_dedes.hoCA.Ode61.mode
+hoCA.Ode61.greekmelody = ho.s21_en_US_dedes.hoCA.Ode61.greekmelody
 hoCA.Ode61.melody = ho.s21_en_US_dedes.hoCA.Ode61.melody
 hoCA.Ode61.incipit = ho.s21_en_US_dedes.hoCA.Ode61.incipit
 hoCA.Ode61.text = ho.s21_en_US_dedes.hoCA.Ode61.text
@@ -107,6 +112,7 @@ hoCA.Kontakion.text = ho.s21_en_US_dedes.hoCA.Kontakion.text
 
 hoCA.Ode71.ode = ho.s21_en_US_dedes.hoCA.Ode71.ode
 hoCA.Ode71.mode = ho.s21_en_US_dedes.hoCA.Ode71.mode
+hoCA.Ode71.greekmelody = ho.s21_en_US_dedes.hoCA.Ode71.greekmelody
 hoCA.Ode71.melody = ho.s21_en_US_dedes.hoCA.Ode71.melody
 hoCA.Ode71.incipit = ho.s21_en_US_dedes.hoCA.Ode71.incipit
 hoCA.Ode71.text = ho.s21_en_US_dedes.hoCA.Ode71.text
@@ -125,6 +131,7 @@ hoCA.Ode7T.text = ho.s21_en_US_dedes.hoCA.Ode7T.text
 
 hoCA.Ode81.ode = ho.s21_en_US_dedes.hoCA.Ode81.ode
 hoCA.Ode81.mode = ho.s21_en_US_dedes.hoCA.Ode81.mode
+hoCA.Ode81.greekmelody = ho.s21_en_US_dedes.hoCA.Ode81.greekmelody
 hoCA.Ode81.melody = ho.s21_en_US_dedes.hoCA.Ode81.melody
 hoCA.Ode81.incipit = ho.s21_en_US_dedes.hoCA.Ode81.incipit
 hoCA.Ode81.text = ho.s21_en_US_dedes.hoCA.Ode81.text
@@ -143,6 +150,7 @@ hoCA.Ode8T.text = ho.s21_en_US_dedes.hoCA.Ode8T.text
 
 hoCA.Ode91.ode = ho.s21_en_US_dedes.hoCA.Ode91.ode
 hoCA.Ode91.mode = ho.s21_en_US_dedes.hoCA.Ode91.mode
+hoCA.Ode91.greekmelody = ho.s21_en_US_dedes.hoCA.Ode91.greekmelody
 hoCA.Ode91.melody = ho.s21_en_US_dedes.hoCA.Ode91.melody
 hoCA.Ode91.incipit = ho.s21_en_US_dedes.hoCA.Ode91.incipit
 hoCA.Ode91.text = ho.s21_en_US_dedes.hoCA.Ode91.text
