@@ -65,7 +65,7 @@ meVE.SticBoth.incipit = me.m02.d05_en_US_dedes.meVE.SticBoth.incipit
 meVE.SticBoth.text = me.m02.d05_en_US_dedes.meVE.SticBoth.text
 
 meVE.Aposticha1.mode = me.m02.d05_en_US_dedes.meVE.Aposticha1.mode
-meVE.Aposticha1.greekmelody = me.m02.d05_en_US_oca.meVE.Aposticha1.greekmelody
+meVE.Aposticha1.greekmelody = me.m02.d05_en_US_dedes.meVE.Aposticha1.greekmelody
 meVE.Aposticha1.melody = me.m02.d05_en_US_oca.meVE.Aposticha1.melody
 meVE.Aposticha1.incipit = me.m02.d05_en_US_oca.meVE.Aposticha1.incipit
 meVE.Aposticha1.text = me.m02.d05_en_US_oca.meVE.Aposticha1.text
@@ -104,7 +104,7 @@ meMA.Kathisma11.incipit = me.m02.d05_en_US_dedes.meMA.Kathisma11.incipit
 meMA.Kathisma11.text = me.m02.d05_en_US_dedes.meMA.Kathisma11.text
 
 meMA.Kathisma21.mode = me.m02.d05_en_US_dedes.meMA.Kathisma21.mode
-meMA.Kathisma21.greekmelody = me.m02.d05_en_US_oca.meMA.Kathisma21.greekmelody
+meMA.Kathisma21.greekmelody = me.m02.d05_en_US_dedes.meMA.Kathisma21.greekmelody
 meMA.Kathisma21.melody = me.m02.d05_en_US_oca.meMA.Kathisma21.melody
 meMA.Kathisma21.incipit = me.m02.d05_en_US_oca.meMA.Kathisma21.incipit
 meMA.Kathisma21.text = me.m02.d05_en_US_oca.meMA.Kathisma21.text

@@ -14,7 +14,7 @@ peHO.note2 = pe.d090_en_US_dedes.peHO.note2
 peDA.dismissal = pe.d090_en_US_dedes.peDA.dismissal
 
 peVE.Stichera01.mode = pe.d090_en_US_goadedes.peVE.Stichera01.mode
-peVE.Stichera01.greekmelody = pe.d090_en_US_goadedes.peVE.Stichera01.greekmelody
+peVE.Stichera01.greekmelody = pe.d090_en_US_dedes.peVE.Stichera01.greekmelody
 peVE.Stichera01.melody = pe.d090_en_US_goadedes.peVE.Stichera01.melody
 peVE.Stichera01.incipit = pe.d090_en_US_goadedes.peVE.Stichera01.incipit
 peVE.Stichera01.text = pe.d090_en_US_goadedes.peVE.Stichera01.text

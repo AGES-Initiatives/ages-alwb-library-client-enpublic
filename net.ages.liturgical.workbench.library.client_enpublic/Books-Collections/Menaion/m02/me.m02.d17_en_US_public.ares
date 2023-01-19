@@ -20,7 +20,7 @@ meHO.note1 = me.m02.d17_en_US_dedes.meHO.note1
 meHO.note2 = me.m02.d17_en_US_dedes.meHO.note2
 
 meVE.Stichera01.mode = me.m02.d17_en_US_dedes.meVE.Stichera01.mode
-meVE.Stichera01.greekmelody = me.m02.d17_en_US_oca.meVE.Stichera01.greekmelody
+meVE.Stichera01.greekmelody = me.m02.d17_en_US_dedes.meVE.Stichera01.greekmelody
 meVE.Stichera01.melody = me.m02.d17_en_US_oca.meVE.Stichera01.melody
 meVE.Stichera01.incipit = me.m02.d17_en_US_oca.meVE.Stichera01.incipit
 meVE.Stichera01.text = me.m02.d17_en_US_oca.meVE.Stichera01.text
@@ -395,7 +395,7 @@ meMA.LaudsGlory.incipit = me.m02.d17_en_US_dedes.meMA.LaudsGlory.incipit
 meMA.LaudsGlory.text = me.m02.d17_en_US_dedes.meMA.LaudsGlory.text
 
 meMA.LaudsTheotokion.mode = me.m02.d17_en_US_goadedes.meMA.LaudsTheotokion.mode
-meMA.LaudsTheotokion.greekmelody = me.m02.d17_en_US_goadedes.meMA.LaudsTheotokion.greekmelody
+meMA.LaudsTheotokion.greekmelody = me.m02.d17_en_US_dedes.meMA.LaudsTheotokion.greekmelody
 meMA.LaudsTheotokion.melody = me.m02.d17_en_US_goadedes.meMA.LaudsTheotokion.melody
 meMA.LaudsTheotokion.incipit = me.m02.d17_en_US_goadedes.meMA.LaudsTheotokion.incipit
 meMA.LaudsTheotokion.text = me.m02.d17_en_US_goadedes.meMA.LaudsTheotokion.text

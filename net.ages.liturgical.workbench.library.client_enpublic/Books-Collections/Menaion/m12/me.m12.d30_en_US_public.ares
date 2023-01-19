@@ -59,7 +59,7 @@ meVE.SticGlory.incipit = me.m12.d30_en_US_oca.meVE.SticGlory.incipit
 meVE.SticGlory.text = me.m12.d30_en_US_oca.meVE.SticGlory.text
 
 meVE.Aposticha1.mode = me.m12.d30_en_US_dedes.meVE.Aposticha1.mode
-meVE.Aposticha1.greekmelody = me.m12.d30_en_US_oca.meVE.Aposticha1.greekmelody
+meVE.Aposticha1.greekmelody = me.m12.d30_en_US_dedes.meVE.Aposticha1.greekmelody
 meVE.Aposticha1.melody = me.m12.d30_en_US_oca.meVE.Aposticha1.melody
 meVE.Aposticha1.incipit = me.m12.d30_en_US_oca.meVE.Aposticha1.incipit
 meVE.Aposticha1.text = me.m12.d30_en_US_oca.meVE.Aposticha1.text
@@ -590,7 +590,7 @@ meMA.Exaposteilarion3.incipit = me.m12.d30_en_US_dedes.meMA.Exaposteilarion3.inc
 meMA.Exaposteilarion3.text = me.m12.d30_en_US_dedes.meMA.Exaposteilarion3.text
 
 meMA.Lauds1.mode = me.m12.d30_en_US_dedes.meMA.Lauds1.mode
-meMA.Lauds1.greekmelody = me.m12.d30_en_US_oca.meMA.Lauds1.greekmelody
+meMA.Lauds1.greekmelody = me.m12.d30_en_US_dedes.meMA.Lauds1.greekmelody
 meMA.Lauds1.melody = me.m12.d30_en_US_oca.meMA.Lauds1.melody
 meMA.Lauds1.incipit = me.m12.d30_en_US_oca.meMA.Lauds1.incipit
 meMA.Lauds1.text = me.m12.d30_en_US_oca.meMA.Lauds1.text
@@ -606,7 +606,7 @@ meMA.Lauds3.incipit = me.m12.d30_en_US_oca.meMA.Lauds3.incipit
 meMA.Lauds3.text = me.m12.d30_en_US_oca.meMA.Lauds3.text
 
 meMA.Lauds4.mode = me.m12.d30_en_US_dedes.meMA.Lauds4.mode
-meMA.Lauds4.greekmelody = me.m12.d30_en_US_oca.meMA.Lauds4.greekmelody
+meMA.Lauds4.greekmelody = me.m12.d30_en_US_dedes.meMA.Lauds4.greekmelody
 meMA.Lauds4.melody = me.m12.d30_en_US_oca.meMA.Lauds4.melody
 meMA.Lauds4.incipit = me.m12.d30_en_US_oca.meMA.Lauds4.incipit
 meMA.Lauds4.text = me.m12.d30_en_US_oca.meMA.Lauds4.text
@@ -617,7 +617,7 @@ meMA.LaudsGlory.incipit = me.m12.d30_en_US_oca.meMA.LaudsGlory.incipit
 meMA.LaudsGlory.text = me.m12.d30_en_US_oca.meMA.LaudsGlory.text
 
 meMA.Aposticha1.mode = me.m12.d30_en_US_dedes.meMA.Aposticha1.mode
-meMA.Aposticha1.greekmelody = me.m12.d30_en_US_oca.meMA.Aposticha1.greekmelody
+meMA.Aposticha1.greekmelody = me.m12.d30_en_US_dedes.meMA.Aposticha1.greekmelody
 meMA.Aposticha1.melody = me.m12.d30_en_US_oca.meMA.Aposticha1.melody
 meMA.Aposticha1.incipit = me.m12.d30_en_US_oca.meMA.Aposticha1.incipit
 meMA.Aposticha1.text = me.m12.d30_en_US_oca.meMA.Aposticha1.text

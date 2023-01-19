@@ -68,7 +68,7 @@ pePA.Ode12.text = pe.d00P_en_US_dedes.pePA.Ode12.text
 
 pePA.Ode1T1.ode = pe.d00P_en_US_goadedes.pePA.Ode1T1.ode
 pePA.Ode1T1.mode = pe.d00P_en_US_goadedes.pePA.Ode1T1.mode
-pePA.Ode1T1.greekmelody = pe.d00P_en_US_goadedes.pePA.Ode1T1.greekmelody
+pePA.Ode1T1.greekmelody = pe.d00P_en_US_dedes.pePA.Ode1T1.greekmelody
 pePA.Ode1T1.melody = pe.d00P_en_US_goadedes.pePA.Ode1T1.melody
 pePA.Ode1T1.incipit = pe.d00P_en_US_goadedes.pePA.Ode1T1.incipit
 pePA.Ode1T1.text = pe.d00P_en_US_goadedes.pePA.Ode1T1.text
@@ -100,7 +100,7 @@ pePA.Ode32.text = pe.d00P_en_US_dedes.pePA.Ode32.text
 
 pePA.Ode3T1.ode = pe.d00P_en_US_goadedes.pePA.Ode3T1.ode
 pePA.Ode3T1.mode = pe.d00P_en_US_goadedes.pePA.Ode3T1.mode
-pePA.Ode3T1.greekmelody = pe.d00P_en_US_goadedes.pePA.Ode3T1.greekmelody
+pePA.Ode3T1.greekmelody = pe.d00P_en_US_dedes.pePA.Ode3T1.greekmelody
 pePA.Ode3T1.melody = pe.d00P_en_US_goadedes.pePA.Ode3T1.melody
 pePA.Ode3T1.incipit = pe.d00P_en_US_goadedes.pePA.Ode3T1.incipit
 pePA.Ode3T1.text = pe.d00P_en_US_goadedes.pePA.Ode3T1.text
@@ -142,7 +142,7 @@ pePA.Ode43.text = pe.d00P_en_US_dedes.pePA.Ode43.text
 
 pePA.Ode4T1.ode = pe.d00P_en_US_goadedes.pePA.Ode4T1.ode
 pePA.Ode4T1.mode = pe.d00P_en_US_goadedes.pePA.Ode4T1.mode
-pePA.Ode4T1.greekmelody = pe.d00P_en_US_goadedes.pePA.Ode4T1.greekmelody
+pePA.Ode4T1.greekmelody = pe.d00P_en_US_dedes.pePA.Ode4T1.greekmelody
 pePA.Ode4T1.melody = pe.d00P_en_US_goadedes.pePA.Ode4T1.melody
 pePA.Ode4T1.incipit = pe.d00P_en_US_goadedes.pePA.Ode4T1.incipit
 pePA.Ode4T1.text = pe.d00P_en_US_goadedes.pePA.Ode4T1.text
@@ -174,7 +174,7 @@ pePA.Ode52.text = pe.d00P_en_US_dedes.pePA.Ode52.text
 
 pePA.Ode5T1.ode = pe.d00P_en_US_goadedes.pePA.Ode5T1.ode
 pePA.Ode5T1.mode = pe.d00P_en_US_goadedes.pePA.Ode5T1.mode
-pePA.Ode5T1.greekmelody = pe.d00P_en_US_goadedes.pePA.Ode5T1.greekmelody
+pePA.Ode5T1.greekmelody = pe.d00P_en_US_dedes.pePA.Ode5T1.greekmelody
 pePA.Ode5T1.melody = pe.d00P_en_US_goadedes.pePA.Ode5T1.melody
 pePA.Ode5T1.incipit = pe.d00P_en_US_goadedes.pePA.Ode5T1.incipit
 pePA.Ode5T1.text = pe.d00P_en_US_goadedes.pePA.Ode5T1.text
@@ -206,7 +206,7 @@ pePA.Ode62.text = pe.d00P_en_US_dedes.pePA.Ode62.text
 
 pePA.Ode6T1.ode = pe.d00P_en_US_goadedes.pePA.Ode6T1.ode
 pePA.Ode6T1.mode = pe.d00P_en_US_goadedes.pePA.Ode6T1.mode
-pePA.Ode6T1.greekmelody = pe.d00P_en_US_goadedes.pePA.Ode6T1.greekmelody
+pePA.Ode6T1.greekmelody = pe.d00P_en_US_dedes.pePA.Ode6T1.greekmelody
 pePA.Ode6T1.melody = pe.d00P_en_US_goadedes.pePA.Ode6T1.melody
 pePA.Ode6T1.incipit = pe.d00P_en_US_goadedes.pePA.Ode6T1.incipit
 pePA.Ode6T1.text = pe.d00P_en_US_goadedes.pePA.Ode6T1.text
@@ -251,7 +251,7 @@ pePA.Ode73.text = pe.d00P_en_US_dedes.pePA.Ode73.text
 
 pePA.Ode7T1.ode = pe.d00P_en_US_goadedes.pePA.Ode7T1.ode
 pePA.Ode7T1.mode = pe.d00P_en_US_goadedes.pePA.Ode7T1.mode
-pePA.Ode7T1.greekmelody = pe.d00P_en_US_goadedes.pePA.Ode7T1.greekmelody
+pePA.Ode7T1.greekmelody = pe.d00P_en_US_dedes.pePA.Ode7T1.greekmelody
 pePA.Ode7T1.melody = pe.d00P_en_US_goadedes.pePA.Ode7T1.melody
 pePA.Ode7T1.incipit = pe.d00P_en_US_goadedes.pePA.Ode7T1.incipit
 pePA.Ode7T1.text = pe.d00P_en_US_goadedes.pePA.Ode7T1.text
@@ -289,7 +289,7 @@ pePA.Ode83.text = pe.d00P_en_US_dedes.pePA.Ode83.text
 
 pePA.Ode8T1.ode = pe.d00P_en_US_goadedes.pePA.Ode8T1.ode
 pePA.Ode8T1.mode = pe.d00P_en_US_goadedes.pePA.Ode8T1.mode
-pePA.Ode8T1.greekmelody = pe.d00P_en_US_goadedes.pePA.Ode8T1.greekmelody
+pePA.Ode8T1.greekmelody = pe.d00P_en_US_dedes.pePA.Ode8T1.greekmelody
 pePA.Ode8T1.melody = pe.d00P_en_US_goadedes.pePA.Ode8T1.melody
 pePA.Ode8T1.incipit = pe.d00P_en_US_goadedes.pePA.Ode8T1.incipit
 pePA.Ode8T1.text = pe.d00P_en_US_goadedes.pePA.Ode8T1.text
@@ -357,7 +357,7 @@ pePA.Ode92.text = pe.d00P_en_US_dedes.pePA.Ode92.text
 
 pePA.Ode9T1.ode = pe.d00P_en_US_goadedes.pePA.Ode9T1.ode
 pePA.Ode9T1.mode = pe.d00P_en_US_goadedes.pePA.Ode9T1.mode
-pePA.Ode9T1.greekmelody = pe.d00P_en_US_goadedes.pePA.Ode9T1.greekmelody
+pePA.Ode9T1.greekmelody = pe.d00P_en_US_dedes.pePA.Ode9T1.greekmelody
 pePA.Ode9T1.melody = pe.d00P_en_US_goadedes.pePA.Ode9T1.melody
 pePA.Ode9T1.incipit = pe.d00P_en_US_goadedes.pePA.Ode9T1.incipit
 pePA.Ode9T1.text = pe.d00P_en_US_goadedes.pePA.Ode9T1.text

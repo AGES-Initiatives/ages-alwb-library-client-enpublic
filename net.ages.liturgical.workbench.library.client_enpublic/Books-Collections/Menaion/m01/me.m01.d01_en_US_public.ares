@@ -33,7 +33,7 @@ meVE.Stichera02.incipit = me.m01.d01_en_US_oca.meVE.Stichera02.incipit
 meVE.Stichera02.text = me.m01.d01_en_US_oca.meVE.Stichera02.text
 
 meVE.Stichera03.mode = me.m01.d01_en_US_dedes.meVE.Stichera03.mode
-meVE.Stichera03.greekmelody = me.m01.d01_en_US_oca.meVE.Stichera03.greekmelody
+meVE.Stichera03.greekmelody = me.m01.d01_en_US_dedes.meVE.Stichera03.greekmelody
 meVE.Stichera03.melody = me.m01.d01_en_US_oca.meVE.Stichera03.melody
 meVE.Stichera03.incipit = me.m01.d01_en_US_oca.meVE.Stichera03.incipit
 meVE.Stichera03.text = me.m01.d01_en_US_oca.meVE.Stichera03.text
@@ -212,7 +212,7 @@ meMA.Ode1C1H.text = me.m01.d01_en_US_dedes.meMA.Ode1C1H.text
 
 meMA.Ode1C11.ode = me.m01.d01_en_US_dedes.meMA.Ode1C11.ode
 meMA.Ode1C11.mode = me.m01.d01_en_US_dedes.meMA.Ode1C11.mode
-meMA.Ode1C11.greekmelody = me.m01.d01_en_US_oca.meMA.Ode1C11.greekmelody
+meMA.Ode1C11.greekmelody = me.m01.d01_en_US_dedes.meMA.Ode1C11.greekmelody
 meMA.Ode1C11.melody = me.m01.d01_en_US_oca.meMA.Ode1C11.melody
 meMA.Ode1C11.incipit = me.m01.d01_en_US_oca.meMA.Ode1C11.incipit
 meMA.Ode1C11.text = me.m01.d01_en_US_oca.meMA.Ode1C11.text
@@ -225,7 +225,7 @@ meMA.Ode1C12.text = me.m01.d01_en_US_oca.meMA.Ode1C12.text
 
 meMA.Ode1C21.ode = me.m01.d01_en_US_dedes.meMA.Ode1C21.ode
 meMA.Ode1C21.mode = me.m01.d01_en_US_dedes.meMA.Ode1C21.mode
-meMA.Ode1C21.greekmelody = me.m01.d01_en_US_oca.meMA.Ode1C21.greekmelody
+meMA.Ode1C21.greekmelody = me.m01.d01_en_US_dedes.meMA.Ode1C21.greekmelody
 meMA.Ode1C21.melody = me.m01.d01_en_US_oca.meMA.Ode1C21.melody
 meMA.Ode1C21.incipit = me.m01.d01_en_US_oca.meMA.Ode1C21.incipit
 meMA.Ode1C21.text = me.m01.d01_en_US_oca.meMA.Ode1C21.text
@@ -269,7 +269,7 @@ meMA.Ode3C1H.text = me.m01.d01_en_US_dedes.meMA.Ode3C1H.text
 
 meMA.Ode3C11.ode = me.m01.d01_en_US_dedes.meMA.Ode3C11.ode
 meMA.Ode3C11.mode = me.m01.d01_en_US_dedes.meMA.Ode3C11.mode
-meMA.Ode3C11.greekmelody = me.m01.d01_en_US_oca.meMA.Ode3C11.greekmelody
+meMA.Ode3C11.greekmelody = me.m01.d01_en_US_dedes.meMA.Ode3C11.greekmelody
 meMA.Ode3C11.melody = me.m01.d01_en_US_oca.meMA.Ode3C11.melody
 meMA.Ode3C11.incipit = me.m01.d01_en_US_oca.meMA.Ode3C11.incipit
 meMA.Ode3C11.text = me.m01.d01_en_US_oca.meMA.Ode3C11.text
@@ -282,7 +282,7 @@ meMA.Ode3C12.text = me.m01.d01_en_US_oca.meMA.Ode3C12.text
 
 meMA.Ode3C21.ode = me.m01.d01_en_US_dedes.meMA.Ode3C21.ode
 meMA.Ode3C21.mode = me.m01.d01_en_US_dedes.meMA.Ode3C21.mode
-meMA.Ode3C21.greekmelody = me.m01.d01_en_US_oca.meMA.Ode3C21.greekmelody
+meMA.Ode3C21.greekmelody = me.m01.d01_en_US_dedes.meMA.Ode3C21.greekmelody
 meMA.Ode3C21.melody = me.m01.d01_en_US_oca.meMA.Ode3C21.melody
 meMA.Ode3C21.incipit = me.m01.d01_en_US_oca.meMA.Ode3C21.incipit
 meMA.Ode3C21.text = me.m01.d01_en_US_oca.meMA.Ode3C21.text
@@ -312,13 +312,13 @@ meMA.Ode3C2T.incipit = me.m01.d01_en_US_oca.meMA.Ode3C2T.incipit
 meMA.Ode3C2T.text = me.m01.d01_en_US_oca.meMA.Ode3C2T.text
 
 meMA.Ode3Kathisma1.mode = me.m01.d01_en_US_goadedes.meMA.Ode3Kathisma1.mode
-meMA.Ode3Kathisma1.greekmelody = me.m01.d01_en_US_goadedes.meMA.Ode3Kathisma1.greekmelody
+meMA.Ode3Kathisma1.greekmelody = me.m01.d01_en_US_dedes.meMA.Ode3Kathisma1.greekmelody
 meMA.Ode3Kathisma1.melody = me.m01.d01_en_US_goadedes.meMA.Ode3Kathisma1.melody
 meMA.Ode3Kathisma1.incipit = me.m01.d01_en_US_goadedes.meMA.Ode3Kathisma1.incipit
 meMA.Ode3Kathisma1.text = me.m01.d01_en_US_goadedes.meMA.Ode3Kathisma1.text
 
 meMA.Ode3Kathisma2.mode = me.m01.d01_en_US_dedes.meMA.Ode3Kathisma2.mode
-meMA.Ode3Kathisma2.greekmelody = me.m01.d01_en_US_oca.meMA.Ode3Kathisma2.greekmelody
+meMA.Ode3Kathisma2.greekmelody = me.m01.d01_en_US_dedes.meMA.Ode3Kathisma2.greekmelody
 meMA.Ode3Kathisma2.melody = me.m01.d01_en_US_oca.meMA.Ode3Kathisma2.melody
 meMA.Ode3Kathisma2.incipit = me.m01.d01_en_US_oca.meMA.Ode3Kathisma2.incipit
 meMA.Ode3Kathisma2.text = me.m01.d01_en_US_oca.meMA.Ode3Kathisma2.text
@@ -338,7 +338,7 @@ meMA.Ode4C1H.text = me.m01.d01_en_US_dedes.meMA.Ode4C1H.text
 
 meMA.Ode4C11.ode = me.m01.d01_en_US_dedes.meMA.Ode4C11.ode
 meMA.Ode4C11.mode = me.m01.d01_en_US_dedes.meMA.Ode4C11.mode
-meMA.Ode4C11.greekmelody = me.m01.d01_en_US_oca.meMA.Ode4C11.greekmelody
+meMA.Ode4C11.greekmelody = me.m01.d01_en_US_dedes.meMA.Ode4C11.greekmelody
 meMA.Ode4C11.melody = me.m01.d01_en_US_oca.meMA.Ode4C11.melody
 meMA.Ode4C11.incipit = me.m01.d01_en_US_oca.meMA.Ode4C11.incipit
 meMA.Ode4C11.text = me.m01.d01_en_US_oca.meMA.Ode4C11.text
@@ -351,7 +351,7 @@ meMA.Ode4C12.text = me.m01.d01_en_US_oca.meMA.Ode4C12.text
 
 meMA.Ode4C21.ode = me.m01.d01_en_US_dedes.meMA.Ode4C21.ode
 meMA.Ode4C21.mode = me.m01.d01_en_US_dedes.meMA.Ode4C21.mode
-meMA.Ode4C21.greekmelody = me.m01.d01_en_US_oca.meMA.Ode4C21.greekmelody
+meMA.Ode4C21.greekmelody = me.m01.d01_en_US_dedes.meMA.Ode4C21.greekmelody
 meMA.Ode4C21.melody = me.m01.d01_en_US_oca.meMA.Ode4C21.melody
 meMA.Ode4C21.incipit = me.m01.d01_en_US_oca.meMA.Ode4C21.incipit
 meMA.Ode4C21.text = me.m01.d01_en_US_oca.meMA.Ode4C21.text
@@ -395,7 +395,7 @@ meMA.Ode5C1H.text = me.m01.d01_en_US_dedes.meMA.Ode5C1H.text
 
 meMA.Ode5C11.ode = me.m01.d01_en_US_dedes.meMA.Ode5C11.ode
 meMA.Ode5C11.mode = me.m01.d01_en_US_dedes.meMA.Ode5C11.mode
-meMA.Ode5C11.greekmelody = me.m01.d01_en_US_oca.meMA.Ode5C11.greekmelody
+meMA.Ode5C11.greekmelody = me.m01.d01_en_US_dedes.meMA.Ode5C11.greekmelody
 meMA.Ode5C11.melody = me.m01.d01_en_US_oca.meMA.Ode5C11.melody
 meMA.Ode5C11.incipit = me.m01.d01_en_US_oca.meMA.Ode5C11.incipit
 meMA.Ode5C11.text = me.m01.d01_en_US_oca.meMA.Ode5C11.text
@@ -408,7 +408,7 @@ meMA.Ode5C12.text = me.m01.d01_en_US_oca.meMA.Ode5C12.text
 
 meMA.Ode5C21.ode = me.m01.d01_en_US_dedes.meMA.Ode5C21.ode
 meMA.Ode5C21.mode = me.m01.d01_en_US_dedes.meMA.Ode5C21.mode
-meMA.Ode5C21.greekmelody = me.m01.d01_en_US_oca.meMA.Ode5C21.greekmelody
+meMA.Ode5C21.greekmelody = me.m01.d01_en_US_dedes.meMA.Ode5C21.greekmelody
 meMA.Ode5C21.melody = me.m01.d01_en_US_oca.meMA.Ode5C21.melody
 meMA.Ode5C21.incipit = me.m01.d01_en_US_oca.meMA.Ode5C21.incipit
 meMA.Ode5C21.text = me.m01.d01_en_US_oca.meMA.Ode5C21.text
@@ -446,7 +446,7 @@ meMA.Ode6C1H.text = me.m01.d01_en_US_dedes.meMA.Ode6C1H.text
 
 meMA.Ode6C11.ode = me.m01.d01_en_US_dedes.meMA.Ode6C11.ode
 meMA.Ode6C11.mode = me.m01.d01_en_US_dedes.meMA.Ode6C11.mode
-meMA.Ode6C11.greekmelody = me.m01.d01_en_US_oca.meMA.Ode6C11.greekmelody
+meMA.Ode6C11.greekmelody = me.m01.d01_en_US_dedes.meMA.Ode6C11.greekmelody
 meMA.Ode6C11.melody = me.m01.d01_en_US_oca.meMA.Ode6C11.melody
 meMA.Ode6C11.incipit = me.m01.d01_en_US_oca.meMA.Ode6C11.incipit
 meMA.Ode6C11.text = me.m01.d01_en_US_oca.meMA.Ode6C11.text
@@ -459,7 +459,7 @@ meMA.Ode6C12.text = me.m01.d01_en_US_oca.meMA.Ode6C12.text
 
 meMA.Ode6C21.ode = me.m01.d01_en_US_dedes.meMA.Ode6C21.ode
 meMA.Ode6C21.mode = me.m01.d01_en_US_dedes.meMA.Ode6C21.mode
-meMA.Ode6C21.greekmelody = me.m01.d01_en_US_oca.meMA.Ode6C21.greekmelody
+meMA.Ode6C21.greekmelody = me.m01.d01_en_US_dedes.meMA.Ode6C21.greekmelody
 meMA.Ode6C21.melody = me.m01.d01_en_US_oca.meMA.Ode6C21.melody
 meMA.Ode6C21.incipit = me.m01.d01_en_US_oca.meMA.Ode6C21.incipit
 meMA.Ode6C21.text = me.m01.d01_en_US_oca.meMA.Ode6C21.text
@@ -505,7 +505,7 @@ meMA.Ode7C1H.text = me.m01.d01_en_US_dedes.meMA.Ode7C1H.text
 
 meMA.Ode7C11.ode = me.m01.d01_en_US_dedes.meMA.Ode7C11.ode
 meMA.Ode7C11.mode = me.m01.d01_en_US_dedes.meMA.Ode7C11.mode
-meMA.Ode7C11.greekmelody = me.m01.d01_en_US_oca.meMA.Ode7C11.greekmelody
+meMA.Ode7C11.greekmelody = me.m01.d01_en_US_dedes.meMA.Ode7C11.greekmelody
 meMA.Ode7C11.melody = me.m01.d01_en_US_oca.meMA.Ode7C11.melody
 meMA.Ode7C11.incipit = me.m01.d01_en_US_oca.meMA.Ode7C11.incipit
 meMA.Ode7C11.text = me.m01.d01_en_US_oca.meMA.Ode7C11.text
@@ -518,7 +518,7 @@ meMA.Ode7C12.text = me.m01.d01_en_US_oca.meMA.Ode7C12.text
 
 meMA.Ode7C21.ode = me.m01.d01_en_US_dedes.meMA.Ode7C21.ode
 meMA.Ode7C21.mode = me.m01.d01_en_US_dedes.meMA.Ode7C21.mode
-meMA.Ode7C21.greekmelody = me.m01.d01_en_US_oca.meMA.Ode7C21.greekmelody
+meMA.Ode7C21.greekmelody = me.m01.d01_en_US_dedes.meMA.Ode7C21.greekmelody
 meMA.Ode7C21.melody = me.m01.d01_en_US_oca.meMA.Ode7C21.melody
 meMA.Ode7C21.incipit = me.m01.d01_en_US_oca.meMA.Ode7C21.incipit
 meMA.Ode7C21.text = me.m01.d01_en_US_oca.meMA.Ode7C21.text
@@ -562,7 +562,7 @@ meMA.Ode8C1H.text = me.m01.d01_en_US_dedes.meMA.Ode8C1H.text
 
 meMA.Ode8C11.ode = me.m01.d01_en_US_dedes.meMA.Ode8C11.ode
 meMA.Ode8C11.mode = me.m01.d01_en_US_dedes.meMA.Ode8C11.mode
-meMA.Ode8C11.greekmelody = me.m01.d01_en_US_oca.meMA.Ode8C11.greekmelody
+meMA.Ode8C11.greekmelody = me.m01.d01_en_US_dedes.meMA.Ode8C11.greekmelody
 meMA.Ode8C11.melody = me.m01.d01_en_US_oca.meMA.Ode8C11.melody
 meMA.Ode8C11.incipit = me.m01.d01_en_US_oca.meMA.Ode8C11.incipit
 meMA.Ode8C11.text = me.m01.d01_en_US_oca.meMA.Ode8C11.text
@@ -575,7 +575,7 @@ meMA.Ode8C12.text = me.m01.d01_en_US_oca.meMA.Ode8C12.text
 
 meMA.Ode8C21.ode = me.m01.d01_en_US_dedes.meMA.Ode8C21.ode
 meMA.Ode8C21.mode = me.m01.d01_en_US_dedes.meMA.Ode8C21.mode
-meMA.Ode8C21.greekmelody = me.m01.d01_en_US_oca.meMA.Ode8C21.greekmelody
+meMA.Ode8C21.greekmelody = me.m01.d01_en_US_dedes.meMA.Ode8C21.greekmelody
 meMA.Ode8C21.melody = me.m01.d01_en_US_oca.meMA.Ode8C21.melody
 meMA.Ode8C21.incipit = me.m01.d01_en_US_oca.meMA.Ode8C21.incipit
 meMA.Ode8C21.text = me.m01.d01_en_US_oca.meMA.Ode8C21.text

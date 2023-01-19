@@ -41,19 +41,19 @@ ocVE.SticTheotokion.incipit = oc.m7.d4_en_US_dedes.ocVE.SticTheotokion.incipit
 ocVE.SticTheotokion.text = oc.m7.d4_en_US_dedes.ocVE.SticTheotokion.text
 
 ocVE.Aposticha1.mode = oc.m7.d4_en_US_dedes.ocVE.Aposticha1.mode
-ocVE.Aposticha.greekmelody = oc.m7.d4_en_US_dedes.ocVE.Aposticha1.greekmelody
+ocVE.Aposticha1.greekmelody = oc.m7.d4_en_US_dedes.ocVE.Aposticha1.greekmelody
 ocVE.Aposticha1.melody = oc.m7.d4_en_US_dedes.ocVE.Aposticha1.melody
 ocVE.Aposticha1.incipit = oc.m7.d4_en_US_dedes.ocVE.Aposticha1.incipit
 ocVE.Aposticha1.text = oc.m7.d4_en_US_dedes.ocVE.Aposticha1.text
 
 ocVE.Aposticha2.mode = oc.m7.d4_en_US_dedes.ocVE.Aposticha2.mode
-ocVE.Aposticha.greekmelody = oc.m7.d4_en_US_dedes.ocVE.Aposticha2.greekmelody
+ocVE.Aposticha2.greekmelody = oc.m7.d4_en_US_dedes.ocVE.Aposticha2.greekmelody
 ocVE.Aposticha2.melody = oc.m7.d4_en_US_dedes.ocVE.Aposticha2.melody
 ocVE.Aposticha2.incipit = oc.m7.d4_en_US_dedes.ocVE.Aposticha2.incipit
 ocVE.Aposticha2.text = oc.m7.d4_en_US_dedes.ocVE.Aposticha2.text
 
 ocVE.Aposticha3.mode = oc.m7.d4_en_US_dedes.ocVE.Aposticha3.mode
-ocVE.Aposticha.greekmelody = oc.m7.d4_en_US_dedes.ocVE.Aposticha3.greekmelody
+ocVE.Aposticha3.greekmelody = oc.m7.d4_en_US_dedes.ocVE.Aposticha3.greekmelody
 ocVE.Aposticha3.melody = oc.m7.d4_en_US_dedes.ocVE.Aposticha3.melody
 ocVE.Aposticha3.incipit = oc.m7.d4_en_US_dedes.ocVE.Aposticha3.incipit
 ocVE.Aposticha3.text = oc.m7.d4_en_US_dedes.ocVE.Aposticha3.text

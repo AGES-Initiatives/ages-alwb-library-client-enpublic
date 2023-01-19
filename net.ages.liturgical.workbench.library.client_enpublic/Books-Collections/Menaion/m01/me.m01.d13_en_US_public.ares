@@ -67,7 +67,7 @@ meVE.SticBoth.incipit = me.m01.d13_en_US_dedes.meVE.SticBoth.incipit
 meVE.SticBoth.text = me.m01.d13_en_US_dedes.meVE.SticBoth.text
 
 meVE.Aposticha1.mode = me.m01.d13_en_US_dedes.meVE.Aposticha1.mode
-meVE.Aposticha1.greekmelody = me.m01.d13_en_US_oca.meVE.Aposticha1.greekmelody
+meVE.Aposticha1.greekmelody = me.m01.d13_en_US_dedes.meVE.Aposticha1.greekmelody
 meVE.Aposticha1.melody = me.m01.d13_en_US_oca.meVE.Aposticha1.melody
 meVE.Aposticha1.incipit = me.m01.d13_en_US_oca.meVE.Aposticha1.incipit
 meVE.Aposticha1.text = me.m01.d13_en_US_oca.meVE.Aposticha1.text
@@ -618,7 +618,7 @@ meMA.Exaposteilarion2.incipit = me.m01.d13_en_US_dedes.meMA.Exaposteilarion2.inc
 meMA.Exaposteilarion2.text = me.m01.d13_en_US_dedes.meMA.Exaposteilarion2.text
 
 meMA.Aposticha1.mode = me.m01.d13_en_US_dedes.meMA.Aposticha1.mode
-meMA.Aposticha1.greekmelody = me.m01.d13_en_US_oca.meMA.Aposticha1.greekmelody
+meMA.Aposticha1.greekmelody = me.m01.d13_en_US_dedes.meMA.Aposticha1.greekmelody
 meMA.Aposticha1.melody = me.m01.d13_en_US_oca.meMA.Aposticha1.melody
 meMA.Aposticha1.incipit = me.m01.d13_en_US_oca.meMA.Aposticha1.incipit
 meMA.Aposticha1.text = me.m01.d13_en_US_oca.meMA.Aposticha1.text

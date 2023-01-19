@@ -111,7 +111,7 @@ meVE.Apolytikion3ger.incipit = me.m12.d29_en_US_dedes.meVE.Apolytikion3ger.incip
 meVE.Apolytikion3ger.text = me.m12.d29_en_US_dedes.meVE.Apolytikion3ger.text
 
 meMA.Kathisma11.mode = me.m12.d29_en_US_dedes.meMA.Kathisma11.mode
-meMA.Kathisma11.greekmelody = me.m12.d29_en_US_oca.meMA.Kathisma11.greekmelody
+meMA.Kathisma11.greekmelody = me.m12.d29_en_US_dedes.meMA.Kathisma11.greekmelody
 meMA.Kathisma11.melody = me.m12.d29_en_US_oca.meMA.Kathisma11.melody
 meMA.Kathisma11.incipit = me.m12.d29_en_US_oca.meMA.Kathisma11.incipit
 meMA.Kathisma11.text = me.m12.d29_en_US_oca.meMA.Kathisma11.text
@@ -437,7 +437,7 @@ meMA.Exaposteilarion3.incipit = me.m12.d29_en_US_dedes.meMA.Exaposteilarion3.inc
 meMA.Exaposteilarion3.text = me.m12.d29_en_US_dedes.meMA.Exaposteilarion3.text
 
 meMA.Lauds1.mode = me.m12.d29_en_US_dedes.meMA.Lauds1.mode
-meMA.Lauds1.greekmelody = me.m12.d29_en_US_oca.meMA.Lauds1.greekmelody
+meMA.Lauds1.greekmelody = me.m12.d29_en_US_dedes.meMA.Lauds1.greekmelody
 meMA.Lauds1.melody = me.m12.d29_en_US_oca.meMA.Lauds1.melody
 meMA.Lauds1.incipit = me.m12.d29_en_US_oca.meMA.Lauds1.incipit
 meMA.Lauds1.text = me.m12.d29_en_US_oca.meMA.Lauds1.text

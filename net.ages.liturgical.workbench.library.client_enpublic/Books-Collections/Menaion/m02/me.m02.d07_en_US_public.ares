@@ -733,7 +733,7 @@ meMegalynarion.text = me.m02.d07_en_US_dedes.meMegalynarion.text
 //These extra hymns are found in the back of the Feb. Menaion
 
 meVE.SticTheotokion.mode = me.m02.d07_en_US_goadedes.meVE.SticTheotokion.mode
-meVE.SticTheotokion.greekmelody = me.m02.d07_en_US_goadedes.meVE.SticTheotokion.greekmelody
+meVE.SticTheotokion.greekmelody = me.m02.d07_en_US_dedes.meVE.SticTheotokion.greekmelody
 meVE.SticTheotokion.melody = me.m02.d07_en_US_goadedes.meVE.SticTheotokion.melody
 meVE.SticTheotokion.incipit = me.m02.d07_en_US_goadedes.meVE.SticTheotokion.incipit
 meVE.SticTheotokion.text = me.m02.d07_en_US_goadedes.meVE.SticTheotokion.text

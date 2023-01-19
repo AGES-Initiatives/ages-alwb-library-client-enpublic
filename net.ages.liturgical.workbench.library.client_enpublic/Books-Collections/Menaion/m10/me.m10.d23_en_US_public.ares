@@ -20,7 +20,7 @@ meHO.note1 = me.m10.d23_en_US_dedes.meHO.note1
 meHO.note2 = me.m10.d23_en_US_dedes.meHO.note2
 
 meVE.Stichera01.mode = me.m10.d23_en_US_dedes.meVE.Stichera01.mode
-meVE.Stichera01.greekmelody = me.m10.d23_en_US_oca.meVE.Stichera01.greekmelody
+meVE.Stichera01.greekmelody = me.m10.d23_en_US_dedes.meVE.Stichera01.greekmelody
 meVE.Stichera01.melody = me.m10.d23_en_US_oca.meVE.Stichera01.melody
 meVE.Stichera01.incipit = me.m10.d23_en_US_oca.meVE.Stichera01.incipit
 meVE.Stichera01.text = me.m10.d23_en_US_oca.meVE.Stichera01.text
@@ -64,7 +64,7 @@ alt1.meVE.LityGlory.incipit = me.m10.d23_en_US_dedes.alt1.meVE.LityGlory.incipit
 alt1.meVE.LityGlory.text = me.m10.d23_en_US_dedes.alt1.meVE.LityGlory.text
 
 meVE.Aposticha1.mode = me.m10.d23_en_US_dedes.meVE.Aposticha1.mode
-meVE.Aposticha1.greekmelody = me.m10.d23_en_US_oca.meVE.Aposticha1.greekmelody
+meVE.Aposticha1.greekmelody = me.m10.d23_en_US_dedes.meVE.Aposticha1.greekmelody
 meVE.Aposticha1.melody = me.m10.d23_en_US_oca.meVE.Aposticha1.melody
 meVE.Aposticha1.incipit = me.m10.d23_en_US_oca.meVE.Aposticha1.incipit
 meVE.Aposticha1.text = me.m10.d23_en_US_oca.meVE.Aposticha1.text
