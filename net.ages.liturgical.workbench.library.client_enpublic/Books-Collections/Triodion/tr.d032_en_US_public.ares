@@ -42,6 +42,7 @@ trVE.AposMartyric.incipit = tr.d032_en_US_dedes.trVE.AposMartyric.incipit
 trVE.AposMartyric.text = tr.d032_en_US_dedes.trVE.AposMartyric.text
 
 trVE.AposTheotokion.mode = tr.d032_en_US_dedes.trVE.AposTheotokion.mode
+trVE.AposTheotokion.greekmelody = tr.d032_en_US_dedes.trVE.AposTheotokion.greekmelody
 trVE.AposTheotokion.melody = tr.d032_en_UK_ware.trVE.AposTheotokion.melody
 trVE.AposTheotokion.incipit = tr.d032_en_UK_ware.trVE.AposTheotokion.incipit
 trVE.AposTheotokion.text = tr.d032_en_UK_ware.trVE.AposTheotokion.text
@@ -275,6 +276,7 @@ trMA.AposMartyric.incipit = tr.d032_en_US_dedes.trMA.AposMartyric.incipit
 trMA.AposMartyric.text = tr.d032_en_US_dedes.trMA.AposMartyric.text
 
 trMA.AposTheotokion.mode = tr.d032_en_US_dedes.trMA.AposTheotokion.mode
+trMA.AposTheotokion.greekmelody = tr.d032_en_US_dedes.trMA.AposTheotokion.greekmelody
 trMA.AposTheotokion.melody = tr.d032_en_UK_ware.trMA.AposTheotokion.melody
 trMA.AposTheotokion.incipit = tr.d032_en_UK_ware.trMA.AposTheotokion.incipit
 trMA.AposTheotokion.text = tr.d032_en_UK_ware.trMA.AposTheotokion.text
