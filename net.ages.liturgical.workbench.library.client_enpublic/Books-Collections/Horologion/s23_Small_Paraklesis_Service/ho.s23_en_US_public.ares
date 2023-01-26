@@ -13,6 +13,7 @@ R02 = ho.s23_en_US_dedes.R02
 R03 = ho.s23_en_US_dedes.R03
 
 hoCA.Apolytikion1.mode = ho.s23_en_US_dedes.hoCA.Apolytikion1.mode
+hoCA.Apolytikion1.greekmelody = ho.s23_en_US_dedes.hoCA.Apolytikion1.greekmelody
 hoCA.Apolytikion1.melody = ho.s23_en_US_dedes.hoCA.Apolytikion1.melody
 hoCA.Apolytikion1.incipit = ho.s23_en_US_dedes.hoCA.Apolytikion1.incipit
 hoCA.Apolytikion1.text = ho.s23_en_US_dedes.hoCA.Apolytikion1.text
@@ -110,6 +111,7 @@ hoCA.Troparion32.text = ho.s23_en_US_dedes.hoCA.Troparion32.text
 //R07
 
 hoCA.Kathisma11.mode = ho.s23_en_US_dedes.hoCA.Kathisma11.mode
+hoCA.Kathisma11.greekmelody = ho.s23_en_US_dedes.hoCA.Kathisma11.greekmelody
 hoCA.Kathisma11.melody = ho.s23_en_US_dedes.hoCA.Kathisma11.melody
 hoCA.Kathisma11.incipit = ho.s23_en_US_dedes.hoCA.Kathisma11.incipit
 hoCA.Kathisma11.text = ho.s23_en_US_dedes.hoCA.Kathisma11.text
@@ -246,6 +248,7 @@ hoCA.PostGospelBoth.text = ho.s23_en_US_dedes.hoCA.PostGospelBoth.text // need t
 hoCA.PostGospelVerse.text = ho.s23_en_US_dedes.hoCA.PostGospelVerse.text
 
 hoCA.PostGospelHymn1.mode = ho.s23_en_US_dedes.hoCA.PostGospelHymn1.mode
+hoCA.PostGospelHymn1.greekmelody = ho.s23_en_US_dedes.hoCA.PostGospelHymn1.greekmelody
 hoCA.PostGospelHymn1.melody = ho.s23_en_US_dedes.hoCA.PostGospelHymn1.melody
 hoCA.PostGospelHymn1.incipit = ho.s23_en_US_dedes.hoCA.PostGospelHymn1.incipit
 hoCA.PostGospelHymn1.text = ho.s23_en_US_dedes.hoCA.PostGospelHymn1.text
@@ -419,6 +422,7 @@ hoCA.Troparion3.incipit = ho.s23_en_US_dedes.hoCA.Troparion3.incipit
 hoCA.Troparion3.text = ho.s23_en_US_dedes.hoCA.Troparion3.text
 
 hoCA.Troparion4.mode = ho.s23_en_US_dedes.hoCA.Troparion4.mode
+hoCA.Troparion4.greekmelody = ho.s23_en_US_dedes.hoCA.Troparion4.greekmelody
 hoCA.Troparion4.melody = ho.s23_en_US_dedes.hoCA.Troparion4.melody
 hoCA.Troparion4.incipit = ho.s23_en_US_dedes.hoCA.Troparion4.incipit
 hoCA.Troparion4.text = ho.s23_en_US_dedes.hoCA.Troparion4.text

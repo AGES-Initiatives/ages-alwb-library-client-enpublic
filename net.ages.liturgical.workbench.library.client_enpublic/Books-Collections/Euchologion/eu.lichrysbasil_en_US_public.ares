@@ -113,10 +113,12 @@ euLI.Key1110.text = eu.lichrysbasil_en_US_goa.euLI.Key1110.text
 euLI.Key1110.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1110.rubric
 euLI.Key1111.text = eu.lichrysbasil_en_US_holycross.euLI.Key1111.text
 euLI.Key1112.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1112.rubric
+euLI.KeyAB1112.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1112.rubric
 euLI.Key1112.text = eu.lichrysbasil_en_US_holycross.euLI.Key1112.text
 euLI.Key1112a.text = eu.lichrysbasil_en_US_holycross.euLI.Key1112a.text
 euLI.Key1112b.text = eu.lichrysbasil_en_US_holycross.euLI.Key1112b.text
 euLI.Key1113.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1113.rubric
+euLI.KeyAB1113.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1113.rubric
 euLI.Key1113.text = eu.lichrysbasil_en_US_holycross.euLI.Key1113.text
 euLI.Key1114.text = eu.lichrysbasil_en_US_goa.euLI.Key1114.text
 euLI.Key1115.text = eu.lichrysbasil_en_US_goa.euLI.Key1115.text
@@ -131,7 +133,7 @@ euLI.Key1123.text = eu.lichrysbasil_en_US_goa.euLI.Key1123.text
 euLI.Key1124.text = eu.lichrysbasil_en_US_holycross.euLI.Key1124.text
 
 euLI.Key1140.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1140.rubric
-euLI.Key1141.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1141.rubric
+euLI.KeyAB1140.rubric = eu.lichrysbasil_en_US_goa.euLI.KeyAB1140.rubric
 
 // Part 12 Litany and Creed
 euLI.Key1200.title = eu.lichrysbasil_en_US_goa.euLI.Key1200.title
@@ -347,7 +349,7 @@ euLI.Key1588.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1588.rubric
 euLI.Key1589.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1589.rubric
 euLI.Key1590.rubric = eu.lichrysbasil_en_US_goa.euLI.Key1590.rubric
 
-//Hierarchical Liturgy
+//Hierarchical Liturgy Archbishop
 euLI.KeyAB1540.rubric = eu.lichrysbasil_en_US_goa.euLI.KeyAB1540.rubric
 euLI.KeyAB1541.rubric = eu.lichrysbasil_en_US_goa.euLI.KeyAB1541.rubric
 euLI.KeyAB1542.rubric = eu.lichrysbasil_en_US_goa.euLI.KeyAB1542.rubric
