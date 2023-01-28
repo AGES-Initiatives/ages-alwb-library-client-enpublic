@@ -91,17 +91,20 @@ meVE.AposBoth.incipit = me.m12.d23_en_US_oca.meVE.AposBoth.incipit
 meVE.AposBoth.text = me.m12.d23_en_US_oca.meVE.AposBoth.text
 
 meVE.Apolytikion1.mode = me.m12.d23_en_US_dedes.meVE.Apolytikion1.mode
+meVE.Apolytikion1.greekmelody = me.m12.d23_en_US_dedes.meVE.Apolytikion1.greekmelody
 meVE.Apolytikion1.melody = me.m12.d23_en_US_dedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.incipit = me.m12.d23_en_US_dedes.meVE.Apolytikion1.incipit
 meVE.Apolytikion1.text = me.m12.d23_en_US_dedes.meVE.Apolytikion1.text
 
 meVE.Apolytikion2.mode = me.m12.d23_en_US_dedes.meVE.Apolytikion2.mode
+meVE.Apolytikion2.greekmelody = me.m12.d23_en_US_oca.meVE.Apolytikion2.greekmelody
 meVE.Apolytikion2.melody = me.m12.d23_en_US_oca.meVE.Apolytikion2.melody
 meVE.Apolytikion2.incipit = me.m12.d23_en_US_oca.meVE.Apolytikion2.incipit
 meVE.Apolytikion2.text = me.m12.d23_en_US_oca.meVE.Apolytikion2.text
 
 meVE.Apolytikion3ger.poet = me.m12.d23_en_US_dedes.meVE.Apolytikion3ger.poet
 meVE.Apolytikion3ger.mode = me.m12.d23_en_US_dedes.meVE.Apolytikion3ger.mode
+meVE.Apolytikion3ger.greekmelody = me.m12.d23_en_US_dedes.meVE.Apolytikion3ger.greekmelody
 meVE.Apolytikion3ger.melody = me.m12.d23_en_US_dedes.meVE.Apolytikion3ger.melody
 meVE.Apolytikion3ger.incipit = me.m12.d23_en_US_dedes.meVE.Apolytikion3ger.incipit
 meVE.Apolytikion3ger.text = me.m12.d23_en_US_dedes.meVE.Apolytikion3ger.text

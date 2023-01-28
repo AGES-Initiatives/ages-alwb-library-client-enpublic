@@ -78,12 +78,14 @@ meVE.AposGlory.incipit = me.m08.d05_en_US_oca.meVE.AposGlory.incipit
 meVE.AposGlory.text = me.m08.d05_en_US_oca.meVE.AposGlory.text
 
 meVE.Apolytikion1.mode = me.m08.d05_en_US_dedes.meVE.Apolytikion1.mode
+meVE.Apolytikion1.greekmelody = me.m08.d05_en_US_dedes.meVE.Apolytikion1.greekmelody
 meVE.Apolytikion1.melody = me.m08.d05_en_US_dedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.incipit = me.m08.d05_en_US_dedes.meVE.Apolytikion1.incipit
 meVE.Apolytikion1.text = me.m08.d05_en_US_dedes.meVE.Apolytikion1.text
 
 meVE.Apolytikion2ger.poet = me.m08.d05_en_US_dedes.meVE.Apolytikion2ger.poet
 meVE.Apolytikion2ger.mode = me.m08.d05_en_US_dedes.meVE.Apolytikion2ger.mode
+meVE.Apolytikion2ger.greekmelody = me.m08.d05_en_US_dedes.meVE.Apolytikion2ger.greekmelody
 meVE.Apolytikion2ger.melody = me.m08.d05_en_US_dedes.meVE.Apolytikion2ger.melody
 meVE.Apolytikion2ger.incipit = me.m08.d05_en_US_dedes.meVE.Apolytikion2ger.incipit
 meVE.Apolytikion2ger.text = me.m08.d05_en_US_dedes.meVE.Apolytikion2ger.text

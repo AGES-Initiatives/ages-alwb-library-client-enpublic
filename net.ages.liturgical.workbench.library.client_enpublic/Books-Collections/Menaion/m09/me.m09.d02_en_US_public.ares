@@ -74,11 +74,11 @@ meVE.AposGlory.melody = me.m09.d02_en_US_dedes.meVE.AposGlory.melody
 meVE.AposGlory.incipit = me.m09.d02_en_US_oca.meVE.AposGlory.incipit
 meVE.AposGlory.text = me.m09.d02_en_US_oca.meVE.AposGlory.text
 
-meVE.AposTheotokion.mode = me.m09.d02_en_US_dedes.meVE.AposTheotokion.mode
-meVE.AposTheotokion.greekmelody = me.m09.d02_en_US_dedes.meVE.AposTheotokion.greekmelody
-meVE.AposTheotokion.melody = me.m09.d02_en_US_dedes.meVE.AposTheotokion.melody
-meVE.AposTheotokion.incipit = me.m09.d02_en_US_dedes.meVE.AposTheotokion.incipit
-meVE.AposTheotokion.text = me.m09.d02_en_US_dedes.meVE.AposTheotokion.text
+meVE.AposTheotokion.mode = me.m09.d02_en_US_goadedes.meVE.AposTheotokion.mode
+meVE.AposTheotokion.greekmelody = me.m09.d02_en_US_goadedes.meVE.AposTheotokion.greekmelody
+meVE.AposTheotokion.melody = me.m09.d02_en_US_goadedes.meVE.AposTheotokion.melody
+meVE.AposTheotokion.incipit = me.m09.d02_en_US_goadedes.meVE.AposTheotokion.incipit
+meVE.AposTheotokion.text = me.m09.d02_en_US_goadedes.meVE.AposTheotokion.text
 
 meVE.AposStavrotheotokion.mode = me.m09.d02_en_US_dedes.meVE.AposStavrotheotokion.mode
 meVE.AposStavrotheotokion.greekmelody = me.m09.d02_en_US_dedes.meVE.AposStavrotheotokion.greekmelody
@@ -87,6 +87,7 @@ meVE.AposStavrotheotokion.incipit = me.m09.d02_en_US_dedes.meVE.AposStavrotheoto
 meVE.AposStavrotheotokion.text = me.m09.d02_en_US_dedes.meVE.AposStavrotheotokion.text
 
 meVE.Apolytikion1.mode = me.m09.d02_en_US_dedes.meVE.Apolytikion1.mode
+meVE.Apolytikion1.greekmelody = me.m09.d02_en_US_dedes.meVE.Apolytikion1.greekmelody
 meVE.Apolytikion1.melody = me.m09.d02_en_US_dedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.incipit = me.m09.d02_en_US_dedes.meVE.Apolytikion1.incipit
 meVE.Apolytikion1.text = me.m09.d02_en_US_dedes.meVE.Apolytikion1.text
