@@ -134,6 +134,7 @@ alt1.peDA.commemoration.full = pe.d108_en_US_dedes.alt1.peDA.commemoration.full
 alt1.peDA.commemoration.short = pe.d108_en_US_dedes.alt1.peDA.commemoration.short
 
 alt1.peVE.Stichera01.mode = pe.d108_en_US_dedes.alt1.peVE.Stichera01.mode
+alt1.peVE.Stichera01.greekmelody = pe.d108_en_US_dedes.alt1.peVE.Stichera01.greekmelody
 alt1.peVE.Stichera01.melody = pe.d108_en_US_dedes.alt1.peVE.Stichera01.melody
 alt1.peVE.Stichera01.incipit = pe.d108_en_US_dedes.alt1.peVE.Stichera01.incipit
 alt1.peVE.Stichera01.text = pe.d108_en_US_dedes.alt1.peVE.Stichera01.text
@@ -194,6 +195,7 @@ alt1.peMA.Kathisma1T.incipit = pe.d108_en_US_dedes.alt1.peMA.Kathisma1T.incipit
 alt1.peMA.Kathisma1T.text = pe.d108_en_US_dedes.alt1.peMA.Kathisma1T.text
 
 alt1.peMA.Kathisma21.mode = pe.d108_en_US_dedes.alt1.peMA.Kathisma21.mode
+alt1.peMA.Kathisma21.greekmelody = pe.d108_en_US_dedes.alt1.peMA.Kathisma21.greekmelody
 alt1.peMA.Kathisma21.melody = pe.d108_en_US_dedes.alt1.peMA.Kathisma21.melody
 alt1.peMA.Kathisma21.incipit = pe.d108_en_US_dedes.alt1.peMA.Kathisma21.incipit
 alt1.peMA.Kathisma21.text = pe.d108_en_US_dedes.alt1.peMA.Kathisma21.text
