@@ -428,9 +428,9 @@ meMA.LaudsGlory.text = me.m09.d24_en_US_goadedes.meMA.LaudsGlory.text
 
 meMA.LaudsTheotokion.mode = me.m09.d24_en_US_dedes.meMA.LaudsTheotokion.mode
 meMA.LaudsTheotokion.greekmelody = me.m09.d24_en_US_dedes.meMA.LaudsTheotokion.greekmelody
-meMA.LaudsTheotokion.melody = me.m09.d24_en_UK_lash.meMA.LaudsTheotokion.melody
-meMA.LaudsTheotokion.incipit = me.m09.d24_en_UK_lash.meMA.LaudsTheotokion.incipit
-meMA.LaudsTheotokion.text = me.m09.d24_en_UK_lash.meMA.LaudsTheotokion.text
+meMA.LaudsTheotokion.melody = me.m09.d24_en_US_goadedes.meMA.LaudsTheotokion.melody
+meMA.LaudsTheotokion.incipit = me.m09.d24_en_US_goadedes.meMA.LaudsTheotokion.incipit
+meMA.LaudsTheotokion.text = me.m09.d24_en_US_goadedes.meMA.LaudsTheotokion.text
 
 meMA.LaudsStavrotheotokion.mode = me.m09.d24_en_US_dedes.meMA.LaudsStavrotheotokion.mode
 meMA.LaudsStavrotheotokion.greekmelody = me.m09.d24_en_US_dedes.meMA.LaudsStavrotheotokion.greekmelody
@@ -440,15 +440,15 @@ meMA.LaudsStavrotheotokion.text = me.m09.d24_en_US_dedes.meMA.LaudsStavrotheotok
 
 meMA.AposGlory.poet = me.m09.d24_en_US_dedes.meMA.AposGlory.poet
 meMA.AposGlory.mode = me.m09.d24_en_US_dedes.meMA.AposGlory.mode
-meMA.AposGlory.melody = me.m09.d24_en_UK_lash.meMA.AposGlory.melody
-meMA.AposGlory.incipit = me.m09.d24_en_UK_lash.meMA.AposGlory.incipit
-meMA.AposGlory.text = me.m09.d24_en_UK_lash.meMA.AposGlory.text
+meMA.AposGlory.melody = me.m09.d24_en_US_goadedes.meMA.AposGlory.melody
+meMA.AposGlory.incipit = me.m09.d24_en_US_goadedes.meMA.AposGlory.incipit
+meMA.AposGlory.text = me.m09.d24_en_US_goadedes.meMA.AposGlory.text
 
 meMA.AposTheotokion.mode = me.m09.d24_en_US_dedes.meMA.AposTheotokion.mode
 meMA.AposTheotokion.greekmelody = me.m09.d24_en_US_dedes.meMA.AposTheotokion.greekmelody
-meMA.AposTheotokion.melody = me.m09.d24_en_UK_lash.meMA.AposTheotokion.melody
-meMA.AposTheotokion.incipit = me.m09.d24_en_UK_lash.meMA.AposTheotokion.incipit
-meMA.AposTheotokion.text = me.m09.d24_en_UK_lash.meMA.AposTheotokion.text
+meMA.AposTheotokion.melody = me.m09.d24_en_US_goadedes.meMA.AposTheotokion.melody
+meMA.AposTheotokion.incipit = me.m09.d24_en_US_goadedes.meMA.AposTheotokion.incipit
+meMA.AposTheotokion.text = me.m09.d24_en_US_goadedes.meMA.AposTheotokion.text
 
 meMA.AposStavrotheotokion.mode = me.m09.d24_en_US_dedes.meMA.AposStavrotheotokion.mode
 meMA.AposStavrotheotokion.greekmelody = me.m09.d24_en_US_dedes.meMA.AposStavrotheotokion.greekmelody
