@@ -35,11 +35,11 @@ meVE.Stichera03.melody = me.m07.d10_en_US_dedes.meVE.Stichera03.melody
 meVE.Stichera03.incipit = me.m07.d10_en_US_dedes.meVE.Stichera03.incipit
 meVE.Stichera03.text = me.m07.d10_en_US_dedes.meVE.Stichera03.text
 
-meVE.SticTheotokion.mode = me.m07.d10_en_US_dedes.meVE.SticTheotokion.mode
-meVE.SticTheotokion.greekmelody = me.m07.d10_en_US_dedes.meVE.SticTheotokion.greekmelody
-meVE.SticTheotokion.melody = me.m07.d10_en_US_dedes.meVE.SticTheotokion.melody
-meVE.SticTheotokion.incipit = me.m07.d10_en_US_dedes.meVE.SticTheotokion.incipit
-meVE.SticTheotokion.text = me.m07.d10_en_US_dedes.meVE.SticTheotokion.text
+meVE.SticTheotokion.mode = me.m07.d10_en_US_goadedes.meVE.SticTheotokion.mode
+meVE.SticTheotokion.greekmelody = me.m07.d10_en_US_goadedes.meVE.SticTheotokion.greekmelody
+meVE.SticTheotokion.melody = me.m07.d10_en_US_goadedes.meVE.SticTheotokion.melody
+meVE.SticTheotokion.incipit = me.m07.d10_en_US_goadedes.meVE.SticTheotokion.incipit
+meVE.SticTheotokion.text = me.m07.d10_en_US_goadedes.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = me.m07.d10_en_US_dedes.meVE.SticStavrotheotokion.mode
 meVE.SticStavrotheotokion.greekmelody = me.m07.d10_en_US_dedes.meVE.SticStavrotheotokion.greekmelody
