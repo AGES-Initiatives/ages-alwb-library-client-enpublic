@@ -73,8 +73,8 @@ hoVE.FridayAlleluia.text = ho.s10_en_US_dedes.hoVE.FridayAlleluia.text
 R15 = ho.s10_en_US_dedes.R15
 R16 = ho.s10_en_US_dedes.R16
 //This Prayer is also in the Small Doxology, at Matins, Compline etc. with "day" and"night"
-hoVE.Prayer_Katpr.Axios.texton.incipit = ho.s10_en_US_holycross.hoVE.Prayer_Katpr.Axios.texton.incipit
-hoVE.Prayer_Katpr.Axios.texton.text = ho.s10_en_US_holycross.hoVE.Prayer_Katpr.Axios.texton.text
+hoVE.Prayer_Kataxioson.incipit = ho.s10_en_US_holycross.hoVE.Prayer_Kataxioson.incipit
+hoVE.Prayer_Kataxioson.text = ho.s10_en_US_holycross.hoVE.Prayer_Kataxioson.text
 R17 = ho.s10_en_US_dedes.R17
 R18 = ho.s10_en_US_dedes.R18
 R19 = ho.s10_en_US_dedes.R19
