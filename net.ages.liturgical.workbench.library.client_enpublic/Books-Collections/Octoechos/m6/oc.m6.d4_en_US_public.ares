@@ -30,9 +30,9 @@ ocVE.Stichera5.incipit = oc.m6.d4_en_US_dedes.ocVE.Stichera5.incipit
 ocVE.Stichera5.text = oc.m6.d4_en_US_dedes.ocVE.Stichera5.text
 
 ocVE.Stichera6.mode = oc.m6.d4_en_US_dedes.ocVE.Stichera6.mode
-ocVE.Stichera6.melody = oc.m6.d4_en_UK_lash.ocVE.Stichera6.melody
-ocVE.Stichera6.incipit = oc.m6.d4_en_UK_lash.ocVE.Stichera6.incipit
-ocVE.Stichera6.text = oc.m6.d4_en_UK_lash.ocVE.Stichera6.text
+ocVE.Stichera6.melody = oc.m6.d4_en_US_goadedes.ocVE.Stichera6.melody
+ocVE.Stichera6.incipit = oc.m6.d4_en_US_goadedes.ocVE.Stichera6.incipit
+ocVE.Stichera6.text = oc.m6.d4_en_US_goadedes.ocVE.Stichera6.text
 
 ocVE.SticTheotokion.mode = oc.m6.d4_en_US_goadedes.ocVE.SticTheotokion.mode
 ocVE.SticTheotokion.greekmelody = oc.m6.d4_en_US_dedes.ocVE.SticTheotokion.greekmelody
