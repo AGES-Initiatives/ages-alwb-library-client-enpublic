@@ -36,6 +36,8 @@ ru.EntranceWithGospel = rubrical_en_US_dedes.ru.EntranceWithGospel
 
 ru.Extended = rubrical_en_US_goa.ru.Extended
 
+ru.FacingThrone = rubrical_en_US_dedes.ru.FacingThrone
+
 ru.FastButNotSaturday = rubrical_en_US_dedes.ru.FastButNotSaturday
 
 ru.Forty = rubrical_en_US_dedes.ru.Forty
@@ -61,6 +63,8 @@ ru.IfExistsIfNot = rubrical_en_US_dedes.ru.IfExistsIfNot
 ru.IfLityNotDoneAtVespers = rubrical_en_US_dedes.ru.IfLityNotDoneAtVespers
 
 ru.InALowVoice = rubrical_en_US_dedes.ru.InALowVoice
+
+ru.InALowVoiceFacingAltar = rubrical_en_US_dedes.ru.InALowVoiceFacingAltar
 
 ru.Inaudibly = rubrical_en_US_dedes.ru.Inaudibly
 

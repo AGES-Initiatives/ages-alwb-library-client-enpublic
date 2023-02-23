@@ -636,10 +636,10 @@ ocMA.Lauds4.melody = oc.m8.d7_en_US_dedes.ocMA.Lauds4.melody
 ocMA.Lauds4.incipit = oc.m8.d7_en_US_dedes.ocMA.Lauds4.incipit
 ocMA.Lauds4.text = oc.m8.d7_en_US_dedes.ocMA.Lauds4.text
 
-ocMA.LaudsGlory.mode = oc.m8.d7_en_US_dedes.ocMA.LaudsGlory.mode
-ocMA.LaudsGlory.melody = oc.m8.d7_en_US_dedes.ocMA.LaudsGlory.melody
-ocMA.LaudsGlory.incipit = oc.m8.d7_en_US_dedes.ocMA.LaudsGlory.incipit
-ocMA.LaudsGlory.text = oc.m8.d7_en_US_dedes.ocMA.LaudsGlory.text
+ocMA.LaudsGlory.mode = oc.m8.d7_en_US_goadedes.ocMA.LaudsGlory.mode
+ocMA.LaudsGlory.melody = oc.m8.d7_en_US_goadedes.ocMA.LaudsGlory.melody
+ocMA.LaudsGlory.incipit = oc.m8.d7_en_US_goadedes.ocMA.LaudsGlory.incipit
+ocMA.LaudsGlory.text = oc.m8.d7_en_US_goadedes.ocMA.LaudsGlory.text
 
 ocMA.LaudsTheotokion.mode = oc.m8.d7_en_US_dedes.ocMA.LaudsTheotokion.mode
 ocMA.LaudsTheotokion.melody = oc.m8.d7_en_US_dedes.ocMA.LaudsTheotokion.melody
