@@ -62,11 +62,11 @@ ocwdMA.ExapFri1.melody = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapFri1.melody
 ocwdMA.ExapFri1.incipit = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapFri1.incipit
 ocwdMA.ExapFri1.text = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapFri1.text
 
-ocwdMA.ExapFriTh.mode = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapFriTh.mode
-ocwdMA.ExapFriTh.greekmelody = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapFriTh.greekmelody
-ocwdMA.ExapFriTh.melody = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapFriTh.melody
-ocwdMA.ExapFriTh.incipit = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapFriTh.incipit
-ocwdMA.ExapFriTh.text = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapFriTh.text
+ocwdMA.ExapFriTh.mode = ocwd.exaposteilaria_en_US_goadedes.ocwdMA.ExapFriTh.mode
+ocwdMA.ExapFriTh.greekmelody = ocwd.exaposteilaria_en_US_goadedes.ocwdMA.ExapFriTh.greekmelody
+ocwdMA.ExapFriTh.melody = ocwd.exaposteilaria_en_US_goadedes.ocwdMA.ExapFriTh.melody
+ocwdMA.ExapFriTh.incipit = ocwd.exaposteilaria_en_US_goadedes.ocwdMA.ExapFriTh.incipit
+ocwdMA.ExapFriTh.text = ocwd.exaposteilaria_en_US_goadedes.ocwdMA.ExapFriTh.text
 
 ocwdMA.ExapSatTitle = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapSatTitle
 ocwdMA.ExapSat1.mode = ocwd.exaposteilaria_en_US_dedes.ocwdMA.ExapSat1.mode

@@ -21,6 +21,11 @@ skLI.SmallEntrance.pagenumber = skeletons_en_US_goadedes.skLI.SmallEntrance.page
 
 skLI.HymnsAfterSmallEntrance.title = skeletons_en_US_goadedes.skLI.HymnsAfterSmallEntrance.title
 skLI.HymnsAfterSmallEntrance.text = skeletons_en_US_goadedes.skLI.HymnsAfterSmallEntrance.text
+skLI.HymnsAfterSmallEntrance.rubric = ""
+
+skLI.Kontakion.title = ""
+skLI.Kontakion.text = ""
+skLI.Kontakion.rubric = ""
 
 skLI.Trisagion.title = skeletons_en_US_goadedes.skLI.Trisagion.title
 skLI.Trisagion.text = skeletons_en_US_goadedes.skLI.Trisagion.text

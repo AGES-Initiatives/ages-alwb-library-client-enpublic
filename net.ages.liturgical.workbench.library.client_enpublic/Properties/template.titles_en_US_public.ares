@@ -183,6 +183,10 @@ li.html.tab = template.titles_en_US_dedes.li.html.tab
 li.pdf.header = template.titles_en_US_dedes.li.pdf.header
 li.pdf.cover = template.titles_en_US_dedes.li.pdf.cover
 
+li1.html.tab = template.titles_en_US_dedes.li1.html.tab 
+li1.pdf.header = template.titles_en_US_dedes.li1.pdf.header
+li1.pdf.cover = template.titles_en_US_dedes.li1.pdf.cover
+
 li2.html.tab = template.titles_en_US_dedes.li2.html.tab 
 li2.pdf.header = template.titles_en_US_dedes.li2.pdf.header
 li2.pdf.cover = template.titles_en_US_dedes.li2.pdf.cover
@@ -199,9 +203,21 @@ li5.html.tab = template.titles_en_US_dedes.li5.html.tab
 li5.pdf.header = template.titles_en_US_dedes.li5.pdf.header
 li5.pdf.cover = template.titles_en_US_dedes.li5.pdf.cover
 
+li6.html.tab = template.titles_en_US_dedes.li5.html.tab 
+li6.pdf.header = template.titles_en_US_dedes.li5.pdf.header
+li6.pdf.cover = template.titles_en_US_dedes.li5.pdf.cover
+
+li7.html.tab = template.titles_en_US_dedes.li5.html.tab 
+li7.pdf.header = template.titles_en_US_dedes.li5.pdf.header
+li7.pdf.cover = template.titles_en_US_dedes.li5.pdf.cover
+
 li8.html.tab = template.titles_en_US_dedes.li8.html.tab
 li8.pdf.header = template.titles_en_US_dedes.li8.pdf.header 
 li8.pdf.cover = template.titles_en_US_dedes.li8.pdf.cover
+
+li9.html.tab = template.titles_en_US_dedes.li9.html.tab 
+li9.pdf.header = template.titles_en_US_dedes.li9.pdf.header
+li9.pdf.cover = template.titles_en_US_dedes.li9.pdf.cover
 
 ma.html.tab = template.titles_en_US_dedes.ma.html.tab 
 ma.pdf.header = template.titles_en_US_dedes.ma.pdf.header
