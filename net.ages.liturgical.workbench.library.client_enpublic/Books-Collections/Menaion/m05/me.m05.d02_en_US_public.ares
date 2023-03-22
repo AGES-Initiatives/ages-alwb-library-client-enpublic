@@ -198,24 +198,24 @@ meMA.Ode5C1T.melody = me.m05.d02_en_US_dedes.meMA.Ode5C1T.melody
 meMA.Ode5C1T.incipit = me.m05.d02_en_US_dedes.meMA.Ode5C1T.incipit
 meMA.Ode5C1T.text = me.m05.d02_en_US_dedes.meMA.Ode5C1T.text
 
-meMA.Ode6C11.ode = me.m05.d02_en_US_dedes.meMA.Ode6C11.ode
-meMA.Ode6C11.mode = me.m05.d02_en_US_dedes.meMA.Ode6C11.mode
-meMA.Ode6C11.greekmelody = me.m05.d02_en_US_dedes.meMA.Ode6C11.greekmelody
-meMA.Ode6C11.melody = me.m05.d02_en_US_dedes.meMA.Ode6C11.melody
-meMA.Ode6C11.incipit = me.m05.d02_en_US_dedes.meMA.Ode6C11.incipit
-meMA.Ode6C11.text = me.m05.d02_en_US_dedes.meMA.Ode6C11.text
+meMA.Ode6C11.ode = me.m05.d02_en_US_goadedes.meMA.Ode6C11.ode
+meMA.Ode6C11.mode = me.m05.d02_en_US_goadedes.meMA.Ode6C11.mode
+meMA.Ode6C11.greekmelody = me.m05.d02_en_US_goadedes.meMA.Ode6C11.greekmelody
+meMA.Ode6C11.melody = me.m05.d02_en_US_goadedes.meMA.Ode6C11.melody
+meMA.Ode6C11.incipit = me.m05.d02_en_US_goadedes.meMA.Ode6C11.incipit
+meMA.Ode6C11.text = me.m05.d02_en_US_goadedes.meMA.Ode6C11.text
 
-meMA.Ode6C12.ode = me.m05.d02_en_US_dedes.meMA.Ode6C12.ode
-meMA.Ode6C12.mode = me.m05.d02_en_US_dedes.meMA.Ode6C12.mode
-meMA.Ode6C12.melody = me.m05.d02_en_US_dedes.meMA.Ode6C12.melody
-meMA.Ode6C12.incipit = me.m05.d02_en_US_dedes.meMA.Ode6C12.incipit
-meMA.Ode6C12.text = me.m05.d02_en_US_dedes.meMA.Ode6C12.text
+meMA.Ode6C12.ode = me.m05.d02_en_US_goadedes.meMA.Ode6C12.ode
+meMA.Ode6C12.mode = me.m05.d02_en_US_goadedes.meMA.Ode6C12.mode
+meMA.Ode6C12.melody = me.m05.d02_en_US_goadedes.meMA.Ode6C12.melody
+meMA.Ode6C12.incipit = me.m05.d02_en_US_goadedes.meMA.Ode6C12.incipit
+meMA.Ode6C12.text = me.m05.d02_en_US_goadedes.meMA.Ode6C12.text
 
-meMA.Ode6C1T.ode = me.m05.d02_en_US_dedes.meMA.Ode6C1T.ode
-meMA.Ode6C1T.mode = me.m05.d02_en_US_dedes.meMA.Ode6C1T.mode
-meMA.Ode6C1T.melody = me.m05.d02_en_US_dedes.meMA.Ode6C1T.melody
-meMA.Ode6C1T.incipit = me.m05.d02_en_US_dedes.meMA.Ode6C1T.incipit
-meMA.Ode6C1T.text = me.m05.d02_en_US_dedes.meMA.Ode6C1T.text
+meMA.Ode6C1T.ode = me.m05.d02_en_US_goadedes.meMA.Ode6C1T.ode
+meMA.Ode6C1T.mode = me.m05.d02_en_US_goadedes.meMA.Ode6C1T.mode
+meMA.Ode6C1T.melody = me.m05.d02_en_US_goadedes.meMA.Ode6C1T.melody
+meMA.Ode6C1T.incipit = me.m05.d02_en_US_goadedes.meMA.Ode6C1T.incipit
+meMA.Ode6C1T.text = me.m05.d02_en_US_goadedes.meMA.Ode6C1T.text
 
 meMA.Kontakion1.mode = me.m05.d02_en_US_dedes.meMA.Kontakion1.mode
 meMA.Kontakion1.melody = me.m05.d02_en_US_dedes.meMA.Kontakion1.melody
