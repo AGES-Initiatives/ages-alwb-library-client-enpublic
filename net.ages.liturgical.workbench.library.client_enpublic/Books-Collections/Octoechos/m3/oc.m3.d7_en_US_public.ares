@@ -34,10 +34,10 @@ ocVE.Stichera6.melody = oc.m3.d7_en_US_dedes.ocVE.Stichera6.melody
 ocVE.Stichera6.incipit = oc.m3.d7_en_US_dedes.ocVE.Stichera6.incipit
 ocVE.Stichera6.text = oc.m3.d7_en_US_dedes.ocVE.Stichera6.text
 
-ocVE.SticTheotokion.mode = oc.m3.d7_en_US_dedes.ocVE.SticTheotokion.mode
-ocVE.SticTheotokion.melody = oc.m3.d7_en_US_dedes.ocVE.SticTheotokion.melody
-ocVE.SticTheotokion.incipit = oc.m3.d7_en_US_dedes.ocVE.SticTheotokion.incipit
-ocVE.SticTheotokion.text = oc.m3.d7_en_US_dedes.ocVE.SticTheotokion.text
+ocVE.SticTheotokion.mode = oc.m3.d7_en_US_goadedes.ocVE.SticTheotokion.mode
+ocVE.SticTheotokion.melody = oc.m3.d7_en_US_goadedes.ocVE.SticTheotokion.melody
+ocVE.SticTheotokion.incipit = oc.m3.d7_en_US_goadedes.ocVE.SticTheotokion.incipit
+ocVE.SticTheotokion.text = oc.m3.d7_en_US_goadedes.ocVE.SticTheotokion.text
 
 ocVE.Aposticha1.mode = oc.m3.d7_en_US_dedes.ocVE.Aposticha1.mode
 ocVE.Aposticha1.greekmelody = oc.m3.d7_en_US_dedes.ocVE.Aposticha1.greekmelody

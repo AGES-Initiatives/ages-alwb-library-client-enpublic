@@ -39,10 +39,10 @@ peVE.Aposticha1.melody = pe.d104_en_US_dedes.peVE.Aposticha1.melody
 peVE.Aposticha1.incipit = pe.d104_en_US_dedes.peVE.Aposticha1.incipit
 peVE.Aposticha1.text = pe.d104_en_US_dedes.peVE.Aposticha1.text
 
-peVE.Aposticha2.mode = pe.d104_en_US_dedes.peVE.Aposticha2.mode
-peVE.Aposticha2.melody = pe.d104_en_US_holycross.peVE.Aposticha2.melody
-peVE.Aposticha2.incipit = pe.d104_en_US_holycross.peVE.Aposticha2.incipit
-peVE.Aposticha2.text = pe.d104_en_US_holycross.peVE.Aposticha2.text
+peVE.Aposticha2.mode = pe.d104_en_US_goadedes.peVE.Aposticha2.mode
+peVE.Aposticha2.melody = pe.d104_en_US_goadedes.peVE.Aposticha2.melody
+peVE.Aposticha2.incipit = pe.d104_en_US_goadedes.peVE.Aposticha2.incipit
+peVE.Aposticha2.text = pe.d104_en_US_goadedes.peVE.Aposticha2.text
 
 peVE.Aposticha3.mode = pe.d104_en_US_dedes.peVE.Aposticha3.mode
 peVE.Aposticha3.melody = pe.d104_en_US_dedes.peVE.Aposticha3.melody

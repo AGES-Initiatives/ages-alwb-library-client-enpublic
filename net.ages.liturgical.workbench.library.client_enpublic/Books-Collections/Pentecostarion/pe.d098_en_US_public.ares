@@ -34,30 +34,30 @@ peVE.SticGlory.melody = pe.d098_en_US_dedes.peVE.SticGlory.melody
 peVE.SticGlory.incipit = pe.d098_en_US_dedes.peVE.SticGlory.incipit
 peVE.SticGlory.text = pe.d098_en_US_dedes.peVE.SticGlory.text
 
-peVE.SticBoth.mode = pe.d098_en_US_dedes.peVE.SticBoth.mode
-peVE.SticBoth.melody = pe.d098_en_US_dedes.peVE.SticBoth.melody
-peVE.SticBoth.incipit = pe.d098_en_US_dedes.peVE.SticBoth.incipit
-peVE.SticBoth.text = pe.d098_en_US_dedes.peVE.SticBoth.text
+peVE.SticBoth.mode = pe.d098_en_US_goadedes.peVE.SticBoth.mode
+peVE.SticBoth.melody = pe.d098_en_US_goadedes.peVE.SticBoth.melody
+peVE.SticBoth.incipit = pe.d098_en_US_goadedes.peVE.SticBoth.incipit
+peVE.SticBoth.text = pe.d098_en_US_goadedes.peVE.SticBoth.text
 
-peVE.Aposticha1.mode = pe.d098_en_US_dedes.peVE.Aposticha1.mode
-peVE.Aposticha1.melody = pe.d098_en_US_dedes.peVE.Aposticha1.melody
-peVE.Aposticha1.incipit = pe.d098_en_US_holycross.peVE.Aposticha1.incipit
-peVE.Aposticha1.text = pe.d098_en_US_holycross.peVE.Aposticha1.text
+peVE.Aposticha1.mode = pe.d098_en_US_goadedes.peVE.Aposticha1.mode
+peVE.Aposticha1.melody = pe.d098_en_US_goadedes.peVE.Aposticha1.melody
+peVE.Aposticha1.incipit = pe.d098_en_US_goadedes.peVE.Aposticha1.incipit
+peVE.Aposticha1.text = pe.d098_en_US_goadedes.peVE.Aposticha1.text
 
-peVE.Aposticha2.mode = pe.d098_en_US_dedes.peVE.Aposticha2.mode
-peVE.Aposticha2.melody = pe.d098_en_US_dedes.peVE.Aposticha2.melody
-peVE.Aposticha2.incipit = pe.d098_en_US_holycross.peVE.Aposticha2.incipit
-peVE.Aposticha2.text = pe.d098_en_US_holycross.peVE.Aposticha2.text
+peVE.Aposticha2.mode = pe.d098_en_US_goadedes.peVE.Aposticha2.mode
+peVE.Aposticha2.melody = pe.d098_en_US_goadedes.peVE.Aposticha2.melody
+peVE.Aposticha2.incipit = pe.d098_en_US_goadedes.peVE.Aposticha2.incipit
+peVE.Aposticha2.text = pe.d098_en_US_goadedes.peVE.Aposticha2.text
 
-peVE.Aposticha3.mode = pe.d098_en_US_dedes.peVE.Aposticha3.mode
-peVE.Aposticha3.melody = pe.d098_en_US_dedes.peVE.Aposticha3.melody
-peVE.Aposticha3.incipit = pe.d098_en_US_holycross.peVE.Aposticha3.incipit
-peVE.Aposticha3.text = pe.d098_en_US_holycross.peVE.Aposticha3.text
+peVE.Aposticha3.mode = pe.d098_en_US_goadedes.peVE.Aposticha3.mode
+peVE.Aposticha3.melody = pe.d098_en_US_goadedes.peVE.Aposticha3.melody
+peVE.Aposticha3.incipit = pe.d098_en_US_goadedes.peVE.Aposticha3.incipit
+peVE.Aposticha3.text = pe.d098_en_US_goadedes.peVE.Aposticha3.text
 
-peVE.Aposticha4.mode = pe.d098_en_US_dedes.peVE.Aposticha4.mode
-peVE.Aposticha4.melody = pe.d098_en_US_dedes.peVE.Aposticha4.melody
-peVE.Aposticha4.incipit = pe.d098_en_US_holycross.peVE.Aposticha4.incipit
-peVE.Aposticha4.text = pe.d098_en_US_holycross.peVE.Aposticha4.text
+peVE.Aposticha4.mode = pe.d098_en_US_goadedes.peVE.Aposticha4.mode
+peVE.Aposticha4.melody = pe.d098_en_US_goadedes.peVE.Aposticha4.melody
+peVE.Aposticha4.incipit = pe.d098_en_US_goadedes.peVE.Aposticha4.incipit
+peVE.Aposticha4.text = pe.d098_en_US_goadedes.peVE.Aposticha4.text
 
 peVE.AposGlory.mode = pe.d098_en_US_dedes.peVE.AposGlory.mode
 peVE.AposGlory.melody = pe.d098_en_US_dedes.peVE.AposGlory.melody

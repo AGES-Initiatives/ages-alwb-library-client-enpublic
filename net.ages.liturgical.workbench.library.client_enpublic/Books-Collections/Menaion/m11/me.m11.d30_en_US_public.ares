@@ -35,7 +35,7 @@ meVE.Stichera03.melody = me.m11.d30_en_US_oca.meVE.Stichera03.melody
 meVE.Stichera03.incipit = me.m11.d30_en_US_oca.meVE.Stichera03.incipit
 meVE.Stichera03.text = me.m11.d30_en_US_oca.meVE.Stichera03.text
 
-meVE.MM.Stichera1123as78910.text = me.m11.d30_en_US_dedes.meVE.MM.Stichera1123as78910.text 
+meVE.MM.Stichera1123as78910.text = me.m11.d30_en_US_goadedes.meVE.MM.Stichera1123as78910.text 
 
 meVE.SticGlory.poet = me.m11.d30_en_US_dedes.meVE.SticGlory.poet
 meVE.SticGlory.mode = me.m11.d30_en_US_dedes.meVE.SticGlory.mode
@@ -80,21 +80,21 @@ meVE.LityBoth.melody = me.m11.d30_en_US_dedes.meVE.LityBoth.melody
 meVE.LityBoth.incipit = me.m11.d30_en_US_dedes.meVE.LityBoth.incipit
 meVE.LityBoth.text = me.m11.d30_en_US_dedes.meVE.LityBoth.text
 
-meVE.Aposticha1.mode = me.m11.d30_en_US_dedes.meVE.Aposticha1.mode
-meVE.Aposticha1.greekmelody = me.m11.d30_en_US_dedes.meVE.Aposticha1.greekmelody
-meVE.Aposticha1.melody = me.m11.d30_en_US_oca.meVE.Aposticha1.melody
-meVE.Aposticha1.incipit = me.m11.d30_en_US_oca.meVE.Aposticha1.incipit
-meVE.Aposticha1.text = me.m11.d30_en_US_oca.meVE.Aposticha1.text
+meVE.Aposticha1.mode = me.m11.d30_en_US_goadedes.meVE.Aposticha1.mode
+meVE.Aposticha1.greekmelody = me.m11.d30_en_US_goadedes.meVE.Aposticha1.greekmelody
+meVE.Aposticha1.melody = me.m11.d30_en_US_goadedes.meVE.Aposticha1.melody
+meVE.Aposticha1.incipit = me.m11.d30_en_US_goadedes.meVE.Aposticha1.incipit
+meVE.Aposticha1.text = me.m11.d30_en_US_goadedes.meVE.Aposticha1.text
 
-meVE.Aposticha2.mode = me.m11.d30_en_US_dedes.meVE.Aposticha2.mode
-meVE.Aposticha2.melody = me.m11.d30_en_US_oca.meVE.Aposticha2.melody
-meVE.Aposticha2.incipit = me.m11.d30_en_US_oca.meVE.Aposticha2.incipit
-meVE.Aposticha2.text = me.m11.d30_en_US_oca.meVE.Aposticha2.text
+meVE.Aposticha2.mode = me.m11.d30_en_US_goadedes.meVE.Aposticha2.mode
+meVE.Aposticha2.melody = me.m11.d30_en_US_goadedes.meVE.Aposticha2.melody
+meVE.Aposticha2.incipit = me.m11.d30_en_US_goadedes.meVE.Aposticha2.incipit
+meVE.Aposticha2.text = me.m11.d30_en_US_goadedes.meVE.Aposticha2.text
 
-meVE.Aposticha3.mode = me.m11.d30_en_US_dedes.meVE.Aposticha3.mode
-meVE.Aposticha3.melody = me.m11.d30_en_US_oca.meVE.Aposticha3.melody
-meVE.Aposticha3.incipit = me.m11.d30_en_US_oca.meVE.Aposticha3.incipit
-meVE.Aposticha3.text = me.m11.d30_en_US_oca.meVE.Aposticha3.text
+meVE.Aposticha3.mode = me.m11.d30_en_US_goadedes.meVE.Aposticha3.mode
+meVE.Aposticha3.melody = me.m11.d30_en_US_goadedes.meVE.Aposticha3.melody
+meVE.Aposticha3.incipit = me.m11.d30_en_US_goadedes.meVE.Aposticha3.incipit
+meVE.Aposticha3.text = me.m11.d30_en_US_goadedes.meVE.Aposticha3.text
 
 meVE.AposGlory.poet = me.m11.d30_en_US_dedes.meVE.AposGlory.poet
 meVE.AposGlory.mode = me.m11.d30_en_US_dedes.meVE.AposGlory.mode

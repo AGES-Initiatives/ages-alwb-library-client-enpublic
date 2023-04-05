@@ -154,10 +154,10 @@ alt1.peVE.SticGlory.melody = pe.d073_en_US_dedes.alt1.peVE.SticGlory.melody
 alt1.peVE.SticGlory.incipit = pe.d073_en_US_dedes.alt1.peVE.SticGlory.incipit
 alt1.peVE.SticGlory.text = pe.d073_en_US_dedes.alt1.peVE.SticGlory.text
 
-alt1.peVE.SticBoth.mode = pe.d073_en_US_dedes.alt1.peVE.SticBoth.mode
-alt1.peVE.SticBoth.melody = pe.d073_en_US_dedes.alt1.peVE.SticBoth.melody
-alt1.peVE.SticBoth.incipit = pe.d073_en_US_dedes.alt1.peVE.SticBoth.incipit
-alt1.peVE.SticBoth.text = pe.d073_en_US_dedes.alt1.peVE.SticBoth.text
+alt1.peVE.SticBoth.mode = pe.d073_en_US_goadedes.alt1.peVE.SticBoth.mode
+alt1.peVE.SticBoth.melody = pe.d073_en_US_goadedes.alt1.peVE.SticBoth.melody
+alt1.peVE.SticBoth.incipit = pe.d073_en_US_goadedes.alt1.peVE.SticBoth.incipit
+alt1.peVE.SticBoth.text = pe.d073_en_US_goadedes.alt1.peVE.SticBoth.text
 
 alt1.peVE.Lity1.mode = pe.d073_en_US_dedes.alt1.peVE.Lity1.mode
 alt1.peVE.Lity1.melody = pe.d073_en_US_dedes.alt1.peVE.Lity1.melody
