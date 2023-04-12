@@ -249,7 +249,6 @@ meMA.Ode1C1H.melody = me.m11.d13_en_US_dedes.meMA.Ode1C1H.melody
 meMA.Ode1C1H.incipit = me.m11.d13_en_US_dedes.meMA.Ode1C1H.incipit
 meMA.Ode1C1H.text = me.m11.d13_en_US_dedes.meMA.Ode1C1H.text
 
-
 meMA.Ode1C11.ode = me.m11.d13_en_US_dedes.meMA.Ode1C11.ode
 meMA.Ode1C11.mode = me.m11.d13_en_US_dedes.meMA.Ode1C11.mode
 meMA.Ode1C11.greekmelody = me.m11.d13_en_US_dedes.meMA.Ode1C11.greekmelody
@@ -275,11 +274,11 @@ meMA.Ode1C14.melody = me.m11.d13_en_US_dedes.meMA.Ode1C14.melody
 meMA.Ode1C14.incipit = me.m11.d13_en_US_dedes.meMA.Ode1C14.incipit
 meMA.Ode1C14.text = me.m11.d13_en_US_dedes.meMA.Ode1C14.text
 
-meMA.Ode1C15.ode = me.m11.d13_en_US_dedes.meMA.Ode1C15.ode
-meMA.Ode1C15.mode = me.m11.d13_en_US_dedes.meMA.Ode1C15.mode
-meMA.Ode1C15.melody = me.m11.d13_en_US_dedes.meMA.Ode1C15.melody
-meMA.Ode1C15.incipit = me.m11.d13_en_US_dedes.meMA.Ode1C15.incipit
-meMA.Ode1C15.text = me.m11.d13_en_US_dedes.meMA.Ode1C15.text
+meMA.Ode1C15.ode = me.m11.d13_en_US_goadedes.meMA.Ode1C15.ode
+meMA.Ode1C15.mode = me.m11.d13_en_US_goadedes.meMA.Ode1C15.mode
+meMA.Ode1C15.melody = me.m11.d13_en_US_goadedes.meMA.Ode1C15.melody
+meMA.Ode1C15.incipit = me.m11.d13_en_US_goadedes.meMA.Ode1C15.incipit
+meMA.Ode1C15.text = me.m11.d13_en_US_goadedes.meMA.Ode1C15.text
 
 meMA.Ode1C21.ode = me.m11.d13_en_US_dedes.meMA.Ode1C21.ode
 meMA.Ode1C21.mode = me.m11.d13_en_US_dedes.meMA.Ode1C21.mode
@@ -406,11 +405,11 @@ meMA.Ode4C14.melody = me.m11.d13_en_US_dedes.meMA.Ode4C14.melody
 meMA.Ode4C14.incipit = me.m11.d13_en_US_dedes.meMA.Ode4C14.incipit
 meMA.Ode4C14.text = me.m11.d13_en_US_dedes.meMA.Ode4C14.text
 
-meMA.Ode4C15.ode = me.m11.d13_en_US_dedes.meMA.Ode4C15.ode
-meMA.Ode4C15.mode = me.m11.d13_en_US_dedes.meMA.Ode4C15.mode
-meMA.Ode4C15.melody = me.m11.d13_en_US_dedes.meMA.Ode4C15.melody
-meMA.Ode4C15.incipit = me.m11.d13_en_US_dedes.meMA.Ode4C15.incipit
-meMA.Ode4C15.text = me.m11.d13_en_US_dedes.meMA.Ode4C15.text
+meMA.Ode4C15.ode = me.m11.d13_en_US_goadedes.meMA.Ode4C15.ode
+meMA.Ode4C15.mode = me.m11.d13_en_US_goadedes.meMA.Ode4C15.mode
+meMA.Ode4C15.melody = me.m11.d13_en_US_goadedes.meMA.Ode4C15.melody
+meMA.Ode4C15.incipit = me.m11.d13_en_US_goadedes.meMA.Ode4C15.incipit
+meMA.Ode4C15.text = me.m11.d13_en_US_goadedes.meMA.Ode4C15.text
 
 meMA.Ode4C21.ode = me.m11.d13_en_US_dedes.meMA.Ode4C21.ode
 meMA.Ode4C21.mode = me.m11.d13_en_US_dedes.meMA.Ode4C21.mode
