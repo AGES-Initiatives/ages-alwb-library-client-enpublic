@@ -3,8 +3,8 @@ A_Resource_Whose_Name = da.d7_en_US_public
 daDay.text = da.d7_en_US_dedes.daDay.text
 daCommemoration.text = da.d7_en_US_dedes.daCommemoration.text
 
-daVE.OnTheAfternoonBefore = da.d7_en_US_dedes.daVE.OnTheAfternoonBefore
-daVE.OnTheEveningBefore = da.d7_en_US_dedes.daVE.OnTheEveningBefore
+daVE.OnTheAfternoonBefore.text = da.d7_en_US_dedes.daVE.OnTheAfternoonBefore.text
+daVE.OnTheEveningBefore.text = da.d7_en_US_dedes.daVE.OnTheEveningBefore.text
 
 daVE.Apolytikion1.mode = da.d7_en_US_dedes.daVE.Apolytikion1.mode
 daVE.Apolytikion1.melody = da.d7_en_US_dedes.daVE.Apolytikion1.melody
@@ -51,6 +51,6 @@ daMA.ExapTheotokion2.melody = da.d7_en_US_dedes.daMA.ExapTheotokion2.melody
 daMA.ExapTheotokion2.incipit = da.d7_en_US_dedes.daMA.ExapTheotokion2.incipit
 daMA.ExapTheotokion2.text = da.d7_en_US_dedes.daMA.ExapTheotokion2.text
 
-daLI.CommunionHymn.text = da.d7_en_US_dedes.daLI.CommunionHymn.text
+daLI.MM.CommunionHymn.text = da.d7_en_US_dedes.daLI.MM.CommunionHymn.text
 
-daLI.CommunionHymnAlt.text = da.d7_en_US_dedes.daLI.CommunionHymnAlt.text
+daLI.MM.CommunionHymnAlt.text = da.d7_en_US_dedes.daLI.MM.CommunionHymnAlt.text

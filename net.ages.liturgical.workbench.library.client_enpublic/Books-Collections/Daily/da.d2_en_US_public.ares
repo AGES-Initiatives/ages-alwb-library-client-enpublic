@@ -3,7 +3,7 @@ A_Resource_Whose_Name = da.d2_en_US_public
 daDay.text = da.d2_en_US_dedes.daDay.text
 daCommemoration.text = da.d2_en_US_dedes.daCommemoration.text
 
-daVE.OnTheEveningBefore = da.d2_en_US_dedes.daVE.OnTheEveningBefore
+daVE.OnTheEveningBefore.text = da.d2_en_US_dedes.daVE.OnTheEveningBefore.text
 
 daVE.Apolytikion1.mode = da.d2_en_US_dedes.daVE.Apolytikion1.mode
 daVE.Apolytikion1.greekmelody = da.d2_en_US_dedes.daVE.Apolytikion1.greekmelody
@@ -40,4 +40,4 @@ daMA.ExapTheotokion1.melody = da.d2_en_US_dedes.daMA.ExapTheotokion1.melody
 daMA.ExapTheotokion1.incipit = da.d2_en_US_dedes.daMA.ExapTheotokion1.incipit
 daMA.ExapTheotokion1.text = da.d2_en_US_dedes.daMA.ExapTheotokion1.text
 
-daLI.CommunionHymn.text = da.d2_en_US_dedes.daLI.CommunionHymn.text
+daLI.MM.CommunionHymn.text = da.d2_en_US_dedes.daLI.MM.CommunionHymn.text
