@@ -31,6 +31,10 @@ cl.bishop2.fimi.text = client_en_US_goa.cl.bishop2.fimi.text
 cl.double_commemoration.bishop1and2 = client_en_US_goa.cl.double_commemoration.bishop1and2
 cl.fimi.bishop1 = client_en_US_goa.cl.fimi.bishop1
 
+//Institutional petition
+cl.institution.pet08.incipit = client_en_US_goa.cl.institution.pet08.incipit
+cl.institution.pet08.text = client_en_US_goa.cl.institution.pet08.text
+
 cl.localpatronsaint1.supplication = client_en_US_goa.cl.localpatronsaint1.supplication
 cl.localpatronsaint1.dismissal = client_en_US_goa.cl.localpatronsaint1.dismissal
 cl.localpatronsaint1.greatcompline = client_en_US_goa.cl.localpatronsaint1.greatcompline
