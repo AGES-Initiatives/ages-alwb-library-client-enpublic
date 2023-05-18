@@ -408,10 +408,10 @@ alt1.meVE.SticGlory.melody = me.m02.d26_en_US_andronache.alt1.meVE.SticGlory.mel
 alt1.meVE.SticGlory.incipit = me.m02.d26_en_US_andronache.alt1.meVE.SticGlory.incipit
 alt1.meVE.SticGlory.text = me.m02.d26_en_US_andronache.alt1.meVE.SticGlory.text
 
-alt1.meVE.SticTheotokion.mode = me.m02.d26_en_US_dedes.alt1.meVE.SticTheotokion.mode
-alt1.meVE.SticTheotokion.melody = me.m02.d26_en_US_dedes.alt1.meVE.SticTheotokion.melody
-alt1.meVE.SticTheotokion.incipit = me.m02.d26_en_US_dedes.alt1.meVE.SticTheotokion.incipit
-alt1.meVE.SticTheotokion.text = me.m02.d26_en_US_dedes.alt1.meVE.SticTheotokion.text
+alt1.meVE.SticTheotokion.mode = me.m02.d26_en_US_goadedes.alt1.meVE.SticTheotokion.mode
+alt1.meVE.SticTheotokion.melody = me.m02.d26_en_US_goadedes.alt1.meVE.SticTheotokion.melody
+alt1.meVE.SticTheotokion.incipit = me.m02.d26_en_US_goadedes.alt1.meVE.SticTheotokion.incipit
+alt1.meVE.SticTheotokion.text = me.m02.d26_en_US_goadedes.alt1.meVE.SticTheotokion.text
 
 alt1.meVE.Lity1.mode = me.m02.d26_en_US_dedes.alt1.meVE.Lity1.mode
 alt1.meVE.Lity1.melody = me.m02.d26_en_US_dedes.alt1.meVE.Lity1.melody

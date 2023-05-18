@@ -57,10 +57,10 @@ trVE.AposGlory.melody = tr.d022_en_US_goadedes.trVE.AposGlory.melody
 trVE.AposGlory.incipit = tr.d022_en_US_goadedes.trVE.AposGlory.incipit
 trVE.AposGlory.text = tr.d022_en_US_goadedes.trVE.AposGlory.text
 
-trVE.AposTheotokion.mode = oc.m6.d1_en_US_holycross.ocVE.AposTheotokion.mode
-trVE.AposTheotokion.melody = oc.m6.d1_en_US_holycross.ocVE.AposTheotokion.melody
-trVE.AposTheotokion.incipit = oc.m6.d1_en_US_holycross.ocVE.AposTheotokion.incipit
-trVE.AposTheotokion.text = oc.m6.d1_en_US_holycross.ocVE.AposTheotokion.text
+trVE.AposTheotokion.mode = oc.m6.d1_en_US_goadedes.ocVE.AposTheotokion.mode
+trVE.AposTheotokion.melody = oc.m6.d1_en_US_goadedes.ocVE.AposTheotokion.melody
+trVE.AposTheotokion.incipit = oc.m6.d1_en_US_goadedes.ocVE.AposTheotokion.incipit
+trVE.AposTheotokion.text = oc.m6.d1_en_US_goadedes.ocVE.AposTheotokion.text
 
 trMA.PostGospelGlory.mode = tr.d022_en_US_dedes.trMA.PostGospelGlory.mode
 trMA.PostGospelGlory.melody = tr.d022_en_US_dedes.trMA.PostGospelGlory.melody

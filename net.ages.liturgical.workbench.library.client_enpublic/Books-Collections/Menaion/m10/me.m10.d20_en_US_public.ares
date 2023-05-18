@@ -580,10 +580,10 @@ alt1.meVE.AposGlory.melody = me.m10.d20_en_US_dedes.alt1.meVE.AposGlory.melody
 alt1.meVE.AposGlory.incipit = me.m10.d20_en_US_dedes.alt1.meVE.AposGlory.incipit
 alt1.meVE.AposGlory.text = me.m10.d20_en_US_dedes.alt1.meVE.AposGlory.text
 
-alt1.meVE.AposBoth.mode = me.m10.d20_en_US_dedes.alt1.meVE.AposBoth.mode
-alt1.meVE.AposBoth.melody = me.m10.d20_en_US_dedes.alt1.meVE.AposBoth.melody
-alt1.meVE.AposBoth.incipit = me.m10.d20_en_US_dedes.alt1.meVE.AposBoth.incipit
-alt1.meVE.AposBoth.text = me.m10.d20_en_US_dedes.alt1.meVE.AposBoth.text
+alt1.meVE.AposBoth.mode = me.m10.d20_en_US_goadedes.alt1.meVE.AposBoth.mode
+alt1.meVE.AposBoth.melody = me.m10.d20_en_US_goadedes.alt1.meVE.AposBoth.melody
+alt1.meVE.AposBoth.incipit = me.m10.d20_en_US_goadedes.alt1.meVE.AposBoth.incipit
+alt1.meVE.AposBoth.text = me.m10.d20_en_US_goadedes.alt1.meVE.AposBoth.text
 
 alt1.meVE.Apolytikion1.mode = me.m10.d20_en_US_dedes.alt1.meVE.Apolytikion1.mode
 alt1.meVE.Apolytikion1.melody = me.m10.d20_en_US_dedes.alt1.meVE.Apolytikion1.melody

@@ -102,20 +102,20 @@ trVE.AposGlory.melody = tr.d029_en_US_dedes.trVE.AposGlory.melody
 trVE.AposGlory.incipit = tr.d029_en_US_dedes.trVE.AposGlory.incipit
 trVE.AposGlory.text = tr.d029_en_US_dedes.trVE.AposGlory.text
 
-trVE.AposTheotokion.mode = tr.d029_en_US_dedes.trVE.AposTheotokion.mode
-trVE.AposTheotokion.melody = tr.d029_en_US_dedes.trVE.AposTheotokion.melody
-trVE.AposTheotokion.incipit = tr.d029_en_US_dedes.trVE.AposTheotokion.incipit
-trVE.AposTheotokion.text = tr.d029_en_US_dedes.trVE.AposTheotokion.text
+trVE.AposTheotokion.mode = tr.d029_en_US_goadedes.trVE.AposTheotokion.mode
+trVE.AposTheotokion.melody = tr.d029_en_US_goadedes.trVE.AposTheotokion.melody
+trVE.AposTheotokion.incipit = tr.d029_en_US_goadedes.trVE.AposTheotokion.incipit
+trVE.AposTheotokion.text = tr.d029_en_US_goadedes.trVE.AposTheotokion.text
 
 trVE.Apolytikion1.mode = tr.d029_en_US_dedes.trVE.Apolytikion1.mode
 trVE.Apolytikion1.melody = tr.d029_en_US_dedes.trVE.Apolytikion1.melody
 trVE.Apolytikion1.incipit = tr.d029_en_US_dedes.trVE.Apolytikion1.incipit
 trVE.Apolytikion1.text = tr.d029_en_US_dedes.trVE.Apolytikion1.text
 
-trVE.ApolTheotokion.mode = tr.d029_en_US_dedes.trVE.ApolTheotokion.mode
-trVE.ApolTheotokion.melody = tr.d029_en_US_dedes.trVE.ApolTheotokion.melody
-trVE.ApolTheotokion.incipit = tr.d029_en_US_dedes.trVE.ApolTheotokion.incipit
-trVE.ApolTheotokion.text = tr.d029_en_US_dedes.trVE.ApolTheotokion.text
+trVE.ApolTheotokion.mode = tr.d029_en_US_goadedes.trVE.ApolTheotokion.mode
+trVE.ApolTheotokion.melody = tr.d029_en_US_goadedes.trVE.ApolTheotokion.melody
+trVE.ApolTheotokion.incipit = tr.d029_en_US_goadedes.trVE.ApolTheotokion.incipit
+trVE.ApolTheotokion.text = tr.d029_en_US_goadedes.trVE.ApolTheotokion.text
 
 trMA.PostGospelGlory.mode = tr.d029_en_US_dedes.trMA.PostGospelGlory.mode
 trMA.PostGospelGlory.melody = tr.d029_en_US_dedes.trMA.PostGospelGlory.melody

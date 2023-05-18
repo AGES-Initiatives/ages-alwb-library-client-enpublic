@@ -33,10 +33,10 @@ peVE.SticGlory.melody = pe.d108_en_US_dedes.peVE.SticGlory.melody
 peVE.SticGlory.incipit = pe.d108_en_US_dedes.peVE.SticGlory.incipit
 peVE.SticGlory.text = pe.d108_en_US_dedes.peVE.SticGlory.text
 
-peVE.SticBoth.mode = pe.d108_en_US_dedes.peVE.SticBoth.mode
-peVE.SticBoth.melody = pe.d108_en_US_dedes.peVE.SticBoth.melody
-peVE.SticBoth.incipit = pe.d108_en_US_dedes.peVE.SticBoth.incipit
-peVE.SticBoth.text = pe.d108_en_US_dedes.peVE.SticBoth.text
+peVE.SticBoth.mode = pe.d108_en_US_goadedes.peVE.SticBoth.mode
+peVE.SticBoth.melody = pe.d108_en_US_goadedes.peVE.SticBoth.melody
+peVE.SticBoth.incipit = pe.d108_en_US_goadedes.peVE.SticBoth.incipit
+peVE.SticBoth.text = pe.d108_en_US_goadedes.peVE.SticBoth.text
 
 peVE.Aposticha1.mode = pe.d108_en_US_goadedes.peVE.Aposticha1.mode
 peVE.Aposticha1.melody = pe.d108_en_US_goadedes.peVE.Aposticha1.melody
@@ -154,10 +154,10 @@ alt1.peVE.SticGlory.melody = pe.d108_en_US_dedes.alt1.peVE.SticGlory.melody
 alt1.peVE.SticGlory.incipit = pe.d108_en_US_dedes.alt1.peVE.SticGlory.incipit
 alt1.peVE.SticGlory.text = pe.d108_en_US_dedes.alt1.peVE.SticGlory.text
 
-alt1.peVE.Aposticha1.mode = pe.d108_en_US_dedes.alt1.peVE.Aposticha1.mode
-alt1.peVE.Aposticha1.melody = pe.d108_en_US_dedes.alt1.peVE.Aposticha1.melody
-alt1.peVE.Aposticha1.incipit = pe.d108_en_US_holycross.alt1.peVE.Aposticha1.incipit
-alt1.peVE.Aposticha1.text = pe.d108_en_US_holycross.alt1.peVE.Aposticha1.text
+alt1.peVE.Aposticha1.mode = pe.d108_en_US_goadedes.alt1.peVE.Aposticha1.mode
+alt1.peVE.Aposticha1.melody = pe.d108_en_US_goadedes.alt1.peVE.Aposticha1.melody
+alt1.peVE.Aposticha1.incipit = pe.d108_en_US_goadedes.alt1.peVE.Aposticha1.incipit
+alt1.peVE.Aposticha1.text = pe.d108_en_US_goadedes.alt1.peVE.Aposticha1.text
 
 alt1.peVE.Aposticha2.mode = pe.d108_en_US_dedes.alt1.peVE.Aposticha2.mode
 alt1.peVE.Aposticha2.melody = pe.d108_en_US_dedes.alt1.peVE.Aposticha2.melody

@@ -49,10 +49,10 @@ peVE.SticGlory.melody = pe.d119_en_US_dedes.peVE.SticGlory.melody
 peVE.SticGlory.incipit = pe.d119_en_US_dedes.peVE.SticGlory.incipit
 peVE.SticGlory.text = pe.d119_en_US_dedes.peVE.SticGlory.text
 
-peVE.SticBoth.mode = pe.d119_en_US_dedes.peVE.SticBoth.mode
-peVE.SticBoth.melody = pe.d119_en_US_dedes.peVE.SticBoth.melody
-peVE.SticBoth.incipit = pe.d119_en_US_dedes.peVE.SticBoth.incipit
-peVE.SticBoth.text = pe.d119_en_US_dedes.peVE.SticBoth.text
+peVE.SticBoth.mode = pe.d119_en_US_goadedes.peVE.SticBoth.mode
+peVE.SticBoth.melody = pe.d119_en_US_goadedes.peVE.SticBoth.melody
+peVE.SticBoth.incipit = pe.d119_en_US_goadedes.peVE.SticBoth.incipit
+peVE.SticBoth.text = pe.d119_en_US_goadedes.peVE.SticBoth.text
 
 peVE.Aposticha1.mode = pe.d119_en_US_dedes.peVE.Aposticha1.mode
 peVE.Aposticha1.melody = pe.d119_en_US_dedes.peVE.Aposticha1.melody
@@ -113,10 +113,10 @@ peMA.Kathisma14.melody = pe.d119_en_US_dedes.peMA.Kathisma14.melody
 peMA.Kathisma14.incipit = pe.d119_en_US_dedes.peMA.Kathisma14.incipit
 peMA.Kathisma14.text = pe.d119_en_US_dedes.peMA.Kathisma14.text
 
-peMA.Kathisma1T.mode = pe.d119_en_US_dedes.peMA.Kathisma1T.mode
-peMA.Kathisma1T.melody = pe.d119_en_US_dedes.peMA.Kathisma1T.melody
-peMA.Kathisma1T.incipit = pe.d119_en_US_dedes.peMA.Kathisma1T.incipit
-peMA.Kathisma1T.text = pe.d119_en_US_dedes.peMA.Kathisma1T.text
+peMA.Kathisma1T.mode = pe.d119_en_US_goadedes.peMA.Kathisma1T.mode
+peMA.Kathisma1T.melody = pe.d119_en_US_goadedes.peMA.Kathisma1T.melody
+peMA.Kathisma1T.incipit = pe.d119_en_US_goadedes.peMA.Kathisma1T.incipit
+peMA.Kathisma1T.text = pe.d119_en_US_goadedes.peMA.Kathisma1T.text
 
 peMA.Kathisma21.mode = pe.d119_en_US_dedes.peMA.Kathisma21.mode
 peMA.Kathisma21.melody = pe.d119_en_US_dedes.peMA.Kathisma21.melody

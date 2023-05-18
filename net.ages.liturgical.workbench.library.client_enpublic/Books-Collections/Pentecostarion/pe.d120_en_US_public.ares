@@ -2,6 +2,7 @@ A_Resource_Whose_Name = pe.d120_en_US_public
 
 peDA.commemoration.full = pe.d120_en_US_dedes.peDA.commemoration.full // full title of day
 peDA.commemoration.short = pe.d120_en_US_dedes.peDA.commemoration.short
+peDA.commemoration.title = pe.d120_en_US_dedes.peDA.commemoration.title
 peDA.commemoration.name = pe.d120_en_US_dedes.peDA.commemoration.name
 peDA.insert1 = pe.d120_en_US_dedes.peDA.insert1 // for use in petitions and dismissal
 peDA.insert2 = pe.d120_en_US_dedes.peDA.insert2 // for use in petitions and dismissal

@@ -45,10 +45,10 @@ meVE.SticGlory.melody = me.m08.d29_en_US_dedes.meVE.SticGlory.melody
 meVE.SticGlory.incipit = me.m08.d29_en_US_dedes.meVE.SticGlory.incipit
 meVE.SticGlory.text = me.m08.d29_en_US_dedes.meVE.SticGlory.text
 
-meVE.SticTheotokion.mode = me.m08.d29_en_US_dedes.meVE.SticTheotokion.mode
-meVE.SticTheotokion.melody = me.m08.d29_en_US_dedes.meVE.SticTheotokion.melody
-meVE.SticTheotokion.incipit = me.m08.d29_en_US_dedes.meVE.SticTheotokion.incipit
-meVE.SticTheotokion.text = me.m08.d29_en_US_dedes.meVE.SticTheotokion.text
+meVE.SticTheotokion.mode = me.m08.d29_en_US_goadedes.meVE.SticTheotokion.mode
+meVE.SticTheotokion.melody = me.m08.d29_en_US_goadedes.meVE.SticTheotokion.melody
+meVE.SticTheotokion.incipit = me.m08.d29_en_US_goadedes.meVE.SticTheotokion.incipit
+meVE.SticTheotokion.text = me.m08.d29_en_US_goadedes.meVE.SticTheotokion.text
 
 meVE.Lity1.poet = me.m08.d29_en_US_dedes.meVE.Lity1.poet
 meVE.Lity1.mode = me.m08.d29_en_US_dedes.meVE.Lity1.mode
@@ -97,10 +97,10 @@ meVE.AposGlory.melody = me.m08.d29_en_US_dedes.meVE.AposGlory.melody
 meVE.AposGlory.incipit = me.m08.d29_en_US_dedes.meVE.AposGlory.incipit
 meVE.AposGlory.text = me.m08.d29_en_US_dedes.meVE.AposGlory.text
 
-meVE.AposTheotokion.mode = me.m08.d29_en_US_dedes.meVE.AposTheotokion.mode
-meVE.AposTheotokion.melody = me.m08.d29_en_US_dedes.meVE.AposTheotokion.melody
-meVE.AposTheotokion.incipit = me.m08.d29_en_US_dedes.meVE.AposTheotokion.incipit
-meVE.AposTheotokion.text = me.m08.d29_en_US_dedes.meVE.AposTheotokion.text
+meVE.AposTheotokion.mode = me.m08.d29_en_US_goadedes.meVE.AposTheotokion.mode
+meVE.AposTheotokion.melody = me.m08.d29_en_US_goadedes.meVE.AposTheotokion.melody
+meVE.AposTheotokion.incipit = me.m08.d29_en_US_goadedes.meVE.AposTheotokion.incipit
+meVE.AposTheotokion.text = me.m08.d29_en_US_goadedes.meVE.AposTheotokion.text
 
 meVE.Apolytikion1.mode = me.m08.d29_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m08.d29_en_US_dedes.meVE.Apolytikion1.melody

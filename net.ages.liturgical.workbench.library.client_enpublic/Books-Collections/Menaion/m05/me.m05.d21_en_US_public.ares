@@ -105,10 +105,10 @@ meVE.AposGlory.melody = me.m05.d21_en_US_dedes.meVE.AposGlory.melody
 meVE.AposGlory.incipit = me.m05.d21_en_US_dedes.meVE.AposGlory.incipit
 meVE.AposGlory.text = me.m05.d21_en_US_dedes.meVE.AposGlory.text
 
-meVE.AposTheotokion.mode = me.m05.d21_en_US_dedes.meVE.AposTheotokion.mode
-meVE.AposTheotokion.melody = me.m05.d21_en_US_dedes.meVE.AposTheotokion.melody
-meVE.AposTheotokion.incipit = me.m05.d21_en_US_dedes.meVE.AposTheotokion.incipit
-meVE.AposTheotokion.text = me.m05.d21_en_US_dedes.meVE.AposTheotokion.text
+meVE.AposTheotokion.mode = me.m05.d21_en_US_goadedes.meVE.AposTheotokion.mode
+meVE.AposTheotokion.melody = me.m05.d21_en_US_goadedes.meVE.AposTheotokion.melody
+meVE.AposTheotokion.incipit = me.m05.d21_en_US_goadedes.meVE.AposTheotokion.incipit
+meVE.AposTheotokion.text = me.m05.d21_en_US_goadedes.meVE.AposTheotokion.text
 
 meVE.Apolytikion1.mode = me.m05.d21_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m05.d21_en_US_dedes.meVE.Apolytikion1.melody

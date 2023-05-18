@@ -60,10 +60,10 @@ trVE.Apolytikion1.melody = tr.d021_en_US_dedes.trVE.Apolytikion1.melody
 trVE.Apolytikion1.incipit = tr.d021_en_US_dedes.trVE.Apolytikion1.incipit
 trVE.Apolytikion1.text = tr.d021_en_US_dedes.trVE.Apolytikion1.text
 
-trVE.ApolTheotokion.mode = tr.d021_en_US_dedes.trVE.ApolTheotokion.mode
-trVE.ApolTheotokion.melody = tr.d021_en_US_dedes.trVE.ApolTheotokion.melody
-trVE.ApolTheotokion.incipit = tr.d021_en_US_dedes.trVE.ApolTheotokion.incipit
-trVE.ApolTheotokion.text = tr.d021_en_US_dedes.trVE.ApolTheotokion.text
+trVE.ApolTheotokion.mode = tr.d021_en_US_goadedes.trVE.ApolTheotokion.mode
+trVE.ApolTheotokion.melody = tr.d021_en_US_goadedes.trVE.ApolTheotokion.melody
+trVE.ApolTheotokion.incipit = tr.d021_en_US_goadedes.trVE.ApolTheotokion.incipit
+trVE.ApolTheotokion.text = tr.d021_en_US_goadedes.trVE.ApolTheotokion.text
 
 trMA.Kathisma11.mode = tr.d021_en_US_dedes.trMA.Kathisma11.mode
 trMA.Kathisma11.greekmelody = tr.d021_en_US_dedes.trMA.Kathisma11.greekmelody

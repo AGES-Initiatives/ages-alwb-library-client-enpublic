@@ -47,10 +47,10 @@ trVE.Apolytikion1.melody = tr.d050_en_US_dedes.trVE.Apolytikion1.melody
 trVE.GeneralApolytikion1.name = tr.d050_en_US_dedes.trVE.GeneralApolytikion1.name
 trVE.Apolytikion1.text = tr.d050_en_US_dedes.trVE.Apolytikion1.text
 
-trVE.ApolTheotokion.mode = tr.d050_en_US_dedes.trVE.ApolTheotokion.mode
-trVE.ApolTheotokion.melody = tr.d050_en_US_dedes.trVE.ApolTheotokion.melody
-trVE.ApolTheotokion.incipit = tr.d050_en_US_dedes.trVE.ApolTheotokion.incipit
-trVE.ApolTheotokion.text = tr.d050_en_US_dedes.trVE.ApolTheotokion.text
+trVE.ApolTheotokion.mode = tr.d050_en_US_goadedes.trVE.ApolTheotokion.mode
+trVE.ApolTheotokion.melody = tr.d050_en_US_goadedes.trVE.ApolTheotokion.melody
+trVE.ApolTheotokion.incipit = tr.d050_en_US_goadedes.trVE.ApolTheotokion.incipit
+trVE.ApolTheotokion.text = tr.d050_en_US_goadedes.trVE.ApolTheotokion.text
 
 trMA.PostGospelGlory.mode = tr.d050_en_US_dedes.trMA.PostGospelGlory.mode
 trMA.PostGospelGlory.melody = tr.d050_en_US_dedes.trMA.PostGospelGlory.melody

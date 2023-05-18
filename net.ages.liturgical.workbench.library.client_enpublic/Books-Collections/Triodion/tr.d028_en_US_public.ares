@@ -50,10 +50,10 @@ trVE.Apolytikion1.melody = tr.d028_en_US_dedes.trVE.Apolytikion1.melody
 trVE.Apolytikion1.incipit = tr.d028_en_US_dedes.trVE.Apolytikion1.incipit
 trVE.Apolytikion1.text = tr.d028_en_US_dedes.trVE.Apolytikion1.text
 
-trVE.ApolTheotokion.mode = tr.d028_en_US_dedes.trVE.ApolTheotokion.mode
-trVE.ApolTheotokion.melody = tr.d028_en_US_dedes.trVE.ApolTheotokion.melody
-trVE.ApolTheotokion.incipit = tr.d028_en_US_dedes.trVE.ApolTheotokion.incipit
-trVE.ApolTheotokion.text = tr.d028_en_US_dedes.trVE.ApolTheotokion.text
+trVE.ApolTheotokion.mode = tr.d028_en_US_goadedes.trVE.ApolTheotokion.mode
+trVE.ApolTheotokion.melody = tr.d028_en_US_goadedes.trVE.ApolTheotokion.melody
+trVE.ApolTheotokion.incipit = tr.d028_en_US_goadedes.trVE.ApolTheotokion.incipit
+trVE.ApolTheotokion.text = tr.d028_en_US_goadedes.trVE.ApolTheotokion.text
 
 //Supplicatory Canon to St. Theodore
 trCA.acrostic.title = tr.d028_en_US_dedes.trCA.acrostic.title

@@ -77,10 +77,10 @@ peVE.AposBoth.melody = pe.d113_en_US_dedes.peVE.AposBoth.melody
 peVE.AposBoth.incipit = pe.d113_en_US_dedes.peVE.AposBoth.incipit
 peVE.AposBoth.text = pe.d113_en_US_dedes.peVE.AposBoth.text
 
-peVE.Apolytikion1.mode = pe.d113_en_US_dedes.peVE.Apolytikion1.mode
-peVE.Apolytikion1.melody = pe.d113_en_US_dedes.peVE.Apolytikion1.melody
-peVE.Apolytikion1.incipit = pe.d113_en_US_dedes.peVE.Apolytikion1.incipit
-peVE.Apolytikion1.text = pe.d113_en_US_dedes.peVE.Apolytikion1.text
+peVE.Apolytikion1.mode = pe.d113_en_US_goadedes.peVE.Apolytikion1.mode
+peVE.Apolytikion1.melody = pe.d113_en_US_goadedes.peVE.Apolytikion1.melody
+peVE.Apolytikion1.incipit = pe.d113_en_US_goadedes.peVE.Apolytikion1.incipit
+peVE.Apolytikion1.text = pe.d113_en_US_goadedes.peVE.Apolytikion1.text
 
 peVE.Apolytikion2.mode = pe.d113_en_US_dedes.peVE.Apolytikion2.mode
 peVE.Apolytikion2.melody = pe.d113_en_US_dedes.peVE.Apolytikion2.melody
@@ -102,10 +102,10 @@ peMA.Kathisma12.melody = pe.d113_en_US_dedes.peMA.Kathisma12.melody
 peMA.Kathisma12.incipit = pe.d113_en_US_dedes.peMA.Kathisma12.incipit
 peMA.Kathisma12.text = pe.d113_en_US_dedes.peMA.Kathisma12.text
 
-peMA.Kathisma13.mode = pe.d113_en_US_dedes.peMA.Kathisma13.mode
-peMA.Kathisma13.melody = pe.d113_en_US_dedes.peMA.Kathisma13.melody
-peMA.Kathisma13.incipit = pe.d113_en_US_dedes.peMA.Kathisma13.incipit
-peMA.Kathisma13.text = pe.d113_en_US_dedes.peMA.Kathisma13.text
+peMA.Kathisma13.mode = pe.d113_en_US_goadedes.peMA.Kathisma13.mode
+peMA.Kathisma13.melody = pe.d113_en_US_goadedes.peMA.Kathisma13.melody
+peMA.Kathisma13.incipit = pe.d113_en_US_goadedes.peMA.Kathisma13.incipit
+peMA.Kathisma13.text = pe.d113_en_US_goadedes.peMA.Kathisma13.text
 
 peMA.Kathisma21.mode = pe.d113_en_US_dedes.peMA.Kathisma21.mode
 peMA.Kathisma21.melody = pe.d113_en_US_dedes.peMA.Kathisma21.melody

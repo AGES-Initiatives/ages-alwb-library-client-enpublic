@@ -722,9 +722,9 @@ trH9.Troparion.mode = tr.d069_en_US_dedes.trH9.Troparion.mode
 trH9.Troparion.incipit = tr.d069_en_US_dedes.trH9.Troparion.incipit
 trH9.Troparion.text = tr.d069_en_US_dedes.trH9.Troparion.text
 
-trH9.Theotokion.mode = tr.d069_en_US_dedes.trH9.Theotokion.mode
-trH9.Theotokion.incipit = tr.d069_en_US_dedes.trH9.Theotokion.incipit
-trH9.Theotokion.text = tr.d069_en_US_dedes.trH9.Theotokion.text
+trH9.Theotokion.mode = tr.d069_en_US_goadedes.trH9.Theotokion.mode
+trH9.Theotokion.incipit = tr.d069_en_US_goadedes.trH9.Theotokion.incipit
+trH9.Theotokion.text = tr.d069_en_US_goadedes.trH9.Theotokion.text
 
 trH9.Idiomelon1.mode = tr.d069_en_US_dedes.trH9.Idiomelon1.mode
 trH9.Idiomelon1.melody = tr.d069_en_US_dedes.trH9.Idiomelon1.melody

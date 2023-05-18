@@ -63,35 +63,35 @@ peVE.LityGlory.melody = pe.d127_en_US_goadedes.peVE.LityGlory.melody
 peVE.LityGlory.incipit = pe.d127_en_US_goadedes.peVE.LityGlory.incipit
 peVE.LityGlory.text = pe.d127_en_US_goadedes.peVE.LityGlory.text
 
-peVE.LityBoth.mode = pe.d127_en_US_dedes.peVE.LityBoth.mode
-peVE.LityBoth.melody = pe.d127_en_US_dedes.peVE.LityBoth.melody
-peVE.LityBoth.incipit = pe.d127_en_US_holycross.peVE.LityBoth.incipit
-peVE.LityBoth.text = pe.d127_en_US_holycross.peVE.LityBoth.text
+peVE.LityBoth.mode = pe.d127_en_US_goadedes.peVE.LityBoth.mode
+peVE.LityBoth.melody = pe.d127_en_US_goadedes.peVE.LityBoth.melody
+peVE.LityBoth.incipit = pe.d127_en_US_goadedes.peVE.LityBoth.incipit
+peVE.LityBoth.text = pe.d127_en_US_goadedes.peVE.LityBoth.text
 
 peVE.AposGlory.mode = pe.d127_en_US_dedes.peVE.AposGlory.mode
 peVE.AposGlory.melody = pe.d127_en_US_dedes.peVE.AposGlory.melody
 peVE.AposGlory.incipit = pe.d127_en_US_dedes.peVE.AposGlory.incipit
 peVE.AposGlory.text = pe.d127_en_US_dedes.peVE.AposGlory.text
 
-peVE.AposBoth.mode = pe.d127_en_US_dedes.peVE.AposBoth.mode
-peVE.AposBoth.melody = pe.d127_en_US_dedes.peVE.AposBoth.melody
-peVE.AposBoth.incipit = pe.d127_en_US_holycross.peVE.AposBoth.incipit
-peVE.AposBoth.text = pe.d127_en_US_holycross.peVE.AposBoth.text
+peVE.AposBoth.mode = pe.d127_en_US_goadedes.peVE.AposBoth.mode
+peVE.AposBoth.melody = pe.d127_en_US_goadedes.peVE.AposBoth.melody
+peVE.AposBoth.incipit = pe.d127_en_US_goadedes.peVE.AposBoth.incipit
+peVE.AposBoth.text = pe.d127_en_US_goadedes.peVE.AposBoth.text
 
-peVE.Apolytikion1.mode = pe.d127_en_US_dedes.peVE.Apolytikion1.mode
-peVE.Apolytikion1.melody = pe.d127_en_US_dedes.peVE.Apolytikion1.melody
-peVE.Apolytikion1.incipit = pe.d127_en_US_dedes.peVE.Apolytikion1.incipit
-peVE.Apolytikion1.text = pe.d127_en_US_dedes.peVE.Apolytikion1.text
+peVE.Apolytikion1.mode = pe.d127_en_US_goadedes.peVE.Apolytikion1.mode
+peVE.Apolytikion1.melody = pe.d127_en_US_goadedes.peVE.Apolytikion1.melody
+peVE.Apolytikion1.incipit = pe.d127_en_US_goadedes.peVE.Apolytikion1.incipit
+peVE.Apolytikion1.text = pe.d127_en_US_goadedes.peVE.Apolytikion1.text
 
 peVE.Apolytikion2.mode = pe.d127_en_US_dedes.peVE.Apolytikion2.mode
 peVE.Apolytikion2.melody = pe.d127_en_US_dedes.peVE.Apolytikion2.melody
 peVE.Apolytikion2.incipit = pe.d127_en_US_dedes.peVE.Apolytikion2.incipit
 peVE.Apolytikion2.text = pe.d127_en_US_dedes.peVE.Apolytikion2.text
 
-peVE.Apolytikion3.mode = pe.d127_en_US_dedes.peVE.Apolytikion3.mode
-peVE.Apolytikion3.melody = pe.d127_en_US_dedes.peVE.Apolytikion3.melody
-peVE.Apolytikion3.incipit = pe.d127_en_US_dedes.peVE.Apolytikion3.incipit
-peVE.Apolytikion3.text = pe.d127_en_US_dedes.peVE.Apolytikion3.text
+peVE.Apolytikion3.mode = pe.d127_en_US_goadedes.peVE.Apolytikion3.mode
+peVE.Apolytikion3.melody = pe.d127_en_US_goadedes.peVE.Apolytikion3.melody
+peVE.Apolytikion3.incipit = pe.d127_en_US_goadedes.peVE.Apolytikion3.incipit
+peVE.Apolytikion3.text = pe.d127_en_US_goadedes.peVE.Apolytikion3.text
 
 peMA.Kathisma11.mode = pe.d127_en_US_dedes.peMA.Kathisma11.mode
 peMA.Kathisma11.greekmelody = pe.d127_en_US_dedes.peMA.Kathisma11.greekmelody
@@ -104,10 +104,10 @@ peMA.Kathisma12.melody = pe.d127_en_US_dedes.peMA.Kathisma12.melody
 peMA.Kathisma12.incipit = pe.d127_en_US_dedes.peMA.Kathisma12.incipit
 peMA.Kathisma12.text = pe.d127_en_US_dedes.peMA.Kathisma12.text
 
-peMA.Kathisma13.mode = pe.d127_en_US_dedes.peMA.Kathisma13.mode
-peMA.Kathisma13.melody = pe.d127_en_US_dedes.peMA.Kathisma13.melody
-peMA.Kathisma13.incipit = pe.d127_en_US_dedes.peMA.Kathisma13.incipit
-peMA.Kathisma13.text = pe.d127_en_US_dedes.peMA.Kathisma13.text
+peMA.Kathisma13.mode = pe.d127_en_US_goadedes.peMA.Kathisma13.mode
+peMA.Kathisma13.melody = pe.d127_en_US_goadedes.peMA.Kathisma13.melody
+peMA.Kathisma13.incipit = pe.d127_en_US_goadedes.peMA.Kathisma13.incipit
+peMA.Kathisma13.text = pe.d127_en_US_goadedes.peMA.Kathisma13.text
 
 peMA.Kathisma21.mode = pe.d127_en_US_dedes.peMA.Kathisma21.mode
 peMA.Kathisma21.greekmelody = pe.d127_en_US_dedes.peMA.Kathisma21.greekmelody

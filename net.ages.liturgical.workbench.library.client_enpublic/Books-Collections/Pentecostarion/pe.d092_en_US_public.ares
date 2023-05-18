@@ -49,10 +49,10 @@ peVE.LityGlory.melody = pe.d092_en_US_dedes.peVE.LityGlory.melody
 peVE.LityGlory.incipit = pe.d092_en_US_dedes.peVE.LityGlory.incipit
 peVE.LityGlory.text = pe.d092_en_US_dedes.peVE.LityGlory.text
 
-peVE.LityBoth.mode = pe.d092_en_US_dedes.peVE.LityBoth.mode
-peVE.LityBoth.melody = pe.d092_en_US_dedes.peVE.LityBoth.melody
-peVE.LityBoth.incipit = pe.d092_en_US_holycross.peVE.LityBoth.incipit
-peVE.LityBoth.text = pe.d092_en_US_holycross.peVE.LityBoth.text
+peVE.LityBoth.mode = pe.d092_en_US_goadedes.peVE.LityBoth.mode
+peVE.LityBoth.melody = pe.d092_en_US_goadedes.peVE.LityBoth.melody
+peVE.LityBoth.incipit = pe.d092_en_US_goadedes.peVE.LityBoth.incipit
+peVE.LityBoth.text = pe.d092_en_US_goadedes.peVE.LityBoth.text
 
 peVE.AposGlory.mode = pe.d092_en_US_dedes.peVE.AposGlory.mode
 peVE.AposGlory.melody = pe.d092_en_US_dedes.peVE.AposGlory.melody
