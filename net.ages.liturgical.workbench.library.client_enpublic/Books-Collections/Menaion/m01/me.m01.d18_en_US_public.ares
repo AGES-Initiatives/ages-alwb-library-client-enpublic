@@ -160,10 +160,10 @@ meMA.Kathisma31.melody = me.m01.d18_en_US_dedes.meMA.Kathisma31.melody
 meMA.Kathisma31.incipit = me.m01.d18_en_US_dedes.meMA.Kathisma31.incipit
 meMA.Kathisma31.text = me.m01.d18_en_US_dedes.meMA.Kathisma31.text
 
-meMA.Kathisma3T.mode = me.m01.d18_en_US_dedes.meMA.Kathisma3T.mode
-meMA.Kathisma3T.melody = me.m01.d18_en_US_dedes.meMA.Kathisma3T.melody
-meMA.Kathisma3T.incipit = me.m01.d18_en_US_dedes.meMA.Kathisma3T.incipit
-meMA.Kathisma3T.text = me.m01.d18_en_US_dedes.meMA.Kathisma3T.text
+meMA.Kathisma3T.mode = me.m01.d18_en_US_goadedes.meMA.Kathisma3T.mode
+meMA.Kathisma3T.melody = me.m01.d18_en_US_goadedes.meMA.Kathisma3T.melody
+meMA.Kathisma3T.incipit = me.m01.d18_en_US_goadedes.meMA.Kathisma3T.incipit
+meMA.Kathisma3T.text = me.m01.d18_en_US_goadedes.meMA.Kathisma3T.text
 
 meMA.MM.Prokeimenon.text = properties_en_US_public.media.key
 

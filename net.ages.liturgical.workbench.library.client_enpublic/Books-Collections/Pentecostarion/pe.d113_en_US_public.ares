@@ -372,16 +372,19 @@ peMA.Ode9C1T.incipit = pe.d113_en_US_goadedes.peMA.Ode9C1T.incipit
 peMA.Ode9C1T.text = pe.d113_en_US_goadedes.peMA.Ode9C1T.text
 
 peMA.Exaposteilarion1.mode = pe.d113_en_US_dedes.peMA.Exaposteilarion1.mode
+peMA.Exaposteilarion1.greekmelody = pe.d113_en_US_dedes.peMA.Exaposteilarion1.greekmelody
 peMA.Exaposteilarion1.melody = pe.d113_en_US_dedes.peMA.Exaposteilarion1.melody
 peMA.Exaposteilarion1.incipit = pe.d113_en_US_dedes.peMA.Exaposteilarion1.incipit
 peMA.Exaposteilarion1.text = pe.d113_en_US_dedes.peMA.Exaposteilarion1.text
 
 peMA.Exaposteilarion2.mode = pe.d113_en_US_dedes.peMA.Exaposteilarion2.mode
+peMA.Exaposteilarion2.greekmelody = pe.d113_en_US_dedes.peMA.Exaposteilarion2.greekmelody
 peMA.Exaposteilarion2.melody = pe.d113_en_US_dedes.peMA.Exaposteilarion2.melody
 peMA.Exaposteilarion2.incipit = pe.d113_en_US_dedes.peMA.Exaposteilarion2.incipit
 peMA.Exaposteilarion2.text = pe.d113_en_US_dedes.peMA.Exaposteilarion2.text
 
 peMA.Exaposteilarion3.mode = pe.d113_en_US_dedes.peMA.Exaposteilarion3.mode
+peMA.Exaposteilarion3.greekmelody = pe.d113_en_US_dedes.peMA.Exaposteilarion3.greekmelody
 peMA.Exaposteilarion3.melody = pe.d113_en_US_dedes.peMA.Exaposteilarion3.melody
 peMA.Exaposteilarion3.incipit = pe.d113_en_US_dedes.peMA.Exaposteilarion3.incipit
 peMA.Exaposteilarion3.text = pe.d113_en_US_dedes.peMA.Exaposteilarion3.text

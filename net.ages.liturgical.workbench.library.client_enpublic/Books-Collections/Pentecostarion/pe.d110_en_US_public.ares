@@ -757,6 +757,7 @@ peMA.Ode9C2T.incipit = pe.d110_en_US_goadedes.peMA.Ode9C2T.incipit
 peMA.Ode9C2T.text = pe.d110_en_US_goadedes.peMA.Ode9C2T.text
 
 peMA.Exaposteilarion1.mode = pe.d110_en_US_dedes.peMA.Exaposteilarion1.mode
+peMA.Exaposteilarion1.greekmelody = pe.d110_en_US_dedes.peMA.Exaposteilarion1.greekmelody
 peMA.Exaposteilarion1.melody = pe.d110_en_US_dedes.peMA.Exaposteilarion1.melody
 peMA.Exaposteilarion1.incipit = pe.d110_en_US_dedes.peMA.Exaposteilarion1.incipit
 peMA.Exaposteilarion1.text = pe.d110_en_US_dedes.peMA.Exaposteilarion1.text

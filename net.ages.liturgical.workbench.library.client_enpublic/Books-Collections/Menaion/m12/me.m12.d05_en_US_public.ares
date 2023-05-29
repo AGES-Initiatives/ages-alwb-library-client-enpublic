@@ -158,10 +158,10 @@ meMA.Kathisma11.melody = me.m12.d05_en_US_oca.meMA.Kathisma11.melody
 meMA.Kathisma11.incipit = me.m12.d05_en_US_oca.meMA.Kathisma11.incipit
 meMA.Kathisma11.text = me.m12.d05_en_US_oca.meMA.Kathisma11.text
 
-meMA.Kathisma1T.mode = me.m12.d05_en_US_dedes.meMA.Kathisma1T.mode
-meMA.Kathisma1T.melody = me.m12.d05_en_US_dedes.meMA.Kathisma1T.melody
-meMA.Kathisma1T.incipit = me.m12.d05_en_US_dedes.meMA.Kathisma1T.incipit
-meMA.Kathisma1T.text = me.m12.d05_en_US_dedes.meMA.Kathisma1T.text
+meMA.Kathisma1T.mode = me.m12.d05_en_US_goadedes.meMA.Kathisma1T.mode
+meMA.Kathisma1T.melody = me.m12.d05_en_US_goadedes.meMA.Kathisma1T.melody
+meMA.Kathisma1T.incipit = me.m12.d05_en_US_goadedes.meMA.Kathisma1T.incipit
+meMA.Kathisma1T.text = me.m12.d05_en_US_goadedes.meMA.Kathisma1T.text
 
 meMA.Kathisma21.mode = me.m12.d05_en_US_dedes.meMA.Kathisma21.mode
 meMA.Kathisma21.greekmelody = me.m12.d05_en_US_dedes.meMA.Kathisma21.greekmelody
