@@ -736,14 +736,14 @@ ocMA.OdeS6C33.melody = oc.m1.d1_en_US_goadedes.ocMA.OdeS6C33.melody
 ocMA.OdeS6C33.incipit = oc.m1.d1_en_US_goadedes.ocMA.OdeS6C33.incipit
 ocMA.OdeS6C33.text = oc.m1.d1_en_US_goadedes.ocMA.OdeS6C33.text
 
-ocMA.Kontakion.mode = oc.m1.d1_en_US_dedes.ocMA.Kontakion.mode
-ocMA.Kontakion.melody = oc.m1.d1_en_US_dedes.ocMA.Kontakion.melody
-ocMA.Kontakion.incipit = oc.m1.d1_en_US_dedes.ocMA.Kontakion.incipit
-ocMA.Kontakion.text = oc.m1.d1_en_US_dedes.ocMA.Kontakion.text
+ocMA.Kontakion.mode = oc.m1.d1_en_US_goadedes.ocMA.Kontakion.mode
+ocMA.Kontakion.melody = oc.m1.d1_en_US_goadedes.ocMA.Kontakion.melody
+ocMA.Kontakion.incipit = oc.m1.d1_en_US_goadedes.ocMA.Kontakion.incipit
+ocMA.Kontakion.text = oc.m1.d1_en_US_goadedes.ocMA.Kontakion.text
 
-ocMA.Oikos.mode = oc.m1.d1_en_US_dedes.ocMA.Oikos.mode
-ocMA.Oikos.incipit = oc.m1.d1_en_US_duvall.ocMA.Oikos.incipit
-ocMA.Oikos.text = oc.m1.d1_en_US_duvall.ocMA.Oikos.text
+ocMA.Oikos.mode = oc.m1.d1_en_US_goadedes.ocMA.Oikos.mode
+ocMA.Oikos.incipit = oc.m1.d1_en_US_goadedes.ocMA.Oikos.incipit
+ocMA.Oikos.text = oc.m1.d1_en_US_goadedes.ocMA.Oikos.text
 
 ocMA.OdeS7C1H.mode = oc.m1.d1_en_US_dedes.ocMA.OdeS7C1H.mode
 ocMA.OdeS7C1H.ode = oc.m1.d1_en_US_dedes.ocMA.OdeS7C1H.ode

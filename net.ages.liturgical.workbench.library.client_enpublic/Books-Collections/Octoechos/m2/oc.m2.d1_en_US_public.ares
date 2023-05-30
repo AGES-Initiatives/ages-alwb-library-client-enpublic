@@ -328,15 +328,15 @@ ocMO.Ode9T.text = oc.m2.d1_en_US_dedes.ocMO.Ode9T.text
 
 ocMA.MM.GodIsTheLord.text = properties_en_US_public.media.key
 
-ocMA.Kathisma11.mode = oc.m2.d1_en_US_dedes.ocMA.Kathisma11.mode
-ocMA.Kathisma11.melody = oc.m2.d1_en_US_dedes.ocMA.Kathisma11.melody
-ocMA.Kathisma11.incipit = oc.m2.d1_en_US_dedes.ocMA.Kathisma11.incipit
-ocMA.Kathisma11.text = oc.m2.d1_en_US_dedes.ocMA.Kathisma11.text
+ocMA.Kathisma11.mode = oc.m2.d1_en_US_goadedes.ocMA.Kathisma11.mode
+ocMA.Kathisma11.melody = oc.m2.d1_en_US_goadedes.ocMA.Kathisma11.melody
+ocMA.Kathisma11.incipit = oc.m2.d1_en_US_goadedes.ocMA.Kathisma11.incipit
+ocMA.Kathisma11.text = oc.m2.d1_en_US_goadedes.ocMA.Kathisma11.text
 
-ocMA.Kathisma12.mode = oc.m2.d1_en_US_dedes.ocMA.Kathisma12.mode
-ocMA.Kathisma12.melody = oc.m2.d1_en_US_dedes.ocMA.Kathisma12.melody
-ocMA.Kathisma12.incipit = oc.m2.d1_en_US_dedes.ocMA.Kathisma12.incipit
-ocMA.Kathisma12.text = oc.m2.d1_en_US_dedes.ocMA.Kathisma12.text
+ocMA.Kathisma12.mode = oc.m2.d1_en_US_goadedes.ocMA.Kathisma12.mode
+ocMA.Kathisma12.melody = oc.m2.d1_en_US_goadedes.ocMA.Kathisma12.melody
+ocMA.Kathisma12.incipit = oc.m2.d1_en_US_goadedes.ocMA.Kathisma12.incipit
+ocMA.Kathisma12.text = oc.m2.d1_en_US_goadedes.ocMA.Kathisma12.text
 
 ocMA.Kathisma13.mode = oc.m2.d1_en_US_dedes.ocMA.Kathisma13.mode
 ocMA.Kathisma13.melody = oc.m2.d1_en_US_dedes.ocMA.Kathisma13.melody
