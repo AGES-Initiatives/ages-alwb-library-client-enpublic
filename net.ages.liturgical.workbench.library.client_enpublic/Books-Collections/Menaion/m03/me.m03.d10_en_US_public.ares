@@ -61,9 +61,9 @@ meMA.C1.verse = me.m03.d10_en_US_dedes.meMA.C1.verse
 meMA.Ode1C1H.ode = me.m03.d10_en_US_dedes.meMA.Ode1C1H.ode
 meMA.Ode1C1H.mode = me.m03.d10_en_US_dedes.meMA.Ode1C1H.mode
 meMA.Ode1C1H.greekmelody = me.m03.d10_en_US_dedes.meMA.Ode1C1H.greekmelody
-meMA.Ode1C1H.melody = me.m03.d10_en_US_andronache.meMA.Ode1C1H.melody
-meMA.Ode1C1H.incipit = me.m03.d10_en_US_andronache.meMA.Ode1C1H.incipit
-meMA.Ode1C1H.text = me.m03.d10_en_US_andronache.meMA.Ode1C1H.text
+meMA.Ode1C1H.melody = me.m03.d10_en_US_dedes.meMA.Ode1C1H.melody
+meMA.Ode1C1H.incipit = me.m03.d10_en_US_dedes.meMA.Ode1C1H.incipit
+meMA.Ode1C1H.text = me.m03.d10_en_US_dedes.meMA.Ode1C1H.text
 
 meMA.Ode1C11.ode = me.m03.d10_en_US_dedes.meMA.Ode1C11.ode
 meMA.Ode1C11.mode = me.m03.d10_en_US_dedes.meMA.Ode1C11.mode
