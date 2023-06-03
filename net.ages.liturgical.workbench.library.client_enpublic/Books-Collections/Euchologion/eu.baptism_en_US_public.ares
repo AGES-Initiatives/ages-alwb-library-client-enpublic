@@ -71,10 +71,6 @@ euBAP.Key0403.text = eu.baptism_en_US_holycross.euBAP.Key0403.text
 euBAP.Key0404.text = eu.baptism_en_US_holycross.euBAP.Key0404.text
 euBAP.Key0405.mode = eu.baptism_en_US_goadedes.euBAP.Key0405.mode
 euBAP.Key0405.text = eu.baptism_en_US_holycross.euBAP.Key0405.text
-euBAP.Key0406.mode = eu.baptism_en_US_goadedes.euBAP.Key0406.mode
-euBAP.Key0406.text = ho.s07_en_US_dedes.hoLI.OsoiEisChriston.text
-euBAP.Key0407.text = ho.s07_en_US_dedes.hoLI.OsoiEisChriston3.text
-euBAP.Key0408.text = ho.s07_en_US_dedes.hoLI.OsoiEisChriston4.text
 
 euBAP.Key0501.title = eu.baptism_en_US_holycross.euBAP.Key0501.title
 euBAP.Key0501.text = eu.baptism_en_US_holycross.euBAP.Key0501.text

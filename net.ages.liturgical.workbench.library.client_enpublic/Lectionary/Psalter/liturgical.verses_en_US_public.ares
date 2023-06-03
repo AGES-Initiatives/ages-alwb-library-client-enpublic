@@ -1588,12 +1588,14 @@ psLI.weekday.d7.communion2.v1.info = liturgical.verses_en_US_saas.psLI.weekday.d
 psLI.weekday.d7.communion2.v1.incipit = liturgical.verses_en_US_saas.psLI.weekday.d7.communion2.v1.incipit
 psLI.weekday.d7.communion2.v1.text = liturgical.verses_en_US_saas.psLI.weekday.d7.communion2.v1.text
 
-psLI.trisagionbaptized.title =
-psLI.trisagionbaptized.info =
-psLI.trisagionbaptized.v1.text =
-psLI.trisagionbaptized.v2.text =
-psLI.trisagionbaptized.v3.text =
-psLI.trisagionbaptized.v4.text =
+psLI.trisagionbaptized.title = liturgical.verses_en_US_rsv.psLI.trisagionbaptized.title
+psLI.trisagionbaptized.info = liturgical.verses_en_US_rsv.psLI.trisagionbaptized.info
+psLI.trisagionbaptized.text = liturgical.verses_en_US_rsv.psLI.trisagionbaptized.text
+psLI.trisagionbaptized.incipit = liturgical.verses_en_US_rsv.psLI.trisagionbaptized.incipit
+psLI.trisagionbaptized.v1.text = liturgical.verses_en_US_rsv.psLI.trisagionbaptized.v1.text
+psLI.trisagionbaptized.v2.text = liturgical.verses_en_US_rsv.psLI.trisagionbaptized.v2.text
+psLI.trisagionbaptized.v3.text = liturgical.verses_en_US_rsv.psLI.trisagionbaptized.v3.text
+psLI.trisagionbaptized.v4.text = liturgical.verses_en_US_rsv.psLI.trisagionbaptized.v4.text
 
 psLI.hierarchical.trisagionblessing.v1.info = liturgical.verses_en_US_saas.psLI.hierarchical.trisagionblessing.v1.info
 psLI.hierarchical.trisagionblessing.v1.text = liturgical.verses_en_US_saas.psLI.hierarchical.trisagionblessing.v1.text

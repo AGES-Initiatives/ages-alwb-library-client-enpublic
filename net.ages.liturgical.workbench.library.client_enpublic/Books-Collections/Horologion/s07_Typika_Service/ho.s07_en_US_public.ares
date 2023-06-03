@@ -60,14 +60,8 @@ hoLI.MM.TrisagiosHymnBimatos.text = ho.s07_en_US_goa.hoLI.MM.TrisagiosHymnBimato
 hoLI.TrisagiosHymnDynamis.text = ho.s07_en_US_goa.hoLI.TrisagiosHymnDynamis.text
 
 hoLI.OsoiEisChriston.title = ho.s07_en_US_goa.hoLI.OsoiEisChriston.title
-hoLI.OsoiEisChriston.incipit = ho.s07_en_US_goa.hoLI.OsoiEisChriston.incipit
-hoLI.OsoiEisChriston.text = ho.s07_en_US_goa.hoLI.OsoiEisChriston.text
-hoLI.OsoiEisChriston1.text = ho.s07_en_US_goa.hoLI.OsoiEisChriston1.text
-hoLI.OsoiEisChriston2.text = ho.s07_en_US_goa.hoLI.OsoiEisChriston2.text
-hoLI.OsoiEisChriston3.text = ho.s07_en_US_goa.hoLI.OsoiEisChriston3.text
-hoLI.OsoiEisChriston4.text = ho.s07_en_US_goa.hoLI.OsoiEisChriston4.text
-hoLI.MM.OsoiEisChristonBimatos.text = ho.s07_en_US_goa.hoLI.MM.OsoiEisChristonBimatos.text
-hoLI.OsoiEisChristonDynamis.text = ho.s07_en_US_goa.hoLI.OsoiEisChristonDynamis.text
+hoLI.MM.OsoiEisChriston.text = ho.s07_en_US_dedes.hoLI.MM.OsoiEisChristonBimatos.text
+hoLI.MM.OsoiEisChristonBimatos.text = ho.s07_en_US_dedes.hoLI.MM.OsoiEisChristonBimatos.text
 
 hoLI.TonStavronSou.title = ho.s07_en_US_goa.hoLI.TonStavronSou.title
 hoLI.TonStavronSou.incipit = ho.s07_en_US_goa.hoLI.TonStavronSou.incipit
