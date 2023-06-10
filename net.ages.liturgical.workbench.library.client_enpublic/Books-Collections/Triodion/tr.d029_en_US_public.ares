@@ -434,11 +434,10 @@ trMA.LaudsGlory.melody = tr.d029_en_US_dedes.trMA.LaudsGlory.melody
 trMA.LaudsGlory.incipit = tr.d029_en_US_duvall.trMA.LaudsGlory.incipit
 trMA.LaudsGlory.text = tr.d029_en_US_duvall.trMA.LaudsGlory.text
 
-trMA.LaudsTheotokion.mode = tr.d029_en_US_dedes.trMA.LaudsTheotokion.mode
-trMA.LaudsTheotokion.melody = tr.d029_en_US_dedes.trMA.LaudsTheotokion.melody
-trMA.LaudsTheotokion.incipit = tr.d029_en_US_dedes.trMA.LaudsTheotokion.incipit
-trMA.LaudsTheotokion.text = tr.d029_en_US_dedes.trMA.LaudsTheotokion.text
-
+trMA.LaudsTheotokion.mode = tr.d029_en_US_goadedes.trMA.LaudsTheotokion.mode
+trMA.LaudsTheotokion.melody = tr.d029_en_US_goadedes.trMA.LaudsTheotokion.melody
+trMA.LaudsTheotokion.incipit = tr.d029_en_US_goadedes.trMA.LaudsTheotokion.incipit
+trMA.LaudsTheotokion.text = tr.d029_en_US_goadedes.trMA.LaudsTheotokion.text
 
 trLI.MM.EntranceHymn.text = properties_en_US_public.media.key
 

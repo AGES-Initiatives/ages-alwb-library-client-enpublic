@@ -60,22 +60,22 @@ peVE.Aposticha1.melody = pe.d072_en_US_goadedes.peVE.Aposticha1.melody
 peVE.Aposticha1.incipit = pe.d072_en_US_goadedes.peVE.Aposticha1.incipit
 peVE.Aposticha1.text = pe.d072_en_US_goadedes.peVE.Aposticha1.text
 
-peMA.Lauds1.mode = pe.d072_en_US_dedes.peMA.Lauds1.mode
-peMA.Lauds1.melody = pe.d072_en_US_dedes.peMA.Lauds1.melody
-peMA.Lauds1.incipit = pe.d072_en_US_dedes.peMA.Lauds1.incipit
-peMA.Lauds1.text = pe.d072_en_US_dedes.peMA.Lauds1.text
+peMA.Lauds1.mode = pe.d072_en_US_goadedes.peMA.Lauds1.mode
+peMA.Lauds1.melody = pe.d072_en_US_goadedes.peMA.Lauds1.melody
+peMA.Lauds1.incipit = pe.d072_en_US_goadedes.peMA.Lauds1.incipit
+peMA.Lauds1.text = pe.d072_en_US_goadedes.peMA.Lauds1.text
 
-peMA.Lauds2.mode = pe.d072_en_US_dedes.peMA.Lauds2.mode
-peMA.Lauds2.melody = pe.d072_en_US_dedes.peMA.Lauds2.melody
-peMA.Lauds2.incipit = pe.d072_en_US_dedes.peMA.Lauds2.incipit
-peMA.Lauds2.text = pe.d072_en_US_dedes.peMA.Lauds2.text
+peMA.Lauds2.mode = pe.d072_en_US_goadedes.peMA.Lauds2.mode
+peMA.Lauds2.melody = pe.d072_en_US_goadedes.peMA.Lauds2.melody
+peMA.Lauds2.incipit = pe.d072_en_US_goadedes.peMA.Lauds2.incipit
+peMA.Lauds2.text = pe.d072_en_US_goadedes.peMA.Lauds2.text
 
-peMA.Lauds3.mode = pe.d072_en_US_dedes.peMA.Lauds3.mode
-peMA.Lauds3.melody = pe.d072_en_US_dedes.peMA.Lauds3.melody
-peMA.Lauds3.incipit = pe.d072_en_US_dedes.peMA.Lauds3.incipit
-peMA.Lauds3.text = pe.d072_en_US_dedes.peMA.Lauds3.text
+peMA.Lauds3.mode = pe.d072_en_US_goadedes.peMA.Lauds3.mode
+peMA.Lauds3.melody = pe.d072_en_US_goadedes.peMA.Lauds3.melody
+peMA.Lauds3.incipit = pe.d072_en_US_goadedes.peMA.Lauds3.incipit
+peMA.Lauds3.text = pe.d072_en_US_goadedes.peMA.Lauds3.text
 
-peMA.Lauds4.mode = pe.d072_en_US_dedes.peMA.Lauds4.mode
-peMA.Lauds4.melody = pe.d072_en_US_dedes.peMA.Lauds4.melody
-peMA.Lauds4.incipit = pe.d072_en_US_dedes.peMA.Lauds4.incipit
-peMA.Lauds4.text = pe.d072_en_US_dedes.peMA.Lauds4.text
+peMA.Lauds4.mode = pe.d072_en_US_goadedes.peMA.Lauds4.mode
+peMA.Lauds4.melody = pe.d072_en_US_goadedes.peMA.Lauds4.melody
+peMA.Lauds4.incipit = pe.d072_en_US_goadedes.peMA.Lauds4.incipit
+peMA.Lauds4.text = pe.d072_en_US_goadedes.peMA.Lauds4.text

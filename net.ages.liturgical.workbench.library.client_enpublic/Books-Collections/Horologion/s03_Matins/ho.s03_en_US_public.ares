@@ -250,8 +250,8 @@ R21 = ho.s03_en_US_dedes.R21
 
 R_Lauds_Hierarchical = ho.s03_en_US_dedes.R_Lauds_Hierarchical
 
-hoMA.LaudsSunTheotokion.incipit = ho.s03_en_US_dedes.hoMA.LaudsSunTheotokion.incipit
-hoMA.LaudsSunTheotokion.text = ho.s03_en_US_dedes.hoMA.LaudsSunTheotokion.text
+hoMA.LaudsSunTheotokion.incipit = ho.s03_en_US_goadedes.hoMA.LaudsSunTheotokion.incipit
+hoMA.LaudsSunTheotokion.text = ho.s03_en_US_goadedes.hoMA.LaudsSunTheotokion.text
 
 hoMA.DoxologyGreat.title = ho.s03_en_US_dedes.hoMA.DoxologyGreat.title
 hoMA.MM.DoxologyGreat.text = ho.s03_en_US_dedes.hoMA.MM.DoxologyGreat.text

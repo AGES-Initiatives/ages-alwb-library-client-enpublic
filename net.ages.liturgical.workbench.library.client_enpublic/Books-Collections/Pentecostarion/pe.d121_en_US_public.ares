@@ -143,11 +143,13 @@ peSY.commemoration.narration.p07 = pe.d121_en_US_dedes.peSY.commemoration.narrat
 peSY.lastline = pe.d121_en_US_dedes.peSY.lastline
 
 peMA.Exaposteilarion1.mode = pe.d121_en_US_dedes.peMA.Exaposteilarion1.mode
+peMA.Exaposteilarion1.greekmelody = pe.d121_en_US_dedes.peMA.Exaposteilarion1.greekmelody
 peMA.Exaposteilarion1.melody = pe.d121_en_US_dedes.peMA.Exaposteilarion1.melody
 peMA.Exaposteilarion1.incipit = pe.d121_en_US_dedes.peMA.Exaposteilarion1.incipit
 peMA.Exaposteilarion1.text = pe.d121_en_US_dedes.peMA.Exaposteilarion1.text
 
 peMA.Exaposteilarion2.mode = pe.d121_en_US_dedes.peMA.Exaposteilarion2.mode
+peMA.Exaposteilarion2.greekmelody = pe.d121_en_US_dedes.peMA.Exaposteilarion2.greekmelody
 peMA.Exaposteilarion2.melody = pe.d121_en_US_dedes.peMA.Exaposteilarion2.melody
 peMA.Exaposteilarion2.incipit = pe.d121_en_US_dedes.peMA.Exaposteilarion2.incipit
 peMA.Exaposteilarion2.text = pe.d121_en_US_dedes.peMA.Exaposteilarion2.text

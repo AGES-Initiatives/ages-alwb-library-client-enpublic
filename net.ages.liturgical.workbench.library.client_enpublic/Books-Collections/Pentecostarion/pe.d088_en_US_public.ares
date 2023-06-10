@@ -84,10 +84,10 @@ peMA.Lauds1.melody = pe.d088_en_US_dedes.peMA.Lauds1.melody
 peMA.Lauds1.incipit = pe.d088_en_US_dedes.peMA.Lauds1.incipit
 peMA.Lauds1.text = pe.d088_en_US_dedes.peMA.Lauds1.text
 
-peMA.Lauds2.mode = pe.d088_en_US_dedes.peMA.Lauds2.mode
-peMA.Lauds2.melody = pe.d088_en_US_dedes.peMA.Lauds2.melody
-peMA.Lauds2.incipit = pe.d088_en_US_dedes.peMA.Lauds2.incipit
-peMA.Lauds2.text = pe.d088_en_US_dedes.peMA.Lauds2.text
+peMA.Lauds2.mode = pe.d088_en_US_goadedes.peMA.Lauds2.mode
+peMA.Lauds2.melody = pe.d088_en_US_goadedes.peMA.Lauds2.melody
+peMA.Lauds2.incipit = pe.d088_en_US_goadedes.peMA.Lauds2.incipit
+peMA.Lauds2.text = pe.d088_en_US_goadedes.peMA.Lauds2.text
 
 peMA.Lauds3.mode = pe.d088_en_US_dedes.peMA.Lauds3.mode
 peMA.Lauds3.melody = pe.d088_en_US_dedes.peMA.Lauds3.melody

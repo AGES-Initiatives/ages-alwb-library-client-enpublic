@@ -513,10 +513,10 @@ trMA.LaudsGlory.melody = tr.d043_en_US_dedes.trMA.LaudsGlory.melody
 trMA.LaudsGlory.incipit = tr.d043_en_US_duvall.trMA.LaudsGlory.incipit
 trMA.LaudsGlory.text = tr.d043_en_US_duvall.trMA.LaudsGlory.text
 
-trMA.LaudsTheotokion.mode = tr.d043_en_US_dedes.trMA.LaudsTheotokion.mode
-trMA.LaudsTheotokion.melody = tr.d043_en_US_dedes.trMA.LaudsTheotokion.melody
-trMA.LaudsTheotokion.incipit = tr.d043_en_US_dedes.trMA.LaudsTheotokion.incipit
-trMA.LaudsTheotokion.text = tr.d043_en_US_dedes.trMA.LaudsTheotokion.text
+trMA.LaudsTheotokion.mode = tr.d043_en_US_goadedes.trMA.LaudsTheotokion.mode
+trMA.LaudsTheotokion.melody = tr.d043_en_US_goadedes.trMA.LaudsTheotokion.melody
+trMA.LaudsTheotokion.incipit = tr.d043_en_US_goadedes.trMA.LaudsTheotokion.incipit
+trMA.LaudsTheotokion.text = tr.d043_en_US_goadedes.trMA.LaudsTheotokion.text
 
 trMA.AdditionalIdiomelon1.poet = tr.d043_en_US_dedes.trMA.AdditionalIdiomelon1.poet
 trMA.AdditionalIdiomelon1.mode = tr.d043_en_US_dedes.trMA.AdditionalIdiomelon1.mode
