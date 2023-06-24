@@ -969,25 +969,25 @@ ocMA.Lauds4.melody = oc.m5.d1_en_US_dedes.ocMA.Lauds4.melody
 ocMA.Lauds4.incipit = oc.m5.d1_en_US_dedes.ocMA.Lauds4.incipit
 ocMA.Lauds4.text = oc.m5.d1_en_US_dedes.ocMA.Lauds4.text
 
-ocMA.Lauds5.mode = oc.m5.d1_en_US_dedes.ocMA.Lauds5.mode
-ocMA.Lauds5.melody = oc.m5.d1_en_US_dedes.ocMA.Lauds5.melody
-ocMA.Lauds5.incipit = oc.m5.d1_en_US_dedes.ocMA.Lauds5.incipit
-ocMA.Lauds5.text = oc.m5.d1_en_US_dedes.ocMA.Lauds5.text
+ocMA.Lauds5.mode = oc.m5.d1_en_US_goadedes.ocMA.Lauds5.mode
+ocMA.Lauds5.melody = oc.m5.d1_en_US_goadedes.ocMA.Lauds5.melody
+ocMA.Lauds5.incipit = oc.m5.d1_en_US_goadedes.ocMA.Lauds5.incipit
+ocMA.Lauds5.text = oc.m5.d1_en_US_goadedes.ocMA.Lauds5.text
 
-ocMA.Lauds6.mode = oc.m5.d1_en_US_dedes.ocMA.Lauds6.mode
-ocMA.Lauds6.melody = oc.m5.d1_en_US_dedes.ocMA.Lauds6.melody
-ocMA.Lauds6.incipit = oc.m5.d1_en_US_dedes.ocMA.Lauds6.incipit
-ocMA.Lauds6.text = oc.m5.d1_en_US_dedes.ocMA.Lauds6.text
+ocMA.Lauds6.mode = oc.m5.d1_en_US_goadedes.ocMA.Lauds6.mode
+ocMA.Lauds6.melody = oc.m5.d1_en_US_goadedes.ocMA.Lauds6.melody
+ocMA.Lauds6.incipit = oc.m5.d1_en_US_goadedes.ocMA.Lauds6.incipit
+ocMA.Lauds6.text = oc.m5.d1_en_US_goadedes.ocMA.Lauds6.text
 
-ocMA.Lauds7.mode = oc.m5.d1_en_US_dedes.ocMA.Lauds7.mode
-ocMA.Lauds7.melody = oc.m5.d1_en_US_dedes.ocMA.Lauds7.melody
-ocMA.Lauds7.incipit = oc.m5.d1_en_US_dedes.ocMA.Lauds7.incipit
-ocMA.Lauds7.text = oc.m5.d1_en_US_dedes.ocMA.Lauds7.text
+ocMA.Lauds7.mode = oc.m5.d1_en_US_goadedes.ocMA.Lauds7.mode
+ocMA.Lauds7.melody = oc.m5.d1_en_US_goadedes.ocMA.Lauds7.melody
+ocMA.Lauds7.incipit = oc.m5.d1_en_US_goadedes.ocMA.Lauds7.incipit
+ocMA.Lauds7.text = oc.m5.d1_en_US_goadedes.ocMA.Lauds7.text
 
-ocMA.Lauds8.mode = oc.m5.d1_en_US_dedes.ocMA.Lauds8.mode
-ocMA.Lauds8.melody = oc.m5.d1_en_US_dedes.ocMA.Lauds8.melody
-ocMA.Lauds8.incipit = oc.m5.d1_en_US_dedes.ocMA.Lauds8.incipit
-ocMA.Lauds8.text = oc.m5.d1_en_US_dedes.ocMA.Lauds8.text
+ocMA.Lauds8.mode = oc.m5.d1_en_US_goadedes.ocMA.Lauds8.mode
+ocMA.Lauds8.melody = oc.m5.d1_en_US_goadedes.ocMA.Lauds8.melody
+ocMA.Lauds8.incipit = oc.m5.d1_en_US_goadedes.ocMA.Lauds8.incipit
+ocMA.Lauds8.text = oc.m5.d1_en_US_goadedes.ocMA.Lauds8.text
 
 ocMA.ApolTheotokion.mode = oc.m5.d1_en_US_dedes.ocMA.ApolTheotokion.mode
 ocMA.ApolTheotokion.melody = oc.m5.d1_en_US_dedes.ocMA.ApolTheotokion.melody
