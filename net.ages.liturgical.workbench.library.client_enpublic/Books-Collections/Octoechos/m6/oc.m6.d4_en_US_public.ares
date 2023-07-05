@@ -45,11 +45,11 @@ ocVE.Aposticha1.melody = oc.m6.d4_en_US_dedes.ocVE.Aposticha1.melody
 ocVE.Aposticha1.incipit = oc.m6.d4_en_US_dedes.ocVE.Aposticha1.incipit
 ocVE.Aposticha1.text = oc.m6.d4_en_US_dedes.ocVE.Aposticha1.text
 
-ocVE.Aposticha2.mode = oc.m6.d4_en_US_dedes.ocVE.Aposticha2.mode
-ocVE.Aposticha2.melody = oc.m6.d4_en_US_dedes.ocVE.Aposticha2.melody
-ocVE.Aposticha2.incipit = oc.m6.d4_en_US_dedes.ocVE.Aposticha2.incipit
-ocVE.Aposticha2.text = oc.m6.d4_en_US_dedes.ocVE.Aposticha2.text
-ocVE.Aposticha2.similarto = oc.m6.d4_en_US_dedes.ocVE.Aposticha2.similarto
+ocVE.Aposticha2.mode = oc.m6.d4_en_US_goadedes.ocVE.Aposticha2.mode
+ocVE.Aposticha2.melody = oc.m6.d4_en_US_goadedes.ocVE.Aposticha2.melody
+ocVE.Aposticha2.incipit = oc.m6.d4_en_US_goadedes.ocVE.Aposticha2.incipit
+ocVE.Aposticha2.text = oc.m6.d4_en_US_goadedes.ocVE.Aposticha2.text
+ocVE.Aposticha2.similarto = oc.m6.d4_en_US_goadedes.ocVE.Aposticha2.similarto
 
 ocVE.Aposticha3.mode = oc.m6.d4_en_US_dedes.ocVE.Aposticha3.mode
 ocVE.Aposticha3.melody = oc.m6.d4_en_US_dedes.ocVE.Aposticha3.melody

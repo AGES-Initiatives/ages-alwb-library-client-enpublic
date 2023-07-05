@@ -376,7 +376,7 @@ ocMA.Hypakoe.melody = oc.m6.d1_en_US_goadedes.ocMA.Hypakoe.melody
 ocMA.Hypakoe.incipit = oc.m6.d1_en_US_goadedes.ocMA.Hypakoe.incipit
 ocMA.Hypakoe.text = oc.m6.d1_en_US_goadedes.ocMA.Hypakoe.text
 
-ocMA.MM.AntiphonsProkeimenon.text = oc.m6.d1_en_US_dedes.ocMA.MM.AntiphonsProkeimenon.text
+ocMA.MM.AntiphonsProkeimenon.text = oc.m6.d1_en_US_goadedes.ocMA.MM.AntiphonsProkeimenon.text
 
 ocMA.Antiphon11.mode = oc.m6.d1_en_US_goadedes.ocMA.Antiphon11.mode
 ocMA.Antiphon11.melody = oc.m6.d1_en_US_goadedes.ocMA.Antiphon11.melody
@@ -393,35 +393,35 @@ ocMA.Antiphon13.melody = oc.m6.d1_en_US_goadedes.ocMA.Antiphon13.melody
 ocMA.Antiphon13.incipit = oc.m6.d1_en_US_goadedes.ocMA.Antiphon13.incipit
 ocMA.Antiphon13.text = oc.m6.d1_en_US_goadedes.ocMA.Antiphon13.text
 
-ocMA.Antiphon21.mode = oc.m6.d1_en_US_dedes.ocMA.Antiphon21.mode
-ocMA.Antiphon21.melody = oc.m6.d1_en_US_dedes.ocMA.Antiphon21.melody
-ocMA.Antiphon21.incipit = oc.m6.d1_en_US_dedes.ocMA.Antiphon21.incipit
-ocMA.Antiphon21.text = oc.m6.d1_en_US_dedes.ocMA.Antiphon21.text
+ocMA.Antiphon21.mode = oc.m6.d1_en_US_goadedes.ocMA.Antiphon21.mode
+ocMA.Antiphon21.melody = oc.m6.d1_en_US_goadedes.ocMA.Antiphon21.melody
+ocMA.Antiphon21.incipit = oc.m6.d1_en_US_goadedes.ocMA.Antiphon21.incipit
+ocMA.Antiphon21.text = oc.m6.d1_en_US_goadedes.ocMA.Antiphon21.text
 
-ocMA.Antiphon22.mode = oc.m6.d1_en_US_dedes.ocMA.Antiphon22.mode
-ocMA.Antiphon22.melody = oc.m6.d1_en_US_dedes.ocMA.Antiphon22.melody
-ocMA.Antiphon22.incipit = oc.m6.d1_en_US_dedes.ocMA.Antiphon22.incipit
-ocMA.Antiphon22.text = oc.m6.d1_en_US_dedes.ocMA.Antiphon22.text
+ocMA.Antiphon22.mode = oc.m6.d1_en_US_goadedes.ocMA.Antiphon22.mode
+ocMA.Antiphon22.melody = oc.m6.d1_en_US_goadedes.ocMA.Antiphon22.melody
+ocMA.Antiphon22.incipit = oc.m6.d1_en_US_goadedes.ocMA.Antiphon22.incipit
+ocMA.Antiphon22.text = oc.m6.d1_en_US_goadedes.ocMA.Antiphon22.text
 
-ocMA.Antiphon23.mode = oc.m6.d1_en_US_dedes.ocMA.Antiphon23.mode
-ocMA.Antiphon23.melody = oc.m6.d1_en_US_dedes.ocMA.Antiphon23.melody
-ocMA.Antiphon23.incipit = oc.m6.d1_en_US_dedes.ocMA.Antiphon23.incipit
-ocMA.Antiphon23.text = oc.m6.d1_en_US_dedes.ocMA.Antiphon23.text
+ocMA.Antiphon23.mode = oc.m6.d1_en_US_goadedes.ocMA.Antiphon23.mode
+ocMA.Antiphon23.melody = oc.m6.d1_en_US_goadedes.ocMA.Antiphon23.melody
+ocMA.Antiphon23.incipit = oc.m6.d1_en_US_goadedes.ocMA.Antiphon23.incipit
+ocMA.Antiphon23.text = oc.m6.d1_en_US_goadedes.ocMA.Antiphon23.text
 
-ocMA.Antiphon31.mode = oc.m6.d1_en_US_dedes.ocMA.Antiphon31.mode
-ocMA.Antiphon31.melody = oc.m6.d1_en_US_dedes.ocMA.Antiphon31.melody
-ocMA.Antiphon31.incipit = oc.m6.d1_en_US_dedes.ocMA.Antiphon31.incipit
-ocMA.Antiphon31.text = oc.m6.d1_en_US_dedes.ocMA.Antiphon31.text
+ocMA.Antiphon31.mode = oc.m6.d1_en_US_goadedes.ocMA.Antiphon31.mode
+ocMA.Antiphon31.melody = oc.m6.d1_en_US_goadedes.ocMA.Antiphon31.melody
+ocMA.Antiphon31.incipit = oc.m6.d1_en_US_goadedes.ocMA.Antiphon31.incipit
+ocMA.Antiphon31.text = oc.m6.d1_en_US_goadedes.ocMA.Antiphon31.text
 
-ocMA.Antiphon32.mode = oc.m6.d1_en_US_dedes.ocMA.Antiphon32.mode
-ocMA.Antiphon32.melody = oc.m6.d1_en_US_dedes.ocMA.Antiphon32.melody
-ocMA.Antiphon32.incipit = oc.m6.d1_en_US_dedes.ocMA.Antiphon32.incipit
-ocMA.Antiphon32.text = oc.m6.d1_en_US_dedes.ocMA.Antiphon32.text
+ocMA.Antiphon32.mode = oc.m6.d1_en_US_goadedes.ocMA.Antiphon32.mode
+ocMA.Antiphon32.melody = oc.m6.d1_en_US_goadedes.ocMA.Antiphon32.melody
+ocMA.Antiphon32.incipit = oc.m6.d1_en_US_goadedes.ocMA.Antiphon32.incipit
+ocMA.Antiphon32.text = oc.m6.d1_en_US_goadedes.ocMA.Antiphon32.text
 
-ocMA.Antiphon33.mode = oc.m6.d1_en_US_dedes.ocMA.Antiphon33.mode
-ocMA.Antiphon33.melody = oc.m6.d1_en_US_dedes.ocMA.Antiphon33.melody
-ocMA.Antiphon33.incipit = oc.m6.d1_en_US_dedes.ocMA.Antiphon33.incipit
-ocMA.Antiphon33.text = oc.m6.d1_en_US_dedes.ocMA.Antiphon33.text
+ocMA.Antiphon33.mode = oc.m6.d1_en_US_goadedes.ocMA.Antiphon33.mode
+ocMA.Antiphon33.melody = oc.m6.d1_en_US_goadedes.ocMA.Antiphon33.melody
+ocMA.Antiphon33.incipit = oc.m6.d1_en_US_goadedes.ocMA.Antiphon33.incipit
+ocMA.Antiphon33.text = oc.m6.d1_en_US_goadedes.ocMA.Antiphon33.text
 
 ocMA.MM.Prokeimenon.text = properties_en_US_public.media.key
 
