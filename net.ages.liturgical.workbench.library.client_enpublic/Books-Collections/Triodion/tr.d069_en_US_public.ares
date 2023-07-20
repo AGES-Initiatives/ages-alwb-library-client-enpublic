@@ -53,9 +53,9 @@ trLI.CherubicHymnPart1.text = tr.d069_en_US_dedes.trLI.CherubicHymnPart1.text
 trLI.CherubicHymnPart2.incipit = tr.d069_en_US_dedes.trLI.CherubicHymnPart2.incipit
 trLI.CherubicHymnPart2.text = tr.d069_en_US_dedes.trLI.CherubicHymnPart2.text
 
-trLI.TheotokosHymn.mode = tr.d069_en_US_dedes.trLI.TheotokosHymn.mode
-trLI.TheotokosHymn.incipit = tr.d069_en_US_dedes.trLI.TheotokosHymn.incipit
-trLI.TheotokosHymn.text = tr.d069_en_US_dedes.trLI.TheotokosHymn.text
+trLI.TheotokosHymn.mode = tr.d069_en_US_goadedes.trLI.TheotokosHymn.mode
+trLI.TheotokosHymn.incipit = tr.d069_en_US_goadedes.trLI.TheotokosHymn.incipit
+trLI.TheotokosHymn.text = tr.d069_en_US_goadedes.trLI.TheotokosHymn.text
 
 trLI.CommunionHymn.incipit = tr.d069_en_US_dedes.trLI.CommunionHymn.incipit
 trLI.CommunionHymn.text = tr.d069_en_US_dedes.trLI.CommunionHymn.text

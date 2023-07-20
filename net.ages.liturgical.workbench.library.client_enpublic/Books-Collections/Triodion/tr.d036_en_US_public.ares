@@ -358,9 +358,9 @@ trLI.Kontakion1.melody = tr.d036_en_US_dedes.trLI.Kontakion1.melody
 trLI.Kontakion1.incipit = tr.d036_en_US_dedes.trLI.Kontakion1.incipit
 trLI.Kontakion1.text = tr.d036_en_US_dedes.trLI.Kontakion1.text
 
-trLI.TheotokosHymn.mode = tr.d036_en_US_dedes.trLI.TheotokosHymn.mode
-trLI.TheotokosHymn.incipit = tr.d036_en_US_dedes.trLI.TheotokosHymn.incipit
-trLI.TheotokosHymn.text = tr.d036_en_US_dedes.trLI.TheotokosHymn.text
+trLI.TheotokosHymn.mode = tr.d036_en_US_goadedes.trLI.TheotokosHymn.mode
+trLI.TheotokosHymn.incipit = tr.d036_en_US_goadedes.trLI.TheotokosHymn.incipit
+trLI.TheotokosHymn.text = tr.d036_en_US_goadedes.trLI.TheotokosHymn.text
 
 trLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 

@@ -74,9 +74,9 @@ trHW.CherubicHymnPart1.text = tr.d071_en_US_dedes.trHW.CherubicHymnPart1.text
 trHW.CherubicHymnPart2.incipit = tr.d071_en_US_dedes.trHW.CherubicHymnPart2.incipit
 trHW.CherubicHymnPart2.text = tr.d071_en_US_dedes.trHW.CherubicHymnPart2.text
 
-trHW.TheotokosHymn.mode = tr.d071_en_US_dedes.trHW.TheotokosHymn.mode
-trHW.TheotokosHymn.incipit = tr.d071_en_US_dedes.trHW.TheotokosHymn.incipit
-trHW.TheotokosHymn.text = tr.d071_en_US_dedes.trHW.TheotokosHymn.text
+trHW.TheotokosHymn.mode = tr.d071_en_US_goadedes.trHW.TheotokosHymn.mode
+trHW.TheotokosHymn.incipit = tr.d071_en_US_goadedes.trHW.TheotokosHymn.incipit
+trHW.TheotokosHymn.text = tr.d071_en_US_goadedes.trHW.TheotokosHymn.text
 
 trHW.CommunionHymn.text = tr.d071_en_US_dedes.trHW.CommunionHymn.text
 
