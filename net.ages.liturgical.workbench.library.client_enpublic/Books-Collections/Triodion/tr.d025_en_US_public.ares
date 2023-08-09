@@ -34,17 +34,17 @@ trVE.AposIdiomelon1.melody = tr.d025_en_US_oca.trVE.AposIdiomelon1.melody
 trVE.AposIdiomelon1.incipit = tr.d025_en_US_oca.trVE.AposIdiomelon1.incipit
 trVE.AposIdiomelon1.text = tr.d025_en_US_oca.trVE.AposIdiomelon1.text
 
-trVE.AposMartyric.mode = tr.d025_en_US_dedes.trVE.AposMartyric.mode
-trVE.AposMartyric.greekmelody = tr.d025_en_US_dedes.trVE.AposMartyric.greekmelody
-trVE.AposMartyric.melody = tr.d025_en_US_oca.trVE.AposMartyric.melody
-trVE.AposMartyric.incipit = tr.d025_en_US_oca.trVE.AposMartyric.incipit
-trVE.AposMartyric.text = tr.d025_en_US_oca.trVE.AposMartyric.text
+trVE.AposMartyric.mode = tr.d025_en_US_goadedes.trVE.AposMartyric.mode
+trVE.AposMartyric.greekmelody = tr.d025_en_US_goadedes.trVE.AposMartyric.greekmelody
+trVE.AposMartyric.melody = tr.d025_en_US_goadedes.trVE.AposMartyric.melody
+trVE.AposMartyric.incipit = tr.d025_en_US_goadedes.trVE.AposMartyric.incipit
+trVE.AposMartyric.text = tr.d025_en_US_goadedes.trVE.AposMartyric.text
 
 trVE.AposTheotokion.mode = tr.d025_en_US_dedes.trVE.AposTheotokion.mode
 trVE.AposTheotokion.greekmelody = tr.d025_en_US_dedes.trVE.AposTheotokion.greekmelody
-trVE.AposTheotokion.melody = tr.d025_en_US_oca.trVE.AposTheotokion.melody
-trVE.AposTheotokion.incipit = tr.d025_en_US_oca.trVE.AposTheotokion.incipit
-trVE.AposTheotokion.text = tr.d025_en_US_oca.trVE.AposTheotokion.text
+trVE.AposTheotokion.melody = tr.d025_en_US_dedes.trVE.AposTheotokion.melody
+trVE.AposTheotokion.incipit = tr.d025_en_US_dedes.trVE.AposTheotokion.incipit
+trVE.AposTheotokion.text = tr.d025_en_US_dedes.trVE.AposTheotokion.text
 
 trMA.Kathisma21.mode = tr.d025_en_US_dedes.trMA.Kathisma21.mode
 trMA.Kathisma21.melody = tr.d025_en_US_oca.trMA.Kathisma21.melody

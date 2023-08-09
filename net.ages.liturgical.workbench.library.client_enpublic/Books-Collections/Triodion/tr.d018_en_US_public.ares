@@ -407,12 +407,12 @@ trMA.Ode8C3A1.melody = tr.d018_en_UK_ware.trMA.Ode8C3A1.melody
 trMA.Ode8C3A1.incipit = tr.d018_en_UK_ware.trMA.Ode8C3A1.incipit
 trMA.Ode8C3A1.text = tr.d018_en_UK_ware.trMA.Ode8C3A1.text
 
-trMA.Ode8C3H.ode = tr.d018_en_US_dedes.trMA.Ode8C3H.ode
-trMA.Ode8C3H.mode = tr.d018_en_US_dedes.trMA.Ode8C3H.mode
-trMA.Ode8C3H.greekmelody = tr.d018_en_US_dedes.trMA.Ode8C3H.greekmelody
-trMA.Ode8C3H.melody = tr.d018_en_US_dedes.trMA.Ode8C3H.melody
-trMA.Ode8C3H.incipit = tr.d018_en_US_dedes.trMA.Ode8C3H.incipit
-trMA.Ode8C3H.text = tr.d018_en_US_dedes.trMA.Ode8C3H.text
+trMA.Ode8C3H.ode = tr.d018_en_US_goadedes.trMA.Ode8C3H.ode
+trMA.Ode8C3H.mode = tr.d018_en_US_goadedes.trMA.Ode8C3H.mode
+trMA.Ode8C3H.greekmelody = tr.d018_en_US_goadedes.trMA.Ode8C3H.greekmelody
+trMA.Ode8C3H.melody = tr.d018_en_US_goadedes.trMA.Ode8C3H.melody
+trMA.Ode8C3H.incipit = tr.d018_en_US_goadedes.trMA.Ode8C3H.incipit
+trMA.Ode8C3H.text = tr.d018_en_US_goadedes.trMA.Ode8C3H.text
 
 trMA.Ode9C1H.ode = tr.d018_en_US_dedes.trMA.Ode9C1H.ode
 trMA.Ode9C1H.mode = tr.d018_en_US_dedes.trMA.Ode9C1H.mode
@@ -514,12 +514,12 @@ trMA.Ode9C3A1.melody = tr.d018_en_UK_ware.trMA.Ode9C3A1.melody
 trMA.Ode9C3A1.incipit = tr.d018_en_UK_ware.trMA.Ode9C3A1.incipit
 trMA.Ode9C3A1.text = tr.d018_en_UK_ware.trMA.Ode9C3A1.text
 
-trMA.Ode9C3H.ode = tr.d018_en_US_dedes.trMA.Ode9C3H.ode
-trMA.Ode9C3H.mode = tr.d018_en_US_dedes.trMA.Ode9C3H.mode
-trMA.Ode9C3H.greekmelody = tr.d018_en_US_dedes.trMA.Ode9C3H.greekmelody
-trMA.Ode9C3H.melody = tr.d018_en_UK_ware.trMA.Ode9C3H.melody
-trMA.Ode9C3H.incipit = tr.d018_en_UK_ware.trMA.Ode9C3H.incipit
-trMA.Ode9C3H.text = tr.d018_en_UK_ware.trMA.Ode9C3H.text
+trMA.Ode9C3H.ode = tr.d018_en_US_goadedes.trMA.Ode9C3H.ode
+trMA.Ode9C3H.mode = tr.d018_en_US_goadedes.trMA.Ode9C3H.mode
+trMA.Ode9C3H.greekmelody = tr.d018_en_US_goadedes.trMA.Ode9C3H.greekmelody
+trMA.Ode9C3H.melody = tr.d018_en_US_goadedes.trMA.Ode9C3H.melody
+trMA.Ode9C3H.incipit = tr.d018_en_US_goadedes.trMA.Ode9C3H.incipit
+trMA.Ode9C3H.text = tr.d018_en_US_goadedes.trMA.Ode9C3H.text
 
 trMA.AposIdiomelon1.mode = tr.d018_en_US_dedes.trMA.AposIdiomelon1.mode
 trMA.AposIdiomelon1.melody = tr.d018_en_US_dedes.trMA.AposIdiomelon1.melody
