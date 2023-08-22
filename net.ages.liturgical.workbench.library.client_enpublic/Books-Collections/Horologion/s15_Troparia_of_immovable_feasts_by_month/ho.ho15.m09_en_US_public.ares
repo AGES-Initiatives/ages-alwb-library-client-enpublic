@@ -1,0 +1,33 @@
+A_Resource_Whose_Name = ho.ho15.m09_en_US_public
+
+ho.Month = ho.ho15.m09_en_US_dedes.ho.Month
+ho.Days = ho.ho15.m09_en_US_dedes.ho.Days
+ho.Hours = ho.ho15.m09_en_US_dedes.ho.Hours
+
+hoD01.Apolytikion4.title = ho.ho15.m09_en_US_dedes.hoD01.Apolytikion4.title
+hoD01.Apolytikion4.poet = ho.ho15.m09_en_US_dedes.hoD01.Apolytikion4.poet
+hoD01.Apolytikion4.mode = ho.ho15.m09_en_US_dedes.hoD01.Apolytikion4.mode
+hoD01.Apolytikion4.melody = ho.ho15.m09_en_US_dedes.hoD01.Apolytikion4.melody
+hoD01.Apolytikion4.incipit = ho.ho15.m09_en_US_dedes.hoD01.Apolytikion4.incipit
+hoD01.Apolytikion4.text = ho.ho15.m09_en_US_dedes.hoD01.Apolytikion4.text
+
+hoD03.GeneralApolytikion1.name = ho.ho15.m09_en_US_dedes.hoD03.GeneralApolytikion1.name
+hoD03.GeneralApolytikion3.name = ho.ho15.m09_en_US_dedes.hoD03.GeneralApolytikion3.name
+
+hoD04.Apolytikion4.title = ho.ho15.m09_en_US_dedes.hoD04.Apolytikion4.title
+hoD04.Apolytikion4.poet = ho.ho15.m09_en_US_dedes.hoD04.Apolytikion4.poet
+hoD04.Apolytikion4.mode = ho.ho15.m09_en_US_dedes.hoD04.Apolytikion4.mode
+hoD04.Apolytikion4.melody = ho.ho15.m09_en_US_dedes.hoD04.Apolytikion4.melody
+hoD04.Apolytikion4.incipit = ho.ho15.m09_en_US_dedes.hoD04.Apolytikion4.incipit
+hoD04.Apolytikion4.text = ho.ho15.m09_en_US_dedes.hoD04.Apolytikion4.text
+
+hoD10.Apolytikion2.title = ho.ho15.m09_en_US_dedes.hoD10.Apolytikion2.title
+hoD10.Apolytikion2.poet = ho.ho15.m09_en_US_dedes.hoD10.Apolytikion2.poet
+hoD10.Apolytikion2.mode = ho.ho15.m09_en_US_dedes.hoD10.Apolytikion2.mode
+hoD10.Apolytikion2.melody = ho.ho15.m09_en_US_dedes.hoD10.Apolytikion2.melody
+hoD10.Apolytikion2.incipit = ho.ho15.m09_en_US_dedes.hoD10.Apolytikion2.incipit
+hoD10.Apolytikion2.text = ho.ho15.m09_en_US_dedes.hoD10.Apolytikion2.text
+
+hoD11.GeneralApolytikion1.name = ho.ho15.m09_en_US_dedes.hoD11.GeneralApolytikion1.name
+
+hoD18.GeneralApolytikion1.name = ho.ho15.m09_en_US_dedes.hoD18.GeneralApolytikion1.name

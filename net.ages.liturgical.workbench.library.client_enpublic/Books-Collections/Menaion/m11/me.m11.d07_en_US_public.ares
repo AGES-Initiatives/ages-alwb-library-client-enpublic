@@ -743,13 +743,13 @@ alt1.meMA.Kathisma3T.text = me.m11.d07_en_US_aana.alt1.meMA.Kathisma3T.text
 
 alt1.meMA.PostGospelGlory.mode = me.m11.d07_en_US_aana.alt1.meMA.PostGospelGlory.mode
 alt1.meMA.PostGospelGlory.melody = me.m11.d07_en_US_aana.alt1.meMA.PostGospelGlory.melody
-alt1.meMA.PostGospelGlory.incipit = ho.s03_en_US_dedes.hoMA.PostGospelHierarch.incipit
-alt1.meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelHierarch.text
+alt1.meMA.PostGospelGlory.incipit = ho.ho03_en_US_dedes.hoMA.PostGospelHierarch.incipit
+alt1.meMA.PostGospelGlory.text = ho.ho03_en_US_dedes.hoMA.PostGospelHierarch.text
 
 alt1.meMA.PostGospelBoth.mode = me.m11.d07_en_US_aana.alt1.meMA.PostGospelBoth.mode
 alt1.meMA.PostGospelBoth.melody = me.m11.d07_en_US_aana.alt1.meMA.PostGospelBoth.melody
-alt1.meMA.PostGospelBoth.incipit = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.incipit
-alt1.meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
+alt1.meMA.PostGospelBoth.incipit = ho.ho03_en_US_dedes.hoMA.PostGospelTheotokos.incipit
+alt1.meMA.PostGospelBoth.text = ho.ho03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 alt1.meMA.PostGospelIdiomelon.mode = me.m11.d07_en_US_aana.alt1.meMA.PostGospelIdiomelon.mode
 alt1.meMA.PostGospelIdiomelon.melody = me.m11.d07_en_US_aana.alt1.meMA.PostGospelIdiomelon.melody

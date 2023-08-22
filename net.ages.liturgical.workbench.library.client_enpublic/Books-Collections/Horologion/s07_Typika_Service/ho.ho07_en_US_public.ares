@@ -1,0 +1,92 @@
+A_Resource_Whose_Name = ho.ho07_en_US_public
+
+hoTY.title = ho.ho07_en_US_dedes.hoTY.title
+
+R01 = ho.ho07_en_US_dedes.R01
+
+hoLI.MM.Psalm102.text = ho.ho07_en_US_dedes.hoLI.MM.Psalm102.text
+hoLI.MM.Psalm145.text = ho.ho07_en_US_dedes.hoLI.MM.Psalm145.text
+hoLI.OnlyBegotten.title = ho.ho07_en_US_goa.hoLI.OnlyBegotten.title
+hoLI.OnlyBegotten.incipit = ho.ho07_en_US_goa.hoLI.OnlyBegotten.incipit
+hoLI.OnlyBegotten.text = ho.ho07_en_US_goa.hoLI.OnlyBegotten.text
+
+//Beatitudes
+hoTY.Key0200.text = ho.ho07_en_US_dedes.hoTY.Key0200.text //for media for beatitudes
+hoTY.Key0212.text = ho.ho07_en_US_dedes.hoTY.Key0212.text
+hoTY.Key0213.text = ho.ho07_en_US_dedes.hoTY.Key0213.text
+hoTY.Key0214.text = ho.ho07_en_US_dedes.hoTY.Key0214.text
+hoTY.Key0215.text = ho.ho07_en_US_dedes.hoTY.Key0215.text
+hoTY.Key0216.text = ho.ho07_en_US_dedes.hoTY.Key0216.text
+hoTY.Key0217.text = ho.ho07_en_US_dedes.hoTY.Key0217.text
+
+//0300-0313
+//0400-0408
+
+hoTY.Key0408.mode = ho.ho07_en_US_dedes.hoTY.Key0408.mode
+hoTY.Key0408.incipit = ho.ho07_en_US_dedes.hoTY.Key0408.incipit
+hoTY.Key0408.text = ho.ho07_en_US_dedes.hoTY.Key0408.text
+
+hoTY.Key0501.incipit = ho.ho07_en_US_dedes.hoTY.Key0501.incipit
+hoTY.Key0501.text = ho.ho07_en_US_dedes.hoTY.Key0501.text
+
+// Liturgy Antiphons
+hoLI.Antiphon1.text = ho.ho07_en_US_goa.hoLI.Antiphon1.text
+
+hoLI.Antiphon21.text = ho.ho07_en_US_goa.hoLI.Antiphon21.text
+hoLI.Antiphon2s.incipit = ho.ho07_en_US_goa.hoLI.Antiphon2s.incipit
+hoLI.Antiphon2s.text = ho.ho07_en_US_goa.hoLI.Antiphon2s.text
+hoLI.Antiphon2w.incipit = ho.ho07_en_US_goa.hoLI.Antiphon2w.incipit
+hoLI.Antiphon2w.text = ho.ho07_en_US_goa.hoLI.Antiphon2w.text
+hoLI.Antiphon22.text = ho.ho07_en_US_goa.hoLI.Antiphon22.text
+
+hoLI.EntranceHymn.incipit = ho.ho07_en_US_goa.hoLI.EntranceHymn.incipit
+hoLI.EntranceHymn.text = ho.ho07_en_US_goa.hoLI.EntranceHymn.text // in the template add parts of Antiphon 2
+hoLI.EntranceHymn2s.incipit = ho.ho07_en_US_goa.hoLI.EntranceHymn2s.incipit
+hoLI.EntranceHymn2s.text = ho.ho07_en_US_goa.hoLI.EntranceHymn2s.text
+hoLI.EntranceHymn2w.incipit = ho.ho07_en_US_goa.hoLI.EntranceHymn2w.incipit
+hoLI.EntranceHymn2w.text = ho.ho07_en_US_goa.hoLI.EntranceHymn2w.text
+
+hoLI.TrisagiosHymn.title = ho.ho07_en_US_goa.hoLI.TrisagiosHymn.title
+hoLI.TrisagiosHymn.incipit = ho.ho07_en_US_goa.hoLI.TrisagiosHymn.incipit
+hoLI.TrisagiosHymn.text = ho.ho07_en_US_goa.hoLI.TrisagiosHymn.text
+hoLI.TrisagiosHymn1.text = ho.ho07_en_US_goa.hoLI.TrisagiosHymn1.text
+hoLI.TrisagiosHymn2.text = ho.ho07_en_US_goa.hoLI.TrisagiosHymn2.text
+hoLI.TrisagiosHymn34.text = ho.ho07_en_US_goa.hoLI.TrisagiosHymn34.text
+hoLI.TrisagiosHymn3.text = ho.ho07_en_US_goa.hoLI.TrisagiosHymn3.text
+hoLI.TrisagiosHymn4.text = ho.ho07_en_US_goa.hoLI.TrisagiosHymn4.text
+hoLI.TrisagiosHymnJames3.text = ho.ho07_en_US_goa.hoLI.TrisagiosHymnJames3.text
+hoLI.TrisagiosHymnJames34.text = ho.ho07_en_US_goa.hoLI.TrisagiosHymnJames34.text
+hoLI.MM.TrisagiosHymnBimatos.text = ho.ho07_en_US_goa.hoLI.MM.TrisagiosHymnBimatos.text
+hoLI.TrisagiosHymnDynamis.text = ho.ho07_en_US_goa.hoLI.TrisagiosHymnDynamis.text
+
+hoLI.OsoiEisChriston.title = ho.ho07_en_US_goa.hoLI.OsoiEisChriston.title
+hoLI.MM.OsoiEisChriston.text = ho.ho07_en_US_dedes.hoLI.MM.OsoiEisChristonBimatos.text
+hoLI.MM.OsoiEisChristonBimatos.text = ho.ho07_en_US_dedes.hoLI.MM.OsoiEisChristonBimatos.text
+
+hoLI.TonStavronSou.title = ho.ho07_en_US_goa.hoLI.TonStavronSou.title
+hoLI.TonStavronSou.incipit = ho.ho07_en_US_goa.hoLI.TonStavronSou.incipit
+hoLI.TonStavronSou.text = ho.ho07_en_US_goa.hoLI.TonStavronSou.text
+hoLI.TonStavronSou1.text = ho.ho07_en_US_goa.hoLI.TonStavronSou1.text
+hoLI.TonStavronSou2.text = ho.ho07_en_US_goa.hoLI.TonStavronSou2.text
+hoLI.TonStavronSou3.text = ho.ho07_en_US_goa.hoLI.TonStavronSou3.text
+hoLI.TonStavronSou4.text = ho.ho07_en_US_goa.hoLI.TonStavronSou4.text
+hoLI.MM.TonStavronSouBimatos.text = ho.ho07_en_US_goa.hoLI.MM.TonStavronSouBimatos.text
+hoLI.TonStavronSouDynamis.text = ho.ho07_en_US_goa.hoLI.TonStavronSouDynamis.text
+
+hoLI.MM.GospelAlleluia.text = ho.ho07_en_US_goa.hoLI.MM.GospelAlleluia.text
+
+hoLI.MM.GospelAlleluiaMode1.text = ho.ho07_en_US_goa.hoLI.MM.GospelAlleluiaMode1.text
+
+hoLI.MM.GospelAlleluiaMode2.text = ho.ho07_en_US_goa.hoLI.MM.GospelAlleluiaMode2.text
+
+hoLI.MM.GospelAlleluiaMode3.text = ho.ho07_en_US_goa.hoLI.MM.GospelAlleluiaMode3.text
+
+hoLI.MM.GospelAlleluiaMode4.text = ho.ho07_en_US_goa.hoLI.MM.GospelAlleluiaMode4.text
+
+hoLI.MM.GospelAlleluiaMode5.text = ho.ho07_en_US_goa.hoLI.MM.GospelAlleluiaMode5.text
+
+hoLI.MM.GospelAlleluiaMode6.text = ho.ho07_en_US_goa.hoLI.MM.GospelAlleluiaMode6.text
+
+hoLI.MM.GospelAlleluiaMode7.text = ho.ho07_en_US_goa.hoLI.MM.GospelAlleluiaMode7.text
+
+hoLI.MM.GospelAlleluiaMode8.text = ho.ho07_en_US_goa.hoLI.MM.GospelAlleluiaMode8.text

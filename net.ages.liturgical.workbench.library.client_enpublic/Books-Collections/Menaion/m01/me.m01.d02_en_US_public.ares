@@ -550,12 +550,12 @@ meMA.Kontakion1.text = me.m01.d02_en_US_dedes.meMA.Kontakion1.text
 
 meMA.Oikos1.text = me.m01.d02_en_US_dedes.meMA.Oikos1.text
 
-meMA.Kontakion2.mode = me.m01.d02_en_US_dedes.meMA.Kontakion2.mode
-meMA.Kontakion2.melody = me.m01.d02_en_US_dedes.meMA.Kontakion2.melody
-meMA.Kontakion2.incipit = me.m01.d02_en_US_dedes.meMA.Kontakion2.incipit
-meMA.Kontakion2.text = me.m01.d02_en_US_dedes.meMA.Kontakion2.text
+meMA.Kontakion2.mode = me.m01.d02_en_US_goadedes.meMA.Kontakion2.mode
+meMA.Kontakion2.melody = me.m01.d02_en_US_goadedes.meMA.Kontakion2.melody
+meMA.Kontakion2.incipit = me.m01.d02_en_US_goadedes.meMA.Kontakion2.incipit
+meMA.Kontakion2.text = me.m01.d02_en_US_goadedes.meMA.Kontakion2.text
 
-meMA.Oikos2.text = me.m01.d02_en_US_dedes.meMA.Oikos2.text
+meMA.Oikos2.text = me.m01.d02_en_US_goadedes.meMA.Oikos2.text
 
 meMA.Ode7C1H.ode = me.m01.d02_en_US_dedes.meMA.Ode7C1H.ode
 meMA.Ode7C1H.mode = me.m01.d02_en_US_dedes.meMA.Ode7C1H.mode

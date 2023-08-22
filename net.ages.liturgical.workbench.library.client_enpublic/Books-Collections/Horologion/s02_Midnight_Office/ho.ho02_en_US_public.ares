@@ -1,0 +1,48 @@
+A_Resource_Whose_Name = ho.ho02_en_US_public
+
+hoMO.AfterCreedTheotokion.text = ho.ho02_en_US_goadedes.hoMO.AfterCreedTheotokion.text
+
+hoMO.StEphraimPrayerRubrics1.text = ho.ho02_en_US_goadedes.hoMO.StEphraimPrayerRubrics1.text
+hoMO.StEphraimPrayerRubrics2.text = ho.ho02_en_US_goadedes.hoMO.StEphraimPrayerRubrics2.text
+
+hoMO.StEphraimPrayerLentenRubrics1.text = ho.ho02_en_US_dedes.hoMO.StEphraimPrayerLentenRubrics1.text
+hoMO.StEphraimPrayerLentenRubrics2.text = ho.ho02_en_US_dedes.hoMO.StEphraimPrayerLentenRubrics2.text
+
+hoMO.StMardariosPrayer.title = ho.ho02_en_US_holycross.hoMO.StMardariosPrayer.title
+hoMO.StMardariosPrayer.text = ho.ho02_en_US_holycross.hoMO.StMardariosPrayer.text
+hoMO.StMardariosPrayer.rubric =
+
+hoMO.StBasilPrayer1.rubric = ho.ho02_en_US_goadedes.hoMO.StBasilPrayer1.rubric
+hoMO.StBasilPrayer1.title = ho.ho02_en_US_oca.hoMO.StBasilPrayer1.title
+hoMO.StBasilPrayer1.text = ho.ho02_en_US_oca.hoMO.StBasilPrayer1.text
+
+hoMO.StBasilPrayer2.rubric = ho.ho02_en_US_goadedes.hoMO.StBasilPrayer2.rubric
+hoMO.StBasilPrayer2.title = ho.ho02_en_US_holycross.hoMO.StBasilPrayer2.title
+hoMO.StBasilPrayer2.text = ho.ho02_en_US_holycross.hoMO.StBasilPrayer2.text
+
+hoMO.PrayerForDeceased.rubric = ho.ho02_en_US_goadedes.hoMO.PrayerForDeceased.rubric
+hoMO.PrayerForDeceased.title = ho.ho02_en_US_holycross.hoMO.PrayerForDeceased.title
+hoMO.PrayerForDeceased.text = ho.ho02_en_US_holycross.hoMO.PrayerForDeceased.text
+
+hoMO.TriadicMegalynaria.title = ho.ho02_en_US_goadedes.hoMO.TriadicMegalynaria.title
+hoMO.TriadicMegalynaria.mode = ho.ho02_en_US_goadedes.hoMO.TriadicMegalynaria.mode
+hoMO.TriadicMegalynaria01.incipit = ho.ho02_en_US_goadedes.hoMO.TriadicMegalynaria01.incipit
+hoMO.TriadicMegalynaria01.text = ho.ho02_en_US_goadedes.hoMO.TriadicMegalynaria01.text
+hoMO.TriadicMegalynaria02.incipit = ho.ho02_en_US_goadedes.hoMO.TriadicMegalynaria02.incipit
+hoMO.TriadicMegalynaria02.text = ho.ho02_en_US_goadedes.hoMO.TriadicMegalynaria02.text
+hoMO.TriadicMegalynaria03.incipit = ho.ho02_en_US_goadedes.hoMO.TriadicMegalynaria03.incipit
+hoMO.TriadicMegalynaria03.text = ho.ho02_en_US_goadedes.hoMO.TriadicMegalynaria03.text
+hoMO.TriadicMegalynaria04.incipit = ho.ho02_en_US_goadedes.hoMO.TriadicMegalynaria04.incipit
+hoMO.TriadicMegalynaria04.text = ho.ho02_en_US_goadedes.hoMO.TriadicMegalynaria04.text
+
+hoMO.SaturdayTroparion1.mode = ho.ho02_en_US_dedes.hoMO.SaturdayTroparion1.mode
+hoMO.SaturdayTroparion1.incipit = ho.ho02_en_US_dedes.hoMO.SaturdayTroparion1.incipit
+hoMO.SaturdayTroparion1.text = ho.ho02_en_US_dedes.hoMO.SaturdayTroparion1.text
+hoMO.SaturdayTroparion2.incipit = ho.ho02_en_US_dedes.hoMO.SaturdayTroparion2.incipit
+hoMO.SaturdayTroparion2.text = ho.ho02_en_US_dedes.hoMO.SaturdayTroparion2.text
+hoMO.SaturdayTroparion3.incipit = ho.ho02_en_US_dedes.hoMO.SaturdayTroparion3.incipit
+hoMO.SaturdayTroparion3.text = ho.ho02_en_US_dedes.hoMO.SaturdayTroparion3.text
+
+hoMO.StEfstratiosPrayer.rubric = ho.ho02_en_US_goadedes.hoMO.StEfstratiosPrayer.rubric
+hoMO.StEfstratiosPrayer.title = ho.ho02_en_US_holycross.hoMO.StEfstratiosPrayer.title
+hoMO.StEfstratiosPrayer.text = ho.ho02_en_US_holycross.hoMO.StEfstratiosPrayer.text
