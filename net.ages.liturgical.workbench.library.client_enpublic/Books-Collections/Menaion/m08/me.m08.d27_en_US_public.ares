@@ -214,6 +214,7 @@ meMA.Ode6H.incipit = me.m08.d27_en_US_dedes.meMA.Ode6H.incipit
 meMA.Ode6H.text = me.m08.d27_en_US_dedes.meMA.Ode6H.text
 
 meMA.Kontakion1.mode = me.m08.d27_en_US_goadedes.meMA.Kontakion1.mode
+meMA.Kontakion1.greekmelody = me.m08.d27_en_US_goadedes.meMA.Kontakion1.greekmelody
 meMA.Kontakion1.melody = me.m08.d27_en_US_goadedes.meMA.Kontakion1.melody
 meMA.Kontakion1.incipit = me.m08.d27_en_US_goadedes.meMA.Kontakion1.incipit
 meMA.Kontakion1.text = me.m08.d27_en_US_goadedes.meMA.Kontakion1.text
@@ -319,6 +320,7 @@ meMA.ExapTheotokion.incipit = me.m08.d27_en_US_dedes.meMA.ExapTheotokion.incipit
 meMA.ExapTheotokion.text = me.m08.d27_en_US_dedes.meMA.ExapTheotokion.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
@@ -711,7 +713,8 @@ alt1.meMA.Ode6C1T.text = me.m08.d27_en_US_goadedes.alt1.meMA.Ode6C1T.text
 
 alt1.meMA.Kontakion1.mode = me.m08.d27_en_US_goadedes.alt1.meMA.Kontakion1.mode
 alt1.meMA.Kontakion1.greekmelody = me.m08.d27_en_US_goadedes.alt1.meMA.Kontakion1.greekmelody
-alt1.meMA.Kontakion1.melody = me.m08.d27_en_US_goadedes.alt1.meMA.Kontakion1.melody
+alt1.meMA.Kontakion1.greekmelody = me.m08.d27_en_US_goadedes.alt1.meMA.Kontakion1.greekmelody
+meMA.Kontakion1.melody = me.m08.d27_en_US_goadedes.alt1.meMA.Kontakion1.melody
 alt1.meMA.Kontakion1.incipit = me.m08.d27_en_US_goadedes.alt1.meMA.Kontakion1.incipit
 alt1.meMA.Kontakion1.text = me.m08.d27_en_US_goadedes.alt1.meMA.Kontakion1.text
 

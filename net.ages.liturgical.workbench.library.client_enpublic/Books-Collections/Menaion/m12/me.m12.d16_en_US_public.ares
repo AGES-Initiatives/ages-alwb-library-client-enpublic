@@ -692,7 +692,8 @@ alt1.meMA.Ode6C1T.text = me.m12.d16_en_US_dedes.alt1.meMA.Ode6C1T.text
 
 alt1.meMA.Kontakion1.mode = me.m12.d16_en_US_dedes.alt1.meMA.Kontakion1.mode
 alt1.meMA.Kontakion1.greekmelody = me.m12.d16_en_US_dedes.alt1.meMA.Kontakion1.greekmelody
-alt1.meMA.Kontakion1.melody = me.m12.d16_en_US_dedes.alt1.meMA.Kontakion1.melody
+alt1.meMA.Kontakion1.greekmelody = me.m12.d16_en_US_dedes.alt1.meMA.Kontakion1.greekmelody
+meMA.Kontakion1.melody = me.m12.d16_en_US_dedes.alt1.meMA.Kontakion1.melody
 alt1.meMA.Kontakion1.incipit = me.m12.d16_en_US_dedes.alt1.meMA.Kontakion1.incipit
 alt1.meMA.Kontakion1.text = me.m12.d16_en_US_dedes.alt1.meMA.Kontakion1.text
 

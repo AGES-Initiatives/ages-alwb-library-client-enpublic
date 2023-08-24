@@ -218,6 +218,7 @@ meMA.Ode6C1T.incipit = me.m05.d02_en_US_goadedes.meMA.Ode6C1T.incipit
 meMA.Ode6C1T.text = me.m05.d02_en_US_goadedes.meMA.Ode6C1T.text
 
 meMA.Kontakion1.mode = me.m05.d02_en_US_dedes.meMA.Kontakion1.mode
+meMA.Kontakion1.greekmelody = me.m05.d02_en_US_dedes.meMA.Kontakion1.greekmelody
 meMA.Kontakion1.melody = me.m05.d02_en_US_dedes.meMA.Kontakion1.melody
 meMA.Kontakion1.incipit = me.m05.d02_en_US_dedes.meMA.Kontakion1.incipit
 meMA.Kontakion1.text = me.m05.d02_en_US_dedes.meMA.Kontakion1.text
@@ -323,6 +324,7 @@ meMA.LaudsGlory.incipit = me.m05.d02_en_US_dedes.meMA.LaudsGlory.incipit
 meMA.LaudsGlory.text = me.m05.d02_en_US_dedes.meMA.LaudsGlory.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

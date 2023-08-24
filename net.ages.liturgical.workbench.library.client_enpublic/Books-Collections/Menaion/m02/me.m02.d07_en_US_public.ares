@@ -251,6 +251,7 @@ meMA.Ode3C2T.incipit = me.m02.d07_en_US_dedes.meMA.Ode3C2T.incipit
 meMA.Ode3C2T.text = me.m02.d07_en_US_dedes.meMA.Ode3C2T.text
 
 meMA.Kontakion1.mode = me.m02.d07_en_US_dedes.meMA.Kontakion1.mode
+meMA.Kontakion1.greekmelody = me.m02.d07_en_US_oca.meMA.Kontakion1.greekmelody
 meMA.Kontakion1.melody = me.m02.d07_en_US_oca.meMA.Kontakion1.melody
 meMA.Kontakion1.incipit = me.m02.d07_en_US_oca.meMA.Kontakion1.incipit
 meMA.Kontakion1.text = me.m02.d07_en_US_oca.meMA.Kontakion1.text
@@ -726,6 +727,7 @@ meMA.AposGlory.text = me.m02.d07_en_US_dedes.meMA.AposGlory.text
 
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

@@ -334,6 +334,7 @@ meMA.Ode6C12.incipit = me.m09.d14_en_US_oca.meMA.Ode6C12.incipit
 meMA.Ode6C12.text = me.m09.d14_en_US_oca.meMA.Ode6C12.text
 
 meMA.Kontakion1.mode = me.m09.d14_en_US_dedes.meMA.Kontakion1.mode
+meMA.Kontakion1.greekmelody = me.m09.d14_en_US_dedes.meMA.Kontakion1.greekmelody
 meMA.Kontakion1.melody = me.m09.d14_en_US_dedes.meMA.Kontakion1.melody
 meMA.Kontakion1.incipit = me.m09.d14_en_US_dedes.meMA.Kontakion1.incipit
 meMA.Kontakion1.text = me.m09.d14_en_US_dedes.meMA.Kontakion1.text
@@ -515,6 +516,7 @@ meMA.AdditionalIdiomelonGlory.text = me.m09.d14_en_US_dedes.meMA.AdditionalIdiom
 meLI.MM.EntranceHymn.text = properties_en_US_public.media.key
 
 meLI.Kontakion1.mode = me.m09.d14_en_US_dedes.meLI.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m09.d14_en_US_dedes.meLI.Kontakion1.greekmelody
 meLI.Kontakion1.melody = me.m09.d14_en_US_dedes.meLI.Kontakion1.melody
 meLI.Kontakion1.incipit = me.m09.d14_en_US_dedes.meLI.Kontakion1.incipit
 meLI.Kontakion1.text = me.m09.d14_en_US_dedes.meLI.Kontakion1.text

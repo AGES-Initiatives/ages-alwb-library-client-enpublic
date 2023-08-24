@@ -840,7 +840,6 @@ alt1.meMA.Ode6C1T.incipit = me.m02.d06_en_US_dedes.alt1.meMA.Ode6C1T.incipit
 alt1.meMA.Ode6C1T.text = me.m02.d06_en_US_dedes.alt1.meMA.Ode6C1T.text
 
 alt1.meMA.Kontakion1.mode = me.m02.d06_en_US_dedes.alt1.meMA.Kontakion1.mode
-alt1.meMA.Kontakion1.greekmelody = me.m02.d06_en_US_dedes.alt1.meMA.Kontakion1.greekmelody
 alt1.meMA.Kontakion1.melody = me.m02.d06_en_US_dedes.alt1.meMA.Kontakion1.melody
 alt1.meMA.Kontakion1.incipit = me.m02.d06_en_US_dedes.alt1.meMA.Kontakion1.incipit
 alt1.meMA.Kontakion1.text = me.m02.d06_en_US_dedes.alt1.meMA.Kontakion1.text
@@ -1383,8 +1382,7 @@ alt2.meMA.Ode6C1T.incipit = me.m02.d06_en_US_dedes.alt2.meMA.Ode6C1T.incipit
 alt2.meMA.Ode6C1T.text = me.m02.d06_en_US_dedes.alt2.meMA.Ode6C1T.text
 
 alt2.meMA.Kontakion1.mode = me.m02.d06_en_US_dedes.alt2.meMA.Kontakion1.mode
-alt2.meMA.Kontakion1.greekmelody = me.m02.d06_en_US_dedes.alt2.meMA.Kontakion1.greekmelody
-alt2.meMA.Kontakion1.melody = me.m02.d06_en_US_dedes.alt2.meMA.Kontakion1.melody
+alt2.alt2.meMA.Kontakion1.melody = me.m02.d06_en_US_dedes.alt2.meMA.Kontakion1.melody
 alt2.meMA.Kontakion1.incipit = me.m02.d06_en_US_dedes.alt2.meMA.Kontakion1.incipit
 alt2.meMA.Kontakion1.text = me.m02.d06_en_US_dedes.alt2.meMA.Kontakion1.text
 
