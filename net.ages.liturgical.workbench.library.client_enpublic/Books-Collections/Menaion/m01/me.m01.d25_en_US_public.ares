@@ -134,13 +134,13 @@ meVE.Lity1.text = me.m01.d25_en_US_dedes.meVE.Lity1.text
 
 meVE.Lity2.mode = me.m01.d25_en_US_dedes.meVE.Lity2.mode
 meVE.Lity2.melody = me.m01.d25_en_US_dedes.meVE.Lity2.melody
-meVE.Lity2.incipit = me.m01.d25_en_US_dedes.meVE.Lity2.incipit
-meVE.Lity2.text = me.m01.d25_en_US_dedes.meVE.Lity2.text
+meVE.Lity2.incipit = me.m01.d25_en_US_oca.meVE.Lity2.incipit
+meVE.Lity2.text = me.m01.d25_en_US_oca.meVE.Lity2.text
 
 meVE.Lity3.mode = me.m01.d25_en_US_dedes.meVE.Lity3.mode
 meVE.Lity3.melody = me.m01.d25_en_US_dedes.meVE.Lity3.melody
-meVE.Lity3.incipit = me.m01.d25_en_US_dedes.meVE.Lity3.incipit
-meVE.Lity3.text = me.m01.d25_en_US_dedes.meVE.Lity3.text
+meVE.Lity3.incipit = me.m01.d25_en_US_oca.meVE.Lity3.incipit
+meVE.Lity3.text = me.m01.d25_en_US_oca.meVE.Lity3.text
 
 meVE.LityGlory.mode = me.m01.d25_en_US_dedes.meVE.LityGlory.mode
 meVE.LityGlory.melody = me.m01.d25_en_US_dedes.meVE.LityGlory.melody

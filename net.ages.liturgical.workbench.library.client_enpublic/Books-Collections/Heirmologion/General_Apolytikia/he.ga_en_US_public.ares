@@ -38,6 +38,7 @@ heGA.ChristotitaEkdidachtheis.text2 = he.ga_en_US_dedes.heGA.ChristotitaEkdidach
 heGA.OMartysSouKyrie.name = he.ga_en_US_dedes.heGA.OMartysSouKyrie.name
 heGA.OMartysSouKyrie.incipit = he.ga_en_US_dedes.heGA.OMartysSouKyrie.incipit
 heGA.OMartysSouKyrie.mode = he.ga_en_US_dedes.heGA.OMartysSouKyrie.mode
+heGA.OMartysSouKyrie.greekmelody = he.ga_en_US_dedes.heGA.OMartysSouKyrie.greekmelody
 heGA.OMartysSouKyrie.melody = he.ga_en_US_dedes.heGA.OMartysSouKyrie.melody
 heGA.OMartysSouKyrie.text = he.ga_en_US_dedes.heGA.OMartysSouKyrie.text
 
@@ -45,6 +46,7 @@ heGA.OMartysSouKyrie.text = he.ga_en_US_dedes.heGA.OMartysSouKyrie.text
 heGA.OiMartyresSouKyrie.name = he.ga_en_US_dedes.heGA.OiMartyresSouKyrie.name
 heGA.OiMartyresSouKyrie.incipit = he.ga_en_US_dedes.heGA.OiMartyresSouKyrie.incipit
 heGA.OiMartyresSouKyrie.mode = he.ga_en_US_dedes.heGA.OiMartyresSouKyrie.mode
+heGA.OiMartyresSouKyrie.greekmelody = he.ga_en_US_dedes.heGA.OiMartyresSouKyrie.greekmelody
 heGA.OiMartyresSouKyrie.melody = he.ga_en_US_dedes.heGA.OiMartyresSouKyrie.melody
 heGA.OiMartyresSouKyrie.text = he.ga_en_US_dedes.heGA.OiMartyresSouKyrie.text
 
@@ -52,6 +54,7 @@ heGA.OiMartyresSouKyrie.text = he.ga_en_US_dedes.heGA.OiMartyresSouKyrie.text
 heGA.IAmnasSou.name = he.ga_en_US_dedes.heGA.IAmnasSou.name
 heGA.IAmnasSou.incipit = he.ga_en_US_dedes.heGA.IAmnasSou.incipit
 heGA.IAmnasSou.mode = he.ga_en_US_dedes.heGA.IAmnasSou.mode
+heGA.IAmnasSou.greekmelody = he.ga_en_US_dedes.heGA.IAmnasSou.greekmelody
 heGA.IAmnasSou.melody = he.ga_en_US_dedes.heGA.IAmnasSou.melody
 heGA.IAmnasSou.text = he.ga_en_US_dedes.heGA.IAmnasSou.text
 
