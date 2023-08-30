@@ -284,6 +284,7 @@ peMA.Ode6C1T.incipit = pe.d127_en_US_goadedes.peMA.Ode6C1T.incipit
 peMA.Ode6C1T.text = pe.d127_en_US_goadedes.peMA.Ode6C1T.text
 
 peMA.Kontakion1.mode = pe.d127_en_US_dedes.peMA.Kontakion1.mode
+peMA.Kontakion1.greekmelody = pe.d127_en_US_dedes.peMA.Kontakion1.greekmelody
 peMA.Kontakion1.melody = pe.d127_en_US_dedes.peMA.Kontakion1.melody
 peMA.Kontakion1.incipit = pe.d127_en_US_dedes.peMA.Kontakion1.incipit
 peMA.Kontakion1.text = pe.d127_en_US_dedes.peMA.Kontakion1.text
@@ -412,6 +413,7 @@ peMA.Lauds8.text = pe.d127_en_US_dedes.peMA.Lauds8.text
 peMA.Lauds345 = pe.d127_en_US_dedes.peMA.Lauds345 // for media
 
 peLI.Kontakion1.mode = pe.d127_en_US_dedes.peLI.Kontakion1.mode
+peLI.Kontakion1.greekmelody = pe.d127_en_US_dedes.peLI.Kontakion1.greekmelody
 peLI.Kontakion1.melody = pe.d127_en_US_dedes.peLI.Kontakion1.melody
 peLI.Kontakion1.incipit = pe.d127_en_US_dedes.peLI.Kontakion1.incipit
 peLI.Kontakion1.text = pe.d127_en_US_dedes.peLI.Kontakion1.text

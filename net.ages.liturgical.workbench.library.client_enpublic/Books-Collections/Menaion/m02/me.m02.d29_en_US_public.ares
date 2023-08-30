@@ -19,21 +19,21 @@ meHO.commemorations = me.m02.d29_en_US_dedes.meHO.commemorations
 meHO.note1 = me.m02.d29_en_US_dedes.meHO.note1
 meHO.note2 = me.m02.d29_en_US_dedes.meHO.note2
 
-meVE.Stichera01.mode = me.m02.d29_en_US_dedes.meVE.Stichera01.mode
-meVE.Stichera01.greekmelody = me.m02.d29_en_US_dedes.meVE.Stichera01.greekmelody
-meVE.Stichera01.melody = me.m02.d29_en_US_dedes.meVE.Stichera01.melody
-meVE.Stichera01.incipit = me.m02.d29_en_US_dedes.meVE.Stichera01.incipit
-meVE.Stichera01.text = me.m02.d29_en_US_dedes.meVE.Stichera01.text
+meVE.Stichera01.mode = me.m02.d29_en_US_goadedes.meVE.Stichera01.mode
+meVE.Stichera01.greekmelody = me.m02.d29_en_US_goadedes.meVE.Stichera01.greekmelody
+meVE.Stichera01.melody = me.m02.d29_en_US_goadedes.meVE.Stichera01.melody
+meVE.Stichera01.incipit = me.m02.d29_en_US_goadedes.meVE.Stichera01.incipit
+meVE.Stichera01.text = me.m02.d29_en_US_goadedes.meVE.Stichera01.text
 
-meVE.Stichera02.mode = me.m02.d29_en_US_dedes.meVE.Stichera02.mode
-meVE.Stichera02.melody = me.m02.d29_en_US_dedes.meVE.Stichera02.melody
-meVE.Stichera02.incipit = me.m02.d29_en_US_dedes.meVE.Stichera02.incipit
-meVE.Stichera02.text = me.m02.d29_en_US_dedes.meVE.Stichera02.text
+meVE.Stichera02.mode = me.m02.d29_en_US_goadedes.meVE.Stichera02.mode
+meVE.Stichera02.melody = me.m02.d29_en_US_goadedes.meVE.Stichera02.melody
+meVE.Stichera02.incipit = me.m02.d29_en_US_goadedes.meVE.Stichera02.incipit
+meVE.Stichera02.text = me.m02.d29_en_US_goadedes.meVE.Stichera02.text
 
-meVE.Stichera03.mode = me.m02.d29_en_US_dedes.meVE.Stichera03.mode
-meVE.Stichera03.melody = me.m02.d29_en_US_dedes.meVE.Stichera03.melody
-meVE.Stichera03.incipit = me.m02.d29_en_US_dedes.meVE.Stichera03.incipit
-meVE.Stichera03.text = me.m02.d29_en_US_dedes.meVE.Stichera03.text
+meVE.Stichera03.mode = me.m02.d29_en_US_goadedes.meVE.Stichera03.mode
+meVE.Stichera03.melody = me.m02.d29_en_US_goadedes.meVE.Stichera03.melody
+meVE.Stichera03.incipit = me.m02.d29_en_US_goadedes.meVE.Stichera03.incipit
+meVE.Stichera03.text = me.m02.d29_en_US_goadedes.meVE.Stichera03.text
 
 meVE.SticTheotokion.mode = me.m02.d29_en_US_dedes.meVE.SticTheotokion.mode
 meVE.SticTheotokion.melody = me.m02.d29_en_US_dedes.meVE.SticTheotokion.melody
@@ -235,11 +235,11 @@ meMA.Ode6C1T.melody = me.m02.d29_en_US_dedes.meMA.Ode6C1T.melody
 meMA.Ode6C1T.incipit = me.m02.d29_en_US_dedes.meMA.Ode6C1T.incipit
 meMA.Ode6C1T.text = me.m02.d29_en_US_dedes.meMA.Ode6C1T.text
 
-meMA.Kontakion1.mode = me.m02.d29_en_US_dedes.meMA.Kontakion1.mode
-meMA.Kontakion1.greekmelody = me.m02.d29_en_US_dedes.meMA.Kontakion1.greekmelody
-meMA.Kontakion1.melody = me.m02.d29_en_US_dedes.meMA.Kontakion1.melody
-meMA.Kontakion1.incipit = me.m02.d29_en_US_dedes.meMA.Kontakion1.incipit
-meMA.Kontakion1.text = me.m02.d29_en_US_dedes.meMA.Kontakion1.text
+meMA.Kontakion1ger.mode = me.m02.d29_en_US_goadedes.meMA.Kontakion1ger.mode
+meMA.Kontakion1ger.greekmelody = me.m02.d29_en_US_goadedes.meMA.Kontakion1ger.greekmelody
+meMA.Kontakion1ger.melody = me.m02.d29_en_US_goadedes.meMA.Kontakion1ger.melody
+meMA.Kontakion1ger.incipit = me.m02.d29_en_US_goadedes.meMA.Kontakion1ger.incipit
+meMA.Kontakion1ger.text = me.m02.d29_en_US_goadedes.meMA.Kontakion1ger.text
 
 meMA.Ode7C1H.ode = me.m02.d29_en_US_dedes.meMA.Ode7C1H.ode
 meMA.Ode7C1H.mode = me.m02.d29_en_US_dedes.meMA.Ode7C1H.mode
@@ -337,11 +337,11 @@ meMA.Ode9C1T.melody = me.m02.d29_en_US_dedes.meMA.Ode9C1T.melody
 meMA.Ode9C1T.incipit = me.m02.d29_en_US_dedes.meMA.Ode9C1T.incipit
 meMA.Ode9C1T.text = me.m02.d29_en_US_dedes.meMA.Ode9C1T.text
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1ger.mode = meMA.Kontakion1ger.mode
+meLI.Kontakion1ger.greekmelody = meMA.Kontakion1ger.greekmelody
+meLI.Kontakion1ger.melody = meMA.Kontakion1ger.melody
+meLI.Kontakion1ger.incipit = meMA.Kontakion1ger.incipit
+meLI.Kontakion1ger.text = meMA.Kontakion1ger.text
 
 meMegalynarion.text = me.m02.d29_en_US_dedes.meMegalynarion.text
 

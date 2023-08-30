@@ -294,7 +294,7 @@ meMA.Kontakion1.melody = me.m03.d06_en_US_dedes.meMA.Kontakion1.melody
 meMA.Kontakion1.incipit = me.m03.d06_en_US_dedes.meMA.Kontakion1.incipit
 meMA.Kontakion1.text = me.m03.d06_en_US_dedes.meMA.Kontakion1.text
 
-meMA.Oikos1.text = me.m03.d06_en_US_dedes.meMA.Oikos1.text
+meMA.Oikos1.text = me.m03.d06_en_US_goadedes.meMA.Oikos1.text
 
 meMA.Ode7C1H.ode = me.m03.d06_en_US_dedes.meMA.Ode7C1H.ode
 meMA.Ode7C1H.mode = me.m03.d06_en_US_dedes.meMA.Ode7C1H.mode
@@ -398,16 +398,16 @@ meMA.Ode9C1T.melody = me.m03.d06_en_US_unknown.meMA.Ode9C1T.melody
 meMA.Ode9C1T.incipit = me.m03.d06_en_US_unknown.meMA.Ode9C1T.incipit
 meMA.Ode9C1T.text = me.m03.d06_en_US_unknown.meMA.Ode9C1T.text
 
-meMA.Exaposteilarion1.mode = me.m03.d06_en_US_dedes.meMA.Exaposteilarion1.mode
-meMA.Exaposteilarion1.greekmelody = me.m03.d06_en_US_dedes.meMA.Exaposteilarion1.greekmelody
-meMA.Exaposteilarion1.melody = me.m03.d06_en_US_dedes.meMA.Exaposteilarion1.melody
-meMA.Exaposteilarion1.incipit = me.m03.d06_en_US_dedes.meMA.Exaposteilarion1.incipit
-meMA.Exaposteilarion1.text = me.m03.d06_en_US_dedes.meMA.Exaposteilarion1.text
+meMA.Exaposteilarion1.mode = me.m03.d06_en_US_goadedes.meMA.Exaposteilarion1.mode
+meMA.Exaposteilarion1.greekmelody = me.m03.d06_en_US_goadedes.meMA.Exaposteilarion1.greekmelody
+meMA.Exaposteilarion1.melody = me.m03.d06_en_US_goadedes.meMA.Exaposteilarion1.melody
+meMA.Exaposteilarion1.incipit = me.m03.d06_en_US_goadedes.meMA.Exaposteilarion1.incipit
+meMA.Exaposteilarion1.text = me.m03.d06_en_US_goadedes.meMA.Exaposteilarion1.text
 
-meMA.ExapTheotokion.mode = me.m03.d06_en_US_dedes.meMA.ExapTheotokion.mode
-meMA.ExapTheotokion.melody = me.m03.d06_en_US_dedes.meMA.ExapTheotokion.melody
-meMA.ExapTheotokion.incipit = me.m03.d06_en_US_dedes.meMA.ExapTheotokion.incipit
-meMA.ExapTheotokion.text = me.m03.d06_en_US_dedes.meMA.ExapTheotokion.text
+meMA.ExapTheotokion.mode = me.m03.d06_en_US_goadedes.meMA.ExapTheotokion.mode
+meMA.ExapTheotokion.melody = me.m03.d06_en_US_goadedes.meMA.ExapTheotokion.melody
+meMA.ExapTheotokion.incipit = me.m03.d06_en_US_goadedes.meMA.ExapTheotokion.incipit
+meMA.ExapTheotokion.text = me.m03.d06_en_US_goadedes.meMA.ExapTheotokion.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
