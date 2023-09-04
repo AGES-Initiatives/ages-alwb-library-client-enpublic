@@ -60,27 +60,26 @@ trVE.SticTheotokion.melody = tr.d071_en_US_goadedes.trVE.SticTheotokion.melody
 trVE.SticTheotokion.incipit = tr.d071_en_US_goadedes.trVE.SticTheotokion.incipit
 trVE.SticTheotokion.text = tr.d071_en_US_goadedes.trVE.SticTheotokion.text
 
-// Hymn of the Three Servants
-trHW.SaturdayHymn.title = tr.d071_en_US_dedes.trHW.SaturdayHymn.title
-trHW.SaturdayHymn.mode = tr.d071_en_US_dedes.trHW.SaturdayHymn.mode // or Mode6
-trHW.SaturdayHymn.text = tr.d071_en_US_dedes.trHW.SaturdayHymn.text
+trLI.SaturdayHymn.title = tr.d071_en_US_dedes.trLI.SaturdayHymn.title
+trLI.SaturdayHymn.mode = tr.d071_en_US_dedes.trLI.SaturdayHymn.mode // or Mode6
+trLI.SaturdayHymn.text = tr.d071_en_US_dedes.trLI.SaturdayHymn.text
 
-trHW.SaturdayArise.text = tr.d071_en_US_dedes.trHW.SaturdayArise.text
+trLI.SaturdayArise.text = tr.d071_en_US_dedes.trLI.SaturdayArise.text
 
-trHW.CherubicHymn.title = tr.d071_en_US_dedes.trHW.CherubicHymn.title
-trHW.CherubicHymn.mode = tr.d071_en_US_dedes.trHW.CherubicHymn.mode
-trHW.CherubicHymnPart1.incipit = tr.d071_en_US_dedes.trHW.CherubicHymnPart1.incipit
-trHW.CherubicHymnPart1.text = tr.d071_en_US_dedes.trHW.CherubicHymnPart1.text
-trHW.CherubicHymnPart2.incipit = tr.d071_en_US_dedes.trHW.CherubicHymnPart2.incipit
-trHW.CherubicHymnPart2.text = tr.d071_en_US_dedes.trHW.CherubicHymnPart2.text
+trLI.CherubicHymn.title = tr.d071_en_US_dedes.trLI.CherubicHymn.title
+trLI.CherubicHymn.mode = tr.d071_en_US_dedes.trLI.CherubicHymn.mode
+trLI.CherubicHymnPart1.incipit = tr.d071_en_US_dedes.trLI.CherubicHymnPart1.incipit
+trLI.CherubicHymnPart1.text = tr.d071_en_US_dedes.trLI.CherubicHymnPart1.text
+trLI.CherubicHymnPart2.incipit = tr.d071_en_US_dedes.trLI.CherubicHymnPart2.incipit
+trLI.CherubicHymnPart2.text = tr.d071_en_US_dedes.trLI.CherubicHymnPart2.text
 
-trHW.TheotokosHymn.mode = tr.d071_en_US_goadedes.trHW.TheotokosHymn.mode
-trHW.TheotokosHymn.incipit = tr.d071_en_US_goadedes.trHW.TheotokosHymn.incipit
-trHW.TheotokosHymn.text = tr.d071_en_US_goadedes.trHW.TheotokosHymn.text
+trLI.TheotokosHymn.mode = tr.d071_en_US_goadedes.trLI.TheotokosHymn.mode
+trLI.TheotokosHymn.incipit = tr.d071_en_US_goadedes.trLI.TheotokosHymn.incipit
+trLI.TheotokosHymn.text = tr.d071_en_US_goadedes.trLI.TheotokosHymn.text
 
-trHW.CommunionHymn.text = tr.d071_en_US_dedes.trHW.CommunionHymn.text
+trLI.CommunionHymn.text = tr.d071_en_US_dedes.trLI.CommunionHymn.text
 
-trHW.AfterCommunion.mode = tr.d071_en_US_dedes.trHW.AfterCommunion.mode
-trHW.AfterCommunion.incipit = tr.d071_en_US_dedes.trHW.AfterCommunion.incipit
-trHW.AfterCommunion.text = tr.d071_en_US_dedes.trHW.AfterCommunion.text
+trLI.AfterCommunion.mode = tr.d071_en_US_dedes.trLI.AfterCommunion.mode
+trLI.AfterCommunion.incipit = tr.d071_en_US_dedes.trLI.AfterCommunion.incipit
+trLI.AfterCommunion.text = tr.d071_en_US_dedes.trLI.AfterCommunion.text
 
