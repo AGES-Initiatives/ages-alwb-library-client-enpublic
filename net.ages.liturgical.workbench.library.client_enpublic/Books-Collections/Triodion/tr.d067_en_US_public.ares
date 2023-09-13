@@ -251,12 +251,12 @@ trCO.Ode9C1T.melody = tr.d067_en_UK_ware.trCO.Ode9C1T.melody
 trCO.Ode9C1T.incipit = tr.d067_en_UK_ware.trCO.Ode9C1T.incipit
 trCO.Ode9C1T.text = tr.d067_en_UK_ware.trCO.Ode9C1T.text
 
-trHW.Alleluia.text = tr.d067_en_US_dedes.trHW.Alleluia.text // for media
+trMA.MM.Alleluia.text = tr.d067_en_US_dedes.trMA.MM.Alleluia.text // for media
 
-trHW.Troparion.mode = tr.d067_en_US_dedes.trHW.Troparion.mode
-trHW.Troparion.melody = tr.d067_en_US_dedes.trHW.Troparion.melody
-trHW.Troparion.incipit = tr.d067_en_US_dedes.trHW.Troparion.incipit
-trHW.Troparion.text = tr.d067_en_US_dedes.trHW.Troparion.text
+trMA.Troparion.mode = tr.d067_en_US_dedes.trMA.Troparion.mode
+trMA.Troparion.melody = tr.d067_en_US_dedes.trMA.Troparion.melody
+trMA.Troparion.incipit = tr.d067_en_US_dedes.trMA.Troparion.incipit
+trMA.Troparion.text = tr.d067_en_US_dedes.trMA.Troparion.text
 
 trMA.Kathisma11.mode = tr.d067_en_US_dedes.trMA.Kathisma11.mode
 trMA.Kathisma11.greekmelody = tr.d067_en_US_dedes.trMA.Kathisma11.greekmelody
@@ -398,7 +398,6 @@ trMA.Exaposteilarion1.melody = tr.d067_en_US_dedes.trMA.Exaposteilarion1.melody
 trMA.Exaposteilarion1.incipit = tr.d067_en_US_dedes.trMA.Exaposteilarion1.incipit
 trMA.Exaposteilarion1.text = tr.d067_en_US_dedes.trMA.Exaposteilarion1.text
 
-trHW.Lauds01.text = tr.d067_en_US_dedes.trHW.Lauds01.text // for media
 
 trMA.Lauds1.mode = tr.d067_en_US_dedes.trMA.Lauds1.mode
 trMA.Lauds1.melody = tr.d067_en_US_dedes.trMA.Lauds1.melody

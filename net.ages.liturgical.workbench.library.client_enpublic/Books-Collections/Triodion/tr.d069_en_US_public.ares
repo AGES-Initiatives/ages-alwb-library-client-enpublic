@@ -65,368 +65,344 @@ trLI.AfterCommunion.incipit = tr.d069_en_US_dedes.trLI.AfterCommunion.incipit
 trLI.AfterCommunion.text = tr.d069_en_US_dedes.trLI.AfterCommunion.text
 
 // Foot Washing
-trHW.NiptirIdiomelon1.mode = tr.d069_en_US_dedes.trHW.NiptirIdiomelon1.mode
-trHW.NiptirIdiomelon1.melody = tr.d069_en_US_dedes.trHW.NiptirIdiomelon1.melody
-trHW.NiptirIdiomelon1.incipit = tr.d069_en_US_dedes.trHW.NiptirIdiomelon1.incipit
-trHW.NiptirIdiomelon1.text = tr.d069_en_US_dedes.trHW.NiptirIdiomelon1.text
 
-trHW.NiptirIdiomelon2.mode = tr.d069_en_US_dedes.trHW.NiptirIdiomelon2.mode
-trHW.NiptirIdiomelon2.melody = tr.d069_en_US_dedes.trHW.NiptirIdiomelon2.melody
-trHW.NiptirIdiomelon2.incipit = tr.d069_en_US_dedes.trHW.NiptirIdiomelon2.incipit
-trHW.NiptirIdiomelon2.text = tr.d069_en_US_dedes.trHW.NiptirIdiomelon2.text
 
-trHW.NiptirIdiomelon3.mode = tr.d069_en_US_dedes.trHW.NiptirIdiomelon3.mode
-trHW.NiptirIdiomelon3.melody = tr.d069_en_US_dedes.trHW.NiptirIdiomelon3.melody
-trHW.NiptirIdiomelon3.incipit = tr.d069_en_US_dedes.trHW.NiptirIdiomelon3.incipit
-trHW.NiptirIdiomelon3.text = tr.d069_en_US_dedes.trHW.NiptirIdiomelon3.text
 
-trHW.NiptirIdiomelon4.mode = tr.d069_en_US_dedes.trHW.NiptirIdiomelon4.mode
-trHW.NiptirIdiomelon4.melody = tr.d069_en_US_dedes.trHW.NiptirIdiomelon4.melody
-trHW.NiptirIdiomelon4.incipit = tr.d069_en_US_dedes.trHW.NiptirIdiomelon4.incipit
-trHW.NiptirIdiomelon4.text = tr.d069_en_US_dedes.trHW.NiptirIdiomelon4.text
 
-trHW.NiptirIdiomelon5.mode = tr.d069_en_US_dedes.trHW.NiptirIdiomelon5.mode
-trHW.NiptirIdiomelon5.melody = tr.d069_en_US_dedes.trHW.NiptirIdiomelon5.melody
-trHW.NiptirIdiomelon5.incipit = tr.d069_en_US_dedes.trHW.NiptirIdiomelon5.incipit
-trHW.NiptirIdiomelon5.text = tr.d069_en_US_dedes.trHW.NiptirIdiomelon5.text
 
-trHW.NiptirIdiomelon6.mode = tr.d069_en_US_dedes.trHW.NiptirIdiomelon6.mode
-trHW.NiptirIdiomelon6.melody = tr.d069_en_US_dedes.trHW.NiptirIdiomelon6.melody
-trHW.NiptirIdiomelon6.incipit = tr.d069_en_US_dedes.trHW.NiptirIdiomelon6.incipit
-trHW.NiptirIdiomelon6.text = tr.d069_en_US_dedes.trHW.NiptirIdiomelon6.text
 
 // Holy Thursday night
 
-trHW.Alleluia.text = tr.d069_en_US_dedes.trHW.Alleluia.text // for media
-
-trHW.Troparion.mode = tr.d069_en_US_dedes.trHW.Troparion.mode
-trHW.Troparion.melody = tr.d069_en_US_dedes.trHW.Troparion.melody
-trHW.Troparion.incipit = tr.d069_en_US_dedes.trHW.Troparion.incipit
-trHW.Troparion.text = tr.d069_en_US_dedes.trHW.Troparion.text
-
-trHW.Antiphon01.title = tr.d069_en_US_dedes.trHW.Antiphon01.title
-trHW.Antiphon011.mode = tr.d069_en_US_dedes.trHW.Antiphon011.mode
-trHW.Antiphon011.incipit = tr.d069_en_US_dedes.trHW.Antiphon011.incipit
-trHW.Antiphon011.text = tr.d069_en_US_dedes.trHW.Antiphon011.text
-
-trHW.Antiphon012.mode = tr.d069_en_US_dedes.trHW.Antiphon012.mode
-trHW.Antiphon012.incipit = tr.d069_en_US_dedes.trHW.Antiphon012.incipit
-trHW.Antiphon012.text = tr.d069_en_US_dedes.trHW.Antiphon012.text
-
-trHW.Antiphon013.mode = tr.d069_en_US_dedes.trHW.Antiphon013.mode
-trHW.Antiphon013.incipit = tr.d069_en_US_dedes.trHW.Antiphon013.incipit
-trHW.Antiphon013.text = tr.d069_en_US_dedes.trHW.Antiphon013.text
-
-trHW.Antiphon01T.mode = tr.d069_en_US_dedes.trHW.Antiphon01T.mode
-trHW.Antiphon01T.incipit = tr.d069_en_US_dedes.trHW.Antiphon01T.incipit
-trHW.Antiphon01T.text = tr.d069_en_US_dedes.trHW.Antiphon01T.text
-
-trHW.Antiphon02.title = tr.d069_en_US_dedes.trHW.Antiphon02.title
-trHW.Antiphon021.mode = tr.d069_en_US_dedes.trHW.Antiphon021.mode
-trHW.Antiphon021.incipit = tr.d069_en_US_dedes.trHW.Antiphon021.incipit
-trHW.Antiphon021.text = tr.d069_en_US_dedes.trHW.Antiphon021.text
-
-trHW.Antiphon022.mode = tr.d069_en_US_dedes.trHW.Antiphon022.mode
-trHW.Antiphon022.incipit = tr.d069_en_US_dedes.trHW.Antiphon022.incipit
-trHW.Antiphon022.text = tr.d069_en_US_dedes.trHW.Antiphon022.text
-
-trHW.Antiphon02T.mode = tr.d069_en_US_dedes.trHW.Antiphon02T.mode
-trHW.Antiphon02T.incipit = tr.d069_en_US_dedes.trHW.Antiphon02T.incipit
-trHW.Antiphon02T.text = tr.d069_en_US_dedes.trHW.Antiphon02T.text
-
-trHW.Antiphon03.title = tr.d069_en_US_dedes.trHW.Antiphon03.title
-trHW.Antiphon031.mode = tr.d069_en_US_dedes.trHW.Antiphon031.mode
-trHW.Antiphon031.incipit = tr.d069_en_US_dedes.trHW.Antiphon031.incipit
-trHW.Antiphon031.text = tr.d069_en_US_dedes.trHW.Antiphon031.text
-
-trHW.Antiphon032.mode = tr.d069_en_US_dedes.trHW.Antiphon032.mode
-trHW.Antiphon032.incipit = tr.d069_en_US_dedes.trHW.Antiphon032.incipit
-trHW.Antiphon032.text = tr.d069_en_US_dedes.trHW.Antiphon032.text
-
-trHW.Antiphon033.mode = tr.d069_en_US_dedes.trHW.Antiphon033.mode
-trHW.Antiphon033.incipit = tr.d069_en_US_dedes.trHW.Antiphon033.incipit
-trHW.Antiphon033.text = tr.d069_en_US_dedes.trHW.Antiphon033.text
-
-trHW.Antiphon034.mode = tr.d069_en_US_dedes.trHW.Antiphon034.mode
-trHW.Antiphon034.incipit = tr.d069_en_US_dedes.trHW.Antiphon034.incipit
-trHW.Antiphon034.text = tr.d069_en_US_dedes.trHW.Antiphon034.text
-
-trHW.Antiphon035.mode = tr.d069_en_US_dedes.trHW.Antiphon035.mode
-trHW.Antiphon035.incipit = tr.d069_en_US_dedes.trHW.Antiphon035.incipit
-trHW.Antiphon035.text = tr.d069_en_US_dedes.trHW.Antiphon035.text
-
-trHW.Antiphon036.mode = tr.d069_en_US_dedes.trHW.Antiphon036.mode
-trHW.Antiphon036.incipit = tr.d069_en_US_dedes.trHW.Antiphon036.incipit
-trHW.Antiphon036.text = tr.d069_en_US_dedes.trHW.Antiphon036.text
-
-trHW.Antiphon03T.mode = tr.d069_en_US_dedes.trHW.Antiphon03T.mode
-trHW.Antiphon03T.incipit = tr.d069_en_US_dedes.trHW.Antiphon03T.incipit
-trHW.Antiphon03T.text = tr.d069_en_US_dedes.trHW.Antiphon03T.text
-
-trHW.Antiphon03Kathisma.mode = tr.d069_en_US_dedes.trHW.Antiphon03Kathisma.mode
-trHW.Antiphon03Kathisma.incipit = tr.d069_en_US_dedes.trHW.Antiphon03Kathisma.incipit
-trHW.Antiphon03Kathisma.text = tr.d069_en_US_dedes.trHW.Antiphon03Kathisma.text
-
-trHW.Antiphon04.title = tr.d069_en_US_dedes.trHW.Antiphon04.title
-trHW.Antiphon041.mode = tr.d069_en_US_dedes.trHW.Antiphon041.mode
-trHW.Antiphon041.incipit = tr.d069_en_US_dedes.trHW.Antiphon041.incipit
-trHW.Antiphon041.text = tr.d069_en_US_dedes.trHW.Antiphon041.text
-
-trHW.Antiphon042.mode = tr.d069_en_US_dedes.trHW.Antiphon042.mode
-trHW.Antiphon042.incipit = tr.d069_en_US_dedes.trHW.Antiphon042.incipit
-trHW.Antiphon042.text = tr.d069_en_US_dedes.trHW.Antiphon042.text
-
-trHW.Antiphon043.mode = tr.d069_en_US_dedes.trHW.Antiphon043.mode
-trHW.Antiphon043.incipit = tr.d069_en_US_dedes.trHW.Antiphon043.incipit
-trHW.Antiphon043.text = tr.d069_en_US_dedes.trHW.Antiphon043.text
-
-trHW.Antiphon04T.mode = tr.d069_en_US_dedes.trHW.Antiphon04T.mode
-trHW.Antiphon04T.incipit = tr.d069_en_US_dedes.trHW.Antiphon04T.incipit
-trHW.Antiphon04T.text = tr.d069_en_US_dedes.trHW.Antiphon04T.text
-
-trHW.Antiphon05.title = tr.d069_en_US_dedes.trHW.Antiphon05.title
-trHW.Antiphon051.mode = tr.d069_en_US_dedes.trHW.Antiphon051.mode
-trHW.Antiphon051.incipit = tr.d069_en_US_dedes.trHW.Antiphon051.incipit
-trHW.Antiphon051.text = tr.d069_en_US_dedes.trHW.Antiphon051.text
-
-trHW.Antiphon052.mode = tr.d069_en_US_dedes.trHW.Antiphon052.mode
-trHW.Antiphon052.incipit = tr.d069_en_US_dedes.trHW.Antiphon052.incipit
-trHW.Antiphon052.text = tr.d069_en_US_dedes.trHW.Antiphon052.text
-
-trHW.Antiphon05T.mode = tr.d069_en_US_dedes.trHW.Antiphon05T.mode
-trHW.Antiphon05T.incipit = tr.d069_en_US_dedes.trHW.Antiphon05T.incipit
-trHW.Antiphon05T.text = tr.d069_en_US_dedes.trHW.Antiphon05T.text
-
-trHW.Antiphon06.title = tr.d069_en_US_dedes.trHW.Antiphon06.title
-trHW.Antiphon061.mode = tr.d069_en_US_dedes.trHW.Antiphon061.mode
-trHW.Antiphon061.incipit = tr.d069_en_US_dedes.trHW.Antiphon061.incipit
-trHW.Antiphon061.text = tr.d069_en_US_dedes.trHW.Antiphon061.text
-
-trHW.Antiphon062.mode = tr.d069_en_US_dedes.trHW.Antiphon062.mode
-trHW.Antiphon062.incipit = tr.d069_en_US_dedes.trHW.Antiphon062.incipit
-trHW.Antiphon062.text = tr.d069_en_US_dedes.trHW.Antiphon062.text
-
-trHW.Antiphon063.mode = tr.d069_en_US_dedes.trHW.Antiphon063.mode
-trHW.Antiphon063.incipit = tr.d069_en_US_dedes.trHW.Antiphon063.incipit
-trHW.Antiphon063.text = tr.d069_en_US_dedes.trHW.Antiphon063.text
-
-trHW.Antiphon06T.mode = tr.d069_en_US_dedes.trHW.Antiphon06T.mode
-trHW.Antiphon06T.incipit = tr.d069_en_US_dedes.trHW.Antiphon06T.incipit
-trHW.Antiphon06T.text = tr.d069_en_US_dedes.trHW.Antiphon06T.text
-
-trHW.Antiphon06Kathisma.mode = tr.d069_en_US_dedes.trHW.Antiphon06Kathisma.mode
-trHW.Antiphon06Kathisma.incipit = tr.d069_en_US_dedes.trHW.Antiphon06Kathisma.incipit
-trHW.Antiphon06Kathisma.text = tr.d069_en_US_dedes.trHW.Antiphon06Kathisma.text
-
-trHW.Antiphon07.title = tr.d069_en_US_dedes.trHW.Antiphon07.title
-trHW.Antiphon071.mode = tr.d069_en_US_dedes.trHW.Antiphon071.mode
-trHW.Antiphon071.incipit = tr.d069_en_US_dedes.trHW.Antiphon071.incipit
-trHW.Antiphon071.text = tr.d069_en_US_dedes.trHW.Antiphon071.text
-
-trHW.Antiphon072.mode = tr.d069_en_US_dedes.trHW.Antiphon072.mode
-trHW.Antiphon072.incipit = tr.d069_en_US_dedes.trHW.Antiphon072.incipit
-trHW.Antiphon072.text = tr.d069_en_US_dedes.trHW.Antiphon072.text
-
-trHW.Antiphon07T.mode = tr.d069_en_US_dedes.trHW.Antiphon07T.mode
-trHW.Antiphon07T.incipit = tr.d069_en_US_dedes.trHW.Antiphon07T.incipit
-trHW.Antiphon07T.text = tr.d069_en_US_dedes.trHW.Antiphon07T.text
-
-trHW.Antiphon08.title = tr.d069_en_US_dedes.trHW.Antiphon08.title
-trHW.Antiphon081.mode = tr.d069_en_US_dedes.trHW.Antiphon081.mode
-trHW.Antiphon081.incipit = tr.d069_en_US_dedes.trHW.Antiphon081.incipit
-trHW.Antiphon081.text = tr.d069_en_US_dedes.trHW.Antiphon081.text
-
-trHW.Antiphon082.mode = tr.d069_en_US_dedes.trHW.Antiphon082.mode
-trHW.Antiphon082.incipit = tr.d069_en_US_dedes.trHW.Antiphon082.incipit
-trHW.Antiphon082.text = tr.d069_en_US_dedes.trHW.Antiphon082.text
-
-trHW.Antiphon08T.mode = tr.d069_en_US_dedes.trHW.Antiphon08T.mode
-trHW.Antiphon08T.incipit = tr.d069_en_US_dedes.trHW.Antiphon08T.incipit
-trHW.Antiphon08T.text = tr.d069_en_US_dedes.trHW.Antiphon08T.text
-
-trHW.Antiphon09.title = tr.d069_en_US_dedes.trHW.Antiphon09.title
-trHW.Antiphon091.mode = tr.d069_en_US_dedes.trHW.Antiphon091.mode
-trHW.Antiphon091.incipit = tr.d069_en_US_dedes.trHW.Antiphon091.incipit
-trHW.Antiphon091.text = tr.d069_en_US_dedes.trHW.Antiphon091.text
-
-trHW.Antiphon092.mode = tr.d069_en_US_dedes.trHW.Antiphon092.mode
-trHW.Antiphon092.incipit = tr.d069_en_US_dedes.trHW.Antiphon092.incipit
-trHW.Antiphon092.text = tr.d069_en_US_dedes.trHW.Antiphon092.text
-
-trHW.Antiphon09T.mode = tr.d069_en_US_dedes.trHW.Antiphon09T.mode
-trHW.Antiphon09T.incipit = tr.d069_en_US_dedes.trHW.Antiphon09T.incipit
-trHW.Antiphon09T.text = tr.d069_en_US_dedes.trHW.Antiphon09T.text
-
-trHW.Antiphon09Kathisma.mode = tr.d069_en_US_dedes.trHW.Antiphon09Kathisma.mode
-trHW.Antiphon09Kathisma.incipit = tr.d069_en_US_dedes.trHW.Antiphon09Kathisma.incipit
-trHW.Antiphon09Kathisma.text = tr.d069_en_US_dedes.trHW.Antiphon09Kathisma.text
-
-trHW.Antiphon10.title = tr.d069_en_US_dedes.trHW.Antiphon10.title
-trHW.Antiphon101.mode = tr.d069_en_US_dedes.trHW.Antiphon101.mode
-trHW.Antiphon101.incipit = tr.d069_en_US_dedes.trHW.Antiphon101.incipit
-trHW.Antiphon101.text = tr.d069_en_US_dedes.trHW.Antiphon101.text
-
-trHW.Antiphon102.mode = tr.d069_en_US_dedes.trHW.Antiphon102.mode
-trHW.Antiphon102.incipit = tr.d069_en_US_dedes.trHW.Antiphon102.incipit
-trHW.Antiphon102.text = tr.d069_en_US_dedes.trHW.Antiphon102.text
-
-trHW.Antiphon10T.mode = tr.d069_en_US_dedes.trHW.Antiphon10T.mode
-trHW.Antiphon10T.incipit = tr.d069_en_US_dedes.trHW.Antiphon10T.incipit
-trHW.Antiphon10T.text = tr.d069_en_US_dedes.trHW.Antiphon10T.text
-
-trHW.Antiphon11.title = tr.d069_en_US_dedes.trHW.Antiphon11.title
-trHW.Antiphon111.mode = tr.d069_en_US_dedes.trHW.Antiphon111.mode
-trHW.Antiphon111.incipit = tr.d069_en_US_dedes.trHW.Antiphon111.incipit
-trHW.Antiphon111.text = tr.d069_en_US_dedes.trHW.Antiphon111.text
-
-trHW.Antiphon112.mode = tr.d069_en_US_dedes.trHW.Antiphon112.mode
-trHW.Antiphon112.incipit = tr.d069_en_US_dedes.trHW.Antiphon112.incipit
-trHW.Antiphon112.text = tr.d069_en_US_dedes.trHW.Antiphon112.text
-
-trHW.Antiphon113.mode = tr.d069_en_US_dedes.trHW.Antiphon113.mode
-trHW.Antiphon113.incipit = tr.d069_en_US_dedes.trHW.Antiphon113.incipit
-trHW.Antiphon113.text = tr.d069_en_US_dedes.trHW.Antiphon113.text
-
-trHW.Antiphon11T.mode = tr.d069_en_US_dedes.trHW.Antiphon11T.mode
-trHW.Antiphon11T.incipit = tr.d069_en_US_dedes.trHW.Antiphon11T.incipit
-trHW.Antiphon11T.text = tr.d069_en_US_dedes.trHW.Antiphon11T.text
-
-trHW.Antiphon12.title = tr.d069_en_US_dedes.trHW.Antiphon12.title
-trHW.Antiphon121.mode = tr.d069_en_US_dedes.trHW.Antiphon121.mode
-trHW.Antiphon121.incipit = tr.d069_en_US_dedes.trHW.Antiphon121.incipit
-trHW.Antiphon121.text = tr.d069_en_US_dedes.trHW.Antiphon121.text
-
-trHW.Antiphon122.mode = tr.d069_en_US_dedes.trHW.Antiphon122.mode
-trHW.Antiphon122.incipit = tr.d069_en_US_dedes.trHW.Antiphon122.incipit
-trHW.Antiphon122.text = tr.d069_en_US_dedes.trHW.Antiphon122.text
-
-trHW.Antiphon123.mode = tr.d069_en_US_dedes.trHW.Antiphon123.mode
-trHW.Antiphon123.incipit = tr.d069_en_US_dedes.trHW.Antiphon123.incipit
-trHW.Antiphon123.text = tr.d069_en_US_dedes.trHW.Antiphon123.text
-
-trHW.Antiphon12T.mode = tr.d069_en_US_dedes.trHW.Antiphon12T.mode
-trHW.Antiphon12T.incipit = tr.d069_en_US_dedes.trHW.Antiphon12T.incipit
-trHW.Antiphon12T.text = tr.d069_en_US_dedes.trHW.Antiphon12T.text
-
-trHW.Antiphon12Kathisma.mode = tr.d069_en_US_dedes.trHW.Antiphon12Kathisma.mode
-trHW.Antiphon12Kathisma.incipit = tr.d069_en_US_dedes.trHW.Antiphon12Kathisma.incipit
-trHW.Antiphon12Kathisma.text = tr.d069_en_US_dedes.trHW.Antiphon12Kathisma.text
-
-trHW.Antiphon13.title = tr.d069_en_US_dedes.trHW.Antiphon13.title
-trHW.Antiphon131.mode = tr.d069_en_US_dedes.trHW.Antiphon131.mode
-trHW.Antiphon131.incipit = tr.d069_en_US_dedes.trHW.Antiphon131.incipit
-trHW.Antiphon131.text = tr.d069_en_US_dedes.trHW.Antiphon131.text
-
-trHW.Antiphon132.mode = tr.d069_en_US_dedes.trHW.Antiphon132.mode
-trHW.Antiphon132.incipit = tr.d069_en_US_dedes.trHW.Antiphon132.incipit
-trHW.Antiphon132.text = tr.d069_en_US_dedes.trHW.Antiphon132.text
-
-trHW.Antiphon13T.mode = tr.d069_en_US_dedes.trHW.Antiphon13T.mode
-trHW.Antiphon13T.incipit = tr.d069_en_US_dedes.trHW.Antiphon13T.incipit
-trHW.Antiphon13T.text = tr.d069_en_US_dedes.trHW.Antiphon13T.text
-
-trHW.Antiphon14.title = tr.d069_en_US_dedes.trHW.Antiphon14.title
-trHW.Antiphon141.mode = tr.d069_en_US_dedes.trHW.Antiphon141.mode
-trHW.Antiphon141.incipit = tr.d069_en_US_dedes.trHW.Antiphon141.incipit
-trHW.Antiphon141.text = tr.d069_en_US_dedes.trHW.Antiphon141.text
-
-trHW.Antiphon142.mode = tr.d069_en_US_dedes.trHW.Antiphon142.mode
-trHW.Antiphon142.incipit = tr.d069_en_US_dedes.trHW.Antiphon142.incipit
-trHW.Antiphon142.text = tr.d069_en_US_dedes.trHW.Antiphon142.text
-
-trHW.Antiphon14T.mode = tr.d069_en_US_dedes.trHW.Antiphon14T.mode
-trHW.Antiphon14T.incipit = tr.d069_en_US_dedes.trHW.Antiphon14T.incipit
-trHW.Antiphon14T.text = tr.d069_en_US_dedes.trHW.Antiphon14T.text
-
-trHW.Antiphon15.title = tr.d069_en_US_dedes.trHW.Antiphon15.title
-trHW.Antiphon151.mode = tr.d069_en_US_dedes.trHW.Antiphon151.mode
-trHW.Antiphon151.rubric = tr.d069_en_US_dedes.trHW.Antiphon151.rubric
-trHW.Antiphon151.incipit = tr.d069_en_US_dedes.trHW.Antiphon151.incipit
-trHW.Antiphon151.text = tr.d069_en_US_dedes.trHW.Antiphon151.text
-trHW.Antiphon1511.incipit = tr.d069_en_US_dedes.trHW.Antiphon1511.incipit
-trHW.Antiphon1511.text = tr.d069_en_US_dedes.trHW.Antiphon1511.text
-trHW.Antiphon1512.incipit = tr.d069_en_US_dedes.trHW.Antiphon1512.incipit
-trHW.Antiphon1512.text = tr.d069_en_US_dedes.trHW.Antiphon1512.text
-trHW.Antiphon1513.incipit = tr.d069_en_US_dedes.trHW.Antiphon1513.incipit
-trHW.Antiphon1513.text = tr.d069_en_US_dedes.trHW.Antiphon1513.text
-trHW.Antiphon1514.incipit = tr.d069_en_US_dedes.trHW.Antiphon1514.incipit
-trHW.Antiphon1514.text = tr.d069_en_US_dedes.trHW.Antiphon1514.text
-trHW.Antiphon1515.incipit = tr.d069_en_US_dedes.trHW.Antiphon1515.incipit
-trHW.Antiphon1515.text = tr.d069_en_US_dedes.trHW.Antiphon1515.text
-trHW.Antiphon1516.incipit = tr.d069_en_US_dedes.trHW.Antiphon1516.incipit
-trHW.Antiphon1516.text = tr.d069_en_US_dedes.trHW.Antiphon1516.text
-trHW.Antiphon1517.incipit = tr.d069_en_US_dedes.trHW.Antiphon1517.incipit
-trHW.Antiphon1517.text = tr.d069_en_US_dedes.trHW.Antiphon1517.text
-trHW.Antiphon1518.incipit = tr.d069_en_US_dedes.trHW.Antiphon1518.incipit
-trHW.Antiphon1518.text = tr.d069_en_US_dedes.trHW.Antiphon1518.text
-
-trHW.Antiphon152.mode = tr.d069_en_US_dedes.trHW.Antiphon152.mode
-trHW.Antiphon152.incipit = tr.d069_en_US_dedes.trHW.Antiphon152.incipit
-trHW.Antiphon152.text = tr.d069_en_US_dedes.trHW.Antiphon152.text
-
-trHW.Antiphon153.mode = tr.d069_en_US_dedes.trHW.Antiphon153.mode
-trHW.Antiphon153.incipit = tr.d069_en_US_dedes.trHW.Antiphon153.incipit
-trHW.Antiphon153.text = tr.d069_en_US_dedes.trHW.Antiphon153.text
-
-trHW.Antiphon15T.mode = tr.d069_en_US_dedes.trHW.Antiphon15T.mode
-trHW.Antiphon15T.incipit = tr.d069_en_US_dedes.trHW.Antiphon15T.incipit
-trHW.Antiphon15T.text = tr.d069_en_US_dedes.trHW.Antiphon15T.text
-
-trHW.Antiphon15Kathisma.mode = tr.d069_en_US_dedes.trHW.Antiphon15Kathisma.mode
-trHW.Antiphon15Kathisma.incipit = tr.d069_en_US_dedes.trHW.Antiphon15Kathisma.incipit
-trHW.Antiphon15Kathisma.text = tr.d069_en_US_dedes.trHW.Antiphon15Kathisma.text
-
-trHW.Beatitudes01.mode = tr.d069_en_US_dedes.trHW.Beatitudes01.mode
-trHW.Beatutides01.melody = tr.d069_en_US_dedes.trHW.Beatutides01.melody
-trHW.Beatitudes01.incipit = tr.d069_en_US_dedes.trHW.Beatitudes01.incipit
-trHW.Beatitudes01.text = tr.d069_en_US_dedes.trHW.Beatitudes01.text
-
-trHW.Beatitudes02.mode = tr.d069_en_US_dedes.trHW.Beatitudes02.mode
-trHW.Beatutides02.melody = tr.d069_en_US_dedes.trHW.Beatutides02.melody
-trHW.Beatitudes02.incipit = tr.d069_en_US_dedes.trHW.Beatitudes02.incipit
-trHW.Beatitudes02.text = tr.d069_en_US_dedes.trHW.Beatitudes02.text
-
-trHW.Beatitudes03.mode = tr.d069_en_US_dedes.trHW.Beatitudes03.mode
-trHW.Beatutides03.melody = tr.d069_en_US_dedes.trHW.Beatutides03.melody
-trHW.Beatitudes03.incipit = tr.d069_en_US_dedes.trHW.Beatitudes03.incipit
-trHW.Beatitudes03.text = tr.d069_en_US_dedes.trHW.Beatitudes03.text
-
-trHW.Beatitudes04.mode = tr.d069_en_US_dedes.trHW.Beatitudes04.mode
-trHW.Beatutides04.melody = tr.d069_en_US_dedes.trHW.Beatutides04.melody
-trHW.Beatitudes04.incipit = tr.d069_en_US_dedes.trHW.Beatitudes04.incipit
-trHW.Beatitudes04.text = tr.d069_en_US_dedes.trHW.Beatitudes04.text
-
-trHW.Beatitudes05.mode = tr.d069_en_US_dedes.trHW.Beatitudes05.mode
-trHW.Beatutides05.melody = tr.d069_en_US_dedes.trHW.Beatutides05.melody
-trHW.Beatitudes05.incipit = tr.d069_en_US_dedes.trHW.Beatitudes05.incipit
-trHW.Beatitudes05.text = tr.d069_en_US_dedes.trHW.Beatitudes05.text
-
-trHW.Beatitudes06.mode = tr.d069_en_US_dedes.trHW.Beatitudes06.mode
-trHW.Beatutides06.melody = tr.d069_en_US_dedes.trHW.Beatutides06.melody
-trHW.Beatitudes06.incipit = tr.d069_en_US_dedes.trHW.Beatitudes06.incipit
-trHW.Beatitudes06.text = tr.d069_en_US_dedes.trHW.Beatitudes06.text
-
-trHW.Beatitudes07.mode = tr.d069_en_US_dedes.trHW.Beatitudes07.mode
-trHW.Beatutides07.melody = tr.d069_en_US_dedes.trHW.Beatutides07.melody
-trHW.Beatitudes07.incipit = tr.d069_en_US_dedes.trHW.Beatitudes07.incipit
-trHW.Beatitudes07.text = tr.d069_en_US_dedes.trHW.Beatitudes07.text
-
-trHW.Beatitudes08.mode = tr.d069_en_US_dedes.trHW.Beatitudes08.mode
-trHW.Beatutides08.melody = tr.d069_en_US_dedes.trHW.Beatutides08.melody
-trHW.Beatitudes08.incipit = tr.d069_en_US_dedes.trHW.Beatitudes08.incipit
-trHW.Beatitudes08.text = tr.d069_en_US_dedes.trHW.Beatitudes08.text
-
-trHW.BeatitudesTr.verse = tr.d069_en_US_dedes.trHW.BeatitudesTr.verse
-trHW.BeatitudesTr.mode = tr.d069_en_US_dedes.trHW.BeatitudesTr.mode
-trHW.BeatutidesTr.melody = tr.d069_en_US_dedes.trHW.BeatutidesTr.melody
-trHW.BeatitudesTr.incipit = tr.d069_en_US_dedes.trHW.BeatitudesTr.incipit
-trHW.BeatitudesTr.text = tr.d069_en_US_dedes.trHW.BeatitudesTr.text
-
-trHW.BeatitudesT.verse = tr.d069_en_US_dedes.trHW.BeatitudesT.verse
-trHW.BeatitudesT.mode = tr.d069_en_US_dedes.trHW.BeatitudesT.mode
-trHW.BeatutidesT.melody = tr.d069_en_US_dedes.trHW.BeatutidesT.melody
-trHW.BeatitudesT.incipit = tr.d069_en_US_dedes.trHW.BeatitudesT.incipit
-trHW.BeatitudesT.text = tr.d069_en_US_dedes.trHW.BeatitudesT.text
+trMA.MM.Alleluia.text = tr.d069_en_US_dedes.trMA.MM.Alleluia.text // for media
+
+trMA.Troparion.mode = tr.d069_en_US_dedes.trMA.Troparion.mode
+trMA.Troparion.melody = tr.d069_en_US_dedes.trMA.Troparion.melody
+trMA.Troparion.incipit = tr.d069_en_US_dedes.trMA.Troparion.incipit
+trMA.Troparion.text = tr.d069_en_US_dedes.trMA.Troparion.text
+
+trMA.Antiphon01.title = tr.d069_en_US_dedes.trMA.Antiphon01.title
+trMA.Antiphon011.mode = tr.d069_en_US_dedes.trMA.Antiphon011.mode
+trMA.Antiphon011.incipit = tr.d069_en_US_dedes.trMA.Antiphon011.incipit
+trMA.Antiphon011.text = tr.d069_en_US_dedes.trMA.Antiphon011.text
+
+trMA.Antiphon012.mode = tr.d069_en_US_dedes.trMA.Antiphon012.mode
+trMA.Antiphon012.incipit = tr.d069_en_US_dedes.trMA.Antiphon012.incipit
+trMA.Antiphon012.text = tr.d069_en_US_dedes.trMA.Antiphon012.text
+
+trMA.Antiphon013.mode = tr.d069_en_US_dedes.trMA.Antiphon013.mode
+trMA.Antiphon013.incipit = tr.d069_en_US_dedes.trMA.Antiphon013.incipit
+trMA.Antiphon013.text = tr.d069_en_US_dedes.trMA.Antiphon013.text
+
+trMA.Antiphon01T.mode = tr.d069_en_US_dedes.trMA.Antiphon01T.mode
+trMA.Antiphon01T.incipit = tr.d069_en_US_dedes.trMA.Antiphon01T.incipit
+trMA.Antiphon01T.text = tr.d069_en_US_dedes.trMA.Antiphon01T.text
+
+trMA.Antiphon02.title = tr.d069_en_US_dedes.trMA.Antiphon02.title
+trMA.Antiphon021.mode = tr.d069_en_US_dedes.trMA.Antiphon021.mode
+trMA.Antiphon021.incipit = tr.d069_en_US_dedes.trMA.Antiphon021.incipit
+trMA.Antiphon021.text = tr.d069_en_US_dedes.trMA.Antiphon021.text
+
+trMA.Antiphon022.mode = tr.d069_en_US_dedes.trMA.Antiphon022.mode
+trMA.Antiphon022.incipit = tr.d069_en_US_dedes.trMA.Antiphon022.incipit
+trMA.Antiphon022.text = tr.d069_en_US_dedes.trMA.Antiphon022.text
+
+trMA.Antiphon02T.mode = tr.d069_en_US_dedes.trMA.Antiphon02T.mode
+trMA.Antiphon02T.incipit = tr.d069_en_US_dedes.trMA.Antiphon02T.incipit
+trMA.Antiphon02T.text = tr.d069_en_US_dedes.trMA.Antiphon02T.text
+
+trMA.Antiphon03.title = tr.d069_en_US_dedes.trMA.Antiphon03.title
+trMA.Antiphon031.mode = tr.d069_en_US_dedes.trMA.Antiphon031.mode
+trMA.Antiphon031.incipit = tr.d069_en_US_dedes.trMA.Antiphon031.incipit
+trMA.Antiphon031.text = tr.d069_en_US_dedes.trMA.Antiphon031.text
+
+trMA.Antiphon032.mode = tr.d069_en_US_dedes.trMA.Antiphon032.mode
+trMA.Antiphon032.incipit = tr.d069_en_US_dedes.trMA.Antiphon032.incipit
+trMA.Antiphon032.text = tr.d069_en_US_dedes.trMA.Antiphon032.text
+
+trMA.Antiphon033.mode = tr.d069_en_US_dedes.trMA.Antiphon033.mode
+trMA.Antiphon033.incipit = tr.d069_en_US_dedes.trMA.Antiphon033.incipit
+trMA.Antiphon033.text = tr.d069_en_US_dedes.trMA.Antiphon033.text
+
+trMA.Antiphon034.mode = tr.d069_en_US_dedes.trMA.Antiphon034.mode
+trMA.Antiphon034.incipit = tr.d069_en_US_dedes.trMA.Antiphon034.incipit
+trMA.Antiphon034.text = tr.d069_en_US_dedes.trMA.Antiphon034.text
+
+trMA.Antiphon035.mode = tr.d069_en_US_dedes.trMA.Antiphon035.mode
+trMA.Antiphon035.incipit = tr.d069_en_US_dedes.trMA.Antiphon035.incipit
+trMA.Antiphon035.text = tr.d069_en_US_dedes.trMA.Antiphon035.text
+
+trMA.Antiphon036.mode = tr.d069_en_US_dedes.trMA.Antiphon036.mode
+trMA.Antiphon036.incipit = tr.d069_en_US_dedes.trMA.Antiphon036.incipit
+trMA.Antiphon036.text = tr.d069_en_US_dedes.trMA.Antiphon036.text
+
+trMA.Antiphon03T.mode = tr.d069_en_US_dedes.trMA.Antiphon03T.mode
+trMA.Antiphon03T.incipit = tr.d069_en_US_dedes.trMA.Antiphon03T.incipit
+trMA.Antiphon03T.text = tr.d069_en_US_dedes.trMA.Antiphon03T.text
+
+trMA.Antiphon03Kathisma.mode = tr.d069_en_US_dedes.trMA.Antiphon03Kathisma.mode
+trMA.Antiphon03Kathisma.incipit = tr.d069_en_US_dedes.trMA.Antiphon03Kathisma.incipit
+trMA.Antiphon03Kathisma.text = tr.d069_en_US_dedes.trMA.Antiphon03Kathisma.text
+
+trMA.Antiphon04.title = tr.d069_en_US_dedes.trMA.Antiphon04.title
+trMA.Antiphon041.mode = tr.d069_en_US_dedes.trMA.Antiphon041.mode
+trMA.Antiphon041.incipit = tr.d069_en_US_dedes.trMA.Antiphon041.incipit
+trMA.Antiphon041.text = tr.d069_en_US_dedes.trMA.Antiphon041.text
+
+trMA.Antiphon042.mode = tr.d069_en_US_dedes.trMA.Antiphon042.mode
+trMA.Antiphon042.incipit = tr.d069_en_US_dedes.trMA.Antiphon042.incipit
+trMA.Antiphon042.text = tr.d069_en_US_dedes.trMA.Antiphon042.text
+
+trMA.Antiphon043.mode = tr.d069_en_US_dedes.trMA.Antiphon043.mode
+trMA.Antiphon043.incipit = tr.d069_en_US_dedes.trMA.Antiphon043.incipit
+trMA.Antiphon043.text = tr.d069_en_US_dedes.trMA.Antiphon043.text
+
+trMA.Antiphon04T.mode = tr.d069_en_US_dedes.trMA.Antiphon04T.mode
+trMA.Antiphon04T.incipit = tr.d069_en_US_dedes.trMA.Antiphon04T.incipit
+trMA.Antiphon04T.text = tr.d069_en_US_dedes.trMA.Antiphon04T.text
+
+trMA.Antiphon05.title = tr.d069_en_US_dedes.trMA.Antiphon05.title
+trMA.Antiphon051.mode = tr.d069_en_US_dedes.trMA.Antiphon051.mode
+trMA.Antiphon051.incipit = tr.d069_en_US_dedes.trMA.Antiphon051.incipit
+trMA.Antiphon051.text = tr.d069_en_US_dedes.trMA.Antiphon051.text
+
+trMA.Antiphon052.mode = tr.d069_en_US_dedes.trMA.Antiphon052.mode
+trMA.Antiphon052.incipit = tr.d069_en_US_dedes.trMA.Antiphon052.incipit
+trMA.Antiphon052.text = tr.d069_en_US_dedes.trMA.Antiphon052.text
+
+trMA.Antiphon05T.mode = tr.d069_en_US_dedes.trMA.Antiphon05T.mode
+trMA.Antiphon05T.incipit = tr.d069_en_US_dedes.trMA.Antiphon05T.incipit
+trMA.Antiphon05T.text = tr.d069_en_US_dedes.trMA.Antiphon05T.text
+
+trMA.Antiphon06.title = tr.d069_en_US_dedes.trMA.Antiphon06.title
+trMA.Antiphon061.mode = tr.d069_en_US_dedes.trMA.Antiphon061.mode
+trMA.Antiphon061.incipit = tr.d069_en_US_dedes.trMA.Antiphon061.incipit
+trMA.Antiphon061.text = tr.d069_en_US_dedes.trMA.Antiphon061.text
+
+trMA.Antiphon062.mode = tr.d069_en_US_dedes.trMA.Antiphon062.mode
+trMA.Antiphon062.incipit = tr.d069_en_US_dedes.trMA.Antiphon062.incipit
+trMA.Antiphon062.text = tr.d069_en_US_dedes.trMA.Antiphon062.text
+
+trMA.Antiphon063.mode = tr.d069_en_US_dedes.trMA.Antiphon063.mode
+trMA.Antiphon063.incipit = tr.d069_en_US_dedes.trMA.Antiphon063.incipit
+trMA.Antiphon063.text = tr.d069_en_US_dedes.trMA.Antiphon063.text
+
+trMA.Antiphon06T.mode = tr.d069_en_US_dedes.trMA.Antiphon06T.mode
+trMA.Antiphon06T.incipit = tr.d069_en_US_dedes.trMA.Antiphon06T.incipit
+trMA.Antiphon06T.text = tr.d069_en_US_dedes.trMA.Antiphon06T.text
+
+trMA.Antiphon06Kathisma.mode = tr.d069_en_US_dedes.trMA.Antiphon06Kathisma.mode
+trMA.Antiphon06Kathisma.incipit = tr.d069_en_US_dedes.trMA.Antiphon06Kathisma.incipit
+trMA.Antiphon06Kathisma.text = tr.d069_en_US_dedes.trMA.Antiphon06Kathisma.text
+
+trMA.Antiphon07.title = tr.d069_en_US_dedes.trMA.Antiphon07.title
+trMA.Antiphon071.mode = tr.d069_en_US_dedes.trMA.Antiphon071.mode
+trMA.Antiphon071.incipit = tr.d069_en_US_dedes.trMA.Antiphon071.incipit
+trMA.Antiphon071.text = tr.d069_en_US_dedes.trMA.Antiphon071.text
+
+trMA.Antiphon072.mode = tr.d069_en_US_dedes.trMA.Antiphon072.mode
+trMA.Antiphon072.incipit = tr.d069_en_US_dedes.trMA.Antiphon072.incipit
+trMA.Antiphon072.text = tr.d069_en_US_dedes.trMA.Antiphon072.text
+
+trMA.Antiphon07T.mode = tr.d069_en_US_dedes.trMA.Antiphon07T.mode
+trMA.Antiphon07T.incipit = tr.d069_en_US_dedes.trMA.Antiphon07T.incipit
+trMA.Antiphon07T.text = tr.d069_en_US_dedes.trMA.Antiphon07T.text
+
+trMA.Antiphon08.title = tr.d069_en_US_dedes.trMA.Antiphon08.title
+trMA.Antiphon081.mode = tr.d069_en_US_dedes.trMA.Antiphon081.mode
+trMA.Antiphon081.incipit = tr.d069_en_US_dedes.trMA.Antiphon081.incipit
+trMA.Antiphon081.text = tr.d069_en_US_dedes.trMA.Antiphon081.text
+
+trMA.Antiphon082.mode = tr.d069_en_US_dedes.trMA.Antiphon082.mode
+trMA.Antiphon082.incipit = tr.d069_en_US_dedes.trMA.Antiphon082.incipit
+trMA.Antiphon082.text = tr.d069_en_US_dedes.trMA.Antiphon082.text
+
+trMA.Antiphon08T.mode = tr.d069_en_US_dedes.trMA.Antiphon08T.mode
+trMA.Antiphon08T.incipit = tr.d069_en_US_dedes.trMA.Antiphon08T.incipit
+trMA.Antiphon08T.text = tr.d069_en_US_dedes.trMA.Antiphon08T.text
+
+trMA.Antiphon09.title = tr.d069_en_US_dedes.trMA.Antiphon09.title
+trMA.Antiphon091.mode = tr.d069_en_US_dedes.trMA.Antiphon091.mode
+trMA.Antiphon091.incipit = tr.d069_en_US_dedes.trMA.Antiphon091.incipit
+trMA.Antiphon091.text = tr.d069_en_US_dedes.trMA.Antiphon091.text
+
+trMA.Antiphon092.mode = tr.d069_en_US_dedes.trMA.Antiphon092.mode
+trMA.Antiphon092.incipit = tr.d069_en_US_dedes.trMA.Antiphon092.incipit
+trMA.Antiphon092.text = tr.d069_en_US_dedes.trMA.Antiphon092.text
+
+trMA.Antiphon09T.mode = tr.d069_en_US_dedes.trMA.Antiphon09T.mode
+trMA.Antiphon09T.incipit = tr.d069_en_US_dedes.trMA.Antiphon09T.incipit
+trMA.Antiphon09T.text = tr.d069_en_US_dedes.trMA.Antiphon09T.text
+
+trMA.Antiphon09Kathisma.mode = tr.d069_en_US_dedes.trMA.Antiphon09Kathisma.mode
+trMA.Antiphon09Kathisma.incipit = tr.d069_en_US_dedes.trMA.Antiphon09Kathisma.incipit
+trMA.Antiphon09Kathisma.text = tr.d069_en_US_dedes.trMA.Antiphon09Kathisma.text
+
+trMA.Antiphon10.title = tr.d069_en_US_dedes.trMA.Antiphon10.title
+trMA.Antiphon101.mode = tr.d069_en_US_dedes.trMA.Antiphon101.mode
+trMA.Antiphon101.incipit = tr.d069_en_US_dedes.trMA.Antiphon101.incipit
+trMA.Antiphon101.text = tr.d069_en_US_dedes.trMA.Antiphon101.text
+
+trMA.Antiphon102.mode = tr.d069_en_US_dedes.trMA.Antiphon102.mode
+trMA.Antiphon102.incipit = tr.d069_en_US_dedes.trMA.Antiphon102.incipit
+trMA.Antiphon102.text = tr.d069_en_US_dedes.trMA.Antiphon102.text
+
+trMA.Antiphon10T.mode = tr.d069_en_US_dedes.trMA.Antiphon10T.mode
+trMA.Antiphon10T.incipit = tr.d069_en_US_dedes.trMA.Antiphon10T.incipit
+trMA.Antiphon10T.text = tr.d069_en_US_dedes.trMA.Antiphon10T.text
+
+trMA.Antiphon11.title = tr.d069_en_US_dedes.trMA.Antiphon11.title
+trMA.Antiphon111.mode = tr.d069_en_US_dedes.trMA.Antiphon111.mode
+trMA.Antiphon111.incipit = tr.d069_en_US_dedes.trMA.Antiphon111.incipit
+trMA.Antiphon111.text = tr.d069_en_US_dedes.trMA.Antiphon111.text
+
+trMA.Antiphon112.mode = tr.d069_en_US_dedes.trMA.Antiphon112.mode
+trMA.Antiphon112.incipit = tr.d069_en_US_dedes.trMA.Antiphon112.incipit
+trMA.Antiphon112.text = tr.d069_en_US_dedes.trMA.Antiphon112.text
+
+trMA.Antiphon113.mode = tr.d069_en_US_dedes.trMA.Antiphon113.mode
+trMA.Antiphon113.incipit = tr.d069_en_US_dedes.trMA.Antiphon113.incipit
+trMA.Antiphon113.text = tr.d069_en_US_dedes.trMA.Antiphon113.text
+
+trMA.Antiphon11T.mode = tr.d069_en_US_dedes.trMA.Antiphon11T.mode
+trMA.Antiphon11T.incipit = tr.d069_en_US_dedes.trMA.Antiphon11T.incipit
+trMA.Antiphon11T.text = tr.d069_en_US_dedes.trMA.Antiphon11T.text
+
+trMA.Antiphon12.title = tr.d069_en_US_dedes.trMA.Antiphon12.title
+trMA.Antiphon121.mode = tr.d069_en_US_dedes.trMA.Antiphon121.mode
+trMA.Antiphon121.incipit = tr.d069_en_US_dedes.trMA.Antiphon121.incipit
+trMA.Antiphon121.text = tr.d069_en_US_dedes.trMA.Antiphon121.text
+
+trMA.Antiphon122.mode = tr.d069_en_US_dedes.trMA.Antiphon122.mode
+trMA.Antiphon122.incipit = tr.d069_en_US_dedes.trMA.Antiphon122.incipit
+trMA.Antiphon122.text = tr.d069_en_US_dedes.trMA.Antiphon122.text
+
+trMA.Antiphon123.mode = tr.d069_en_US_dedes.trMA.Antiphon123.mode
+trMA.Antiphon123.incipit = tr.d069_en_US_dedes.trMA.Antiphon123.incipit
+trMA.Antiphon123.text = tr.d069_en_US_dedes.trMA.Antiphon123.text
+
+trMA.Antiphon12T.mode = tr.d069_en_US_dedes.trMA.Antiphon12T.mode
+trMA.Antiphon12T.incipit = tr.d069_en_US_dedes.trMA.Antiphon12T.incipit
+trMA.Antiphon12T.text = tr.d069_en_US_dedes.trMA.Antiphon12T.text
+
+trMA.Antiphon12Kathisma.mode = tr.d069_en_US_dedes.trMA.Antiphon12Kathisma.mode
+trMA.Antiphon12Kathisma.incipit = tr.d069_en_US_dedes.trMA.Antiphon12Kathisma.incipit
+trMA.Antiphon12Kathisma.text = tr.d069_en_US_dedes.trMA.Antiphon12Kathisma.text
+
+trMA.Antiphon13.title = tr.d069_en_US_dedes.trMA.Antiphon13.title
+trMA.Antiphon131.mode = tr.d069_en_US_dedes.trMA.Antiphon131.mode
+trMA.Antiphon131.incipit = tr.d069_en_US_dedes.trMA.Antiphon131.incipit
+trMA.Antiphon131.text = tr.d069_en_US_dedes.trMA.Antiphon131.text
+
+trMA.Antiphon132.mode = tr.d069_en_US_dedes.trMA.Antiphon132.mode
+trMA.Antiphon132.incipit = tr.d069_en_US_dedes.trMA.Antiphon132.incipit
+trMA.Antiphon132.text = tr.d069_en_US_dedes.trMA.Antiphon132.text
+
+trMA.Antiphon13T.mode = tr.d069_en_US_dedes.trMA.Antiphon13T.mode
+trMA.Antiphon13T.incipit = tr.d069_en_US_dedes.trMA.Antiphon13T.incipit
+trMA.Antiphon13T.text = tr.d069_en_US_dedes.trMA.Antiphon13T.text
+
+trMA.Antiphon14.title = tr.d069_en_US_dedes.trMA.Antiphon14.title
+trMA.Antiphon141.mode = tr.d069_en_US_dedes.trMA.Antiphon141.mode
+trMA.Antiphon141.incipit = tr.d069_en_US_dedes.trMA.Antiphon141.incipit
+trMA.Antiphon141.text = tr.d069_en_US_dedes.trMA.Antiphon141.text
+
+trMA.Antiphon142.mode = tr.d069_en_US_dedes.trMA.Antiphon142.mode
+trMA.Antiphon142.incipit = tr.d069_en_US_dedes.trMA.Antiphon142.incipit
+trMA.Antiphon142.text = tr.d069_en_US_dedes.trMA.Antiphon142.text
+
+trMA.Antiphon14T.mode = tr.d069_en_US_dedes.trMA.Antiphon14T.mode
+trMA.Antiphon14T.incipit = tr.d069_en_US_dedes.trMA.Antiphon14T.incipit
+trMA.Antiphon14T.text = tr.d069_en_US_dedes.trMA.Antiphon14T.text
+
+trMA.Antiphon15.title = tr.d069_en_US_dedes.trMA.Antiphon15.title
+trMA.Antiphon151.mode = tr.d069_en_US_dedes.trMA.Antiphon151.mode
+trMA.Antiphon151.rubric = tr.d069_en_US_dedes.trMA.Antiphon151.rubric
+trMA.Antiphon151.incipit = tr.d069_en_US_dedes.trMA.Antiphon151.incipit
+trMA.Antiphon151.text = tr.d069_en_US_dedes.trMA.Antiphon151.text
+trMA.Antiphon1511.incipit = tr.d069_en_US_dedes.trMA.Antiphon1511.incipit
+trMA.Antiphon1511.text = tr.d069_en_US_dedes.trMA.Antiphon1511.text
+trMA.Antiphon1512.incipit = tr.d069_en_US_dedes.trMA.Antiphon1512.incipit
+trMA.Antiphon1512.text = tr.d069_en_US_dedes.trMA.Antiphon1512.text
+trMA.Antiphon1513.incipit = tr.d069_en_US_dedes.trMA.Antiphon1513.incipit
+trMA.Antiphon1513.text = tr.d069_en_US_dedes.trMA.Antiphon1513.text
+trMA.Antiphon1514.incipit = tr.d069_en_US_dedes.trMA.Antiphon1514.incipit
+trMA.Antiphon1514.text = tr.d069_en_US_dedes.trMA.Antiphon1514.text
+trMA.Antiphon1515.incipit = tr.d069_en_US_dedes.trMA.Antiphon1515.incipit
+trMA.Antiphon1515.text = tr.d069_en_US_dedes.trMA.Antiphon1515.text
+trMA.Antiphon1516.incipit = tr.d069_en_US_dedes.trMA.Antiphon1516.incipit
+trMA.Antiphon1516.text = tr.d069_en_US_dedes.trMA.Antiphon1516.text
+trMA.Antiphon1517.incipit = tr.d069_en_US_dedes.trMA.Antiphon1517.incipit
+trMA.Antiphon1517.text = tr.d069_en_US_dedes.trMA.Antiphon1517.text
+trMA.Antiphon1518.incipit = tr.d069_en_US_dedes.trMA.Antiphon1518.incipit
+trMA.Antiphon1518.text = tr.d069_en_US_dedes.trMA.Antiphon1518.text
+
+trMA.Antiphon152.mode = tr.d069_en_US_dedes.trMA.Antiphon152.mode
+trMA.Antiphon152.incipit = tr.d069_en_US_dedes.trMA.Antiphon152.incipit
+trMA.Antiphon152.text = tr.d069_en_US_dedes.trMA.Antiphon152.text
+
+trMA.Antiphon153.mode = tr.d069_en_US_dedes.trMA.Antiphon153.mode
+trMA.Antiphon153.incipit = tr.d069_en_US_dedes.trMA.Antiphon153.incipit
+trMA.Antiphon153.text = tr.d069_en_US_dedes.trMA.Antiphon153.text
+
+trMA.Antiphon15T.mode = tr.d069_en_US_dedes.trMA.Antiphon15T.mode
+trMA.Antiphon15T.incipit = tr.d069_en_US_dedes.trMA.Antiphon15T.incipit
+trMA.Antiphon15T.text = tr.d069_en_US_dedes.trMA.Antiphon15T.text
+
+trMA.Antiphon15Kathisma.mode = tr.d069_en_US_dedes.trMA.Antiphon15Kathisma.mode
+trMA.Antiphon15Kathisma.incipit = tr.d069_en_US_dedes.trMA.Antiphon15Kathisma.incipit
+trMA.Antiphon15Kathisma.text = tr.d069_en_US_dedes.trMA.Antiphon15Kathisma.text
+
+trMA.Beatitudes01.mode = tr.d069_en_US_dedes.trMA.Beatitudes01.mode
+trMA.Beatitudes01.melody = tr.d069_en_US_dedes.trMA.Beatitudes01.melody
+trMA.Beatitudes01.incipit = tr.d069_en_US_dedes.trMA.Beatitudes01.incipit
+trMA.Beatitudes01.text = tr.d069_en_US_dedes.trMA.Beatitudes01.text
+
+trMA.Beatitudes02.mode = tr.d069_en_US_dedes.trMA.Beatitudes02.mode
+trMA.Beatitudes02.melody = tr.d069_en_US_dedes.trMA.Beatitudes02.melody
+trMA.Beatitudes02.incipit = tr.d069_en_US_dedes.trMA.Beatitudes02.incipit
+trMA.Beatitudes02.text = tr.d069_en_US_dedes.trMA.Beatitudes02.text
+
+trMA.Beatitudes03.mode = tr.d069_en_US_dedes.trMA.Beatitudes03.mode
+trMA.Beatitudes03.melody = tr.d069_en_US_dedes.trMA.Beatitudes03.melody
+trMA.Beatitudes03.incipit = tr.d069_en_US_dedes.trMA.Beatitudes03.incipit
+trMA.Beatitudes03.text = tr.d069_en_US_dedes.trMA.Beatitudes03.text
+
+trMA.Beatitudes04.mode = tr.d069_en_US_dedes.trMA.Beatitudes04.mode
+trMA.Beatitudes04.melody = tr.d069_en_US_dedes.trMA.Beatitudes04.melody
+trMA.Beatitudes04.incipit = tr.d069_en_US_dedes.trMA.Beatitudes04.incipit
+trMA.Beatitudes04.text = tr.d069_en_US_dedes.trMA.Beatitudes04.text
+
+trMA.Beatitudes05.mode = tr.d069_en_US_dedes.trMA.Beatitudes05.mode
+trMA.Beatitudes05.melody = tr.d069_en_US_dedes.trMA.Beatitudes05.melody
+trMA.Beatitudes05.incipit = tr.d069_en_US_dedes.trMA.Beatitudes05.incipit
+trMA.Beatitudes05.text = tr.d069_en_US_dedes.trMA.Beatitudes05.text
+
+trMA.Beatitudes06.mode = tr.d069_en_US_dedes.trMA.Beatitudes06.mode
+trMA.Beatitudes06.melody = tr.d069_en_US_dedes.trMA.Beatitudes06.melody
+trMA.Beatitudes06.incipit = tr.d069_en_US_dedes.trMA.Beatitudes06.incipit
+trMA.Beatitudes06.text = tr.d069_en_US_dedes.trMA.Beatitudes06.text
+
+trMA.Beatitudes07.mode = tr.d069_en_US_dedes.trMA.Beatitudes07.mode
+trMA.Beatitudes07.melody = tr.d069_en_US_dedes.trMA.Beatitudes07.melody
+trMA.Beatitudes07.incipit = tr.d069_en_US_dedes.trMA.Beatitudes07.incipit
+trMA.Beatitudes07.text = tr.d069_en_US_dedes.trMA.Beatitudes07.text
+
+trMA.Beatitudes08.mode = tr.d069_en_US_dedes.trMA.Beatitudes08.mode
+trMA.Beatitudes08.melody = tr.d069_en_US_dedes.trMA.Beatitudes08.melody
+trMA.Beatitudes08.incipit = tr.d069_en_US_dedes.trMA.Beatitudes08.incipit
+trMA.Beatitudes08.text = tr.d069_en_US_dedes.trMA.Beatitudes08.text
+
+trMA.BeatitudesTr.verse = tr.d069_en_US_dedes.trMA.BeatitudesTr.verse
+trMA.BeatitudesTr.mode = tr.d069_en_US_dedes.trMA.BeatitudesTr.mode
+trMA.BeatitudesTr.melody = tr.d069_en_US_dedes.trMA.BeatitudesTr.melody
+trMA.BeatitudesTr.incipit = tr.d069_en_US_dedes.trMA.BeatitudesTr.incipit
+trMA.BeatitudesTr.text = tr.d069_en_US_dedes.trMA.BeatitudesTr.text
+
+trMA.BeatitudesT.verse = tr.d069_en_US_dedes.trMA.BeatitudesT.verse
+trMA.BeatitudesT.mode = tr.d069_en_US_dedes.trMA.BeatitudesT.mode
+trMA.BeatitudesT.melody = tr.d069_en_US_dedes.trMA.BeatitudesT.melody
+trMA.BeatitudesT.incipit = tr.d069_en_US_dedes.trMA.BeatitudesT.incipit
+trMA.BeatitudesT.text = tr.d069_en_US_dedes.trMA.BeatitudesT.text
 
 trMA.C1.acrostic.title = tr.d069_en_US_dedes.trMA.C1.acrostic.title
 trMA.C1.acrostic.notice1 = tr.d069_en_US_dedes.trMA.C1.acrostic.notice1
@@ -565,7 +541,6 @@ trMA.Exaposteilarion1.melody = tr.d069_en_US_dedes.trMA.Exaposteilarion1.melody
 trMA.Exaposteilarion1.incipit = tr.d069_en_US_dedes.trMA.Exaposteilarion1.incipit
 trMA.Exaposteilarion1.text = tr.d069_en_US_dedes.trMA.Exaposteilarion1.text
 
-trHW.Lauds01.text = tr.d069_en_US_dedes.trHW.Lauds01.text // for media
 
 trMA.Lauds1.mode = tr.d069_en_US_dedes.trMA.Lauds1.mode
 trMA.Lauds1.melody = tr.d069_en_US_dedes.trMA.Lauds1.melody
@@ -622,9 +597,9 @@ trMA.AposBoth.melody = tr.d069_en_US_dedes.trMA.AposBoth.melody
 trMA.AposBoth.incipit = tr.d069_en_US_dedes.trMA.AposBoth.incipit
 trMA.AposBoth.text = tr.d069_en_US_dedes.trMA.AposBoth.text
 
-trHW.Apolytikion1.mode = tr.d069_en_US_dedes.trHW.Apolytikion1.mode
-trHW.Apolytikion1.incipit = tr.d069_en_US_dedes.trHW.Apolytikion1.incipit
-trHW.Apolytikion1.text = tr.d069_en_US_dedes.trHW.Apolytikion1.text
+trMA.Apolytikion1.mode = tr.d069_en_US_dedes.trMA.Apolytikion1.mode
+trMA.Apolytikion1.incipit = tr.d069_en_US_dedes.trMA.Apolytikion1.incipit
+trMA.Apolytikion1.text = tr.d069_en_US_dedes.trMA.Apolytikion1.text
 
 trHR.title = tr.d069_en_US_dedes.trHR.title
 trHR.poet = tr.d069_en_US_dedes.trHR.poet

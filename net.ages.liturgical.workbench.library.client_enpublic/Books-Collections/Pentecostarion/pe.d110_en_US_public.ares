@@ -788,6 +788,7 @@ peMA.LaudsGlory.melody = pe.d110_en_US_dedes.peMA.LaudsGlory.melody
 peMA.LaudsGlory.incipit = pe.d110_en_US_dedes.peMA.LaudsGlory.incipit
 peMA.LaudsGlory.text = pe.d110_en_US_dedes.peMA.LaudsGlory.text
 
+peLI.MM.Antiphon2.text = properties_en_US_public.media.key
 
 peLI.MM.EntranceHymn.text = properties_en_US_public.media.key
 peLI.MM.EntranceHymnAF.text = properties_en_US_public.media.key

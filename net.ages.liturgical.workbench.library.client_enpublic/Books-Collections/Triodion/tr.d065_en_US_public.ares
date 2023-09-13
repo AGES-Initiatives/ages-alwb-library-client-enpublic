@@ -247,18 +247,12 @@ trCO.Ode9C1T.melody = tr.d065_en_UK_ware.trCO.Ode9C1T.melody
 trCO.Ode9C1T.incipit = tr.d065_en_UK_ware.trCO.Ode9C1T.incipit
 trCO.Ode9C1T.text = tr.d065_en_UK_ware.trCO.Ode9C1T.text
 
-trHW.Alleluia.text = tr.d065_en_US_dedes.trHW.Alleluia.text // for media
+trMA.MM.Alleluia.text = tr.d065_en_US_dedes.trMA.MM.Alleluia.text // for media
 
-trHW.Troparion.mode = tr.d065_en_US_dedes.trHW.Troparion.mode
-trHW.Troparion.melody = tr.d065_en_US_dedes.trHW.Troparion.melody
-trHW.Troparion.incipit = tr.d065_en_US_dedes.trHW.Troparion.incipit
-trHW.Troparion.text = tr.d065_en_US_dedes.trHW.Troparion.text
-trHW.Troparion1.incipit = tr.d065_en_US_dedes.trHW.Troparion1.incipit
-trHW.Troparion1.text = tr.d065_en_US_dedes.trHW.Troparion1.text
-trHW.Troparion2.incipit = tr.d065_en_US_dedes.trHW.Troparion2.incipit
-trHW.Troparion2.text = tr.d065_en_US_dedes.trHW.Troparion2.text
-trHW.Troparion3.incipit = tr.d065_en_US_dedes.trHW.Troparion3.incipit
-trHW.Troparion3.text = tr.d065_en_US_dedes.trHW.Troparion3.text
+trMA.Troparion.mode = tr.d065_en_US_dedes.trMA.Troparion.mode
+trMA.Troparion.melody = tr.d065_en_US_dedes.trMA.Troparion.melody
+trMA.Troparion.incipit = tr.d065_en_US_dedes.trMA.Troparion.incipit
+trMA.Troparion.text = tr.d065_en_US_dedes.trMA.Troparion.text
 
 trMA.Kathisma11.mode = tr.d065_en_US_dedes.trMA.Kathisma11.mode
 trMA.Kathisma11.greekmelody = tr.d065_en_US_dedes.trMA.Kathisma11.greekmelody
@@ -392,7 +386,6 @@ trMA.Exaposteilarion1.melody = tr.d065_en_US_dedes.trMA.Exaposteilarion1.melody
 trMA.Exaposteilarion1.incipit = tr.d065_en_US_dedes.trMA.Exaposteilarion1.incipit
 trMA.Exaposteilarion1.text = tr.d065_en_US_dedes.trMA.Exaposteilarion1.text
 
-trHW.Lauds01.text = tr.d065_en_US_dedes.trHW.Lauds01.text // for media
 
 trMA.Lauds1.mode = tr.d065_en_US_dedes.trMA.Lauds1.mode
 trMA.Lauds1.melody = tr.d065_en_US_dedes.trMA.Lauds1.melody
