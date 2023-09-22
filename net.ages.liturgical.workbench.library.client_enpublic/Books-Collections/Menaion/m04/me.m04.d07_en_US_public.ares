@@ -387,10 +387,10 @@ alt1.meVE.Stichera03.melody = me.m04.d07_en_US_dedes.alt1.meVE.Stichera03.melody
 alt1.meVE.Stichera03.incipit = me.m04.d07_en_US_dedes.alt1.meVE.Stichera03.incipit
 alt1.meVE.Stichera03.text = me.m04.d07_en_US_dedes.alt1.meVE.Stichera03.text
 
-alt1.meVE.SticTheotokion.mode = me.m04.d07_en_US_dedes.alt1.meVE.SticTheotokion.mode
-alt1.meVE.SticTheotokion.melody = me.m04.d07_en_US_dedes.alt1.meVE.SticTheotokion.melody
-alt1.meVE.SticTheotokion.incipit = me.m04.d07_en_US_dedes.alt1.meVE.SticTheotokion.incipit
-alt1.meVE.SticTheotokion.text = me.m04.d07_en_US_dedes.alt1.meVE.SticTheotokion.text
+alt1.meVE.SticTheotokion.mode = me.m04.d07_en_US_goadedes.alt1.meVE.SticTheotokion.mode
+alt1.meVE.SticTheotokion.melody = me.m04.d07_en_US_goadedes.alt1.meVE.SticTheotokion.melody
+alt1.meVE.SticTheotokion.incipit = me.m04.d07_en_US_goadedes.alt1.meVE.SticTheotokion.incipit
+alt1.meVE.SticTheotokion.text = me.m04.d07_en_US_goadedes.alt1.meVE.SticTheotokion.text
 
 alt1.meVE.SticStavrotheotokion.mode = me.m04.d07_en_US_dedes.alt1.meVE.SticStavrotheotokion.mode
 alt1.meVE.SticStavrotheotokion.melody = me.m04.d07_en_US_dedes.alt1.meVE.SticStavrotheotokion.melody
