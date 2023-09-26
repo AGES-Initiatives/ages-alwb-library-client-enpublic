@@ -87,11 +87,11 @@ peMA.Kathisma22.melody = pe.d092_en_US_goadedes.peMA.Kathisma22.melody
 peMA.Kathisma22.incipit = pe.d092_en_US_goadedes.peMA.Kathisma22.incipit
 peMA.Kathisma22.text = pe.d092_en_US_goadedes.peMA.Kathisma22.text
 
-peMA.Kathisma23.mode = pe.d092_en_US_dedes.peMA.Kathisma23.mode
-peMA.Kathisma23.greekmelody = pe.d092_en_US_dedes.peMA.Kathisma23.greekmelody
-peMA.Kathisma23.melody = pe.d092_en_US_dedes.peMA.Kathisma23.melody
-peMA.Kathisma23.incipit = pe.d092_en_US_dedes.peMA.Kathisma23.incipit
-peMA.Kathisma23.text = pe.d092_en_US_dedes.peMA.Kathisma23.text
+peMA.Kathisma23.mode = pe.d092_en_US_goadedes.peMA.Kathisma23.mode
+peMA.Kathisma23.greekmelody = pe.d092_en_US_goadedes.peMA.Kathisma23.greekmelody
+peMA.Kathisma23.melody = pe.d092_en_US_goadedes.peMA.Kathisma23.melody
+peMA.Kathisma23.incipit = pe.d092_en_US_goadedes.peMA.Kathisma23.incipit
+peMA.Kathisma23.text = pe.d092_en_US_goadedes.peMA.Kathisma23.text
 
 peMA.C1.acrostic.title = pe.d092_en_US_goadedes.peMA.C1.acrostic.title
 peMA.C1.acrostic.notice1 = pe.d092_en_US_goadedes.peMA.C1.acrostic.notice1
