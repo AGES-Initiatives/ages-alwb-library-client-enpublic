@@ -674,9 +674,9 @@ octrMA.Kathisma1T.text = oc.m5.d5_en_US_oca.octrMA.Kathisma1T.text
 
 octrMA.Ode7Martyricon.mode = oc.m5.d5_en_US_dedes.octrMA.Ode7Martyricon.mode
 octrMA.Ode7Martyricon.greekmelody = oc.m5.d5_en_US_dedes.octrMA.Ode7Martyricon.greekmelody
-octrMA.Ode7Martyricon.melody = oc.m5.d5_en_US_oca.octrMA.Ode7Martyricon.melody
-octrMA.Ode7Martyricon.incipit = oc.m5.d5_en_US_oca.octrMA.Ode7Martyricon.incipit
-octrMA.Ode7Martyricon.text = oc.m5.d5_en_US_oca.octrMA.Ode7Martyricon.text
+octrMA.Ode7Martyricon.melody = oc.m5.d5_en_US_dedes.octrMA.Ode7Martyricon.melody
+octrMA.Ode7Martyricon.incipit = oc.m5.d5_en_US_dedes.octrMA.Ode7Martyricon.incipit
+octrMA.Ode7Martyricon.text = oc.m5.d5_en_US_dedes.octrMA.Ode7Martyricon.text
 
 octrMA.Photogogic.mode = oc.m5.d5_en_US_dedes.octrMA.Photogogic.mode
 octrMA.Photogogic.incipit = oc.m5.d5_en_US_dedes.octrMA.Photogogic.incipit

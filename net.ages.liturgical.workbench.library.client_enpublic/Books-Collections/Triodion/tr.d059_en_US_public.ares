@@ -61,9 +61,9 @@ trMA.Kathisma31.incipit = tr.d059_en_UK_ware.trMA.Kathisma31.incipit
 trMA.Kathisma31.text = tr.d059_en_UK_ware.trMA.Kathisma31.text
 
 trMA.Kathisma32.mode = tr.d059_en_US_dedes.trMA.Kathisma32.mode
-trMA.Kathisma32.melody = tr.d059_en_UK_ware.trMA.Kathisma32.melody
-trMA.Kathisma32.incipit = tr.d059_en_UK_ware.trMA.Kathisma32.incipit
-trMA.Kathisma32.text = tr.d059_en_UK_ware.trMA.Kathisma32.text
+trMA.Kathisma32.melody = tr.d059_en_US_dedes.trMA.Kathisma32.melody
+trMA.Kathisma32.incipit = tr.d059_en_US_dedes.trMA.Kathisma32.incipit
+trMA.Kathisma32.text = tr.d059_en_US_dedes.trMA.Kathisma32.text
 
 trMA.C1.poet = tr.d059_en_US_dedes.trMA.C1.poet
 
