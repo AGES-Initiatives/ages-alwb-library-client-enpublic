@@ -605,15 +605,15 @@ ocMA.OdeW9C24.melody = oc.m5.d4_en_US_dedes.ocMA.OdeW9C24.melody
 ocMA.OdeW9C24.incipit = oc.m5.d4_en_US_dedes.ocMA.OdeW9C24.incipit
 ocMA.OdeW9C24.text = oc.m5.d4_en_US_dedes.ocMA.OdeW9C24.text
 
-ocMA.Aposticha1.mode = oc.m5.d4_en_US_dedes.ocMA.Aposticha1.mode
-ocMA.Aposticha1.melody = oc.m5.d4_en_US_oca.ocMA.Aposticha1.melody
-ocMA.Aposticha1.incipit = oc.m5.d4_en_US_oca.ocMA.Aposticha1.incipit
-ocMA.Aposticha1.text = oc.m5.d4_en_US_oca.ocMA.Aposticha1.text
+ocMA.Aposticha1.mode = oc.m5.d4_en_US_goadedes.ocMA.Aposticha1.mode
+ocMA.Aposticha1.melody = oc.m5.d4_en_US_goadedes.ocMA.Aposticha1.melody
+ocMA.Aposticha1.incipit = oc.m5.d4_en_US_goadedes.ocMA.Aposticha1.incipit
+ocMA.Aposticha1.text = oc.m5.d4_en_US_goadedes.ocMA.Aposticha1.text
 
-ocMA.Aposticha2.mode = oc.m5.d4_en_US_dedes.ocMA.Aposticha2.mode
-ocMA.Aposticha2.melody = oc.m5.d4_en_US_oca.ocMA.Aposticha2.melody
-ocMA.Aposticha2.incipit = oc.m5.d4_en_US_oca.ocMA.Aposticha2.incipit
-ocMA.Aposticha2.text = oc.m5.d4_en_US_oca.ocMA.Aposticha2.text
+ocMA.Aposticha2.mode = oc.m5.d4_en_US_goadedes.ocMA.Aposticha2.mode
+ocMA.Aposticha2.melody = oc.m5.d4_en_US_goadedes.ocMA.Aposticha2.melody
+ocMA.Aposticha2.incipit = oc.m5.d4_en_US_goadedes.ocMA.Aposticha2.incipit
+ocMA.Aposticha2.text = oc.m5.d4_en_US_goadedes.ocMA.Aposticha2.text
 
 ocMA.Aposticha3.mode = oc.m5.d4_en_US_dedes.ocMA.Aposticha3.mode
 ocMA.Aposticha3.melody = oc.m5.d4_en_US_dedes.ocMA.Aposticha3.melody

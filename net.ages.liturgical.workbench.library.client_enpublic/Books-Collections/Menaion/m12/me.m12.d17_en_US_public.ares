@@ -578,8 +578,8 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
-meMegalynarion.text = me.m12.d17_en_US_dedes.meMegalynarion.text
-meMegalynarion2.text = me.m12.d17_en_US_dedes.meMegalynarion2.text
+meLI.Megalynarion.text = me.m12.d17_en_US_dedes.meLI.Megalynarion.text
+meLI.Megalynarion2.text = me.m12.d17_en_US_dedes.meLI.Megalynarion2.text
 
 alt1.meDA.date = me.m12.d17_en_US_dedes.alt1.meDA.date // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt1.meDA.commemoration.full = me.m12.d17_en_US_dedes.alt1.meDA.commemoration.full // full title of day
@@ -1028,4 +1028,4 @@ alt1.meLI.Kontakion1.text = me.m12.d17_en_US_dedes.alt1.meMA.Kontakion1.text
 
 alt1.meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
-alt1.meMegalynarion.text = me.m12.d17_en_US_goadedes.alt1.meMegalynarion.text
+alt1.meLI.Megalynarion.text = me.m12.d17_en_US_goadedes.alt1.meLI.Megalynarion.text

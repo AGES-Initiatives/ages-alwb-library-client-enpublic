@@ -316,7 +316,7 @@ meLI.Kontakion1.text = meMA.Kontakion1ger.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
-meMegalynarion.text = me.m06.d01_en_US_dedes.meMegalynarion.text
+meLI.Megalynarion.text = me.m06.d01_en_US_dedes.meLI.Megalynarion.text
 
 //for media mapping only
 meMA.MM.testlauds.text = properties_en_US_public.media.key

@@ -67,11 +67,11 @@ trMA.Kathisma31.melody = tr.d024_en_US_oca.trMA.Kathisma31.melody
 trMA.Kathisma31.incipit = tr.d024_en_US_oca.trMA.Kathisma31.incipit
 trMA.Kathisma31.text = tr.d024_en_US_oca.trMA.Kathisma31.text
 
-trMA.Kathisma32.mode = tr.d024_en_US_dedes.trMA.Kathisma32.mode
-trMA.Kathisma32.greekmelody = tr.d024_en_US_dedes.trMA.Kathisma32.greekmelody
-trMA.Kathisma32.melody = tr.d024_en_US_oca.trMA.Kathisma32.melody
-trMA.Kathisma32.incipit = tr.d024_en_US_oca.trMA.Kathisma32.incipit
-trMA.Kathisma32.text = tr.d024_en_US_oca.trMA.Kathisma32.text
+trMA.Kathisma32.mode = tr.d024_en_US_goadedes.trMA.Kathisma32.mode
+trMA.Kathisma32.greekmelody = tr.d024_en_US_goadedes.trMA.Kathisma32.greekmelody
+trMA.Kathisma32.melody = tr.d024_en_US_goadedes.trMA.Kathisma32.melody
+trMA.Kathisma32.incipit = tr.d024_en_US_goadedes.trMA.Kathisma32.incipit
+trMA.Kathisma32.text = tr.d024_en_US_goadedes.trMA.Kathisma32.text
 
 trMA.Ode2C1H.ode = tr.d024_en_US_dedes.trMA.Ode2C1H.ode
 trMA.Ode2C1H.mode = tr.d024_en_US_dedes.trMA.Ode2C1H.mode

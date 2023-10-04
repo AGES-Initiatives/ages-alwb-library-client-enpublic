@@ -345,7 +345,7 @@ meLI.Kontakion1.melody = meMA.Kontakion1ger.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1ger.incipit
 meLI.Kontakion1.text = meMA.Kontakion1ger.text
 
-meMegalynarion.text = me.m03.d02_en_US_dedes.meMegalynarion.text
+meLI.Megalynarion.text = me.m03.d02_en_US_dedes.meLI.Megalynarion.text
 
 //----------------------
 
@@ -819,5 +819,5 @@ alt1.meLI.Kontakion1.melody = me.m03.d02_en_US_dedes.alt1.meLI.Kontakion1.melody
 alt1.meLI.Kontakion1.incipit = me.m03.d02_en_US_dedes.alt1.meLI.Kontakion1.incipit
 alt1.meLI.Kontakion1.text = me.m03.d02_en_US_dedes.alt1.meLI.Kontakion1.text
 
-alt1.meMegalynarion.text = me.m03.d02_en_US_dedes.alt1.meMegalynarion.text
+alt1.meLI.Megalynarion.text = me.m03.d02_en_US_dedes.alt1.meLI.Megalynarion.text
 

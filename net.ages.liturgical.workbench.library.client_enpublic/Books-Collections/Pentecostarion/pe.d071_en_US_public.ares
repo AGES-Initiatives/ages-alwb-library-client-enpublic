@@ -518,4 +518,4 @@ peLI.AfterCommunion2.mode = pe.d071_en_US_dedes.peLI.AfterCommunion2.mode // ins
 peLI.AfterCommunion2.incipit = pe.d071_en_US_goa.peLI.AfterCommunion2.incipit
 peLI.AfterCommunion2.text = pe.d071_en_US_goa.peLI.AfterCommunion2.text
 
-peMegalynarion.text = pe.d071_en_US_goadedes.peMegalynarion.text
+peLI.Megalynarion.text = pe.d071_en_US_goadedes.peLI.Megalynarion.text

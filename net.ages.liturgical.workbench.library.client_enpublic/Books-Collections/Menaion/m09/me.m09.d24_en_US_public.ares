@@ -463,7 +463,7 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
-meMegalynarion.text = me.m09.d24_en_US_dedes.meMegalynarion.text
+meLI.Megalynarion.text = me.m09.d24_en_US_dedes.meLI.Megalynarion.text
 
 alt1.meDA.date = me.m09.d24_en_US_dedes.alt1.meDA.date
 alt1.meDA.commemoration.full = me.m09.d24_en_US_dedes.alt1.meDA.commemoration.full
@@ -1084,8 +1084,8 @@ alt1.meLI.Kontakion1.text = me.m09.d24_en_US_dedes.alt1.meLI.Kontakion1.text
 
 alt1.meLI.MM.CommunionHymn.text = me.m09.d24_en_US_dedes.alt1.meLI.MM.CommunionHymn.text
 
-alt1.meMegalynarion.text = me.m09.d24_en_US_goadedes.alt1.meMegalynarion.text
-alt1.meMegalynarion2.text = me.m09.d24_en_US_goadedes.alt1.meMegalynarion2.text
+alt1.meLI.Megalynarion.text = me.m09.d24_en_US_goadedes.alt1.meLI.Megalynarion.text
+alt1.meLI.Megalynarion2.text = me.m09.d24_en_US_goadedes.alt1.meLI.Megalynarion2.text
 
 alt2.meDA.date = me.m09.d24_en_US_goadedes.alt2.meDA.date
 alt2.meDA.commemoration.full = me.m09.d24_en_US_goadedes.alt2.meDA.commemoration.full
@@ -1932,9 +1932,9 @@ alt3.meLI.Kontakion1.text = me.m09.d24_en_US_goadedes.alt3.meLI.Kontakion1.text
 
 alt3.meLI.MM.CommunionHymn.text = me.m09.d24_en_US_goadedes.alt3.meLI.MM.CommunionHymn.text
 
-alt3.meMegalynarion.text = me.m09.d24_en_US_goadedes.alt3.meMegalynarion.text
+alt3.meLI.Megalynarion.text = me.m09.d24_en_US_goadedes.alt3.meLI.Megalynarion.text
 
-alt3.meMegalynarion2.text = me.m09.d24_en_US_goadedes.alt3.meMegalynarion2.text
+alt3.meLI.Megalynarion2.text = me.m09.d24_en_US_goadedes.alt3.meLI.Megalynarion2.text
 
-alt3.meMegalynarion3.text = me.m09.d24_en_US_goadedes.alt3.meMegalynarion3.text
+alt3.meLI.Megalynarion3.text = me.m09.d24_en_US_goadedes.alt3.meLI.Megalynarion3.text
 

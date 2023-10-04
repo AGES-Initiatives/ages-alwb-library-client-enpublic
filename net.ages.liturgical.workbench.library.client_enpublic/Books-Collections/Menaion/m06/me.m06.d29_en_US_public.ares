@@ -761,8 +761,8 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
-meMegalynarion.text = me.m06.d29_en_US_goadedes.meMegalynarion.text
-meMegalynarion2.text = me.m06.d29_en_US_goadedes.meMegalynarion2.text
+meLI.Megalynarion.text = me.m06.d29_en_US_goadedes.meLI.Megalynarion.text
+meLI.Megalynarion2.text = me.m06.d29_en_US_goadedes.meLI.Megalynarion2.text
 
 meMA.AdditionalIdiomelon1.mode = me.m06.d29_en_US_dedes.meMA.AdditionalIdiomelon1.mode
 meMA.AdditionalIdiomelon1.melody = me.m06.d29_en_US_dedes.meMA.AdditionalIdiomelon1.melody

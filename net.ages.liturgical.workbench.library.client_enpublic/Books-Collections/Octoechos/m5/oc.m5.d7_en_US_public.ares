@@ -88,10 +88,10 @@ ocMA.Kathisma14.melody = oc.m5.d7_en_US_goadedes.ocMA.Kathisma14.melody
 ocMA.Kathisma14.incipit = oc.m5.d7_en_US_goadedes.ocMA.Kathisma14.incipit
 ocMA.Kathisma14.text = oc.m5.d7_en_US_goadedes.ocMA.Kathisma14.text
 
-ocMA.Kathisma21.mode = oc.m5.d7_en_US_dedes.ocMA.Kathisma21.mode
-ocMA.Kathisma21.melody = oc.m5.d7_en_US_oca.ocMA.Kathisma21.melody
-ocMA.Kathisma21.incipit = oc.m5.d7_en_US_oca.ocMA.Kathisma21.incipit
-ocMA.Kathisma21.text = oc.m5.d7_en_US_oca.ocMA.Kathisma21.text
+ocMA.Kathisma21.mode = oc.m5.d7_en_US_goadedes.ocMA.Kathisma21.mode
+ocMA.Kathisma21.melody = oc.m5.d7_en_US_goadedes.ocMA.Kathisma21.melody
+ocMA.Kathisma21.incipit = oc.m5.d7_en_US_goadedes.ocMA.Kathisma21.incipit
+ocMA.Kathisma21.text = oc.m5.d7_en_US_goadedes.ocMA.Kathisma21.text
 
 ocMA.Kathisma22.mode = oc.m5.d7_en_US_dedes.ocMA.Kathisma22.mode
 ocMA.Kathisma22.melody = oc.m5.d7_en_US_dedes.ocMA.Kathisma22.melody
@@ -624,10 +624,10 @@ ocMA.OdeW9C2T.text = oc.m5.d7_en_US_dedes.ocMA.OdeW9C2T.text
 
 ocMA.LaudsRubric1.text = oc.m5.d7_en_US_dedes.ocMA.LaudsRubric1.text
 
-ocMA.Lauds1.mode = oc.m5.d7_en_US_dedes.ocMA.Lauds1.mode
-ocMA.Lauds1.melody = oc.m5.d7_en_US_oca.ocMA.Lauds1.melody
-ocMA.Lauds1.incipit = oc.m5.d7_en_US_oca.ocMA.Lauds1.incipit
-ocMA.Lauds1.text = oc.m5.d7_en_US_oca.ocMA.Lauds1.text
+ocMA.Lauds1.mode = oc.m5.d7_en_US_goadedes.ocMA.Lauds1.mode
+ocMA.Lauds1.melody = oc.m5.d7_en_US_goadedes.ocMA.Lauds1.melody
+ocMA.Lauds1.incipit = oc.m5.d7_en_US_goadedes.ocMA.Lauds1.incipit
+ocMA.Lauds1.text = oc.m5.d7_en_US_goadedes.ocMA.Lauds1.text
 
 ocMA.Lauds2.mode = oc.m5.d7_en_US_dedes.ocMA.Lauds2.mode
 ocMA.Lauds2.melody = oc.m5.d7_en_US_dedes.ocMA.Lauds2.melody
@@ -790,10 +790,10 @@ octrMA.Lauds2.melody = oc.m5.d7_en_US_dedes.octrMA.Lauds2.melody
 octrMA.Lauds2.incipit = oc.m5.d7_en_US_dedes.octrMA.Lauds2.incipit
 octrMA.Lauds2.text = oc.m5.d7_en_US_dedes.octrMA.Lauds2.text
 
-octrMA.Lauds3.mode = oc.m5.d7_en_US_dedes.octrMA.Lauds3.mode
-octrMA.Lauds3.melody = oc.m5.d7_en_US_oca.octrMA.Lauds3.melody
-octrMA.Lauds3.incipit = oc.m5.d7_en_US_oca.octrMA.Lauds3.incipit
-octrMA.Lauds3.text = oc.m5.d7_en_US_oca.octrMA.Lauds3.text
+octrMA.Lauds3.mode = oc.m5.d7_en_US_goadedes.octrMA.Lauds3.mode
+octrMA.Lauds3.melody = oc.m5.d7_en_US_goadedes.octrMA.Lauds3.melody
+octrMA.Lauds3.incipit = oc.m5.d7_en_US_goadedes.octrMA.Lauds3.incipit
+octrMA.Lauds3.text = oc.m5.d7_en_US_goadedes.octrMA.Lauds3.text
 
 octrMA.Lauds4.mode = oc.m5.d7_en_US_dedes.octrMA.Lauds4.mode
 octrMA.Lauds4.melody = oc.m5.d7_en_US_oca.octrMA.Lauds4.melody

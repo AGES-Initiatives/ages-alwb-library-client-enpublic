@@ -325,7 +325,7 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
-meMegalynarion.text = me.m08.d27_en_US_dedes.meMegalynarion.text
+meLI.Megalynarion.text = me.m08.d27_en_US_dedes.meLI.Megalynarion.text
 
 alt1.meDA.date = me.m08.d27_en_US_goadedes.alt1.meDA.date
 alt1.meDA.commemoration.full = me.m08.d27_en_US_goadedes.alt1.meDA.commemoration.full // full title of day
@@ -856,5 +856,5 @@ alt1.meLI.Kontakion1.melody = me.m08.d27_en_US_goadedes.alt1.meLI.Kontakion1.mel
 alt1.meLI.Kontakion1.incipit = me.m08.d27_en_US_goadedes.alt1.meLI.Kontakion1.incipit
 alt1.meLI.Kontakion1.text = me.m08.d27_en_US_goadedes.alt1.meLI.Kontakion1.text
 
-alt1.meMegalynarion.text = me.m08.d27_en_US_goadedes.alt1.meMegalynarion.text
-alt1.meMegalynarion2.text = me.m08.d27_en_US_goadedes.alt1.meMegalynarion2.text
+alt1.meLI.Megalynarion.text = me.m08.d27_en_US_goadedes.alt1.meLI.Megalynarion.text
+alt1.meLI.Megalynarion2.text = me.m08.d27_en_US_goadedes.alt1.meLI.Megalynarion2.text

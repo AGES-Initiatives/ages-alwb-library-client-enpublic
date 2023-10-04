@@ -78,11 +78,11 @@ meVE.Apolytikion1.melody = me.m09.d23_en_US_dedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.incipit = me.m09.d23_en_US_dedes.meVE.Apolytikion1.incipit
 meVE.Apolytikion1.text = me.m09.d23_en_US_dedes.meVE.Apolytikion1.text
 
-meMA.Kathisma11.mode = me.m09.d23_en_US_dedes.meMA.Kathisma11.mode
-meMA.Kathisma11.greekmelody = me.m09.d23_en_US_dedes.meMA.Kathisma11.greekmelody
-meMA.Kathisma11.melody = me.m09.d23_en_US_oca.meMA.Kathisma11.melody
-meMA.Kathisma11.incipit = me.m09.d23_en_US_oca.meMA.Kathisma11.incipit
-meMA.Kathisma11.text = me.m09.d23_en_US_oca.meMA.Kathisma11.text
+meMA.Kathisma11.mode = me.m09.d23_en_US_goadedes.meMA.Kathisma11.mode
+meMA.Kathisma11.greekmelody = me.m09.d23_en_US_goadedes.meMA.Kathisma11.greekmelody
+meMA.Kathisma11.melody = me.m09.d23_en_US_goadedes.meMA.Kathisma11.melody
+meMA.Kathisma11.incipit = me.m09.d23_en_US_goadedes.meMA.Kathisma11.incipit
+meMA.Kathisma11.text = me.m09.d23_en_US_goadedes.meMA.Kathisma11.text
 
 meMA.Kathisma1T.mode = me.m09.d23_en_US_goadedes.meMA.Kathisma1T.mode
 meMA.Kathisma1T.melody = me.m09.d23_en_US_goadedes.meMA.Kathisma1T.melody
@@ -365,4 +365,4 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
-meMegalynarion.text = me.m09.d23_en_US_dedes.meMegalynarion.text
+meLI.Megalynarion.text = me.m09.d23_en_US_dedes.meLI.Megalynarion.text
