@@ -546,7 +546,6 @@ alt1.meMA.Kathisma3T.melody = me.m08.d27_en_US_goadedes.alt1.meMA.Kathisma3T.mel
 alt1.meMA.Kathisma3T.incipit = me.m08.d27_en_US_goadedes.alt1.meMA.Kathisma3T.incipit
 alt1.meMA.Kathisma3T.text = me.m08.d27_en_US_goadedes.alt1.meMA.Kathisma3T.text
 
-alt1.meMA.MM.Prokeimenon.text = properties_en_US_public.media.key
 
 alt1.meMA.PostGospelGlory.mode = me.m08.d27_en_US_goadedes.alt1.meMA.PostGospelGlory.mode
 alt1.meMA.PostGospelGlory.melody = me.m08.d27_en_US_goadedes.alt1.meMA.PostGospelGlory.melody
@@ -713,8 +712,7 @@ alt1.meMA.Ode6C1T.text = me.m08.d27_en_US_goadedes.alt1.meMA.Ode6C1T.text
 
 alt1.meMA.Kontakion1.mode = me.m08.d27_en_US_goadedes.alt1.meMA.Kontakion1.mode
 alt1.meMA.Kontakion1.greekmelody = me.m08.d27_en_US_goadedes.alt1.meMA.Kontakion1.greekmelody
-alt1.meMA.Kontakion1.greekmelody = me.m08.d27_en_US_goadedes.alt1.meMA.Kontakion1.greekmelody
-meMA.Kontakion1.melody = me.m08.d27_en_US_goadedes.alt1.meMA.Kontakion1.melody
+alt1.meMA.Kontakion1.melody = me.m08.d27_en_US_goadedes.alt1.meMA.Kontakion1.melody
 alt1.meMA.Kontakion1.incipit = me.m08.d27_en_US_goadedes.alt1.meMA.Kontakion1.incipit
 alt1.meMA.Kontakion1.text = me.m08.d27_en_US_goadedes.alt1.meMA.Kontakion1.text
 

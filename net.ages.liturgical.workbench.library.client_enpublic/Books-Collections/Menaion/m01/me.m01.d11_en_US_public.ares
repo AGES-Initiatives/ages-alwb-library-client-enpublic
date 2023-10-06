@@ -107,7 +107,6 @@ meMA.Kathisma32.melody = me.m01.d11_en_US_dedes.meMA.Kathisma32.melody
 meMA.Kathisma32.incipit = me.m01.d11_en_US_dedes.meMA.Kathisma32.incipit
 meMA.Kathisma32.text = me.m01.d11_en_US_dedes.meMA.Kathisma32.text
 
-meMA.MM.Prokeimenon.text = properties_en_US_public.media.key
 
 meMA.PostGospelGlory.mode = me.m01.d11_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m01.d11_en_US_dedes.meMA.PostGospelGlory.melody

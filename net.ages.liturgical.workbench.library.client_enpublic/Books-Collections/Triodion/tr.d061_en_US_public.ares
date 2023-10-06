@@ -269,14 +269,14 @@ trMA.AposIdiomelon1.incipit = tr.d061_en_UK_ware.trMA.AposIdiomelon1.incipit
 trMA.AposIdiomelon1.text = tr.d061_en_UK_ware.trMA.AposIdiomelon1.text
 
 trMA.AposMartyric.mode = tr.d061_en_US_goadedes.trMA.AposMartyric.mode
-trMA.AposMartyric.melody = tr.d061_en_US_oca.trMA.AposMartyric.melody
-trMA.AposMartyric.incipit = tr.d061_en_US_oca.trMA.AposMartyric.incipit
-trMA.AposMartyric.text = tr.d061_en_US_oca.trMA.AposMartyric.text
+trMA.AposMartyric.melody = tr.d061_en_US_goadedes.trMA.AposMartyric.melody
+trMA.AposMartyric.incipit = tr.d061_en_US_goadedes.trMA.AposMartyric.incipit
+trMA.AposMartyric.text = tr.d061_en_US_goadedes.trMA.AposMartyric.text
 
 trMA.AposTheotokion.mode = tr.d061_en_US_goadedes.trMA.AposTheotokion.mode
-trMA.AposTheotokion.melody = tr.d061_en_US_oca.trMA.AposTheotokion.melody
-trMA.AposTheotokion.incipit = tr.d061_en_US_oca.trMA.AposTheotokion.incipit
-trMA.AposTheotokion.text = tr.d061_en_US_oca.trMA.AposTheotokion.text
+trMA.AposTheotokion.melody = tr.d061_en_US_goadedes.trMA.AposTheotokion.melody
+trMA.AposTheotokion.incipit = tr.d061_en_US_goadedes.trMA.AposTheotokion.incipit
+trMA.AposTheotokion.text = tr.d061_en_US_goadedes.trMA.AposTheotokion.text
 
 trTE.Troparion.mode = tr.d061_en_US_dedes.trTE.Troparion.mode
 trTE.Troparion.melody = tr.d061_en_US_dedes.trTE.Troparion.melody

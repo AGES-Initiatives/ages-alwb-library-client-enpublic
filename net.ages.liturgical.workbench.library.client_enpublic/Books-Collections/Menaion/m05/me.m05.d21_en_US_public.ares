@@ -159,7 +159,7 @@ meMA.Kathisma3T.melody = me.m05.d21_en_US_dedes.meMA.Kathisma3T.melody
 meMA.Kathisma3T.incipit = me.m05.d21_en_US_dedes.meMA.Kathisma3T.incipit
 meMA.Kathisma3T.text = me.m05.d21_en_US_dedes.meMA.Kathisma3T.text
 
-meMA.MM.Prokeimenon.text = properties_en_US_public.media.key
+meMA.PostGospelGlory.mode = me.m05.d21_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m05.d21_en_US_dedes.meMA.PostGospelGlory.melody
 meMA.PostGospelGlory.incipit = me.m05.d21_en_US_dedes.meMA.PostGospelGlory.incipit
 meMA.PostGospelGlory.text = me.m05.d21_en_US_dedes.meMA.PostGospelGlory.text
