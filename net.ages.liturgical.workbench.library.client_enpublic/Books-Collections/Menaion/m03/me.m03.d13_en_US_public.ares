@@ -240,11 +240,11 @@ meMA.Ode6C1T.melody = me.m03.d13_en_US_andronache.meMA.Ode6C1T.melody
 meMA.Ode6C1T.incipit = me.m03.d13_en_US_andronache.meMA.Ode6C1T.incipit
 meMA.Ode6C1T.text = me.m03.d13_en_US_andronache.meMA.Ode6C1T.text
 
-meMA.Kontakion1ger.poet = me.m03.d13_en_US_dedes.meMA.Kontakion1ger.poet
-meMA.Kontakion1ger.mode = me.m03.d13_en_US_dedes.meMA.Kontakion1ger.mode
-meMA.Kontakion1ger.melody = me.m03.d13_en_US_andronache.meMA.Kontakion1ger.melody
-meMA.Kontakion1ger.incipit = me.m03.d13_en_US_andronache.meMA.Kontakion1ger.incipit
-meMA.Kontakion1ger.text = me.m03.d13_en_US_andronache.meMA.Kontakion1ger.text
+meMA.Kontakion1ger.poet = me.m03.d13_en_US_goadedes.meMA.Kontakion1ger.poet
+meMA.Kontakion1ger.mode = me.m03.d13_en_US_goadedes.meMA.Kontakion1ger.mode
+meMA.Kontakion1ger.melody = me.m03.d13_en_US_goadedes.meMA.Kontakion1ger.melody
+meMA.Kontakion1ger.incipit = me.m03.d13_en_US_goadedes.meMA.Kontakion1ger.incipit
+meMA.Kontakion1ger.text = me.m03.d13_en_US_goadedes.meMA.Kontakion1ger.text
 
 meMA.Ode7C1H.ode = me.m03.d13_en_US_dedes.meMA.Ode7C1H.ode
 meMA.Ode7C1H.mode = me.m03.d13_en_US_dedes.meMA.Ode7C1H.mode

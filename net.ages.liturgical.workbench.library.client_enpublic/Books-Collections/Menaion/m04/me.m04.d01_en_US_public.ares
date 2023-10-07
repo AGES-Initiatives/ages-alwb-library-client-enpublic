@@ -276,12 +276,12 @@ meMA.Ode6C1T.incipit = me.m04.d01_en_US_barrett.meMA.Ode6C1T.incipit
 meMA.Ode6C1T.text = me.m04.d01_en_US_barrett.meMA.Ode6C1T.text
 
 meMA.Kontakion1.mode = me.m04.d01_en_US_dedes.meMA.Kontakion1.mode
-meMA.Kontakion1.greekmelody = me.m04.d01_en_US_barrett.meMA.Kontakion1.greekmelody
-meMA.Kontakion1.melody = me.m04.d01_en_US_barrett.meMA.Kontakion1.melody
-meMA.Kontakion1.incipit = me.m04.d01_en_US_barrett.meMA.Kontakion1.incipit
-meMA.Kontakion1.text = me.m04.d01_en_US_barrett.meMA.Kontakion1.text
+meMA.Kontakion1.greekmelody = me.m04.d01_en_US_dedes.meMA.Kontakion1.greekmelody
+meMA.Kontakion1.melody = me.m04.d01_en_US_dedes.meMA.Kontakion1.melody
+meMA.Kontakion1.incipit = me.m04.d01_en_US_dedes.meMA.Kontakion1.incipit
+meMA.Kontakion1.text = me.m04.d01_en_US_dedes.meMA.Kontakion1.text
 
-meMA.Oikos1.text = me.m04.d01_en_US_barrett.meMA.Oikos1.text
+meMA.Oikos1.text = me.m04.d01_en_US_dedes.meMA.Oikos1.text
 
 meMA.Ode7C1H.ode = me.m04.d01_en_US_dedes.meMA.Ode7C1H.ode
 meMA.Ode7C1H.mode = me.m04.d01_en_US_dedes.meMA.Ode7C1H.mode

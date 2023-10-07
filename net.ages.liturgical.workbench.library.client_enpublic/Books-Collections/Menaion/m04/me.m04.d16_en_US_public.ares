@@ -47,12 +47,12 @@ meVE.SticStavrotheotokion.melody = me.m04.d16_en_US_dedes.meVE.SticStavrotheotok
 meVE.SticStavrotheotokion.incipit = me.m04.d16_en_US_dedes.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m04.d16_en_US_dedes.meVE.SticStavrotheotokion.text
 
-meVE.Apolytikion1ger.poet = me.m04.d16_en_US_dedes.meVE.Apolytikion1ger.poet
-meVE.Apolytikion1ger.mode = me.m04.d16_en_US_dedes.meVE.Apolytikion1ger.mode
-meVE.Apolytikion1ger.greekmelody = me.m04.d16_en_US_andronache.meVE.Apolytikion1ger.greekmelody
-meVE.Apolytikion1ger.melody = me.m04.d16_en_US_andronache.meVE.Apolytikion1ger.melody
-meVE.Apolytikion1ger.incipit = me.m04.d16_en_US_andronache.meVE.Apolytikion1ger.incipit
-meVE.Apolytikion1ger.text = me.m04.d16_en_US_andronache.meVE.Apolytikion1ger.text
+meVE.Apolytikion1ger.poet = me.m04.d16_en_US_goadedes.meVE.Apolytikion1ger.poet
+meVE.Apolytikion1ger.mode = me.m04.d16_en_US_goadedes.meVE.Apolytikion1ger.mode
+meVE.Apolytikion1ger.greekmelody = me.m04.d16_en_US_goadedes.meVE.Apolytikion1ger.greekmelody
+meVE.Apolytikion1ger.melody = me.m04.d16_en_US_goadedes.meVE.Apolytikion1ger.melody
+meVE.Apolytikion1ger.incipit = me.m04.d16_en_US_goadedes.meVE.Apolytikion1ger.incipit
+meVE.Apolytikion1ger.text = me.m04.d16_en_US_goadedes.meVE.Apolytikion1ger.text
 
 meMA.C1.acrostic.title = me.m04.d16_en_US_andronache.meMA.C1.acrostic.title
 meMA.C1.acrostic.notice1 = me.m04.d16_en_US_dedes.meMA.C1.acrostic.notice1
