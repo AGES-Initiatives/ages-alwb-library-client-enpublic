@@ -2191,10 +2191,10 @@ trMA.AposIdiomelon1.melody = tr.d054_en_US_dedes.trMA.AposIdiomelon1.melody
 trMA.AposIdiomelon1.incipit = tr.d054_en_UK_ware.trMA.AposIdiomelon1.incipit
 trMA.AposIdiomelon1.text = tr.d054_en_UK_ware.trMA.AposIdiomelon1.text
 
-trMA.AposMartyric.mode = tr.d054_en_US_dedes.trMA.AposMartyric.mode
-trMA.AposMartyric.melody = tr.d054_en_US_dedes.trMA.AposMartyric.melody
-trMA.AposMartyric.incipit = tr.d054_en_US_oca.trMA.AposMartyric.incipit
-trMA.AposMartyric.text = tr.d054_en_US_oca.trMA.AposMartyric.text
+trMA.AposMartyric.mode = tr.d054_en_US_goadedes.trMA.AposMartyric.mode
+trMA.AposMartyric.melody = tr.d054_en_US_goadedes.trMA.AposMartyric.melody
+trMA.AposMartyric.incipit = tr.d054_en_US_goadedes.trMA.AposMartyric.incipit
+trMA.AposMartyric.text = tr.d054_en_US_goadedes.trMA.AposMartyric.text
 
 trMA.AposTheotokion.mode = tr.d054_en_US_dedes.trMA.AposTheotokion.mode
 trMA.AposTheotokion.melody = tr.d054_en_US_dedes.trMA.AposTheotokion.melody

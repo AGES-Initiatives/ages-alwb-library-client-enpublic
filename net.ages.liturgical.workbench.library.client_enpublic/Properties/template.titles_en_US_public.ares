@@ -292,6 +292,11 @@ vl.pdf.header = template.titles_en_US_dedes.vl.pdf.header
 vl.pdf.cover = template.titles_en_US_dedes.vl.pdf.cover
 vl.pdf.cover2 = template.titles_en_US_dedes.vl.pdf.cover2
 
+vl2.html.tab = template.titles_en_US_dedes.vl2.html.tab 
+vl2.pdf.header = template.titles_en_US_dedes.vl2.pdf.header
+vl2.pdf.cover = template.titles_en_US_dedes.vl2.pdf.cover
+vl2.pdf.cover2 = template.titles_en_US_dedes.vl2.pdf.cover2
+
 //other
 d = template.titles_en_US_dedes.d 
 d.delimiter = template.titles_en_US_dedes.d.delimiter

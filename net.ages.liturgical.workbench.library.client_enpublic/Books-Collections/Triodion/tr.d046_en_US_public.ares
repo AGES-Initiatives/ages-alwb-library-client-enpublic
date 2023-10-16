@@ -83,11 +83,11 @@ trMA.Kathisma31.melody = tr.d046_en_UK_ware.trMA.Kathisma31.melody
 trMA.Kathisma31.incipit = tr.d046_en_UK_ware.trMA.Kathisma31.incipit
 trMA.Kathisma31.text = tr.d046_en_UK_ware.trMA.Kathisma31.text
 
-trMA.Kathisma32.mode = tr.d046_en_US_dedes.trMA.Kathisma32.mode
-trMA.Kathisma32.greekmelody = tr.d046_en_US_dedes.trMA.Kathisma32.greekmelody
-trMA.Kathisma32.melody = tr.d046_en_UK_ware.trMA.Kathisma32.melody
-trMA.Kathisma32.incipit = tr.d046_en_UK_ware.trMA.Kathisma32.incipit
-trMA.Kathisma32.text = tr.d046_en_UK_ware.trMA.Kathisma32.text
+trMA.Kathisma32.mode = tr.d046_en_US_goadedes.trMA.Kathisma32.mode
+trMA.Kathisma32.greekmelody = tr.d046_en_US_goadedes.trMA.Kathisma32.greekmelody
+trMA.Kathisma32.melody = tr.d046_en_US_goadedes.trMA.Kathisma32.melody
+trMA.Kathisma32.incipit = tr.d046_en_US_goadedes.trMA.Kathisma32.incipit
+trMA.Kathisma32.text = tr.d046_en_US_goadedes.trMA.Kathisma32.text
 
 trMA.C1.acrostic.title = tr.d046_en_US_dedes.trMA.C1.acrostic.title
 trMA.C1.acrostic.notice1 = tr.d046_en_US_dedes.trMA.C1.acrostic.notice1

@@ -652,11 +652,11 @@ octrMA.Triadic3.mode = oc.m1.d4_en_US_dedes.octrMA.Triadic3.mode
 octrMA.Triadic3.incipit = oc.m1.d4_en_US_dedes.octrMA.Triadic3.incipit
 octrMA.Triadic3.text = oc.m1.d4_en_US_dedes.octrMA.Triadic3.text
 
-octrMA.Kathisma11.mode = oc.m1.d4_en_US_dedes.octrMA.Kathisma11.mode
-octrMA.Kathisma11.greekmelody = oc.m1.d4_en_US_dedes.octrMA.Kathisma11.greekmelody
-octrMA.Kathisma11.melody = oc.m1.d4_en_UK_ware.octrMA.Kathisma11.melody
-octrMA.Kathisma11.incipit = oc.m1.d4_en_UK_ware.octrMA.Kathisma11.incipit
-octrMA.Kathisma11.text = oc.m1.d4_en_UK_ware.octrMA.Kathisma11.text
+octrMA.Kathisma11.mode = oc.m1.d4_en_US_goadedes.octrMA.Kathisma11.mode
+octrMA.Kathisma11.greekmelody = oc.m1.d4_en_US_goadedes.octrMA.Kathisma11.greekmelody
+octrMA.Kathisma11.melody = oc.m1.d4_en_US_goadedes.octrMA.Kathisma11.melody
+octrMA.Kathisma11.incipit = oc.m1.d4_en_US_goadedes.octrMA.Kathisma11.incipit
+octrMA.Kathisma11.text = oc.m1.d4_en_US_goadedes.octrMA.Kathisma11.text
 
 octrMA.Kathisma12.mode = oc.m1.d4_en_US_dedes.octrMA.Kathisma12.mode
 octrMA.Kathisma12.greekmelody = oc.m1.d4_en_US_dedes.octrMA.Kathisma12.greekmelody
@@ -664,10 +664,10 @@ octrMA.Kathisma12.melody = oc.m1.d4_en_US_dedes.octrMA.Kathisma12.melody
 octrMA.Kathisma12.incipit = oc.m1.d4_en_US_dedes.octrMA.Kathisma12.incipit
 octrMA.Kathisma12.text = oc.m1.d4_en_US_dedes.octrMA.Kathisma12.text
 
-octrMA.Kathisma1T.mode = oc.m1.d4_en_US_dedes.octrMA.Kathisma1T.mode
-octrMA.Kathisma1T.melody = oc.m1.d4_en_UK_ware.octrMA.Kathisma1T.melody
-octrMA.Kathisma1T.incipit = oc.m1.d4_en_UK_ware.octrMA.Kathisma1T.incipit
-octrMA.Kathisma1T.text = oc.m1.d4_en_UK_ware.octrMA.Kathisma1T.text
+octrMA.Kathisma1T.mode = oc.m1.d4_en_US_goadedes.octrMA.Kathisma1T.mode
+octrMA.Kathisma1T.melody = oc.m1.d4_en_US_goadedes.octrMA.Kathisma1T.melody
+octrMA.Kathisma1T.incipit = oc.m1.d4_en_US_goadedes.octrMA.Kathisma1T.incipit
+octrMA.Kathisma1T.text = oc.m1.d4_en_US_goadedes.octrMA.Kathisma1T.text
 
 octrMA.Ode7Martyricon.mode = oc.m1.d4_en_US_dedes.octrMA.Ode7Martyricon.mode
 octrMA.Ode7Martyricon.melody = oc.m1.d4_en_US_dedes.octrMA.Ode7Martyricon.melody

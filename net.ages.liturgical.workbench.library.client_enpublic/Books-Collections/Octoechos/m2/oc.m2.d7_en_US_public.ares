@@ -790,11 +790,11 @@ octrMA.Lauds4.melody = oc.m2.d7_en_US_dedes.octrMA.Lauds4.melody
 octrMA.Lauds4.incipit = oc.m2.d7_en_US_dedes.octrMA.Lauds4.incipit
 octrMA.Lauds4.text = oc.m2.d7_en_US_dedes.octrMA.Lauds4.text
 
-octrMA.LaudsGlory.poet = oc.m2.d7_en_US_dedes.octrMA.LaudsGlory.poet
-octrMA.LaudsGlory.mode = oc.m2.d7_en_US_dedes.octrMA.LaudsGlory.mode
-octrMA.LaudsGlory.melody = oc.m2.d7_en_UK_ware.octrMA.LaudsGlory.melody
-octrMA.LaudsGlory.incipit = oc.m2.d7_en_UK_ware.octrMA.LaudsGlory.incipit
-octrMA.LaudsGlory.text = oc.m2.d7_en_UK_ware.octrMA.LaudsGlory.text
+octrMA.LaudsGlory.poet = oc.m2.d7_en_US_goadedes.octrMA.LaudsGlory.poet
+octrMA.LaudsGlory.mode = oc.m2.d7_en_US_goadedes.octrMA.LaudsGlory.mode
+octrMA.LaudsGlory.melody = oc.m2.d7_en_US_goadedes.octrMA.LaudsGlory.melody
+octrMA.LaudsGlory.incipit = oc.m2.d7_en_US_goadedes.octrMA.LaudsGlory.incipit
+octrMA.LaudsGlory.text = oc.m2.d7_en_US_goadedes.octrMA.LaudsGlory.text
 
 octrMA.LaudsTheotokion.mode = oc.m2.d7_en_US_dedes.octrMA.LaudsTheotokion.mode
 octrMA.LaudsTheotokion.melody = oc.m2.d7_en_US_dedes.octrMA.LaudsTheotokion.melody
@@ -822,8 +822,8 @@ octrMA.AposGlory.melody = oc.m2.d7_en_US_dedes.octrMA.AposGlory.melody
 octrMA.AposGlory.incipit = oc.m2.d7_en_US_dedes.octrMA.AposGlory.incipit
 octrMA.AposGlory.text = oc.m2.d7_en_US_dedes.octrMA.AposGlory.text
 
-octrMA.AposTheotokion.mode = oc.m2.d7_en_US_dedes.octrMA.AposTheotokion.mode
-octrMA.AposTheotokion.melody = oc.m2.d7_en_UK_ware.octrMA.AposTheotokion.melody
-octrMA.AposTheotokion.incipit = oc.m2.d7_en_UK_ware.octrMA.AposTheotokion.incipit
-octrMA.AposTheotokion.text = oc.m2.d7_en_UK_ware.octrMA.AposTheotokion.text
+octrMA.AposTheotokion.mode = oc.m2.d7_en_US_goadedes.octrMA.AposTheotokion.mode
+octrMA.AposTheotokion.melody = oc.m2.d7_en_US_goadedes.octrMA.AposTheotokion.melody
+octrMA.AposTheotokion.incipit = oc.m2.d7_en_US_goadedes.octrMA.AposTheotokion.incipit
+octrMA.AposTheotokion.text = oc.m2.d7_en_US_goadedes.octrMA.AposTheotokion.text
 
