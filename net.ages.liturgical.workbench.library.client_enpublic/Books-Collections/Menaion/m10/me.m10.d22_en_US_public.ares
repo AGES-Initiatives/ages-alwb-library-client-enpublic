@@ -617,11 +617,11 @@ meMA.LaudsTheotokion.melody = me.m10.d22_en_US_dedes.meMA.LaudsTheotokion.melody
 meMA.LaudsTheotokion.incipit = me.m10.d22_en_US_dedes.meMA.LaudsTheotokion.incipit
 meMA.LaudsTheotokion.text = me.m10.d22_en_US_dedes.meMA.LaudsTheotokion.text
 
-meMA.LaudsStavrotheotokion.mode = me.m10.d22_en_US_dedes.meMA.LaudsStavrotheotokion.mode
-meMA.LaudsStavrotheotokion.greekmelody = me.m10.d22_en_US_dedes.meMA.LaudsStavrotheotokion.greekmelody
-meMA.LaudsStavrotheotokion.melody = me.m10.d22_en_US_dedes.meMA.LaudsStavrotheotokion.melody
-meMA.LaudsStavrotheotokion.incipit = me.m10.d22_en_US_dedes.meMA.LaudsStavrotheotokion.incipit
-meMA.LaudsStavrotheotokion.text = me.m10.d22_en_US_dedes.meMA.LaudsStavrotheotokion.text
+meMA.LaudsStavrotheotokion.mode = me.m10.d22_en_US_goadedes.meMA.LaudsStavrotheotokion.mode
+meMA.LaudsStavrotheotokion.greekmelody = me.m10.d22_en_US_goadedes.meMA.LaudsStavrotheotokion.greekmelody
+meMA.LaudsStavrotheotokion.melody = me.m10.d22_en_US_goadedes.meMA.LaudsStavrotheotokion.melody
+meMA.LaudsStavrotheotokion.incipit = me.m10.d22_en_US_goadedes.meMA.LaudsStavrotheotokion.incipit
+meMA.LaudsStavrotheotokion.text = me.m10.d22_en_US_goadedes.meMA.LaudsStavrotheotokion.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody

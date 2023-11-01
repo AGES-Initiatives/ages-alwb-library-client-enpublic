@@ -2,27 +2,27 @@ A_Resource_Whose_Name = oc.m7.d5_en_US_public
 
 ocBK.ModeNaked = oc.m7.d5_en_US_dedes.ocBK.ModeNaked
 
-ocVE.Stichera1.mode = oc.m7.d5_en_US_dedes.ocVE.Stichera1.mode
-ocVE.Stichera1.greekmelody = oc.m7.d5_en_US_dedes.ocVE.Stichera1.greekmelody
-ocVE.Stichera1.melody = oc.m7.d5_en_US_dedes.ocVE.Stichera1.melody
-ocVE.Stichera1.incipit = oc.m7.d5_en_US_dedes.ocVE.Stichera1.incipit
-ocVE.Stichera1.text = oc.m7.d5_en_US_dedes.ocVE.Stichera1.text
+ocVE.Stichera1.mode = oc.m7.d5_en_US_goadedes.ocVE.Stichera1.mode
+ocVE.Stichera1.greekmelody = oc.m7.d5_en_US_goadedes.ocVE.Stichera1.greekmelody
+ocVE.Stichera1.melody = oc.m7.d5_en_US_goadedes.ocVE.Stichera1.melody
+ocVE.Stichera1.incipit = oc.m7.d5_en_US_goadedes.ocVE.Stichera1.incipit
+ocVE.Stichera1.text = oc.m7.d5_en_US_goadedes.ocVE.Stichera1.text
 
-ocVE.Stichera2.mode = oc.m7.d5_en_US_dedes.ocVE.Stichera2.mode
-ocVE.Stichera2.melody = oc.m7.d5_en_US_dedes.ocVE.Stichera2.melody
-ocVE.Stichera2.incipit = oc.m7.d5_en_US_dedes.ocVE.Stichera2.incipit
-ocVE.Stichera2.text = oc.m7.d5_en_US_dedes.ocVE.Stichera2.text
+ocVE.Stichera2.mode = oc.m7.d5_en_US_goadedes.ocVE.Stichera2.mode
+ocVE.Stichera2.melody = oc.m7.d5_en_US_goadedes.ocVE.Stichera2.melody
+ocVE.Stichera2.incipit = oc.m7.d5_en_US_goadedes.ocVE.Stichera2.incipit
+ocVE.Stichera2.text = oc.m7.d5_en_US_goadedes.ocVE.Stichera2.text
 
 ocVE.Stichera3.mode = oc.m7.d5_en_US_dedes.ocVE.Stichera3.mode
 ocVE.Stichera3.melody = oc.m7.d5_en_US_dedes.ocVE.Stichera3.melody
 ocVE.Stichera3.incipit = oc.m7.d5_en_US_dedes.ocVE.Stichera3.incipit
 ocVE.Stichera3.text = oc.m7.d5_en_US_dedes.ocVE.Stichera3.text
 
-ocVE.Stichera4.mode = oc.m7.d5_en_US_dedes.ocVE.Stichera4.mode
-ocVE.Stichera4.greekmelody = oc.m7.d5_en_US_dedes.ocVE.Stichera4.greekmelody
-ocVE.Stichera4.melody = oc.m7.d5_en_US_dedes.ocVE.Stichera4.melody
-ocVE.Stichera4.incipit = oc.m7.d5_en_US_dedes.ocVE.Stichera4.incipit
-ocVE.Stichera4.text = oc.m7.d5_en_US_dedes.ocVE.Stichera4.text
+ocVE.Stichera4.mode = oc.m7.d5_en_US_goadedes.ocVE.Stichera4.mode
+ocVE.Stichera4.greekmelody = oc.m7.d5_en_US_goadedes.ocVE.Stichera4.greekmelody
+ocVE.Stichera4.melody = oc.m7.d5_en_US_goadedes.ocVE.Stichera4.melody
+ocVE.Stichera4.incipit = oc.m7.d5_en_US_goadedes.ocVE.Stichera4.incipit
+ocVE.Stichera4.text = oc.m7.d5_en_US_goadedes.ocVE.Stichera4.text
 
 ocVE.Stichera5.mode = oc.m7.d5_en_US_dedes.ocVE.Stichera5.mode
 ocVE.Stichera5.melody = oc.m7.d5_en_US_dedes.ocVE.Stichera5.melody

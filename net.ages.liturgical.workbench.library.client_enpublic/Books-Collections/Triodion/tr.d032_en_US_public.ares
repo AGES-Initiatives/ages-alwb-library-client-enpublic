@@ -41,11 +41,11 @@ trVE.AposMartyric.melody = tr.d032_en_US_dedes.trVE.AposMartyric.melody
 trVE.AposMartyric.incipit = tr.d032_en_US_dedes.trVE.AposMartyric.incipit
 trVE.AposMartyric.text = tr.d032_en_US_dedes.trVE.AposMartyric.text
 
-trVE.AposTheotokion.mode = tr.d032_en_US_dedes.trVE.AposTheotokion.mode
-trVE.AposTheotokion.greekmelody = tr.d032_en_US_dedes.trVE.AposTheotokion.greekmelody
-trVE.AposTheotokion.melody = tr.d032_en_UK_ware.trVE.AposTheotokion.melody
-trVE.AposTheotokion.incipit = tr.d032_en_UK_ware.trVE.AposTheotokion.incipit
-trVE.AposTheotokion.text = tr.d032_en_UK_ware.trVE.AposTheotokion.text
+trVE.AposTheotokion.mode = tr.d032_en_US_goadedes.trVE.AposTheotokion.mode
+trVE.AposTheotokion.greekmelody = tr.d032_en_US_goadedes.trVE.AposTheotokion.greekmelody
+trVE.AposTheotokion.melody = tr.d032_en_US_goadedes.trVE.AposTheotokion.melody
+trVE.AposTheotokion.incipit = tr.d032_en_US_goadedes.trVE.AposTheotokion.incipit
+trVE.AposTheotokion.text = tr.d032_en_US_goadedes.trVE.AposTheotokion.text
 
 trMA.Kathisma21.mode = tr.d032_en_US_dedes.trMA.Kathisma21.mode
 trMA.Kathisma21.greekmelody = tr.d032_en_US_dedes.trMA.Kathisma21.greekmelody

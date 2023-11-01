@@ -18,11 +18,11 @@ ocVE.Stichera3.melody = oc.m6.d2_en_US_dedes.ocVE.Stichera3.melody
 ocVE.Stichera3.incipit = oc.m6.d2_en_US_dedes.ocVE.Stichera3.incipit
 ocVE.Stichera3.text = oc.m6.d2_en_US_dedes.ocVE.Stichera3.text
 
-ocVE.Stichera4.mode = oc.m6.d2_en_US_dedes.ocVE.Stichera4.mode
-ocVE.Stichera4.greekmelody = oc.m6.d2_en_US_dedes.ocVE.Stichera4.greekmelody
-ocVE.Stichera4.melody = oc.m6.d2_en_US_dedes.ocVE.Stichera4.melody
-ocVE.Stichera4.incipit = oc.m6.d2_en_US_dedes.ocVE.Stichera4.incipit
-ocVE.Stichera4.text = oc.m6.d2_en_US_dedes.ocVE.Stichera4.text
+ocVE.Stichera4.mode = oc.m6.d2_en_US_goadedes.ocVE.Stichera4.mode
+ocVE.Stichera4.greekmelody = oc.m6.d2_en_US_goadedes.ocVE.Stichera4.greekmelody
+ocVE.Stichera4.melody = oc.m6.d2_en_US_goadedes.ocVE.Stichera4.melody
+ocVE.Stichera4.incipit = oc.m6.d2_en_US_goadedes.ocVE.Stichera4.incipit
+ocVE.Stichera4.text = oc.m6.d2_en_US_goadedes.ocVE.Stichera4.text
 
 ocVE.Stichera5.mode = oc.m6.d2_en_US_dedes.ocVE.Stichera5.mode
 ocVE.Stichera5.melody = oc.m6.d2_en_US_dedes.ocVE.Stichera5.melody
@@ -40,11 +40,11 @@ ocVE.SticTheotokion.melody = oc.m6.d2_en_US_dedes.ocVE.SticTheotokion.melody
 ocVE.SticTheotokion.incipit = oc.m6.d2_en_US_dedes.ocVE.SticTheotokion.incipit
 ocVE.SticTheotokion.text = oc.m6.d2_en_US_dedes.ocVE.SticTheotokion.text
 
-ocVE.Aposticha1.mode = oc.m6.d2_en_US_dedes.ocVE.Aposticha1.mode
-ocVE.Aposticha1.greekmelody = oc.m6.d2_en_US_dedes.ocVE.Aposticha1.greekmelody
-ocVE.Aposticha1.melody = oc.m6.d2_en_US_dedes.ocVE.Aposticha1.melody
-ocVE.Aposticha1.incipit = oc.m6.d2_en_US_dedes.ocVE.Aposticha1.incipit
-ocVE.Aposticha1.text = oc.m6.d2_en_US_dedes.ocVE.Aposticha1.text
+ocVE.Aposticha1.mode = oc.m6.d2_en_US_goadedes.ocVE.Aposticha1.mode
+ocVE.Aposticha1.greekmelody = oc.m6.d2_en_US_goadedes.ocVE.Aposticha1.greekmelody
+ocVE.Aposticha1.melody = oc.m6.d2_en_US_goadedes.ocVE.Aposticha1.melody
+ocVE.Aposticha1.incipit = oc.m6.d2_en_US_goadedes.ocVE.Aposticha1.incipit
+ocVE.Aposticha1.text = oc.m6.d2_en_US_goadedes.ocVE.Aposticha1.text
 
 ocVE.Aposticha2.mode = oc.m6.d2_en_US_dedes.ocVE.Aposticha2.mode
 ocVE.Aposticha2.melody = oc.m6.d2_en_US_dedes.ocVE.Aposticha2.melody
@@ -637,11 +637,11 @@ ocLI.MM.Beatitudes1234TrTas78910GB.text = oc.m6.d2_en_US_dedes.ocLI.MM.Beatitude
 
 //Octoechos in Triodion
 
-octrVE.Stichera1.mode = oc.m6.d2_en_US_dedes.octrVE.Stichera1.mode
-octrVE.Stichera1.greekmelody = oc.m6.d2_en_US_dedes.octrVE.Stichera1.greekmelody
-octrVE.Stichera1.melody = oc.m6.d2_en_US_dedes.octrVE.Stichera1.melody
-octrVE.Stichera1.incipit = oc.m6.d2_en_US_dedes.octrVE.Stichera1.incipit
-octrVE.Stichera1.text = oc.m6.d2_en_US_dedes.octrVE.Stichera1.text
+octrVE.Stichera1.mode = oc.m6.d2_en_US_goadedes.octrVE.Stichera1.mode
+octrVE.Stichera1.greekmelody = oc.m6.d2_en_US_goadedes.octrVE.Stichera1.greekmelody
+octrVE.Stichera1.melody = oc.m6.d2_en_US_goadedes.octrVE.Stichera1.melody
+octrVE.Stichera1.incipit = oc.m6.d2_en_US_goadedes.octrVE.Stichera1.incipit
+octrVE.Stichera1.text = oc.m6.d2_en_US_goadedes.octrVE.Stichera1.text
 
 octrVE.Stichera2.mode = oc.m6.d2_en_US_dedes.octrVE.Stichera2.mode
 octrVE.Stichera2.melody = oc.m6.d2_en_US_dedes.octrVE.Stichera2.melody
