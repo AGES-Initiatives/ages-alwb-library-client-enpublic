@@ -403,9 +403,9 @@ trMA.Ode6K.incipit = tr.d014_en_US_dedes.trMA.Ode6K.incipit
 trMA.Ode6K.text = tr.d014_en_US_dedes.trMA.Ode6K.text
 
 trMA.Kontakion1.mode = tr.d014_en_US_dedes.trMA.Kontakion1.mode
-trMA.Kontakion1.melody = tr.d014_en_US_holycross.trMA.Kontakion1.melody
-trMA.Kontakion1.incipit = tr.d014_en_US_holycross.trMA.Kontakion1.incipit
-trMA.Kontakion1.text = tr.d014_en_US_holycross.trMA.Kontakion1.text
+trMA.Kontakion1.melody = tr.d014_en_US_goa.trMA.Kontakion1.melody
+trMA.Kontakion1.incipit = tr.d014_en_US_goa.trMA.Kontakion1.incipit
+trMA.Kontakion1.text = tr.d014_en_US_goa.trMA.Kontakion1.text
 
 trMA.Oikos1.text = tr.d014_en_US_dedes.trMA.Oikos1.text
 
@@ -643,8 +643,8 @@ trMA.AposTheotokion.text = tr.d014_en_US_dedes.trMA.AposTheotokion.text
 
 trLI.Kontakion1.mode = tr.d014_en_US_dedes.trLI.Kontakion1.mode
 trLI.Kontakion1.melody = tr.d014_en_US_dedes.trLI.Kontakion1.melody
-trLI.Kontakion1.incipit = tr.d014_en_US_holycross.trLI.Kontakion1.incipit
-trLI.Kontakion1.text = tr.d014_en_US_holycross.trLI.Kontakion1.text
+trLI.Kontakion1.incipit = tr.d014_en_US_goa.trLI.Kontakion1.incipit
+trLI.Kontakion1.text = tr.d014_en_US_goa.trLI.Kontakion1.text
 
 trLI.MM.CommunionHymn.text = properties_en_US_public.media.key
 
