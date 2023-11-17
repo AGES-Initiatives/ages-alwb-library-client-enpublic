@@ -490,8 +490,8 @@ meMA.Ode5C21.ode = me.m11.d21_en_US_dedes.meMA.Ode5C21.ode
 meMA.Ode5C21.mode = me.m11.d21_en_US_dedes.meMA.Ode5C21.mode
 meMA.Ode5C21.greekmelody = me.m11.d21_en_US_dedes.meMA.Ode5C21.greekmelody
 meMA.Ode5C21.melody = me.m11.d21_en_US_barrett.meMA.Ode5C21.melody
-meMA.Ode5C21.incipit = me.m11.d21_en_US_oca.meMA.Ode5C21.incipit
-meMA.Ode5C21.text = me.m11.d21_en_US_oca.meMA.Ode5C21.text
+meMA.Ode5C21.incipit = me.m11.d21_en_US_barrett.meMA.Ode5C21.incipit
+meMA.Ode5C21.text = me.m11.d21_en_US_barrett.meMA.Ode5C21.text
 
 meMA.Ode5C22.ode = me.m11.d21_en_US_dedes.meMA.Ode5C22.ode
 meMA.Ode5C22.mode = me.m11.d21_en_US_dedes.meMA.Ode5C22.mode
