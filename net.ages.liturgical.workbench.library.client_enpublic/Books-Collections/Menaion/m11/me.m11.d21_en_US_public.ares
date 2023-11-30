@@ -864,6 +864,8 @@ meMA.Ode9C16.melody = me.m11.d21_en_US_oca.meMA.Ode9C16.melody
 meMA.Ode9C16.incipit = me.m11.d21_en_US_oca.meMA.Ode9C16.incipit
 meMA.Ode9C16.text = me.m11.d21_en_US_oca.meMA.Ode9C16.text
 
+meMA.MM.Ode9C2123TasMMMM.text = me.m11.d21_en_US_dedes.meMA.MM.Ode9C2123TasMMMM.text
+
 meMA.Ode9C21.ode = me.m11.d21_en_US_dedes.meMA.Ode9C21.ode
 meMA.Ode9C21.mode = me.m11.d21_en_US_dedes.meMA.Ode9C21.mode
 meMA.Ode9C21.greekmelody = me.m11.d21_en_US_dedes.meMA.Ode9C21.greekmelody

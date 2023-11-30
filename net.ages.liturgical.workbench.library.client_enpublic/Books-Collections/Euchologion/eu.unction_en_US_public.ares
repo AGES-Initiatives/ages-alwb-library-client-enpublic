@@ -215,7 +215,7 @@ euUNC.Troparion.melody = eu.unction_en_US_dedes.euUNC.Troparion.melody
 euUNC.Troparion.text = eu.unction_en_US_dedes.euUNC.Troparion.text
 
 euUNC.R201 = eu.unction_en_US_dedes.euUNC.R201
-euUNC.Key0201.text = eu.unction_en_US_dedes.euUNC.Key0201.text
+euUNC.Key0201.text = eu.unction_en_US_goadedes.euUNC.Key0201.text
 euUNC.Key0202.title = eu.unction_en_US_dedes.euUNC.Key0202.title
 euUNC.Key0202.text = eu.unction_en_US_dedes.euUNC.Key0202.text
 euUNC.Key0203.title = eu.unction_en_US_dedes.euUNC.Key0203.title
@@ -240,32 +240,32 @@ euUNC.Key0400.title = eu.unction_en_US_goadedes.euUNC.Key0400.title
 euUNC.Key0401.text = eu.unction_en_US_goadedes.euUNC.Key0401.text
 euUNC.Key0402.text = prayers_en_US_goadedes.pr.exc07a.text
 
-euUNC.Key0500.title = eu.unction_en_US_dedes.euUNC.Key0500.title
-euUNC.Key0501.text = eu.unction_en_US_dedes.euUNC.Key0501.text
-euUNC.Key0502.text = prayers_en_US_holycross.pr.exc13.text
+euUNC.Key0500.title = eu.unction_en_US_goadedes.euUNC.Key0500.title
+euUNC.Key0501.text = eu.unction_en_US_goadedes.euUNC.Key0501.text
+euUNC.Key0502.text = prayers_en_US_goadedes.pr.exc13.text
 
-euUNC.Key0600.title = eu.unction_en_US_dedes.euUNC.Key0600.title
-euUNC.Key0601.text = eu.unction_en_US_dedes.euUNC.Key0601.text
-euUNC.Key0602.text = prayers_en_US_holycross.pr.exc13.text
+euUNC.Key0600.title = eu.unction_en_US_goadedes.euUNC.Key0600.title
+euUNC.Key0601.text = eu.unction_en_US_goadedes.euUNC.Key0601.text
+euUNC.Key0602.text = prayers_en_US_goadedes.pr.exc13.text
 
-euUNC.Key0700.title = eu.unction_en_US_dedes.euUNC.Key0700.title
-euUNC.Key0701.text = eu.unction_en_US_dedes.euUNC.Key0701.text
-euUNC.Key0702.text = eu.unction_en_US_dedes.euUNC.Key0702.text
+euUNC.Key0700.title = eu.unction_en_US_goadedes.euUNC.Key0700.title
+euUNC.Key0701.text = eu.unction_en_US_goadedes.euUNC.Key0701.text
+euUNC.Key0702.text = eu.unction_en_US_goadedes.euUNC.Key0702.text
 
-euUNC.Key0800.title = eu.unction_en_US_dedes.euUNC.Key0800.title
-euUNC.Key0801.text = eu.unction_en_US_dedes.euUNC.Key0801.text
+euUNC.Key0800.title = eu.unction_en_US_goadedes.euUNC.Key0800.title
+euUNC.Key0801.text = eu.unction_en_US_goadedes.euUNC.Key0801.text
 
-euUNC.Key0900.title = eu.unction_en_US_dedes.euUNC.Key0900.title
-euUNC.Key0901.text = eu.unction_en_US_dedes.euUNC.Key0901.text
+euUNC.Key0900.title = eu.unction_en_US_goadedes.euUNC.Key0900.title
+euUNC.Key0901.text = eu.unction_en_US_goadedes.euUNC.Key0901.text
 
-euUNC.Key1000.title = eu.unction_en_US_dedes.euUNC.Key1000.title
-euUNC.Key1001.text = eu.unction_en_US_dedes.euUNC.Key1001.text
-euUNC.Key1002.text = eu.unction_en_US_dedes.euUNC.Key1002.text
-euUNC.Key1003.text = eu.unction_en_US_dedes.euUNC.Key1003.text
-euUNC.Key1004.text = eu.unction_en_US_dedes.euUNC.Key1004.text
-euUNC.Key1005.text = eu.unction_en_US_dedes.euUNC.Key1005.text
+euUNC.Key1000.title = eu.unction_en_US_goadedes.euUNC.Key1000.title
+euUNC.Key1001.text = eu.unction_en_US_goadedes.euUNC.Key1001.text
+euUNC.Key1002.text = eu.unction_en_US_goadedes.euUNC.Key1002.text
+euUNC.Key1003.text = eu.unction_en_US_goadedes.euUNC.Key1003.text
+euUNC.Key1004.text = eu.unction_en_US_goadedes.euUNC.Key1004.text
+euUNC.Key1005.text = eu.unction_en_US_goadedes.euUNC.Key1005.text
 
-euUNC.Key1006.title = eu.unction_en_US_dedes.euUNC.Key1006.title
-euUNC.Key1006.text = eu.unction_en_US_dedes.euUNC.Key1006.text
+euUNC.Key1006.title = eu.unction_en_US_goadedes.euUNC.Key1006.title
+euUNC.Key1006.text = eu.unction_en_US_goadedes.euUNC.Key1006.text
 
-//euUNC.Key1100.text = eu.unction_en_US_dedes.euUNC.Key1100.text
+//euUNC.Key1100.text = eu.unction_en_US_goadedes.euUNC.Key1100.text
