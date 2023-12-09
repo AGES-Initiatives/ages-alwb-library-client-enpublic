@@ -85,9 +85,9 @@ meVE.AposStavrotheotokion.melody = me.m06.d12_en_US_dedes.meVE.AposStavrotheotok
 meVE.AposStavrotheotokion.incipit = me.m06.d12_en_US_dedes.meVE.AposStavrotheotokion.incipit
 meVE.AposStavrotheotokion.text = me.m06.d12_en_US_dedes.meVE.AposStavrotheotokion.text
 
-meVE.Apolytikion1.mode = me.m06.d12_en_US_dedes.meVE.Apolytikion1.mode
-meVE.Apolytikion1.greekmelody = me.m06.d12_en_US_dedes.meVE.Apolytikion1.greekmelody
-meVE.Apolytikion1.melody = me.m06.d12_en_US_dedes.meVE.Apolytikion1.melody
+meVE.GeneralApolytikion1.mode = me.m06.d12_en_US_dedes.meVE.GeneralApolytikion1.mode
+meVE.GeneralApolytikion1.greekmelody = me.m06.d12_en_US_dedes.meVE.GeneralApolytikion1.greekmelody
+meVE.GeneralApolytikion1.melody = me.m06.d12_en_US_dedes.meVE.GeneralApolytikion1.melody
 meVE.GeneralApolytikion1.name = me.m06.d12_en_US_dedes.meVE.GeneralApolytikion1.name
 
 meMA.C1.acrostic.title = me.m06.d12_en_US_dedes.meMA.C1.acrostic.title

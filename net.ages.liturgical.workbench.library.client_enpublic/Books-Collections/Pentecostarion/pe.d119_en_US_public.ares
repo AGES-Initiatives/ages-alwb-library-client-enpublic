@@ -118,20 +118,20 @@ peMA.Kathisma1T.melody = pe.d119_en_US_goadedes.peMA.Kathisma1T.melody
 peMA.Kathisma1T.incipit = pe.d119_en_US_goadedes.peMA.Kathisma1T.incipit
 peMA.Kathisma1T.text = pe.d119_en_US_goadedes.peMA.Kathisma1T.text
 
-peMA.Kathisma21.mode = pe.d119_en_US_dedes.peMA.Kathisma21.mode
-peMA.Kathisma21.melody = pe.d119_en_US_dedes.peMA.Kathisma21.melody
-peMA.Kathisma21.incipit = pe.d119_en_US_dedes.peMA.Kathisma21.incipit
-peMA.Kathisma21.text = pe.d119_en_US_dedes.peMA.Kathisma21.text
+peMA.Kathisma21.mode = pe.d119_en_US_goadedes.peMA.Kathisma21.mode
+peMA.Kathisma21.melody = pe.d119_en_US_goadedes.peMA.Kathisma21.melody
+peMA.Kathisma21.incipit = pe.d119_en_US_goadedes.peMA.Kathisma21.incipit
+peMA.Kathisma21.text = pe.d119_en_US_goadedes.peMA.Kathisma21.text
 
-peMA.Kathisma21b.mode = pe.d119_en_US_dedes.peMA.Kathisma21b.mode
-peMA.Kathisma21b.melody = pe.d119_en_US_dedes.peMA.Kathisma21b.melody
-peMA.Kathisma21b.incipit = pe.d119_en_US_dedes.peMA.Kathisma21b.incipit
-peMA.Kathisma21b.text = pe.d119_en_US_dedes.peMA.Kathisma21b.text
+peMA.Kathisma21b.mode = pe.d119_en_US_goadedes.peMA.Kathisma21b.mode
+peMA.Kathisma21b.melody = pe.d119_en_US_goadedes.peMA.Kathisma21b.melody
+peMA.Kathisma21b.incipit = pe.d119_en_US_goadedes.peMA.Kathisma21b.incipit
+peMA.Kathisma21b.text = pe.d119_en_US_goadedes.peMA.Kathisma21b.text
 
-peMA.Kathisma22.mode = pe.d119_en_US_dedes.peMA.Kathisma22.mode
-peMA.Kathisma22.melody = pe.d119_en_US_dedes.peMA.Kathisma22.melody
-peMA.Kathisma22.incipit = pe.d119_en_US_dedes.peMA.Kathisma22.incipit
-peMA.Kathisma22.text = pe.d119_en_US_dedes.peMA.Kathisma22.text
+peMA.Kathisma22.mode = pe.d119_en_US_goadedes.peMA.Kathisma22.mode
+peMA.Kathisma22.melody = pe.d119_en_US_goadedes.peMA.Kathisma22.melody
+peMA.Kathisma22.incipit = pe.d119_en_US_goadedes.peMA.Kathisma22.incipit
+peMA.Kathisma22.text = pe.d119_en_US_goadedes.peMA.Kathisma22.text
 
 peMA.C1.acrostic.title = pe.d119_en_US_dedes.peMA.C1.acrostic.title
 peMA.C1.acrostic.notice1 = pe.d119_en_US_dedes.peMA.C1.acrostic.notice1

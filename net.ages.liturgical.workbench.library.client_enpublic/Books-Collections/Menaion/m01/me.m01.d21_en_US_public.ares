@@ -35,6 +35,8 @@ meVE.Stichera03.melody = me.m01.d21_en_US_dedes.meVE.Stichera03.melody
 meVE.Stichera03.incipit = me.m01.d21_en_US_dedes.meVE.Stichera03.incipit
 meVE.Stichera03.text = me.m01.d21_en_US_dedes.meVE.Stichera03.text
 
+meVE.MM.Stichera1123as78910.text = me.m01.d21_en_US_dedes.meVE.MM.Stichera1123as78910.text
+
 meVE.Stichera04.mode = me.m01.d21_en_US_dedes.meVE.Stichera04.mode
 meVE.Stichera04.greekmelody = me.m01.d21_en_US_dedes.meVE.Stichera04.greekmelody
 meVE.Stichera04.melody = me.m01.d21_en_US_dedes.meVE.Stichera04.melody

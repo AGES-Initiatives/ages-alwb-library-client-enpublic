@@ -95,6 +95,8 @@ peMA.Lauds2.melody = pe.d091_en_US_goadedes.peMA.Lauds2.melody
 peMA.Lauds2.incipit = pe.d091_en_US_goadedes.peMA.Lauds2.incipit
 peMA.Lauds2.text = pe.d091_en_US_goadedes.peMA.Lauds2.text
 
+peMA.MM.Lauds12as12.text = pe.d091_en_US_goadedes.peMA.MM.Lauds12as12.text
+
 peMA.Lauds3.mode = pe.d091_en_US_goadedes.peMA.Lauds3.mode
 peMA.Lauds3.melody = pe.d091_en_US_goadedes.peMA.Lauds3.melody
 peMA.Lauds3.incipit = pe.d091_en_US_goadedes.peMA.Lauds3.incipit

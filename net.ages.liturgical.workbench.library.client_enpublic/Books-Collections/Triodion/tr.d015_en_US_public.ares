@@ -540,11 +540,11 @@ trMA.Exaposteilarion2.melody = tr.d015_en_US_dedes.trMA.Exaposteilarion2.melody
 trMA.Exaposteilarion2.incipit = tr.d015_en_US_dedes.trMA.Exaposteilarion2.incipit
 trMA.Exaposteilarion2.text = tr.d015_en_US_dedes.trMA.Exaposteilarion2.text
 
-trMA.ExapTheotokion.mode = tr.d015_en_US_dedes.trMA.ExapTheotokion.mode
-trMA.ExapTheotokion.greekmelody = tr.d015_en_US_dedes.trMA.ExapTheotokion.greekmelody
-trMA.ExapTheotokion.melody = tr.d015_en_US_dedes.trMA.ExapTheotokion.melody
-trMA.ExapTheotokion.incipit = tr.d015_en_US_dedes.trMA.ExapTheotokion.incipit
-trMA.ExapTheotokion.text = tr.d015_en_US_dedes.trMA.ExapTheotokion.text
+trMA.ExapTheotokion.mode = tr.d015_en_US_goadedes.trMA.ExapTheotokion.mode
+trMA.ExapTheotokion.greekmelody = tr.d015_en_US_goadedes.trMA.ExapTheotokion.greekmelody
+trMA.ExapTheotokion.melody = tr.d015_en_US_goadedes.trMA.ExapTheotokion.melody
+trMA.ExapTheotokion.incipit = tr.d015_en_US_goadedes.trMA.ExapTheotokion.incipit
+trMA.ExapTheotokion.text = tr.d015_en_US_goadedes.trMA.ExapTheotokion.text
 
 trMA.Lauds1.mode = tr.d015_en_US_dedes.trMA.Lauds1.mode
 trMA.Lauds1.melody = tr.d015_en_US_dedes.trMA.Lauds1.melody

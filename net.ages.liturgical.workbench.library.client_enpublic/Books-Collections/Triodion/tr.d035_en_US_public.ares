@@ -38,20 +38,20 @@ trVE.ApolTheotokion.melody = tr.d035_en_US_dedes.trVE.ApolTheotokion.melody
 trVE.ApolTheotokion.incipit = tr.d035_en_US_dedes.trVE.ApolTheotokion.incipit
 trVE.ApolTheotokion.text = tr.d035_en_US_dedes.trVE.ApolTheotokion.text
 
-trMA.Kathisma21.mode = tr.d035_en_US_dedes.trMA.Kathisma21.mode
-trMA.Kathisma21.melody = tr.d035_en_US_dedes.trMA.Kathisma21.melody
-trMA.Kathisma21.incipit = tr.d035_en_US_dedes.trMA.Kathisma21.incipit
-trMA.Kathisma21.text = tr.d035_en_US_dedes.trMA.Kathisma21.text
+trMA.Kathisma21.mode = tr.d035_en_US_goadedes.trMA.Kathisma21.mode
+trMA.Kathisma21.melody = tr.d035_en_US_goadedes.trMA.Kathisma21.melody
+trMA.Kathisma21.incipit = tr.d035_en_US_goadedes.trMA.Kathisma21.incipit
+trMA.Kathisma21.text = tr.d035_en_US_goadedes.trMA.Kathisma21.text
 
-trMA.Kathisma21b.mode = tr.d035_en_US_dedes.trMA.Kathisma21b.mode
-trMA.Kathisma21b.melody = tr.d035_en_US_dedes.trMA.Kathisma21b.melody
-trMA.Kathisma21b.incipit = tr.d035_en_US_dedes.trMA.Kathisma21b.incipit
-trMA.Kathisma21b.text = tr.d035_en_US_dedes.trMA.Kathisma21b.text
+trMA.Kathisma21b.mode = tr.d035_en_US_goadedes.trMA.Kathisma21b.mode
+trMA.Kathisma21b.melody = tr.d035_en_US_goadedes.trMA.Kathisma21b.melody
+trMA.Kathisma21b.incipit = tr.d035_en_US_goadedes.trMA.Kathisma21b.incipit
+trMA.Kathisma21b.text = tr.d035_en_US_goadedes.trMA.Kathisma21b.text
 
-trMA.Kathisma22.mode = tr.d035_en_US_dedes.trMA.Kathisma22.mode
-trMA.Kathisma22.melody = tr.d035_en_US_dedes.trMA.Kathisma22.melody
-trMA.Kathisma22.incipit = tr.d035_en_US_dedes.trMA.Kathisma22.incipit
-trMA.Kathisma22.text = tr.d035_en_US_dedes.trMA.Kathisma22.text
+trMA.Kathisma22.mode = tr.d035_en_US_goadedes.trMA.Kathisma22.mode
+trMA.Kathisma22.melody = tr.d035_en_US_goadedes.trMA.Kathisma22.melody
+trMA.Kathisma22.incipit = tr.d035_en_US_goadedes.trMA.Kathisma22.incipit
+trMA.Kathisma22.text = tr.d035_en_US_goadedes.trMA.Kathisma22.text
 
 trMA.C1.acrostic.title = tr.d035_en_US_dedes.trMA.C1.acrostic.title
 trMA.C1.acrostic.notice1 = tr.d035_en_US_dedes.trMA.C1.acrostic.notice1

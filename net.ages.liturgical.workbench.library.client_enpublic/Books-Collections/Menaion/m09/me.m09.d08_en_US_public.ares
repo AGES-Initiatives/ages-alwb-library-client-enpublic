@@ -96,7 +96,7 @@ meVE.Stichera06.melody = me.m09.d08_en_US_duvall.meVE.Stichera06.melody
 meVE.Stichera06.incipit = me.m09.d08_en_US_duvall.meVE.Stichera06.incipit
 meVE.Stichera06.text = me.m09.d08_en_US_duvall.meVE.Stichera06.text
 
-meVE.MM.Stichera1234as78910 = me.m09.d08_en_US_dedes.meVE.MM.Stichera1234as78910
+meVE.MM.Stichera1234as78910.text = me.m09.d08_en_US_dedes.meVE.MM.Stichera1234as78910.text
 
 meVE.SticGlory.poet = me.m09.d08_en_US_dedes.meVE.SticGlory.poet
 meVE.SticGlory.mode = me.m09.d08_en_US_dedes.meVE.SticGlory.mode
