@@ -722,9 +722,9 @@ meMA.LaudsBoth.text = me.m01.d01_en_US_dedes.meMA.LaudsBoth.text
 
 meMA.MM.Lauds1234as5678.text = me.m01.d01_en_US_dedes.meMA.MM.Lauds1234as5678.text
 
-meLI.MM.Antiphon2.text = properties_en_US_public.media.key
+meLI.MM.Antiphon2.text = me.m01.d01_en_US_dedes.meLI.MM.Antiphon2.text
 
-meLI.MM.EntranceHymn.text = properties_en_US_public.media.key
+meLI.MM.EntranceHymn.text = me.m01.d01_en_US_dedes.meLI.MM.EntranceHymn.text
 
 meLI.Kontakion1.mode = me.m01.d01_en_US_dedes.meLI.Kontakion1.mode
 meLI.Kontakion1.greekmelody = me.m01.d01_en_US_dedes.meLI.Kontakion1.greekmelody
@@ -742,7 +742,7 @@ meLI.AfterCommunion.mode = me.m01.d01_en_US_dedes.meLI.AfterCommunion.mode
 meLI.AfterCommunion.incipit = me.m01.d01_en_US_dedes.meLI.AfterCommunion.incipit
 meLI.AfterCommunion.text = me.m01.d01_en_US_dedes.meLI.AfterCommunion.text
 
-meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
+meLI.MM.CommunionHymn.text = me.m01.d01_en_US_dedes.meLI.MM.CommunionHymn.text
 
 meLI.Megalynarion.incipit = me.m01.d01_en_US_goadedes.meLI.Megalynarion.incipit
 meLI.Megalynarion.text = me.m01.d01_en_US_goadedes.meLI.Megalynarion.text
