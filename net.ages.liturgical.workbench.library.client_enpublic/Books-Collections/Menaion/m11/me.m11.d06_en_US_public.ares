@@ -361,7 +361,7 @@ meMA.ExapTheotokion.melody = me.m11.d06_en_US_dedes.meMA.ExapTheotokion.melody
 meMA.ExapTheotokion.incipit = me.m11.d06_en_US_dedes.meMA.ExapTheotokion.incipit
 meMA.ExapTheotokion.text = me.m11.d06_en_US_dedes.meMA.ExapTheotokion.text
 
-meMA.MM.Ve1234as5678.text = properties_en_US_public.media.key
+meMA.MM.Ve1234as5678.text = me.m11.d06_en_US_dedes.meMA.MM.Ve1234as5678.text
 
 meMA.AposGlory.poet = me.m11.d06_en_US_dedes.meMA.AposGlory.poet
 meMA.AposGlory.mode = me.m11.d06_en_US_dedes.meMA.AposGlory.mode

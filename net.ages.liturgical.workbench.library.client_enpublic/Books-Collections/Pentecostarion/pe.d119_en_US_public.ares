@@ -494,6 +494,6 @@ peMA.AposTheotokion.melody = pe.d119_en_US_dedes.peMA.AposTheotokion.melody
 peMA.AposTheotokion.incipit = pe.d119_en_US_dedes.peMA.AposTheotokion.incipit
 peMA.AposTheotokion.text = pe.d119_en_US_dedes.peMA.AposTheotokion.text
 
-peLI.MM.CommunionHymn.text = properties_en_US_public.media.key
+peLI.MM.CommunionHymn.text = pe.d119_en_US_dedes.peLI.MM.CommunionHymn.text
 
 peLI.Megalynarion.text = pe.d119_en_US_dedes.peLI.Megalynarion.text

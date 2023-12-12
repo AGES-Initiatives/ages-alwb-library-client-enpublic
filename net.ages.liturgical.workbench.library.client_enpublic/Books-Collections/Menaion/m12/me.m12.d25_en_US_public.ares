@@ -66,7 +66,7 @@ meVE.TheotokosHymn.mode = me.m12.d25_en_US_dedes.meVE.TheotokosHymn.mode
 meVE.TheotokosHymn.incipit = me.m12.d25_en_US_dedes.meVE.TheotokosHymn.incipit
 meVE.TheotokosHymn.text = me.m12.d25_en_US_dedes.meVE.TheotokosHymn.text
 
-meVE.MM.CommunionHymn.text = properties_en_US_public.media.key
+meVE.MM.CommunionHymn.text = me.m12.d25_en_US_dedes.meVE.MM.CommunionHymn.text
 
 meVE.Lity1.poet = me.m12.d25_en_US_dedes.meVE.Lity1.poet
 meVE.Lity1.mode = me.m12.d25_en_US_dedes.meVE.Lity1.mode
@@ -781,9 +781,9 @@ meMA.LaudsBoth.melody = me.m12.d25_en_US_dedes.meMA.LaudsBoth.melody
 meMA.LaudsBoth.incipit = me.m12.d25_en_US_dedes.meMA.LaudsBoth.incipit
 meMA.LaudsBoth.text = me.m12.d25_en_US_dedes.meMA.LaudsBoth.text
 
-meLI.MM.Antiphon2.text = properties_en_US_public.media.key
+meLI.MM.Antiphon2.text = me.m12.d25_en_US_dedes.meLI.MM.Antiphon2.text
 
-meLI.MM.EntranceHymn.text = properties_en_US_public.media.key
+meLI.MM.EntranceHymn.text = me.m12.d25_en_US_dedes.meLI.MM.EntranceHymn.text
 
 meLI.Kontakion1.mode = me.m12.d25_en_US_dedes.meLI.Kontakion1.mode
 meLI.Kontakion1.greekmelody = me.m12.d25_en_US_dedes.meLI.Kontakion1.greekmelody
@@ -798,7 +798,7 @@ meLI.TheotokosHymnVerse.text = me.m12.d25_en_US_dedes.meLI.TheotokosHymnVerse.te
 meLI.TheotokosHymn.incipit = me.m12.d25_en_US_dedes.meLI.TheotokosHymn.incipit
 meLI.TheotokosHymn.text = me.m12.d25_en_US_dedes.meLI.TheotokosHymn.text
 
-meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
+meLI.MM.CommunionHymn.text = me.m12.d25_en_US_dedes.meLI.MM.CommunionHymn.text
 
 meLI.AfterCommunion.mode = me.m12.d25_en_US_dedes.meLI.AfterCommunion.mode
 meLI.AfterCommunion.incipit = me.m12.d25_en_US_dedes.meLI.AfterCommunion.incipit

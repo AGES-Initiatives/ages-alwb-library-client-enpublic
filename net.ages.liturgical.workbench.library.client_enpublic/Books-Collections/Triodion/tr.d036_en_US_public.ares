@@ -362,7 +362,7 @@ trLI.TheotokosHymn.mode = tr.d036_en_US_goadedes.trLI.TheotokosHymn.mode
 trLI.TheotokosHymn.incipit = tr.d036_en_US_goadedes.trLI.TheotokosHymn.incipit
 trLI.TheotokosHymn.text = tr.d036_en_US_goadedes.trLI.TheotokosHymn.text
 
-trLI.MM.CommunionHymn.text = properties_en_US_public.media.key
+trLI.MM.CommunionHymn.text = tr.d036_en_US_dedes.trLI.MM.CommunionHymn.text
 
 trLI.Megalynarion.text = tr.d036_en_US_dedes.trLI.Megalynarion.text
 

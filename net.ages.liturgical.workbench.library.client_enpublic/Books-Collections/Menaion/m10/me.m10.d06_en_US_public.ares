@@ -393,7 +393,7 @@ meMA.LaudsTheotokion.melody = me.m10.d06_en_US_dedes.meMA.LaudsTheotokion.melody
 meMA.LaudsTheotokion.incipit = me.m10.d06_en_US_dedes.meMA.LaudsTheotokion.incipit
 meMA.LaudsTheotokion.text = me.m10.d06_en_US_dedes.meMA.LaudsTheotokion.text
 
-meMA.MM.Lauds1123as5678.text = properties_en_US_public.media.key
+meMA.MM.Lauds1123as5678.text = me.m10.d06_en_US_dedes.meMA.MM.Lauds1123as5678.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody

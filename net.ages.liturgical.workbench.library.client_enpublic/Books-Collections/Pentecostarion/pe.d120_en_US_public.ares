@@ -126,7 +126,7 @@ peMA.Kathisma31.melody = pe.d120_en_US_dedes.peMA.Kathisma31.melody
 peMA.Kathisma31.incipit = pe.d120_en_US_dedes.peMA.Kathisma31.incipit
 peMA.Kathisma31.text = pe.d120_en_US_dedes.peMA.Kathisma31.text
 
-peMA.MM.Prokeimenon.text = properties_en_US_public.media.key
+peMA.MM.Prokeimenon.text = pe.d120_en_US_dedes.peMA.MM.Prokeimenon.text
 
 peMA.PostGospelGlory.mode = pe.d120_en_US_dedes.peMA.PostGospelGlory.mode
 peMA.PostGospelGlory.melody = pe.d120_en_US_dedes.peMA.PostGospelGlory.melody
@@ -679,10 +679,10 @@ peMA.LaudsGlory.melody = pe.d120_en_US_dedes.peMA.LaudsGlory.melody
 peMA.LaudsGlory.incipit = pe.d120_en_US_dedes.peMA.LaudsGlory.incipit
 peMA.LaudsGlory.text = pe.d120_en_US_dedes.peMA.LaudsGlory.text
 
-peLI.MM.Antiphon2.text = properties_en_US_public.media.key
+peLI.MM.Antiphon2.text = pe.d120_en_US_dedes.peLI.MM.Antiphon2.text
 
-peLI.MM.EntranceHymn.text = properties_en_US_public.media.key
-peLI.MM.EntranceHymnAF.text = properties_en_US_public.media.key
+peLI.MM.EntranceHymn.text = pe.d120_en_US_dedes.peLI.MM.EntranceHymn.text
+peLI.MM.EntranceHymnAF.text = pe.d120_en_US_dedes.peLI.MM.EntranceHymnAF.text
 
 peLI.Kontakion1.mode = pe.d120_en_US_dedes.peLI.Kontakion1.mode
 peLI.Kontakion1.melody = pe.d120_en_US_dedes.peLI.Kontakion1.melody
@@ -693,7 +693,7 @@ peLI.TheotokosHymn.mode = pe.d120_en_US_dedes.peLI.TheotokosHymn.mode
 peLI.TheotokosHymn.incipit = pe.d120_en_US_dedes.peLI.TheotokosHymn.incipit
 peLI.TheotokosHymn.text = pe.d120_en_US_dedes.peLI.TheotokosHymn.text
 
-peLI.MM.CommunionHymn.text = properties_en_US_public.media.key
+peLI.MM.CommunionHymn.text = pe.d120_en_US_dedes.peLI.MM.CommunionHymn.text
 
 peLI.AfterCommunion.mode = pe.d120_en_US_dedes.peLI.AfterCommunion.mode
 peLI.AfterCommunion.incipit = pe.d120_en_US_dedes.peLI.AfterCommunion.incipit

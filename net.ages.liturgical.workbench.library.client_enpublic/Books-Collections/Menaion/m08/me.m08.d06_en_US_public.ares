@@ -659,7 +659,7 @@ meLI.TheotokosHymn.mode = me.m08.d06_en_US_dedes.meLI.TheotokosHymn.mode
 meLI.TheotokosHymn.incipit = me.m08.d06_en_US_dedes.meLI.TheotokosHymn.incipit
 meLI.TheotokosHymn.text = me.m08.d06_en_US_dedes.meLI.TheotokosHymn.text
 
-meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
+meLI.MM.CommunionHymn.text = me.m08.d06_en_US_dedes.meLI.MM.CommunionHymn.text
 
 meLI.Megalynarion.text = me.m08.d06_en_US_dedes.meLI.Megalynarion.text
 

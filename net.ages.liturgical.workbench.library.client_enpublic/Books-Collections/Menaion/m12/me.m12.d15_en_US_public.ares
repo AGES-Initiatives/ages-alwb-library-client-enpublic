@@ -606,7 +606,7 @@ meMA.Lauds3.melody = me.m12.d15_en_US_dedes.meMA.Lauds3.melody
 meMA.Lauds3.incipit = me.m12.d15_en_US_dedes.meMA.Lauds3.incipit
 meMA.Lauds3.text = me.m12.d15_en_US_dedes.meMA.Lauds3.text
 
-meMA.MM.Lauds123as678.text = properties_en_US_public.media.key
+meMA.MM.Lauds123as678.text = me.m12.d15_en_US_dedes.meMA.MM.Lauds123as678.text
 
 meMA.LaudsGlory.mode = me.m12.d15_en_US_dedes.meMA.LaudsGlory.mode
 meMA.LaudsGlory.melody = me.m12.d15_en_US_dedes.meMA.LaudsGlory.melody

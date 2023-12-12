@@ -450,9 +450,9 @@ trMA.LaudsGlory.melody = tr.d064_en_US_dedes.trMA.LaudsGlory.melody
 trMA.LaudsGlory.incipit = tr.d064_en_US_dedes.trMA.LaudsGlory.incipit
 trMA.LaudsGlory.text = tr.d064_en_US_dedes.trMA.LaudsGlory.text
 
-trLI.MM.Antiphon2.text = properties_en_US_public.media.key
+trLI.MM.Antiphon2.text = tr.d064_en_US_dedes.trLI.MM.Antiphon2.text
 
-trLI.MM.EntranceHymn.text = properties_en_US_public.media.key
+trLI.MM.EntranceHymn.text = tr.d064_en_US_dedes.trLI.MM.EntranceHymn.text
 
 trLI.Kontakion1.mode = tr.d064_en_US_dedes.trLI.Kontakion1.mode
 trLI.Kontakion1.melody = tr.d064_en_US_duvall.trLI.Kontakion1.melody
@@ -463,7 +463,7 @@ trLI.TheotokosHymn.mode = tr.d064_en_US_dedes.trLI.TheotokosHymn.mode
 trLI.TheotokosHymn.incipit = tr.d064_en_US_dedes.trLI.TheotokosHymn.incipit
 trLI.TheotokosHymn.text = tr.d064_en_US_dedes.trLI.TheotokosHymn.text
 
-trLI.MM.CommunionHymn.text = properties_en_US_public.media.key
+trLI.MM.CommunionHymn.text = tr.d064_en_US_dedes.trLI.MM.CommunionHymn.text
 
 trLI.AfterCommunion.mode = tr.d064_en_US_dedes.trLI.AfterCommunion.mode
 trLI.AfterCommunion.incipit = tr.d064_en_US_dedes.trLI.AfterCommunion.incipit

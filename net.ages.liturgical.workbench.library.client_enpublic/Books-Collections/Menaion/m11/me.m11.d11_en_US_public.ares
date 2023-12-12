@@ -654,7 +654,7 @@ meMA.AposStavrotheotokion.melody = me.m11.d11_en_US_dedes.meMA.AposStavrotheotok
 meMA.AposStavrotheotokion.incipit = me.m11.d11_en_US_dedes.meMA.AposStavrotheotokion.incipit
 meMA.AposStavrotheotokion.text = me.m11.d11_en_US_dedes.meMA.AposStavrotheotokion.text
 
-meMA.MM.VeApos1123as5678.text = properties_en_US_public.media.key
+meMA.MM.VeApos1123as5678.text = me.m11.d11_en_US_dedes.meMA.MM.VeApos1123as5678.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody

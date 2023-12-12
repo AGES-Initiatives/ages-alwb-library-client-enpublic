@@ -625,8 +625,8 @@ meMA.Exaposteilarion2.melody = me.m02.d01_en_US_dedes.meMA.Exaposteilarion2.melo
 meMA.Exaposteilarion2.incipit = me.m02.d01_en_US_dedes.meMA.Exaposteilarion2.incipit
 meMA.Exaposteilarion2.text = me.m02.d01_en_US_dedes.meMA.Exaposteilarion2.text
 
-meMA.MM.Apos1123as5678.text = properties_en_US_public.media.key
-meMA.MM.Apos123as678.text = properties_en_US_public.media.key
+meMA.MM.Apos1123as5678.text = me.m02.d01_en_US_dedes.meMA.MM.Apos1123as5678.text
+meMA.MM.Apos123as678.text = me.m02.d01_en_US_dedes.meMA.MM.Apos123as678.text
 
 meMA.Aposticha1.mode = me.m02.d01_en_US_dedes.meMA.Aposticha1.mode
 meMA.Aposticha1.greekmelody = me.m02.d01_en_US_dedes.meMA.Aposticha1.greekmelody

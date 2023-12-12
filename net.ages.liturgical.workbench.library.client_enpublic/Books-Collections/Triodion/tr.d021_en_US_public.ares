@@ -814,7 +814,7 @@ trMA.LaudsTheotokion.melody = tr.d021_en_US_dedes.trMA.LaudsTheotokion.melody
 trMA.LaudsTheotokion.incipit = tr.d021_en_US_dedes.trMA.LaudsTheotokion.incipit
 trMA.LaudsTheotokion.text = tr.d021_en_US_dedes.trMA.LaudsTheotokion.text
 
-trLI.MM.CommunionHymn.text = properties_en_US_public.media.key
+trLI.MM.CommunionHymn.text = tr.d021_en_US_dedes.trLI.MM.CommunionHymn.text
 
 trLI.Megalynarion.text = tr.d021_en_US_dedes.trLI.Megalynarion.text
 

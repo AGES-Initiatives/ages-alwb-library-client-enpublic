@@ -884,14 +884,14 @@ trMA.LaudsGlory.melody = tr.d056_en_US_dedes.trMA.LaudsGlory.melody
 trMA.LaudsGlory.incipit = tr.d056_en_US_dedes.trMA.LaudsGlory.incipit
 trMA.LaudsGlory.text = tr.d056_en_US_dedes.trMA.LaudsGlory.text
 
-trLI.MM.EntranceHymn.text = properties_en_US_public.media.key
+trLI.MM.EntranceHymn.text = tr.d056_en_US_dedes.trLI.MM.EntranceHymn.text
 
 trLI.Kontakion1.mode = tr.d056_en_US_dedes.trLI.Kontakion1.mode
 trLI.Kontakion1.melody = tr.d056_en_US_dedes.trLI.Kontakion1.melody
 trLI.Kontakion1.incipit = tr.d056_en_US_dedes.trLI.Kontakion1.incipit
 trLI.Kontakion1.text = tr.d056_en_US_dedes.trLI.Kontakion1.text
 
-trLI.MM.CommunionHymn.text = properties_en_US_public.media.key
+trLI.MM.CommunionHymn.text = tr.d056_en_US_dedes.trLI.MM.CommunionHymn.text
 
 trLI.Megalynarion.text = tr.d056_en_US_dedes.trLI.Megalynarion.text
 

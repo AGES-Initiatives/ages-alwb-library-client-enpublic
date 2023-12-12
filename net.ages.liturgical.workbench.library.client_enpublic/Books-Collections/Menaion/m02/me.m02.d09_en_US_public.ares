@@ -412,7 +412,7 @@ meMA.ExapTheotokion.incipit = me.m02.d09_en_US_dedes.meMA.ExapTheotokion.incipit
 meMA.ExapTheotokion.text = me.m02.d09_en_US_dedes.meMA.ExapTheotokion.text
 
 
-meLI.MM.EntranceHymn.text = properties_en_US_public.media.key
+meLI.MM.EntranceHymn.text = me.m02.d09_en_US_dedes.meLI.MM.EntranceHymn.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody

@@ -137,7 +137,7 @@ hoMA.FuneralEvlog9.text = ho.ho03_en_US_holycross.hoMA.FuneralEvlog9.text
 //Psalm 50
 hoMA.Psalm50.text = ho.ho03_en_US_dedes.hoMA.Psalm50.text //for media
 
-hoMA.MM.Magnificat.text = properties_en_US_public.media.key //for media of all modes together
+hoMA.MM.Magnificat.text = ho.ho03_en_US_dedes.hoMA.MM.Magnificat.text //for media of all modes together
 hoMA.Ode9.Meg00.incipit = ho.ho03_en_US_dedes.hoMA.Ode9.Meg00.incipit
 hoMA.Ode9.Meg00.text = ho.ho03_en_US_dedes.hoMA.Ode9.Meg00.text
 

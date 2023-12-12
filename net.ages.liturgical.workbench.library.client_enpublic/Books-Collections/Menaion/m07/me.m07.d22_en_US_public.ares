@@ -341,7 +341,7 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
-meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
+meLI.MM.CommunionHymn.text = me.m07.d22_en_US_dedes.meLI.MM.CommunionHymn.text
 
 meLI.Megalynarion.text = me.m07.d22_en_US_goadedes.meLI.Megalynarion.text
 
@@ -744,7 +744,7 @@ alt1.meMA.LaudsGlory.melody = me.m07.d22_en_US_dedes.alt1.meMA.LaudsGlory.melody
 alt1.meMA.LaudsGlory.incipit = me.m07.d22_en_US_dedes.alt1.meMA.LaudsGlory.incipit
 alt1.meMA.LaudsGlory.text = me.m07.d22_en_US_dedes.alt1.meMA.LaudsGlory.text
 
-alt1.meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
+alt1.meMA.MM.LaudsSunday.text = me.m07.d22_en_US_dedes.alt1.meMA.MM.LaudsSunday.text
 
 alt1.meLI.Kontakion1.mode = me.m07.d22_en_US_dedes.alt1.meLI.Kontakion1.mode
 alt1.meLI.Kontakion1.melody = me.m07.d22_en_US_dedes.alt1.meLI.Kontakion1.melody

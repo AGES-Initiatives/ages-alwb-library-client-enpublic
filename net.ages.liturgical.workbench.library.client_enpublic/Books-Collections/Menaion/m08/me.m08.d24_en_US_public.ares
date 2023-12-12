@@ -782,14 +782,14 @@ alt1.meMA.LaudsTheotokion.melody = me.m08.d24_en_US_dedes.alt1.meMA.LaudsTheotok
 alt1.meMA.LaudsTheotokion.incipit = me.m08.d24_en_US_dedes.alt1.meMA.LaudsTheotokion.incipit
 alt1.meMA.LaudsTheotokion.text = me.m08.d24_en_US_dedes.alt1.meMA.LaudsTheotokion.text
 
-alt1.meMA.MM.LaudsSunday.text = properties_en_US_public.media.key
+alt1.meMA.MM.LaudsSunday.text = me.m08.d24_en_US_dedes.alt1.meMA.MM.LaudsSunday.text
 
 alt1.meLI.Kontakion1.mode = me.m08.d24_en_US_dedes.alt1.meLI.Kontakion1.mode
 alt1.meLI.Kontakion1.melody = me.m08.d24_en_US_dedes.alt1.meLI.Kontakion1.melody
 alt1.meLI.Kontakion1.incipit = me.m08.d24_en_US_dedes.alt1.meLI.Kontakion1.incipit
 alt1.meLI.Kontakion1.text = me.m08.d24_en_US_dedes.alt1.meLI.Kontakion1.text
 
-alt1.meLI.MM.CommunionHymn.text = properties_en_US_public.media.key
+alt1.meLI.MM.CommunionHymn.text = me.m08.d24_en_US_dedes.alt1.meLI.MM.CommunionHymn.text
 
 alt1.meLI.Megalynarion.text = me.m08.d24_en_US_dedes.alt1.meLI.Megalynarion.text
 

@@ -950,7 +950,7 @@ trMA.AposTheotokion.melody = tr.d028_en_US_dedes.trMA.AposTheotokion.melody
 trMA.AposTheotokion.incipit = tr.d028_en_US_dedes.trMA.AposTheotokion.incipit
 trMA.AposTheotokion.text = tr.d028_en_US_dedes.trMA.AposTheotokion.text
 
-trLI.MM.CommunionHymn.text = properties_en_US_public.media.key
+trLI.MM.CommunionHymn.text = tr.d028_en_US_dedes.trLI.MM.CommunionHymn.text
 
 trLI.Megalynarion.text = tr.d028_en_US_dedes.trLI.Megalynarion.text
 

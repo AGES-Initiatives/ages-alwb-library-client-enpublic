@@ -418,7 +418,7 @@ peLI.Kontakion1.melody = pe.d127_en_US_dedes.peLI.Kontakion1.melody
 peLI.Kontakion1.incipit = pe.d127_en_US_dedes.peLI.Kontakion1.incipit
 peLI.Kontakion1.text = pe.d127_en_US_dedes.peLI.Kontakion1.text
 
-peLI.MM.CommunionHymn.text = properties_en_US_public.media.key
+peLI.MM.CommunionHymn.text = pe.d127_en_US_dedes.peLI.MM.CommunionHymn.text
 
 peLI.Megalynarion.text = pe.d127_en_US_dedes.peLI.Megalynarion.text
 peLI.Megalynarion2.text = pe.d127_en_US_goadedes.peLI.Megalynarion2.text

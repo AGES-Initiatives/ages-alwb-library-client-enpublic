@@ -371,7 +371,7 @@ meMA.LaudsGlory.melody = me.m07.d25_en_US_dedes.meMA.LaudsGlory.melody
 meMA.LaudsGlory.incipit = me.m07.d25_en_US_dedes.meMA.LaudsGlory.incipit
 meMA.LaudsGlory.text = me.m07.d25_en_US_dedes.meMA.LaudsGlory.text
 
-meMA.MM.Lauds1123as5678.text = properties_en_US_public.media.key
+meMA.MM.Lauds1123as5678.text = me.m07.d25_en_US_dedes.meMA.MM.Lauds1123as5678.text
 
 meLI.Kontakion1.mode = me.m07.d25_en_US_dedes.meLI.Kontakion1.mode
 meLI.Kontakion1.greekmelody = me.m07.d25_en_US_dedes.meLI.Kontakion1.greekmelody

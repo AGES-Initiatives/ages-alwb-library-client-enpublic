@@ -390,7 +390,7 @@ meMA.LaudsStavrotheotokion.melody = me.m10.d21_en_US_dedes.meMA.LaudsStavrotheot
 meMA.LaudsStavrotheotokion.incipit = me.m10.d21_en_US_dedes.meMA.LaudsStavrotheotokion.incipit
 meMA.LaudsStavrotheotokion.text = me.m10.d21_en_US_dedes.meMA.LaudsStavrotheotokion.text
 
-meMA.MM.Lauds1123as5678.text = properties_en_US_public.media.key
+meMA.MM.Lauds1123as5678.text = me.m10.d21_en_US_dedes.meMA.MM.Lauds1123as5678.text
 
 meMA.AposGlory.mode = me.m10.d21_en_US_dedes.meMA.AposGlory.mode
 meMA.AposGlory.melody = me.m10.d21_en_US_dedes.meMA.AposGlory.melody

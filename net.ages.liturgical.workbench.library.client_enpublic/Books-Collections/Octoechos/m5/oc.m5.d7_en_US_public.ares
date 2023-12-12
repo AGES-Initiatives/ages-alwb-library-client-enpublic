@@ -64,7 +64,7 @@ ocVE.ApolTheotokionVM.melody = oc.m5.d7_en_US_goadedes.ocVE.ApolTheotokionVM.mel
 ocVE.ApolTheotokionVM.incipit = oc.m5.d7_en_US_goadedes.ocVE.ApolTheotokionVM.incipit
 ocVE.ApolTheotokionVM.text = oc.m5.d7_en_US_goadedes.ocVE.ApolTheotokionVM.text
 
-ocMA.MM.Alleluia.text = properties_en_US_public.media.key
+ocMA.MM.Alleluia.text = oc.m5.d7_en_US_dedes.ocMA.MM.Alleluia.text
 
 ocMA.Kathisma11.mode = oc.m5.d7_en_US_dedes.ocMA.Kathisma11.mode
 ocMA.Kathisma11.greekmelody = oc.m5.d7_en_US_dedes.ocMA.Kathisma11.greekmelody

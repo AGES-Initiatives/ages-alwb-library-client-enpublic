@@ -150,7 +150,7 @@ peMA.Kathisma31.melody = pe.d078_en_US_dedes.peMA.Kathisma31.melody
 peMA.Kathisma31.incipit = pe.d078_en_US_dedes.peMA.Kathisma31.incipit
 peMA.Kathisma31.text = pe.d078_en_US_dedes.peMA.Kathisma31.text
 
-peMA.MM.Prokeimenon.text = properties_en_US_public.media.key
+peMA.MM.Prokeimenon.text = pe.d078_en_US_dedes.peMA.MM.Prokeimenon.text
 
 peMA.PostGospelGlory.mode = pe.d078_en_US_dedes.peMA.PostGospelGlory.mode
 peMA.PostGospelGlory.melody = pe.d078_en_US_dedes.peMA.PostGospelGlory.melody
@@ -463,6 +463,6 @@ peLI.TheotokosHymn.mode = pe.d078_en_US_dedes.peLI.TheotokosHymn.mode
 peLI.TheotokosHymn.incipit = pe.d078_en_US_dedes.peLI.TheotokosHymn.incipit
 peLI.TheotokosHymn.text = pe.d078_en_US_dedes.peLI.TheotokosHymn.text
 
-peLI.MM.CommunionHymn.text = properties_en_US_public.media.key
+peLI.MM.CommunionHymn.text = pe.d078_en_US_dedes.peLI.MM.CommunionHymn.text
 
 peLI.Megalynarion.text = pe.d078_en_US_dedes.peLI.Megalynarion.text

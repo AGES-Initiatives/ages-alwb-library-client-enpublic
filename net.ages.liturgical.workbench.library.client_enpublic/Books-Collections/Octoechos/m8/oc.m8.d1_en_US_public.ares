@@ -2,13 +2,13 @@ A_Resource_Whose_Name = oc.m8.d1_en_US_public
 
 ocBK.mode.title = oc.m8.d1_en_US_dedes.ocBK.mode.title
 
-ocGE.MM.GlorySticheraric.text = properties_en_US_public.media.key
+ocGE.MM.GlorySticheraric.text = oc.m8.d1_en_US_dedes.ocGE.MM.GlorySticheraric.text
 
-ocGE.MM.BothSticheraric.text = properties_en_US_public.media.key
+ocGE.MM.BothSticheraric.text = oc.m8.d1_en_US_dedes.ocGE.MM.BothSticheraric.text
 
-ocGE.MM.GloryHeirmologic.text = properties_en_US_public.media.key
+ocGE.MM.GloryHeirmologic.text = oc.m8.d1_en_US_dedes.ocGE.MM.GloryHeirmologic.text
 
-ocGE.MM.BothHeirmologic.text = properties_en_US_public.media.key
+ocGE.MM.BothHeirmologic.text = oc.m8.d1_en_US_dedes.ocGE.MM.BothHeirmologic.text
 
 ocSV.Dogmatic.mode = oc.m8.d1_en_US_dedes.ocSV.Dogmatic.mode
 ocSV.Dogmatic.melody = oc.m8.d1_en_US_dedes.ocSV.Dogmatic.melody
@@ -35,11 +35,11 @@ ocSV.AposDogmatic.melody = oc.m8.d1_en_US_dedes.ocSV.AposDogmatic.melody
 ocSV.AposDogmatic.incipit = oc.m8.d1_en_US_dedes.ocSV.AposDogmatic.incipit
 ocSV.AposDogmatic.text = oc.m8.d1_en_US_dedes.ocSV.AposDogmatic.text
 
-ocVE.MM.LIHC1.text = properties_en_US_public.media.key
+ocVE.MM.LIHC1.text = oc.m8.d1_en_US_dedes.ocVE.MM.LIHC1.text
 
-ocVE.MM.LIHC2.text = properties_en_US_public.media.key
+ocVE.MM.LIHC2.text = oc.m8.d1_en_US_dedes.ocVE.MM.LIHC2.text
 
-ocVE.MM.Stichologia.text = properties_en_US_public.media.key
+ocVE.MM.Stichologia.text = oc.m8.d1_en_US_dedes.ocVE.MM.Stichologia.text
 
 ocBK.ModeNaked = oc.m8.d1_en_US_dedes.ocBK.ModeNaked
 
@@ -333,7 +333,7 @@ ocMO.Ode9T.melody = oc.m8.d1_en_US_dedes.ocMO.Ode9T.melody
 ocMO.Ode9T.incipit = oc.m8.d1_en_US_dedes.ocMO.Ode9T.incipit
 ocMO.Ode9T.text = oc.m8.d1_en_US_dedes.ocMO.Ode9T.text
 
-ocMA.MM.GodIsTheLord.text = properties_en_US_public.media.key
+ocMA.MM.GodIsTheLord.text = oc.m8.d1_en_US_dedes.ocMA.MM.GodIsTheLord.text
 
 ocMA.Kathisma11.mode = oc.m8.d1_en_US_goadedes.ocMA.Kathisma11.mode
 ocMA.Kathisma11.greekmelody = oc.m8.d1_en_US_goadedes.ocMA.Kathisma11.greekmelody
@@ -436,7 +436,7 @@ ocMA.Antiphon43.melody = oc.m8.d1_en_US_goadedes.ocMA.Antiphon43.melody
 ocMA.Antiphon43.incipit = oc.m8.d1_en_US_goadedes.ocMA.Antiphon43.incipit
 ocMA.Antiphon43.text = oc.m8.d1_en_US_goadedes.ocMA.Antiphon43.text
 
-ocMA.MM.Prokeimenon.text = properties_en_US_public.media.key
+ocMA.MM.Prokeimenon.text = oc.m8.d1_en_US_dedes.ocMA.MM.Prokeimenon.text
 
 ocMA.C3.acrostic.title = oc.m8.d1_en_US_dedes.ocMA.C3.acrostic.title
 ocMA.C3.acrostic.notice1 = oc.m8.d1_en_US_dedes.ocMA.C3.acrostic.notice1
@@ -958,9 +958,9 @@ ocMA.Magnificat.mode = oc.m8.d1_en_US_dedes.ocMA.Magnificat.mode
 ocMA.Magnificat.incipit = oc.m8.d1_en_US_dedes.ocMA.Magnificat.incipit
 ocMA.Magnificat.text = oc.m8.d1_en_US_dedes.ocMA.Magnificat.text
 
-ocMA.MM.Lauds01.text = properties_en_US_public.media.key
-ocMA.MM.Lauds02.text = properties_en_US_public.media.key
-ocMA.MM.LaudsStichologia.text =
+ocMA.MM.Lauds01.text = oc.m8.d1_en_US_dedes.ocMA.MM.Lauds01.text
+ocMA.MM.Lauds02.text = oc.m8.d1_en_US_dedes.ocMA.MM.Lauds02.text
+ocMA.MM.LaudsStichologia.text = oc.m8.d1_en_US_dedes.ocMA.MM.LaudsStichologia.text
 
 ocMA.Lauds1.mode = oc.m8.d1_en_US_goadedes.ocMA.Lauds1.mode
 ocMA.Lauds1.greekmelody = oc.m8.d1_en_US_goadedes.ocMA.Lauds1.greekmelody

@@ -177,7 +177,7 @@ peMA.LaudsGlory.incipit = pe.d121_en_US_dedes.peMA.LaudsGlory.incipit
 peMA.LaudsGlory.text = pe.d121_en_US_dedes.peMA.LaudsGlory.text
 
 
-peLI.MM.EntranceHymn.text = properties_en_US_public.media.key
+peLI.MM.EntranceHymn.text = pe.d121_en_US_dedes.peLI.MM.EntranceHymn.text
 
 peLI.TheotokosHymn.mode = pe.d121_en_US_dedes.peLI.TheotokosHymn.mode
 peLI.TheotokosHymn.incipit = pe.d121_en_US_dedes.peLI.TheotokosHymn.incipit
