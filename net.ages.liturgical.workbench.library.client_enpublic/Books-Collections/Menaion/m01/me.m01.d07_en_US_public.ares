@@ -404,10 +404,10 @@ meMA.LaudsBoth.melody = me.m01.d07_en_US_dedes.meMA.LaudsBoth.melody
 meMA.LaudsBoth.incipit = me.m01.d07_en_US_dedes.meMA.LaudsBoth.incipit
 meMA.LaudsBoth.text = me.m01.d07_en_US_dedes.meMA.LaudsBoth.text
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m01.d07_en_US_dedes.meMA.Kontakion1.mode
+meLI.Kontakion1.melody = me.m01.d07_en_US_dedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m01.d07_en_US_dedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m01.d07_en_US_dedes.meMA.Kontakion1.text
 
 meLI.TheotokosHymn.mode = me.m01.d07_en_US_dedes.meLI.TheotokosHymn.mode
 meLI.TheotokosHymnVerse.incipit = me.m01.d07_en_US_dedes.meLI.TheotokosHymnVerse.incipit

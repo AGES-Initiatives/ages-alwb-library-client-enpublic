@@ -1051,10 +1051,11 @@ alt1.meMA.LaudsTheotokion.text = me.m02.d19_en_US_dedes.alt1.meMA.LaudsTheotokio
 
 alt1.meMA.MM.LaudsSunday.text = me.m02.d19_en_US_dedes.alt1.meMA.MM.LaudsSunday.text
 
-alt1.meLI.Kontakion1.mode = meMA.Kontakion1.mode
-alt1.meLI.Kontakion1.melody = meMA.Kontakion1.melody
-alt1.meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-alt1.meLI.Kontakion1.text = meMA.Kontakion1.text
+alt1.meLI.Kontakion1.mode = me.m02.d19_en_US_dedes.alt1.meMA.Kontakion1.mode
+alt1.meLI.Kontakion1.greekmelody = me.m02.d19_en_US_dedes.alt1.meMA.Kontakion1.greekmelody
+alt1.meLI.Kontakion1.melody = me.m02.d19_en_US_dedes.alt1.meMA.Kontakion1.melody
+alt1.meLI.Kontakion1.incipit = me.m02.d19_en_US_dedes.alt1.meMA.Kontakion1.incipit
+alt1.meLI.Kontakion1.text = me.m02.d19_en_US_dedes.alt1.meMA.Kontakion1.text
 
 alt1.meLI.MM.CommunionHymn.text = me.m02.d19_en_US_dedes.alt1.meLI.MM.CommunionHymn.text
 

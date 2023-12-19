@@ -326,10 +326,10 @@ meMA.Ode9C1T.melody = me.m03.d01_en_US_goadedes.meMA.Ode9C1T.melody
 meMA.Ode9C1T.incipit = me.m03.d01_en_US_goadedes.meMA.Ode9C1T.incipit
 meMA.Ode9C1T.text = me.m03.d01_en_US_goadedes.meMA.Ode9C1T.text
 
-meLI.Kontakion1.mode = meMA.Kontakion1ger.mode
-meLI.Kontakion1.melody = meMA.Kontakion1ger.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1ger.incipit
-meLI.Kontakion1.text = meMA.Kontakion1ger.text
+meLI.Kontakion1.mode = me.m03.d01_en_US_dedes.meMA.Kontakion1ger.mode
+meLI.Kontakion1.melody = me.m03.d01_en_US_dedes.meMA.Kontakion1ger.melody
+meLI.Kontakion1.incipit = me.m03.d01_en_US_dedes.meMA.Kontakion1ger.incipit
+meLI.Kontakion1.text = me.m03.d01_en_US_dedes.meMA.Kontakion1ger.text
 
 meLI.Megalynarion.text = me.m03.d01_en_US_dedes.meLI.Megalynarion.text
 

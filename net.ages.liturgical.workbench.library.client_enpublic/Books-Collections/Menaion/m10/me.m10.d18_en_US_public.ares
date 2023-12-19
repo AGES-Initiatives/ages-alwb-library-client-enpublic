@@ -425,11 +425,11 @@ meMA.LaudsTheotokion.text = me.m10.d18_en_US_dedes.meMA.LaudsTheotokion.text
 meMA.MM.Lauds1123as5678.text = me.m10.d18_en_US_dedes.meMA.MM.Lauds1123as5678.text
 meMA.MM.Lauds123as123.text = me.m10.d18_en_US_dedes.meMA.MM.Lauds123as123.text
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m10.d18_en_US_dedes.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m10.d18_en_US_dedes.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m10.d18_en_US_dedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m10.d18_en_US_dedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m10.d18_en_US_dedes.meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = me.m10.d18_en_US_dedes.meLI.MM.CommunionHymn.text
 

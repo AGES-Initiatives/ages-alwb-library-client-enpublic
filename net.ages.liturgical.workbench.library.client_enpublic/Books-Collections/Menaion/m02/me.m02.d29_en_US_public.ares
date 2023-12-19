@@ -337,11 +337,11 @@ meMA.Ode9C1T.melody = me.m02.d29_en_US_dedes.meMA.Ode9C1T.melody
 meMA.Ode9C1T.incipit = me.m02.d29_en_US_dedes.meMA.Ode9C1T.incipit
 meMA.Ode9C1T.text = me.m02.d29_en_US_dedes.meMA.Ode9C1T.text
 
-meLI.Kontakion1ger.mode = meMA.Kontakion1ger.mode
-meLI.Kontakion1ger.greekmelody = meMA.Kontakion1ger.greekmelody
-meLI.Kontakion1ger.melody = meMA.Kontakion1ger.melody
-meLI.Kontakion1ger.incipit = meMA.Kontakion1ger.incipit
-meLI.Kontakion1ger.text = meMA.Kontakion1ger.text
+meLI.Kontakion1ger.mode = me.m02.d29_en_US_goadedes.meMA.Kontakion1ger.mode
+meLI.Kontakion1ger.greekmelody = me.m02.d29_en_US_goadedes.meMA.Kontakion1ger.greekmelody
+meLI.Kontakion1ger.melody = me.m02.d29_en_US_goadedes.meMA.Kontakion1ger.melody
+meLI.Kontakion1ger.incipit = me.m02.d29_en_US_goadedes.meMA.Kontakion1ger.incipit
+meLI.Kontakion1ger.text = me.m02.d29_en_US_goadedes.meMA.Kontakion1ger.text
 
 meLI.Megalynarion.text = me.m02.d29_en_US_dedes.meLI.Megalynarion.text
 

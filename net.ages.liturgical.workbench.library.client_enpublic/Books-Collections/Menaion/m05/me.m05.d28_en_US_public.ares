@@ -328,10 +328,10 @@ meMA.Ode9H.melody = me.m05.d28_en_US_dedes.meMA.Ode9H.melody
 meMA.Ode9H.incipit = me.m05.d28_en_US_dedes.meMA.Ode9H.incipit
 meMA.Ode9H.text = me.m05.d28_en_US_dedes.meMA.Ode9H.text
 
-meLI.Kontakion1.mode = meMA.Kontakion1ger.mode
-meLI.Kontakion1.melody = meMA.Kontakion1ger.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1ger.incipit
-meLI.Kontakion1.text = meMA.Kontakion1ger.text
+meLI.Kontakion1.mode = me.m05.d28_en_US_dedes.meMA.Kontakion1ger.mode
+meLI.Kontakion1.melody = me.m05.d28_en_US_dedes.meMA.Kontakion1ger.melody
+meLI.Kontakion1.incipit = me.m05.d28_en_US_dedes.meMA.Kontakion1ger.incipit
+meLI.Kontakion1.text = me.m05.d28_en_US_dedes.meMA.Kontakion1ger.text
 
 meLI.MM.CommunionHymn.text = me.m05.d28_en_US_dedes.meLI.MM.CommunionHymn.text
 
