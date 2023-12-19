@@ -405,10 +405,10 @@ meMA.LaudsTheotokion.incipit = me.m08.d26_en_US_dedes.meMA.LaudsTheotokion.incip
 meMA.LaudsTheotokion.text = me.m08.d26_en_US_dedes.meMA.LaudsTheotokion.text
 
 meLI.Kontakion1.mode = me.m08.d26_en_US_dedes.meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = me.m08.d26_en_US_dedes.meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = me.m08.d26_en_US_dedes.meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = me.m08.d26_en_US_dedes.meMA.Kontakion1.incipit
-meLI.Kontakion1.text = me.m08.d26_en_US_dedes.meMA.Kontakion1.text
+meLI.Kontakion1.greekmelody = me.m08.d26_en_US_andronache.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m08.d26_en_US_andronache.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m08.d26_en_US_andronache.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m08.d26_en_US_andronache.meMA.Kontakion1.text
 
 meLI.Megalynarion.text = me.m08.d26_en_US_dedes.meLI.Megalynarion.text
 

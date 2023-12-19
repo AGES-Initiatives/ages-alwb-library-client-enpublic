@@ -505,10 +505,10 @@ meMA.MM.Lauds12as45.text = me.m02.d02_en_US_dedes.meMA.MM.Lauds12as45.text
 meLI.MM.EntranceHymn.text = me.m02.d02_en_US_dedes.meLI.MM.EntranceHymn.text
 meLI.MM.EntranceHymnSunday.text = me.m02.d02_en_US_dedes.meLI.MM.EntranceHymnSunday.text
 
-meLI.Kontakion1.mode = me.m02.d02_en_US_dedes.meLI.Kontakion1.mode
-meLI.Kontakion1.melody = me.m02.d02_en_US_dedes.meLI.Kontakion1.melody
-meLI.Kontakion1.incipit = me.m02.d02_en_US_dedes.meLI.Kontakion1.incipit
-meLI.Kontakion1.text = me.m02.d02_en_US_dedes.meLI.Kontakion1.text
+meLI.Kontakion1.mode = me.m02.d02_en_US_goadedes.meLI.Kontakion1.mode
+meLI.Kontakion1.melody = me.m02.d02_en_US_goadedes.meLI.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m02.d02_en_US_goadedes.meLI.Kontakion1.incipit
+meLI.Kontakion1.text = me.m02.d02_en_US_goadedes.meLI.Kontakion1.text
 
 meLI.TheotokosHymn.mode = me.m02.d02_en_US_dedes.meLI.TheotokosHymn.mode
 meLI.TheotokosHymnVerse.incipit = me.m02.d02_en_US_duvall.meLI.TheotokosHymnVerse.incipit

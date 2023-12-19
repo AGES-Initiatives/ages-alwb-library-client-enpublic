@@ -336,10 +336,10 @@ meMA.Exaposteilarion1.text = me.m07.d22_en_US_dedes.meMA.Exaposteilarion1.text
 meMA.MM.VeApos1123as5678.text = me.m07.d22_en_US_dedes.meMA.MM.VeApos1123as5678.text
 
 meLI.Kontakion1.mode = me.m07.d22_en_US_dedes.meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = me.m07.d22_en_US_dedes.meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = me.m07.d22_en_US_dedes.meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = me.m07.d22_en_US_dedes.meMA.Kontakion1.incipit
-meLI.Kontakion1.text = me.m07.d22_en_US_dedes.meMA.Kontakion1.text
+meLI.Kontakion1.greekmelody = me.m07.d22_en_US_oca.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m07.d22_en_US_oca.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m07.d22_en_US_oca.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m07.d22_en_US_oca.meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = me.m07.d22_en_US_dedes.meLI.MM.CommunionHymn.text
 

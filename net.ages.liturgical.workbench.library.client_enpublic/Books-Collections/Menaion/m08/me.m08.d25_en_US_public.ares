@@ -606,10 +606,10 @@ meMA.MM.Lauds1234as5678.text = me.m08.d25_en_US_dedes.meMA.MM.Lauds1234as5678.te
 meLI.MM.CommunionHymn.text = me.m08.d25_en_US_dedes.meLI.MM.CommunionHymn.text
 
 meLI.Kontakion1.mode = me.m08.d25_en_US_dedes.meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = me.m08.d25_en_US_dedes.meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = me.m08.d25_en_US_dedes.meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = me.m08.d25_en_US_dedes.meMA.Kontakion1.incipit
-meLI.Kontakion1.text = me.m08.d25_en_US_dedes.meMA.Kontakion1.text
+meLI.Kontakion1.greekmelody = me.m08.d25_en_US_oca.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m08.d25_en_US_oca.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m08.d25_en_US_oca.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m08.d25_en_US_oca.meMA.Kontakion1.text
 
 meLI.Megalynarion.text = me.m08.d25_en_US_dedes.meLI.Megalynarion.text
 

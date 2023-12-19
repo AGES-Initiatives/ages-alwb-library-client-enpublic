@@ -652,9 +652,9 @@ meMA.AdditionalIdiomelonBoth.incipit = me.m08.d29_en_US_dedes.meMA.AdditionalIdi
 meMA.AdditionalIdiomelonBoth.text = me.m08.d29_en_US_dedes.meMA.AdditionalIdiomelonBoth.text
 
 meLI.Kontakion1.mode = me.m08.d29_en_US_dedes.meMA.Kontakion1.mode
-meLI.Kontakion1.melody = me.m08.d29_en_US_dedes.meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = me.m08.d29_en_US_dedes.meMA.Kontakion1.incipit
-meLI.Kontakion1.text = me.m08.d29_en_US_dedes.meMA.Kontakion1.text
+meLI.Kontakion1.melody = me.m08.d29_en_US_duvall.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m08.d29_en_US_duvall.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m08.d29_en_US_duvall.meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = me.m08.d29_en_US_dedes.meLI.MM.CommunionHymn.text
 

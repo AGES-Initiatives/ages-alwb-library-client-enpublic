@@ -591,10 +591,10 @@ meMA.AposStavrotheotokion.incipit = me.m09.d03_en_US_dedes.meMA.AposStavrotheoto
 meMA.AposStavrotheotokion.text = me.m09.d03_en_US_dedes.meMA.AposStavrotheotokion.text
 
 meLI.Kontakion1.mode = me.m09.d03_en_US_dedes.meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = me.m09.d03_en_US_dedes.meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = me.m09.d03_en_US_dedes.meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = me.m09.d03_en_US_dedes.meMA.Kontakion1.incipit
-meLI.Kontakion1.text = me.m09.d03_en_US_dedes.meMA.Kontakion1.text
+meLI.Kontakion1.greekmelody = me.m09.d03_en_US_andronache.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m09.d03_en_US_andronache.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m09.d03_en_US_andronache.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m09.d03_en_US_andronache.meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = me.m09.d03_en_US_dedes.meLI.MM.CommunionHymn.text
 

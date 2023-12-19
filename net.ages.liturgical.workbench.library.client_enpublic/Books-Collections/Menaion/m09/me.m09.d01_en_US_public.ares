@@ -971,11 +971,11 @@ meMA.MM.Ve1123as5678.text = me.m09.d01_en_US_dedes.meMA.MM.Ve1123as5678.text
 
 meLI.MM.EntranceHymn.text = me.m09.d01_en_US_dedes.meLI.MM.EntranceHymn.text
 
-meLI.Kontakion1.mode = me.m09.d01_en_US_dedes.meLI.Kontakion1.mode
-meLI.Kontakion1.greekmelody = me.m09.d01_en_US_dedes.meLI.Kontakion1.greekmelody
-meLI.Kontakion1.melody = me.m09.d01_en_US_dedes.meLI.Kontakion1.melody
-meLI.Kontakion1.incipit = me.m09.d01_en_US_dedes.meLI.Kontakion1.incipit
-meLI.Kontakion1.text = me.m09.d01_en_US_dedes.meLI.Kontakion1.text
+meLI.Kontakion1.mode = me.m09.d01_en_US_goadedes.meLI.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m09.d01_en_US_goadedes.meLI.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m09.d01_en_US_goadedes.meLI.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m09.d01_en_US_goadedes.meLI.Kontakion1.incipit
+meLI.Kontakion1.text = me.m09.d01_en_US_goadedes.meLI.Kontakion1.text
 
 meLI.Kontakion2.mode = me.m09.d01_en_US_dedes.meLI.Kontakion2.mode
 meLI.Kontakion2.melody = me.m09.d01_en_US_dedes.meLI.Kontakion2.melody

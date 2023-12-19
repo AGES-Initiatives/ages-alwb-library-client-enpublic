@@ -406,10 +406,10 @@ meMA.AposGlory.incipit = me.m01.d09_en_US_oca.meMA.AposGlory.incipit
 meMA.AposGlory.text = me.m01.d09_en_US_oca.meMA.AposGlory.text
 
 meLI.Kontakion1.mode = me.m01.d09_en_US_dedes.meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = me.m01.d09_en_US_dedes.meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = me.m01.d09_en_US_dedes.meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = me.m01.d09_en_US_dedes.meMA.Kontakion1.incipit
-meLI.Kontakion1.text = me.m01.d09_en_US_dedes.meMA.Kontakion1.text
+meLI.Kontakion1.greekmelody = me.m01.d09_en_US_oca.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m01.d09_en_US_oca.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m01.d09_en_US_oca.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m01.d09_en_US_oca.meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = me.m01.d09_en_US_dedes.meLI.MM.CommunionHymn.text
 
