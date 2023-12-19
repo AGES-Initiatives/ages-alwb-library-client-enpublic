@@ -94,10 +94,10 @@ ocMA.Kathisma22.melody = oc.m4.d3_en_US_goadedes.ocMA.Kathisma22.melody
 ocMA.Kathisma22.incipit = oc.m4.d3_en_US_goadedes.ocMA.Kathisma22.incipit
 ocMA.Kathisma22.text = oc.m4.d3_en_US_goadedes.ocMA.Kathisma22.text
 
-ocMA.Kathisma23.mode = oc.m4.d3_en_US_dedes.ocMA.Kathisma23.mode
-ocMA.Kathisma23.melody = oc.m4.d3_en_US_dedes.ocMA.Kathisma23.melody
-ocMA.Kathisma23.incipit = oc.m4.d3_en_US_dedes.ocMA.Kathisma23.incipit
-ocMA.Kathisma23.text = oc.m4.d3_en_US_dedes.ocMA.Kathisma23.text
+ocMA.Kathisma23.mode = oc.m4.d3_en_US_goadedes.ocMA.Kathisma23.mode
+ocMA.Kathisma23.melody = oc.m4.d3_en_US_goadedes.ocMA.Kathisma23.melody
+ocMA.Kathisma23.incipit = oc.m4.d3_en_US_goadedes.ocMA.Kathisma23.incipit
+ocMA.Kathisma23.text = oc.m4.d3_en_US_goadedes.ocMA.Kathisma23.text
 
 ocMA.Kathisma31.mode = oc.m4.d3_en_US_goadedes.ocMA.Kathisma31.mode
 ocMA.Kathisma31.greekmelody = oc.m4.d3_en_US_goadedes.ocMA.Kathisma31.greekmelody
