@@ -430,7 +430,6 @@ meMA.AposGlory.melody = me.m02.d06_en_US_dedes.meMA.AposGlory.melody
 meMA.AposGlory.incipit = me.m02.d06_en_US_dedes.meMA.AposGlory.incipit
 meMA.AposGlory.text = me.m02.d06_en_US_dedes.meMA.AposGlory.text
 
-
 meLI.Kontakion1.mode =
 meLI.Kontakion1.melody =
 meLI.Kontakion1.incipit = "…"
@@ -681,7 +680,6 @@ alt1.meMA.Kathisma32.greekmelody = me.m02.d06_en_US_dedes.alt1.meMA.Kathisma32.g
 alt1.meMA.Kathisma32.melody = me.m02.d06_en_US_dedes.alt1.meMA.Kathisma32.melody
 alt1.meMA.Kathisma32.incipit = me.m02.d06_en_US_dedes.alt1.meMA.Kathisma32.incipit
 alt1.meMA.Kathisma32.text = me.m02.d06_en_US_dedes.alt1.meMA.Kathisma32.text
-
 
 alt1.meMA.PostGospelGlory.mode = me.m02.d06_en_US_dedes.alt1.meMA.PostGospelGlory.mode
 alt1.meMA.PostGospelGlory.melody = me.m02.d06_en_US_dedes.alt1.meMA.PostGospelGlory.melody
@@ -984,7 +982,6 @@ alt1.meMA.MM.Lauds1234as5678.text = me.m02.d06_en_US_dedes.alt1.meMA.MM.Lauds123
 alt1.meMA.MM.Lauds123as123.text = me.m02.d06_en_US_dedes.alt1.meMA.MM.Lauds123as123.text
 alt1.meMA.MM.Lauds123as678.text = me.m02.d06_en_US_dedes.alt1.meMA.MM.Lauds123as678.text
 
-
 alt1.meLI.MM.EntranceHymn.text = me.m02.d06_en_US_dedes.alt1.meLI.MM.EntranceHymn.text
 
 alt1.meLI.Kontakion1.mode = alt1.meMA.Kontakion1.mode
@@ -1212,7 +1209,6 @@ alt2.meMA.Kathisma32.greekmelody = me.m02.d06_en_US_dedes.alt2.meMA.Kathisma32.g
 alt2.meMA.Kathisma32.melody = me.m02.d06_en_US_dedes.alt2.meMA.Kathisma32.melody
 alt2.meMA.Kathisma32.incipit = me.m02.d06_en_US_dedes.alt2.meMA.Kathisma32.incipit
 alt2.meMA.Kathisma32.text = me.m02.d06_en_US_dedes.alt2.meMA.Kathisma32.text
-
 
 alt2.meMA.PostGospelGlory.mode = me.m02.d06_en_US_dedes.alt2.meMA.PostGospelGlory.mode
 alt2.meMA.PostGospelGlory.melody = me.m02.d06_en_US_dedes.alt2.meMA.PostGospelGlory.melody
@@ -1506,7 +1502,6 @@ alt2.meMA.LaudsGlory.incipit = me.m02.d06_en_US_dedes.alt2.meMA.LaudsGlory.incip
 alt2.meMA.LaudsGlory.text = me.m02.d06_en_US_dedes.alt2.meMA.LaudsGlory.text
 
 alt2.meMA.MM.LaudsSunday.text = me.m02.d06_en_US_dedes.alt2.meMA.MM.LaudsSunday.text
-
 
 alt2.meLI.MM.EntranceHymn.text = me.m02.d06_en_US_dedes.alt2.meLI.MM.EntranceHymn.text
 

@@ -409,7 +409,6 @@ peMA.LaudsGlory.melody = pe.d113_en_US_goadedes.peMA.LaudsGlory.melody
 peMA.LaudsGlory.incipit = pe.d113_en_US_goadedes.peMA.LaudsGlory.incipit
 peMA.LaudsGlory.text = pe.d113_en_US_goadedes.peMA.LaudsGlory.text
 
-
 peLI.AfterCommunion.mode = pe.d113_en_US_dedes.peLI.AfterCommunion.mode
 peLI.AfterCommunion.incipit = pe.d113_en_US_dedes.peLI.AfterCommunion.incipit
 peLI.AfterCommunion.text = pe.d113_en_US_dedes.peLI.AfterCommunion.text

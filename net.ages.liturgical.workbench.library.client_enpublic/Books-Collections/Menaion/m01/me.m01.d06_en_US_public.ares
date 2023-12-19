@@ -172,7 +172,7 @@ meVE.LityBoth.melody = me.m01.d06_en_US_dedes.meVE.LityBoth.melody
 meVE.LityBoth.incipit = me.m01.d06_en_US_dedes.meVE.LityBoth.incipit
 meVE.LityBoth.text = me.m01.d06_en_US_dedes.meVE.LityBoth.text
 
-meVE.MM.LityBothasGloryBoth.text = properties_en_US_dedes.media.key
+meVE.MM.LityBothasGloryBoth.text = me.m01.d06_en_US_dedes.meVE.MM.LityBothasGloryBoth.text
 
 meVE.Aposticha1.poet = me.m01.d06_en_US_dedes.meVE.Aposticha1.poet
 meVE.Aposticha1.mode = me.m01.d06_en_US_dedes.meVE.Aposticha1.mode
@@ -218,7 +218,6 @@ meMA.Kathisma31.greekmelody = me.m01.d06_en_US_dedes.meMA.Kathisma31.greekmelody
 meMA.Kathisma31.melody = me.m01.d06_en_US_dedes.meMA.Kathisma31.melody
 meMA.Kathisma31.incipit = me.m01.d06_en_US_dedes.meMA.Kathisma31.incipit
 meMA.Kathisma31.text = me.m01.d06_en_US_dedes.meMA.Kathisma31.text
-
 
 meMA.PostGospelGlory.mode = me.m01.d06_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m01.d06_en_US_dedes.meMA.PostGospelGlory.melody
@@ -837,7 +836,6 @@ meMA.LaudsBoth.incipit = me.m01.d06_en_US_dedes.meMA.LaudsBoth.incipit
 meMA.LaudsBoth.text = me.m01.d06_en_US_dedes.meMA.LaudsBoth.text
 
 meMA.MM.Lauds1234as5678.text = me.m01.d06_en_US_dedes.meMA.MM.Lauds1234as5678.text
-
 
 meLI.MM.EntranceHymn.text = me.m01.d06_en_US_dedes.meLI.MM.EntranceHymn.text
 meLI.MM.EntranceHymnSunday.text = me.m01.d06_en_US_dedes.meLI.MM.EntranceHymnSunday.text

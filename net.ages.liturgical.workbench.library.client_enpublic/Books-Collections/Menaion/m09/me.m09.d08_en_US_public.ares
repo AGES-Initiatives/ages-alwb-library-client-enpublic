@@ -177,7 +177,6 @@ meMA.Kathisma31.melody = me.m09.d08_en_US_dedes.meMA.Kathisma31.melody
 meMA.Kathisma31.incipit = me.m09.d08_en_US_dedes.meMA.Kathisma31.incipit
 meMA.Kathisma31.text = me.m09.d08_en_US_dedes.meMA.Kathisma31.text
 
-
 meMA.PostGospelGlory.mode = me.m09.d08_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m09.d08_en_US_dedes.meMA.PostGospelGlory.melody
 meMA.PostGospelGlory.incipit = me.m09.d08_en_US_dedes.meMA.PostGospelGlory.incipit
@@ -784,7 +783,6 @@ meMA.LaudsGlory.incipit = me.m09.d08_en_US_duvall.meMA.LaudsGlory.incipit
 meMA.LaudsGlory.text = me.m09.d08_en_US_duvall.meMA.LaudsGlory.text
 
 meMA.MM.Lauds1123as5678.text = me.m09.d08_en_US_dedes.meMA.MM.Lauds1123as5678.text
-
 
 meLI.MM.EntranceHymn.text = me.m09.d08_en_US_dedes.meLI.MM.EntranceHymn.text
 

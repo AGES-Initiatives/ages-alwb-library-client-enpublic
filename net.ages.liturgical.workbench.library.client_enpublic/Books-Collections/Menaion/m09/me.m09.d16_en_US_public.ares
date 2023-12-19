@@ -464,7 +464,6 @@ meMA.AposBoth.melody = me.m09.d16_en_US_dedes.meMA.AposBoth.melody
 meMA.AposBoth.incipit = me.m09.d16_en_US_dedes.meMA.AposBoth.incipit
 meMA.AposBoth.text = me.m09.d16_en_US_dedes.meMA.AposBoth.text
 
-
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

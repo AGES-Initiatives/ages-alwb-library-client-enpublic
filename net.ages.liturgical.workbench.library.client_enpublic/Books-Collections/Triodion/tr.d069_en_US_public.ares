@@ -66,11 +66,6 @@ trLI.AfterCommunion.text = tr.d069_en_US_dedes.trLI.AfterCommunion.text
 
 // Foot Washing
 
-
-
-
-
-
 // Holy Thursday night
 
 trMA.MM.Alleluia.text = tr.d069_en_US_dedes.trMA.MM.Alleluia.text // for media
@@ -540,7 +535,6 @@ trMA.Exaposteilarion1.greekmelody = tr.d069_en_US_dedes.trMA.Exaposteilarion1.gr
 trMA.Exaposteilarion1.melody = tr.d069_en_US_dedes.trMA.Exaposteilarion1.melody
 trMA.Exaposteilarion1.incipit = tr.d069_en_US_dedes.trMA.Exaposteilarion1.incipit
 trMA.Exaposteilarion1.text = tr.d069_en_US_dedes.trMA.Exaposteilarion1.text
-
 
 trMA.Lauds1.mode = tr.d069_en_US_dedes.trMA.Lauds1.mode
 trMA.Lauds1.melody = tr.d069_en_US_dedes.trMA.Lauds1.melody

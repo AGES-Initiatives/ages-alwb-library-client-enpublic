@@ -17,7 +17,6 @@ trVE.header = tr.d070_en_US_dedes.trVE.header
 trEM.header = tr.d070_en_US_dedes.trEM.header //for pdf evening Matins
 trDA.dismissal = tr.d070_en_US_dedes.trDA.dismissal
 
-
 trVE.Stichera01.mode = tr.d070_en_US_dedes.trVE.Stichera01.mode
 trVE.Stichera01.melody = tr.d070_en_US_dedes.trVE.Stichera01.melody
 trVE.Stichera01.incipit = tr.d070_en_US_dedes.trVE.Stichera01.incipit
@@ -93,7 +92,6 @@ trVE.Apolytikion3.mode = tr.d070_en_US_goadedes.trVE.Apolytikion3.mode
 trVE.Apolytikion3.melody = tr.d070_en_US_goadedes.trVE.Apolytikion3.melody
 trVE.Apolytikion3.incipit = tr.d070_en_US_goadedes.trVE.Apolytikion3.incipit
 trVE.Apolytikion3.text = tr.d070_en_US_goadedes.trVE.Apolytikion3.text
-
 
 trMA.Encomia.title = tr.d070_en_US_dedes.trMA.Encomia.title
 
@@ -809,7 +807,6 @@ trMA.Ode9K.text = tr.d070_en_US_dedes.trMA.Ode9K.text
 trMA.Exaposteilarion1.mode = tr.d070_en_US_dedes.trMA.Exaposteilarion1.mode
 trMA.Exaposteilarion1.melody = tr.d070_en_US_dedes.trMA.Exaposteilarion1.melody
 trMA.Exaposteilarion1.text = tr.d070_en_US_dedes.trMA.Exaposteilarion1.text
-
 
 trMA.Lauds1.mode = tr.d070_en_US_dedes.trMA.Lauds1.mode
 trMA.Lauds1.melody = tr.d070_en_US_dedes.trMA.Lauds1.melody

@@ -107,7 +107,6 @@ meMA.Kathisma32.melody = me.m01.d11_en_US_dedes.meMA.Kathisma32.melody
 meMA.Kathisma32.incipit = me.m01.d11_en_US_dedes.meMA.Kathisma32.incipit
 meMA.Kathisma32.text = me.m01.d11_en_US_dedes.meMA.Kathisma32.text
 
-
 meMA.PostGospelGlory.mode = me.m01.d11_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m01.d11_en_US_dedes.meMA.PostGospelGlory.melody
 meMA.PostGospelGlory.incipit = me.m01.d11_en_US_dedes.meMA.PostGospelGlory.incipit
@@ -464,7 +463,6 @@ meMA.LaudsBoth.mode = me.m01.d11_en_US_dedes.meMA.LaudsBoth.mode
 meMA.LaudsBoth.melody = me.m01.d11_en_US_dedes.meMA.LaudsBoth.melody
 meMA.LaudsBoth.incipit = me.m01.d11_en_US_dedes.meMA.LaudsBoth.incipit
 meMA.LaudsBoth.text = me.m01.d11_en_US_dedes.meMA.LaudsBoth.text
-
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
