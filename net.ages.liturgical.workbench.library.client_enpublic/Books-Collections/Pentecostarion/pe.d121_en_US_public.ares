@@ -182,6 +182,6 @@ peLI.TheotokosHymn.mode = pe.d121_en_US_dedes.peLI.TheotokosHymn.mode
 peLI.TheotokosHymn.incipit = pe.d121_en_US_dedes.peLI.TheotokosHymn.incipit
 peLI.TheotokosHymn.text = pe.d121_en_US_dedes.peLI.TheotokosHymn.text
 
-peLI.CommunionHymn.text = pe.d121_en_US_dedes.peLI.CommunionHymn.text
+peLI.CommunionHymn.text = pe.d121_en_US_goadedes.peLI.CommunionHymn.text
 
 peLI.Megalynarion.text = pe.d121_en_US_goadedes.peLI.Megalynarion.text
