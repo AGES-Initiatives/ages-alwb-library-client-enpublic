@@ -31,5 +31,6 @@ ac.PriestOrDeacon = actors_en_US_goa.ac.PriestOrDeacon
 ac.Priests = actors_en_US_goa.ac.Priests
 ac.Reader = actors_en_US_goa.ac.Reader
 ac.Respondent = actors_en_US_goa.ac.Respondent
+ac.Subdeacon = actors_en_US_goa.ac.Subdeacon
 ac.Superior = actors_en_US_goa.ac.Superior
 ac.SuperiorOrReader = actors_en_US_goa.ac.SuperiorOrReader

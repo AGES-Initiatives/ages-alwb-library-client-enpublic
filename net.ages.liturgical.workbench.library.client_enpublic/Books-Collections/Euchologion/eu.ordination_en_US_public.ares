@@ -2,10 +2,12 @@ A_Resource_Whose_Name = eu.ordination_en_US_public
 
 euORD.SD.p100.title = eu.ordination_en_US_goa.euORD.SD.p100.title
 euORD.SD.r01 = eu.ordination_en_US_goa.euORD.SD.r01
-euORD.SD.p101.text = eu.ordination_en_US_goa.euORD.SD.p101.text
 euORD.SD.r02 = eu.ordination_en_US_goa.euORD.SD.r02
-euORD.SD.p102.text = eu.ordination_en_US_goa.euORD.SD.p102.text
+euORD.SD.p101.text = eu.ordination_en_US_goa.euORD.SD.p101.text
 euORD.SD.r03 = eu.ordination_en_US_goa.euORD.SD.r03
+euORD.SD.p102.text = eu.ordination_en_US_goa.euORD.SD.p102.text
+euORD.SD.r04 = eu.ordination_en_US_goa.euORD.SD.r04
+euORD.SD.r05 = eu.ordination_en_US_goa.euORD.SD.r05
 
 euORD.DE.p200.title = eu.ordination_en_US_goa.euORD.DE.p200.title
 euORD.DE.r01 = eu.ordination_en_US_goa.euORD.DE.r01

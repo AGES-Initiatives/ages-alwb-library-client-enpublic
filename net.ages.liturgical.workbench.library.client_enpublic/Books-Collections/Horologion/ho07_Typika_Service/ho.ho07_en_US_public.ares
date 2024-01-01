@@ -17,7 +17,7 @@ hoTY.Key0213.text = ho.ho07_en_US_dedes.hoTY.Key0213.text
 hoTY.Key0214.text = ho.ho07_en_US_dedes.hoTY.Key0214.text
 hoTY.Key0215.text = ho.ho07_en_US_dedes.hoTY.Key0215.text
 hoTY.Key0216.text = ho.ho07_en_US_dedes.hoTY.Key0216.text
-hoTY.Key0217.text = ho.ho07_en_US_dedes.hoTY.Key0217.text
+hoTY.Key0217.text = ho.ho07_en_US_goadedes.hoTY.Key0217.text
 
 //0300-0313
 //0400-0408
@@ -33,18 +33,22 @@ hoTY.Key0501.text = ho.ho07_en_US_dedes.hoTY.Key0501.text
 hoLI.Antiphon1.text = ho.ho07_en_US_goa.hoLI.Antiphon1.text
 
 hoLI.Antiphon21.text = ho.ho07_en_US_goa.hoLI.Antiphon21.text
-hoLI.Antiphon2s.incipit = ho.ho07_en_US_goa.hoLI.Antiphon2s.incipit
-hoLI.Antiphon2s.text = ho.ho07_en_US_goa.hoLI.Antiphon2s.text
-hoLI.Antiphon2w.incipit = ho.ho07_en_US_goa.hoLI.Antiphon2w.incipit
-hoLI.Antiphon2w.text = ho.ho07_en_US_goa.hoLI.Antiphon2w.text
 hoLI.Antiphon22.text = ho.ho07_en_US_goa.hoLI.Antiphon22.text
 
 hoLI.EntranceHymn.incipit = ho.ho07_en_US_goa.hoLI.EntranceHymn.incipit
 hoLI.EntranceHymn.text = ho.ho07_en_US_goa.hoLI.EntranceHymn.text // in the template add parts of Antiphon 2
-hoLI.EntranceHymn2s.incipit = ho.ho07_en_US_goa.hoLI.EntranceHymn2s.incipit
-hoLI.EntranceHymn2s.text = ho.ho07_en_US_goa.hoLI.EntranceHymn2s.text
-hoLI.EntranceHymn2w.incipit = ho.ho07_en_US_goa.hoLI.EntranceHymn2w.incipit
-hoLI.EntranceHymn2w.text = ho.ho07_en_US_goa.hoLI.EntranceHymn2w.text
+hoLI.MM.EntranceHymn2s.text = ho.ho07_en_US_goa.hoLI.MM.EntranceHymn2s.text
+hoLI.MM.EntranceHymn2w.text = ho.ho07_en_US_goa.hoLI.MM.EntranceHymn2w.text
+
+//deprecated keys
+hoLI.Antiphon2s.incipit = properties_en_US_goa.deprecated.key
+hoLI.Antiphon2s.text = properties_en_US_goa.deprecated.key
+hoLI.Antiphon2w.incipit = properties_en_US_goa.deprecated.key
+hoLI.Antiphon2w.text = properties_en_US_goa.deprecated.key
+hoLI.EntranceHymn2s.incipit = properties_en_US_goa.deprecated.key
+hoLI.EntranceHymn2s.text = properties_en_US_goa.deprecated.key
+hoLI.EntranceHymn2w.incipit = properties_en_US_goa.deprecated.key
+hoLI.EntranceHymn2w.text = properties_en_US_goa.deprecated.key
 
 hoLI.TrisagiosHymn.title = ho.ho07_en_US_goa.hoLI.TrisagiosHymn.title
 hoLI.TrisagiosHymn.incipit = ho.ho07_en_US_goa.hoLI.TrisagiosHymn.incipit
