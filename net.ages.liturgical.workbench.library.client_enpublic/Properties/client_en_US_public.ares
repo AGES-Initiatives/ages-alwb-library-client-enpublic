@@ -29,6 +29,8 @@ cl.bishop2.name_sc = client_en_US_goa.cl.bishop2.name_sc
 cl.bishop2.name_p = client_en_US_goa.cl.bishop2.name_p
 cl.bishop2.fimi.text = client_en_US_goa.cl.bishop2.fimi.text
 
+cl.ordinand_name.text = client_en_US_goa.cl.ordinand_name.text //changes for each ordination
+
 //To activate these settings, you must set them in client_gr_GR_cog
 cl.double_commemoration.bishop1and2 = client_en_US_goa.cl.double_commemoration.bishop1and2
 cl.fimi.bishop1 = client_en_US_goa.cl.fimi.bishop1

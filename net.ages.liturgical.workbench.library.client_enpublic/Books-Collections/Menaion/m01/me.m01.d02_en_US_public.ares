@@ -767,11 +767,11 @@ meMA.Exaposteilarion1.melody = me.m01.d02_en_US_oca.meMA.Exaposteilarion1.melody
 meMA.Exaposteilarion1.incipit = me.m01.d02_en_US_oca.meMA.Exaposteilarion1.incipit
 meMA.Exaposteilarion1.text = me.m01.d02_en_US_oca.meMA.Exaposteilarion1.text
 
-meMA.Exaposteilarion2.mode = me.m01.d02_en_US_dedes.meMA.Exaposteilarion2.mode
-meMA.Exaposteilarion2.greekmelody = me.m01.d02_en_US_dedes.meMA.Exaposteilarion2.greekmelody
-meMA.Exaposteilarion2.melody = me.m01.d02_en_US_dedes.meMA.Exaposteilarion2.melody
-meMA.Exaposteilarion2.incipit = me.m01.d02_en_US_dedes.meMA.Exaposteilarion2.incipit
-meMA.Exaposteilarion2.text = me.m01.d02_en_US_dedes.meMA.Exaposteilarion2.text
+meMA.Exaposteilarion2.mode = me.m01.d02_en_US_goadedes.meMA.Exaposteilarion2.mode
+meMA.Exaposteilarion2.greekmelody = me.m01.d02_en_US_goadedes.meMA.Exaposteilarion2.greekmelody
+meMA.Exaposteilarion2.melody = me.m01.d02_en_US_goadedes.meMA.Exaposteilarion2.melody
+meMA.Exaposteilarion2.incipit = me.m01.d02_en_US_goadedes.meMA.Exaposteilarion2.incipit
+meMA.Exaposteilarion2.text = me.m01.d02_en_US_goadedes.meMA.Exaposteilarion2.text
 
 meMA.Lauds.acrostic.title = me.m01.d02_en_US_dedes.meMA.Lauds.acrostic.title
 meMA.Lauds.acrostic.notice1 = me.m01.d02_en_US_dedes.meMA.Lauds.acrostic.notice1

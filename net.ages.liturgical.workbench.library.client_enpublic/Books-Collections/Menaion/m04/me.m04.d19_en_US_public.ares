@@ -127,10 +127,10 @@ meMA.Ode3Kathisma1.melody = me.m04.d19_en_US_andronache.meMA.Ode3Kathisma1.melod
 meMA.Ode3Kathisma1.incipit = me.m04.d19_en_US_andronache.meMA.Ode3Kathisma1.incipit
 meMA.Ode3Kathisma1.text = me.m04.d19_en_US_andronache.meMA.Ode3Kathisma1.text
 
-meMA.Ode3KathismaT.mode = me.m04.d19_en_US_dedes.meMA.Ode3KathismaT.mode
-meMA.Ode3KathismaT.melody = me.m04.d19_en_US_dedes.meMA.Ode3KathismaT.melody
-meMA.Ode3KathismaT.incipit = me.m04.d19_en_US_dedes.meMA.Ode3KathismaT.incipit
-meMA.Ode3KathismaT.text = me.m04.d19_en_US_dedes.meMA.Ode3KathismaT.text
+meMA.Ode3KathismaT.mode = me.m04.d19_en_US_goadedes.meMA.Ode3KathismaT.mode
+meMA.Ode3KathismaT.melody = me.m04.d19_en_US_goadedes.meMA.Ode3KathismaT.melody
+meMA.Ode3KathismaT.incipit = me.m04.d19_en_US_goadedes.meMA.Ode3KathismaT.incipit
+meMA.Ode3KathismaT.text = me.m04.d19_en_US_goadedes.meMA.Ode3KathismaT.text
 
 meMA.Ode3KathismaSt.mode = me.m04.d19_en_US_dedes.meMA.Ode3KathismaSt.mode
 meMA.Ode3KathismaSt.melody = me.m04.d19_en_US_dedes.meMA.Ode3KathismaSt.melody

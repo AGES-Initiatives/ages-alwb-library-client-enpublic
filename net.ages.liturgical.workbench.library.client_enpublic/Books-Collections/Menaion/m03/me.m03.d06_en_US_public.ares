@@ -58,10 +58,10 @@ meVE.SticTheotokion2.melody = me.m03.d06_en_US_dedes.meVE.SticTheotokion2.melody
 meVE.SticTheotokion2.incipit = me.m03.d06_en_US_dedes.meVE.SticTheotokion2.incipit
 meVE.SticTheotokion2.text = me.m03.d06_en_US_dedes.meVE.SticTheotokion2.text
 
-meVE.SticStavrotheotokion2.mode = me.m03.d06_en_US_dedes.meVE.SticStavrotheotokion2.mode
-meVE.SticStavrotheotokion2.melody = me.m03.d06_en_US_dedes.meVE.SticStavrotheotokion2.melody
-meVE.SticStavrotheotokion2.incipit = me.m03.d06_en_US_dedes.meVE.SticStavrotheotokion2.incipit
-meVE.SticStavrotheotokion2.text = me.m03.d06_en_US_dedes.meVE.SticStavrotheotokion2.text
+meVE.SticStavrotheotokion2.mode = me.m03.d06_en_US_goadedes.meVE.SticStavrotheotokion2.mode
+meVE.SticStavrotheotokion2.melody = me.m03.d06_en_US_goadedes.meVE.SticStavrotheotokion2.melody
+meVE.SticStavrotheotokion2.incipit = me.m03.d06_en_US_goadedes.meVE.SticStavrotheotokion2.incipit
+meVE.SticStavrotheotokion2.text = me.m03.d06_en_US_goadedes.meVE.SticStavrotheotokion2.text
 
 meVE.AposGlory.poet = me.m03.d06_en_US_dedes.meVE.AposGlory.poet
 meVE.AposGlory.mode = me.m03.d06_en_US_dedes.meVE.AposGlory.mode
