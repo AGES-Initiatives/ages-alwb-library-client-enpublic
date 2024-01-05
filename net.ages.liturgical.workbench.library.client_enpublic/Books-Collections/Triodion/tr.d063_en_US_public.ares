@@ -1121,10 +1121,10 @@ trMA.Lauds7.melody = tr.d063_en_US_dedes.trMA.Lauds7.melody
 trMA.Lauds7.incipit = tr.d063_en_US_dedes.trMA.Lauds7.incipit
 trMA.Lauds7.text = tr.d063_en_US_dedes.trMA.Lauds7.text
 
-trMA.Lauds8.mode = tr.d063_en_US_dedes.trMA.Lauds8.mode
-trMA.Lauds8.melody = tr.d063_en_US_dedes.trMA.Lauds8.melody
-trMA.Lauds8.incipit = tr.d063_en_US_dedes.trMA.Lauds8.incipit
-trMA.Lauds8.text = tr.d063_en_US_dedes.trMA.Lauds8.text
+trMA.Lauds8.mode = tr.d063_en_US_goadedes.trMA.Lauds8.mode
+trMA.Lauds8.melody = tr.d063_en_US_goadedes.trMA.Lauds8.melody
+trMA.Lauds8.incipit = tr.d063_en_US_goadedes.trMA.Lauds8.incipit
+trMA.Lauds8.text = tr.d063_en_US_goadedes.trMA.Lauds8.text
 
 trMA.LaudsGlory.mode = tr.d063_en_US_dedes.trMA.LaudsGlory.mode
 trMA.LaudsGlory.melody = tr.d063_en_US_dedes.trMA.LaudsGlory.melody
