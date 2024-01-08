@@ -34,6 +34,8 @@ hoLI.Antiphon1.text = ho.ho07_en_US_goa.hoLI.Antiphon1.text
 
 hoLI.Antiphon21.text = ho.ho07_en_US_goa.hoLI.Antiphon21.text
 hoLI.Antiphon22.text = ho.ho07_en_US_goa.hoLI.Antiphon22.text
+hoLI.MM.Antiphon2s.text = ho.ho07_en_US_goa.hoLI.MM.Antiphon2s.text
+hoLI.MM.Antiphon2w.text = ho.ho07_en_US_goa.hoLI.MM.Antiphon2w.text
 
 hoLI.EntranceHymn.incipit = ho.ho07_en_US_goa.hoLI.EntranceHymn.incipit
 hoLI.EntranceHymn.text = ho.ho07_en_US_goa.hoLI.EntranceHymn.text // in the template add parts of Antiphon 2
