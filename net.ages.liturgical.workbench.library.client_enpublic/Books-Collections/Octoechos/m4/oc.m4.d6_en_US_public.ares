@@ -619,10 +619,10 @@ ocMA.AposTheotokion.melody = oc.m4.d6_en_US_dedes.ocMA.AposTheotokion.melody
 ocMA.AposTheotokion.incipit = oc.m4.d6_en_US_dedes.ocMA.AposTheotokion.incipit
 ocMA.AposTheotokion.text = oc.m4.d6_en_US_dedes.ocMA.AposTheotokion.text
 
-ocMA.ApolTheotokion.mode = oc.m4.d6_en_US_dedes.ocMA.ApolTheotokion.mode
-ocMA.ApolTheotokion.melody = oc.m4.d6_en_US_dedes.ocMA.ApolTheotokion.melody
-ocMA.ApolTheotokion.incipit = oc.m4.d6_en_US_dedes.ocMA.ApolTheotokion.incipit
-ocMA.ApolTheotokion.text = oc.m4.d6_en_US_dedes.ocMA.ApolTheotokion.text
+ocMA.ApolTheotokion.mode = oc.m4.d6_en_US_goadedes.ocMA.ApolTheotokion.mode
+ocMA.ApolTheotokion.melody = oc.m4.d6_en_US_goadedes.ocMA.ApolTheotokion.melody
+ocMA.ApolTheotokion.incipit = oc.m4.d6_en_US_goadedes.ocMA.ApolTheotokion.incipit
+ocMA.ApolTheotokion.text = oc.m4.d6_en_US_goadedes.ocMA.ApolTheotokion.text
 
 ocLI.Beatitudes1.mode = oc.m4.d6_en_US_dedes.ocLI.Beatitudes1.mode
 ocLI.Beatitudes1.melody = oc.m4.d6_en_US_dedes.ocLI.Beatitudes1.melody
