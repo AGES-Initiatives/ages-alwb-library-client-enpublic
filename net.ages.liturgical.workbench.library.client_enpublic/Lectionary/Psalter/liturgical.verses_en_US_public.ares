@@ -2,6 +2,9 @@ A_Resource_Whose_Name = liturgical.verses_en_US_public
 
 //Vespers
 
+psVE.vespersentry.info = liturgical.verses_en_US_saas.psVE.vespersentry.info
+psVE.vespersentry.text = liturgical.verses_en_US_saas.psVE.vespersentry.text
+
 psVE.vigilentry.info = liturgical.verses_en_US_saas.psVE.vigilentry.info
 psVE.vigilentry.text = liturgical.verses_en_US_saas.psVE.vigilentry.text
 
