@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = hi.hi04_en_US_public
 
-hiMA.title = hi.hi04_en_US_goadedes.hiMA.title
+hiMA.title = hi.hi04_en_US_goa.hiMA.title
 
-hiMA.Key01.title = hi.hi04_en_US_goadedes.hiMA.Key01.title
+hiMA.Key01.title = hi.hi04_en_US_goa.hiMA.Key01.title
 
 hiMA.R001 = hi.hi04_en_US_dedes.hiMA.R001
 hiMA.R002 = hi.hi04_en_US_dedes.hiMA.R002
@@ -57,15 +57,15 @@ hiMA.Key0110.text = hi.hi04_en_US_goadedes.hiMA.Key0110.text
 hiMA.Key0110.exclamation = hi.hi04_en_US_goa.hiMA.Key0110.exclamation
 
 hiMA.Key0111.title = hi.hi04_en_US_goadedes.hiMA.Key0111.title
-hiMA.Key0111.text = hi.hi04_en_US_oca.hiMA.Key0111.text
+hiMA.Key0111.text = hi.hi04_en_US_goadedes.hiMA.Key0111.text
 hiMA.Key0111.exclamation = hi.hi04_en_US_goa.hiMA.Key0111.exclamation
 
 hiMA.Key0112.title = hi.hi04_en_US_goadedes.hiMA.Key0112.title
-hiMA.Key0112.text = hi.hi04_en_US_oca.hiMA.Key0112.text
+hiMA.Key0112.text = hi.hi04_en_US_goadedes.hiMA.Key0112.text
 hiMA.Key0112.exclamation = hi.hi04_en_US_goa.hiMA.Key0112.exclamation
 
 hiMA.Key0113.title = hi.hi04_en_US_goadedes.hiMA.Key0113.title
-hiMA.Key0113.text = hi.hi04_en_US_oca.hiMA.Key0113.text
+hiMA.Key0113.text = hi.hi04_en_US_goadedes.hiMA.Key0113.text
 hiMA.Key0113.exclamation = hi.hi04_en_US_goa.hiMA.Key0113.exclamation
 
 hiMA.R201 = hi.hi04_en_US_dedes.hiMA.R201
