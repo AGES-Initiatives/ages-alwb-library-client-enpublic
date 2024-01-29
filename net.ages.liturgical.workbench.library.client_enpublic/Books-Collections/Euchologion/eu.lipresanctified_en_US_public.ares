@@ -14,9 +14,20 @@ euPL.Key0108.text = eu.lipresanctified_en_US_holycross.euPL.Key0108.text
 
 euPL.Key0200.title = eu.lipresanctified_en_US_holycross.euPL.Key0200.title
 euPL.Key0201.text = eu.lipresanctified_en_US_holycross.euPL.Key0201.text
-euPL.Key0203.title = eu.lipresanctified_en_US_holycross.euPL.Key0203.title
+euPL.Key0202.text = eu.lipresanctified_en_US_holycross.euPL.Key0202.text
 euPL.Key0203.text = eu.lipresanctified_en_US_holycross.euPL.Key0203.text
-euPL.Key0204.text = eu.lipresanctified_en_US_holycross.euPL.Key0204.text
+
+euPL.Key0204.title = eu.lipresanctified_en_US_holycross.euPL.Key0204.title
+euPL.Key0205.text = eu.lipresanctified_en_US_holycross.euPL.Key0205.text
+euPL.Key0206.title = eu.lipresanctified_en_US_holycross.euPL.Key0206.title
+euPL.Key0207.title = eu.lipresanctified_en_US_holycross.euPL.Key0207.title
+euPL.Key0208.title = eu.lipresanctified_en_US_holycross.euPL.Key0208.title
+euPL.Key0209.title = eu.lipresanctified_en_US_holycross.euPL.Key0209.title
+euPL.Key0210.text = eu.lipresanctified_en_US_holycross.euPL.Key0210.text
+euPL.Key0210a.text = eu.lipresanctified_en_US_holycross.euPL.Key0210a.text
+
+euPL.Key0211.title = eu.lipresanctified_en_US_holycross.euPL.Key0211.title
+euPL.Key0212.text = eu.lipresanctified_en_US_holycross.euPL.Key0212.text
 
 euPL.Key0300.title = eu.lipresanctified_en_US_holycross.euPL.Key0300.title
 euPL.Key0306.title = eu.lipresanctified_en_US_holycross.euPL.Key0306.title
@@ -30,26 +41,64 @@ euPL.Key0407.text = eu.lipresanctified_en_US_holycross.euPL.Key0407.text
 
 euPL.Key0500.title = eu.lipresanctified_en_US_holycross.euPL.Key0500.title
 euPL.Key0506.title = eu.lipresanctified_en_US_holycross.euPL.Key0506.title
-euPL.Key0506.text = eu.lipresanctified_en_US_holycross.euPL.Key0506.text
-euPL.Key0507.text = eu.lipresanctified_en_US_holycross.euPL.Key0507.text
 
 euPL.Key0600.title = eu.lipresanctified_en_US_holycross.euPL.Key0600.title
-//Vespers with entrance
+euPL.Key0601.text = eu.lipresanctified_en_US_goadedes.euPL.Key0601.text
+euPL.Key0602.text = eu.lipresanctified_en_US_goadedes.euPL.Key0602.text
+euPL.Key0603.title = eu.lipresanctified_en_US_goadedes.euPL.Key0603.title
+euPL.Key0604.text = eu.lipresanctified_en_US_goadedes.euPL.Key0604.text
+euPL.Key0605.text = eu.lipresanctified_en_US_goadedes.euPL.Key0605.text
+euPL.Key0606.text = eu.lipresanctified_en_US_goadedes.euPL.Key0606.text
+euPL.Key0607.title = eu.lipresanctified_en_US_goadedes.euPL.Key0607.title
+euPL.Key0608.text = eu.lipresanctified_en_US_goadedes.euPL.Key0608.text
+euPL.Key0609.text = eu.lipresanctified_en_US_goadedes.euPL.Key0609.text
+euPL.Key0610.text = eu.lipresanctified_en_US_goadedes.euPL.Key0610.text
+euPL.Key0611.text = eu.lipresanctified_en_US_goadedes.euPL.Key0611.text
+euPL.Key0612.text = eu.lipresanctified_en_US_goadedes.euPL.Key0612.text
 
-euPL.Key0700.title = eu.lipresanctified_en_US_holycross.euPL.Key0700.title
+euPL.Key0620.title = eu.lipresanctified_en_US_goadedes.euPL.Key0620.title
+euPL.Key0621.text = eu.lipresanctified_en_US_goadedes.euPL.Key0621.text
+euPL.Key0622.text = eu.lipresanctified_en_US_goadedes.euPL.Key0622.text
+euPL.Key0623.text = eu.lipresanctified_en_US_goadedes.euPL.Key0623.text
+euPL.Key0624.text = eu.lipresanctified_en_US_goadedes.euPL.Key0624.text
+euPL.Key0625.text = eu.lipresanctified_en_US_goadedes.euPL.Key0625.text
+euPL.Key0626.text = eu.lipresanctified_en_US_goadedes.euPL.Key0626.text
+
 euPL.Key0701.text = eu.lipresanctified_en_US_holycross.euPL.Key0701.text
+euPL.Key0701a.text = eu.lipresanctified_en_US_goadedes.euPL.Key0701a.text
 euPL.Key0702.text = eu.lipresanctified_en_US_holycross.euPL.Key0702.text
+euPL.Key0703.text = eu.lipresanctified_en_US_goadedes.euPL.Key0703.text
+euPL.Key0704.text = eu.lipresanctified_en_US_goadedes.euPL.Key0704.text
+euPL.Key0705.text = eu.lipresanctified_en_US_goadedes.euPL.Key0705.text
 
-euPL.Key0800.title = eu.lipresanctified_en_US_holycross.euPL.Key0800.title
-euPL.Key0800.text = eu.lipresanctified_en_US_holycross.euPL.Key0800.text
+euPL.MM.Key0800.text = eu.lipresanctified_en_US_holycross.euPL.MM.Key0800.text
+euPL.Key0801.text = eu.lipresanctified_en_US_goadedes.euPL.Key0801.text
+euPL.Key0802.text = eu.lipresanctified_en_US_goadedes.euPL.Key0802.text
 
-//euPL.Key0900
+euPL.Key0810.text = eu.lipresanctified_en_US_goadedes.euPL.Key0810.text
+euPL.Key0811.text = eu.lipresanctified_en_US_goadedes.euPL.Key0811.text
+
+euPL.Key0820.title = eu.lipresanctified_en_US_goadedes.euPL.Key0820.title
+euPL.Key0821.text = eu.lipresanctified_en_US_goadedes.euPL.Key0821.text
+euPL.Key0822.text = eu.lipresanctified_en_US_goadedes.euPL.Key0822.text
+euPL.Key0823.title = eu.lipresanctified_en_US_goadedes.euPL.Key0823.title
+
+euPL.Key0900.title = eu.lipresanctified_en_US_holycross.euPL.Key0900.title
+euPL.Key0900.text = eu.lipresanctified_en_US_holycross.euPL.Key0900.text
+euPL.Key0900a.text = eu.lipresanctified_en_US_holycross.euPL.Key0900a.text
 euPL.Key0901.title = eu.lipresanctified_en_US_holycross.euPL.Key0901.title
 euPL.Key0901.text = eu.lipresanctified_en_US_holycross.euPL.Key0901.text
 euPL.Key0902.text = eu.lipresanctified_en_US_holycross.euPL.Key0902.text
+euPL.Key0902a.text = eu.lipresanctified_en_US_goadedes.euPL.Key0902a.text
+euPL.Key0902b.text = eu.lipresanctified_en_US_goadedes.euPL.Key0902b.text
+euPL.Key0902c.title = eu.lipresanctified_en_US_goadedes.euPL.Key0902c.title
+euPL.Key0902d.text = eu.lipresanctified_en_US_goadedes.euPL.Key0902d.text
+euPL.Key0902e.text = eu.lipresanctified_en_US_goadedes.euPL.Key0902e.text
 euPL.Key0903.title = eu.lipresanctified_en_US_holycross.euPL.Key0903.title
 euPL.Key0903.text = eu.lipresanctified_en_US_holycross.euPL.Key0903.text
 euPL.Key0904.text = eu.lipresanctified_en_US_holycross.euPL.Key0904.text
+epPL.Key0904.title = eu.lipresanctified_en_US_goadedes.epPL.Key0904.title
+euPL.Key0904a.text = eu.lipresanctified_en_US_goadedes.euPL.Key0904a.text
 euPL.Key0905.title = eu.lipresanctified_en_US_holycross.euPL.Key0905.title
 euPL.Key0905.text = eu.lipresanctified_en_US_holycross.euPL.Key0905.text
 euPL.Key0906.text = eu.lipresanctified_en_US_holycross.euPL.Key0906.text
@@ -61,24 +110,48 @@ euPL.Key1000.title = eu.lipresanctified_en_US_holycross.euPL.Key1000.title
 euPL.Key1001.text = eu.lipresanctified_en_US_holycross.euPL.Key1001.text
 euPL.Key1002.text = eu.lipresanctified_en_US_holycross.euPL.Key1002.text
 
+euPL.Key1010.text = eu.lipresanctified_en_US_goadedes.euPL.Key1010.text
+euPL.Key1011.text = eu.lipresanctified_en_US_goadedes.euPL.Key1011.text
+euPL.Key1012.text = eu.lipresanctified_en_US_goadedes.euPL.Key1012.text
+euPL.Key1013.text = eu.lipresanctified_en_US_goadedes.euPL.Key1013.text
+euPL.Key1014.text = eu.lipresanctified_en_US_goadedes.euPL.Key1014.text
+
+euPL.Key1100.title = eu.lipresanctified_en_US_goadedes.euPL.Key1100.title
+euPL.Key1100.text = eu.lipresanctified_en_US_goadedes.euPL.Key1100.text
 euPL.Key1101.text = eu.lipresanctified_en_US_holycross.euPL.Key1101.text
+euPL.Key1101a.text = eu.lipresanctified_en_US_goadedes.euPL.Key1101a.text
 euPL.Key1102.title = eu.lipresanctified_en_US_holycross.euPL.Key1102.title
 euPL.Key1102.text = eu.lipresanctified_en_US_holycross.euPL.Key1102.text
+euPL.Key1102a.text = eu.lipresanctified_en_US_goadedes.euPL.Key1102a.text
 euPL.Key1103.title = eu.lipresanctified_en_US_holycross.euPL.Key1103.title
 euPL.Key1103.text = eu.lipresanctified_en_US_holycross.euPL.Key1103.text
 euPL.Key1104.text = eu.lipresanctified_en_US_holycross.euPL.Key1104.text
+euPL.Key1105.text = eu.lipresanctified_en_US_goadedes.euPL.Key1105.text
+euPL.Key1106.text = eu.lipresanctified_en_US_goadedes.euPL.Key1106.text
 
-euPL.Key1201.title = eu.lipresanctified_en_US_holycross.euPL.Key1201.title
-euPL.Key1201.text = eu.lipresanctified_en_US_holycross.euPL.Key1201.text
+euPL.Key1114.title = eu.lipresanctified_en_US_goadedes.euPL.Key1114.title
+euPL.Key1115.text = eu.lipresanctified_en_US_goadedes.euPL.Key1115.text
+euPL.Key1116.text = eu.lipresanctified_en_US_goadedes.euPL.Key1116.text
+euPL.Key1117.text = eu.lipresanctified_en_US_goadedes.euPL.Key1117.text
+euPL.Key1118.text = eu.lipresanctified_en_US_goadedes.euPL.Key1118.text
+euPL.Key1119.text = eu.lipresanctified_en_US_goadedes.euPL.Key1119.text
+
+euPL.MM.Key1201.text = eu.lipresanctified_en_US_holycross.euPL.MM.Key1201.text
 euPL.Key1202.title = eu.lipresanctified_en_US_holycross.euPL.Key1202.title
 euPL.Key1202.text = eu.lipresanctified_en_US_holycross.euPL.Key1202.text
+euPL.Key1203.title = eu.lipresanctified_en_US_holycross.euPL.Key1203.title
 euPL.Key1203.text = eu.lipresanctified_en_US_holycross.euPL.Key1203.text
+euPL.Key1203a.text = eu.lipresanctified_en_US_goadedes.euPL.Key1203a.text
+euPL.Key1203b.text = eu.lipresanctified_en_US_goadedes.euPL.Key1203b.text
 euPL.Key1204.title = eu.lipresanctified_en_US_holycross.euPL.Key1204.title
 euPL.Key1204.text = eu.lipresanctified_en_US_holycross.euPL.Key1204.text
+euPL.Key1204a.text = eu.lipresanctified_en_US_goadedes.euPL.Key1204a.text
 euPL.Key1205.text = eu.lipresanctified_en_US_holycross.euPL.Key1205.text
+euPL.Key1205.title = eu.lipresanctified_en_US_goadedes.euPL.Key1205.title
+euPL.Key1205a.text = eu.lipresanctified_en_US_goadedes.euPL.Key1205a.text
 euPL.Key1206.title = eu.lipresanctified_en_US_holycross.euPL.Key1206.title
 euPL.Key1206.text = eu.lipresanctified_en_US_holycross.euPL.Key1206.text
-euPL.Key1207.text = eu.lipresanctified_en_US_holycross.euPL.Key1207.text
+euPL.MM.Key1207.text = eu.lipresanctified_en_US_holycross.euPL.MM.Key1207.text
 euPL.Key1208.title = eu.lipresanctified_en_US_holycross.euPL.Key1208.title
+euPL.Key1208a.text = eu.lipresanctified_en_US_goadedes.euPL.Key1208a.text
 euPL.Key1208.text = eu.lipresanctified_en_US_holycross.euPL.Key1208.text
-
