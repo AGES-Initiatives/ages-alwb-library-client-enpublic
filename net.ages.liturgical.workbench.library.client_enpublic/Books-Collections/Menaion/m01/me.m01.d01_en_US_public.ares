@@ -732,9 +732,9 @@ meLI.Kontakion1.melody = me.m01.d01_en_US_dedes.meLI.Kontakion1.melody
 meLI.Kontakion1.incipit = me.m01.d01_en_US_dedes.meLI.Kontakion1.incipit
 meLI.Kontakion1.text = me.m01.d01_en_US_dedes.meLI.Kontakion1.text
 
-meLI.TheotokosHymn.mode = me.m01.d01_en_US_dedes.meLI.TheotokosHymn.mode
-meLI.TheotokosHymn.incipit = me.m01.d01_en_US_dedes.meLI.TheotokosHymn.incipit
-meLI.TheotokosHymn.text = me.m01.d01_en_US_dedes.meLI.TheotokosHymn.text
+meLI.TheotokosHymn.mode = me.m01.d01_en_US_goadedes.meLI.TheotokosHymn.mode
+meLI.TheotokosHymn.incipit = me.m01.d01_en_US_goadedes.meLI.TheotokosHymn.incipit
+meLI.TheotokosHymn.text = me.m01.d01_en_US_goadedes.meLI.TheotokosHymn.text
 
 meLI.Megalynarion.rubric = me.m01.d01_en_US_dedes.meLI.Megalynarion.rubric
 

@@ -3,8 +3,14 @@ A_Resource_Whose_Name = eu.lichrysbasil_en_US_public
 euLI.notice = eu.lichrysbasil_en_US_goa.euLI.notice
 euLI.copyright = eu.lichrysbasil_en_US_goa.euLI.copyright
 euLI.title = eu.lichrysbasil_en_US_goa.euLI.title
+euLI.Key01.title = eu.lichrysbasil_en_US_goa.euLI.Key01.title
+euLI.Key02.title = eu.lichrysbasil_en_US_goa.euLI.Key02.title
+euLI.Key03.title = eu.lichrysbasil_en_US_goa.euLI.Key03.title
 euLI.basil.copyright = eu.lichrysbasil_en_US_goadedes.euLI.basil.copyright
 euLI.basil.title = eu.lichrysbasil_en_US_goadedes.euLI.basil.title
+euLI.Key01.basil.title = eu.lichrysbasil_en_US_goa.euLI.Key01.basil.title
+euLI.Key02.basil.title = eu.lichrysbasil_en_US_goa.euLI.Key02.basil.title
+euLI.Key03.basil.title = eu.lichrysbasil_en_US_goa.euLI.Key03.basil.title
 
 // Part 01 Enarxis
 euLI.Key0100.title = eu.lichrysbasil_en_US_goa.euLI.Key0100.title

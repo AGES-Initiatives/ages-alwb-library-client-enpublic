@@ -1,5 +1,7 @@
 A_Resource_Whose_Name = rubrical_en_US_public 
 
+ru.AfterEachPetition = rubrical_en_US_dedes.ru.AfterEachPetition
+
 ru.And = rubrical_en_US_dedes.ru.And
 
 ru.AndTheFollowing = rubrical_en_US_dedes.ru.AndTheFollowing
@@ -73,6 +75,8 @@ ru.InPlaceOfRightChoir = rubrical_en_US_dedes.ru.InPlaceOfRightChoir
 ru.Intoned = rubrical_en_US_dedes.ru.Intoned
 
 ru.LityLordHaveMercy101010103 = rubrical_en_US_dedes.ru.LityLordHaveMercy101010103
+
+ru.LocalChurchApolytikionSung = rubrical_en_US_dedes.ru.LocalChurchApolytikionSung
 
 ru.MenaionSynaxarionNote = rubrical_en_US_dedes.ru.MenaionSynaxarionNote
 

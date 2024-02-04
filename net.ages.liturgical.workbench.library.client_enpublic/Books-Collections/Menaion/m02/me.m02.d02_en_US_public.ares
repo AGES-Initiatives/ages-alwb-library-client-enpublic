@@ -445,14 +445,14 @@ meMA.Ode9C1MTh.text = me.m02.d02_en_US_goadedes.meMA.Ode9C1MTh.text
 
 meMA.Ode9C1H.ode = me.m02.d02_en_US_goadedes.meMA.Ode9C1H.ode
 meMA.Ode9C1H.mode = me.m02.d02_en_US_goadedes.meMA.Ode9C1H.mode
-meMA.Ode9C1H.greekmelody = me.m02.d02_en_US_dedes.meMA.Ode9C1H.greekmelody
+meMA.Ode9C1H.greekmelody = me.m02.d02_en_US_goadedes.meMA.Ode9C1H.greekmelody
 meMA.Ode9C1H.melody = me.m02.d02_en_US_goadedes.meMA.Ode9C1H.melody
 meMA.Ode9C1H.incipit = me.m02.d02_en_US_goadedes.meMA.Ode9C1H.incipit
 meMA.Ode9C1H.text = me.m02.d02_en_US_goadedes.meMA.Ode9C1H.text
 
 meMA.Ode9C11.ode = me.m02.d02_en_US_goadedes.meMA.Ode9C11.ode
 meMA.Ode9C11.mode = me.m02.d02_en_US_goadedes.meMA.Ode9C11.mode
-meMA.Ode9C11.greekmelody = me.m02.d02_en_US_dedes.meMA.Ode9C11.greekmelody
+meMA.Ode9C11.greekmelody = me.m02.d02_en_US_goadedes.meMA.Ode9C11.greekmelody
 meMA.Ode9C11.melody = me.m02.d02_en_US_goadedes.meMA.Ode9C11.melody
 meMA.Ode9C11.incipit = me.m02.d02_en_US_goadedes.meMA.Ode9C11.incipit
 meMA.Ode9C11.text = me.m02.d02_en_US_goadedes.meMA.Ode9C11.text
@@ -469,11 +469,11 @@ meMA.Ode9C13.melody = me.m02.d02_en_US_goadedes.meMA.Ode9C13.melody
 meMA.Ode9C13.incipit = me.m02.d02_en_US_goadedes.meMA.Ode9C13.incipit
 meMA.Ode9C13.text = me.m02.d02_en_US_goadedes.meMA.Ode9C13.text
 
-meMA.Exaposteilarion1.mode = me.m02.d02_en_US_dedes.meMA.Exaposteilarion1.mode
-meMA.Exaposteilarion1.greekmelody = me.m02.d02_en_US_dedes.meMA.Exaposteilarion1.greekmelody
-meMA.Exaposteilarion1.melody = me.m02.d02_en_US_dedes.meMA.Exaposteilarion1.melody
-meMA.Exaposteilarion1.incipit = me.m02.d02_en_US_dedes.meMA.Exaposteilarion1.incipit
-meMA.Exaposteilarion1.text = me.m02.d02_en_US_dedes.meMA.Exaposteilarion1.text
+meMA.Exaposteilarion1.mode = me.m02.d02_en_US_goadedes.meMA.Exaposteilarion1.mode
+meMA.Exaposteilarion1.greekmelody = me.m02.d02_en_US_goadedes.meMA.Exaposteilarion1.greekmelody
+meMA.Exaposteilarion1.melody = me.m02.d02_en_US_goadedes.meMA.Exaposteilarion1.melody
+meMA.Exaposteilarion1.incipit = me.m02.d02_en_US_goadedes.meMA.Exaposteilarion1.incipit
+meMA.Exaposteilarion1.text = me.m02.d02_en_US_goadedes.meMA.Exaposteilarion1.text
 
 meMA.Lauds1.mode = me.m02.d02_en_US_dedes.meMA.Lauds1.mode
 meMA.Lauds1.greekmelody = me.m02.d02_en_US_dedes.meMA.Lauds1.greekmelody
@@ -510,11 +510,11 @@ meLI.Kontakion1.melody = me.m02.d02_en_US_goadedes.meLI.Kontakion1.melody
 meLI.Kontakion1.incipit = me.m02.d02_en_US_goadedes.meLI.Kontakion1.incipit
 meLI.Kontakion1.text = me.m02.d02_en_US_goadedes.meLI.Kontakion1.text
 
-meLI.TheotokosHymn.mode = me.m02.d02_en_US_dedes.meLI.TheotokosHymn.mode
-meLI.TheotokosHymnVerse.incipit = me.m02.d02_en_US_duvall.meLI.TheotokosHymnVerse.incipit
-meLI.TheotokosHymnVerse.text = me.m02.d02_en_US_duvall.meLI.TheotokosHymnVerse.text
-meLI.TheotokosHymn.incipit = me.m02.d02_en_US_dedes.meLI.TheotokosHymn.incipit
-meLI.TheotokosHymn.text = me.m02.d02_en_US_dedes.meLI.TheotokosHymn.text
+meLI.TheotokosHymn.mode = me.m02.d02_en_US_goadedes.meLI.TheotokosHymn.mode
+meLI.TheotokosHymnVerse.incipit = me.m02.d02_en_US_goadedes.meLI.TheotokosHymnVerse.incipit
+meLI.TheotokosHymnVerse.text = me.m02.d02_en_US_goadedes.meLI.TheotokosHymnVerse.text
+meLI.TheotokosHymn.incipit = me.m02.d02_en_US_goadedes.meLI.TheotokosHymn.incipit
+meLI.TheotokosHymn.text = me.m02.d02_en_US_goadedes.meLI.TheotokosHymn.text
 
 meLI.MM.CommunionHymn.text = me.m02.d02_en_US_dedes.meLI.MM.CommunionHymn.text
 
