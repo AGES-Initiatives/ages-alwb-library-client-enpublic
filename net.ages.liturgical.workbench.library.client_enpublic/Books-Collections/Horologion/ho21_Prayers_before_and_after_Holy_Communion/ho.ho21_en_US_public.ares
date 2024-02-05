@@ -383,29 +383,29 @@ hoPrayer.Key101.title = ho.ho21_en_US_unknown.hoPrayer.Key101.title
 hoPrayer.Key101.poet = ho.ho21_en_US_unknown.hoPrayer.Key101.poet
 hoPrayer.Key101.text = ho.ho21_en_US_goa.hoPrayer.Key101.text
 
-hoPrayer.Key111.rubric = ho.ho21_en_US_holycross.hoPrayer.Key111.rubric
-hoPrayer.Key111.title = ho.ho21_en_US_holycross.hoPrayer.Key111.title
-hoPrayer.Key110.text = ho.ho21_en_US_goa.hoPrayer.Key110.text
-hoPrayer.Key111.text = ho.ho21_en_US_goa.hoPrayer.Key111.text
-hoPrayer.Key112.text = ho.ho21_en_US_goa.hoPrayer.Key112.text
-hoPrayer.Key113.text = ho.ho21_en_US_goa.hoPrayer.Key113.text
-hoPrayer.Key114.text = ho.ho21_en_US_goa.hoPrayer.Key114.text
+hoPrayer.Key111.rubric = ho.ho21_en_US_goadedes.hoPrayer.Key111.rubric
+hoPrayer.Key111.title = ho.ho21_en_US_goadedes.hoPrayer.Key111.title
+hoPrayer.Key110.text = ho.ho21_en_US_goadedes.hoPrayer.Key110.text
+hoPrayer.Key111.text = ho.ho21_en_US_goadedes.hoPrayer.Key111.text
+hoPrayer.Key112.text = ho.ho21_en_US_goadedes.hoPrayer.Key112.text
+hoPrayer.Key113.text = ho.ho21_en_US_goadedes.hoPrayer.Key113.text
+hoPrayer.Key114.text = ho.ho21_en_US_goadedes.hoPrayer.Key114.text
 
-hoPrayer.Key121.title = ho.ho21_en_US_unknown.hoPrayer.Key121.title
-hoPrayer.Key121.text = ho.ho21_en_US_goa.hoPrayer.Key121.text
+hoPrayer.Key121.title = ho.ho21_en_US_goadedes.hoPrayer.Key121.title
+hoPrayer.Key121.text = ho.ho21_en_US_goadedes.hoPrayer.Key121.text
 
-hoPrayer.Key131.title = ho.ho21_en_US_unknown.hoPrayer.Key131.title
-hoPrayer.Key130.text = ho.ho21_en_US_goa.hoPrayer.Key130.text
-hoPrayer.Key131.text = ho.ho21_en_US_goa.hoPrayer.Key131.text
-hoPrayer.Key132.text = ho.ho21_en_US_goa.hoPrayer.Key132.text
-hoPrayer.Key133.text = ho.ho21_en_US_goa.hoPrayer.Key133.text
-hoPrayer.Key134.text = ho.ho21_en_US_goa.hoPrayer.Key134.text
+hoPrayer.Key131.title = ho.ho21_en_US_goadedes.hoPrayer.Key131.title
+hoPrayer.Key130.text = ho.ho21_en_US_goadedes.hoPrayer.Key130.text
+hoPrayer.Key131.text = ho.ho21_en_US_goadedes.hoPrayer.Key131.text
+hoPrayer.Key132.text = ho.ho21_en_US_goadedes.hoPrayer.Key132.text
+hoPrayer.Key133.text = ho.ho21_en_US_goadedes.hoPrayer.Key133.text
+hoPrayer.Key134.text = ho.ho21_en_US_goadedes.hoPrayer.Key134.text
 
 hoPrayer.Key141.title = ho.ho21_en_US_unknown.hoPrayer.Key141.title
-hoPrayer.Key141.text = ho.ho21_en_US_goa.hoPrayer.Key141.text
+hoPrayer.Key141.text = ho.ho21_en_US_dedes.hoPrayer.Key141.text
 
 hoPrayer.Key151.title = ho.ho21_en_US_goa.hoPrayer.Key151.title
-hoPrayer.Key151.text = ho.ho21_en_US_goa.hoPrayer.Key151.text
+hoPrayer.Key151.text = ho.ho21_en_US_dedes.hoPrayer.Key151.text
 
 hoPrayer.Key161.title = ho.ho21_en_US_unknown.hoPrayer.Key161.title
 hoPrayer.Key161.text = ho.ho21_en_US_goa.hoPrayer.Key161.text
@@ -413,13 +413,13 @@ hoPrayer.Key161.text = ho.ho21_en_US_goa.hoPrayer.Key161.text
 hoPrayer.Key200.title = ho.ho21_en_US_goa.hoPrayer.Key200.title
 hoPrayer.Key200.title2 = ho.ho21_en_US_goa.hoPrayer.Key200.title2
 
-hoPrayer.Key201.title = ho.ho21_en_US_goa.hoPrayer.Key201.title
-hoPrayer.Key201.text = ho.ho21_en_US_goa.hoPrayer.Key201.text
-hoPrayer.Key201_1.text = ho.ho21_en_US_goa.hoPrayer.Key201_1.text
-hoPrayer.Key201_2.text = ho.ho21_en_US_goa.hoPrayer.Key201_2.text
-hoPrayer.Key201_3.text = ho.ho21_en_US_goa.hoPrayer.Key201_3.text
-hoPrayer.Key201_4.text = ho.ho21_en_US_goa.hoPrayer.Key201_4.text
-hoPrayer.Key201_5.text = ho.ho21_en_US_goa.hoPrayer.Key201_5.text
+hoPrayer.Key201.title = ho.ho21_en_US_goadedes.hoPrayer.Key201.title
+hoPrayer.Key201.text = ho.ho21_en_US_goadedes.hoPrayer.Key201.text
+hoPrayer.Key201_1.text = ho.ho21_en_US_goadedes.hoPrayer.Key201_1.text
+hoPrayer.Key201_2.text = ho.ho21_en_US_goadedes.hoPrayer.Key201_2.text
+hoPrayer.Key201_3.text = ho.ho21_en_US_goadedes.hoPrayer.Key201_3.text
+hoPrayer.Key201_4.text = ho.ho21_en_US_goadedes.hoPrayer.Key201_4.text
+hoPrayer.Key201_5.text = ho.ho21_en_US_goadedes.hoPrayer.Key201_5.text
 
 R04 = ho.ho21_en_US_goa.R04
 
