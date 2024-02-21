@@ -28,7 +28,8 @@ euLI.Key0109.text = eu.lichrysbasil_en_US_goa.euLI.Key0109.text
 euLI.Key0110.text = eu.lichrysbasil_en_US_goa.euLI.Key0110.text
 
 // Part 02 Great Litany - Antiphon 1
-euLI.Key0200.text = eu.lichrysbasil_en_US_goa.euLI.Key0200.text
+euLI.Key0200.title = eu.lichrysbasil_en_US_goa.euLI.Key0200.title
+euLI.MM.Key0200.text = eu.lichrysbasil_en_US_goa.euLI.MM.Key0200.text
 euLI.Key0201.title = eu.lichrysbasil_en_US_goa.euLI.Key0201.title
 euLI.Key0201.text = eu.lichrysbasil_en_US_goa.euLI.Key0201.text
 euLI.Key0202.title = eu.lichrysbasil_en_US_goa.euLI.Key0202.title
