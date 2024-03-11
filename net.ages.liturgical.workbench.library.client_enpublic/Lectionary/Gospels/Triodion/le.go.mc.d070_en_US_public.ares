@@ -8,6 +8,16 @@ lemcVE.Gospel.book_abbr = le.go.mc.d070_en_US_rsv.lemcVE.Gospel.book_abbr
 lemcVE.Gospel.chapverse = le.go.mc.d070_en_US_rsv.lemcVE.Gospel.chapverse
 lemcVE.Gospel.incipit = le.go.mc.d070_en_US_rsv.lemcVE.Gospel.incipit
 lemcVE.Gospel.text = le.go.mc.d070_en_US_rsv.lemcVE.Gospel.text
+lemcVE.Gospel.par1.title = le.go.mc.d070_en_US_rsv.lemcVE.Gospel.par1.title
+lemcVE.Gospel.par1.text = le.go.mc.d070_en_US_rsv.lemcVE.Gospel.par1.text
+lemcVE.Gospel.par2.title = le.go.mc.d070_en_US_rsv.lemcVE.Gospel.par2.title
+lemcVE.Gospel.par2.text = le.go.mc.d070_en_US_rsv.lemcVE.Gospel.par2.text
+lemcVE.Gospel.par3.title = le.go.mc.d070_en_US_rsv.lemcVE.Gospel.par3.title
+lemcVE.Gospel.par3.text = le.go.mc.d070_en_US_rsv.lemcVE.Gospel.par3.text
+lemcVE.Gospel.par4.title = le.go.mc.d070_en_US_rsv.lemcVE.Gospel.par4.title
+lemcVE.Gospel.par4.text = le.go.mc.d070_en_US_rsv.lemcVE.Gospel.par4.text
+lemcVE.Gospel.par5.title = le.go.mc.d070_en_US_rsv.lemcVE.Gospel.par5.title
+lemcVE.Gospel.par5.text = le.go.mc.d070_en_US_rsv.lemcVE.Gospel.par5.text
 
 lemcLI.Gospel.title = le.go.mc.d070_en_US_rsv.lemcLI.Gospel.title
 lemcLI.Gospel.title_abbr = le.go.mc.d070_en_US_rsv.lemcLI.Gospel.title_abbr
@@ -17,4 +27,3 @@ lemcLI.Gospel.book_abbr = le.go.mc.d070_en_US_rsv.lemcLI.Gospel.book_abbr
 lemcLI.Gospel.chapverse = le.go.mc.d070_en_US_rsv.lemcLI.Gospel.chapverse
 lemcLI.Gospel.incipit = le.go.mc.d070_en_US_rsv.lemcLI.Gospel.incipit
 lemcLI.Gospel.text = le.go.mc.d070_en_US_rsv.lemcLI.Gospel.text
-
